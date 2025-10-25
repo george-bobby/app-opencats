@@ -176,7 +176,7 @@ def clean_event_data(event: dict[str, Any]) -> dict[str, Any]:
     return cleaned
 
 
-async def events(n_events: int = None) -> dict[str, Any]:
+async def events(n_events: int | None = None) -> dict[str, Any]:
     """Generate events data."""
     target_count = n_events or DEFAULT_EVENTS_COUNT
     logger.info(f"📅 Starting event generation - Target: {target_count}")

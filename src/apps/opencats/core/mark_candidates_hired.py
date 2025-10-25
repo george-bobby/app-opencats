@@ -8,7 +8,7 @@ from apps.opencats.utils.api_utils import OpenCATSAPIUtils
 from common.logger import logger
 
 
-async def mark_candidates_hired(candidate_ids: list[int] = None, job_order_id: int = None) -> dict[str, Any]:
+async def mark_candidates_hired(candidate_ids: list[int] | None = None, job_order_id: int | None = None) -> dict[str, Any]:
     """Mark candidates as hired in OpenCATS.
 
     Args:

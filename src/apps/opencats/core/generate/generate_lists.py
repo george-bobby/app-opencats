@@ -187,7 +187,7 @@ def clean_list_data(list_item: dict[str, Any]) -> dict[str, Any]:
     return cleaned
 
 
-async def lists(n_lists: int = None) -> dict[str, Any]:
+async def lists(n_lists: int | None = None) -> dict[str, Any]:
     """Generate lists data."""
     target_count = n_lists or DEFAULT_LISTS_COUNT
     logger.info(f"📋 Starting list generation - Target: {target_count}")

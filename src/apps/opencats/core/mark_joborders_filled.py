@@ -8,7 +8,7 @@ from apps.opencats.utils.api_utils import OpenCATSAPIUtils
 from common.logger import logger
 
 
-async def mark_joborders_filled(job_order_ids: list[int] = None) -> dict[str, Any]:
+async def mark_joborders_filled(job_order_ids: list[int] | None = None) -> dict[str, Any]:
     """Mark job orders as filled in OpenCATS.
 
     Args:

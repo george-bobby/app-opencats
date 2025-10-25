@@ -169,11 +169,7 @@ def validate_contact_data(contact: dict[str, Any]) -> bool:
     """Validate contact data structure."""
     required_fields = ["companyID", "firstName", "lastName", "title"]
 
-    for field in required_fields:
-        if not contact.get(field):
-            return False
-
-    return True
+    return all(contact.get(field) for field in required_fields)
 
 
 def clean_contact_data(contact: dict[str, Any]) -> dict[str, Any]:
@@ -203,7 +199,7 @@ def clean_contact_data(contact: dict[str, Any]) -> dict[str, Any]:
     return cleaned
 
 
-async def contacts(n_contacts: int = None) -> dict[str, Any]:
+async def contacts(n_contacts: int | None = None) -> dict[str, Any]:
     """Generate contacts data."""
     target_count = n_contacts or DEFAULT_CONTACTS_COUNT
     logger.info(f"👥 Starting contact generation - Target: {target_count}")

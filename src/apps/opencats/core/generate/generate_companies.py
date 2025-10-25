@@ -117,11 +117,7 @@ def validate_company_data(company: dict[str, Any]) -> bool:
     """Validate company data structure."""
     required_fields = ["name", "city", "state"]
 
-    for field in required_fields:
-        if not company.get(field):
-            return False
-
-    return True
+    return all(company.get(field) for field in required_fields)
 
 
 def clean_company_data(company: dict[str, Any]) -> dict[str, Any]:
@@ -175,7 +171,7 @@ def format_url(url: str) -> str:
     return url
 
 
-async def companies(n_companies: int = None) -> dict[str, Any]:
+async def companies(n_companies: int | None = None) -> dict[str, Any]:
     """Generate companies data."""
     target_count = n_companies or DEFAULT_COMPANIES_COUNT
     logger.info(f"🏢 Starting company generation - Target: {target_count}")

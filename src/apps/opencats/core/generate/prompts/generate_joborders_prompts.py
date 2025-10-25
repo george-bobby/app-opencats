@@ -17,7 +17,9 @@ Return ONLY a JSON array with this exact structure:
     "title": "Senior Software Engineer",
     "company_id": 1,
     "contact_id": 1,
-    "description": "We are seeking a Senior Software Engineer to join our dynamic team. The ideal candidate will have 5+ years of experience in full-stack development with expertise in Python, JavaScript, and cloud technologies.",
+    "description": ("We are seeking a Senior Software Engineer to join our dynamic team. "
+                   "The ideal candidate will have 5+ years of experience in "
+                   "full-stack development with expertise in Python, JavaScript, and cloud technologies."),
     "notes": "Remote work available, competitive benefits package",
     "type": "H",
     "duration": "Permanent",

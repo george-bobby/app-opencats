@@ -131,11 +131,7 @@ def validate_candidate_data(candidate: dict[str, Any]) -> bool:
     """Validate candidate data structure."""
     required_fields = ["firstName", "lastName"]
 
-    for field in required_fields:
-        if not candidate.get(field):
-            return False
-
-    return True
+    return all(candidate.get(field) for field in required_fields)
 
 
 def clean_candidate_data(candidate: dict[str, Any]) -> dict[str, Any]:
@@ -206,7 +202,7 @@ def validate_eeo_veteran_type(value: Any) -> int:
     return 0
 
 
-async def candidates(n_candidates: int = None) -> dict[str, Any]:
+async def candidates(n_candidates: int | None = None) -> dict[str, Any]:
     """Generate candidates data."""
     target_count = n_candidates or DEFAULT_CANDIDATES_COUNT
     logger.info(f"👨‍💼 Starting candidate generation - Target: {target_count}")

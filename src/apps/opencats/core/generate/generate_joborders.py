@@ -194,10 +194,7 @@ def validate_joborder_data(joborder: dict[str, Any]) -> bool:
 
     # Validate job type
     valid_types = [jt.value for jt in OpenCATSJobType]
-    if joborder.get("type") not in valid_types:
-        return False
-
-    return True
+    return joborder.get("type") in valid_types
 
 
 def clean_joborder_data(joborder: dict[str, Any]) -> dict[str, Any]:
@@ -239,7 +236,7 @@ def clean_joborder_data(joborder: dict[str, Any]) -> dict[str, Any]:
     return cleaned
 
 
-async def joborders(n_joborders: int = None) -> dict[str, Any]:
+async def joborders(n_joborders: int | None = None) -> dict[str, Any]:
     """Generate job orders data."""
     target_count = n_joborders or DEFAULT_JOBORDERS_COUNT
     logger.info(f"💼 Starting job order generation - Target: {target_count}")

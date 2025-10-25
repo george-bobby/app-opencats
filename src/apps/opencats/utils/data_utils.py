@@ -11,7 +11,7 @@ def load_json_file(filepath: Path) -> list[dict[str, Any]]:
     """Load data from a JSON file."""
     try:
         if filepath.exists():
-            with open(filepath, encoding="utf-8") as f:
+            with filepath.open(encoding="utf-8") as f:
                 data = json.load(f)
                 if isinstance(data, list):
                     return data
@@ -34,7 +34,7 @@ def save_json_file(filepath: Path, data: list[dict[str, Any]]) -> bool:
         # Ensure directory exists
         filepath.parent.mkdir(parents=True, exist_ok=True)
 
-        with open(filepath, "w", encoding="utf-8") as f:
+        with filepath.open("w", encoding="utf-8") as f:
             json.dump(data, f, indent=2, ensure_ascii=False)
 
         logger.info(f"✅ Saved {len(data)} records to {filepath}")
