@@ -46,8 +46,8 @@ python cli.py opencats down    # Stop the container
 
 1. Open the specified URL `localhost/`
 2. Credentials:
-   a. **Email**: <admin@example.com>
-   b. **Password**: supersecret
+   a. **Email**: <john99@mycompany.com>
+   b. **Password**: john99
 
 ## Contributing
 
