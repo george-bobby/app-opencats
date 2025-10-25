@@ -1,0 +1,2254 @@
+{
+  "table_name": "Project Comments",
+  "parent_workspace_name": "Client Projects",
+  "parent_base_name": "Client Projects",
+  "records": [
+    {
+      "fields": {
+        "Comment": "The AI model is showing promising results, but we need more testing on different content types.",
+        "Date": "2025-01-15",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 24,
+        "Pinned": "No",
+        "Tags": [
+          "AI",
+          "Testing",
+          "Content"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Client is happy with the SEO improvements so far, let's keep pushing for better organic ranking.",
+        "Date": "2025-05-20",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 11,
+        "Pinned": "No",
+        "Tags": [
+          "SEO",
+          "Client Feedback"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "The social media campaign's engagement rate dropped last week, consider revising the ad copy.",
+        "Date": "2025-06-10",
+        "Visibility": "Internal",
+        "Comment Type": "Blocker",
+        "Edited": "Yes",
+        "Reaction Count": 35,
+        "Pinned": "Yes",
+        "Tags": [
+          "Social Media",
+          "Engagement",
+          "Urgent"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Automation workflows need a review after recent software update caused some delays.",
+        "Date": "2025-03-05",
+        "Visibility": "Internal",
+        "Comment Type": "Blocker",
+        "Edited": "No",
+        "Reaction Count": 9,
+        "Pinned": "No",
+        "Tags": [
+          "Automation",
+          "Workflow",
+          "Update"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Market research insights are aligning well with our AI predictions, good job team!",
+        "Date": "2025-04-22",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 40,
+        "Pinned": "No",
+        "Tags": [
+          "Market Research",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Website redesign feedback: the new layout feels more modern, but navigation needs simplification.",
+        "Date": "2025-02-18",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "Yes",
+        "Reaction Count": 18,
+        "Pinned": "No",
+        "Tags": [
+          "Website",
+          "UX"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Client onboarding process documentation has been updated with AI integration steps.",
+        "Date": "2024-12-30",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 5,
+        "Pinned": "No",
+        "Tags": [
+          "Onboarding",
+          "Documentation"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Content review process delays are affecting timelines; let's consider AI-based content scoring.",
+        "Date": "2025-06-01",
+        "Visibility": "Internal",
+        "Comment Type": "Blocker",
+        "Edited": "No",
+        "Reaction Count": 27,
+        "Pinned": "Yes",
+        "Tags": [
+          "Content Review",
+          "AI",
+          "Delays"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Analytics dashboard now includes predictive analytics module, awaiting client approval.",
+        "Date": "2025-05-02",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 33,
+        "Pinned": "No",
+        "Tags": [
+          "Analytics",
+          "Dashboard"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Client satisfaction survey indicates high appreciation for personalized marketing strategies.",
+        "Date": "2025-03-28",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 22,
+        "Pinned": "No",
+        "Tags": [
+          "Survey",
+          "Client Feedback"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Video marketing initiative shows increased video views by 30% after AI-driven targeting.",
+        "Date": "2025-04-15",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 29,
+        "Pinned": "No",
+        "Tags": [
+          "Video",
+          "Marketing",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Feedback mechanism bug found; some comments not being saved properly, needs urgent fixing.",
+        "Date": "2025-06-20",
+        "Visibility": "Internal",
+        "Comment Type": "Blocker",
+        "Edited": "Yes",
+        "Reaction Count": 13,
+        "Pinned": "Yes",
+        "Tags": [
+          "Bug",
+          "Feedback",
+          "Urgent"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Brand awareness campaign strategies have been revised for better social media reach.",
+        "Date": "2025-01-10",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 10,
+        "Pinned": "No",
+        "Tags": [
+          "Branding",
+          "Campaign"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Client retention strategy presentation scheduled for next week, finalizing analytics data.",
+        "Date": "2025-02-25",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 7,
+        "Pinned": "No",
+        "Tags": [
+          "Client Retention",
+          "Presentation"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "AI training program feedback: need more practical examples in the next session.",
+        "Date": "2025-03-15",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 14,
+        "Pinned": "No",
+        "Tags": [
+          "Training",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Webinar series content updated to include latest AI marketing trends.",
+        "Date": "2025-04-05",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 21,
+        "Pinned": "No",
+        "Tags": [
+          "Webinar",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Social media management tool integration is complete; initial results look promising.",
+        "Date": "2025-05-18",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 17,
+        "Pinned": "No",
+        "Tags": [
+          "Social Media",
+          "Tool"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "AI chatbot development delayed due to recent scope changes; need client input.",
+        "Date": "2025-06-12",
+        "Visibility": "Internal",
+        "Comment Type": "Blocker",
+        "Edited": "Yes",
+        "Reaction Count": 16,
+        "Pinned": "Yes",
+        "Tags": [
+          "AI",
+          "Chatbot",
+          "Delay"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Sustainability campaign ideas are being drafted with AI-generated content suggestions.",
+        "Date": "2025-02-14",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 8,
+        "Pinned": "No",
+        "Tags": [
+          "Sustainability",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Content creation tool AI integration is improving the efficiency by 25%.",
+        "Date": "2025-01-27",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 20,
+        "Pinned": "No",
+        "Tags": [
+          "Content",
+          "AI",
+          "Tool"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Data privacy initiative updated to comply with latest regulations.",
+        "Date": "2025-03-22",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "Yes",
+        "Reaction Count": 12,
+        "Pinned": "No",
+        "Tags": [
+          "Privacy",
+          "Compliance"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Lead generation tactics revised based on AI interaction data analysis.",
+        "Date": "2025-04-30",
+        "Visibility": "Client",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 19,
+        "Pinned": "No",
+        "Tags": [
+          "Lead Generation",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Client referral program launch date confirmed for next quarter.",
+        "Date": "2025-06-05",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 6,
+        "Pinned": "No",
+        "Tags": [
+          "Referral",
+          "Client"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Community engagement program feedback: more personalized interactions suggested.",
+        "Date": "2025-05-09",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 15,
+        "Pinned": "No",
+        "Tags": [
+          "Community",
+          "Engagement"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Automated reporting tool is now live with AI-generated summary insights.",
+        "Date": "2025-03-01",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 25,
+        "Pinned": "No",
+        "Tags": [
+          "Reporting",
+          "Automation"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Customer experience optimization project is on track with AI assistance reducing response times.",
+        "Date": "2025-01-19",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 18,
+        "Pinned": "No",
+        "Tags": [
+          "Customer Experience",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Influencer collaboration program received positive early feedback from participants.",
+        "Date": "2025-04-11",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 20,
+        "Pinned": "No",
+        "Tags": [
+          "Influencer",
+          "Collaboration"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Crisis management plan updated with new AI risk assessment tools.",
+        "Date": "2025-02-28",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "Yes",
+        "Reaction Count": 7,
+        "Pinned": "No",
+        "Tags": [
+          "Crisis Management",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Diversity and inclusion initiative gaining momentum, positive team feedback.",
+        "Date": "2025-05-21",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 13,
+        "Pinned": "No",
+        "Tags": [
+          "Diversity",
+          "Inclusion"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Marketing automation system upgrade improved workflow efficiency significantly.",
+        "Date": "2025-03-17",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 22,
+        "Pinned": "No",
+        "Tags": [
+          "Marketing Automation",
+          "Upgrade"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Client workshops scheduled monthly to enhance AI tool adoption.",
+        "Date": "2025-06-14",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 11,
+        "Pinned": "No",
+        "Tags": [
+          "Workshops",
+          "Client"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "AI ethics policy reviewed; added clauses for data transparency.",
+        "Date": "2025-01-08",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "Yes",
+        "Reaction Count": 9,
+        "Pinned": "No",
+        "Tags": [
+          "AI Ethics",
+          "Policy"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Performance review system feedback: integrate AI-based performance metrics.",
+        "Date": "2025-05-06",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 14,
+        "Pinned": "No",
+        "Tags": [
+          "Performance Review",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Email list segmentation improved with AI-driven targeting algorithms.",
+        "Date": "2025-04-01",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 17,
+        "Pinned": "No",
+        "Tags": [
+          "Email",
+          "Segmentation",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "AI-powered analytics dashboard is providing deeper insights than before.",
+        "Date": "2025-02-24",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 21,
+        "Pinned": "No",
+        "Tags": [
+          "Analytics",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Chatbot integration trials completed; client feedback pending.",
+        "Date": "2025-06-07",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 8,
+        "Pinned": "No",
+        "Tags": [
+          "Chatbot",
+          "Integration"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "AI-driven market trends report generated for client review.",
+        "Date": "2025-03-30",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 19,
+        "Pinned": "No",
+        "Tags": [
+          "Market Trends",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Lead scoring system update improved accuracy by 15%.",
+        "Date": "2025-05-12",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 16,
+        "Pinned": "No",
+        "Tags": [
+          "Lead Scoring",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Client loyalty program ideas incorporating AI personalization features.",
+        "Date": "2025-04-18",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 13,
+        "Pinned": "No",
+        "Tags": [
+          "Loyalty Program",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Ad campaign analysis shows increased ROI since AI optimization.",
+        "Date": "2025-02-12",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 23,
+        "Pinned": "No",
+        "Tags": [
+          "Ad Campaign",
+          "ROI",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Digital marketing bootcamp materials updated with AI marketing modules.",
+        "Date": "2025-03-25",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 10,
+        "Pinned": "No",
+        "Tags": [
+          "Training",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "AI in content curation is enabling faster turnaround times.",
+        "Date": "2025-01-20",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 18,
+        "Pinned": "No",
+        "Tags": [
+          "Content",
+          "Curation",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Marketing strategy review meeting scheduled next week to discuss AI integration.",
+        "Date": "2025-05-28",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 7,
+        "Pinned": "No",
+        "Tags": [
+          "Strategy",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Cohort analysis tool feedback: UI could be more intuitive.",
+        "Date": "2025-04-07",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 12,
+        "Pinned": "No",
+        "Tags": [
+          "Cohort Analysis",
+          "UI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Virtual reality marketing pilot launched with positive user reactions.",
+        "Date": "2025-06-02",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 15,
+        "Pinned": "No",
+        "Tags": [
+          "VR",
+          "Marketing"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Content distribution strategy refined based on AI audience segmentation.",
+        "Date": "2025-03-12",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 14,
+        "Pinned": "No",
+        "Tags": [
+          "Content Distribution",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "AI-enhanced PPC campaigns delivering better click-through rates.",
+        "Date": "2025-05-25",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 28,
+        "Pinned": "No",
+        "Tags": [
+          "PPC",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Customer journey mapping updated with AI behavior predictions.",
+        "Date": "2025-04-16",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 20,
+        "Pinned": "No",
+        "Tags": [
+          "Customer Journey",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Brand revitalization project progressing well with AI-powered creative ideas.",
+        "Date": "2025-06-19",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 24,
+        "Pinned": "No",
+        "Tags": [
+          "Branding",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Mobile marketing strategy adjusted to include AI-driven personalization.",
+        "Date": "2025-02-05",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 13,
+        "Pinned": "No",
+        "Tags": [
+          "Mobile Marketing",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Text analytics for marketing project shows improved sentiment detection.",
+        "Date": "2025-03-18",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 17,
+        "Pinned": "No",
+        "Tags": [
+          "Text Analytics",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Omni-channel marketing project initial results surpass expectations.",
+        "Date": "2025-01-29",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 21,
+        "Pinned": "No",
+        "Tags": [
+          "Omni-channel",
+          "Marketing"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Test campaign for new service reveals key audience preferences.",
+        "Date": "2025-04-28",
+        "Visibility": "Client",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 16,
+        "Pinned": "No",
+        "Tags": [
+          "Test Campaign",
+          "Audience"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Predictive analytics implementation phase 1 completed successfully.",
+        "Date": "2025-05-15",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 19,
+        "Pinned": "No",
+        "Tags": [
+          "Predictive Analytics"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "User experience research shows AI features are well received by beta users.",
+        "Date": "2025-06-09",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 22,
+        "Pinned": "No",
+        "Tags": [
+          "UX Research",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Marketing performance review highlighted areas for AI-driven improvement.",
+        "Date": "2025-02-22",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 15,
+        "Pinned": "No",
+        "Tags": [
+          "Performance Review",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "AI-driven brand monitoring is providing real-time insights.",
+        "Date": "2025-03-14",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 20,
+        "Pinned": "No",
+        "Tags": [
+          "Brand Monitoring",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Customer feedback tool updated with AI sentiment analysis capabilities.",
+        "Date": "2025-04-26",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 18,
+        "Pinned": "No",
+        "Tags": [
+          "Feedback Tool",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "AI marketing automation workflows reduced campaign setup time.",
+        "Date": "2025-05-23",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 21,
+        "Pinned": "No",
+        "Tags": [
+          "Marketing Automation",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "SEO optimization project ongoing; AI tools helping identify key opportunities.",
+        "Date": "2025-03-09",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 12,
+        "Pinned": "No",
+        "Tags": [
+          "SEO",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Social media strategy meeting focused on AI content scheduling tools.",
+        "Date": "2025-06-17",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 9,
+        "Pinned": "No",
+        "Tags": [
+          "Social Media",
+          "Strategy",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Email campaign redesign includes AI-driven subject line testing.",
+        "Date": "2025-02-10",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 14,
+        "Pinned": "No",
+        "Tags": [
+          "Email Campaign",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Website redesign efforts emphasize AI personalization features.",
+        "Date": "2025-04-03",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 16,
+        "Pinned": "No",
+        "Tags": [
+          "Website",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Client onboarding process documentation enhanced with AI tutorials.",
+        "Date": "2025-03-26",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 7,
+        "Pinned": "No",
+        "Tags": [
+          "Onboarding",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Market research for new AI tool indicates strong market demand.",
+        "Date": "2025-05-29",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 25,
+        "Pinned": "No",
+        "Tags": [
+          "Market Research",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Influencer collaboration campaign showing increased brand mentions.",
+        "Date": "2025-01-31",
+        "Visibility": "Client",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 19,
+        "Pinned": "No",
+        "Tags": [
+          "Influencer",
+          "Campaign"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Analytics dashboard development progressing with AI data visualizations.",
+        "Date": "2025-06-13",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 17,
+        "Pinned": "No",
+        "Tags": [
+          "Analytics",
+          "Dashboard",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Branding guidelines update includes AI-generated logo concepts.",
+        "Date": "2025-02-06",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 12,
+        "Pinned": "No",
+        "Tags": [
+          "Branding",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Local SEO campaign is utilizing AI keyword research tools.",
+        "Date": "2025-04-20",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 14,
+        "Pinned": "No",
+        "Tags": [
+          "Local SEO",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "PPC advertising revamp using AI bid optimization shows promising early results.",
+        "Date": "2025-03-03",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 15,
+        "Pinned": "No",
+        "Tags": [
+          "PPC",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Content marketing strategy evolving with AI-driven content gap analysis.",
+        "Date": "2025-05-08",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 18,
+        "Pinned": "No",
+        "Tags": [
+          "Content Marketing",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "AI chatbot integration tests reveal some conversational bugs needing fixes.",
+        "Date": "2025-06-04",
+        "Visibility": "Internal",
+        "Comment Type": "Blocker",
+        "Edited": "Yes",
+        "Reaction Count": 10,
+        "Pinned": "Yes",
+        "Tags": [
+          "Chatbot",
+          "Bug"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Video marketing campaign analytics improved with AI viewer segmentation.",
+        "Date": "2025-02-19",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 22,
+        "Pinned": "No",
+        "Tags": [
+          "Video Marketing",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Website speed optimization achieved 35% faster load times with AI tools.",
+        "Date": "2025-04-12",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 20,
+        "Pinned": "No",
+        "Tags": [
+          "Website",
+          "Speed",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Client feedback survey results show positive reception of AI personalization.",
+        "Date": "2025-03-31",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 19,
+        "Pinned": "No",
+        "Tags": [
+          "Survey",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Mobile marketing initiative leveraging AI targeting has increased conversions.",
+        "Date": "2025-05-26",
+        "Visibility": "Client",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 24,
+        "Pinned": "No",
+        "Tags": [
+          "Mobile Marketing",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Corporate identity revamp includes AI-generated brand assets.",
+        "Date": "2025-06-15",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 13,
+        "Pinned": "No",
+        "Tags": [
+          "Branding",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Referral program launch preparations include AI-driven incentive analytics.",
+        "Date": "2025-01-12",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 11,
+        "Pinned": "No",
+        "Tags": [
+          "Referral",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Public relations strategy updated with AI sentiment monitoring.",
+        "Date": "2025-03-20",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 9,
+        "Pinned": "No",
+        "Tags": [
+          "PR",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Lead generation campaign improvements based on AI lead scoring.",
+        "Date": "2025-04-27",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 16,
+        "Pinned": "No",
+        "Tags": [
+          "Lead Generation",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Social media audit identified key AI tools to improve content scheduling.",
+        "Date": "2025-02-07",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 14,
+        "Pinned": "No",
+        "Tags": [
+          "Social Media",
+          "Audit",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Webinar series production includes AI-generated transcripts for accessibility.",
+        "Date": "2025-06-11",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 18,
+        "Pinned": "No",
+        "Tags": [
+          "Webinar",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Influencer analytics tool integration testing completed, results are encouraging.",
+        "Date": "2025-05-04",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 20,
+        "Pinned": "No",
+        "Tags": [
+          "Influencer",
+          "Analytics"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Content calendar development accelerated with AI scheduling suggestions.",
+        "Date": "2025-01-25",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 15,
+        "Pinned": "No",
+        "Tags": [
+          "Content Calendar",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "E-commerce strategy implementation includes AI-based product recommendations.",
+        "Date": "2025-03-07",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 17,
+        "Pinned": "No",
+        "Tags": [
+          "E-commerce",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Data analytics training updated to cover AI-powered tools.",
+        "Date": "2025-04-23",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 10,
+        "Pinned": "No",
+        "Tags": [
+          "Training",
+          "Analytics",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Lead nurturing campaign success rate improved with AI-driven personalization.",
+        "Date": "2025-05-19",
+        "Visibility": "Client",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 22,
+        "Pinned": "No",
+        "Tags": [
+          "Lead Nurturing",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "CRM system integration with AI lead scoring underway.",
+        "Date": "2025-06-16",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 9,
+        "Pinned": "No",
+        "Tags": [
+          "CRM",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Digital marketing workshops include modules on AI best practices.",
+        "Date": "2025-01-14",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 11,
+        "Pinned": "No",
+        "Tags": [
+          "Workshops",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Client portal development enhanced with AI chatbot support.",
+        "Date": "2025-03-19",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 12,
+        "Pinned": "No",
+        "Tags": [
+          "Client Portal",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "AI content generation tool is reducing content turnaround by half.",
+        "Date": "2025-02-26",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 24,
+        "Pinned": "No",
+        "Tags": [
+          "Content",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Brand awareness campaign data indicates AI-targeted ads have higher engagement.",
+        "Date": "2025-04-29",
+        "Visibility": "Client",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 29,
+        "Pinned": "No",
+        "Tags": [
+          "Brand Awareness",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Client retention program adjusted based on AI churn prediction models.",
+        "Date": "2025-05-21",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 18,
+        "Pinned": "No",
+        "Tags": [
+          "Client Retention",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "AI-driven market analysis highlights emerging trends for next quarter.",
+        "Date": "2025-06-18",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 21,
+        "Pinned": "No",
+        "Tags": [
+          "Market Analysis",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Event marketing strategy is incorporating AI for better attendee targeting.",
+        "Date": "2025-03-02",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 14,
+        "Pinned": "No",
+        "Tags": [
+          "Event Marketing",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Blog management system updated with AI content recommendations.",
+        "Date": "2025-01-21",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 16,
+        "Pinned": "No",
+        "Tags": [
+          "Blog",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "AI marketing strategy workshop scheduled for next month.",
+        "Date": "2025-04-13",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 10,
+        "Pinned": "No",
+        "Tags": [
+          "Strategy",
+          "Workshop",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Website redesign incorporating AI-powered personalization features.",
+        "Date": "2025-05-31",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 18,
+        "Pinned": "No",
+        "Tags": [
+          "Website",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Social media campaign performance showing steady improvement with AI targeting.",
+        "Date": "2025-06-21",
+        "Visibility": "Client",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 23,
+        "Pinned": "No",
+        "Tags": [
+          "Social Media",
+          "Campaign",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Monthly retainer clients are requesting more AI-driven marketing insights.",
+        "Date": "2025-02-16",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 15,
+        "Pinned": "No",
+        "Tags": [
+          "Clients",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "SEO optimization using AI keyword analysis showing good progress.",
+        "Date": "2025-03-23",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 19,
+        "Pinned": "No",
+        "Tags": [
+          "SEO",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Market research team leveraging AI to analyze competitor strategies.",
+        "Date": "2025-05-27",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 13,
+        "Pinned": "No",
+        "Tags": [
+          "Market Research",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Email marketing automation workflows updated with AI segmentation.",
+        "Date": "2025-06-08",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 20,
+        "Pinned": "No",
+        "Tags": [
+          "Email",
+          "Automation",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Content creation team adopting AI tools for faster article drafts.",
+        "Date": "2025-01-30",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 22,
+        "Pinned": "No",
+        "Tags": [
+          "Content Creation",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Ad campaign launch successful with AI-optimized audience targeting.",
+        "Date": "2025-04-25",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 17,
+        "Pinned": "No",
+        "Tags": [
+          "Ad Campaign",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Video marketing initiative incorporating AI-generated subtitles for accessibility.",
+        "Date": "2025-05-16",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 15,
+        "Pinned": "No",
+        "Tags": [
+          "Video Marketing",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Client onboarding process streamlined by AI-powered task automation.",
+        "Date": "2025-03-13",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 10,
+        "Pinned": "No",
+        "Tags": [
+          "Onboarding",
+          "Automation",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Analytics dashboard development includes AI-generated performance insights.",
+        "Date": "2025-06-06",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 23,
+        "Pinned": "No",
+        "Tags": [
+          "Analytics",
+          "Dashboard",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Influencer partnership program boosted by AI analysis of social reach.",
+        "Date": "2025-02-13",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 18,
+        "Pinned": "No",
+        "Tags": [
+          "Influencer",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "PPC campaign optimization shows 20% increase in conversions with AI.",
+        "Date": "2025-04-10",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 27,
+        "Pinned": "No",
+        "Tags": [
+          "PPC",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Market penetration strategy adjusted following AI-driven competitor analysis.",
+        "Date": "2025-05-11",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 21,
+        "Pinned": "No",
+        "Tags": [
+          "Market Penetration",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Brand awareness campaign data suggests AI-created content resonates well.",
+        "Date": "2025-03-04",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 19,
+        "Pinned": "No",
+        "Tags": [
+          "Brand Awareness",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Conversion rate optimization efforts enhanced by AI heatmap tracking.",
+        "Date": "2025-06-22",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 25,
+        "Pinned": "No",
+        "Tags": [
+          "Conversion",
+          "Optimization",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Customer feedback analysis automated using AI sentiment tools.",
+        "Date": "2025-05-01",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 16,
+        "Pinned": "No",
+        "Tags": [
+          "Customer Feedback",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "AI chatbot development progressing; conversational flows improved.",
+        "Date": "2025-04-14",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 22,
+        "Pinned": "No",
+        "Tags": [
+          "Chatbot",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Crisis management plan tested with AI-based risk simulations.",
+        "Date": "2025-02-04",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 12,
+        "Pinned": "No",
+        "Tags": [
+          "Crisis Management",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Lead generation campaign boosted by AI-based audience segmentation.",
+        "Date": "2025-01-18",
+        "Visibility": "Client",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 18,
+        "Pinned": "No",
+        "Tags": [
+          "Lead Generation",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Data analytics training now includes AI tool proficiency modules.",
+        "Date": "2025-03-29",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 14,
+        "Pinned": "No",
+        "Tags": [
+          "Training",
+          "Data Analytics",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Referral program launch promoted with AI-driven personalized offers.",
+        "Date": "2025-05-04",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 20,
+        "Pinned": "No",
+        "Tags": [
+          "Referral Program",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "AI marketing strategy workshop attendee feedback is very positive.",
+        "Date": "2025-06-24",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 13,
+        "Pinned": "No",
+        "Tags": [
+          "Workshop",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Website optimization project using AI to improve SEO and user experience.",
+        "Date": "2025-04-08",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 21,
+        "Pinned": "No",
+        "Tags": [
+          "Website",
+          "Optimization",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Social media campaign success attributed partly to AI content scheduling.",
+        "Date": "2025-02-27",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 19,
+        "Pinned": "No",
+        "Tags": [
+          "Social Media",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "AI chatbot development milestone reached; ready for initial client demo.",
+        "Date": "2025-01-22",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 17,
+        "Pinned": "No",
+        "Tags": [
+          "Chatbot",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Email marketing automation showing 15% uplift in open rates using AI.",
+        "Date": "2025-05-17",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 20,
+        "Pinned": "No",
+        "Tags": [
+          "Email",
+          "Automation",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Market research insights refined with AI pattern recognition analysis.",
+        "Date": "2025-03-06",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 16,
+        "Pinned": "No",
+        "Tags": [
+          "Market Research",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Brand revitalization initiative leveraging AI-driven design suggestions.",
+        "Date": "2025-06-20",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 24,
+        "Pinned": "No",
+        "Tags": [
+          "Branding",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Video marketing series production enhanced by AI editing tools.",
+        "Date": "2025-02-11",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 13,
+        "Pinned": "No",
+        "Tags": [
+          "Video",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Content creation team reports higher output with AI assistance.",
+        "Date": "2025-04-21",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 22,
+        "Pinned": "No",
+        "Tags": [
+          "Content Creation",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Client retention strategy updated with AI churn prediction insights.",
+        "Date": "2025-05-30",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 19,
+        "Pinned": "No",
+        "Tags": [
+          "Retention",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Digital advertising experiments show AI-based budget allocation improves ROI.",
+        "Date": "2025-03-16",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 25,
+        "Pinned": "No",
+        "Tags": [
+          "Advertising",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "E-commerce integration project includes AI product recommendation engine.",
+        "Date": "2025-01-28",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 15,
+        "Pinned": "No",
+        "Tags": [
+          "E-commerce",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "SEO audit results improved after applying AI keyword suggestions.",
+        "Date": "2025-04-04",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 18,
+        "Pinned": "No",
+        "Tags": [
+          "SEO",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Influencer collaboration efforts optimized with AI audience insights.",
+        "Date": "2025-05-13",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 21,
+        "Pinned": "No",
+        "Tags": [
+          "Influencer",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Data analysis for marketing enhanced by AI-powered tools.",
+        "Date": "2025-06-23",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 20,
+        "Pinned": "No",
+        "Tags": [
+          "Data Analysis",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "CRM system implementation now includes AI lead scoring features.",
+        "Date": "2025-02-09",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 14,
+        "Pinned": "No",
+        "Tags": [
+          "CRM",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Webinar series topics updated to cover AI marketing trends and tools.",
+        "Date": "2025-03-27",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 17,
+        "Pinned": "No",
+        "Tags": [
+          "Webinar",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Graphic design projects utilizing AI to generate creative concepts.",
+        "Date": "2025-04-24",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 16,
+        "Pinned": "No",
+        "Tags": [
+          "Design",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Annual marketing review highlights AI as a key driver for growth.",
+        "Date": "2025-05-20",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 19,
+        "Pinned": "No",
+        "Tags": [
+          "Marketing Review",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Lead generation campaign feedback indicates AI tools improved targeting efficiency.",
+        "Date": "2025-06-25",
+        "Visibility": "Client",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 22,
+        "Pinned": "No",
+        "Tags": [
+          "Lead Generation",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Crisis management plan review incorporates AI risk detection recommendations.",
+        "Date": "2025-01-13",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 10,
+        "Pinned": "No",
+        "Tags": [
+          "Crisis Management",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "User experience research shows AI personalization increases user satisfaction.",
+        "Date": "2025-03-21",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 23,
+        "Pinned": "No",
+        "Tags": [
+          "UX Research",
+          "AI"
+        ]
+      }
+    },
+    {
+      "fields": {
+        "Comment": "The AI Content Strategy project is progressing well, but we need to refine the tone guidelines for better client alignment.",
+        "Date": "2025-03-14",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 12,
+        "Pinned": "No",
+        "Tags": []
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Received feedback from the client regarding SEO Optimization; keywords need to be adjusted to target local markets.",
+        "Date": "2025-01-22",
+        "Visibility": "Client",
+        "Comment Type": "Feedback",
+        "Edited": "Yes",
+        "Reaction Count": 35,
+        "Pinned": "Yes",
+        "Tags": []
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Social Media Campaign task: The influencer collaboration is delayed, causing a blocker for the upcoming posts.",
+        "Date": "2025-04-09",
+        "Visibility": "Internal",
+        "Comment Type": "Blocker",
+        "Edited": "No",
+        "Reaction Count": 7,
+        "Pinned": "No",
+        "Tags": []
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Email Marketing Automation: Automation sequences look good, but we should A/B test the subject lines for better open rates.",
+        "Date": "2024-12-30",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 22,
+        "Pinned": "No",
+        "Tags": []
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Market Research insights indicate a shift in consumer behavior towards eco-friendly products, worth considering for campaigns.",
+        "Date": "2025-05-18",
+        "Visibility": "Internal",
+        "Comment Type": "Feedback",
+        "Edited": "Yes",
+        "Reaction Count": 18,
+        "Pinned": "Yes",
+        "Tags": []
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Website Redesign: The new layout improves navigation but needs optimization for mobile responsiveness.",
+        "Date": "2025-02-26",
+        "Visibility": "Client",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 40,
+        "Pinned": "No",
+        "Tags": []
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Client Onboarding Process needs a clear step to introduce AI tools, as clients are asking for more digital integration.",
+        "Date": "2025-06-05",
+        "Visibility": "Internal",
+        "Comment Type": "General",
+        "Edited": "No",
+        "Reaction Count": 9,
+        "Pinned": "No",
+        "Tags": []
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Content Review Process: Some content pieces require additional fact-checking before final approval.",
+        "Date": "2025-04-29",
+        "Visibility": "Internal",
+        "Comment Type": "Blocker",
+        "Edited": "Yes",
+        "Reaction Count": 3,
+        "Pinned": "No",
+        "Tags": []
+      }
+    },
+    {
+      "fields": {
+        "Comment": "Analytics Dashboard: Suggest adding a real-time KPI tracking widget for faster decision-making.",
+        "Date": "2025-05-25",
+        "Visibility": "Client",
+        "Comment Type": "Feedback",
+        "Edited": "No",
+        "Reaction Count": 27,
+        "Pinned": "Yes",
+        "Tags": []
+      }
+    }
+  ]
+}

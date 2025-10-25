@@ -1,0 +1,100 @@
+{
+  "tax_rates": [
+    {
+      "name": "Standard Rate",
+      "amount": 0.2,
+      "tax_category_code": "PS-001",
+      "zone_id": 1,
+      "included_in_price": true,
+      "show_rate_in_label": true
+    },
+    {
+      "name": "Reduced Rate",
+      "amount": 0.1,
+      "tax_category_code": "PF-002",
+      "zone_id": 2,
+      "included_in_price": true,
+      "show_rate_in_label": true
+    },
+    {
+      "name": "Basic Rate",
+      "amount": 0.06,
+      "tax_category_code": "VM-003",
+      "zone_id": 3,
+      "included_in_price": false,
+      "show_rate_in_label": true
+    },
+    {
+      "name": "Zero Rate",
+      "amount": 0.0,
+      "tax_category_code": "DS-004",
+      "zone_id": 4,
+      "included_in_price": false,
+      "show_rate_in_label": true
+    },
+    {
+      "name": "Luxury Rate",
+      "amount": 0.25,
+      "tax_category_code": "AS-005",
+      "zone_id": 5,
+      "included_in_price": true,
+      "show_rate_in_label": true
+    },
+    {
+      "name": "Shipping Rate",
+      "amount": 0.08,
+      "tax_category_code": "SH-006",
+      "zone_id": 6,
+      "included_in_price": false,
+      "show_rate_in_label": true
+    },
+    {
+      "name": "Gift Rate",
+      "amount": 0.15,
+      "tax_category_code": "GC-007",
+      "zone_id": 1,
+      "included_in_price": true,
+      "show_rate_in_label": true
+    },
+    {
+      "name": "Premium Rate",
+      "amount": 0.22,
+      "tax_category_code": "PI-008",
+      "zone_id": 2,
+      "included_in_price": true,
+      "show_rate_in_label": true
+    },
+    {
+      "name": "Service Rate",
+      "amount": 0.12,
+      "tax_category_code": "SE-009",
+      "zone_id": 3,
+      "included_in_price": false,
+      "show_rate_in_label": true
+    },
+    {
+      "name": "Export Rate",
+      "amount": 0.05,
+      "tax_category_code": "PS-001",
+      "zone_id": 4,
+      "included_in_price": false,
+      "show_rate_in_label": true
+    },
+    {
+      "name": "Special Rate",
+      "amount": 0.18,
+      "tax_category_code": "PF-002",
+      "zone_id": 5,
+      "included_in_price": true,
+      "show_rate_in_label": true
+    },
+    {
+      "name": "Minimal Rate",
+      "amount": 0.03,
+      "tax_category_code": "VM-003",
+      "zone_id": 6,
+      "included_in_price": false,
+      "show_rate_in_label": true
+    }
+  ]
+}

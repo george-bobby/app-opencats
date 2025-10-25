@@ -1,0 +1,24 @@
+{
+  "taxonomies": [
+    {
+      "id": 1,
+      "name": "Categories",
+      "description": "Primary product types for pet supplies, organizing items by their core function and usage across different pet needs"
+    },
+    {
+      "id": 2,
+      "name": "Brands",
+      "description": "Manufacturer and product lines from leading pet supply companies, allowing customers to filter by trusted and preferred brands"
+    },
+    {
+      "id": 3,
+      "name": "Pet Types",
+      "description": "Taxonomy organizing products specifically designed for different animal companions, including dogs, cats, birds, small mammals, and exotic pets"
+    },
+    {
+      "id": 4,
+      "name": "Life Stages",
+      "description": "Product filtering based on pet age and developmental stages, such as puppy/kitten, adult, senior, and special needs, ensuring age-appropriate nutrition and care"
+    }
+  ]
+}

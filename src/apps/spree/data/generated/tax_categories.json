@@ -1,0 +1,67 @@
+{
+  "tax_categories": [
+    {
+      "name": "General Pet Supplies",
+      "description": "Standard pet accessories, toys, grooming tools, and non-consumable merchandise",
+      "tax_code": "PS-001",
+      "is_default": true,
+      "deleted_at": null
+    },
+    {
+      "name": "Pet Food & Treats",
+      "description": "All consumable food products for pets, including dry and wet food, treats, and supplements",
+      "tax_code": "PF-002",
+      "is_default": false,
+      "deleted_at": null
+    },
+    {
+      "name": "Veterinary Medications",
+      "description": "Prescription medications, medical supplies, and veterinary-specific health products",
+      "tax_code": "VM-003",
+      "is_default": false,
+      "deleted_at": null
+    },
+    {
+      "name": "Pet Services Digital",
+      "description": "Online training courses, digital subscriptions, and virtual veterinary consultations",
+      "tax_code": "DS-004",
+      "is_default": false,
+      "deleted_at": null
+    },
+    {
+      "name": "Live Animal Sales",
+      "description": "Direct sales of pets, including adoption fees and breeder listings",
+      "tax_code": "AS-005",
+      "is_default": false,
+      "deleted_at": null
+    },
+    {
+      "name": "Shipping & Handling",
+      "description": "Delivery fees, packaging, and transportation charges for pet supplies",
+      "tax_code": "SH-006",
+      "is_default": false,
+      "deleted_at": null
+    },
+    {
+      "name": "Gift Cards & Store Credit",
+      "description": "Digital and physical gift cards, store credit, and prepaid purchase certificates",
+      "tax_code": "GC-007",
+      "is_default": false,
+      "deleted_at": null
+    },
+    {
+      "name": "Pet Insurance",
+      "description": "Digital insurance products and subscription-based pet health coverage",
+      "tax_code": "PI-008",
+      "is_default": false,
+      "deleted_at": null
+    },
+    {
+      "name": "Specialty Pet Equipment",
+      "description": "Advanced or specialized pet equipment like training devices, mobility assistance, and high-end accessories",
+      "tax_code": "SE-009",
+      "is_default": false,
+      "deleted_at": null
+    }
+  ]
+}

@@ -1,0 +1,585 @@
+[
+  {
+    "name": "New Customer Onboarding Tag",
+    "description": "Automatically tags and notifies the onboarding team when a conversation is started by a new customer.",
+    "event_name": "conversation_created",
+    "conditions": [
+      {
+        "attribute_key": "onboarding_status",
+        "filter_operator": "equal_to",
+        "values": [
+          "Not Started"
+        ],
+        "query_operator": "and",
+        "custom_attribute_type": "contact_attribute"
+      }
+    ],
+    "actions": [
+      {
+        "action_name": "assign_team",
+        "action_params": [
+          3
+        ]
+      },
+      {
+        "action_name": "add_label",
+        "action_params": [
+          "account_setup"
+        ]
+      },
+      {
+        "action_name": "send_email_to_team",
+        "action_params": [
+          {
+            "team_ids": [
+              3
+            ],
+            "message": "A new customer requires onboarding assistance. Please reach out promptly."
+          }
+        ]
+      }
+    ],
+    "created_at": "2024-09-17T12:54:49.878978",
+    "updated_at": "2025-03-28T11:21:35.569822"
+  },
+  {
+    "name": "Bug Keyword Alert to Technical Team",
+    "description": "Assigns technical support team and tags bug reports for any incoming message mentioning typical bug keywords.",
+    "event_name": "message_created",
+    "conditions": [
+      {
+        "attribute_key": "message_type",
+        "filter_operator": "equal_to",
+        "values": [
+          "incoming"
+        ],
+        "query_operator": "and",
+        "custom_attribute_type": ""
+      },
+      {
+        "attribute_key": "content",
+        "filter_operator": "contains",
+        "values": [
+          "bug",
+          "issue",
+          "crash",
+          "fix"
+        ],
+        "query_operator": "and",
+        "custom_attribute_type": ""
+      }
+    ],
+    "actions": [
+      {
+        "action_name": "assign_team",
+        "action_params": [
+          4
+        ]
+      },
+      {
+        "action_name": "add_label",
+        "action_params": [
+          "bug_report"
+        ]
+      },
+      {
+        "action_name": "send_email_to_team",
+        "action_params": [
+          {
+            "team_ids": [
+              4
+            ],
+            "message": "A new bug or issue has been reported by a customer."
+          }
+        ]
+      }
+    ],
+    "created_at": "2025-04-29T23:24:29.129551",
+    "updated_at": "2025-06-07T11:54:12.270736"
+  },
+  {
+    "name": "Urgent Priority Escalation",
+    "description": "Automatically marks urgently flagged conversations to management and adds appropriate labels for review.",
+    "event_name": "conversation_updated",
+    "conditions": [
+      {
+        "attribute_key": "priority",
+        "filter_operator": "equal_to",
+        "values": [
+          "urgent"
+        ],
+        "query_operator": "and",
+        "custom_attribute_type": ""
+      }
+    ],
+    "actions": [
+      {
+        "action_name": "assign_team",
+        "action_params": [
+          6
+        ]
+      },
+      {
+        "action_name": "add_label",
+        "action_params": [
+          "management_review"
+        ]
+      },
+      {
+        "action_name": "send_email_to_team",
+        "action_params": [
+          {
+            "team_ids": [
+              6
+            ],
+            "message": "An urgent priority conversation has been escalated for immediate management review."
+          }
+        ]
+      }
+    ],
+    "created_at": "2025-07-05T11:32:12.494215",
+    "updated_at": "2025-07-23T21:44:42.668007"
+  },
+  {
+    "name": "Sales Inquiries to Sales Team",
+    "description": "Routes all sales-related messages directly to the sales team with appropriate labels.",
+    "event_name": "message_created",
+    "conditions": [
+      {
+        "attribute_key": "content",
+        "filter_operator": "contains",
+        "values": [
+          "pricing",
+          "quote",
+          "buy",
+          "purchase",
+          "plan"
+        ],
+        "query_operator": "and",
+        "custom_attribute_type": ""
+      }
+    ],
+    "actions": [
+      {
+        "action_name": "assign_team",
+        "action_params": [
+          2
+        ]
+      },
+      {
+        "action_name": "add_label",
+        "action_params": [
+          "sales_inquiry"
+        ]
+      }
+    ],
+    "created_at": "2025-06-21T15:45:28.239749",
+    "updated_at": "2025-07-28T05:25:37.682541"
+  },
+  {
+    "name": "Assign Enterprise Clients to Dedicated Account Manager",
+    "description": "Ensures all enterprise client conversations are routed to their account manager and receive VIP handling.",
+    "event_name": "conversation_created",
+    "conditions": [
+      {
+        "attribute_key": "product_version",
+        "filter_operator": "equal_to",
+        "values": [
+          "Enterprise"
+        ],
+        "query_operator": "and",
+        "custom_attribute_type": "contact_attribute"
+      }
+    ],
+    "actions": [
+      {
+        "action_name": "assign_agent",
+        "action_params": [
+          2
+        ]
+      },
+      {
+        "action_name": "add_label",
+        "action_params": [
+          "enterprise_client"
+        ]
+      },
+      {
+        "action_name": "send_email_to_team",
+        "action_params": [
+          {
+            "team_ids": [
+              1
+            ],
+            "message": "Enterprise client requires dedicated attention. Conversation assigned to Account Manager."
+          }
+        ]
+      }
+    ],
+    "created_at": "2025-01-23T21:00:12.600926",
+    "updated_at": "2025-05-16T05:01:36.454952"
+  },
+  {
+    "name": "Technical Support for Integration Requests",
+    "description": "Routes conversations with integration-related requests to technical support with relevant tags.",
+    "event_name": "message_created",
+    "conditions": [
+      {
+        "attribute_key": "content",
+        "filter_operator": "contains",
+        "values": [
+          "integration",
+          "API",
+          "webhook"
+        ],
+        "query_operator": "and",
+        "custom_attribute_type": ""
+      }
+    ],
+    "actions": [
+      {
+        "action_name": "assign_team",
+        "action_params": [
+          4
+        ]
+      },
+      {
+        "action_name": "add_label",
+        "action_params": [
+          "integration_help"
+        ]
+      }
+    ],
+    "created_at": "2025-02-17T02:47:36.545200",
+    "updated_at": "2025-05-03T13:02:06.612000"
+  },
+  {
+    "name": "Route French and German Conversations to Multi-Language Team",
+    "description": "Automatically assigns conversations in French or German to the multilingual team and tags them for tracking.",
+    "event_name": "conversation_created",
+    "conditions": [
+      {
+        "attribute_key": "conversation_language",
+        "filter_operator": "equal_to",
+        "values": [
+          "fr",
+          "de"
+        ],
+        "query_operator": "and",
+        "custom_attribute_type": ""
+      }
+    ],
+    "actions": [
+      {
+        "action_name": "assign_team",
+        "action_params": [
+          5
+        ]
+      },
+      {
+        "action_name": "add_label",
+        "action_params": [
+          "multi_language"
+        ]
+      }
+    ],
+    "created_at": "2025-05-21T18:55:20.944507",
+    "updated_at": "2025-06-19T11:52:13.115427"
+  },
+  {
+    "name": "Account Upgrade Requests",
+    "description": "Detects conversations about upgrades and assigns to sales with corresponding tags.",
+    "event_name": "message_created",
+    "conditions": [
+      {
+        "attribute_key": "content",
+        "filter_operator": "contains",
+        "values": [
+          "upgrade",
+          "plan upgrade",
+          "increase limit",
+          "move to premium"
+        ],
+        "query_operator": "and",
+        "custom_attribute_type": ""
+      }
+    ],
+    "actions": [
+      {
+        "action_name": "assign_team",
+        "action_params": [
+          2
+        ]
+      },
+      {
+        "action_name": "add_label",
+        "action_params": [
+          "plan_upgrade"
+        ]
+      }
+    ],
+    "created_at": "2024-08-29T03:17:59.768587",
+    "updated_at": "2025-07-08T09:40:38.449486"
+  },
+  {
+    "name": "Handle Legal Review Requests",
+    "description": "Tags legal review and notifies management when conversations require legal attention.",
+    "event_name": "conversation_updated",
+    "conditions": [
+      {
+        "attribute_key": "priority_level",
+        "filter_operator": "equal_to",
+        "values": [
+          "High"
+        ],
+        "query_operator": "and",
+        "custom_attribute_type": "conversation_attribute"
+      },
+      {
+        "attribute_key": "requires_technical_review",
+        "filter_operator": "equal_to",
+        "values": [
+          "true"
+        ],
+        "query_operator": "and",
+        "custom_attribute_type": "conversation_attribute"
+      }
+    ],
+    "actions": [
+      {
+        "action_name": "add_label",
+        "action_params": [
+          "legal_review"
+        ]
+      },
+      {
+        "action_name": "assign_team",
+        "action_params": [
+          6
+        ]
+      }
+    ],
+    "created_at": "2024-08-16T06:08:41.684129",
+    "updated_at": "2025-01-29T03:58:10.965782"
+  },
+  {
+    "name": "Onboarding Follow-up for Stalled Accounts",
+    "description": "Sends follow-up for customers whose onboarding status is stalled, adding onboarding help label.",
+    "event_name": "conversation_created",
+    "conditions": [
+      {
+        "attribute_key": "onboarding_status",
+        "filter_operator": "equal_to",
+        "values": [
+          "Stalled"
+        ],
+        "query_operator": "and",
+        "custom_attribute_type": "contact_attribute"
+      }
+    ],
+    "actions": [
+      {
+        "action_name": "add_label",
+        "action_params": [
+          "onboarding_help"
+        ]
+      },
+      {
+        "action_name": "send_email_to_team",
+        "action_params": [
+          {
+            "team_ids": [
+              3
+            ],
+            "message": "Please follow up with the customer to assist with stalled onboarding."
+          }
+        ]
+      }
+    ],
+    "created_at": "2025-04-22T01:33:08.170626",
+    "updated_at": "2025-07-22T18:55:48.786737"
+  },
+  {
+    "name": "Mobile App Support Labeling",
+    "description": "Identifies conversations mentioning mobile app issues and assigns technical team with appropriate tagging.",
+    "event_name": "message_created",
+    "conditions": [
+      {
+        "attribute_key": "content",
+        "filter_operator": "contains",
+        "values": [
+          "mobile app",
+          "android",
+          "ios",
+          "App Store"
+        ],
+        "query_operator": "and",
+        "custom_attribute_type": ""
+      }
+    ],
+    "actions": [
+      {
+        "action_name": "assign_team",
+        "action_params": [
+          4
+        ]
+      },
+      {
+        "action_name": "add_label",
+        "action_params": [
+          "mobile_app"
+        ]
+      }
+    ],
+    "created_at": "2025-05-26T12:54:56.564214",
+    "updated_at": "2025-05-30T07:19:12.918725"
+  },
+  {
+    "name": "Trial User Proactive Check-in",
+    "description": "Automates check-in emails for trial users starting new conversations and labels them for tracking.",
+    "event_name": "conversation_created",
+    "conditions": [
+      {
+        "attribute_key": "product_version",
+        "filter_operator": "equal_to",
+        "values": [
+          "Standard"
+        ],
+        "query_operator": "and",
+        "custom_attribute_type": "contact_attribute"
+      },
+      {
+        "attribute_key": "onboarding_status",
+        "filter_operator": "equal_to",
+        "values": [
+          "In Progress"
+        ],
+        "query_operator": "and",
+        "custom_attribute_type": "contact_attribute"
+      }
+    ],
+    "actions": [
+      {
+        "action_name": "add_label",
+        "action_params": [
+          "trial_user"
+        ]
+      },
+      {
+        "action_name": "send_email_to_team",
+        "action_params": [
+          {
+            "team_ids": [
+              3
+            ],
+            "message": "Trial user has reached out. Please check in proactively."
+          }
+        ]
+      }
+    ],
+    "created_at": "2024-09-06T18:53:55.492484",
+    "updated_at": "2025-01-15T21:53:50.289233"
+  },
+  {
+    "name": "Compliance or Security Questions",
+    "description": "Flags compliance or security related messages for technical review and applies the security label.",
+    "event_name": "message_created",
+    "conditions": [
+      {
+        "attribute_key": "content",
+        "filter_operator": "contains",
+        "values": [
+          "security",
+          "compliance",
+          "privacy",
+          "GDPR"
+        ],
+        "query_operator": "and",
+        "custom_attribute_type": ""
+      }
+    ],
+    "actions": [
+      {
+        "action_name": "assign_team",
+        "action_params": [
+          4
+        ]
+      },
+      {
+        "action_name": "add_label",
+        "action_params": [
+          "security_question"
+        ]
+      }
+    ],
+    "created_at": "2024-12-07T04:24:07.875489",
+    "updated_at": "2025-04-03T16:20:55.324273"
+  },
+  {
+    "name": "Route Billing Issues to Billing Team",
+    "description": "All conversations in the billing inbox are automatically assigned to the billing team with necessary tags.",
+    "event_name": "conversation_created",
+    "conditions": [
+      {
+        "attribute_key": "inbox_id",
+        "filter_operator": "equal_to",
+        "values": [
+          "3"
+        ],
+        "query_operator": "and",
+        "custom_attribute_type": ""
+      }
+    ],
+    "actions": [
+      {
+        "action_name": "assign_team",
+        "action_params": [
+          3
+        ]
+      },
+      {
+        "action_name": "add_label",
+        "action_params": [
+          "billing_issue"
+        ]
+      }
+    ],
+    "created_at": "2025-07-23T02:50:46.410790",
+    "updated_at": "2025-07-24T05:32:27.433802"
+  },
+  {
+    "name": "Feature Request Label and Assignment",
+    "description": "Detects inbound feature requests and assigns product team for review and adds feature_request label.",
+    "event_name": "message_created",
+    "conditions": [
+      {
+        "attribute_key": "content",
+        "filter_operator": "contains",
+        "values": [
+          "feature request",
+          "wish",
+          "suggestion",
+          "improvement"
+        ],
+        "query_operator": "and",
+        "custom_attribute_type": ""
+      }
+    ],
+    "actions": [
+      {
+        "action_name": "assign_team",
+        "action_params": [
+          5
+        ]
+      },
+      {
+        "action_name": "add_label",
+        "action_params": [
+          "feature_request"
+        ]
+      }
+    ],
+    "created_at": "2025-01-11T04:18:19.242035",
+    "updated_at": "2025-04-03T13:38:29.123282"
+  }
+]

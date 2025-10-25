@@ -1,0 +1,3844 @@
+{
+  "shipping_rates": [
+    {
+      "id": 1,
+      "shipment_id": 3,
+      "shipping_method_id": 1,
+      "selected": false,
+      "cost": 16.56,
+      "tax_rate_id": null,
+      "created_at": "2025-08-10T02:50:20.000456",
+      "updated_at": "2025-08-12T18:02:37.873573"
+    },
+    {
+      "id": 2,
+      "shipment_id": 3,
+      "shipping_method_id": 4,
+      "selected": true,
+      "cost": 13.29,
+      "tax_rate_id": null,
+      "created_at": "2025-08-10T02:50:20.000456",
+      "updated_at": "2025-08-12T18:02:37.873573"
+    },
+    {
+      "id": 3,
+      "shipment_id": 4,
+      "shipping_method_id": 5,
+      "selected": false,
+      "cost": 12.78,
+      "tax_rate_id": null,
+      "created_at": "2024-11-03T16:50:51.378855",
+      "updated_at": "2024-12-02T15:09:28.786001"
+    },
+    {
+      "id": 4,
+      "shipment_id": 4,
+      "shipping_method_id": 6,
+      "selected": true,
+      "cost": 11.29,
+      "tax_rate_id": null,
+      "created_at": "2024-11-03T16:50:51.378855",
+      "updated_at": "2024-12-02T15:09:28.786001"
+    },
+    {
+      "id": 5,
+      "shipment_id": 4,
+      "shipping_method_id": 7,
+      "selected": false,
+      "cost": 16.93,
+      "tax_rate_id": null,
+      "created_at": "2024-11-03T16:50:51.378855",
+      "updated_at": "2024-12-02T15:09:28.786001"
+    },
+    {
+      "id": 6,
+      "shipment_id": 10,
+      "shipping_method_id": 1,
+      "selected": false,
+      "cost": 5.79,
+      "tax_rate_id": null,
+      "created_at": "2024-10-09T19:25:28.317604",
+      "updated_at": "2025-03-23T06:27:57.148788"
+    },
+    {
+      "id": 7,
+      "shipment_id": 10,
+      "shipping_method_id": 4,
+      "selected": true,
+      "cost": 6.04,
+      "tax_rate_id": null,
+      "created_at": "2024-10-09T19:25:28.317604",
+      "updated_at": "2025-03-23T06:27:57.148788"
+    },
+    {
+      "id": 8,
+      "shipment_id": 12,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 10.2,
+      "tax_rate_id": null,
+      "created_at": "2025-02-09T16:47:22.757548",
+      "updated_at": "2025-05-27T21:40:30.173050"
+    },
+    {
+      "id": 9,
+      "shipment_id": 12,
+      "shipping_method_id": 4,
+      "selected": true,
+      "cost": 7.41,
+      "tax_rate_id": null,
+      "created_at": "2025-02-09T16:47:22.757548",
+      "updated_at": "2025-05-27T21:40:30.173050"
+    },
+    {
+      "id": 10,
+      "shipment_id": 12,
+      "shipping_method_id": 6,
+      "selected": false,
+      "cost": 8.3,
+      "tax_rate_id": null,
+      "created_at": "2025-02-09T16:47:22.757548",
+      "updated_at": "2025-05-27T21:40:30.173050"
+    },
+    {
+      "id": 11,
+      "shipment_id": 14,
+      "shipping_method_id": 1,
+      "selected": false,
+      "cost": 10.53,
+      "tax_rate_id": null,
+      "created_at": "2025-07-29T19:33:52.557106",
+      "updated_at": "2025-08-24T13:25:57.749707"
+    },
+    {
+      "id": 12,
+      "shipment_id": 14,
+      "shipping_method_id": 2,
+      "selected": true,
+      "cost": 11.81,
+      "tax_rate_id": null,
+      "created_at": "2025-07-29T19:33:52.557106",
+      "updated_at": "2025-08-24T13:25:57.749707"
+    },
+    {
+      "id": 13,
+      "shipment_id": 14,
+      "shipping_method_id": 4,
+      "selected": false,
+      "cost": 11.72,
+      "tax_rate_id": null,
+      "created_at": "2025-07-29T19:33:52.557106",
+      "updated_at": "2025-08-24T13:25:57.749707"
+    },
+    {
+      "id": 14,
+      "shipment_id": 17,
+      "shipping_method_id": 1,
+      "selected": false,
+      "cost": 11.05,
+      "tax_rate_id": null,
+      "created_at": "2025-02-17T21:21:22.384937",
+      "updated_at": "2025-08-25T15:46:01.626758"
+    },
+    {
+      "id": 15,
+      "shipment_id": 17,
+      "shipping_method_id": 6,
+      "selected": true,
+      "cost": 8.68,
+      "tax_rate_id": null,
+      "created_at": "2025-02-17T21:21:22.384937",
+      "updated_at": "2025-08-25T15:46:01.626758"
+    },
+    {
+      "id": 16,
+      "shipment_id": 18,
+      "shipping_method_id": 1,
+      "selected": true,
+      "cost": 11.11,
+      "tax_rate_id": null,
+      "created_at": "2024-09-08T10:14:38.843144",
+      "updated_at": "2024-09-11T21:47:28.388369"
+    },
+    {
+      "id": 17,
+      "shipment_id": 18,
+      "shipping_method_id": 6,
+      "selected": false,
+      "cost": 16.21,
+      "tax_rate_id": null,
+      "created_at": "2024-09-08T10:14:38.843144",
+      "updated_at": "2024-09-11T21:47:28.388369"
+    },
+    {
+      "id": 18,
+      "shipment_id": 19,
+      "shipping_method_id": 1,
+      "selected": false,
+      "cost": 10.48,
+      "tax_rate_id": null,
+      "created_at": "2025-07-12T10:55:27.714653",
+      "updated_at": "2025-08-20T20:12:02.533046"
+    },
+    {
+      "id": 19,
+      "shipment_id": 19,
+      "shipping_method_id": 2,
+      "selected": true,
+      "cost": 9.27,
+      "tax_rate_id": null,
+      "created_at": "2025-07-12T10:55:27.714653",
+      "updated_at": "2025-08-20T20:12:02.533046"
+    },
+    {
+      "id": 20,
+      "shipment_id": 19,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 12.52,
+      "tax_rate_id": null,
+      "created_at": "2025-07-12T10:55:27.714653",
+      "updated_at": "2025-08-20T20:12:02.533046"
+    },
+    {
+      "id": 21,
+      "shipment_id": 19,
+      "shipping_method_id": 6,
+      "selected": false,
+      "cost": 11.49,
+      "tax_rate_id": null,
+      "created_at": "2025-07-12T10:55:27.714653",
+      "updated_at": "2025-08-20T20:12:02.533046"
+    },
+    {
+      "id": 22,
+      "shipment_id": 20,
+      "shipping_method_id": 1,
+      "selected": false,
+      "cost": 10.04,
+      "tax_rate_id": null,
+      "created_at": "2024-09-22T17:35:07.404991",
+      "updated_at": "2025-07-25T08:35:25.930539"
+    },
+    {
+      "id": 23,
+      "shipment_id": 20,
+      "shipping_method_id": 4,
+      "selected": false,
+      "cost": 10.39,
+      "tax_rate_id": null,
+      "created_at": "2024-09-22T17:35:07.404991",
+      "updated_at": "2025-07-25T08:35:25.930539"
+    },
+    {
+      "id": 24,
+      "shipment_id": 20,
+      "shipping_method_id": 7,
+      "selected": true,
+      "cost": 9.03,
+      "tax_rate_id": null,
+      "created_at": "2024-09-22T17:35:07.404991",
+      "updated_at": "2025-07-25T08:35:25.930539"
+    },
+    {
+      "id": 25,
+      "shipment_id": 23,
+      "shipping_method_id": 1,
+      "selected": false,
+      "cost": 17.03,
+      "tax_rate_id": null,
+      "created_at": "2024-10-24T14:59:31.927948",
+      "updated_at": "2025-03-28T17:02:58.757848"
+    },
+    {
+      "id": 26,
+      "shipment_id": 23,
+      "shipping_method_id": 2,
+      "selected": true,
+      "cost": 12.91,
+      "tax_rate_id": null,
+      "created_at": "2024-10-24T14:59:31.927948",
+      "updated_at": "2025-03-28T17:02:58.757848"
+    },
+    {
+      "id": 27,
+      "shipment_id": 23,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 15.19,
+      "tax_rate_id": null,
+      "created_at": "2024-10-24T14:59:31.927948",
+      "updated_at": "2025-03-28T17:02:58.757848"
+    },
+    {
+      "id": 28,
+      "shipment_id": 23,
+      "shipping_method_id": 7,
+      "selected": false,
+      "cost": 17.54,
+      "tax_rate_id": null,
+      "created_at": "2024-10-24T14:59:31.927948",
+      "updated_at": "2025-03-28T17:02:58.757848"
+    },
+    {
+      "id": 29,
+      "shipment_id": 24,
+      "shipping_method_id": 1,
+      "selected": true,
+      "cost": 11.74,
+      "tax_rate_id": null,
+      "created_at": "2025-02-08T01:01:28.529597",
+      "updated_at": "2025-06-21T10:15:20.996829"
+    },
+    {
+      "id": 30,
+      "shipment_id": 24,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 16.03,
+      "tax_rate_id": null,
+      "created_at": "2025-02-08T01:01:28.529597",
+      "updated_at": "2025-06-21T10:15:20.996829"
+    },
+    {
+      "id": 31,
+      "shipment_id": 29,
+      "shipping_method_id": 1,
+      "selected": false,
+      "cost": 14.73,
+      "tax_rate_id": null,
+      "created_at": "2025-08-24T23:42:45.736686",
+      "updated_at": "2025-09-01T22:20:38.181312"
+    },
+    {
+      "id": 32,
+      "shipment_id": 29,
+      "shipping_method_id": 3,
+      "selected": true,
+      "cost": 10.85,
+      "tax_rate_id": null,
+      "created_at": "2025-08-24T23:42:45.736686",
+      "updated_at": "2025-09-01T22:20:38.181312"
+    },
+    {
+      "id": 33,
+      "shipment_id": 30,
+      "shipping_method_id": 2,
+      "selected": true,
+      "cost": 8.6,
+      "tax_rate_id": null,
+      "created_at": "2025-03-05T04:56:00.248394",
+      "updated_at": "2025-05-04T12:34:25.003948"
+    },
+    {
+      "id": 34,
+      "shipment_id": 30,
+      "shipping_method_id": 7,
+      "selected": false,
+      "cost": 10.41,
+      "tax_rate_id": null,
+      "created_at": "2025-03-05T04:56:00.248394",
+      "updated_at": "2025-05-04T12:34:25.003948"
+    },
+    {
+      "id": 35,
+      "shipment_id": 32,
+      "shipping_method_id": 1,
+      "selected": true,
+      "cost": 14.89,
+      "tax_rate_id": null,
+      "created_at": "2024-10-31T15:21:33.130830",
+      "updated_at": "2025-01-19T18:20:17.567624"
+    },
+    {
+      "id": 36,
+      "shipment_id": 32,
+      "shipping_method_id": 2,
+      "selected": false,
+      "cost": 12.96,
+      "tax_rate_id": null,
+      "created_at": "2024-10-31T15:21:33.130830",
+      "updated_at": "2025-01-19T18:20:17.567624"
+    },
+    {
+      "id": 37,
+      "shipment_id": 33,
+      "shipping_method_id": 1,
+      "selected": true,
+      "cost": 14.41,
+      "tax_rate_id": null,
+      "created_at": "2024-09-09T02:38:33.346036",
+      "updated_at": "2024-09-14T20:17:19.289014"
+    },
+    {
+      "id": 38,
+      "shipment_id": 33,
+      "shipping_method_id": 2,
+      "selected": false,
+      "cost": 12.9,
+      "tax_rate_id": null,
+      "created_at": "2024-09-09T02:38:33.346036",
+      "updated_at": "2024-09-14T20:17:19.289014"
+    },
+    {
+      "id": 39,
+      "shipment_id": 33,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 13.95,
+      "tax_rate_id": null,
+      "created_at": "2024-09-09T02:38:33.346036",
+      "updated_at": "2024-09-14T20:17:19.289014"
+    },
+    {
+      "id": 40,
+      "shipment_id": 33,
+      "shipping_method_id": 5,
+      "selected": false,
+      "cost": 15.79,
+      "tax_rate_id": null,
+      "created_at": "2024-09-09T02:38:33.346036",
+      "updated_at": "2024-09-14T20:17:19.289014"
+    },
+    {
+      "id": 41,
+      "shipment_id": 36,
+      "shipping_method_id": 2,
+      "selected": false,
+      "cost": 14.63,
+      "tax_rate_id": null,
+      "created_at": "2024-11-17T12:03:06.841656",
+      "updated_at": "2024-12-11T15:32:10.740659"
+    },
+    {
+      "id": 42,
+      "shipment_id": 36,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 13.16,
+      "tax_rate_id": null,
+      "created_at": "2024-11-17T12:03:06.841656",
+      "updated_at": "2024-12-11T15:32:10.740659"
+    },
+    {
+      "id": 43,
+      "shipment_id": 36,
+      "shipping_method_id": 4,
+      "selected": false,
+      "cost": 17.99,
+      "tax_rate_id": null,
+      "created_at": "2024-11-17T12:03:06.841656",
+      "updated_at": "2024-12-11T15:32:10.740659"
+    },
+    {
+      "id": 44,
+      "shipment_id": 36,
+      "shipping_method_id": 5,
+      "selected": true,
+      "cost": 12.34,
+      "tax_rate_id": null,
+      "created_at": "2024-11-17T12:03:06.841656",
+      "updated_at": "2024-12-11T15:32:10.740659"
+    },
+    {
+      "id": 45,
+      "shipment_id": 37,
+      "shipping_method_id": 2,
+      "selected": true,
+      "cost": 12.86,
+      "tax_rate_id": null,
+      "created_at": "2025-06-12T02:51:47.818149",
+      "updated_at": "2025-06-29T00:01:31.208802"
+    },
+    {
+      "id": 46,
+      "shipment_id": 37,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 17.85,
+      "tax_rate_id": null,
+      "created_at": "2025-06-12T02:51:47.818149",
+      "updated_at": "2025-06-29T00:01:31.208802"
+    },
+    {
+      "id": 47,
+      "shipment_id": 37,
+      "shipping_method_id": 5,
+      "selected": false,
+      "cost": 18.6,
+      "tax_rate_id": null,
+      "created_at": "2025-06-12T02:51:47.818149",
+      "updated_at": "2025-06-29T00:01:31.208802"
+    },
+    {
+      "id": 48,
+      "shipment_id": 37,
+      "shipping_method_id": 7,
+      "selected": false,
+      "cost": 10.77,
+      "tax_rate_id": null,
+      "created_at": "2025-06-12T02:51:47.818149",
+      "updated_at": "2025-06-29T00:01:31.208802"
+    },
+    {
+      "id": 49,
+      "shipment_id": 38,
+      "shipping_method_id": 2,
+      "selected": true,
+      "cost": 11.04,
+      "tax_rate_id": null,
+      "created_at": "2025-03-15T13:43:03.972569",
+      "updated_at": "2025-03-19T23:08:46.917511"
+    },
+    {
+      "id": 50,
+      "shipment_id": 38,
+      "shipping_method_id": 5,
+      "selected": false,
+      "cost": 15.87,
+      "tax_rate_id": null,
+      "created_at": "2025-03-15T13:43:03.972569",
+      "updated_at": "2025-03-19T23:08:46.917511"
+    },
+    {
+      "id": 51,
+      "shipment_id": 40,
+      "shipping_method_id": 4,
+      "selected": false,
+      "cost": 8.32,
+      "tax_rate_id": null,
+      "created_at": "2024-10-22T14:38:42.156785",
+      "updated_at": "2025-03-19T22:33:52.397489"
+    },
+    {
+      "id": 52,
+      "shipment_id": 40,
+      "shipping_method_id": 6,
+      "selected": true,
+      "cost": 6.15,
+      "tax_rate_id": null,
+      "created_at": "2024-10-22T14:38:42.156785",
+      "updated_at": "2025-03-19T22:33:52.397489"
+    },
+    {
+      "id": 53,
+      "shipment_id": 46,
+      "shipping_method_id": 1,
+      "selected": false,
+      "cost": 8.02,
+      "tax_rate_id": null,
+      "created_at": "2025-03-15T13:37:53.742377",
+      "updated_at": "2025-04-15T16:41:57.723334"
+    },
+    {
+      "id": 54,
+      "shipment_id": 46,
+      "shipping_method_id": 2,
+      "selected": false,
+      "cost": 11.29,
+      "tax_rate_id": null,
+      "created_at": "2025-03-15T13:37:53.742377",
+      "updated_at": "2025-04-15T16:41:57.723334"
+    },
+    {
+      "id": 55,
+      "shipment_id": 46,
+      "shipping_method_id": 4,
+      "selected": false,
+      "cost": 8.37,
+      "tax_rate_id": null,
+      "created_at": "2025-03-15T13:37:53.742377",
+      "updated_at": "2025-04-15T16:41:57.723334"
+    },
+    {
+      "id": 56,
+      "shipment_id": 46,
+      "shipping_method_id": 5,
+      "selected": true,
+      "cost": 8.76,
+      "tax_rate_id": null,
+      "created_at": "2025-03-15T13:37:53.742377",
+      "updated_at": "2025-04-15T16:41:57.723334"
+    },
+    {
+      "id": 57,
+      "shipment_id": 47,
+      "shipping_method_id": 1,
+      "selected": false,
+      "cost": 17.65,
+      "tax_rate_id": null,
+      "created_at": "2025-04-04T13:44:31.545374",
+      "updated_at": "2025-07-03T19:46:30.685280"
+    },
+    {
+      "id": 58,
+      "shipment_id": 47,
+      "shipping_method_id": 2,
+      "selected": true,
+      "cost": 15.3,
+      "tax_rate_id": null,
+      "created_at": "2025-04-04T13:44:31.545374",
+      "updated_at": "2025-07-03T19:46:30.685280"
+    },
+    {
+      "id": 59,
+      "shipment_id": 47,
+      "shipping_method_id": 5,
+      "selected": false,
+      "cost": 15.39,
+      "tax_rate_id": null,
+      "created_at": "2025-04-04T13:44:31.545374",
+      "updated_at": "2025-07-03T19:46:30.685280"
+    },
+    {
+      "id": 60,
+      "shipment_id": 47,
+      "shipping_method_id": 7,
+      "selected": false,
+      "cost": 19.52,
+      "tax_rate_id": null,
+      "created_at": "2025-04-04T13:44:31.545374",
+      "updated_at": "2025-07-03T19:46:30.685280"
+    },
+    {
+      "id": 61,
+      "shipment_id": 50,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 9.12,
+      "tax_rate_id": null,
+      "created_at": "2025-05-05T04:00:59.430473",
+      "updated_at": "2025-09-04T06:21:54.631370"
+    },
+    {
+      "id": 62,
+      "shipment_id": 50,
+      "shipping_method_id": 4,
+      "selected": true,
+      "cost": 10.52,
+      "tax_rate_id": null,
+      "created_at": "2025-05-05T04:00:59.430473",
+      "updated_at": "2025-09-04T06:21:54.631370"
+    },
+    {
+      "id": 63,
+      "shipment_id": 50,
+      "shipping_method_id": 6,
+      "selected": false,
+      "cost": 10.61,
+      "tax_rate_id": null,
+      "created_at": "2025-05-05T04:00:59.430473",
+      "updated_at": "2025-09-04T06:21:54.631370"
+    },
+    {
+      "id": 64,
+      "shipment_id": 50,
+      "shipping_method_id": 7,
+      "selected": false,
+      "cost": 11.73,
+      "tax_rate_id": null,
+      "created_at": "2025-05-05T04:00:59.430473",
+      "updated_at": "2025-09-04T06:21:54.631370"
+    },
+    {
+      "id": 65,
+      "shipment_id": 53,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 9.59,
+      "tax_rate_id": null,
+      "created_at": "2024-11-02T05:53:10.388556",
+      "updated_at": "2024-12-17T11:32:32.783316"
+    },
+    {
+      "id": 66,
+      "shipment_id": 53,
+      "shipping_method_id": 4,
+      "selected": false,
+      "cost": 9.41,
+      "tax_rate_id": null,
+      "created_at": "2024-11-02T05:53:10.388556",
+      "updated_at": "2024-12-17T11:32:32.783316"
+    },
+    {
+      "id": 67,
+      "shipment_id": 53,
+      "shipping_method_id": 5,
+      "selected": false,
+      "cost": 14.32,
+      "tax_rate_id": null,
+      "created_at": "2024-11-02T05:53:10.388556",
+      "updated_at": "2024-12-17T11:32:32.783316"
+    },
+    {
+      "id": 68,
+      "shipment_id": 53,
+      "shipping_method_id": 7,
+      "selected": true,
+      "cost": 9.64,
+      "tax_rate_id": null,
+      "created_at": "2024-11-02T05:53:10.388556",
+      "updated_at": "2024-12-17T11:32:32.783316"
+    },
+    {
+      "id": 69,
+      "shipment_id": 54,
+      "shipping_method_id": 2,
+      "selected": false,
+      "cost": 15.78,
+      "tax_rate_id": null,
+      "created_at": "2025-06-07T04:03:26.190869",
+      "updated_at": "2025-08-12T18:21:21.982855"
+    },
+    {
+      "id": 70,
+      "shipment_id": 54,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 9.41,
+      "tax_rate_id": null,
+      "created_at": "2025-06-07T04:03:26.190869",
+      "updated_at": "2025-08-12T18:21:21.982855"
+    },
+    {
+      "id": 71,
+      "shipment_id": 54,
+      "shipping_method_id": 4,
+      "selected": false,
+      "cost": 13.67,
+      "tax_rate_id": null,
+      "created_at": "2025-06-07T04:03:26.190869",
+      "updated_at": "2025-08-12T18:21:21.982855"
+    },
+    {
+      "id": 72,
+      "shipment_id": 54,
+      "shipping_method_id": 6,
+      "selected": true,
+      "cost": 11.32,
+      "tax_rate_id": null,
+      "created_at": "2025-06-07T04:03:26.190869",
+      "updated_at": "2025-08-12T18:21:21.982855"
+    },
+    {
+      "id": 73,
+      "shipment_id": 56,
+      "shipping_method_id": 5,
+      "selected": false,
+      "cost": 10.93,
+      "tax_rate_id": null,
+      "created_at": "2025-03-28T02:39:17.753817",
+      "updated_at": "2025-05-02T04:13:02.131707"
+    },
+    {
+      "id": 74,
+      "shipment_id": 56,
+      "shipping_method_id": 7,
+      "selected": true,
+      "cost": 12.57,
+      "tax_rate_id": null,
+      "created_at": "2025-03-28T02:39:17.753817",
+      "updated_at": "2025-05-02T04:13:02.131707"
+    },
+    {
+      "id": 75,
+      "shipment_id": 57,
+      "shipping_method_id": 1,
+      "selected": false,
+      "cost": 7.76,
+      "tax_rate_id": null,
+      "created_at": "2024-11-02T08:41:51.872059",
+      "updated_at": "2024-11-22T06:21:05.551571"
+    },
+    {
+      "id": 76,
+      "shipment_id": 57,
+      "shipping_method_id": 2,
+      "selected": false,
+      "cost": 13.53,
+      "tax_rate_id": null,
+      "created_at": "2024-11-02T08:41:51.872059",
+      "updated_at": "2024-11-22T06:21:05.551571"
+    },
+    {
+      "id": 77,
+      "shipment_id": 57,
+      "shipping_method_id": 6,
+      "selected": true,
+      "cost": 9.55,
+      "tax_rate_id": null,
+      "created_at": "2024-11-02T08:41:51.872059",
+      "updated_at": "2024-11-22T06:21:05.551571"
+    },
+    {
+      "id": 78,
+      "shipment_id": 57,
+      "shipping_method_id": 7,
+      "selected": false,
+      "cost": 13.07,
+      "tax_rate_id": null,
+      "created_at": "2024-11-02T08:41:51.872059",
+      "updated_at": "2024-11-22T06:21:05.551571"
+    },
+    {
+      "id": 79,
+      "shipment_id": 61,
+      "shipping_method_id": 4,
+      "selected": false,
+      "cost": 18.28,
+      "tax_rate_id": null,
+      "created_at": "2025-07-30T04:36:55.645919",
+      "updated_at": "2025-08-11T02:40:22.927208"
+    },
+    {
+      "id": 80,
+      "shipment_id": 61,
+      "shipping_method_id": 5,
+      "selected": true,
+      "cost": 15.89,
+      "tax_rate_id": null,
+      "created_at": "2025-07-30T04:36:55.645919",
+      "updated_at": "2025-08-11T02:40:22.927208"
+    },
+    {
+      "id": 81,
+      "shipment_id": 61,
+      "shipping_method_id": 6,
+      "selected": false,
+      "cost": 14.24,
+      "tax_rate_id": null,
+      "created_at": "2025-07-30T04:36:55.645919",
+      "updated_at": "2025-08-11T02:40:22.927208"
+    },
+    {
+      "id": 82,
+      "shipment_id": 62,
+      "shipping_method_id": 1,
+      "selected": true,
+      "cost": 13.25,
+      "tax_rate_id": null,
+      "created_at": "2024-12-05T04:35:41.546333",
+      "updated_at": "2025-07-11T20:57:43.431369"
+    },
+    {
+      "id": 83,
+      "shipment_id": 62,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 19.86,
+      "tax_rate_id": null,
+      "created_at": "2024-12-05T04:35:41.546333",
+      "updated_at": "2025-07-11T20:57:43.431369"
+    },
+    {
+      "id": 84,
+      "shipment_id": 62,
+      "shipping_method_id": 5,
+      "selected": false,
+      "cost": 12.18,
+      "tax_rate_id": null,
+      "created_at": "2024-12-05T04:35:41.546333",
+      "updated_at": "2025-07-11T20:57:43.431369"
+    },
+    {
+      "id": 85,
+      "shipment_id": 63,
+      "shipping_method_id": 1,
+      "selected": false,
+      "cost": 18.14,
+      "tax_rate_id": null,
+      "created_at": "2025-04-14T02:01:34.467326",
+      "updated_at": "2025-08-28T20:26:16.173570"
+    },
+    {
+      "id": 86,
+      "shipment_id": 63,
+      "shipping_method_id": 2,
+      "selected": true,
+      "cost": 14.4,
+      "tax_rate_id": null,
+      "created_at": "2025-04-14T02:01:34.467326",
+      "updated_at": "2025-08-28T20:26:16.173570"
+    },
+    {
+      "id": 87,
+      "shipment_id": 63,
+      "shipping_method_id": 6,
+      "selected": false,
+      "cost": 15.55,
+      "tax_rate_id": null,
+      "created_at": "2025-04-14T02:01:34.467326",
+      "updated_at": "2025-08-28T20:26:16.173570"
+    },
+    {
+      "id": 88,
+      "shipment_id": 64,
+      "shipping_method_id": 1,
+      "selected": false,
+      "cost": 19.58,
+      "tax_rate_id": null,
+      "created_at": "2025-06-23T18:00:16.981550",
+      "updated_at": "2025-07-27T19:32:46.898933"
+    },
+    {
+      "id": 89,
+      "shipment_id": 64,
+      "shipping_method_id": 3,
+      "selected": true,
+      "cost": 13.31,
+      "tax_rate_id": null,
+      "created_at": "2025-06-23T18:00:16.981550",
+      "updated_at": "2025-07-27T19:32:46.898933"
+    },
+    {
+      "id": 90,
+      "shipment_id": 64,
+      "shipping_method_id": 4,
+      "selected": false,
+      "cost": 14.2,
+      "tax_rate_id": null,
+      "created_at": "2025-06-23T18:00:16.981550",
+      "updated_at": "2025-07-27T19:32:46.898933"
+    },
+    {
+      "id": 91,
+      "shipment_id": 64,
+      "shipping_method_id": 6,
+      "selected": false,
+      "cost": 15.75,
+      "tax_rate_id": null,
+      "created_at": "2025-06-23T18:00:16.981550",
+      "updated_at": "2025-07-27T19:32:46.898933"
+    },
+    {
+      "id": 92,
+      "shipment_id": 65,
+      "shipping_method_id": 1,
+      "selected": false,
+      "cost": 16.32,
+      "tax_rate_id": null,
+      "created_at": "2024-11-08T23:21:32.350868",
+      "updated_at": "2025-08-26T23:11:43.679460"
+    },
+    {
+      "id": 93,
+      "shipment_id": 65,
+      "shipping_method_id": 4,
+      "selected": false,
+      "cost": 17.2,
+      "tax_rate_id": null,
+      "created_at": "2024-11-08T23:21:32.350868",
+      "updated_at": "2025-08-26T23:11:43.679460"
+    },
+    {
+      "id": 94,
+      "shipment_id": 65,
+      "shipping_method_id": 7,
+      "selected": true,
+      "cost": 12.49,
+      "tax_rate_id": null,
+      "created_at": "2024-11-08T23:21:32.350868",
+      "updated_at": "2025-08-26T23:11:43.679460"
+    },
+    {
+      "id": 95,
+      "shipment_id": 66,
+      "shipping_method_id": 1,
+      "selected": true,
+      "cost": 14.45,
+      "tax_rate_id": null,
+      "created_at": "2024-11-08T23:21:32.350868",
+      "updated_at": "2025-08-26T23:11:43.679460"
+    },
+    {
+      "id": 96,
+      "shipment_id": 66,
+      "shipping_method_id": 2,
+      "selected": false,
+      "cost": 19.18,
+      "tax_rate_id": null,
+      "created_at": "2024-11-08T23:21:32.350868",
+      "updated_at": "2025-08-26T23:11:43.679460"
+    },
+    {
+      "id": 97,
+      "shipment_id": 66,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 17.67,
+      "tax_rate_id": null,
+      "created_at": "2024-11-08T23:21:32.350868",
+      "updated_at": "2025-08-26T23:11:43.679460"
+    },
+    {
+      "id": 98,
+      "shipment_id": 66,
+      "shipping_method_id": 4,
+      "selected": false,
+      "cost": 12.69,
+      "tax_rate_id": null,
+      "created_at": "2024-11-08T23:21:32.350868",
+      "updated_at": "2025-08-26T23:11:43.679460"
+    },
+    {
+      "id": 99,
+      "shipment_id": 67,
+      "shipping_method_id": 6,
+      "selected": false,
+      "cost": 10.89,
+      "tax_rate_id": null,
+      "created_at": "2025-06-11T13:57:40.607816",
+      "updated_at": "2025-08-13T15:08:37.547178"
+    },
+    {
+      "id": 100,
+      "shipment_id": 67,
+      "shipping_method_id": 7,
+      "selected": true,
+      "cost": 8.43,
+      "tax_rate_id": null,
+      "created_at": "2025-06-11T13:57:40.607816",
+      "updated_at": "2025-08-13T15:08:37.547178"
+    },
+    {
+      "id": 101,
+      "shipment_id": 68,
+      "shipping_method_id": 1,
+      "selected": true,
+      "cost": 15.75,
+      "tax_rate_id": null,
+      "created_at": "2025-08-20T10:55:16.419035",
+      "updated_at": "2025-08-24T13:10:48.120477"
+    },
+    {
+      "id": 102,
+      "shipment_id": 68,
+      "shipping_method_id": 4,
+      "selected": false,
+      "cost": 20.3,
+      "tax_rate_id": null,
+      "created_at": "2025-08-20T10:55:16.419035",
+      "updated_at": "2025-08-24T13:10:48.120477"
+    },
+    {
+      "id": 103,
+      "shipment_id": 69,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 12.33,
+      "tax_rate_id": null,
+      "created_at": "2025-03-13T15:12:18.331046",
+      "updated_at": "2025-03-18T09:33:03.701254"
+    },
+    {
+      "id": 104,
+      "shipment_id": 69,
+      "shipping_method_id": 4,
+      "selected": true,
+      "cost": 8.23,
+      "tax_rate_id": null,
+      "created_at": "2025-03-13T15:12:18.331046",
+      "updated_at": "2025-03-18T09:33:03.701254"
+    },
+    {
+      "id": 105,
+      "shipment_id": 69,
+      "shipping_method_id": 5,
+      "selected": false,
+      "cost": 10.62,
+      "tax_rate_id": null,
+      "created_at": "2025-03-13T15:12:18.331046",
+      "updated_at": "2025-03-18T09:33:03.701254"
+    },
+    {
+      "id": 106,
+      "shipment_id": 72,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 16.82,
+      "tax_rate_id": null,
+      "created_at": "2025-02-21T07:38:48.267677",
+      "updated_at": "2025-06-28T22:28:56.448886"
+    },
+    {
+      "id": 107,
+      "shipment_id": 72,
+      "shipping_method_id": 4,
+      "selected": false,
+      "cost": 15.3,
+      "tax_rate_id": null,
+      "created_at": "2025-02-21T07:38:48.267677",
+      "updated_at": "2025-06-28T22:28:56.448886"
+    },
+    {
+      "id": 108,
+      "shipment_id": 72,
+      "shipping_method_id": 6,
+      "selected": true,
+      "cost": 15.32,
+      "tax_rate_id": null,
+      "created_at": "2025-02-21T07:38:48.267677",
+      "updated_at": "2025-06-28T22:28:56.448886"
+    },
+    {
+      "id": 109,
+      "shipment_id": 73,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 22.13,
+      "tax_rate_id": null,
+      "created_at": "2024-09-26T03:02:45.420294",
+      "updated_at": "2025-05-20T02:58:00.084888"
+    },
+    {
+      "id": 110,
+      "shipment_id": 73,
+      "shipping_method_id": 6,
+      "selected": false,
+      "cost": 15.84,
+      "tax_rate_id": null,
+      "created_at": "2024-09-26T03:02:45.420294",
+      "updated_at": "2025-05-20T02:58:00.084888"
+    },
+    {
+      "id": 111,
+      "shipment_id": 73,
+      "shipping_method_id": 7,
+      "selected": true,
+      "cost": 15.13,
+      "tax_rate_id": null,
+      "created_at": "2024-09-26T03:02:45.420294",
+      "updated_at": "2025-05-20T02:58:00.084888"
+    },
+    {
+      "id": 112,
+      "shipment_id": 74,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 7.66,
+      "tax_rate_id": null,
+      "created_at": "2025-08-31T11:24:08.899500",
+      "updated_at": "2025-09-02T11:30:20.186400"
+    },
+    {
+      "id": 113,
+      "shipment_id": 74,
+      "shipping_method_id": 4,
+      "selected": true,
+      "cost": 9.42,
+      "tax_rate_id": null,
+      "created_at": "2025-08-31T11:24:08.899500",
+      "updated_at": "2025-09-02T11:30:20.186400"
+    },
+    {
+      "id": 114,
+      "shipment_id": 74,
+      "shipping_method_id": 6,
+      "selected": false,
+      "cost": 9.21,
+      "tax_rate_id": null,
+      "created_at": "2025-08-31T11:24:08.899500",
+      "updated_at": "2025-09-02T11:30:20.186400"
+    },
+    {
+      "id": 115,
+      "shipment_id": 75,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 12.8,
+      "tax_rate_id": null,
+      "created_at": "2025-04-03T02:40:39.745714",
+      "updated_at": "2025-08-22T11:12:34.238264"
+    },
+    {
+      "id": 116,
+      "shipment_id": 75,
+      "shipping_method_id": 4,
+      "selected": false,
+      "cost": 10.94,
+      "tax_rate_id": null,
+      "created_at": "2025-04-03T02:40:39.745714",
+      "updated_at": "2025-08-22T11:12:34.238264"
+    },
+    {
+      "id": 117,
+      "shipment_id": 75,
+      "shipping_method_id": 6,
+      "selected": false,
+      "cost": 14.85,
+      "tax_rate_id": null,
+      "created_at": "2025-04-03T02:40:39.745714",
+      "updated_at": "2025-08-22T11:12:34.238264"
+    },
+    {
+      "id": 118,
+      "shipment_id": 75,
+      "shipping_method_id": 7,
+      "selected": true,
+      "cost": 13.27,
+      "tax_rate_id": null,
+      "created_at": "2025-04-03T02:40:39.745714",
+      "updated_at": "2025-08-22T11:12:34.238264"
+    },
+    {
+      "id": 119,
+      "shipment_id": 77,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 10.48,
+      "tax_rate_id": null,
+      "created_at": "2025-01-25T03:26:49.420357",
+      "updated_at": "2025-08-27T21:49:30.225867"
+    },
+    {
+      "id": 120,
+      "shipment_id": 77,
+      "shipping_method_id": 4,
+      "selected": true,
+      "cost": 10.07,
+      "tax_rate_id": null,
+      "created_at": "2025-01-25T03:26:49.420357",
+      "updated_at": "2025-08-27T21:49:30.225867"
+    },
+    {
+      "id": 121,
+      "shipment_id": 77,
+      "shipping_method_id": 6,
+      "selected": false,
+      "cost": 11.77,
+      "tax_rate_id": null,
+      "created_at": "2025-01-25T03:26:49.420357",
+      "updated_at": "2025-08-27T21:49:30.225867"
+    },
+    {
+      "id": 122,
+      "shipment_id": 77,
+      "shipping_method_id": 7,
+      "selected": false,
+      "cost": 8.34,
+      "tax_rate_id": null,
+      "created_at": "2025-01-25T03:26:49.420357",
+      "updated_at": "2025-08-27T21:49:30.225867"
+    },
+    {
+      "id": 123,
+      "shipment_id": 78,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 6.3,
+      "tax_rate_id": null,
+      "created_at": "2025-04-27T04:02:45.665943",
+      "updated_at": "2025-08-21T05:52:28.771722"
+    },
+    {
+      "id": 124,
+      "shipment_id": 78,
+      "shipping_method_id": 4,
+      "selected": true,
+      "cost": 6.91,
+      "tax_rate_id": null,
+      "created_at": "2025-04-27T04:02:45.665943",
+      "updated_at": "2025-08-21T05:52:28.771722"
+    },
+    {
+      "id": 125,
+      "shipment_id": 78,
+      "shipping_method_id": 7,
+      "selected": false,
+      "cost": 8.65,
+      "tax_rate_id": null,
+      "created_at": "2025-04-27T04:02:45.665943",
+      "updated_at": "2025-08-21T05:52:28.771722"
+    },
+    {
+      "id": 126,
+      "shipment_id": 79,
+      "shipping_method_id": 5,
+      "selected": true,
+      "cost": 7.27,
+      "tax_rate_id": null,
+      "created_at": "2025-04-07T04:35:38.372506",
+      "updated_at": "2025-05-29T00:19:52.113882"
+    },
+    {
+      "id": 127,
+      "shipment_id": 79,
+      "shipping_method_id": 6,
+      "selected": false,
+      "cost": 10.33,
+      "tax_rate_id": null,
+      "created_at": "2025-04-07T04:35:38.372506",
+      "updated_at": "2025-05-29T00:19:52.113882"
+    },
+    {
+      "id": 128,
+      "shipment_id": 80,
+      "shipping_method_id": 4,
+      "selected": false,
+      "cost": 7.13,
+      "tax_rate_id": null,
+      "created_at": "2025-04-07T04:35:38.372506",
+      "updated_at": "2025-05-29T00:19:52.113882"
+    },
+    {
+      "id": 129,
+      "shipment_id": 80,
+      "shipping_method_id": 7,
+      "selected": true,
+      "cost": 7.29,
+      "tax_rate_id": null,
+      "created_at": "2025-04-07T04:35:38.372506",
+      "updated_at": "2025-05-29T00:19:52.113882"
+    },
+    {
+      "id": 130,
+      "shipment_id": 81,
+      "shipping_method_id": 1,
+      "selected": false,
+      "cost": 9.01,
+      "tax_rate_id": null,
+      "created_at": "2025-03-31T18:17:46.150736",
+      "updated_at": "2025-07-16T00:57:49.120183"
+    },
+    {
+      "id": 131,
+      "shipment_id": 81,
+      "shipping_method_id": 3,
+      "selected": true,
+      "cost": 6.61,
+      "tax_rate_id": null,
+      "created_at": "2025-03-31T18:17:46.150736",
+      "updated_at": "2025-07-16T00:57:49.120183"
+    },
+    {
+      "id": 132,
+      "shipment_id": 81,
+      "shipping_method_id": 4,
+      "selected": false,
+      "cost": 9.79,
+      "tax_rate_id": null,
+      "created_at": "2025-03-31T18:17:46.150736",
+      "updated_at": "2025-07-16T00:57:49.120183"
+    },
+    {
+      "id": 133,
+      "shipment_id": 81,
+      "shipping_method_id": 7,
+      "selected": false,
+      "cost": 9.34,
+      "tax_rate_id": null,
+      "created_at": "2025-03-31T18:17:46.150736",
+      "updated_at": "2025-07-16T00:57:49.120183"
+    },
+    {
+      "id": 134,
+      "shipment_id": 82,
+      "shipping_method_id": 4,
+      "selected": false,
+      "cost": 9.09,
+      "tax_rate_id": null,
+      "created_at": "2025-01-05T03:33:42.076103",
+      "updated_at": "2025-03-19T11:48:47.692840"
+    },
+    {
+      "id": 135,
+      "shipment_id": 82,
+      "shipping_method_id": 5,
+      "selected": true,
+      "cost": 10.65,
+      "tax_rate_id": null,
+      "created_at": "2025-01-05T03:33:42.076103",
+      "updated_at": "2025-03-19T11:48:47.692840"
+    },
+    {
+      "id": 136,
+      "shipment_id": 83,
+      "shipping_method_id": 4,
+      "selected": true,
+      "cost": 7.48,
+      "tax_rate_id": null,
+      "created_at": "2025-01-05T03:33:42.076103",
+      "updated_at": "2025-03-19T11:48:47.692840"
+    },
+    {
+      "id": 137,
+      "shipment_id": 83,
+      "shipping_method_id": 5,
+      "selected": false,
+      "cost": 8.74,
+      "tax_rate_id": null,
+      "created_at": "2025-01-05T03:33:42.076103",
+      "updated_at": "2025-03-19T11:48:47.692840"
+    },
+    {
+      "id": 138,
+      "shipment_id": 83,
+      "shipping_method_id": 7,
+      "selected": false,
+      "cost": 10.58,
+      "tax_rate_id": null,
+      "created_at": "2025-01-05T03:33:42.076103",
+      "updated_at": "2025-03-19T11:48:47.692840"
+    },
+    {
+      "id": 139,
+      "shipment_id": 87,
+      "shipping_method_id": 1,
+      "selected": false,
+      "cost": 8.57,
+      "tax_rate_id": null,
+      "created_at": "2025-06-22T17:19:07.678636",
+      "updated_at": "2025-08-05T23:30:44.397256"
+    },
+    {
+      "id": 140,
+      "shipment_id": 87,
+      "shipping_method_id": 4,
+      "selected": true,
+      "cost": 10.25,
+      "tax_rate_id": null,
+      "created_at": "2025-06-22T17:19:07.678636",
+      "updated_at": "2025-08-05T23:30:44.397256"
+    },
+    {
+      "id": 141,
+      "shipment_id": 89,
+      "shipping_method_id": 2,
+      "selected": false,
+      "cost": 8.07,
+      "tax_rate_id": null,
+      "created_at": "2025-05-27T14:29:55.148281",
+      "updated_at": "2025-07-04T09:20:02.743956"
+    },
+    {
+      "id": 142,
+      "shipment_id": 89,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 12.12,
+      "tax_rate_id": null,
+      "created_at": "2025-05-27T14:29:55.148281",
+      "updated_at": "2025-07-04T09:20:02.743956"
+    },
+    {
+      "id": 143,
+      "shipment_id": 89,
+      "shipping_method_id": 5,
+      "selected": true,
+      "cost": 9.24,
+      "tax_rate_id": null,
+      "created_at": "2025-05-27T14:29:55.148281",
+      "updated_at": "2025-07-04T09:20:02.743956"
+    },
+    {
+      "id": 144,
+      "shipment_id": 90,
+      "shipping_method_id": 2,
+      "selected": false,
+      "cost": 14.2,
+      "tax_rate_id": null,
+      "created_at": "2025-05-27T14:29:55.148281",
+      "updated_at": "2025-07-04T09:20:02.743956"
+    },
+    {
+      "id": 145,
+      "shipment_id": 90,
+      "shipping_method_id": 5,
+      "selected": true,
+      "cost": 13.37,
+      "tax_rate_id": null,
+      "created_at": "2025-05-27T14:29:55.148281",
+      "updated_at": "2025-07-04T09:20:02.743956"
+    },
+    {
+      "id": 146,
+      "shipment_id": 90,
+      "shipping_method_id": 6,
+      "selected": false,
+      "cost": 11.06,
+      "tax_rate_id": null,
+      "created_at": "2025-05-27T14:29:55.148281",
+      "updated_at": "2025-07-04T09:20:02.743956"
+    },
+    {
+      "id": 147,
+      "shipment_id": 91,
+      "shipping_method_id": 1,
+      "selected": false,
+      "cost": 9.81,
+      "tax_rate_id": null,
+      "created_at": "2024-09-21T17:13:32.356102",
+      "updated_at": "2025-07-08T19:35:59.778912"
+    },
+    {
+      "id": 148,
+      "shipment_id": 91,
+      "shipping_method_id": 2,
+      "selected": false,
+      "cost": 13.18,
+      "tax_rate_id": null,
+      "created_at": "2024-09-21T17:13:32.356102",
+      "updated_at": "2025-07-08T19:35:59.778912"
+    },
+    {
+      "id": 149,
+      "shipment_id": 91,
+      "shipping_method_id": 5,
+      "selected": true,
+      "cost": 11.8,
+      "tax_rate_id": null,
+      "created_at": "2024-09-21T17:13:32.356102",
+      "updated_at": "2025-07-08T19:35:59.778912"
+    },
+    {
+      "id": 150,
+      "shipment_id": 92,
+      "shipping_method_id": 1,
+      "selected": false,
+      "cost": 5.72,
+      "tax_rate_id": null,
+      "created_at": "2025-07-21T14:14:30.925617",
+      "updated_at": "2025-08-18T20:25:42.476852"
+    },
+    {
+      "id": 151,
+      "shipment_id": 92,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 7.98,
+      "tax_rate_id": null,
+      "created_at": "2025-07-21T14:14:30.925617",
+      "updated_at": "2025-08-18T20:25:42.476852"
+    },
+    {
+      "id": 152,
+      "shipment_id": 92,
+      "shipping_method_id": 4,
+      "selected": true,
+      "cost": 7.06,
+      "tax_rate_id": null,
+      "created_at": "2025-07-21T14:14:30.925617",
+      "updated_at": "2025-08-18T20:25:42.476852"
+    },
+    {
+      "id": 153,
+      "shipment_id": 92,
+      "shipping_method_id": 5,
+      "selected": false,
+      "cost": 5.78,
+      "tax_rate_id": null,
+      "created_at": "2025-07-21T14:14:30.925617",
+      "updated_at": "2025-08-18T20:25:42.476852"
+    },
+    {
+      "id": 154,
+      "shipment_id": 93,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 8.33,
+      "tax_rate_id": null,
+      "created_at": "2025-06-03T23:40:03.261922",
+      "updated_at": "2025-07-05T00:59:04.068262"
+    },
+    {
+      "id": 155,
+      "shipment_id": 93,
+      "shipping_method_id": 4,
+      "selected": true,
+      "cost": 6.39,
+      "tax_rate_id": null,
+      "created_at": "2025-06-03T23:40:03.261922",
+      "updated_at": "2025-07-05T00:59:04.068262"
+    },
+    {
+      "id": 156,
+      "shipment_id": 94,
+      "shipping_method_id": 1,
+      "selected": true,
+      "cost": 14.41,
+      "tax_rate_id": null,
+      "created_at": "2024-10-19T00:58:03.440913",
+      "updated_at": "2024-12-01T08:25:14.363823"
+    },
+    {
+      "id": 157,
+      "shipment_id": 94,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 18.14,
+      "tax_rate_id": null,
+      "created_at": "2024-10-19T00:58:03.440913",
+      "updated_at": "2024-12-01T08:25:14.363823"
+    },
+    {
+      "id": 158,
+      "shipment_id": 94,
+      "shipping_method_id": 6,
+      "selected": false,
+      "cost": 17.15,
+      "tax_rate_id": null,
+      "created_at": "2024-10-19T00:58:03.440913",
+      "updated_at": "2024-12-01T08:25:14.363823"
+    },
+    {
+      "id": 159,
+      "shipment_id": 97,
+      "shipping_method_id": 2,
+      "selected": true,
+      "cost": 15.03,
+      "tax_rate_id": null,
+      "created_at": "2025-01-16T04:29:03.969867",
+      "updated_at": "2025-07-15T15:57:19.384939"
+    },
+    {
+      "id": 160,
+      "shipment_id": 97,
+      "shipping_method_id": 4,
+      "selected": false,
+      "cost": 16.4,
+      "tax_rate_id": null,
+      "created_at": "2025-01-16T04:29:03.969867",
+      "updated_at": "2025-07-15T15:57:19.384939"
+    },
+    {
+      "id": 161,
+      "shipment_id": 102,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 19.96,
+      "tax_rate_id": null,
+      "created_at": "2025-02-15T23:18:55.868051",
+      "updated_at": "2025-05-11T08:45:27.241316"
+    },
+    {
+      "id": 162,
+      "shipment_id": 102,
+      "shipping_method_id": 4,
+      "selected": true,
+      "cost": 14.4,
+      "tax_rate_id": null,
+      "created_at": "2025-02-15T23:18:55.868051",
+      "updated_at": "2025-05-11T08:45:27.241316"
+    },
+    {
+      "id": 163,
+      "shipment_id": 102,
+      "shipping_method_id": 7,
+      "selected": false,
+      "cost": 14.04,
+      "tax_rate_id": null,
+      "created_at": "2025-02-15T23:18:55.868051",
+      "updated_at": "2025-05-11T08:45:27.241316"
+    },
+    {
+      "id": 164,
+      "shipment_id": 103,
+      "shipping_method_id": 1,
+      "selected": false,
+      "cost": 18.43,
+      "tax_rate_id": null,
+      "created_at": "2025-02-15T23:18:55.868051",
+      "updated_at": "2025-05-11T08:45:27.241316"
+    },
+    {
+      "id": 165,
+      "shipment_id": 103,
+      "shipping_method_id": 4,
+      "selected": true,
+      "cost": 14.1,
+      "tax_rate_id": null,
+      "created_at": "2025-02-15T23:18:55.868051",
+      "updated_at": "2025-05-11T08:45:27.241316"
+    },
+    {
+      "id": 166,
+      "shipment_id": 104,
+      "shipping_method_id": 1,
+      "selected": false,
+      "cost": 20.86,
+      "tax_rate_id": null,
+      "created_at": "2024-10-02T13:13:40.087264",
+      "updated_at": "2024-11-14T19:13:30.392030"
+    },
+    {
+      "id": 167,
+      "shipment_id": 104,
+      "shipping_method_id": 5,
+      "selected": false,
+      "cost": 18.99,
+      "tax_rate_id": null,
+      "created_at": "2024-10-02T13:13:40.087264",
+      "updated_at": "2024-11-14T19:13:30.392030"
+    },
+    {
+      "id": 168,
+      "shipment_id": 104,
+      "shipping_method_id": 6,
+      "selected": true,
+      "cost": 13.91,
+      "tax_rate_id": null,
+      "created_at": "2024-10-02T13:13:40.087264",
+      "updated_at": "2024-11-14T19:13:30.392030"
+    },
+    {
+      "id": 169,
+      "shipment_id": 105,
+      "shipping_method_id": 1,
+      "selected": true,
+      "cost": 8.73,
+      "tax_rate_id": null,
+      "created_at": "2025-08-02T00:08:30.117661",
+      "updated_at": "2025-08-09T04:32:00.984909"
+    },
+    {
+      "id": 170,
+      "shipment_id": 105,
+      "shipping_method_id": 6,
+      "selected": false,
+      "cost": 12.56,
+      "tax_rate_id": null,
+      "created_at": "2025-08-02T00:08:30.117661",
+      "updated_at": "2025-08-09T04:32:00.984909"
+    },
+    {
+      "id": 171,
+      "shipment_id": 106,
+      "shipping_method_id": 2,
+      "selected": false,
+      "cost": 5.59,
+      "tax_rate_id": null,
+      "created_at": "2025-07-16T02:55:17.691874",
+      "updated_at": "2025-09-03T00:01:28.366566"
+    },
+    {
+      "id": 172,
+      "shipment_id": 106,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 9.61,
+      "tax_rate_id": null,
+      "created_at": "2025-07-16T02:55:17.691874",
+      "updated_at": "2025-09-03T00:01:28.366566"
+    },
+    {
+      "id": 173,
+      "shipment_id": 106,
+      "shipping_method_id": 4,
+      "selected": true,
+      "cost": 6.83,
+      "tax_rate_id": null,
+      "created_at": "2025-07-16T02:55:17.691874",
+      "updated_at": "2025-09-03T00:01:28.366566"
+    },
+    {
+      "id": 174,
+      "shipment_id": 107,
+      "shipping_method_id": 2,
+      "selected": false,
+      "cost": 9.41,
+      "tax_rate_id": null,
+      "created_at": "2025-06-19T13:40:27.394542",
+      "updated_at": "2025-07-15T19:59:11.884690"
+    },
+    {
+      "id": 175,
+      "shipment_id": 107,
+      "shipping_method_id": 4,
+      "selected": true,
+      "cost": 8.81,
+      "tax_rate_id": null,
+      "created_at": "2025-06-19T13:40:27.394542",
+      "updated_at": "2025-07-15T19:59:11.884690"
+    },
+    {
+      "id": 176,
+      "shipment_id": 107,
+      "shipping_method_id": 5,
+      "selected": false,
+      "cost": 11.61,
+      "tax_rate_id": null,
+      "created_at": "2025-06-19T13:40:27.394542",
+      "updated_at": "2025-07-15T19:59:11.884690"
+    },
+    {
+      "id": 177,
+      "shipment_id": 107,
+      "shipping_method_id": 6,
+      "selected": false,
+      "cost": 12.59,
+      "tax_rate_id": null,
+      "created_at": "2025-06-19T13:40:27.394542",
+      "updated_at": "2025-07-15T19:59:11.884690"
+    },
+    {
+      "id": 178,
+      "shipment_id": 108,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 8.34,
+      "tax_rate_id": null,
+      "created_at": "2025-05-15T17:48:51.577480",
+      "updated_at": "2025-05-21T04:15:45.993275"
+    },
+    {
+      "id": 179,
+      "shipment_id": 108,
+      "shipping_method_id": 4,
+      "selected": true,
+      "cost": 8.62,
+      "tax_rate_id": null,
+      "created_at": "2025-05-15T17:48:51.577480",
+      "updated_at": "2025-05-21T04:15:45.993275"
+    },
+    {
+      "id": 180,
+      "shipment_id": 108,
+      "shipping_method_id": 5,
+      "selected": false,
+      "cost": 7.28,
+      "tax_rate_id": null,
+      "created_at": "2025-05-15T17:48:51.577480",
+      "updated_at": "2025-05-21T04:15:45.993275"
+    },
+    {
+      "id": 181,
+      "shipment_id": 111,
+      "shipping_method_id": 1,
+      "selected": true,
+      "cost": 6.66,
+      "tax_rate_id": null,
+      "created_at": "2024-09-14T06:22:29.874212",
+      "updated_at": "2025-07-03T15:36:20.519072"
+    },
+    {
+      "id": 182,
+      "shipment_id": 111,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 8.56,
+      "tax_rate_id": null,
+      "created_at": "2024-09-14T06:22:29.874212",
+      "updated_at": "2025-07-03T15:36:20.519072"
+    },
+    {
+      "id": 183,
+      "shipment_id": 112,
+      "shipping_method_id": 1,
+      "selected": false,
+      "cost": 14.37,
+      "tax_rate_id": null,
+      "created_at": "2025-07-06T02:36:19.794006",
+      "updated_at": "2025-07-28T07:58:09.402892"
+    },
+    {
+      "id": 184,
+      "shipment_id": 112,
+      "shipping_method_id": 4,
+      "selected": false,
+      "cost": 9.34,
+      "tax_rate_id": null,
+      "created_at": "2025-07-06T02:36:19.794006",
+      "updated_at": "2025-07-28T07:58:09.402892"
+    },
+    {
+      "id": 185,
+      "shipment_id": 112,
+      "shipping_method_id": 5,
+      "selected": true,
+      "cost": 10.03,
+      "tax_rate_id": null,
+      "created_at": "2025-07-06T02:36:19.794006",
+      "updated_at": "2025-07-28T07:58:09.402892"
+    },
+    {
+      "id": 186,
+      "shipment_id": 112,
+      "shipping_method_id": 7,
+      "selected": false,
+      "cost": 8.28,
+      "tax_rate_id": null,
+      "created_at": "2025-07-06T02:36:19.794006",
+      "updated_at": "2025-07-28T07:58:09.402892"
+    },
+    {
+      "id": 187,
+      "shipment_id": 116,
+      "shipping_method_id": 1,
+      "selected": false,
+      "cost": 14.53,
+      "tax_rate_id": null,
+      "created_at": "2025-06-29T19:01:47.741547",
+      "updated_at": "2025-08-20T08:04:31.747162"
+    },
+    {
+      "id": 188,
+      "shipment_id": 116,
+      "shipping_method_id": 2,
+      "selected": false,
+      "cost": 11.21,
+      "tax_rate_id": null,
+      "created_at": "2025-06-29T19:01:47.741547",
+      "updated_at": "2025-08-20T08:04:31.747162"
+    },
+    {
+      "id": 189,
+      "shipment_id": 116,
+      "shipping_method_id": 3,
+      "selected": true,
+      "cost": 11.24,
+      "tax_rate_id": null,
+      "created_at": "2025-06-29T19:01:47.741547",
+      "updated_at": "2025-08-20T08:04:31.747162"
+    },
+    {
+      "id": 190,
+      "shipment_id": 116,
+      "shipping_method_id": 4,
+      "selected": false,
+      "cost": 11.17,
+      "tax_rate_id": null,
+      "created_at": "2025-06-29T19:01:47.741547",
+      "updated_at": "2025-08-20T08:04:31.747162"
+    },
+    {
+      "id": 191,
+      "shipment_id": 118,
+      "shipping_method_id": 2,
+      "selected": false,
+      "cost": 7.01,
+      "tax_rate_id": null,
+      "created_at": "2025-03-18T19:24:10.236795",
+      "updated_at": "2025-05-31T11:03:26.343269"
+    },
+    {
+      "id": 192,
+      "shipment_id": 118,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 11.48,
+      "tax_rate_id": null,
+      "created_at": "2025-03-18T19:24:10.236795",
+      "updated_at": "2025-05-31T11:03:26.343269"
+    },
+    {
+      "id": 193,
+      "shipment_id": 118,
+      "shipping_method_id": 4,
+      "selected": false,
+      "cost": 10.39,
+      "tax_rate_id": null,
+      "created_at": "2025-03-18T19:24:10.236795",
+      "updated_at": "2025-05-31T11:03:26.343269"
+    },
+    {
+      "id": 194,
+      "shipment_id": 118,
+      "shipping_method_id": 6,
+      "selected": true,
+      "cost": 7.66,
+      "tax_rate_id": null,
+      "created_at": "2025-03-18T19:24:10.236795",
+      "updated_at": "2025-05-31T11:03:26.343269"
+    },
+    {
+      "id": 195,
+      "shipment_id": 121,
+      "shipping_method_id": 2,
+      "selected": true,
+      "cost": 11.81,
+      "tax_rate_id": null,
+      "created_at": "2025-03-28T09:13:57.994661",
+      "updated_at": "2025-08-31T14:55:10.303966"
+    },
+    {
+      "id": 196,
+      "shipment_id": 121,
+      "shipping_method_id": 4,
+      "selected": false,
+      "cost": 11.14,
+      "tax_rate_id": null,
+      "created_at": "2025-03-28T09:13:57.994661",
+      "updated_at": "2025-08-31T14:55:10.303966"
+    },
+    {
+      "id": 197,
+      "shipment_id": 121,
+      "shipping_method_id": 6,
+      "selected": false,
+      "cost": 17.2,
+      "tax_rate_id": null,
+      "created_at": "2025-03-28T09:13:57.994661",
+      "updated_at": "2025-08-31T14:55:10.303966"
+    },
+    {
+      "id": 198,
+      "shipment_id": 122,
+      "shipping_method_id": 4,
+      "selected": false,
+      "cost": 10.18,
+      "tax_rate_id": null,
+      "created_at": "2024-12-28T21:16:58.325046",
+      "updated_at": "2025-02-22T14:32:27.312865"
+    },
+    {
+      "id": 199,
+      "shipment_id": 122,
+      "shipping_method_id": 5,
+      "selected": false,
+      "cost": 15.49,
+      "tax_rate_id": null,
+      "created_at": "2024-12-28T21:16:58.325046",
+      "updated_at": "2025-02-22T14:32:27.312865"
+    },
+    {
+      "id": 200,
+      "shipment_id": 122,
+      "shipping_method_id": 6,
+      "selected": false,
+      "cost": 13.83,
+      "tax_rate_id": null,
+      "created_at": "2024-12-28T21:16:58.325046",
+      "updated_at": "2025-02-22T14:32:27.312865"
+    },
+    {
+      "id": 201,
+      "shipment_id": 122,
+      "shipping_method_id": 7,
+      "selected": true,
+      "cost": 10.75,
+      "tax_rate_id": null,
+      "created_at": "2024-12-28T21:16:58.325046",
+      "updated_at": "2025-02-22T14:32:27.312865"
+    },
+    {
+      "id": 202,
+      "shipment_id": 124,
+      "shipping_method_id": 1,
+      "selected": false,
+      "cost": 16.34,
+      "tax_rate_id": null,
+      "created_at": "2025-08-26T00:27:35.311014",
+      "updated_at": "2025-08-26T22:27:28.125653"
+    },
+    {
+      "id": 203,
+      "shipment_id": 124,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 10.45,
+      "tax_rate_id": null,
+      "created_at": "2025-08-26T00:27:35.311014",
+      "updated_at": "2025-08-26T22:27:28.125653"
+    },
+    {
+      "id": 204,
+      "shipment_id": 124,
+      "shipping_method_id": 6,
+      "selected": true,
+      "cost": 12.57,
+      "tax_rate_id": null,
+      "created_at": "2025-08-26T00:27:35.311014",
+      "updated_at": "2025-08-26T22:27:28.125653"
+    },
+    {
+      "id": 205,
+      "shipment_id": 124,
+      "shipping_method_id": 7,
+      "selected": false,
+      "cost": 15.71,
+      "tax_rate_id": null,
+      "created_at": "2025-08-26T00:27:35.311014",
+      "updated_at": "2025-08-26T22:27:28.125653"
+    },
+    {
+      "id": 206,
+      "shipment_id": 125,
+      "shipping_method_id": 5,
+      "selected": true,
+      "cost": 8.55,
+      "tax_rate_id": null,
+      "created_at": "2024-12-01T20:06:34.081306",
+      "updated_at": "2025-04-09T17:32:23.163078"
+    },
+    {
+      "id": 207,
+      "shipment_id": 125,
+      "shipping_method_id": 6,
+      "selected": false,
+      "cost": 8.87,
+      "tax_rate_id": null,
+      "created_at": "2024-12-01T20:06:34.081306",
+      "updated_at": "2025-04-09T17:32:23.163078"
+    },
+    {
+      "id": 208,
+      "shipment_id": 126,
+      "shipping_method_id": 1,
+      "selected": true,
+      "cost": 9.14,
+      "tax_rate_id": null,
+      "created_at": "2025-01-10T18:56:03.098464",
+      "updated_at": "2025-07-01T13:49:33.391645"
+    },
+    {
+      "id": 209,
+      "shipment_id": 126,
+      "shipping_method_id": 2,
+      "selected": false,
+      "cost": 11.26,
+      "tax_rate_id": null,
+      "created_at": "2025-01-10T18:56:03.098464",
+      "updated_at": "2025-07-01T13:49:33.391645"
+    },
+    {
+      "id": 210,
+      "shipment_id": 126,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 10.05,
+      "tax_rate_id": null,
+      "created_at": "2025-01-10T18:56:03.098464",
+      "updated_at": "2025-07-01T13:49:33.391645"
+    },
+    {
+      "id": 211,
+      "shipment_id": 127,
+      "shipping_method_id": 1,
+      "selected": false,
+      "cost": 17.04,
+      "tax_rate_id": null,
+      "created_at": "2024-10-19T18:23:33.694048",
+      "updated_at": "2024-11-17T17:30:01.426527"
+    },
+    {
+      "id": 212,
+      "shipment_id": 127,
+      "shipping_method_id": 5,
+      "selected": true,
+      "cost": 12.08,
+      "tax_rate_id": null,
+      "created_at": "2024-10-19T18:23:33.694048",
+      "updated_at": "2024-11-17T17:30:01.426527"
+    },
+    {
+      "id": 213,
+      "shipment_id": 128,
+      "shipping_method_id": 1,
+      "selected": false,
+      "cost": 10.54,
+      "tax_rate_id": null,
+      "created_at": "2024-10-19T18:23:33.694048",
+      "updated_at": "2024-11-17T17:30:01.426527"
+    },
+    {
+      "id": 214,
+      "shipment_id": 128,
+      "shipping_method_id": 2,
+      "selected": false,
+      "cost": 10.2,
+      "tax_rate_id": null,
+      "created_at": "2024-10-19T18:23:33.694048",
+      "updated_at": "2024-11-17T17:30:01.426527"
+    },
+    {
+      "id": 215,
+      "shipment_id": 128,
+      "shipping_method_id": 7,
+      "selected": true,
+      "cost": 7.86,
+      "tax_rate_id": null,
+      "created_at": "2024-10-19T18:23:33.694048",
+      "updated_at": "2024-11-17T17:30:01.426527"
+    },
+    {
+      "id": 216,
+      "shipment_id": 129,
+      "shipping_method_id": 4,
+      "selected": false,
+      "cost": 6.36,
+      "tax_rate_id": null,
+      "created_at": "2024-11-27T01:53:27.073054",
+      "updated_at": "2025-01-26T21:34:28.194776"
+    },
+    {
+      "id": 217,
+      "shipment_id": 129,
+      "shipping_method_id": 6,
+      "selected": true,
+      "cost": 6.32,
+      "tax_rate_id": null,
+      "created_at": "2024-11-27T01:53:27.073054",
+      "updated_at": "2025-01-26T21:34:28.194776"
+    },
+    {
+      "id": 218,
+      "shipment_id": 130,
+      "shipping_method_id": 4,
+      "selected": false,
+      "cost": 8.53,
+      "tax_rate_id": null,
+      "created_at": "2024-11-27T01:53:27.073054",
+      "updated_at": "2025-01-26T21:34:28.194776"
+    },
+    {
+      "id": 219,
+      "shipment_id": 130,
+      "shipping_method_id": 5,
+      "selected": false,
+      "cost": 5.25,
+      "tax_rate_id": null,
+      "created_at": "2024-11-27T01:53:27.073054",
+      "updated_at": "2025-01-26T21:34:28.194776"
+    },
+    {
+      "id": 220,
+      "shipment_id": 130,
+      "shipping_method_id": 6,
+      "selected": true,
+      "cost": 6.5,
+      "tax_rate_id": null,
+      "created_at": "2024-11-27T01:53:27.073054",
+      "updated_at": "2025-01-26T21:34:28.194776"
+    },
+    {
+      "id": 221,
+      "shipment_id": 131,
+      "shipping_method_id": 4,
+      "selected": false,
+      "cost": 9.61,
+      "tax_rate_id": null,
+      "created_at": "2025-06-30T07:13:52.035392",
+      "updated_at": "2025-07-05T22:19:12.575963"
+    },
+    {
+      "id": 222,
+      "shipment_id": 131,
+      "shipping_method_id": 5,
+      "selected": true,
+      "cost": 7.58,
+      "tax_rate_id": null,
+      "created_at": "2025-06-30T07:13:52.035392",
+      "updated_at": "2025-07-05T22:19:12.575963"
+    },
+    {
+      "id": 223,
+      "shipment_id": 132,
+      "shipping_method_id": 5,
+      "selected": true,
+      "cost": 15.45,
+      "tax_rate_id": null,
+      "created_at": "2025-06-14T19:20:09.052637",
+      "updated_at": "2025-06-20T03:47:50.362864"
+    },
+    {
+      "id": 224,
+      "shipment_id": 132,
+      "shipping_method_id": 6,
+      "selected": false,
+      "cost": 18.64,
+      "tax_rate_id": null,
+      "created_at": "2025-06-14T19:20:09.052637",
+      "updated_at": "2025-06-20T03:47:50.362864"
+    },
+    {
+      "id": 225,
+      "shipment_id": 134,
+      "shipping_method_id": 1,
+      "selected": true,
+      "cost": 10.22,
+      "tax_rate_id": null,
+      "created_at": "2025-01-31T06:30:19.064228",
+      "updated_at": "2025-03-15T23:21:07.537424"
+    },
+    {
+      "id": 226,
+      "shipment_id": 134,
+      "shipping_method_id": 2,
+      "selected": false,
+      "cost": 14.26,
+      "tax_rate_id": null,
+      "created_at": "2025-01-31T06:30:19.064228",
+      "updated_at": "2025-03-15T23:21:07.537424"
+    },
+    {
+      "id": 227,
+      "shipment_id": 135,
+      "shipping_method_id": 2,
+      "selected": false,
+      "cost": 13.67,
+      "tax_rate_id": null,
+      "created_at": "2025-07-18T05:49:54.202289",
+      "updated_at": "2025-08-26T09:27:14.630608"
+    },
+    {
+      "id": 228,
+      "shipment_id": 135,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 14.81,
+      "tax_rate_id": null,
+      "created_at": "2025-07-18T05:49:54.202289",
+      "updated_at": "2025-08-26T09:27:14.630608"
+    },
+    {
+      "id": 229,
+      "shipment_id": 135,
+      "shipping_method_id": 5,
+      "selected": true,
+      "cost": 15.31,
+      "tax_rate_id": null,
+      "created_at": "2025-07-18T05:49:54.202289",
+      "updated_at": "2025-08-26T09:27:14.630608"
+    },
+    {
+      "id": 230,
+      "shipment_id": 135,
+      "shipping_method_id": 7,
+      "selected": false,
+      "cost": 16.42,
+      "tax_rate_id": null,
+      "created_at": "2025-07-18T05:49:54.202289",
+      "updated_at": "2025-08-26T09:27:14.630608"
+    },
+    {
+      "id": 231,
+      "shipment_id": 138,
+      "shipping_method_id": 2,
+      "selected": false,
+      "cost": 8.67,
+      "tax_rate_id": null,
+      "created_at": "2025-08-01T04:29:02.472332",
+      "updated_at": "2025-08-16T11:56:53.562139"
+    },
+    {
+      "id": 232,
+      "shipment_id": 138,
+      "shipping_method_id": 4,
+      "selected": true,
+      "cost": 8.0,
+      "tax_rate_id": null,
+      "created_at": "2025-08-01T04:29:02.472332",
+      "updated_at": "2025-08-16T11:56:53.562139"
+    },
+    {
+      "id": 233,
+      "shipment_id": 138,
+      "shipping_method_id": 6,
+      "selected": false,
+      "cost": 8.58,
+      "tax_rate_id": null,
+      "created_at": "2025-08-01T04:29:02.472332",
+      "updated_at": "2025-08-16T11:56:53.562139"
+    },
+    {
+      "id": 234,
+      "shipment_id": 140,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 14.31,
+      "tax_rate_id": null,
+      "created_at": "2024-10-14T13:36:03.675360",
+      "updated_at": "2024-12-03T00:52:30.016085"
+    },
+    {
+      "id": 235,
+      "shipment_id": 140,
+      "shipping_method_id": 6,
+      "selected": true,
+      "cost": 11.51,
+      "tax_rate_id": null,
+      "created_at": "2024-10-14T13:36:03.675360",
+      "updated_at": "2024-12-03T00:52:30.016085"
+    },
+    {
+      "id": 236,
+      "shipment_id": 143,
+      "shipping_method_id": 1,
+      "selected": false,
+      "cost": 13.37,
+      "tax_rate_id": null,
+      "created_at": "2025-04-07T05:40:16.749487",
+      "updated_at": "2025-07-04T22:17:07.152541"
+    },
+    {
+      "id": 237,
+      "shipment_id": 143,
+      "shipping_method_id": 5,
+      "selected": false,
+      "cost": 12.12,
+      "tax_rate_id": null,
+      "created_at": "2025-04-07T05:40:16.749487",
+      "updated_at": "2025-07-04T22:17:07.152541"
+    },
+    {
+      "id": 238,
+      "shipment_id": 143,
+      "shipping_method_id": 6,
+      "selected": true,
+      "cost": 9.03,
+      "tax_rate_id": null,
+      "created_at": "2025-04-07T05:40:16.749487",
+      "updated_at": "2025-07-04T22:17:07.152541"
+    },
+    {
+      "id": 239,
+      "shipment_id": 145,
+      "shipping_method_id": 1,
+      "selected": true,
+      "cost": 12.86,
+      "tax_rate_id": null,
+      "created_at": "2025-06-17T11:58:55.990865",
+      "updated_at": "2025-07-23T20:06:37.891661"
+    },
+    {
+      "id": 240,
+      "shipment_id": 145,
+      "shipping_method_id": 6,
+      "selected": false,
+      "cost": 11.43,
+      "tax_rate_id": null,
+      "created_at": "2025-06-17T11:58:55.990865",
+      "updated_at": "2025-07-23T20:06:37.891661"
+    },
+    {
+      "id": 241,
+      "shipment_id": 145,
+      "shipping_method_id": 7,
+      "selected": false,
+      "cost": 16.32,
+      "tax_rate_id": null,
+      "created_at": "2025-06-17T11:58:55.990865",
+      "updated_at": "2025-07-23T20:06:37.891661"
+    },
+    {
+      "id": 242,
+      "shipment_id": 146,
+      "shipping_method_id": 2,
+      "selected": false,
+      "cost": 15.13,
+      "tax_rate_id": null,
+      "created_at": "2024-12-22T00:59:51.545415",
+      "updated_at": "2025-07-12T23:52:07.389191"
+    },
+    {
+      "id": 243,
+      "shipment_id": 146,
+      "shipping_method_id": 3,
+      "selected": true,
+      "cost": 10.43,
+      "tax_rate_id": null,
+      "created_at": "2024-12-22T00:59:51.545415",
+      "updated_at": "2025-07-12T23:52:07.389191"
+    },
+    {
+      "id": 244,
+      "shipment_id": 147,
+      "shipping_method_id": 6,
+      "selected": false,
+      "cost": 13.16,
+      "tax_rate_id": null,
+      "created_at": "2024-12-22T00:59:51.545415",
+      "updated_at": "2025-07-12T23:52:07.389191"
+    },
+    {
+      "id": 245,
+      "shipment_id": 147,
+      "shipping_method_id": 7,
+      "selected": true,
+      "cost": 15.18,
+      "tax_rate_id": null,
+      "created_at": "2024-12-22T00:59:51.545415",
+      "updated_at": "2025-07-12T23:52:07.389191"
+    },
+    {
+      "id": 246,
+      "shipment_id": 150,
+      "shipping_method_id": 1,
+      "selected": true,
+      "cost": 15.61,
+      "tax_rate_id": null,
+      "created_at": "2025-07-09T09:24:19.225906",
+      "updated_at": "2025-08-02T10:29:48.772088"
+    },
+    {
+      "id": 247,
+      "shipment_id": 150,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 21.12,
+      "tax_rate_id": null,
+      "created_at": "2025-07-09T09:24:19.225906",
+      "updated_at": "2025-08-02T10:29:48.772088"
+    },
+    {
+      "id": 248,
+      "shipment_id": 150,
+      "shipping_method_id": 6,
+      "selected": false,
+      "cost": 13.23,
+      "tax_rate_id": null,
+      "created_at": "2025-07-09T09:24:19.225906",
+      "updated_at": "2025-08-02T10:29:48.772088"
+    },
+    {
+      "id": 249,
+      "shipment_id": 150,
+      "shipping_method_id": 7,
+      "selected": false,
+      "cost": 18.19,
+      "tax_rate_id": null,
+      "created_at": "2025-07-09T09:24:19.225906",
+      "updated_at": "2025-08-02T10:29:48.772088"
+    },
+    {
+      "id": 250,
+      "shipment_id": 151,
+      "shipping_method_id": 2,
+      "selected": true,
+      "cost": 12.56,
+      "tax_rate_id": null,
+      "created_at": "2025-07-09T09:24:19.225906",
+      "updated_at": "2025-08-02T10:29:48.772088"
+    },
+    {
+      "id": 251,
+      "shipment_id": 151,
+      "shipping_method_id": 5,
+      "selected": false,
+      "cost": 12.53,
+      "tax_rate_id": null,
+      "created_at": "2025-07-09T09:24:19.225906",
+      "updated_at": "2025-08-02T10:29:48.772088"
+    },
+    {
+      "id": 252,
+      "shipment_id": 152,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 7.08,
+      "tax_rate_id": null,
+      "created_at": "2025-05-06T06:19:00.212845",
+      "updated_at": "2025-07-14T13:08:00.037835"
+    },
+    {
+      "id": 253,
+      "shipment_id": 152,
+      "shipping_method_id": 5,
+      "selected": false,
+      "cost": 8.18,
+      "tax_rate_id": null,
+      "created_at": "2025-05-06T06:19:00.212845",
+      "updated_at": "2025-07-14T13:08:00.037835"
+    },
+    {
+      "id": 254,
+      "shipment_id": 152,
+      "shipping_method_id": 6,
+      "selected": true,
+      "cost": 8.11,
+      "tax_rate_id": null,
+      "created_at": "2025-05-06T06:19:00.212845",
+      "updated_at": "2025-07-14T13:08:00.037835"
+    },
+    {
+      "id": 255,
+      "shipment_id": 154,
+      "shipping_method_id": 1,
+      "selected": true,
+      "cost": 8.81,
+      "tax_rate_id": null,
+      "created_at": "2025-01-31T04:24:20.791378",
+      "updated_at": "2025-08-04T17:58:38.687100"
+    },
+    {
+      "id": 256,
+      "shipment_id": 154,
+      "shipping_method_id": 2,
+      "selected": false,
+      "cost": 11.81,
+      "tax_rate_id": null,
+      "created_at": "2025-01-31T04:24:20.791378",
+      "updated_at": "2025-08-04T17:58:38.687100"
+    },
+    {
+      "id": 257,
+      "shipment_id": 157,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 12.32,
+      "tax_rate_id": null,
+      "created_at": "2025-08-02T16:58:35.815103",
+      "updated_at": "2025-08-05T01:20:53.485021"
+    },
+    {
+      "id": 258,
+      "shipment_id": 157,
+      "shipping_method_id": 5,
+      "selected": false,
+      "cost": 18.78,
+      "tax_rate_id": null,
+      "created_at": "2025-08-02T16:58:35.815103",
+      "updated_at": "2025-08-05T01:20:53.485021"
+    },
+    {
+      "id": 259,
+      "shipment_id": 157,
+      "shipping_method_id": 6,
+      "selected": true,
+      "cost": 13.94,
+      "tax_rate_id": null,
+      "created_at": "2025-08-02T16:58:35.815103",
+      "updated_at": "2025-08-05T01:20:53.485021"
+    },
+    {
+      "id": 260,
+      "shipment_id": 158,
+      "shipping_method_id": 1,
+      "selected": false,
+      "cost": 10.48,
+      "tax_rate_id": null,
+      "created_at": "2025-01-17T04:36:02.793146",
+      "updated_at": "2025-04-28T07:03:31.378734"
+    },
+    {
+      "id": 261,
+      "shipment_id": 158,
+      "shipping_method_id": 4,
+      "selected": true,
+      "cost": 7.79,
+      "tax_rate_id": null,
+      "created_at": "2025-01-17T04:36:02.793146",
+      "updated_at": "2025-04-28T07:03:31.378734"
+    },
+    {
+      "id": 262,
+      "shipment_id": 159,
+      "shipping_method_id": 1,
+      "selected": true,
+      "cost": 6.66,
+      "tax_rate_id": null,
+      "created_at": "2025-02-01T09:05:00.595011",
+      "updated_at": "2025-03-23T15:55:13.495653"
+    },
+    {
+      "id": 263,
+      "shipment_id": 159,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 9.89,
+      "tax_rate_id": null,
+      "created_at": "2025-02-01T09:05:00.595011",
+      "updated_at": "2025-03-23T15:55:13.495653"
+    },
+    {
+      "id": 264,
+      "shipment_id": 159,
+      "shipping_method_id": 7,
+      "selected": false,
+      "cost": 6.14,
+      "tax_rate_id": null,
+      "created_at": "2025-02-01T09:05:00.595011",
+      "updated_at": "2025-03-23T15:55:13.495653"
+    },
+    {
+      "id": 265,
+      "shipment_id": 162,
+      "shipping_method_id": 1,
+      "selected": false,
+      "cost": 10.28,
+      "tax_rate_id": null,
+      "created_at": "2025-07-18T15:42:51.313948",
+      "updated_at": "2025-08-19T00:18:51.215434"
+    },
+    {
+      "id": 266,
+      "shipment_id": 162,
+      "shipping_method_id": 4,
+      "selected": true,
+      "cost": 7.32,
+      "tax_rate_id": null,
+      "created_at": "2025-07-18T15:42:51.313948",
+      "updated_at": "2025-08-19T00:18:51.215434"
+    },
+    {
+      "id": 267,
+      "shipment_id": 163,
+      "shipping_method_id": 2,
+      "selected": false,
+      "cost": 9.69,
+      "tax_rate_id": null,
+      "created_at": "2025-08-09T04:27:20.043744",
+      "updated_at": "2025-08-23T19:46:58.822757"
+    },
+    {
+      "id": 268,
+      "shipment_id": 163,
+      "shipping_method_id": 5,
+      "selected": true,
+      "cost": 9.89,
+      "tax_rate_id": null,
+      "created_at": "2025-08-09T04:27:20.043744",
+      "updated_at": "2025-08-23T19:46:58.822757"
+    },
+    {
+      "id": 269,
+      "shipment_id": 164,
+      "shipping_method_id": 2,
+      "selected": false,
+      "cost": 10.55,
+      "tax_rate_id": null,
+      "created_at": "2025-03-18T23:04:41.109271",
+      "updated_at": "2025-06-28T22:30:27.332885"
+    },
+    {
+      "id": 270,
+      "shipment_id": 164,
+      "shipping_method_id": 5,
+      "selected": true,
+      "cost": 10.5,
+      "tax_rate_id": null,
+      "created_at": "2025-03-18T23:04:41.109271",
+      "updated_at": "2025-06-28T22:30:27.332885"
+    },
+    {
+      "id": 271,
+      "shipment_id": 165,
+      "shipping_method_id": 2,
+      "selected": false,
+      "cost": 13.04,
+      "tax_rate_id": null,
+      "created_at": "2024-10-07T08:48:52.606958",
+      "updated_at": "2024-10-18T23:32:43.386957"
+    },
+    {
+      "id": 272,
+      "shipment_id": 165,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 10.1,
+      "tax_rate_id": null,
+      "created_at": "2024-10-07T08:48:52.606958",
+      "updated_at": "2024-10-18T23:32:43.386957"
+    },
+    {
+      "id": 273,
+      "shipment_id": 165,
+      "shipping_method_id": 5,
+      "selected": false,
+      "cost": 14.31,
+      "tax_rate_id": null,
+      "created_at": "2024-10-07T08:48:52.606958",
+      "updated_at": "2024-10-18T23:32:43.386957"
+    },
+    {
+      "id": 274,
+      "shipment_id": 165,
+      "shipping_method_id": 6,
+      "selected": true,
+      "cost": 10.64,
+      "tax_rate_id": null,
+      "created_at": "2024-10-07T08:48:52.606958",
+      "updated_at": "2024-10-18T23:32:43.386957"
+    },
+    {
+      "id": 275,
+      "shipment_id": 167,
+      "shipping_method_id": 1,
+      "selected": true,
+      "cost": 6.0,
+      "tax_rate_id": null,
+      "created_at": "2025-07-13T12:23:42.059148",
+      "updated_at": "2025-07-25T22:57:03.450860"
+    },
+    {
+      "id": 276,
+      "shipment_id": 167,
+      "shipping_method_id": 2,
+      "selected": false,
+      "cost": 6.72,
+      "tax_rate_id": null,
+      "created_at": "2025-07-13T12:23:42.059148",
+      "updated_at": "2025-07-25T22:57:03.450860"
+    },
+    {
+      "id": 277,
+      "shipment_id": 167,
+      "shipping_method_id": 7,
+      "selected": false,
+      "cost": 5.28,
+      "tax_rate_id": null,
+      "created_at": "2025-07-13T12:23:42.059148",
+      "updated_at": "2025-07-25T22:57:03.450860"
+    },
+    {
+      "id": 278,
+      "shipment_id": 168,
+      "shipping_method_id": 5,
+      "selected": true,
+      "cost": 7.22,
+      "tax_rate_id": null,
+      "created_at": "2024-10-10T13:27:38.195412",
+      "updated_at": "2024-12-13T20:46:12.344556"
+    },
+    {
+      "id": 279,
+      "shipment_id": 168,
+      "shipping_method_id": 6,
+      "selected": false,
+      "cost": 9.76,
+      "tax_rate_id": null,
+      "created_at": "2024-10-10T13:27:38.195412",
+      "updated_at": "2024-12-13T20:46:12.344556"
+    },
+    {
+      "id": 280,
+      "shipment_id": 169,
+      "shipping_method_id": 1,
+      "selected": false,
+      "cost": 13.2,
+      "tax_rate_id": null,
+      "created_at": "2025-05-11T17:36:08.227690",
+      "updated_at": "2025-09-01T06:06:38.008703"
+    },
+    {
+      "id": 281,
+      "shipment_id": 169,
+      "shipping_method_id": 2,
+      "selected": false,
+      "cost": 16.85,
+      "tax_rate_id": null,
+      "created_at": "2025-05-11T17:36:08.227690",
+      "updated_at": "2025-09-01T06:06:38.008703"
+    },
+    {
+      "id": 282,
+      "shipment_id": 169,
+      "shipping_method_id": 4,
+      "selected": false,
+      "cost": 12.96,
+      "tax_rate_id": null,
+      "created_at": "2025-05-11T17:36:08.227690",
+      "updated_at": "2025-09-01T06:06:38.008703"
+    },
+    {
+      "id": 283,
+      "shipment_id": 169,
+      "shipping_method_id": 5,
+      "selected": true,
+      "cost": 13.33,
+      "tax_rate_id": null,
+      "created_at": "2025-05-11T17:36:08.227690",
+      "updated_at": "2025-09-01T06:06:38.008703"
+    },
+    {
+      "id": 284,
+      "shipment_id": 172,
+      "shipping_method_id": 2,
+      "selected": false,
+      "cost": 13.97,
+      "tax_rate_id": null,
+      "created_at": "2025-05-26T03:47:30.816567",
+      "updated_at": "2025-08-04T17:17:03.091575"
+    },
+    {
+      "id": 285,
+      "shipment_id": 172,
+      "shipping_method_id": 4,
+      "selected": false,
+      "cost": 13.36,
+      "tax_rate_id": null,
+      "created_at": "2025-05-26T03:47:30.816567",
+      "updated_at": "2025-08-04T17:17:03.091575"
+    },
+    {
+      "id": 286,
+      "shipment_id": 172,
+      "shipping_method_id": 7,
+      "selected": true,
+      "cost": 10.88,
+      "tax_rate_id": null,
+      "created_at": "2025-05-26T03:47:30.816567",
+      "updated_at": "2025-08-04T17:17:03.091575"
+    },
+    {
+      "id": 287,
+      "shipment_id": 173,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 12.16,
+      "tax_rate_id": null,
+      "created_at": "2025-05-12T15:48:26.390891",
+      "updated_at": "2025-07-19T02:08:18.191324"
+    },
+    {
+      "id": 288,
+      "shipment_id": 173,
+      "shipping_method_id": 6,
+      "selected": true,
+      "cost": 14.02,
+      "tax_rate_id": null,
+      "created_at": "2025-05-12T15:48:26.390891",
+      "updated_at": "2025-07-19T02:08:18.191324"
+    },
+    {
+      "id": 289,
+      "shipment_id": 173,
+      "shipping_method_id": 7,
+      "selected": false,
+      "cost": 17.77,
+      "tax_rate_id": null,
+      "created_at": "2025-05-12T15:48:26.390891",
+      "updated_at": "2025-07-19T02:08:18.191324"
+    },
+    {
+      "id": 290,
+      "shipment_id": 174,
+      "shipping_method_id": 1,
+      "selected": false,
+      "cost": 5.77,
+      "tax_rate_id": null,
+      "created_at": "2025-02-20T18:50:34.501786",
+      "updated_at": "2025-03-29T21:30:23.542187"
+    },
+    {
+      "id": 291,
+      "shipment_id": 174,
+      "shipping_method_id": 2,
+      "selected": true,
+      "cost": 6.71,
+      "tax_rate_id": null,
+      "created_at": "2025-02-20T18:50:34.501786",
+      "updated_at": "2025-03-29T21:30:23.542187"
+    },
+    {
+      "id": 292,
+      "shipment_id": 175,
+      "shipping_method_id": 4,
+      "selected": true,
+      "cost": 7.14,
+      "tax_rate_id": null,
+      "created_at": "2025-05-23T18:04:12.090044",
+      "updated_at": "2025-06-17T21:25:05.267643"
+    },
+    {
+      "id": 293,
+      "shipment_id": 175,
+      "shipping_method_id": 6,
+      "selected": false,
+      "cost": 7.15,
+      "tax_rate_id": null,
+      "created_at": "2025-05-23T18:04:12.090044",
+      "updated_at": "2025-06-17T21:25:05.267643"
+    },
+    {
+      "id": 294,
+      "shipment_id": 176,
+      "shipping_method_id": 2,
+      "selected": true,
+      "cost": 7.83,
+      "tax_rate_id": null,
+      "created_at": "2024-09-04T13:11:53.954166",
+      "updated_at": "2025-05-06T12:52:40.911956"
+    },
+    {
+      "id": 295,
+      "shipment_id": 176,
+      "shipping_method_id": 5,
+      "selected": false,
+      "cost": 7.93,
+      "tax_rate_id": null,
+      "created_at": "2024-09-04T13:11:53.954166",
+      "updated_at": "2025-05-06T12:52:40.911956"
+    },
+    {
+      "id": 296,
+      "shipment_id": 176,
+      "shipping_method_id": 7,
+      "selected": false,
+      "cost": 10.2,
+      "tax_rate_id": null,
+      "created_at": "2024-09-04T13:11:53.954166",
+      "updated_at": "2025-05-06T12:52:40.911956"
+    },
+    {
+      "id": 297,
+      "shipment_id": 177,
+      "shipping_method_id": 1,
+      "selected": true,
+      "cost": 15.46,
+      "tax_rate_id": null,
+      "created_at": "2025-08-13T00:14:55.989605",
+      "updated_at": "2025-08-22T11:10:59.767832"
+    },
+    {
+      "id": 298,
+      "shipment_id": 177,
+      "shipping_method_id": 7,
+      "selected": false,
+      "cost": 13.16,
+      "tax_rate_id": null,
+      "created_at": "2025-08-13T00:14:55.989605",
+      "updated_at": "2025-08-22T11:10:59.767832"
+    },
+    {
+      "id": 299,
+      "shipment_id": 178,
+      "shipping_method_id": 4,
+      "selected": false,
+      "cost": 11.12,
+      "tax_rate_id": null,
+      "created_at": "2025-08-07T07:53:00.843442",
+      "updated_at": "2025-08-08T21:05:02.908393"
+    },
+    {
+      "id": 300,
+      "shipment_id": 178,
+      "shipping_method_id": 5,
+      "selected": false,
+      "cost": 9.83,
+      "tax_rate_id": null,
+      "created_at": "2025-08-07T07:53:00.843442",
+      "updated_at": "2025-08-08T21:05:02.908393"
+    },
+    {
+      "id": 301,
+      "shipment_id": 178,
+      "shipping_method_id": 6,
+      "selected": false,
+      "cost": 8.12,
+      "tax_rate_id": null,
+      "created_at": "2025-08-07T07:53:00.843442",
+      "updated_at": "2025-08-08T21:05:02.908393"
+    },
+    {
+      "id": 302,
+      "shipment_id": 178,
+      "shipping_method_id": 7,
+      "selected": true,
+      "cost": 7.77,
+      "tax_rate_id": null,
+      "created_at": "2025-08-07T07:53:00.843442",
+      "updated_at": "2025-08-08T21:05:02.908393"
+    },
+    {
+      "id": 303,
+      "shipment_id": 180,
+      "shipping_method_id": 1,
+      "selected": false,
+      "cost": 13.87,
+      "tax_rate_id": null,
+      "created_at": "2025-01-24T21:00:17.660847",
+      "updated_at": "2025-02-03T12:29:22.919182"
+    },
+    {
+      "id": 304,
+      "shipment_id": 180,
+      "shipping_method_id": 5,
+      "selected": true,
+      "cost": 9.47,
+      "tax_rate_id": null,
+      "created_at": "2025-01-24T21:00:17.660847",
+      "updated_at": "2025-02-03T12:29:22.919182"
+    },
+    {
+      "id": 305,
+      "shipment_id": 181,
+      "shipping_method_id": 1,
+      "selected": false,
+      "cost": 8.16,
+      "tax_rate_id": null,
+      "created_at": "2025-05-21T09:05:39.942684",
+      "updated_at": "2025-06-17T14:48:05.142307"
+    },
+    {
+      "id": 306,
+      "shipment_id": 181,
+      "shipping_method_id": 4,
+      "selected": false,
+      "cost": 10.49,
+      "tax_rate_id": null,
+      "created_at": "2025-05-21T09:05:39.942684",
+      "updated_at": "2025-06-17T14:48:05.142307"
+    },
+    {
+      "id": 307,
+      "shipment_id": 181,
+      "shipping_method_id": 5,
+      "selected": false,
+      "cost": 12.14,
+      "tax_rate_id": null,
+      "created_at": "2025-05-21T09:05:39.942684",
+      "updated_at": "2025-06-17T14:48:05.142307"
+    },
+    {
+      "id": 308,
+      "shipment_id": 181,
+      "shipping_method_id": 7,
+      "selected": true,
+      "cost": 8.73,
+      "tax_rate_id": null,
+      "created_at": "2025-05-21T09:05:39.942684",
+      "updated_at": "2025-06-17T14:48:05.142307"
+    },
+    {
+      "id": 309,
+      "shipment_id": 182,
+      "shipping_method_id": 3,
+      "selected": true,
+      "cost": 10.35,
+      "tax_rate_id": null,
+      "created_at": "2025-05-26T13:16:25.067583",
+      "updated_at": "2025-06-04T21:09:27.045269"
+    },
+    {
+      "id": 310,
+      "shipment_id": 182,
+      "shipping_method_id": 5,
+      "selected": false,
+      "cost": 12.1,
+      "tax_rate_id": null,
+      "created_at": "2025-05-26T13:16:25.067583",
+      "updated_at": "2025-06-04T21:09:27.045269"
+    },
+    {
+      "id": 311,
+      "shipment_id": 184,
+      "shipping_method_id": 1,
+      "selected": false,
+      "cost": 12.16,
+      "tax_rate_id": null,
+      "created_at": "2025-03-27T21:38:53.837405",
+      "updated_at": "2025-06-25T10:56:06.026294"
+    },
+    {
+      "id": 312,
+      "shipment_id": 184,
+      "shipping_method_id": 3,
+      "selected": true,
+      "cost": 14.81,
+      "tax_rate_id": null,
+      "created_at": "2025-03-27T21:38:53.837405",
+      "updated_at": "2025-06-25T10:56:06.026294"
+    },
+    {
+      "id": 313,
+      "shipment_id": 184,
+      "shipping_method_id": 7,
+      "selected": false,
+      "cost": 15.96,
+      "tax_rate_id": null,
+      "created_at": "2025-03-27T21:38:53.837405",
+      "updated_at": "2025-06-25T10:56:06.026294"
+    },
+    {
+      "id": 314,
+      "shipment_id": 188,
+      "shipping_method_id": 1,
+      "selected": true,
+      "cost": 15.87,
+      "tax_rate_id": null,
+      "created_at": "2025-02-24T00:35:14.926664",
+      "updated_at": "2025-07-26T16:42:39.749389"
+    },
+    {
+      "id": 315,
+      "shipment_id": 188,
+      "shipping_method_id": 2,
+      "selected": false,
+      "cost": 23.63,
+      "tax_rate_id": null,
+      "created_at": "2025-02-24T00:35:14.926664",
+      "updated_at": "2025-07-26T16:42:39.749389"
+    },
+    {
+      "id": 316,
+      "shipment_id": 188,
+      "shipping_method_id": 4,
+      "selected": false,
+      "cost": 16.17,
+      "tax_rate_id": null,
+      "created_at": "2025-02-24T00:35:14.926664",
+      "updated_at": "2025-07-26T16:42:39.749389"
+    },
+    {
+      "id": 317,
+      "shipment_id": 188,
+      "shipping_method_id": 6,
+      "selected": false,
+      "cost": 18.56,
+      "tax_rate_id": null,
+      "created_at": "2025-02-24T00:35:14.926664",
+      "updated_at": "2025-07-26T16:42:39.749389"
+    },
+    {
+      "id": 318,
+      "shipment_id": 189,
+      "shipping_method_id": 1,
+      "selected": true,
+      "cost": 9.1,
+      "tax_rate_id": null,
+      "created_at": "2024-11-06T07:25:19.616195",
+      "updated_at": "2025-01-18T03:40:02.457175"
+    },
+    {
+      "id": 319,
+      "shipment_id": 189,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 13.24,
+      "tax_rate_id": null,
+      "created_at": "2024-11-06T07:25:19.616195",
+      "updated_at": "2025-01-18T03:40:02.457175"
+    },
+    {
+      "id": 320,
+      "shipment_id": 189,
+      "shipping_method_id": 6,
+      "selected": false,
+      "cost": 7.31,
+      "tax_rate_id": null,
+      "created_at": "2024-11-06T07:25:19.616195",
+      "updated_at": "2025-01-18T03:40:02.457175"
+    },
+    {
+      "id": 321,
+      "shipment_id": 190,
+      "shipping_method_id": 1,
+      "selected": false,
+      "cost": 16.16,
+      "tax_rate_id": null,
+      "created_at": "2024-11-02T10:46:43.352957",
+      "updated_at": "2025-04-28T16:47:45.372542"
+    },
+    {
+      "id": 322,
+      "shipment_id": 190,
+      "shipping_method_id": 4,
+      "selected": true,
+      "cost": 12.8,
+      "tax_rate_id": null,
+      "created_at": "2024-11-02T10:46:43.352957",
+      "updated_at": "2025-04-28T16:47:45.372542"
+    },
+    {
+      "id": 323,
+      "shipment_id": 195,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 13.07,
+      "tax_rate_id": null,
+      "created_at": "2024-11-24T17:18:18.455777",
+      "updated_at": "2025-06-13T05:45:39.809310"
+    },
+    {
+      "id": 324,
+      "shipment_id": 195,
+      "shipping_method_id": 4,
+      "selected": false,
+      "cost": 8.93,
+      "tax_rate_id": null,
+      "created_at": "2024-11-24T17:18:18.455777",
+      "updated_at": "2025-06-13T05:45:39.809310"
+    },
+    {
+      "id": 325,
+      "shipment_id": 195,
+      "shipping_method_id": 5,
+      "selected": true,
+      "cost": 10.51,
+      "tax_rate_id": null,
+      "created_at": "2024-11-24T17:18:18.455777",
+      "updated_at": "2025-06-13T05:45:39.809310"
+    },
+    {
+      "id": 326,
+      "shipment_id": 195,
+      "shipping_method_id": 6,
+      "selected": false,
+      "cost": 13.09,
+      "tax_rate_id": null,
+      "created_at": "2024-11-24T17:18:18.455777",
+      "updated_at": "2025-06-13T05:45:39.809310"
+    },
+    {
+      "id": 327,
+      "shipment_id": 200,
+      "shipping_method_id": 1,
+      "selected": true,
+      "cost": 12.1,
+      "tax_rate_id": null,
+      "created_at": "2024-11-22T22:25:18.092824",
+      "updated_at": "2024-12-16T12:31:56.126196"
+    },
+    {
+      "id": 328,
+      "shipment_id": 200,
+      "shipping_method_id": 2,
+      "selected": false,
+      "cost": 14.77,
+      "tax_rate_id": null,
+      "created_at": "2024-11-22T22:25:18.092824",
+      "updated_at": "2024-12-16T12:31:56.126196"
+    },
+    {
+      "id": 329,
+      "shipment_id": 200,
+      "shipping_method_id": 5,
+      "selected": false,
+      "cost": 10.85,
+      "tax_rate_id": null,
+      "created_at": "2024-11-22T22:25:18.092824",
+      "updated_at": "2024-12-16T12:31:56.126196"
+    },
+    {
+      "id": 330,
+      "shipment_id": 201,
+      "shipping_method_id": 1,
+      "selected": false,
+      "cost": 13.91,
+      "tax_rate_id": null,
+      "created_at": "2025-03-01T17:27:40.099284",
+      "updated_at": "2025-07-21T12:53:05.658348"
+    },
+    {
+      "id": 331,
+      "shipment_id": 201,
+      "shipping_method_id": 2,
+      "selected": false,
+      "cost": 15.28,
+      "tax_rate_id": null,
+      "created_at": "2025-03-01T17:27:40.099284",
+      "updated_at": "2025-07-21T12:53:05.658348"
+    },
+    {
+      "id": 332,
+      "shipment_id": 201,
+      "shipping_method_id": 5,
+      "selected": false,
+      "cost": 16.29,
+      "tax_rate_id": null,
+      "created_at": "2025-03-01T17:27:40.099284",
+      "updated_at": "2025-07-21T12:53:05.658348"
+    },
+    {
+      "id": 333,
+      "shipment_id": 201,
+      "shipping_method_id": 6,
+      "selected": true,
+      "cost": 11.13,
+      "tax_rate_id": null,
+      "created_at": "2025-03-01T17:27:40.099284",
+      "updated_at": "2025-07-21T12:53:05.658348"
+    },
+    {
+      "id": 334,
+      "shipment_id": 202,
+      "shipping_method_id": 3,
+      "selected": true,
+      "cost": 10.19,
+      "tax_rate_id": null,
+      "created_at": "2024-10-28T01:05:22.511491",
+      "updated_at": "2025-02-08T05:38:34.821209"
+    },
+    {
+      "id": 335,
+      "shipment_id": 202,
+      "shipping_method_id": 4,
+      "selected": false,
+      "cost": 13.05,
+      "tax_rate_id": null,
+      "created_at": "2024-10-28T01:05:22.511491",
+      "updated_at": "2025-02-08T05:38:34.821209"
+    },
+    {
+      "id": 336,
+      "shipment_id": 203,
+      "shipping_method_id": 1,
+      "selected": false,
+      "cost": 12.05,
+      "tax_rate_id": null,
+      "created_at": "2025-08-13T04:28:07.479516",
+      "updated_at": "2025-09-03T06:51:46.706579"
+    },
+    {
+      "id": 337,
+      "shipment_id": 203,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 14.22,
+      "tax_rate_id": null,
+      "created_at": "2025-08-13T04:28:07.479516",
+      "updated_at": "2025-09-03T06:51:46.706579"
+    },
+    {
+      "id": 338,
+      "shipment_id": 203,
+      "shipping_method_id": 5,
+      "selected": true,
+      "cost": 14.69,
+      "tax_rate_id": null,
+      "created_at": "2025-08-13T04:28:07.479516",
+      "updated_at": "2025-09-03T06:51:46.706579"
+    },
+    {
+      "id": 339,
+      "shipment_id": 203,
+      "shipping_method_id": 6,
+      "selected": false,
+      "cost": 18.08,
+      "tax_rate_id": null,
+      "created_at": "2025-08-13T04:28:07.479516",
+      "updated_at": "2025-09-03T06:51:46.706579"
+    },
+    {
+      "id": 340,
+      "shipment_id": 206,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 6.37,
+      "tax_rate_id": null,
+      "created_at": "2025-01-20T08:27:46.598644",
+      "updated_at": "2025-07-26T02:05:26.299906"
+    },
+    {
+      "id": 341,
+      "shipment_id": 206,
+      "shipping_method_id": 4,
+      "selected": true,
+      "cost": 6.06,
+      "tax_rate_id": null,
+      "created_at": "2025-01-20T08:27:46.598644",
+      "updated_at": "2025-07-26T02:05:26.299906"
+    },
+    {
+      "id": 342,
+      "shipment_id": 206,
+      "shipping_method_id": 5,
+      "selected": false,
+      "cost": 6.67,
+      "tax_rate_id": null,
+      "created_at": "2025-01-20T08:27:46.598644",
+      "updated_at": "2025-07-26T02:05:26.299906"
+    },
+    {
+      "id": 343,
+      "shipment_id": 206,
+      "shipping_method_id": 6,
+      "selected": false,
+      "cost": 7.19,
+      "tax_rate_id": null,
+      "created_at": "2025-01-20T08:27:46.598644",
+      "updated_at": "2025-07-26T02:05:26.299906"
+    },
+    {
+      "id": 344,
+      "shipment_id": 209,
+      "shipping_method_id": 1,
+      "selected": false,
+      "cost": 6.4,
+      "tax_rate_id": null,
+      "created_at": "2025-05-06T11:06:26.257161",
+      "updated_at": "2025-05-11T10:11:41.572541"
+    },
+    {
+      "id": 345,
+      "shipment_id": 209,
+      "shipping_method_id": 4,
+      "selected": true,
+      "cost": 7.7,
+      "tax_rate_id": null,
+      "created_at": "2025-05-06T11:06:26.257161",
+      "updated_at": "2025-05-11T10:11:41.572541"
+    },
+    {
+      "id": 346,
+      "shipment_id": 209,
+      "shipping_method_id": 5,
+      "selected": false,
+      "cost": 7.44,
+      "tax_rate_id": null,
+      "created_at": "2025-05-06T11:06:26.257161",
+      "updated_at": "2025-05-11T10:11:41.572541"
+    },
+    {
+      "id": 347,
+      "shipment_id": 209,
+      "shipping_method_id": 7,
+      "selected": false,
+      "cost": 6.3,
+      "tax_rate_id": null,
+      "created_at": "2025-05-06T11:06:26.257161",
+      "updated_at": "2025-05-11T10:11:41.572541"
+    },
+    {
+      "id": 348,
+      "shipment_id": 211,
+      "shipping_method_id": 2,
+      "selected": false,
+      "cost": 11.15,
+      "tax_rate_id": null,
+      "created_at": "2025-02-14T08:56:19.026346",
+      "updated_at": "2025-08-28T23:04:44.403775"
+    },
+    {
+      "id": 349,
+      "shipment_id": 211,
+      "shipping_method_id": 4,
+      "selected": true,
+      "cost": 10.58,
+      "tax_rate_id": null,
+      "created_at": "2025-02-14T08:56:19.026346",
+      "updated_at": "2025-08-28T23:04:44.403775"
+    },
+    {
+      "id": 350,
+      "shipment_id": 211,
+      "shipping_method_id": 5,
+      "selected": false,
+      "cost": 15.15,
+      "tax_rate_id": null,
+      "created_at": "2025-02-14T08:56:19.026346",
+      "updated_at": "2025-08-28T23:04:44.403775"
+    },
+    {
+      "id": 351,
+      "shipment_id": 211,
+      "shipping_method_id": 7,
+      "selected": false,
+      "cost": 11.67,
+      "tax_rate_id": null,
+      "created_at": "2025-02-14T08:56:19.026346",
+      "updated_at": "2025-08-28T23:04:44.403775"
+    },
+    {
+      "id": 352,
+      "shipment_id": 213,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 13.69,
+      "tax_rate_id": null,
+      "created_at": "2024-12-19T04:41:21.880803",
+      "updated_at": "2025-05-25T19:27:51.371337"
+    },
+    {
+      "id": 353,
+      "shipment_id": 213,
+      "shipping_method_id": 4,
+      "selected": true,
+      "cost": 12.45,
+      "tax_rate_id": null,
+      "created_at": "2024-12-19T04:41:21.880803",
+      "updated_at": "2025-05-25T19:27:51.371337"
+    },
+    {
+      "id": 354,
+      "shipment_id": 213,
+      "shipping_method_id": 7,
+      "selected": false,
+      "cost": 17.93,
+      "tax_rate_id": null,
+      "created_at": "2024-12-19T04:41:21.880803",
+      "updated_at": "2025-05-25T19:27:51.371337"
+    },
+    {
+      "id": 355,
+      "shipment_id": 219,
+      "shipping_method_id": 2,
+      "selected": false,
+      "cost": 16.23,
+      "tax_rate_id": null,
+      "created_at": "2025-05-17T23:19:57.433119",
+      "updated_at": "2025-09-04T08:52:05.451828"
+    },
+    {
+      "id": 356,
+      "shipment_id": 219,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 16.99,
+      "tax_rate_id": null,
+      "created_at": "2025-05-17T23:19:57.433119",
+      "updated_at": "2025-09-04T08:52:05.451828"
+    },
+    {
+      "id": 357,
+      "shipment_id": 219,
+      "shipping_method_id": 4,
+      "selected": false,
+      "cost": 16.7,
+      "tax_rate_id": null,
+      "created_at": "2025-05-17T23:19:57.433119",
+      "updated_at": "2025-09-04T08:52:05.451828"
+    },
+    {
+      "id": 358,
+      "shipment_id": 219,
+      "shipping_method_id": 6,
+      "selected": true,
+      "cost": 14.48,
+      "tax_rate_id": null,
+      "created_at": "2025-05-17T23:19:57.433119",
+      "updated_at": "2025-09-04T08:52:05.451828"
+    },
+    {
+      "id": 359,
+      "shipment_id": 220,
+      "shipping_method_id": 2,
+      "selected": false,
+      "cost": 6.86,
+      "tax_rate_id": null,
+      "created_at": "2025-01-06T00:46:49.087066",
+      "updated_at": "2025-03-09T06:22:32.862710"
+    },
+    {
+      "id": 360,
+      "shipment_id": 220,
+      "shipping_method_id": 3,
+      "selected": true,
+      "cost": 7.23,
+      "tax_rate_id": null,
+      "created_at": "2025-01-06T00:46:49.087066",
+      "updated_at": "2025-03-09T06:22:32.862710"
+    },
+    {
+      "id": 361,
+      "shipment_id": 221,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 10.27,
+      "tax_rate_id": null,
+      "created_at": "2025-01-29T18:27:38.291942",
+      "updated_at": "2025-02-07T19:18:52.395138"
+    },
+    {
+      "id": 362,
+      "shipment_id": 221,
+      "shipping_method_id": 4,
+      "selected": false,
+      "cost": 8.43,
+      "tax_rate_id": null,
+      "created_at": "2025-01-29T18:27:38.291942",
+      "updated_at": "2025-02-07T19:18:52.395138"
+    },
+    {
+      "id": 363,
+      "shipment_id": 221,
+      "shipping_method_id": 5,
+      "selected": true,
+      "cost": 8.94,
+      "tax_rate_id": null,
+      "created_at": "2025-01-29T18:27:38.291942",
+      "updated_at": "2025-02-07T19:18:52.395138"
+    },
+    {
+      "id": 364,
+      "shipment_id": 222,
+      "shipping_method_id": 6,
+      "selected": true,
+      "cost": 10.96,
+      "tax_rate_id": null,
+      "created_at": "2025-05-25T09:43:11.037469",
+      "updated_at": "2025-07-20T12:07:59.640306"
+    },
+    {
+      "id": 365,
+      "shipment_id": 222,
+      "shipping_method_id": 7,
+      "selected": false,
+      "cost": 9.73,
+      "tax_rate_id": null,
+      "created_at": "2025-05-25T09:43:11.037469",
+      "updated_at": "2025-07-20T12:07:59.640306"
+    },
+    {
+      "id": 366,
+      "shipment_id": 223,
+      "shipping_method_id": 2,
+      "selected": false,
+      "cost": 10.8,
+      "tax_rate_id": null,
+      "created_at": "2024-11-18T06:32:23.538735",
+      "updated_at": "2025-08-11T17:32:15.022881"
+    },
+    {
+      "id": 367,
+      "shipment_id": 223,
+      "shipping_method_id": 4,
+      "selected": false,
+      "cost": 17.89,
+      "tax_rate_id": null,
+      "created_at": "2024-11-18T06:32:23.538735",
+      "updated_at": "2025-08-11T17:32:15.022881"
+    },
+    {
+      "id": 368,
+      "shipment_id": 223,
+      "shipping_method_id": 5,
+      "selected": false,
+      "cost": 12.71,
+      "tax_rate_id": null,
+      "created_at": "2024-11-18T06:32:23.538735",
+      "updated_at": "2025-08-11T17:32:15.022881"
+    },
+    {
+      "id": 369,
+      "shipment_id": 223,
+      "shipping_method_id": 6,
+      "selected": true,
+      "cost": 13.0,
+      "tax_rate_id": null,
+      "created_at": "2024-11-18T06:32:23.538735",
+      "updated_at": "2025-08-11T17:32:15.022881"
+    },
+    {
+      "id": 370,
+      "shipment_id": 228,
+      "shipping_method_id": 2,
+      "selected": false,
+      "cost": 16.16,
+      "tax_rate_id": null,
+      "created_at": "2025-02-28T13:50:27.146124",
+      "updated_at": "2025-03-29T08:52:03.002383"
+    },
+    {
+      "id": 371,
+      "shipment_id": 228,
+      "shipping_method_id": 5,
+      "selected": true,
+      "cost": 12.42,
+      "tax_rate_id": null,
+      "created_at": "2025-02-28T13:50:27.146124",
+      "updated_at": "2025-03-29T08:52:03.002383"
+    },
+    {
+      "id": 372,
+      "shipment_id": 228,
+      "shipping_method_id": 7,
+      "selected": false,
+      "cost": 11.67,
+      "tax_rate_id": null,
+      "created_at": "2025-02-28T13:50:27.146124",
+      "updated_at": "2025-03-29T08:52:03.002383"
+    },
+    {
+      "id": 373,
+      "shipment_id": 229,
+      "shipping_method_id": 1,
+      "selected": true,
+      "cost": 10.31,
+      "tax_rate_id": null,
+      "created_at": "2024-12-08T14:02:26.518984",
+      "updated_at": "2025-05-09T14:40:44.600793"
+    },
+    {
+      "id": 374,
+      "shipment_id": 229,
+      "shipping_method_id": 2,
+      "selected": false,
+      "cost": 8.42,
+      "tax_rate_id": null,
+      "created_at": "2024-12-08T14:02:26.518984",
+      "updated_at": "2025-05-09T14:40:44.600793"
+    },
+    {
+      "id": 375,
+      "shipment_id": 229,
+      "shipping_method_id": 6,
+      "selected": false,
+      "cost": 9.68,
+      "tax_rate_id": null,
+      "created_at": "2024-12-08T14:02:26.518984",
+      "updated_at": "2025-05-09T14:40:44.600793"
+    },
+    {
+      "id": 376,
+      "shipment_id": 229,
+      "shipping_method_id": 7,
+      "selected": false,
+      "cost": 12.6,
+      "tax_rate_id": null,
+      "created_at": "2024-12-08T14:02:26.518984",
+      "updated_at": "2025-05-09T14:40:44.600793"
+    },
+    {
+      "id": 377,
+      "shipment_id": 230,
+      "shipping_method_id": 3,
+      "selected": false,
+      "cost": 7.06,
+      "tax_rate_id": null,
+      "created_at": "2025-01-17T05:46:26.339615",
+      "updated_at": "2025-06-17T19:39:35.868990"
+    },
+    {
+      "id": 378,
+      "shipment_id": 230,
+      "shipping_method_id": 4,
+      "selected": false,
+      "cost": 7.69,
+      "tax_rate_id": null,
+      "created_at": "2025-01-17T05:46:26.339615",
+      "updated_at": "2025-06-17T19:39:35.868990"
+    },
+    {
+      "id": 379,
+      "shipment_id": 230,
+      "shipping_method_id": 7,
+      "selected": true,
+      "cost": 6.3,
+      "tax_rate_id": null,
+      "created_at": "2025-01-17T05:46:26.339615",
+      "updated_at": "2025-06-17T19:39:35.868990"
+    },
+    {
+      "id": 380,
+      "shipment_id": 231,
+      "shipping_method_id": 1,
+      "selected": false,
+      "cost": 16.33,
+      "tax_rate_id": null,
+      "created_at": "2025-08-07T10:07:40.822829",
+      "updated_at": "2025-08-26T09:58:54.399020"
+    },
+    {
+      "id": 381,
+      "shipment_id": 231,
+      "shipping_method_id": 5,
+      "selected": true,
+      "cost": 11.12,
+      "tax_rate_id": null,
+      "created_at": "2025-08-07T10:07:40.822829",
+      "updated_at": "2025-08-26T09:58:54.399020"
+    },
+    {
+      "id": 382,
+      "shipment_id": 231,
+      "shipping_method_id": 7,
+      "selected": false,
+      "cost": 14.42,
+      "tax_rate_id": null,
+      "created_at": "2025-08-07T10:07:40.822829",
+      "updated_at": "2025-08-26T09:58:54.399020"
+    },
+    {
+      "id": 383,
+      "shipment_id": 232,
+      "shipping_method_id": 2,
+      "selected": true,
+      "cost": 12.66,
+      "tax_rate_id": null,
+      "created_at": "2025-08-07T10:07:40.822829",
+      "updated_at": "2025-08-26T09:58:54.399020"
+    },
+    {
+      "id": 384,
+      "shipment_id": 232,
+      "shipping_method_id": 5,
+      "selected": false,
+      "cost": 12.9,
+      "tax_rate_id": null,
+      "created_at": "2025-08-07T10:07:40.822829",
+      "updated_at": "2025-08-26T09:58:54.399020"
+    }
+  ]
+}

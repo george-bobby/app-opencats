@@ -1,0 +1,208 @@
+[
+    {
+        "name": "Flash Sale 20",
+        "code": "FLASH2069",
+        "amount_percentage": 20,
+        "universal": false,
+        "selected_product_ids": [
+            "digital_art"
+        ],
+        "valid_at": null,
+        "expires_at": null,
+        "notes": "New product launch promotion"
+    },
+    {
+        "name": "Flash Sale 10",
+        "code": "FLASH10",
+        "amount_percentage": 10,
+        "universal": true,
+        "valid_at": null,
+        "expires_at": null,
+        "notes": "New product launch promotion"
+    },
+    {
+        "name": "New Customer 10",
+        "code": "NEWBIE10",
+        "amount_percentage": 10,
+        "universal": true,
+        "valid_at": null,
+        "expires_at": null,
+        "notes": "Limited time offer for new customers"
+    },
+    {
+        "name": "New Customer 40",
+        "code": "NEWBIE40",
+        "amount_percentage": 40,
+        "universal": true,
+        "valid_at": "2025-07-28T09:19:07.791442Z",
+        "expires_at": "2025-09-08T09:19:07.791442Z",
+        "notes": "Limited quantity discount code"
+    },
+    {
+        "name": "Bundle Deal 35",
+        "code": "BUNDLE35",
+        "amount_percentage": 35,
+        "universal": true,
+        "valid_at": null,
+        "expires_at": null,
+        "notes": "Special bundle pricing incentive"
+    },
+    {
+        "name": "Fall Promo 35",
+        "code": "FALL35",
+        "amount_percentage": 35,
+        "universal": false,
+        "selected_product_ids": [
+            "premium_filters"
+        ],
+        "valid_at": null,
+        "expires_at": null,
+        "notes": "Customer appreciation offer"
+    },
+    {
+        "name": "Comeback Offer 15",
+        "code": "COMEBACK159",
+        "amount_percentage": 15,
+        "universal": true,
+        "valid_at": "2025-07-24T05:37:28.037385Z",
+        "expires_at": "2025-08-30T05:37:28.037385Z",
+        "notes": "Seasonal promotion with limited availability"
+    },
+    {
+        "name": "Winter Special 45",
+        "code": "WINTER45",
+        "amount_percentage": 45,
+        "universal": false,
+        "selected_product_ids": [
+            "templates",
+            "lightroom_presets",
+            "photo_bundles"
+        ],
+        "valid_at": "2025-07-27T17:33:36.320853Z",
+        "expires_at": "2025-10-12T17:33:36.320853Z",
+        "notes": "Exclusive discount for loyal customers"
+    },
+    {
+        "name": "Welcome 15",
+        "code": "WELCOME15",
+        "amount_percentage": 15,
+        "universal": false,
+        "selected_product_ids": [
+            "stock_photos",
+            "premium_filters"
+        ],
+        "valid_at": null,
+        "expires_at": null,
+        "notes": "Exclusive discount for loyal customers"
+    },
+    {
+        "name": "Loyalty Reward 10",
+        "code": "LOYALTY10",
+        "amount_percentage": 10,
+        "universal": true,
+        "valid_at": "2025-07-31T20:38:18.805352Z",
+        "expires_at": "2025-09-18T20:38:18.805352Z",
+        "notes": "Limited time offer for new customers"
+    },
+    {
+        "name": "Welcome 25",
+        "code": "WELCOME25",
+        "amount_percentage": 25,
+        "universal": false,
+        "selected_product_ids": [
+            "editing_tools",
+            "seasonal_packs",
+            "photo_bundles"
+        ],
+        "valid_at": "2025-07-31T06:00:56.596073Z",
+        "expires_at": "2025-09-17T06:00:56.596073Z",
+        "notes": "Special bundle pricing incentive"
+    },
+    {
+        "name": "VIP Access 35",
+        "code": "VIP35",
+        "amount_percentage": 35,
+        "universal": false,
+        "selected_product_ids": [
+            "photo_bundles"
+        ],
+        "valid_at": null,
+        "expires_at": null,
+        "notes": "Flash sale for premium content"
+    },
+    {
+        "name": "Comeback Offer 35",
+        "code": "COMEBACK35",
+        "amount_percentage": 35,
+        "universal": true,
+        "valid_at": "2025-07-30T12:48:05.270957Z",
+        "expires_at": "2025-10-14T12:48:05.270957Z",
+        "notes": "Holiday celebration discount"
+    },
+    {
+        "name": "Exclusive Deal 15",
+        "code": "EXCLUSIVE15",
+        "amount_percentage": 15,
+        "universal": true,
+        "valid_at": null,
+        "expires_at": null,
+        "notes": "Limited time offer for new customers"
+    },
+    {
+        "name": "Welcome 50",
+        "code": "WELCOME50",
+        "amount_percentage": 50,
+        "universal": true,
+        "valid_at": null,
+        "expires_at": null,
+        "notes": "Limited quantity discount code"
+    },
+    {
+        "name": "Holiday Discount 50",
+        "code": "HOLIDAY50",
+        "amount_percentage": 50,
+        "universal": true,
+        "valid_at": null,
+        "expires_at": null,
+        "notes": "Weekend special promotion"
+    },
+    {
+        "name": "Exclusive Deal 40",
+        "code": "EXCLUSIVE40",
+        "amount_percentage": 40,
+        "universal": true,
+        "valid_at": null,
+        "expires_at": null,
+        "notes": "Holiday celebration discount"
+    },
+    {
+        "name": "Spring Offer 50",
+        "code": "SPRING50",
+        "amount_percentage": 50,
+        "universal": true,
+        "valid_at": null,
+        "expires_at": null,
+        "notes": "New product launch promotion"
+    },
+    {
+        "name": "Bundle Deal 5",
+        "code": "BUNDLE5",
+        "amount_percentage": 5,
+        "universal": true,
+        "valid_at": null,
+        "expires_at": null,
+        "notes": "Flash sale for premium content"
+    },
+    {
+        "name": "New Customer 20",
+        "code": "NEWBIE20",
+        "amount_percentage": 20,
+        "universal": false,
+        "selected_product_ids": [
+            "seasonal_packs"
+        ],
+        "valid_at": null,
+        "expires_at": null,
+        "notes": "Seasonal promotion with limited availability"
+    }
+]

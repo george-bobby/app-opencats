@@ -1,0 +1,40 @@
+{
+  "shipping_zones": [
+    {
+      "id": 0,
+      "name": "EU.VAT",
+      "description": "Shipping zone for EU.VAT",
+      "default_tax": true
+    },
+    {
+      "id": 1,
+      "name": "NORTH AMERICA",
+      "description": "Shipping zone for NORTH AMERICA",
+      "default_tax": false
+    },
+    {
+      "id": 2,
+      "name": "SOUTH AMERICA",
+      "description": "Shipping zone for SOUTH AMERICA",
+      "default_tax": false
+    },
+    {
+      "id": 3,
+      "name": "MIDDLE EAST",
+      "description": "Shipping zone for MIDDLE EAST",
+      "default_tax": false
+    },
+    {
+      "id": 4,
+      "name": "ASIA",
+      "description": "Shipping zone for ASIA",
+      "default_tax": false
+    },
+    {
+      "id": 5,
+      "name": "UK.VAT",
+      "description": "Shipping zone for UK.VAT",
+      "default_tax": true
+    }
+  ]
+}

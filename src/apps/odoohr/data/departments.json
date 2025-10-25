@@ -1,0 +1,617 @@
+[
+    {
+        "name": "Manufacturing",
+        "manager": {
+            "name": "David Wilson",
+            "job_title": "Manufacturing Director",
+            "work_email": "david.wilson@acme.com",
+            "job_position": "Director",
+            "resume_lines": [
+                {
+                    "name": "Acme Inc.",
+                    "type": "Experience",
+                    "date_start": "2018-06-15",
+                    "date_end": "",
+                    "description": "Overseeing all manufacturing operations and process improvements."
+                },
+                {
+                    "name": "Stark Industries",
+                    "type": "Experience",
+                    "date_start": "2014-02-10",
+                    "date_end": "2018-06-14",
+                    "description": "Managed production lines and implemented lean manufacturing."
+                },
+                {
+                    "name": "Purdue University",
+                    "type": "Education",
+                    "date_start": "2010-08-20",
+                    "date_end": "2014-05-15",
+                    "description": "Bachelor of Science in Industrial Engineering."
+                }
+            ],
+            "skills": [
+                "Lean Manufacturing",
+                "Six Sigma",
+                "Production Planning",
+                "Quality Control",
+                "Process Improvement"
+            ],
+            "private_address": {
+                "street": "123 Manufacturing Way",
+                "city": "Detroit",
+                "state": "Michigan",
+                "zip": "48201"
+            },
+            "private_email": "david.wilson88@gmail.com",
+            "private_car_plate": "MFG 123",
+            "gender": "male",
+            "passport_id": "987654321",
+            "ssnid": "111-22-3333",
+            "identification_id": "D12345678",
+            "place_of_birth": "Chicago",
+            "education": {
+                "certificate": "bachelor",
+                "study_field": "Industrial Engineering",
+                "study_school": "Purdue University"
+            },
+            "work_permit": {
+                "visa_no": "USA12345678",
+                "permit_no": "PERM987654",
+                "visa_expire": "2028-10-22",
+                "work_permit_expiration_date": "2028-10-22"
+            },
+            "categories": [
+                "Director",
+                "Manufacturing",
+                "Operations"
+            ]
+        }
+    },
+    {
+        "name": "Warehouse & Inventory",
+        "manager": {
+            "name": "Maria Rodriguez",
+            "job_title": "Warehouse Manager",
+            "work_email": "maria.rodriguez@acme.com",
+            "job_position": "Manager",
+            "resume_lines": [
+                {
+                    "name": "Acme Inc.",
+                    "type": "Experience",
+                    "date_start": "2020-01-20",
+                    "date_end": "",
+                    "description": "Managing inventory accuracy and warehouse staff."
+                },
+                {
+                    "name": "Global Logistics Co.",
+                    "type": "Experience",
+                    "date_start": "2017-06-01",
+                    "date_end": "2020-01-19",
+                    "description": "Supervised daily warehouse and shipping activities."
+                },
+                {
+                    "name": "Arizona State University",
+                    "type": "Education",
+                    "date_start": "2013-08-25",
+                    "date_end": "2017-05-18",
+                    "description": "B.S. in Supply Chain Management."
+                }
+            ],
+            "skills": [
+                "Inventory Management",
+                "Warehouse Management Systems (WMS)",
+                "Logistics Coordination",
+                "Safety Compliance"
+            ],
+            "private_address": {
+                "street": "456 Inventory Lane",
+                "city": "Phoenix",
+                "state": "Arizona",
+                "zip": "85001"
+            },
+            "private_email": "maria.rodriguez@yahoo.com",
+            "private_car_plate": "WHSE 456",
+            "gender": "female",
+            "passport_id": "123123123",
+            "ssnid": "222-33-4444",
+            "identification_id": "A98765432",
+            "place_of_birth": "Los Angeles",
+            "education": {
+                "certificate": "bachelor",
+                "study_field": "Supply Chain Management",
+                "study_school": "Arizona State University"
+            },
+            "work_permit": {
+                "visa_no": "USA87654321",
+                "permit_no": "PERM876543",
+                "visa_expire": "2027-05-11",
+                "work_permit_expiration_date": "2027-05-11"
+            },
+            "categories": [
+                "Manager",
+                "Warehouse",
+                "Inventory"
+            ]
+        }
+    },
+    {
+        "name": "Logistics",
+        "manager": {
+            "name": "James Chen",
+            "job_title": "Logistics Director",
+            "work_email": "james.chen@acme.com",
+            "job_position": "Director",
+            "resume_lines": [
+                {
+                    "name": "Acme Inc.",
+                    "type": "Experience",
+                    "date_start": "2019-09-01",
+                    "date_end": "",
+                    "description": "Directing global logistics and transportation networks."
+                },
+                {
+                    "name": "ShipItAll Corp.",
+                    "type": "Experience",
+                    "date_start": "2015-07-15",
+                    "date_end": "2019-08-30",
+                    "description": "Managed freight forwarding and carrier negotiations."
+                },
+                {
+                    "name": "University of Washington",
+                    "type": "Education",
+                    "date_start": "2011-09-01",
+                    "date_end": "2015-06-10",
+                    "description": "Bachelor's in Business Administration, Logistics Focus."
+                }
+            ],
+            "skills": [
+                "Supply Chain Optimization",
+                "Transportation Management",
+                "Freight Forwarding",
+                "Route Planning"
+            ],
+            "private_address": {
+                "street": "789 Shipping Blvd",
+                "city": "Seattle",
+                "state": "Washington",
+                "zip": "98101"
+            },
+            "private_email": "james.chen.log@outlook.com",
+            "private_car_plate": "LOGI 789",
+            "gender": "male",
+            "passport_id": "456456456",
+            "ssnid": "333-44-5555",
+            "identification_id": "W54321678",
+            "place_of_birth": "San Francisco",
+            "education": {
+                "certificate": "bachelor",
+                "study_field": "Business Administration",
+                "study_school": "University of Washington"
+            },
+            "work_permit": {
+                "visa_no": "USA23456789",
+                "permit_no": "PERM765432",
+                "visa_expire": "2029-01-15",
+                "work_permit_expiration_date": "2029-01-15"
+            },
+            "categories": [
+                "Director",
+                "Logistics",
+                "Supply Chain"
+            ]
+        }
+    },
+    {
+        "name": "Sales & Marketing",
+        "manager": {
+            "name": "Jennifer Miller",
+            "job_title": "VP of Sales & Marketing",
+            "work_email": "jennifer.miller@acme.com",
+            "job_position": "VP",
+            "resume_lines": [
+                {
+                    "name": "Acme Inc.",
+                    "type": "Experience",
+                    "date_start": "2017-11-01",
+                    "date_end": "",
+                    "description": "Leading sales and marketing strategy initiatives."
+                },
+                {
+                    "name": "Innovate Solutions",
+                    "type": "Experience",
+                    "date_start": "2015-01-10",
+                    "date_end": "2017-10-30",
+                    "description": "Directed national marketing campaigns and sales teams."
+                },
+                {
+                    "name": "Northwestern University - Kellogg School",
+                    "type": "Education",
+                    "date_start": "2013-08-20",
+                    "date_end": "2014-12-15",
+                    "description": "Master of Business Administration (MBA)."
+                },
+                {
+                    "name": "New York University",
+                    "type": "Education",
+                    "date_start": "2009-09-01",
+                    "date_end": "2013-05-20",
+                    "description": "Bachelor of Arts in Marketing."
+                }
+            ],
+            "skills": [
+                "Digital Marketing",
+                "Sales Strategy",
+                "CRM Software",
+                "Market Analysis",
+                "Brand Management"
+            ],
+            "private_address": {
+                "street": "101 Marketing Ave",
+                "city": "New York",
+                "state": "New York",
+                "zip": "10001"
+            },
+            "private_email": "jen.miller.sales@gmail.com",
+            "private_car_plate": "SALES 1",
+            "gender": "female",
+            "passport_id": "789789789",
+            "ssnid": "444-55-6666",
+            "identification_id": "N12312312",
+            "place_of_birth": "Boston",
+            "education": {
+                "certificate": "master",
+                "study_field": "Business Administration",
+                "study_school": "Northwestern University - Kellogg School of Management"
+            },
+            "work_permit": {
+                "visa_no": "USA34567890",
+                "permit_no": "PERM654321",
+                "visa_expire": "2030-12-31",
+                "work_permit_expiration_date": "2030-12-31"
+            },
+            "categories": [
+                "VP",
+                "Sales",
+                "Marketing"
+            ]
+        }
+    },
+    {
+        "name": "Procurement",
+        "manager": {
+            "name": "Michael Johnson",
+            "job_title": "Procurement Manager",
+            "work_email": "michael.johnson@acme.com",
+            "job_position": "Manager",
+            "resume_lines": [
+                {
+                    "name": "Acme Inc.",
+                    "type": "Experience",
+                    "date_start": "2021-03-15",
+                    "date_end": "",
+                    "description": "Managing strategic sourcing and vendor relationships."
+                },
+                {
+                    "name": "BuyRight Corp.",
+                    "type": "Experience",
+                    "date_start": "2018-02-01",
+                    "date_end": "2021-03-14",
+                    "description": "Negotiated contracts and procured raw materials."
+                },
+                {
+                    "name": "University of Texas at Austin",
+                    "type": "Education",
+                    "date_start": "2014-08-25",
+                    "date_end": "2018-01-10",
+                    "description": "Bachelor of Business Administration."
+                }
+            ],
+            "skills": [
+                "Strategic Sourcing",
+                "Negotiation",
+                "Vendor Management",
+                "Contract Management",
+                "Supply Chain"
+            ],
+            "private_address": {
+                "street": "210 Purchase St",
+                "city": "Austin",
+                "state": "Texas",
+                "zip": "78701"
+            },
+            "private_email": "mjprocure@yahoo.com",
+            "private_car_plate": "BUY 210",
+            "gender": "male",
+            "passport_id": "890890890",
+            "ssnid": "555-66-7777",
+            "identification_id": "T45678901",
+            "place_of_birth": "Houston",
+            "education": {
+                "certificate": "bachelor",
+                "study_field": "Business Administration",
+                "study_school": "University of Texas at Austin"
+            },
+            "work_permit": {
+                "visa_no": "USA45678901",
+                "permit_no": "PERM543210",
+                "visa_expire": "2026-08-19",
+                "work_permit_expiration_date": "2026-08-19"
+            },
+            "categories": [
+                "Manager",
+                "Procurement"
+            ]
+        }
+    },
+    {
+        "name": "Finance & Accounting",
+        "manager": {
+            "name": "Susan Clark",
+            "job_title": "Finance Director",
+            "work_email": "susan.clark@acme.com",
+            "job_position": "Director",
+            "resume_lines": [
+                {
+                    "name": "Acme Inc.",
+                    "type": "Experience",
+                    "date_start": "2016-10-01",
+                    "date_end": "",
+                    "description": "Directing financial planning and reporting activities."
+                },
+                {
+                    "name": "MoneyWise Inc.",
+                    "type": "Experience",
+                    "date_start": "2012-07-01",
+                    "date_end": "2016-09-30",
+                    "description": "Senior Financial Analyst, budgeting and forecasting."
+                },
+                {
+                    "name": "University of Pennsylvania - Wharton",
+                    "type": "Education",
+                    "date_start": "2008-08-22",
+                    "date_end": "2012-05-15",
+                    "description": "Bachelor of Science in Economics."
+                }
+            ],
+            "skills": [
+                "Financial Reporting",
+                "Budgeting and Forecasting",
+                "GAAP",
+                "Financial Analysis",
+                "CPA"
+            ],
+            "private_address": {
+                "street": "333 Ledger Lane",
+                "city": "Philadelphia",
+                "state": "Pennsylvania",
+                "zip": "19102"
+            },
+            "private_email": "sclark.finance@gmail.com",
+            "private_car_plate": "CPA 333",
+            "gender": "female",
+            "passport_id": "901901901",
+            "ssnid": "666-77-8888",
+            "identification_id": "P67890123",
+            "place_of_birth": "Philadelphia",
+            "education": {
+                "certificate": "bachelor",
+                "study_field": "Economics",
+                "study_school": "University of Pennsylvania - Wharton School"
+            },
+            "work_permit": {
+                "visa_no": "USA56789012",
+                "permit_no": "PERM432109",
+                "visa_expire": "2029-11-05",
+                "work_permit_expiration_date": "2029-11-05"
+            },
+            "categories": [
+                "Director",
+                "Finance",
+                "CPA"
+            ]
+        }
+    },
+    {
+        "name": "Human Resources",
+        "manager": {
+            "name": "Robert Brown",
+            "job_title": "HR Director",
+            "work_email": "robert.brown@acme.com",
+            "job_position": "Director",
+            "resume_lines": [
+                {
+                    "name": "Acme Inc.",
+                    "type": "Experience",
+                    "date_start": "2018-05-20",
+                    "date_end": "",
+                    "description": "Leading all Human Resources functions."
+                },
+                {
+                    "name": "PeopleFirst Co.",
+                    "type": "Experience",
+                    "date_start": "2015-02-10",
+                    "date_end": "2018-05-19",
+                    "description": "HR Generalist focusing on employee relations."
+                },
+                {
+                    "name": "Cornell University",
+                    "type": "Education",
+                    "date_start": "2011-08-25",
+                    "date_end": "2015-01-20",
+                    "description": "Master's in Human Resource Management."
+                }
+            ],
+            "skills": [
+                "Talent Acquisition",
+                "Employee Relations",
+                "HR Policies",
+                "Performance Management",
+                "Compensation & Benefits"
+            ],
+            "private_address": {
+                "street": "444 People Plaza",
+                "city": "Ithaca",
+                "state": "New York",
+                "zip": "14850"
+            },
+            "private_email": "robert.b.hr@outlook.com",
+            "private_car_plate": "HRD 444",
+            "gender": "male",
+            "passport_id": "123456789",
+            "ssnid": "777-88-9999",
+            "identification_id": "N32132132",
+            "place_of_birth": "Albany",
+            "education": {
+                "certificate": "master",
+                "study_field": "Human Resource Management",
+                "study_school": "Cornell University"
+            },
+            "work_permit": {
+                "visa_no": "USA67890123",
+                "permit_no": "PERM321098",
+                "visa_expire": "2028-04-12",
+                "work_permit_expiration_date": "2028-04-12"
+            },
+            "categories": [
+                "Director",
+                "HR"
+            ]
+        }
+    },
+    {
+        "name": "IT",
+        "manager": {
+            "name": "Jessica Nguyen",
+            "job_title": "IT Manager",
+            "work_email": "jessica.nguyen@acme.com",
+            "job_position": "Manager",
+            "resume_lines": [
+                {
+                    "name": "Acme Inc.",
+                    "type": "Experience",
+                    "date_start": "2019-11-11",
+                    "date_end": "",
+                    "description": "Managing IT infrastructure and cybersecurity."
+                },
+                {
+                    "name": "Tech Solutions LLC",
+                    "type": "Experience",
+                    "date_start": "2016-06-01",
+                    "date_end": "2019-11-10",
+                    "description": "Senior Systems Administrator for cloud services."
+                },
+                {
+                    "name": "University of California, Berkeley",
+                    "type": "Education",
+                    "date_start": "2012-08-20",
+                    "date_end": "2016-05-15",
+                    "description": "Bachelor of Science in Computer Science."
+                }
+            ],
+            "skills": [
+                "Network Administration",
+                "Cybersecurity",
+                "ITIL",
+                "Cloud Computing (AWS, Azure)",
+                "Project Management"
+            ],
+            "private_address": {
+                "street": "555 Tech Terrace",
+                "city": "San Jose",
+                "state": "California",
+                "zip": "95112"
+            },
+            "private_email": "jess.nguyen.it@gmail.com",
+            "private_car_plate": "TECH 555",
+            "gender": "female",
+            "passport_id": "234567890",
+            "ssnid": "888-99-0000",
+            "identification_id": "C78901234",
+            "place_of_birth": "San Jose",
+            "education": {
+                "certificate": "bachelor",
+                "study_field": "Computer Science",
+                "study_school": "University of California, Berkeley"
+            },
+            "work_permit": {
+                "visa_no": "USA78901234",
+                "permit_no": "PERM210987",
+                "visa_expire": "2029-07-25",
+                "work_permit_expiration_date": "2029-07-25"
+            },
+            "categories": [
+                "Manager",
+                "IT",
+                "Cybersecurity"
+            ]
+        }
+    },
+    {
+        "name": "Customer Support",
+        "manager": {
+            "name": "William Taylor",
+            "job_title": "Customer Support Manager",
+            "work_email": "william.taylor@acme.com",
+            "job_position": "Manager",
+            "resume_lines": [
+                {
+                    "name": "Acme Inc.",
+                    "type": "Experience",
+                    "date_start": "2020-07-01",
+                    "date_end": "",
+                    "description": "Leading the customer support team and strategies."
+                },
+                {
+                    "name": "HelpNow Inc.",
+                    "type": "Experience",
+                    "date_start": "2017-03-15",
+                    "date_end": "2020-06-30",
+                    "description": "Senior Support Specialist, Tier 2 escalation."
+                },
+                {
+                    "name": "University of Florida",
+                    "type": "Education",
+                    "date_start": "2013-08-26",
+                    "date_end": "2017-05-10",
+                    "description": "Bachelor of Arts in Communications."
+                }
+            ],
+            "skills": [
+                "Customer Service",
+                "Zendesk",
+                "Help Desk Management",
+                "CRM",
+                "Team Leadership"
+            ],
+            "private_address": {
+                "street": "666 Service Street",
+                "city": "Orlando",
+                "state": "Florida",
+                "zip": "32801"
+            },
+            "private_email": "will.t.support@yahoo.com",
+            "private_car_plate": "CUST 666",
+            "gender": "male",
+            "passport_id": "345678901",
+            "ssnid": "999-00-1111",
+            "identification_id": "F90123456",
+            "place_of_birth": "Miami",
+            "education": {
+                "certificate": "bachelor",
+                "study_field": "Communications",
+                "study_school": "University of Florida"
+            },
+            "work_permit": {
+                "visa_no": "USA89012345",
+                "permit_no": "PERM109876",
+                "visa_expire": "2027-09-01",
+                "work_permit_expiration_date": "2027-09-01"
+            },
+            "categories": [
+                "Manager",
+                "Customer Support",
+                "Client Relations"
+            ]
+        }
+    }
+]

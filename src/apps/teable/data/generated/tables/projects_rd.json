@@ -1,0 +1,2107 @@
+{
+  "table_name": "Projects",
+  "parent_workspace_name": "R&D",
+  "parent_base_name": "R&D",
+  "records": [
+    {
+      "fields": {
+        "Project Name": "AI-powered Customer Segmentation",
+        "Status": "Active",
+        "Start Date": "2024-09-15",
+        "End Date": "2025-01-30",
+        "Budget": 85000.0,
+        "Priority": "High",
+        "Description": "Develop an AI model to segment customers for targeted marketing campaigns.",
+        "Created Date": "2024-09-10",
+        "Last Updated": "2025-05-01",
+        "Project Type": "Feature"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Social Media Analytics Dashboard",
+        "Status": "Planning",
+        "Start Date": "2025-02-01",
+        "End Date": "2025-06-01",
+        "Budget": 45000.0,
+        "Priority": "Medium",
+        "Description": "Build a dashboard to analyze social media KPIs using AI insights.",
+        "Created Date": "2025-01-25",
+        "Last Updated": "2025-03-10",
+        "Project Type": "Enhancement"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "SEO Optimization AI Tool",
+        "Status": "Active",
+        "Start Date": "2024-07-10",
+        "End Date": "2024-12-15",
+        "Budget": 60000.0,
+        "Priority": "Critical",
+        "Description": "Create an AI tool to automate SEO keyword research and optimization.",
+        "Created Date": "2024-07-01",
+        "Last Updated": "2024-11-20",
+        "Project Type": "Feature"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Content Generation Retainer",
+        "Status": "Active",
+        "Start Date": "2024-08-01",
+        "End Date": "2025-07-31",
+        "Budget": 120000.0,
+        "Priority": "High",
+        "Description": "Retainer service to generate AI-driven blog and social media content.",
+        "Created Date": "2024-07-28",
+        "Last Updated": "2025-04-15",
+        "Project Type": "Retainer"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Chatbot Customer Support Enhancement",
+        "Status": "Completed",
+        "Start Date": "2024-01-10",
+        "End Date": "2024-05-20",
+        "Budget": 30000.0,
+        "Priority": "Medium",
+        "Description": "Enhanced chatbot with NLP capabilities for customer support.",
+        "Created Date": "2024-01-05",
+        "Last Updated": "2024-05-21",
+        "Project Type": "Enhancement"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Marketing Campaign Automation",
+        "Status": "Blocked",
+        "Start Date": "2025-03-15",
+        "End Date": "2025-07-30",
+        "Budget": 90000.0,
+        "Priority": "Critical",
+        "Description": "Automate campaign workflows with AI-driven triggers and responses.",
+        "Created Date": "2025-03-10",
+        "Last Updated": "2025-06-01",
+        "Project Type": "Feature"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI-driven Competitor Analysis",
+        "Status": "Planning",
+        "Start Date": "2025-04-01",
+        "End Date": "2025-09-01",
+        "Budget": 40000.0,
+        "Priority": "Low",
+        "Description": "Research initiative to analyze competitor strategies using AI.",
+        "Created Date": "2025-03-20",
+        "Last Updated": "2025-04-15",
+        "Project Type": "Research"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Bug Fix: AI Model Data Pipeline",
+        "Status": "Active",
+        "Start Date": "2025-05-10",
+        "End Date": "2025-05-25",
+        "Budget": 7000.0,
+        "Priority": "High",
+        "Description": "Fix bugs in the AI data ingestion pipeline causing delays.",
+        "Created Date": "2025-05-09",
+        "Last Updated": "2025-05-20",
+        "Project Type": "Bug Fix"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Client Dashboard Maintenance",
+        "Status": "Active",
+        "Start Date": "2024-10-01",
+        "End Date": "2025-06-26",
+        "Budget": 35000.0,
+        "Priority": "Medium",
+        "Description": "Ongoing maintenance for client reporting dashboards.",
+        "Created Date": "2024-10-01",
+        "Last Updated": "2025-06-10",
+        "Project Type": "Maintenance"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Predictive Lead Scoring",
+        "Status": "Active",
+        "Start Date": "2024-11-15",
+        "End Date": "2025-04-30",
+        "Budget": 75000.0,
+        "Priority": "High",
+        "Description": "Develop AI models to score leads based on conversion probability.",
+        "Created Date": "2024-11-10",
+        "Last Updated": "2025-04-25",
+        "Project Type": "Feature"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Email Campaign Personalization",
+        "Status": "Completed",
+        "Start Date": "2024-03-01",
+        "End Date": "2024-06-15",
+        "Budget": 50000.0,
+        "Priority": "Medium",
+        "Description": "Personalize email campaigns using AI-driven content recommendations.",
+        "Created Date": "2024-02-25",
+        "Last Updated": "2024-06-16",
+        "Project Type": "Enhancement"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI-powered Brand Monitoring",
+        "Status": "Planning",
+        "Start Date": "2025-06-01",
+        "End Date": "2025-11-30",
+        "Budget": 55000.0,
+        "Priority": "Low",
+        "Description": "Research initiative for real-time brand sentiment monitoring via AI.",
+        "Created Date": "2025-05-15",
+        "Last Updated": "2025-05-30",
+        "Project Type": "Research"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Website Performance Optimization",
+        "Status": "Blocked",
+        "Start Date": "2025-01-01",
+        "End Date": "2025-03-15",
+        "Budget": 20000.0,
+        "Priority": "Critical",
+        "Description": "Optimize website speed and responsiveness with AI-based recommendations.",
+        "Created Date": "2024-12-20",
+        "Last Updated": "2025-02-15",
+        "Project Type": "Enhancement"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Bug Fix: CRM Integration Issues",
+        "Status": "Active",
+        "Start Date": "2025-06-10",
+        "End Date": "2025-06-20",
+        "Budget": 8000.0,
+        "Priority": "High",
+        "Description": "Resolve synchronization issues between CRM and marketing tools.",
+        "Created Date": "2025-06-09",
+        "Last Updated": "2025-06-15",
+        "Project Type": "Bug Fix"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Quarterly Marketing Analytics",
+        "Status": "Active",
+        "Start Date": "2024-12-01",
+        "End Date": "2025-03-31",
+        "Budget": 40000.0,
+        "Priority": "Medium",
+        "Description": "Compile and analyze quarterly marketing data for performance insights.",
+        "Created Date": "2024-11-25",
+        "Last Updated": "2025-03-30",
+        "Project Type": "Maintenance"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Voice Search Optimization",
+        "Status": "Planning",
+        "Start Date": "2025-05-20",
+        "End Date": "2025-09-30",
+        "Budget": 47000.0,
+        "Priority": "Medium",
+        "Description": "Enhance SEO for voice-based search queries with AI tools.",
+        "Created Date": "2025-05-15",
+        "Last Updated": "2025-05-25",
+        "Project Type": "Feature"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Retainer: AI Content Strategy",
+        "Status": "Active",
+        "Start Date": "2024-07-01",
+        "End Date": "2025-06-30",
+        "Budget": 110000.0,
+        "Priority": "High",
+        "Description": "Monthly retainer for AI-generated content strategy and planning.",
+        "Created Date": "2024-06-25",
+        "Last Updated": "2025-05-20",
+        "Project Type": "Retainer"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Customer Journey Mapping Research",
+        "Status": "Research",
+        "Start Date": "2024-08-01",
+        "End Date": "2025-02-28",
+        "Budget": 38000.0,
+        "Priority": "Medium",
+        "Description": "Study customer journey patterns using AI analytics to improve campaigns.",
+        "Created Date": "2024-07-20",
+        "Last Updated": "2025-02-15",
+        "Project Type": "Research"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Bug Fix: Marketing Automation Workflow",
+        "Status": "Completed",
+        "Start Date": "2024-04-15",
+        "End Date": "2024-05-05",
+        "Budget": 9000.0,
+        "Priority": "High",
+        "Description": "Resolved errors causing campaign trigger failures in automation.",
+        "Created Date": "2024-04-10",
+        "Last Updated": "2024-05-06",
+        "Project Type": "Bug Fix"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI-powered Ad Spend Optimization",
+        "Status": "Active",
+        "Start Date": "2024-09-01",
+        "End Date": "2025-02-28",
+        "Budget": 95000.0,
+        "Priority": "Critical",
+        "Description": "Optimize ad budget allocation using machine learning models.",
+        "Created Date": "2024-08-28",
+        "Last Updated": "2025-02-20",
+        "Project Type": "Feature"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Social Media Content Scheduling",
+        "Status": "Maintenance",
+        "Start Date": "2024-05-01",
+        "End Date": "2025-06-26",
+        "Budget": 25000.0,
+        "Priority": "Low",
+        "Description": "Maintain and update AI-driven social media scheduling tools.",
+        "Created Date": "2024-05-01",
+        "Last Updated": "2025-06-01",
+        "Project Type": "Maintenance"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Client Onboarding Automation",
+        "Status": "Completed",
+        "Start Date": "2024-02-01",
+        "End Date": "2024-04-30",
+        "Budget": 40000.0,
+        "Priority": "Medium",
+        "Description": "Automate client onboarding process using AI workflows.",
+        "Created Date": "2024-01-25",
+        "Last Updated": "2024-05-01",
+        "Project Type": "Enhancement"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Lead Nurturing AI Model",
+        "Status": "Active",
+        "Start Date": "2024-10-15",
+        "End Date": "2025-03-31",
+        "Budget": 72000.0,
+        "Priority": "High",
+        "Description": "Develop AI models to nurture leads through personalized content.",
+        "Created Date": "2024-10-10",
+        "Last Updated": "2025-03-15",
+        "Project Type": "Feature"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Bug Fix: Email Bounce Handling",
+        "Status": "Active",
+        "Start Date": "2025-06-01",
+        "End Date": "2025-06-12",
+        "Budget": 6000.0,
+        "Priority": "Critical",
+        "Description": "Fix issue with handling bounced emails in campaigns.",
+        "Created Date": "2025-05-30",
+        "Last Updated": "2025-06-10",
+        "Project Type": "Bug Fix"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI-driven Influencer Identification",
+        "Status": "Planning",
+        "Start Date": "2025-06-15",
+        "End Date": "2025-10-15",
+        "Budget": 48000.0,
+        "Priority": "Medium",
+        "Description": "Research to develop AI tools for identifying key social influencers.",
+        "Created Date": "2025-06-10",
+        "Last Updated": "2025-06-20",
+        "Project Type": "Research"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Retainer: Monthly Marketing Reports",
+        "Status": "Active",
+        "Start Date": "2024-09-01",
+        "End Date": "2025-08-31",
+        "Budget": 100000.0,
+        "Priority": "High",
+        "Description": "Monthly retainer for AI-powered marketing performance reports.",
+        "Created Date": "2024-08-25",
+        "Last Updated": "2025-06-02",
+        "Project Type": "Retainer"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Website AI Chatbot Upgrade",
+        "Status": "Active",
+        "Start Date": "2024-11-01",
+        "End Date": "2025-02-28",
+        "Budget": 42000.0,
+        "Priority": "High",
+        "Description": "Upgrade website chatbot with advanced AI conversation models.",
+        "Created Date": "2024-10-25",
+        "Last Updated": "2025-02-20",
+        "Project Type": "Enhancement"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Campaign ROI Prediction Model",
+        "Status": "Active",
+        "Start Date": "2024-12-01",
+        "End Date": "2025-05-31",
+        "Budget": 80000.0,
+        "Priority": "Critical",
+        "Description": "Develop AI to predict ROI on marketing campaigns before launch.",
+        "Created Date": "2024-11-20",
+        "Last Updated": "2025-05-25",
+        "Project Type": "Feature"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Bug Fix: Data Sync Latency",
+        "Status": "Active",
+        "Start Date": "2025-05-01",
+        "End Date": "2025-05-15",
+        "Budget": 7500.0,
+        "Priority": "High",
+        "Description": "Fix latency issues in data synchronization between marketing tools.",
+        "Created Date": "2025-04-28",
+        "Last Updated": "2025-05-14",
+        "Project Type": "Bug Fix"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI-powered Customer Feedback Analysis",
+        "Status": "Completed",
+        "Start Date": "2024-03-15",
+        "End Date": "2024-07-15",
+        "Budget": 36000.0,
+        "Priority": "Medium",
+        "Description": "Analyze customer feedback using sentiment analysis AI.",
+        "Created Date": "2024-03-10",
+        "Last Updated": "2024-07-16",
+        "Project Type": "Enhancement"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Social Media Trend Research",
+        "Status": "Research",
+        "Start Date": "2024-08-01",
+        "End Date": "2025-01-31",
+        "Budget": 39000.0,
+        "Priority": "Low",
+        "Description": "Research trending topics on social media using AI algorithms.",
+        "Created Date": "2024-07-30",
+        "Last Updated": "2025-01-20",
+        "Project Type": "Research"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Retainer: AI Marketing Consultation",
+        "Status": "Active",
+        "Start Date": "2024-06-01",
+        "End Date": "2025-05-31",
+        "Budget": 115000.0,
+        "Priority": "High",
+        "Description": "Monthly AI-powered marketing strategy consultation retainer.",
+        "Created Date": "2024-05-25",
+        "Last Updated": "2025-05-01",
+        "Project Type": "Retainer"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Bug Fix: Analytics Data Mismatch",
+        "Status": "Completed",
+        "Start Date": "2024-04-10",
+        "End Date": "2024-04-25",
+        "Budget": 7000.0,
+        "Priority": "Medium",
+        "Description": "Resolved data mismatch between analytics and reporting tools.",
+        "Created Date": "2024-04-05",
+        "Last Updated": "2024-04-26",
+        "Project Type": "Bug Fix"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI-based PPC Campaign Manager",
+        "Status": "Active",
+        "Start Date": "2024-10-10",
+        "End Date": "2025-03-15",
+        "Budget": 78000.0,
+        "Priority": "Critical",
+        "Description": "Manage PPC campaigns using AI for bid optimization and targeting.",
+        "Created Date": "2024-10-05",
+        "Last Updated": "2025-03-10",
+        "Project Type": "Feature"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Website Content Maintenance",
+        "Status": "Maintenance",
+        "Start Date": "2024-05-01",
+        "End Date": "2025-06-26",
+        "Budget": 28000.0,
+        "Priority": "Low",
+        "Description": "Ongoing updates and maintenance of website content.",
+        "Created Date": "2024-05-01",
+        "Last Updated": "2025-06-01",
+        "Project Type": "Maintenance"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Customer Data Privacy Compliance",
+        "Status": "Planning",
+        "Start Date": "2025-03-01",
+        "End Date": "2025-07-31",
+        "Budget": 46000.0,
+        "Priority": "High",
+        "Description": "Ensure marketing data practices comply with privacy laws using AI.",
+        "Created Date": "2025-02-20",
+        "Last Updated": "2025-03-15",
+        "Project Type": "Enhancement"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Lead Conversion Funnel Analysis",
+        "Status": "Active",
+        "Start Date": "2024-09-20",
+        "End Date": "2025-02-28",
+        "Budget": 67000.0,
+        "Priority": "High",
+        "Description": "Analyze lead funnel with AI to improve conversion rates.",
+        "Created Date": "2024-09-15",
+        "Last Updated": "2025-02-25",
+        "Project Type": "Feature"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Bug Fix: Reporting Dashboard Errors",
+        "Status": "Active",
+        "Start Date": "2025-06-05",
+        "End Date": "2025-06-15",
+        "Budget": 6500.0,
+        "Priority": "Critical",
+        "Description": "Fix errors causing inaccurate data display on dashboards.",
+        "Created Date": "2025-06-04",
+        "Last Updated": "2025-06-12",
+        "Project Type": "Bug Fix"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Influencer Marketing Strategy",
+        "Status": "Planning",
+        "Start Date": "2025-06-20",
+        "End Date": "2025-11-30",
+        "Budget": 52000.0,
+        "Priority": "Medium",
+        "Description": "Develop AI strategies for influencer marketing campaigns.",
+        "Created Date": "2025-06-15",
+        "Last Updated": "2025-06-22",
+        "Project Type": "Research"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Retainer: Marketing Automation Support",
+        "Status": "Active",
+        "Start Date": "2024-08-01",
+        "End Date": "2025-07-31",
+        "Budget": 105000.0,
+        "Priority": "High",
+        "Description": "Support retainer for ongoing marketing automation improvements.",
+        "Created Date": "2024-07-25",
+        "Last Updated": "2025-06-05",
+        "Project Type": "Retainer"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Website UX AI Enhancement",
+        "Status": "Active",
+        "Start Date": "2024-11-15",
+        "End Date": "2025-03-30",
+        "Budget": 45000.0,
+        "Priority": "High",
+        "Description": "Improve website user experience using AI-driven personalization.",
+        "Created Date": "2024-11-10",
+        "Last Updated": "2025-03-25",
+        "Project Type": "Enhancement"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Campaign Performance Prediction",
+        "Status": "Active",
+        "Start Date": "2024-12-05",
+        "End Date": "2025-06-01",
+        "Budget": 85000.0,
+        "Priority": "Critical",
+        "Description": "Predict campaign performance metrics with AI models.",
+        "Created Date": "2024-12-01",
+        "Last Updated": "2025-05-30",
+        "Project Type": "Feature"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Bug Fix: Data Export Failures",
+        "Status": "Active",
+        "Start Date": "2025-05-15",
+        "End Date": "2025-05-28",
+        "Budget": 6000.0,
+        "Priority": "High",
+        "Description": "Resolve failures in exporting campaign data reports.",
+        "Created Date": "2025-05-14",
+        "Last Updated": "2025-05-27",
+        "Project Type": "Bug Fix"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI-based Customer Retention Model",
+        "Status": "Completed",
+        "Start Date": "2024-03-20",
+        "End Date": "2024-08-15",
+        "Budget": 37000.0,
+        "Priority": "Medium",
+        "Description": "Model to predict customer churn and retention strategies.",
+        "Created Date": "2024-03-15",
+        "Last Updated": "2024-08-16",
+        "Project Type": "Enhancement"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Social Listening Research Initiative",
+        "Status": "Research",
+        "Start Date": "2024-08-15",
+        "End Date": "2025-02-28",
+        "Budget": 40000.0,
+        "Priority": "Low",
+        "Description": "Research social listening tools powered by AI for brand insights.",
+        "Created Date": "2024-08-10",
+        "Last Updated": "2025-02-20",
+        "Project Type": "Research"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Retainer: AI-driven Content Updates",
+        "Status": "Active",
+        "Start Date": "2024-06-15",
+        "End Date": "2025-06-14",
+        "Budget": 112000.0,
+        "Priority": "High",
+        "Description": "Retainer for regular AI-powered content updates across platforms.",
+        "Created Date": "2024-06-10",
+        "Last Updated": "2025-05-18",
+        "Project Type": "Retainer"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Bug Fix: Analytics API Latency",
+        "Status": "Completed",
+        "Start Date": "2024-04-20",
+        "End Date": "2024-05-10",
+        "Budget": 8000.0,
+        "Priority": "Medium",
+        "Description": "Fixed delays in fetching analytics data from API.",
+        "Created Date": "2024-04-15",
+        "Last Updated": "2024-05-11",
+        "Project Type": "Bug Fix"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI PPC Campaign Optimization",
+        "Status": "Active",
+        "Start Date": "2024-10-20",
+        "End Date": "2025-03-30",
+        "Budget": 79000.0,
+        "Priority": "Critical",
+        "Description": "Optimize PPC campaigns using AI for better ROI and targeting.",
+        "Created Date": "2024-10-15",
+        "Last Updated": "2025-03-25",
+        "Project Type": "Feature"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Website Content Updates Maintenance",
+        "Status": "Maintenance",
+        "Start Date": "2024-05-15",
+        "End Date": "2025-06-26",
+        "Budget": 30000.0,
+        "Priority": "Low",
+        "Description": "Regular maintenance for website content updates and fixes.",
+        "Created Date": "2024-05-15",
+        "Last Updated": "2025-06-01",
+        "Project Type": "Maintenance"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Data Privacy Compliance Initiative",
+        "Status": "Planning",
+        "Start Date": "2025-03-15",
+        "End Date": "2025-08-15",
+        "Budget": 48000.0,
+        "Priority": "High",
+        "Description": "Ensure AI marketing tools comply with new data privacy regulations.",
+        "Created Date": "2025-03-01",
+        "Last Updated": "2025-03-20",
+        "Project Type": "Enhancement"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Lead Funnel Optimization",
+        "Status": "Active",
+        "Start Date": "2024-09-25",
+        "End Date": "2025-03-05",
+        "Budget": 70000.0,
+        "Priority": "High",
+        "Description": "Improve lead conversion funnel efficiency using AI analysis.",
+        "Created Date": "2024-09-20",
+        "Last Updated": "2025-02-28",
+        "Project Type": "Feature"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Bug Fix: Dashboard Load Times",
+        "Status": "Active",
+        "Start Date": "2025-06-10",
+        "End Date": "2025-06-20",
+        "Budget": 7000.0,
+        "Priority": "Critical",
+        "Description": "Reduce loading times on marketing dashboards.",
+        "Created Date": "2025-06-09",
+        "Last Updated": "2025-06-18",
+        "Project Type": "Bug Fix"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Influencer Campaign Planning",
+        "Status": "Planning",
+        "Start Date": "2025-06-25",
+        "End Date": "2025-11-30",
+        "Budget": 53000.0,
+        "Priority": "Medium",
+        "Description": "Plan influencer marketing campaigns using AI-driven insights.",
+        "Created Date": "2025-06-20",
+        "Last Updated": "2025-06-26",
+        "Project Type": "Research"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Retainer: Marketing Automation",
+        "Status": "Active",
+        "Start Date": "2024-08-15",
+        "End Date": "2025-08-14",
+        "Budget": 108000.0,
+        "Priority": "High",
+        "Description": "Ongoing retainer for marketing automation support and upgrades.",
+        "Created Date": "2024-08-10",
+        "Last Updated": "2025-06-05",
+        "Project Type": "Retainer"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Website UX Personalization",
+        "Status": "Active",
+        "Start Date": "2024-11-20",
+        "End Date": "2025-04-15",
+        "Budget": 46000.0,
+        "Priority": "High",
+        "Description": "Use AI to personalize website experience for visitors.",
+        "Created Date": "2024-11-15",
+        "Last Updated": "2025-04-10",
+        "Project Type": "Enhancement"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Campaign Performance AI Prediction",
+        "Status": "Active",
+        "Start Date": "2024-12-10",
+        "End Date": "2025-06-10",
+        "Budget": 87000.0,
+        "Priority": "Critical",
+        "Description": "AI-based prediction models for campaign performance metrics.",
+        "Created Date": "2024-12-05",
+        "Last Updated": "2025-06-05",
+        "Project Type": "Feature"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Bug Fix: Data Export Errors",
+        "Status": "Active",
+        "Start Date": "2025-05-20",
+        "End Date": "2025-06-01",
+        "Budget": 6500.0,
+        "Priority": "High",
+        "Description": "Fix errors encountered during data exports in analytics.",
+        "Created Date": "2025-05-19",
+        "Last Updated": "2025-05-30",
+        "Project Type": "Bug Fix"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Customer Retention AI Model",
+        "Status": "Completed",
+        "Start Date": "2024-03-25",
+        "End Date": "2024-08-20",
+        "Budget": 38000.0,
+        "Priority": "Medium",
+        "Description": "Developed AI model to predict customer retention and churn.",
+        "Created Date": "2024-03-20",
+        "Last Updated": "2024-08-21",
+        "Project Type": "Enhancement"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Social Listening AI Research",
+        "Status": "Research",
+        "Start Date": "2024-08-20",
+        "End Date": "2025-03-05",
+        "Budget": 42000.0,
+        "Priority": "Low",
+        "Description": "Research AI tools for brand social listening and sentiment analysis.",
+        "Created Date": "2024-08-15",
+        "Last Updated": "2025-02-28",
+        "Project Type": "Research"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Retainer: AI Content Marketing",
+        "Status": "Active",
+        "Start Date": "2024-06-20",
+        "End Date": "2025-06-19",
+        "Budget": 115000.0,
+        "Priority": "High",
+        "Description": "Monthly retainer for AI-driven content marketing services.",
+        "Created Date": "2024-06-15",
+        "Last Updated": "2025-05-20",
+        "Project Type": "Retainer"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Bug Fix: API Response Delays",
+        "Status": "Completed",
+        "Start Date": "2024-04-25",
+        "End Date": "2024-05-15",
+        "Budget": 7500.0,
+        "Priority": "Medium",
+        "Description": "Fixed API response delays affecting marketing data feeds.",
+        "Created Date": "2024-04-20",
+        "Last Updated": "2024-05-16",
+        "Project Type": "Bug Fix"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "PPC Campaign AI Management",
+        "Status": "Active",
+        "Start Date": "2024-10-25",
+        "End Date": "2025-04-05",
+        "Budget": 80000.0,
+        "Priority": "Critical",
+        "Description": "Manage PPC campaigns with AI for optimal results.",
+        "Created Date": "2024-10-20",
+        "Last Updated": "2025-03-30",
+        "Project Type": "Feature"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Website Content Maintenance",
+        "Status": "Maintenance",
+        "Start Date": "2024-05-20",
+        "End Date": "2025-06-26",
+        "Budget": 31000.0,
+        "Priority": "Low",
+        "Description": "Maintain website content with regular updates and fixes.",
+        "Created Date": "2024-05-20",
+        "Last Updated": "2025-06-01",
+        "Project Type": "Maintenance"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Privacy Compliance AI Integration",
+        "Status": "Planning",
+        "Start Date": "2025-03-20",
+        "End Date": "2025-08-31",
+        "Budget": 49000.0,
+        "Priority": "High",
+        "Description": "Integrate AI tools to ensure data privacy compliance.",
+        "Created Date": "2025-03-10",
+        "Last Updated": "2025-03-25",
+        "Project Type": "Enhancement"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Lead Funnel AI Optimization",
+        "Status": "Active",
+        "Start Date": "2024-09-30",
+        "End Date": "2025-03-10",
+        "Budget": 71000.0,
+        "Priority": "High",
+        "Description": "Optimize lead funnel using AI-driven analytics and automation.",
+        "Created Date": "2024-09-25",
+        "Last Updated": "2025-03-05",
+        "Project Type": "Feature"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Bug Fix: Dashboard Crash Issues",
+        "Status": "Active",
+        "Start Date": "2025-06-12",
+        "End Date": "2025-06-22",
+        "Budget": 7000.0,
+        "Priority": "Critical",
+        "Description": "Fix crashes occurring in marketing dashboards under load.",
+        "Created Date": "2025-06-10",
+        "Last Updated": "2025-06-20",
+        "Project Type": "Bug Fix"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Influencer Campaign Dev",
+        "Status": "Planning",
+        "Start Date": "2025-06-28",
+        "End Date": "2025-12-05",
+        "Budget": 54000.0,
+        "Priority": "Medium",
+        "Description": "Develop AI tools for influencer campaign management and analysis.",
+        "Created Date": "2025-06-22",
+        "Last Updated": "2025-06-26",
+        "Project Type": "Research"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Marketing Automation Retainer",
+        "Status": "Active",
+        "Start Date": "2024-08-20",
+        "End Date": "2025-08-19",
+        "Budget": 110000.0,
+        "Priority": "High",
+        "Description": "Retainer for ongoing marketing automation services and support.",
+        "Created Date": "2024-08-15",
+        "Last Updated": "2025-06-06",
+        "Project Type": "Retainer"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Website UX AI Personalization",
+        "Status": "Active",
+        "Start Date": "2024-11-25",
+        "End Date": "2025-04-20",
+        "Budget": 47000.0,
+        "Priority": "High",
+        "Description": "Use AI to create personalized website user experiences.",
+        "Created Date": "2024-11-20",
+        "Last Updated": "2025-04-15",
+        "Project Type": "Enhancement"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Campaign Prediction AI Model",
+        "Status": "Active",
+        "Start Date": "2024-12-15",
+        "End Date": "2025-06-20",
+        "Budget": 88000.0,
+        "Priority": "Critical",
+        "Description": "AI model to forecast campaign success and key metrics.",
+        "Created Date": "2024-12-10",
+        "Last Updated": "2025-06-12",
+        "Project Type": "Feature"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Bug Fix: Export Failures",
+        "Status": "Active",
+        "Start Date": "2025-05-25",
+        "End Date": "2025-06-05",
+        "Budget": 6500.0,
+        "Priority": "High",
+        "Description": "Fix export failures in marketing analytics reports.",
+        "Created Date": "2025-05-24",
+        "Last Updated": "2025-06-04",
+        "Project Type": "Bug Fix"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Customer Retention Strategy",
+        "Status": "Completed",
+        "Start Date": "2024-04-01",
+        "End Date": "2024-08-30",
+        "Budget": 39000.0,
+        "Priority": "Medium",
+        "Description": "Implemented AI strategies to improve customer retention rates.",
+        "Created Date": "2024-03-28",
+        "Last Updated": "2024-08-31",
+        "Project Type": "Enhancement"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Social Listening AI Tools Research",
+        "Status": "Research",
+        "Start Date": "2024-08-25",
+        "End Date": "2025-03-10",
+        "Budget": 43000.0,
+        "Priority": "Low",
+        "Description": "Research AI tools for social listening and sentiment analysis.",
+        "Created Date": "2024-08-20",
+        "Last Updated": "2025-03-05",
+        "Project Type": "Research"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Content Marketing Retainer",
+        "Status": "Active",
+        "Start Date": "2024-06-25",
+        "End Date": "2025-06-24",
+        "Budget": 117000.0,
+        "Priority": "High",
+        "Description": "Monthly retainer for AI-generated marketing content creation.",
+        "Created Date": "2024-06-20",
+        "Last Updated": "2025-05-22",
+        "Project Type": "Retainer"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Bug Fix: API Latency Issues",
+        "Status": "Completed",
+        "Start Date": "2024-05-01",
+        "End Date": "2024-05-20",
+        "Budget": 7800.0,
+        "Priority": "Medium",
+        "Description": "Resolved API latency affecting marketing data retrieval.",
+        "Created Date": "2024-04-28",
+        "Last Updated": "2024-05-21",
+        "Project Type": "Bug Fix"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI PPC Campaign Management",
+        "Status": "Active",
+        "Start Date": "2024-11-01",
+        "End Date": "2025-04-15",
+        "Budget": 81000.0,
+        "Priority": "Critical",
+        "Description": "Utilize AI to manage and optimize PPC campaigns.",
+        "Created Date": "2024-10-28",
+        "Last Updated": "2025-04-10",
+        "Project Type": "Feature"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Website Content Maintenance",
+        "Status": "Maintenance",
+        "Start Date": "2024-05-25",
+        "End Date": "2025-06-26",
+        "Budget": 32000.0,
+        "Priority": "Low",
+        "Description": "Ongoing maintenance and updates for website content.",
+        "Created Date": "2024-05-25",
+        "Last Updated": "2025-06-01",
+        "Project Type": "Maintenance"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Data Privacy Compliance Project",
+        "Status": "Planning",
+        "Start Date": "2025-03-25",
+        "End Date": "2025-09-01",
+        "Budget": 50000.0,
+        "Priority": "High",
+        "Description": "Ensure compliance with data privacy laws using AI tools.",
+        "Created Date": "2025-03-15",
+        "Last Updated": "2025-03-30",
+        "Project Type": "Enhancement"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Lead Funnel Optimization",
+        "Status": "Active",
+        "Start Date": "2024-10-05",
+        "End Date": "2025-03-20",
+        "Budget": 72000.0,
+        "Priority": "High",
+        "Description": "Optimize lead funnel using AI-driven marketing insights.",
+        "Created Date": "2024-09-30",
+        "Last Updated": "2025-03-18",
+        "Project Type": "Feature"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Bug Fix: Dashboard Stability",
+        "Status": "Active",
+        "Start Date": "2025-06-15",
+        "End Date": "2025-06-25",
+        "Budget": 7200.0,
+        "Priority": "Critical",
+        "Description": "Address dashboard stability issues under load.",
+        "Created Date": "2025-06-14",
+        "Last Updated": "2025-06-23",
+        "Project Type": "Bug Fix"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Influencer Campaign Research",
+        "Status": "Planning",
+        "Start Date": "2025-07-01",
+        "End Date": "2025-12-10",
+        "Budget": 55000.0,
+        "Priority": "Medium",
+        "Description": "Research AI applications in influencer campaign planning.",
+        "Created Date": "2025-06-25",
+        "Last Updated": "2025-06-30",
+        "Project Type": "Research"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Marketing Automation Support Retainer",
+        "Status": "Active",
+        "Start Date": "2024-08-25",
+        "End Date": "2025-08-24",
+        "Budget": 112000.0,
+        "Priority": "High",
+        "Description": "Retainer for ongoing support of marketing automation systems.",
+        "Created Date": "2024-08-20",
+        "Last Updated": "2025-06-07",
+        "Project Type": "Retainer"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "UX AI Personalization Upgrade",
+        "Status": "Active",
+        "Start Date": "2024-12-01",
+        "End Date": "2025-04-25",
+        "Budget": 48000.0,
+        "Priority": "High",
+        "Description": "Upgrade website personalization using AI technologies.",
+        "Created Date": "2024-11-25",
+        "Last Updated": "2025-04-20",
+        "Project Type": "Enhancement"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Campaign Outcome Prediction AI",
+        "Status": "Active",
+        "Start Date": "2024-12-20",
+        "End Date": "2025-06-25",
+        "Budget": 90000.0,
+        "Priority": "Critical",
+        "Description": "Use AI to predict outcomes of marketing campaigns.",
+        "Created Date": "2024-12-15",
+        "Last Updated": "2025-06-18",
+        "Project Type": "Feature"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Bug Fix: Export Functionality",
+        "Status": "Active",
+        "Start Date": "2025-06-01",
+        "End Date": "2025-06-12",
+        "Budget": 6800.0,
+        "Priority": "High",
+        "Description": "Resolve issues with exporting marketing data reports.",
+        "Created Date": "2025-05-30",
+        "Last Updated": "2025-06-10",
+        "Project Type": "Bug Fix"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Customer Retention AI Project",
+        "Status": "Completed",
+        "Start Date": "2024-04-05",
+        "End Date": "2024-09-01",
+        "Budget": 40000.0,
+        "Priority": "Medium",
+        "Description": "Implemented AI-driven customer retention strategies.",
+        "Created Date": "2024-04-01",
+        "Last Updated": "2024-09-02",
+        "Project Type": "Enhancement"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Social Listening AI Development",
+        "Status": "Research",
+        "Start Date": "2024-09-01",
+        "End Date": "2025-03-15",
+        "Budget": 44000.0,
+        "Priority": "Low",
+        "Description": "Develop AI tools for social listening and brand monitoring.",
+        "Created Date": "2024-08-28",
+        "Last Updated": "2025-03-10",
+        "Project Type": "Research"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Marketing Content Retainer",
+        "Status": "Active",
+        "Start Date": "2024-07-01",
+        "End Date": "2025-06-30",
+        "Budget": 120000.0,
+        "Priority": "High",
+        "Description": "Retainer for AI-powered marketing content creation and management.",
+        "Created Date": "2024-06-28",
+        "Last Updated": "2025-05-25",
+        "Project Type": "Retainer"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Bug Fix: API Data Latency",
+        "Status": "Completed",
+        "Start Date": "2024-05-05",
+        "End Date": "2024-05-25",
+        "Budget": 8000.0,
+        "Priority": "Medium",
+        "Description": "Fixed data latency issues from marketing APIs.",
+        "Created Date": "2024-05-01",
+        "Last Updated": "2024-05-26",
+        "Project Type": "Bug Fix"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI PPC Campaign Optimization",
+        "Status": "Active",
+        "Start Date": "2024-11-05",
+        "End Date": "2025-04-20",
+        "Budget": 82000.0,
+        "Priority": "Critical",
+        "Description": "Optimize PPC campaigns using AI algorithms.",
+        "Created Date": "2024-11-01",
+        "Last Updated": "2025-04-15",
+        "Project Type": "Feature"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Website Content Maintenance",
+        "Status": "Maintenance",
+        "Start Date": "2024-06-01",
+        "End Date": "2025-06-26",
+        "Budget": 33000.0,
+        "Priority": "Low",
+        "Description": "Maintain and update website content regularly.",
+        "Created Date": "2024-06-01",
+        "Last Updated": "2025-06-01",
+        "Project Type": "Maintenance"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Privacy Compliance AI Integration",
+        "Status": "Planning",
+        "Start Date": "2025-03-30",
+        "End Date": "2025-09-15",
+        "Budget": 51000.0,
+        "Priority": "High",
+        "Description": "Integrate AI tools for data privacy compliance.",
+        "Created Date": "2025-03-20",
+        "Last Updated": "2025-04-01",
+        "Project Type": "Enhancement"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Lead Funnel AI Optimization",
+        "Status": "Active",
+        "Start Date": "2024-10-10",
+        "End Date": "2025-03-25",
+        "Budget": 73000.0,
+        "Priority": "High",
+        "Description": "Optimize marketing lead funnel with AI insights.",
+        "Created Date": "2024-10-05",
+        "Last Updated": "2025-03-20",
+        "Project Type": "Feature"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Bug Fix: Dashboard Load",
+        "Status": "Active",
+        "Start Date": "2025-06-18",
+        "End Date": "2025-06-28",
+        "Budget": 7300.0,
+        "Priority": "Critical",
+        "Description": "Fix load issues on marketing dashboards.",
+        "Created Date": "2025-06-17",
+        "Last Updated": "2025-06-26",
+        "Project Type": "Bug Fix"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Influencer Campaign Planning",
+        "Status": "Planning",
+        "Start Date": "2025-07-05",
+        "End Date": "2025-12-15",
+        "Budget": 56000.0,
+        "Priority": "Medium",
+        "Description": "Plan influencer campaigns using AI analytics.",
+        "Created Date": "2025-06-30",
+        "Last Updated": "2025-07-02",
+        "Project Type": "Research"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Marketing Automation Retainer",
+        "Status": "Active",
+        "Start Date": "2024-09-01",
+        "End Date": "2025-08-31",
+        "Budget": 115000.0,
+        "Priority": "High",
+        "Description": "Retainer for marketing automation and continuous improvement.",
+        "Created Date": "2024-08-30",
+        "Last Updated": "2025-06-10",
+        "Project Type": "Retainer"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Website UX AI Upgrade",
+        "Status": "Active",
+        "Start Date": "2024-12-10",
+        "End Date": "2025-04-30",
+        "Budget": 49000.0,
+        "Priority": "High",
+        "Description": "Upgrade website UX with AI personalization features.",
+        "Created Date": "2024-12-05",
+        "Last Updated": "2025-04-25",
+        "Project Type": "Enhancement"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Campaign Outcome AI Prediction",
+        "Status": "Active",
+        "Start Date": "2024-12-25",
+        "End Date": "2025-06-30",
+        "Budget": 91000.0,
+        "Priority": "Critical",
+        "Description": "Develop AI to predict campaign outcomes and KPIs.",
+        "Created Date": "2024-12-20",
+        "Last Updated": "2025-06-22",
+        "Project Type": "Feature"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Bug Fix: Export Issues",
+        "Status": "Active",
+        "Start Date": "2025-06-05",
+        "End Date": "2025-06-16",
+        "Budget": 6700.0,
+        "Priority": "High",
+        "Description": "Fix export issues in marketing analytics.",
+        "Created Date": "2025-06-03",
+        "Last Updated": "2025-06-14",
+        "Project Type": "Bug Fix"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Customer Retention AI Strategy",
+        "Status": "Completed",
+        "Start Date": "2024-04-10",
+        "End Date": "2024-09-05",
+        "Budget": 41000.0,
+        "Priority": "Medium",
+        "Description": "AI strategy implementation to improve retention rates.",
+        "Created Date": "2024-04-05",
+        "Last Updated": "2024-09-06",
+        "Project Type": "Enhancement"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Social Listening AI Research",
+        "Status": "Research",
+        "Start Date": "2024-09-05",
+        "End Date": "2025-03-20",
+        "Budget": 45000.0,
+        "Priority": "Low",
+        "Description": "Research AI-driven social listening tools for brand analysis.",
+        "Created Date": "2024-09-01",
+        "Last Updated": "2025-03-15",
+        "Project Type": "Research"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Content Marketing Retainer",
+        "Status": "Active",
+        "Start Date": "2024-07-05",
+        "End Date": "2025-07-04",
+        "Budget": 120000.0,
+        "Priority": "High",
+        "Description": "Retainer for AI-powered marketing content creation.",
+        "Created Date": "2024-07-01",
+        "Last Updated": "2025-05-28",
+        "Project Type": "Retainer"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Bug Fix: API Latency",
+        "Status": "Completed",
+        "Start Date": "2024-05-10",
+        "End Date": "2024-05-30",
+        "Budget": 8100.0,
+        "Priority": "Medium",
+        "Description": "Fixed latency issues in API data fetching.",
+        "Created Date": "2024-05-05",
+        "Last Updated": "2024-05-31",
+        "Project Type": "Bug Fix"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI PPC Campaign Management",
+        "Status": "Active",
+        "Start Date": "2024-11-10",
+        "End Date": "2025-04-25",
+        "Budget": 83000.0,
+        "Priority": "Critical",
+        "Description": "Manage PPC campaigns with AI for better targeting and ROI.",
+        "Created Date": "2024-11-05",
+        "Last Updated": "2025-04-20",
+        "Project Type": "Feature"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Website Content Maintenance",
+        "Status": "Maintenance",
+        "Start Date": "2024-06-05",
+        "End Date": "2025-06-26",
+        "Budget": 34000.0,
+        "Priority": "Low",
+        "Description": "Ongoing website content updates and fixes.",
+        "Created Date": "2024-06-05",
+        "Last Updated": "2025-06-01",
+        "Project Type": "Maintenance"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Privacy Compliance AI Project",
+        "Status": "Planning",
+        "Start Date": "2025-04-01",
+        "End Date": "2025-09-30",
+        "Budget": 52000.0,
+        "Priority": "High",
+        "Description": "Project to ensure AI tools comply with privacy laws.",
+        "Created Date": "2025-03-25",
+        "Last Updated": "2025-04-05",
+        "Project Type": "Enhancement"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Lead Funnel AI Improvements",
+        "Status": "Active",
+        "Start Date": "2024-10-15",
+        "End Date": "2025-04-01",
+        "Budget": 74000.0,
+        "Priority": "High",
+        "Description": "Improve lead funnel effectiveness with AI analytics.",
+        "Created Date": "2024-10-10",
+        "Last Updated": "2025-03-30",
+        "Project Type": "Feature"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Bug Fix: Dashboard Performance",
+        "Status": "Active",
+        "Start Date": "2025-06-20",
+        "End Date": "2025-06-30",
+        "Budget": 7400.0,
+        "Priority": "Critical",
+        "Description": "Fix performance issues on marketing dashboards.",
+        "Created Date": "2025-06-18",
+        "Last Updated": "2025-06-28",
+        "Project Type": "Bug Fix"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Influencer Campaign Tools",
+        "Status": "Planning",
+        "Start Date": "2025-07-10",
+        "End Date": "2025-12-20",
+        "Budget": 57000.0,
+        "Priority": "Medium",
+        "Description": "Develop AI tools for influencer marketing campaigns.",
+        "Created Date": "2025-07-05",
+        "Last Updated": "2025-07-10",
+        "Project Type": "Research"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Marketing Automation Retainer",
+        "Status": "Active",
+        "Start Date": "2024-09-05",
+        "End Date": "2025-09-04",
+        "Budget": 118000.0,
+        "Priority": "High",
+        "Description": "Retainer for marketing automation system improvements.",
+        "Created Date": "2024-09-01",
+        "Last Updated": "2025-06-15",
+        "Project Type": "Retainer"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Website UX AI Enhancements",
+        "Status": "Active",
+        "Start Date": "2024-12-15",
+        "End Date": "2025-05-05",
+        "Budget": 50000.0,
+        "Priority": "High",
+        "Description": "Enhance website UX with AI-driven personalization.",
+        "Created Date": "2024-12-10",
+        "Last Updated": "2025-04-30",
+        "Project Type": "Enhancement"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Campaign Prediction AI",
+        "Status": "Active",
+        "Start Date": "2024-12-30",
+        "End Date": "2025-07-05",
+        "Budget": 92000.0,
+        "Priority": "Critical",
+        "Description": "AI tools to predict marketing campaign results.",
+        "Created Date": "2024-12-25",
+        "Last Updated": "2025-06-28",
+        "Project Type": "Feature"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Bug Fix: Data Export Issues",
+        "Status": "Active",
+        "Start Date": "2025-06-10",
+        "End Date": "2025-06-21",
+        "Budget": 6900.0,
+        "Priority": "High",
+        "Description": "Resolve issues in data export functionality.",
+        "Created Date": "2025-06-08",
+        "Last Updated": "2025-06-20",
+        "Project Type": "Bug Fix"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI-driven Retention Strategies",
+        "Status": "Completed",
+        "Start Date": "2024-04-15",
+        "End Date": "2024-09-10",
+        "Budget": 42000.0,
+        "Priority": "Medium",
+        "Description": "Implemented AI strategies to boost customer retention.",
+        "Created Date": "2024-04-10",
+        "Last Updated": "2024-09-11",
+        "Project Type": "Enhancement"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Social Listening AI Development",
+        "Status": "Research",
+        "Start Date": "2024-09-10",
+        "End Date": "2025-03-25",
+        "Budget": 46000.0,
+        "Priority": "Low",
+        "Description": "Develop AI-driven social listening capabilities.",
+        "Created Date": "2024-09-05",
+        "Last Updated": "2025-03-20",
+        "Project Type": "Research"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Content Marketing Services",
+        "Status": "Active",
+        "Start Date": "2024-07-10",
+        "End Date": "2025-07-09",
+        "Budget": 122000.0,
+        "Priority": "High",
+        "Description": "Ongoing AI-generated marketing content services.",
+        "Created Date": "2024-07-05",
+        "Last Updated": "2025-05-30",
+        "Project Type": "Retainer"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Marketing Insights Dashboard",
+        "Status": "Active",
+        "Start Date": "2024-08-15",
+        "End Date": "2025-01-20",
+        "Budget": 35000.0,
+        "Priority": "High",
+        "Description": "Develop an AI-powered dashboard to deliver marketing insights in real-time for clients.",
+        "Created Date": "2024-08-01",
+        "Last Updated": "2025-05-23",
+        "Project Type": "Feature"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Social Media Ad Optimization",
+        "Status": "Completed",
+        "Start Date": "2024-01-10",
+        "End Date": "2024-06-15",
+        "Budget": 15000.0,
+        "Priority": "Medium",
+        "Description": "Optimize social media ad spend using AI-driven targeting and analysis.",
+        "Created Date": "2023-12-20",
+        "Last Updated": "2024-06-20",
+        "Project Type": "Enhancement"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Customer Segmentation Research",
+        "Status": "Planning",
+        "Start Date": "2025-05-05",
+        "End Date": "2025-11-30",
+        "Budget": 22000.0,
+        "Priority": "Critical",
+        "Description": "Research new AI models for more precise customer segmentation in marketing campaigns.",
+        "Created Date": "2025-04-28",
+        "Last Updated": "2025-05-10",
+        "Project Type": "Research"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Website UX Bug Fixes",
+        "Status": "Active",
+        "Start Date": "2025-02-01",
+        "End Date": "2025-06-30",
+        "Budget": 8000.0,
+        "Priority": "High",
+        "Description": "Resolve bugs affecting user experience on client websites to improve engagement.",
+        "Created Date": "2025-01-20",
+        "Last Updated": "2025-06-15",
+        "Project Type": "Bug Fix"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Email Campaign Automation Enhancements",
+        "Status": "Active",
+        "Start Date": "2024-09-12",
+        "End Date": "2025-03-10",
+        "Budget": 27000.0,
+        "Priority": "Medium",
+        "Description": "Enhance AI-driven email campaign automation with new personalization features.",
+        "Created Date": "2024-09-01",
+        "Last Updated": "2025-04-18",
+        "Project Type": "Enhancement"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Client Retainer Q3 2025",
+        "Status": "Planning",
+        "Start Date": "2025-07-01",
+        "End Date": "2025-09-30",
+        "Budget": 50000.0,
+        "Priority": "Critical",
+        "Description": "Quarterly retainer package for ongoing AI marketing support and consultation.",
+        "Created Date": "2025-06-10",
+        "Last Updated": "2025-06-12",
+        "Project Type": "Retainer"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Voice AI for Customer Feedback",
+        "Status": "Blocked",
+        "Start Date": "2024-12-01",
+        "End Date": "2025-04-15",
+        "Budget": 18000.0,
+        "Priority": "High",
+        "Description": "Integrate voice recognition AI to analyze customer feedback from calls and messages.",
+        "Created Date": "2024-11-15",
+        "Last Updated": "2025-02-28",
+        "Project Type": "Feature"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "SEO Ranking Bug Fixes",
+        "Status": "Completed",
+        "Start Date": "2024-03-05",
+        "End Date": "2024-06-30",
+        "Budget": 9000.0,
+        "Priority": "Low",
+        "Description": "Fix bugs causing inaccurate SEO ranking reports in client dashboards.",
+        "Created Date": "2024-02-20",
+        "Last Updated": "2024-07-01",
+        "Project Type": "Bug Fix"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Content Generation Maintenance",
+        "Status": "Active",
+        "Start Date": "2024-10-10",
+        "End Date": "2025-06-30",
+        "Budget": 12000.0,
+        "Priority": "Medium",
+        "Description": "Ongoing maintenance and updates for AI content generation tools used by marketing teams.",
+        "Created Date": "2024-10-01",
+        "Last Updated": "2025-06-10",
+        "Project Type": "Maintenance"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Predictive Lead Scoring Research",
+        "Status": "Planning",
+        "Start Date": "2025-06-01",
+        "End Date": "2025-12-15",
+        "Budget": 25000.0,
+        "Priority": "Critical",
+        "Description": "Explore new predictive models to improve lead scoring accuracy for sales teams.",
+        "Created Date": "2025-05-20",
+        "Last Updated": "2025-05-30",
+        "Project Type": "Research"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Client Onboarding Feature",
+        "Status": "Active",
+        "Start Date": "2024-11-20",
+        "End Date": "2025-03-15",
+        "Budget": 40000.0,
+        "Priority": "High",
+        "Description": "Build AI-driven onboarding feature to personalize client experience and accelerate setup.",
+        "Created Date": "2024-11-01",
+        "Last Updated": "2025-05-25",
+        "Project Type": "Feature"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Annual Platform Retainer 2024",
+        "Status": "Completed",
+        "Start Date": "2024-01-01",
+        "End Date": "2024-12-31",
+        "Budget": 120000.0,
+        "Priority": "Critical",
+        "Description": "Year-long retainer for AI platform services and continuous marketing support.",
+        "Created Date": "2023-12-15",
+        "Last Updated": "2024-12-30",
+        "Project Type": "Retainer"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Marketing Funnel Bug Resolution",
+        "Status": "Blocked",
+        "Start Date": "2025-01-15",
+        "End Date": "2025-05-20",
+        "Budget": 7000.0,
+        "Priority": "High",
+        "Description": "Fix critical bugs within the AI-powered marketing funnel tool affecting conversions.",
+        "Created Date": "2025-01-01",
+        "Last Updated": "2025-03-01",
+        "Project Type": "Bug Fix"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Chatbot Enhancement Suite",
+        "Status": "Active",
+        "Start Date": "2024-07-05",
+        "End Date": "2025-02-28",
+        "Budget": 32000.0,
+        "Priority": "Medium",
+        "Description": "Add multilingual capabilities and sentiment analysis to client chatbots.",
+        "Created Date": "2024-06-20",
+        "Last Updated": "2025-02-15",
+        "Project Type": "Enhancement"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "API Stability Maintenance",
+        "Status": "Active",
+        "Start Date": "2025-03-12",
+        "End Date": "2025-09-30",
+        "Budget": 15000.0,
+        "Priority": "Medium",
+        "Description": "Maintain and update APIs for integration with third-party marketing platforms.",
+        "Created Date": "2025-03-01",
+        "Last Updated": "2025-06-20",
+        "Project Type": "Maintenance"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Behavioral Analytics Research",
+        "Status": "Planning",
+        "Start Date": "2025-04-15",
+        "End Date": "2025-10-31",
+        "Budget": 28000.0,
+        "Priority": "High",
+        "Description": "Research AI techniques to analyze customer behavior patterns for better targeting.",
+        "Created Date": "2025-04-01",
+        "Last Updated": "2025-04-20",
+        "Project Type": "Research"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Mobile App Bug Fixes",
+        "Status": "Completed",
+        "Start Date": "2024-05-10",
+        "End Date": "2024-09-30",
+        "Budget": 11000.0,
+        "Priority": "Low",
+        "Description": "Fix bugs affecting AI-powered marketing mobile applications' performance.",
+        "Created Date": "2024-04-20",
+        "Last Updated": "2024-10-01",
+        "Project Type": "Bug Fix"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Content Strategy Retainer Q2 2025",
+        "Status": "Planning",
+        "Start Date": "2025-04-01",
+        "End Date": "2025-06-30",
+        "Budget": 35000.0,
+        "Priority": "Medium",
+        "Description": "Quarterly retainer for AI-assisted content strategy and marketing campaigns.",
+        "Created Date": "2025-03-20",
+        "Last Updated": "2025-03-25",
+        "Project Type": "Retainer"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Ad Copy Generation Enhancement",
+        "Status": "Active",
+        "Start Date": "2024-08-30",
+        "End Date": "2025-02-28",
+        "Budget": 22000.0,
+        "Priority": "High",
+        "Description": "Improve AI algorithms for generating compelling ad copy tailored to diverse audiences.",
+        "Created Date": "2024-08-15",
+        "Last Updated": "2025-02-20",
+        "Project Type": "Enhancement"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Data Pipeline Maintenance",
+        "Status": "Active",
+        "Start Date": "2024-11-01",
+        "End Date": "2025-07-31",
+        "Budget": 18000.0,
+        "Priority": "Medium",
+        "Description": "Maintain and optimize data pipelines feeding AI marketing analytics.",
+        "Created Date": "2024-10-20",
+        "Last Updated": "2025-06-05",
+        "Project Type": "Maintenance"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Customer Journey Mapping Feature",
+        "Status": "Active",
+        "Start Date": "2024-09-15",
+        "End Date": "2025-04-30",
+        "Budget": 38000.0,
+        "Priority": "Critical",
+        "Description": "Develop AI tools to map and analyze customer journeys for better campaign targeting.",
+        "Created Date": "2024-09-01",
+        "Last Updated": "2025-04-10",
+        "Project Type": "Feature"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "SEO Audit Tool Bug Fixes",
+        "Status": "Completed",
+        "Start Date": "2024-02-18",
+        "End Date": "2024-05-20",
+        "Budget": 9500.0,
+        "Priority": "Low",
+        "Description": "Fix bugs in the AI SEO audit tool that report inaccurate site metrics.",
+        "Created Date": "2024-02-01",
+        "Last Updated": "2024-05-25",
+        "Project Type": "Bug Fix"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Training Data Enhancement",
+        "Status": "Planning",
+        "Start Date": "2025-03-20",
+        "End Date": "2025-09-30",
+        "Budget": 27000.0,
+        "Priority": "High",
+        "Description": "Enhance training datasets to improve AI model accuracy for marketing predictions.",
+        "Created Date": "2025-03-01",
+        "Last Updated": "2025-03-15",
+        "Project Type": "Enhancement"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Quarterly Maintenance Cycle",
+        "Status": "Active",
+        "Start Date": "2025-01-01",
+        "End Date": "2025-06-30",
+        "Budget": 13000.0,
+        "Priority": "Medium",
+        "Description": "Routine maintenance for AI marketing tools to ensure optimal performance.",
+        "Created Date": "2024-12-15",
+        "Last Updated": "2025-05-28",
+        "Project Type": "Maintenance"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Personalized Recommendations Research",
+        "Status": "Planning",
+        "Start Date": "2025-05-10",
+        "End Date": "2025-11-30",
+        "Budget": 30000.0,
+        "Priority": "Critical",
+        "Description": "Research AI techniques to improve personalized product and content recommendations.",
+        "Created Date": "2025-04-25",
+        "Last Updated": "2025-05-15",
+        "Project Type": "Research"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Campaign Analytics Dashboard Feature",
+        "Status": "Active",
+        "Start Date": "2024-10-25",
+        "End Date": "2025-05-15",
+        "Budget": 40000.0,
+        "Priority": "High",
+        "Description": "Create a comprehensive dashboard to track performance of AI-driven campaigns.",
+        "Created Date": "2024-10-10",
+        "Last Updated": "2025-05-10",
+        "Project Type": "Feature"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "System Integration Bug Fixes",
+        "Status": "Active",
+        "Start Date": "2025-02-05",
+        "End Date": "2025-07-31",
+        "Budget": 9000.0,
+        "Priority": "Medium",
+        "Description": "Fix bugs in integrations between AI platform and client CRM systems.",
+        "Created Date": "2025-01-20",
+        "Last Updated": "2025-06-01",
+        "Project Type": "Bug Fix"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Client Support Retainer Package",
+        "Status": "Planning",
+        "Start Date": "2025-07-01",
+        "End Date": "2025-12-31",
+        "Budget": 60000.0,
+        "Priority": "Critical",
+        "Description": "Retainer for priority client support and AI consulting services.",
+        "Created Date": "2025-06-15",
+        "Last Updated": "2025-06-20",
+        "Project Type": "Retainer"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Data Cleansing Enhancement",
+        "Status": "Active",
+        "Start Date": "2024-09-18",
+        "End Date": "2025-03-31",
+        "Budget": 21000.0,
+        "Priority": "Medium",
+        "Description": "Enhance AI data cleansing algorithms to improve marketing data quality.",
+        "Created Date": "2024-09-01",
+        "Last Updated": "2025-03-20",
+        "Project Type": "Enhancement"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Platform Security Maintenance",
+        "Status": "Active",
+        "Start Date": "2025-01-10",
+        "End Date": "2025-06-25",
+        "Budget": 16000.0,
+        "Priority": "High",
+        "Description": "Maintain security features and patch vulnerabilities in AI marketing platform.",
+        "Created Date": "2025-01-01",
+        "Last Updated": "2025-06-15",
+        "Project Type": "Maintenance"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Market Trend Analysis Research",
+        "Status": "Planning",
+        "Start Date": "2025-06-01",
+        "End Date": "2025-12-01",
+        "Budget": 29000.0,
+        "Priority": "High",
+        "Description": "Research emerging market trends using AI to guide marketing strategies.",
+        "Created Date": "2025-05-15",
+        "Last Updated": "2025-05-28",
+        "Project Type": "Research"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "UX Feedback Bug Fixes",
+        "Status": "Completed",
+        "Start Date": "2024-03-20",
+        "End Date": "2024-08-15",
+        "Budget": 7000.0,
+        "Priority": "Low",
+        "Description": "Address bugs in collection and analysis of UX feedback through AI tools.",
+        "Created Date": "2024-03-01",
+        "Last Updated": "2024-08-20",
+        "Project Type": "Bug Fix"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Chat Support Enhancement",
+        "Status": "Active",
+        "Start Date": "2024-11-15",
+        "End Date": "2025-06-10",
+        "Budget": 34000.0,
+        "Priority": "High",
+        "Description": "Add advanced AI features such as multilingual and emotion detection to chat support.",
+        "Created Date": "2024-11-01",
+        "Last Updated": "2025-06-05",
+        "Project Type": "Enhancement"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Quarterly Report Generation Maintenance",
+        "Status": "Active",
+        "Start Date": "2025-02-01",
+        "End Date": "2025-07-31",
+        "Budget": 14000.0,
+        "Priority": "Medium",
+        "Description": "Maintain AI systems for automatic generation of marketing reports every quarter.",
+        "Created Date": "2025-01-15",
+        "Last Updated": "2025-06-15",
+        "Project Type": "Maintenance"
+      }
+    }
+  ]
+}

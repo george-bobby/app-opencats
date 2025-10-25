@@ -1,0 +1,186 @@
+[
+    {
+        "name": "Route Bug Reports to Engineering",
+        "description": "Automatically routes messages containing bug-related keywords to the engineering team",
+        "event_name": "message_created",
+        "conditions": [
+            {
+                "attribute_key": "message_type",
+                "filter_operator": "equal_to",
+                "values": [
+                    "incoming"
+                ],
+                "query_operator": "and",
+                "custom_attribute_type": ""
+            },
+            {
+                "attribute_key": "content",
+                "filter_operator": "contains",
+                "values": [
+                    "bug",
+                    "error",
+                    "crash"
+                ],
+                "query_operator": "and",
+                "custom_attribute_type": ""
+            }
+        ],
+        "actions": [
+            {
+                "action_name": "assign_team",
+                "action_params": [
+                    5
+                ]
+            },
+            {
+                "action_name": "add_label",
+                "action_params": [
+                    "bug_report"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "VIP Customer Priority Handling",
+        "description": "Gives high priority to conversations from VIP customers based on customer tier",
+        "event_name": "conversation_created",
+        "conditions": [
+            {
+                "attribute_key": "contact_custom_attribute_customer_tier",
+                "filter_operator": "equal_to",
+                "values": [
+                    "Platinum",
+                    "Gold"
+                ],
+                "query_operator": "and",
+                "custom_attribute_type": ""
+            }
+        ],
+        "actions": [
+            {
+                "action_name": "assign_team",
+                "action_params": [
+                    1
+                ]
+            },
+            {
+                "action_name": "add_label",
+                "action_params": [
+                    "vip"
+                ]
+            },
+            {
+                "action_name": "send_email_to_team",
+                "action_params": [
+                    "vip-support@company.com",
+                    "VIP Customer Contact",
+                    "A VIP customer has initiated contact"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Sales Inquiry Auto-Assignment",
+        "description": "Routes sales-related messages to the sales team",
+        "event_name": "message_created",
+        "conditions": [
+            {
+                "attribute_key": "content",
+                "filter_operator": "contains",
+                "values": [
+                    "price",
+                    "pricing",
+                    "quote",
+                    "sales",
+                    "purchase"
+                ],
+                "query_operator": "and",
+                "custom_attribute_type": ""
+            }
+        ],
+        "actions": [
+            {
+                "action_name": "assign_team",
+                "action_params": [
+                    2
+                ]
+            },
+            {
+                "action_name": "add_label",
+                "action_params": [
+                    "sales_inquiry"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "High Engagement User Follow-up",
+        "description": "Schedules follow-up for highly engaged users who need support",
+        "event_name": "conversation_updated",
+        "conditions": [
+            {
+                "attribute_key": "status",
+                "filter_operator": "equal_to",
+                "values": [
+                    "resolved"
+                ],
+                "query_operator": "and",
+                "custom_attribute_type": ""
+            },
+            {
+                "attribute_key": "contact_custom_attribute_engagement_level",
+                "filter_operator": "equal_to",
+                "values": [
+                    "High"
+                ],
+                "query_operator": "and",
+                "custom_attribute_type": ""
+            }
+        ],
+        "actions": [
+            {
+                "action_name": "snooze_conversation",
+                "action_params": [
+                    24
+                ]
+            },
+            {
+                "action_name": "add_label",
+                "action_params": [
+                    "follow_up"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Webhook Notification for Enterprise Customers",
+        "description": "Sends webhook notification when enterprise customers create conversations",
+        "event_name": "conversation_created",
+        "conditions": [
+            {
+                "attribute_key": "contact_custom_attribute_subscription_plan",
+                "filter_operator": "equal_to",
+                "values": [
+                    "Enterprise"
+                ],
+                "query_operator": "and",
+                "custom_attribute_type": ""
+            }
+        ],
+        "actions": [
+            {
+                "action_name": "send_webhook_event",
+                "action_params": [
+                    "https://api.company.com/webhook/enterprise-contact",
+                    "enterprise_customer_contact"
+                ]
+            },
+            {
+                "action_name": "assign_agent",
+                "action_params": [
+                    1
+                ]
+            }
+        ]
+    }
+]

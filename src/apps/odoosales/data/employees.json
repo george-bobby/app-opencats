@@ -1,0 +1,4958 @@
+[
+    {
+        "name": "Emily Johnson",
+        "department": "Sales & Marketing",
+        "job_title": "Sales Manager",
+        "work_email": "emilyjohnson.sales",
+        "job_position": "Sales Manager",
+        "resume_lines": [
+            {
+                "name": "Bright Retail Corp",
+                "resume_type": "Experience",
+                "date_start": "2018-06",
+                "date_end": null,
+                "description": "Leading sales team to exceed quarterly targets in consumer goods retail."
+            },
+            {
+                "name": "State University",
+                "resume_type": "Education",
+                "date_start": "2012-09",
+                "date_end": "2016-05",
+                "description": "Bachelor of Business Administration with a focus on Marketing."
+            },
+            {
+                "name": "Retail Solutions Inc.",
+                "resume_type": "Experience",
+                "date_start": "2016-07",
+                "date_end": "2018-05",
+                "description": "Marketing coordinator responsible for campaign management and brand promotion."
+            }
+        ],
+        "skills": [
+            "Sales Strategy",
+            "Customer Relationship Management",
+            "Digital Marketing",
+            "Team Leadership",
+            "Market Analysis"
+        ],
+        "private_address": {
+            "street": "123 Maple Street",
+            "city": "Austin",
+            "state": "Texas",
+            "zip_code": "78701"
+        },
+        "private_email": "emily.johnson@gmail.com",
+        "private_car_plate": "TXJ1234",
+        "gender": "female",
+        "passport_id": "X12345678",
+        "ssnid": "123-45-6789",
+        "identification_id": "TX987654321",
+        "place_of_birth": "Dallas, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Business Administration",
+            "study_school": "State University"
+        },
+        "categories": [
+            "management",
+            "sales"
+        ]
+    },
+    {
+        "name": "Michael Thompson",
+        "department": "Sales & Marketing",
+        "job_title": "Marketing Coordinator",
+        "work_email": "michaelthompson.marketing",
+        "job_position": "Marketing Coordinator",
+        "resume_lines": [
+            {
+                "name": "Creative Ads LLC",
+                "resume_type": "Experience",
+                "date_start": "2019-03",
+                "date_end": null,
+                "description": "Coordinating marketing campaigns and managing social media presence for consumer goods."
+            },
+            {
+                "name": "University of Florida",
+                "resume_type": "Education",
+                "date_start": "2014-09",
+                "date_end": "2018-05",
+                "description": "Bachelor of Marketing with a focus on digital marketing strategies."
+            },
+            {
+                "name": "Bright Retail Corp",
+                "resume_type": "Experience",
+                "date_start": "2018-06",
+                "date_end": "2019-02",
+                "description": "Assisted in brand promotion and event planning for retail products."
+            }
+        ],
+        "skills": [
+            "Campaign Management",
+            "Content Creation",
+            "SEO",
+            "Social Media Marketing",
+            "Brand Development"
+        ],
+        "private_address": {
+            "street": "456 Oak Avenue",
+            "city": "Orlando",
+            "state": "Florida",
+            "zip_code": "32801"
+        },
+        "private_email": "michael.thompson@gmail.com",
+        "private_car_plate": "FLM5678",
+        "gender": "male",
+        "passport_id": "Y23456789",
+        "ssnid": "234-56-7890",
+        "identification_id": "FL876543210",
+        "place_of_birth": "Miami, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Marketing",
+            "study_school": "University of Florida"
+        },
+        "categories": [
+            "marketing",
+            "digital"
+        ]
+    },
+    {
+        "name": "Sophia Martinez",
+        "department": "Sales & Marketing",
+        "job_title": "Brand Manager",
+        "work_email": "sophiamartinez.marketing",
+        "job_position": "Brand Manager",
+        "resume_lines": [
+            {
+                "name": "Global Brands Inc.",
+                "resume_type": "Experience",
+                "date_start": "2020-01",
+                "date_end": null,
+                "description": "Managing brand strategy and product positioning for consumer goods."
+            },
+            {
+                "name": "University of Texas",
+                "resume_type": "Education",
+                "date_start": "2013-09",
+                "date_end": "2017-05",
+                "description": "Bachelor of Business Administration with a major in Marketing."
+            },
+            {
+                "name": "Bright Retail Corp",
+                "resume_type": "Experience",
+                "date_start": "2017-06",
+                "date_end": "2019-12",
+                "description": "Developed marketing materials and coordinated product launches."
+            }
+        ],
+        "skills": [
+            "Brand Strategy",
+            "Market Research",
+            "Product Launch",
+            "Advertising",
+            "Customer Insights"
+        ],
+        "private_address": {
+            "street": "789 Pine Road",
+            "city": "Houston",
+            "state": "Texas",
+            "zip_code": "77002"
+        },
+        "private_email": "sophia.martinez@gmail.com",
+        "private_car_plate": "TXM8910",
+        "gender": "female",
+        "passport_id": "Z34567890",
+        "ssnid": "345-67-8901",
+        "identification_id": "TX765432109",
+        "place_of_birth": "San Antonio, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Business Administration",
+            "study_school": "University of Texas"
+        },
+        "categories": [
+            "marketing",
+            "brand"
+        ]
+    },
+    {
+        "name": "David Lee",
+        "department": "Sales & Marketing",
+        "job_title": "Retail Sales Associate",
+        "work_email": "davidlee.sales",
+        "job_position": "Retail Sales Associate",
+        "resume_lines": [
+            {
+                "name": "City Retail Store",
+                "resume_type": "Experience",
+                "date_start": "2021-05",
+                "date_end": null,
+                "description": "Assisting customers and driving sales in a busy retail environment."
+            },
+            {
+                "name": "Community College",
+                "resume_type": "Education",
+                "date_start": "2018-09",
+                "date_end": "2020-05",
+                "description": "Associate degree in Business Management."
+            },
+            {
+                "name": "Local Market",
+                "resume_type": "Experience",
+                "date_start": "2020-06",
+                "date_end": "2021-04",
+                "description": "Customer service and inventory management."
+            }
+        ],
+        "skills": [
+            "Customer Service",
+            "Sales Techniques",
+            "Product Knowledge",
+            "POS Systems",
+            "Inventory Management"
+        ],
+        "private_address": {
+            "street": "321 Birch Lane",
+            "city": "Dallas",
+            "state": "Texas",
+            "zip_code": "75201"
+        },
+        "private_email": "david.lee@gmail.com",
+        "private_car_plate": "TXD2345",
+        "gender": "male",
+        "passport_id": "A45678901",
+        "ssnid": "456-78-9012",
+        "identification_id": "TX654321098",
+        "place_of_birth": "Dallas, USA",
+        "education": {
+            "certificate": "other",
+            "study_field": "Business Management",
+            "study_school": "Community College"
+        },
+        "categories": [
+            "sales",
+            "retail"
+        ]
+    },
+    {
+        "name": "Olivia Brown",
+        "department": "Sales & Marketing",
+        "job_title": "Customer Service Representative",
+        "work_email": "oliviabrown.sales",
+        "job_position": "Customer Service Representative",
+        "resume_lines": [
+            {
+                "name": "Bright Retail Corp",
+                "resume_type": "Experience",
+                "date_start": "2019-08",
+                "date_end": null,
+                "description": "Handling customer inquiries and resolving issues to ensure satisfaction."
+            },
+            {
+                "name": "State University",
+                "resume_type": "Education",
+                "date_start": "2015-09",
+                "date_end": "2019-05",
+                "description": "Bachelor of Arts in Communication."
+            },
+            {
+                "name": "Retail Solutions Inc.",
+                "resume_type": "Experience",
+                "date_start": "2017-06",
+                "date_end": "2019-07",
+                "description": "Provided customer support and managed feedback channels."
+            }
+        ],
+        "skills": [
+            "Customer Support",
+            "Conflict Resolution",
+            "Communication",
+            "CRM Software",
+            "Problem Solving"
+        ],
+        "private_address": {
+            "street": "654 Cedar Street",
+            "city": "Austin",
+            "state": "Texas",
+            "zip_code": "78702"
+        },
+        "private_email": "olivia.brown@gmail.com",
+        "private_car_plate": "TXO3456",
+        "gender": "female",
+        "passport_id": "B56789012",
+        "ssnid": "567-89-0123",
+        "identification_id": "TX543210987",
+        "place_of_birth": "Austin, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Communication",
+            "study_school": "State University"
+        },
+        "categories": [
+            "customer service",
+            "support"
+        ]
+    },
+    {
+        "name": "James Wilson",
+        "department": "Sales & Marketing",
+        "job_title": "Sales Manager",
+        "work_email": "jameswilson.sales",
+        "job_position": "Sales Manager",
+        "resume_lines": [
+            {
+                "name": "Retail Experts LLC",
+                "resume_type": "Experience",
+                "date_start": "2017-04",
+                "date_end": null,
+                "description": "Managing sales teams and developing strategies to increase revenue."
+            },
+            {
+                "name": "University of Michigan",
+                "resume_type": "Education",
+                "date_start": "2010-09",
+                "date_end": "2014-05",
+                "description": "Bachelor of Business Administration in Marketing."
+            },
+            {
+                "name": "Market Leaders Inc.",
+                "resume_type": "Experience",
+                "date_start": "2014-06",
+                "date_end": "2017-03",
+                "description": "Sales representative focusing on consumer goods."
+            }
+        ],
+        "skills": [
+            "Sales Leadership",
+            "Negotiation",
+            "Strategic Planning",
+            "Team Building",
+            "Market Analysis"
+        ],
+        "private_address": {
+            "street": "987 Elm Street",
+            "city": "Detroit",
+            "state": "Michigan",
+            "zip_code": "48201"
+        },
+        "private_email": "james.wilson@gmail.com",
+        "private_car_plate": "MIG7890",
+        "gender": "male",
+        "passport_id": "C67890123",
+        "ssnid": "678-90-1234",
+        "identification_id": "MI432109876",
+        "place_of_birth": "Detroit, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Business Administration",
+            "study_school": "University of Michigan"
+        },
+        "categories": [
+            "management",
+            "sales"
+        ]
+    },
+    {
+        "name": "Isabella Garcia",
+        "department": "Sales & Marketing",
+        "job_title": "Marketing Coordinator",
+        "work_email": "isabellagarcia.marketing",
+        "job_position": "Marketing Coordinator",
+        "resume_lines": [
+            {
+                "name": "Creative Media Group",
+                "resume_type": "Experience",
+                "date_start": "2020-07",
+                "date_end": null,
+                "description": "Developing and executing marketing campaigns for retail products."
+            },
+            {
+                "name": "University of California",
+                "resume_type": "Education",
+                "date_start": "2015-09",
+                "date_end": "2019-06",
+                "description": "Bachelor of Arts in Marketing and Communications."
+            },
+            {
+                "name": "Bright Retail Corp",
+                "resume_type": "Experience",
+                "date_start": "2019-07",
+                "date_end": "2020-06",
+                "description": "Assisted in digital marketing and content creation."
+            }
+        ],
+        "skills": [
+            "Digital Marketing",
+            "Content Strategy",
+            "Email Marketing",
+            "Analytics",
+            "Social Media"
+        ],
+        "private_address": {
+            "street": "159 Spruce Drive",
+            "city": "San Francisco",
+            "state": "California",
+            "zip_code": "94102"
+        },
+        "private_email": "isabella.garcia@gmail.com",
+        "private_car_plate": "CAC1234",
+        "gender": "female",
+        "passport_id": "D78901234",
+        "ssnid": "789-01-2345",
+        "identification_id": "CA321098765",
+        "place_of_birth": "Los Angeles, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Marketing and Communications",
+            "study_school": "University of California"
+        },
+        "categories": [
+            "marketing",
+            "digital"
+        ]
+    },
+    {
+        "name": "William Harris",
+        "department": "Sales & Marketing",
+        "job_title": "Retail Sales Associate",
+        "work_email": "williamharris.sales",
+        "job_position": "Retail Sales Associate",
+        "resume_lines": [
+            {
+                "name": "Downtown Retail",
+                "resume_type": "Experience",
+                "date_start": "2022-01",
+                "date_end": null,
+                "description": "Providing excellent customer service and driving sales in a retail environment."
+            },
+            {
+                "name": "Community College",
+                "resume_type": "Education",
+                "date_start": "2019-09",
+                "date_end": "2021-05",
+                "description": "Associate degree in Business Administration."
+            },
+            {
+                "name": "Local Market",
+                "resume_type": "Experience",
+                "date_start": "2021-06",
+                "date_end": "2021-12",
+                "description": "Assisted with inventory and customer support."
+            }
+        ],
+        "skills": [
+            "Customer Service",
+            "Sales Techniques",
+            "Product Knowledge",
+            "POS Operation",
+            "Inventory Control"
+        ],
+        "private_address": {
+            "street": "753 Willow Way",
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip_code": "60601"
+        },
+        "private_email": "william.harris@gmail.com",
+        "private_car_plate": "ILW4567",
+        "gender": "male",
+        "passport_id": "E89012345",
+        "ssnid": "890-12-3456",
+        "identification_id": "IL210987654",
+        "place_of_birth": "Chicago, USA",
+        "education": {
+            "certificate": "other",
+            "study_field": "Business Administration",
+            "study_school": "Community College"
+        },
+        "categories": [
+            "sales",
+            "retail"
+        ]
+    },
+    {
+        "name": "Mia Robinson",
+        "department": "Sales & Marketing",
+        "job_title": "Customer Service Representative",
+        "work_email": "miarobinson.sales",
+        "job_position": "Customer Service Representative",
+        "resume_lines": [
+            {
+                "name": "Bright Retail Corp",
+                "resume_type": "Experience",
+                "date_start": "2021-03",
+                "date_end": null,
+                "description": "Responding to customer inquiries and resolving complaints efficiently."
+            },
+            {
+                "name": "State University",
+                "resume_type": "Education",
+                "date_start": "2016-09",
+                "date_end": "2020-05",
+                "description": "Bachelor of Arts in Communication Studies."
+            },
+            {
+                "name": "Retail Solutions Inc.",
+                "resume_type": "Experience",
+                "date_start": "2020-06",
+                "date_end": "2021-02",
+                "description": "Handled customer feedback and support services."
+            }
+        ],
+        "skills": [
+            "Customer Communication",
+            "Problem Solving",
+            "CRM Software",
+            "Conflict Resolution",
+            "Multitasking"
+        ],
+        "private_address": {
+            "street": "852 Aspen Court",
+            "city": "Austin",
+            "state": "Texas",
+            "zip_code": "78703"
+        },
+        "private_email": "mia.robinson@gmail.com",
+        "private_car_plate": "TXM6789",
+        "gender": "female",
+        "passport_id": "F90123456",
+        "ssnid": "901-23-4567",
+        "identification_id": "TX109876543",
+        "place_of_birth": "Austin, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Communication Studies",
+            "study_school": "State University"
+        },
+        "categories": [
+            "customer service",
+            "support"
+        ]
+    },
+    {
+        "name": "Benjamin Clark",
+        "department": "Sales & Marketing",
+        "job_title": "Brand Manager",
+        "work_email": "benjaminclark.marketing",
+        "job_position": "Brand Manager",
+        "resume_lines": [
+            {
+                "name": "National Brands LLC",
+                "resume_type": "Experience",
+                "date_start": "2018-09",
+                "date_end": null,
+                "description": "Overseeing brand development and marketing strategies for consumer products."
+            },
+            {
+                "name": "University of Illinois",
+                "resume_type": "Education",
+                "date_start": "2012-09",
+                "date_end": "2016-05",
+                "description": "Bachelor of Business Administration in Marketing."
+            },
+            {
+                "name": "Bright Retail Corp",
+                "resume_type": "Experience",
+                "date_start": "2016-06",
+                "date_end": "2018-08",
+                "description": "Assisted in product branding and promotional activities."
+            }
+        ],
+        "skills": [
+            "Brand Management",
+            "Market Analysis",
+            "Advertising",
+            "Product Positioning",
+            "Creative Direction"
+        ],
+        "private_address": {
+            "street": "369 Chestnut Street",
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip_code": "60602"
+        },
+        "private_email": "benjamin.clark@gmail.com",
+        "private_car_plate": "ILB7890",
+        "gender": "male",
+        "passport_id": "G01234567",
+        "ssnid": "012-34-5678",
+        "identification_id": "IL098765432",
+        "place_of_birth": "Chicago, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Business Administration",
+            "study_school": "University of Illinois"
+        },
+        "categories": [
+            "marketing",
+            "brand"
+        ]
+    },
+    {
+        "name": "Charlotte Davis",
+        "department": "Sales & Marketing",
+        "job_title": "Marketing Coordinator",
+        "work_email": "charlottedavis.marketing",
+        "job_position": "Marketing Coordinator",
+        "resume_lines": [
+            {
+                "name": "Creative Ads LLC",
+                "resume_type": "Experience",
+                "date_start": "2019-11",
+                "date_end": null,
+                "description": "Planning and executing marketing campaigns for retail clients."
+            },
+            {
+                "name": "University of Washington",
+                "resume_type": "Education",
+                "date_start": "2014-09",
+                "date_end": "2018-06",
+                "description": "Bachelor of Arts in Marketing and Communications."
+            },
+            {
+                "name": "Bright Retail Corp",
+                "resume_type": "Experience",
+                "date_start": "2018-07",
+                "date_end": "2019-10",
+                "description": "Supported marketing team with content creation and event coordination."
+            }
+        ],
+        "skills": [
+            "Campaign Planning",
+            "Content Marketing",
+            "Social Media",
+            "Email Marketing",
+            "Analytics"
+        ],
+        "private_address": {
+            "street": "147 Fir Street",
+            "city": "Seattle",
+            "state": "Washington",
+            "zip_code": "98101"
+        },
+        "private_email": "charlotte.davis@gmail.com",
+        "private_car_plate": "WAC1234",
+        "gender": "female",
+        "passport_id": "H12345678",
+        "ssnid": "123-45-6789",
+        "identification_id": "WA987654321",
+        "place_of_birth": "Seattle, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Marketing and Communications",
+            "study_school": "University of Washington"
+        },
+        "categories": [
+            "marketing",
+            "digital"
+        ]
+    },
+    {
+        "name": "Ethan Walker",
+        "department": "Sales & Marketing",
+        "job_title": "Retail Sales Associate",
+        "work_email": "ethanwalker.sales",
+        "job_position": "Retail Sales Associate",
+        "resume_lines": [
+            {
+                "name": "City Retail Store",
+                "resume_type": "Experience",
+                "date_start": "2020-10",
+                "date_end": null,
+                "description": "Assisting customers and maintaining product displays in retail environment."
+            },
+            {
+                "name": "Community College",
+                "resume_type": "Education",
+                "date_start": "2017-09",
+                "date_end": "2019-06",
+                "description": "Associate degree in Business Management."
+            },
+            {
+                "name": "Local Market",
+                "resume_type": "Experience",
+                "date_start": "2019-07",
+                "date_end": "2020-09",
+                "description": "Customer service and stock management."
+            }
+        ],
+        "skills": [
+            "Customer Service",
+            "Sales Support",
+            "Product Knowledge",
+            "POS Systems",
+            "Inventory Management"
+        ],
+        "private_address": {
+            "street": "258 Walnut Avenue",
+            "city": "Portland",
+            "state": "Oregon",
+            "zip_code": "97201"
+        },
+        "private_email": "ethan.walker@gmail.com",
+        "private_car_plate": "ORW2345",
+        "gender": "male",
+        "passport_id": "I23456789",
+        "ssnid": "234-56-7890",
+        "identification_id": "OR876543210",
+        "place_of_birth": "Portland, USA",
+        "education": {
+            "certificate": "other",
+            "study_field": "Business Management",
+            "study_school": "Community College"
+        },
+        "categories": [
+            "sales",
+            "retail"
+        ]
+    },
+    {
+        "name": "Michael Thompson",
+        "department": "Warehouse & Inventory",
+        "job_title": "Warehouse Supervisor",
+        "work_email": "michaelthompson.warehouse",
+        "job_position": "Warehouse Supervisor",
+        "resume_lines": [
+            {
+                "name": "LogiGoods LLC",
+                "resume_type": "Experience",
+                "date_start": "2017-03",
+                "date_end": null,
+                "description": "Supervising warehouse operations and inventory control for consumer goods."
+            },
+            {
+                "name": "Tech Community College",
+                "resume_type": "Education",
+                "date_start": "2013-09",
+                "date_end": "2015-06",
+                "description": "Associate Degree in Supply Chain Management."
+            },
+            {
+                "name": "FastTrack Logistics",
+                "resume_type": "Experience",
+                "date_start": "2015-07",
+                "date_end": "2017-02",
+                "description": "Inventory analyst focusing on stock optimization and order fulfillment."
+            }
+        ],
+        "skills": [
+            "Inventory Management",
+            "Warehouse Safety",
+            "Forklift Operation",
+            "Team Coordination",
+            "Logistics Planning"
+        ],
+        "private_address": {
+            "street": "456 Oak Avenue",
+            "city": "Denver",
+            "state": "Colorado",
+            "zip_code": "80203"
+        },
+        "private_email": "michael.thompson@outlook.com",
+        "private_car_plate": "COL4567",
+        "gender": "male",
+        "passport_id": "Y98765432",
+        "ssnid": "987-65-4321",
+        "identification_id": "CO123456789",
+        "place_of_birth": "Denver, USA",
+        "education": {
+            "certificate": "other",
+            "study_field": "Supply Chain Management",
+            "study_school": "Tech Community College"
+        },
+        "categories": [
+            "operations",
+            "logistics"
+        ]
+    },
+    {
+        "name": "Jessica Ramirez",
+        "department": "Warehouse & Inventory",
+        "job_title": "Inventory Analyst",
+        "work_email": "jessicaramirez.warehouse",
+        "job_position": "Inventory Analyst",
+        "resume_lines": [
+            {
+                "name": "RetailPro Inc.",
+                "resume_type": "Experience",
+                "date_start": "2019-05",
+                "date_end": null,
+                "description": "Analyzing inventory levels and forecasting demand to optimize stock."
+            },
+            {
+                "name": "State University",
+                "resume_type": "Education",
+                "date_start": "2014-09",
+                "date_end": "2018-06",
+                "description": "Bachelor's Degree in Business Administration with focus on Supply Chain."
+            },
+            {
+                "name": "LogiGoods LLC",
+                "resume_type": "Experience",
+                "date_start": "2018-07",
+                "date_end": "2019-04",
+                "description": "Assisted in inventory audits and stock reconciliation."
+            }
+        ],
+        "skills": [
+            "Data Analysis",
+            "Inventory Forecasting",
+            "ERP Systems",
+            "Excel",
+            "Problem Solving"
+        ],
+        "private_address": {
+            "street": "789 Pine Street",
+            "city": "Aurora",
+            "state": "Colorado",
+            "zip_code": "80012"
+        },
+        "private_email": "jessica.ramirez@gmail.com",
+        "private_car_plate": "COX1234",
+        "gender": "female",
+        "passport_id": "Z12345678",
+        "ssnid": "123-45-6789",
+        "identification_id": "CO987654321",
+        "place_of_birth": "Aurora, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Business Administration",
+            "study_school": "State University"
+        },
+        "categories": [
+            "analytics",
+            "inventory"
+        ]
+    },
+    {
+        "name": "David Lee",
+        "department": "Warehouse & Inventory",
+        "job_title": "Forklift Operator",
+        "work_email": "davidlee.warehouse",
+        "job_position": "Forklift Operator",
+        "resume_lines": [
+            {
+                "name": "FastTrack Logistics",
+                "resume_type": "Experience",
+                "date_start": "2016-01",
+                "date_end": null,
+                "description": "Operating forklifts to move and organize warehouse stock safely."
+            },
+            {
+                "name": "Community College",
+                "resume_type": "Education",
+                "date_start": "2014-09",
+                "date_end": "2015-06",
+                "description": "Certification in Heavy Equipment Operation."
+            },
+            {
+                "name": "LogiGoods LLC",
+                "resume_type": "Experience",
+                "date_start": "2015-07",
+                "date_end": "2015-12",
+                "description": "Assisted in loading and unloading shipments."
+            }
+        ],
+        "skills": [
+            "Forklift Operation",
+            "Safety Compliance",
+            "Equipment Maintenance",
+            "Teamwork",
+            "Physical Stamina"
+        ],
+        "private_address": {
+            "street": "123 Maple Drive",
+            "city": "Boulder",
+            "state": "Colorado",
+            "zip_code": "80301"
+        },
+        "private_email": "david.lee@outlook.com",
+        "private_car_plate": "BOU5678",
+        "gender": "male",
+        "passport_id": "X87654321",
+        "ssnid": "234-56-7890",
+        "identification_id": "CO112233445",
+        "place_of_birth": "Boulder, USA",
+        "education": {
+            "certificate": "other",
+            "study_field": "Heavy Equipment Operation",
+            "study_school": "Community College"
+        },
+        "categories": [
+            "operations",
+            "equipment"
+        ]
+    },
+    {
+        "name": "Emily Nguyen",
+        "department": "Warehouse & Inventory",
+        "job_title": "Warehouse Associate",
+        "work_email": "emilynguyen.warehouse",
+        "job_position": "Warehouse Associate",
+        "resume_lines": [
+            {
+                "name": "RetailPro Inc.",
+                "resume_type": "Experience",
+                "date_start": "2020-02",
+                "date_end": null,
+                "description": "Handling receiving, storing, and shipping of consumer goods."
+            },
+            {
+                "name": "City College",
+                "resume_type": "Education",
+                "date_start": "2016-09",
+                "date_end": "2018-06",
+                "description": "Associate Degree in Logistics and Supply Chain."
+            },
+            {
+                "name": "LogiGoods LLC",
+                "resume_type": "Experience",
+                "date_start": "2018-07",
+                "date_end": "2020-01",
+                "description": "Assisted in inventory management and order picking."
+            }
+        ],
+        "skills": [
+            "Order Picking",
+            "Inventory Control",
+            "Shipping and Receiving",
+            "Team Collaboration",
+            "Warehouse Safety"
+        ],
+        "private_address": {
+            "street": "234 Cedar Lane",
+            "city": "Denver",
+            "state": "Colorado",
+            "zip_code": "80204"
+        },
+        "private_email": "emily.nguyen@gmail.com",
+        "private_car_plate": "DEN2345",
+        "gender": "female",
+        "passport_id": "W23456789",
+        "ssnid": "345-67-8901",
+        "identification_id": "CO556677889",
+        "place_of_birth": "Denver, USA",
+        "education": {
+            "certificate": "other",
+            "study_field": "Logistics and Supply Chain",
+            "study_school": "City College"
+        },
+        "categories": [
+            "operations",
+            "logistics"
+        ]
+    },
+    {
+        "name": "Robert Johnson",
+        "department": "Warehouse & Inventory",
+        "job_title": "Shipping and Receiving Clerk",
+        "work_email": "robertjohnson.warehouse",
+        "job_position": "Shipping and Receiving Clerk",
+        "resume_lines": [
+            {
+                "name": "FastTrack Logistics",
+                "resume_type": "Experience",
+                "date_start": "2018-03",
+                "date_end": null,
+                "description": "Coordinating shipments and receiving deliveries accurately."
+            },
+            {
+                "name": "State Technical Institute",
+                "resume_type": "Education",
+                "date_start": "2014-09",
+                "date_end": "2016-06",
+                "description": "Diploma in Logistics Management."
+            },
+            {
+                "name": "LogiGoods LLC",
+                "resume_type": "Experience",
+                "date_start": "2016-07",
+                "date_end": "2018-02",
+                "description": "Managed documentation and scheduling for warehouse shipments."
+            }
+        ],
+        "skills": [
+            "Shipping Coordination",
+            "Documentation",
+            "Inventory Management",
+            "Communication",
+            "Problem Solving"
+        ],
+        "private_address": {
+            "street": "567 Birch Road",
+            "city": "Aurora",
+            "state": "Colorado",
+            "zip_code": "80013"
+        },
+        "private_email": "robert.johnson@outlook.com",
+        "private_car_plate": "AUR7890",
+        "gender": "male",
+        "passport_id": "V34567890",
+        "ssnid": "456-78-9012",
+        "identification_id": "CO998877665",
+        "place_of_birth": "Aurora, USA",
+        "education": {
+            "certificate": "other",
+            "study_field": "Logistics Management",
+            "study_school": "State Technical Institute"
+        },
+        "categories": [
+            "operations",
+            "shipping"
+        ]
+    },
+    {
+        "name": "Sophia Martinez",
+        "department": "Warehouse & Inventory",
+        "job_title": "Inventory Analyst",
+        "work_email": "sophiamartinez.warehouse",
+        "job_position": "Inventory Analyst",
+        "resume_lines": [
+            {
+                "name": "RetailPro Inc.",
+                "resume_type": "Experience",
+                "date_start": "2021-06",
+                "date_end": null,
+                "description": "Monitoring stock levels and analyzing inventory trends."
+            },
+            {
+                "name": "University of Colorado",
+                "resume_type": "Education",
+                "date_start": "2015-09",
+                "date_end": "2019-06",
+                "description": "Bachelor's Degree in Supply Chain Management."
+            },
+            {
+                "name": "LogiGoods LLC",
+                "resume_type": "Experience",
+                "date_start": "2019-07",
+                "date_end": "2021-05",
+                "description": "Supported inventory audits and data reporting."
+            }
+        ],
+        "skills": [
+            "Data Analysis",
+            "Inventory Forecasting",
+            "ERP Software",
+            "Excel",
+            "Attention to Detail"
+        ],
+        "private_address": {
+            "street": "890 Spruce Street",
+            "city": "Boulder",
+            "state": "Colorado",
+            "zip_code": "80302"
+        },
+        "private_email": "sophia.martinez@gmail.com",
+        "private_car_plate": "BOU3456",
+        "gender": "female",
+        "passport_id": "U45678901",
+        "ssnid": "567-89-0123",
+        "identification_id": "CO334455667",
+        "place_of_birth": "Boulder, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Supply Chain Management",
+            "study_school": "University of Colorado"
+        },
+        "categories": [
+            "analytics",
+            "inventory"
+        ]
+    },
+    {
+        "name": "James Wilson",
+        "department": "Warehouse & Inventory",
+        "job_title": "Forklift Operator",
+        "work_email": "jameswilson.warehouse",
+        "job_position": "Forklift Operator",
+        "resume_lines": [
+            {
+                "name": "FastTrack Logistics",
+                "resume_type": "Experience",
+                "date_start": "2017-08",
+                "date_end": null,
+                "description": "Operating forklifts and maintaining warehouse safety standards."
+            },
+            {
+                "name": "Community College",
+                "resume_type": "Education",
+                "date_start": "2015-09",
+                "date_end": "2017-06",
+                "description": "Certification in Heavy Equipment Operation."
+            },
+            {
+                "name": "LogiGoods LLC",
+                "resume_type": "Experience",
+                "date_start": "2014-07",
+                "date_end": "2017-07",
+                "description": "Assisted in warehouse loading and unloading."
+            }
+        ],
+        "skills": [
+            "Forklift Operation",
+            "Safety Compliance",
+            "Equipment Maintenance",
+            "Teamwork",
+            "Physical Stamina"
+        ],
+        "private_address": {
+            "street": "345 Elm Street",
+            "city": "Denver",
+            "state": "Colorado",
+            "zip_code": "80205"
+        },
+        "private_email": "james.wilson@outlook.com",
+        "private_car_plate": "DEN6789",
+        "gender": "male",
+        "passport_id": "T56789012",
+        "ssnid": "678-90-1234",
+        "identification_id": "CO223344556",
+        "place_of_birth": "Denver, USA",
+        "education": {
+            "certificate": "other",
+            "study_field": "Heavy Equipment Operation",
+            "study_school": "Community College"
+        },
+        "categories": [
+            "operations",
+            "equipment"
+        ]
+    },
+    {
+        "name": "Linda Garcia",
+        "department": "Warehouse & Inventory",
+        "job_title": "Warehouse Associate",
+        "work_email": "lindagarcia.warehouse",
+        "job_position": "Warehouse Associate",
+        "resume_lines": [
+            {
+                "name": "RetailPro Inc.",
+                "resume_type": "Experience",
+                "date_start": "2019-11",
+                "date_end": null,
+                "description": "Managing stock placement and order fulfillment."
+            },
+            {
+                "name": "City College",
+                "resume_type": "Education",
+                "date_start": "2015-09",
+                "date_end": "2017-06",
+                "description": "Associate Degree in Logistics."
+            },
+            {
+                "name": "LogiGoods LLC",
+                "resume_type": "Experience",
+                "date_start": "2017-07",
+                "date_end": "2019-10",
+                "description": "Assisted in inventory tracking and shipping."
+            }
+        ],
+        "skills": [
+            "Order Picking",
+            "Inventory Control",
+            "Shipping and Receiving",
+            "Team Collaboration",
+            "Warehouse Safety"
+        ],
+        "private_address": {
+            "street": "678 Willow Way",
+            "city": "Aurora",
+            "state": "Colorado",
+            "zip_code": "80014"
+        },
+        "private_email": "linda.garcia@gmail.com",
+        "private_car_plate": "AUR4567",
+        "gender": "female",
+        "passport_id": "S67890123",
+        "ssnid": "789-01-2345",
+        "identification_id": "CO667788990",
+        "place_of_birth": "Aurora, USA",
+        "education": {
+            "certificate": "other",
+            "study_field": "Logistics",
+            "study_school": "City College"
+        },
+        "categories": [
+            "operations",
+            "logistics"
+        ]
+    },
+    {
+        "name": "Charles Brown",
+        "department": "Warehouse & Inventory",
+        "job_title": "Warehouse Supervisor",
+        "work_email": "charlesbrown.warehouse",
+        "job_position": "Warehouse Supervisor",
+        "resume_lines": [
+            {
+                "name": "LogiGoods LLC",
+                "resume_type": "Experience",
+                "date_start": "2018-04",
+                "date_end": null,
+                "description": "Overseeing warehouse staff and ensuring efficient operations."
+            },
+            {
+                "name": "Tech Community College",
+                "resume_type": "Education",
+                "date_start": "2014-09",
+                "date_end": "2016-06",
+                "description": "Associate Degree in Supply Chain Management."
+            },
+            {
+                "name": "FastTrack Logistics",
+                "resume_type": "Experience",
+                "date_start": "2016-07",
+                "date_end": "2018-03",
+                "description": "Inventory analyst focusing on stock optimization."
+            }
+        ],
+        "skills": [
+            "Inventory Management",
+            "Warehouse Safety",
+            "Forklift Operation",
+            "Team Coordination",
+            "Logistics Planning"
+        ],
+        "private_address": {
+            "street": "901 Aspen Road",
+            "city": "Boulder",
+            "state": "Colorado",
+            "zip_code": "80303"
+        },
+        "private_email": "charles.brown@outlook.com",
+        "private_car_plate": "BOU7890",
+        "gender": "male",
+        "passport_id": "R78901234",
+        "ssnid": "890-12-3456",
+        "identification_id": "CO445566778",
+        "place_of_birth": "Boulder, USA",
+        "education": {
+            "certificate": "other",
+            "study_field": "Supply Chain Management",
+            "study_school": "Tech Community College"
+        },
+        "categories": [
+            "operations",
+            "logistics"
+        ]
+    },
+    {
+        "name": "Megan Davis",
+        "department": "Warehouse & Inventory",
+        "job_title": "Shipping and Receiving Clerk",
+        "work_email": "megandavis.warehouse",
+        "job_position": "Shipping and Receiving Clerk",
+        "resume_lines": [
+            {
+                "name": "FastTrack Logistics",
+                "resume_type": "Experience",
+                "date_start": "2020-01",
+                "date_end": null,
+                "description": "Managing shipment schedules and receiving inventory."
+            },
+            {
+                "name": "State Technical Institute",
+                "resume_type": "Education",
+                "date_start": "2016-09",
+                "date_end": "2018-06",
+                "description": "Diploma in Logistics Management."
+            },
+            {
+                "name": "LogiGoods LLC",
+                "resume_type": "Experience",
+                "date_start": "2018-07",
+                "date_end": "2019-12",
+                "description": "Handled documentation and shipment tracking."
+            }
+        ],
+        "skills": [
+            "Shipping Coordination",
+            "Documentation",
+            "Inventory Management",
+            "Communication",
+            "Problem Solving"
+        ],
+        "private_address": {
+            "street": "234 Fir Street",
+            "city": "Denver",
+            "state": "Colorado",
+            "zip_code": "80206"
+        },
+        "private_email": "megan.davis@gmail.com",
+        "private_car_plate": "DEN1234",
+        "gender": "female",
+        "passport_id": "Q89012345",
+        "ssnid": "901-23-4567",
+        "identification_id": "CO778899001",
+        "place_of_birth": "Denver, USA",
+        "education": {
+            "certificate": "other",
+            "study_field": "Logistics Management",
+            "study_school": "State Technical Institute"
+        },
+        "categories": [
+            "operations",
+            "shipping"
+        ]
+    },
+    {
+        "name": "Brian Clark",
+        "department": "Warehouse & Inventory",
+        "job_title": "Warehouse Associate",
+        "work_email": "brianclark.warehouse",
+        "job_position": "Warehouse Associate",
+        "resume_lines": [
+            {
+                "name": "RetailPro Inc.",
+                "resume_type": "Experience",
+                "date_start": "2021-03",
+                "date_end": null,
+                "description": "Supporting warehouse operations including stock handling and order processing."
+            },
+            {
+                "name": "City College",
+                "resume_type": "Education",
+                "date_start": "2017-09",
+                "date_end": "2019-06",
+                "description": "Associate Degree in Supply Chain Management."
+            },
+            {
+                "name": "LogiGoods LLC",
+                "resume_type": "Experience",
+                "date_start": "2019-07",
+                "date_end": "2021-02",
+                "description": "Assisted in inventory audits and shipping."
+            }
+        ],
+        "skills": [
+            "Order Picking",
+            "Inventory Control",
+            "Shipping and Receiving",
+            "Team Collaboration",
+            "Warehouse Safety"
+        ],
+        "private_address": {
+            "street": "345 Poplar Avenue",
+            "city": "Aurora",
+            "state": "Colorado",
+            "zip_code": "80015"
+        },
+        "private_email": "brian.clark@outlook.com",
+        "private_car_plate": "AUR2345",
+        "gender": "male",
+        "passport_id": "P90123456",
+        "ssnid": "012-34-5678",
+        "identification_id": "CO889900112",
+        "place_of_birth": "Aurora, USA",
+        "education": {
+            "certificate": "other",
+            "study_field": "Supply Chain Management",
+            "study_school": "City College"
+        },
+        "categories": [
+            "operations",
+            "logistics"
+        ]
+    },
+    {
+        "name": "Natalie Scott",
+        "department": "Warehouse & Inventory",
+        "job_title": "Inventory Analyst",
+        "work_email": "nataliescott.warehouse",
+        "job_position": "Inventory Analyst",
+        "resume_lines": [
+            {
+                "name": "RetailPro Inc.",
+                "resume_type": "Experience",
+                "date_start": "2018-10",
+                "date_end": null,
+                "description": "Analyzing inventory data to improve stock accuracy and reduce shrinkage."
+            },
+            {
+                "name": "University of Colorado",
+                "resume_type": "Education",
+                "date_start": "2013-09",
+                "date_end": "2017-06",
+                "description": "Bachelor's Degree in Business Analytics."
+            },
+            {
+                "name": "LogiGoods LLC",
+                "resume_type": "Experience",
+                "date_start": "2017-07",
+                "date_end": "2018-09",
+                "description": "Supported inventory management and reporting."
+            }
+        ],
+        "skills": [
+            "Data Analysis",
+            "Inventory Forecasting",
+            "ERP Software",
+            "Excel",
+            "Attention to Detail"
+        ],
+        "private_address": {
+            "street": "456 Walnut Street",
+            "city": "Denver",
+            "state": "Colorado",
+            "zip_code": "80207"
+        },
+        "private_email": "natalie.scott@gmail.com",
+        "private_car_plate": "DEN3456",
+        "gender": "female",
+        "passport_id": "O01234567",
+        "ssnid": "123-45-6789",
+        "identification_id": "CO556677889",
+        "place_of_birth": "Denver, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Business Analytics",
+            "study_school": "University of Colorado"
+        },
+        "categories": [
+            "analytics",
+            "inventory"
+        ]
+    },
+    {
+        "name": "James Carter",
+        "department": "Customer Service",
+        "job_title": "Customer Service Representative",
+        "work_email": "jamescarter.customerservice",
+        "job_position": "Customer Service Representative",
+        "resume_lines": [
+            {
+                "name": "Happy Retailers Inc.",
+                "resume_type": "Experience",
+                "date_start": "2021-03",
+                "date_end": null,
+                "description": "Handling customer inquiries and providing product information to ensure customer satisfaction."
+            },
+            {
+                "name": "State College",
+                "resume_type": "Education",
+                "date_start": "2016-09",
+                "date_end": "2020-05",
+                "description": "Bachelor of Arts in Communication."
+            },
+            {
+                "name": "Retail Support Services",
+                "resume_type": "Experience",
+                "date_start": "2020-06",
+                "date_end": "2021-02",
+                "description": "Assisted customers with returns and exchanges, resolving issues efficiently."
+            }
+        ],
+        "skills": [
+            "Customer Relations",
+            "Communication Skills",
+            "Problem Solving",
+            "CRM Software",
+            "Conflict Resolution"
+        ],
+        "private_address": {
+            "street": "123 Maple Street",
+            "city": "Portland",
+            "state": "Oregon",
+            "zip_code": "97205"
+        },
+        "private_email": "james.carter@gmail.com",
+        "private_car_plate": "OR1234",
+        "gender": "male",
+        "passport_id": "X12345678",
+        "ssnid": "123-45-6789",
+        "identification_id": "OR123456789",
+        "place_of_birth": "Portland, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Communication",
+            "study_school": "State College"
+        },
+        "categories": [
+            "customer service",
+            "support"
+        ]
+    },
+    {
+        "name": "Emily Nguyen",
+        "department": "Customer Service",
+        "job_title": "Customer Service Representative",
+        "work_email": "emilynguyen.customerservice",
+        "job_position": "Customer Service Representative",
+        "resume_lines": [
+            {
+                "name": "Bright Retailers",
+                "resume_type": "Experience",
+                "date_start": "2020-01",
+                "date_end": null,
+                "description": "Responding to customer inquiries and providing product support."
+            },
+            {
+                "name": "University of Washington",
+                "resume_type": "Education",
+                "date_start": "2015-09",
+                "date_end": "2019-06",
+                "description": "Bachelor of Arts in Business Administration."
+            },
+            {
+                "name": "Retail Assist Co.",
+                "resume_type": "Experience",
+                "date_start": "2019-07",
+                "date_end": "2019-12",
+                "description": "Handled customer complaints and processed returns."
+            }
+        ],
+        "skills": [
+            "Customer Relations",
+            "CRM Software",
+            "Communication Skills",
+            "Multitasking",
+            "Problem Solving"
+        ],
+        "private_address": {
+            "street": "456 Oak Avenue",
+            "city": "Seattle",
+            "state": "Washington",
+            "zip_code": "98109"
+        },
+        "private_email": "emily.nguyen@gmail.com",
+        "private_car_plate": "WA5678",
+        "gender": "female",
+        "passport_id": "Y87654321",
+        "ssnid": "987-65-4321",
+        "identification_id": "WA123456789",
+        "place_of_birth": "Seattle, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Business Administration",
+            "study_school": "University of Washington"
+        },
+        "categories": [
+            "customer service",
+            "support"
+        ]
+    },
+    {
+        "name": "Michael Johnson",
+        "department": "Customer Service",
+        "job_title": "Returns Specialist",
+        "work_email": "michaeljohnson.customerservice",
+        "job_position": "Returns Specialist",
+        "resume_lines": [
+            {
+                "name": "Retail Solutions",
+                "resume_type": "Experience",
+                "date_start": "2018-05",
+                "date_end": null,
+                "description": "Managing product returns and exchanges, ensuring compliance with company policies."
+            },
+            {
+                "name": "Central State University",
+                "resume_type": "Education",
+                "date_start": "2013-09",
+                "date_end": "2017-06",
+                "description": "Bachelor of Science in Business Management."
+            },
+            {
+                "name": "ShopSmart Inc.",
+                "resume_type": "Experience",
+                "date_start": "2017-07",
+                "date_end": "2018-04",
+                "description": "Processed customer returns and refunds efficiently."
+            }
+        ],
+        "skills": [
+            "Returns Management",
+            "Customer Relations",
+            "Inventory Control",
+            "Problem Solving",
+            "Communication Skills"
+        ],
+        "private_address": {
+            "street": "789 Birch Lane",
+            "city": "Denver",
+            "state": "Colorado",
+            "zip_code": "80203"
+        },
+        "private_email": "michael.johnson@gmail.com",
+        "private_car_plate": "CO4321",
+        "gender": "male",
+        "passport_id": "Z98765432",
+        "ssnid": "321-54-9876",
+        "identification_id": "CO987654321",
+        "place_of_birth": "Denver, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Business Management",
+            "study_school": "Central State University"
+        },
+        "categories": [
+            "customer service",
+            "returns"
+        ]
+    },
+    {
+        "name": "Olivia Smith",
+        "department": "Customer Service",
+        "job_title": "Customer Service Representative",
+        "work_email": "oliviasmith.customerservice",
+        "job_position": "Customer Service Representative",
+        "resume_lines": [
+            {
+                "name": "Happy Retailers Inc.",
+                "resume_type": "Experience",
+                "date_start": "2019-08",
+                "date_end": null,
+                "description": "Providing excellent customer service and support for product inquiries."
+            },
+            {
+                "name": "State University",
+                "resume_type": "Education",
+                "date_start": "2014-09",
+                "date_end": "2018-05",
+                "description": "Bachelor of Arts in Communication."
+            },
+            {
+                "name": "Retail Support Services",
+                "resume_type": "Experience",
+                "date_start": "2018-06",
+                "date_end": "2019-07",
+                "description": "Assisted customers with order tracking and returns."
+            }
+        ],
+        "skills": [
+            "Customer Relations",
+            "Communication Skills",
+            "CRM Software",
+            "Problem Solving",
+            "Multitasking"
+        ],
+        "private_address": {
+            "street": "321 Cedar Street",
+            "city": "Austin",
+            "state": "Texas",
+            "zip_code": "78701"
+        },
+        "private_email": "olivia.smith@gmail.com",
+        "private_car_plate": "TX8765",
+        "gender": "female",
+        "passport_id": "W12398765",
+        "ssnid": "456-78-1234",
+        "identification_id": "TX123987654",
+        "place_of_birth": "Austin, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Communication",
+            "study_school": "State University"
+        },
+        "categories": [
+            "customer service",
+            "support"
+        ]
+    },
+    {
+        "name": "David Lee",
+        "department": "Customer Service",
+        "job_title": "Customer Service Representative",
+        "work_email": "davidlee.customerservice",
+        "job_position": "Customer Service Representative",
+        "resume_lines": [
+            {
+                "name": "Retail Experts",
+                "resume_type": "Experience",
+                "date_start": "2022-01",
+                "date_end": null,
+                "description": "Handling customer inquiries and providing product information."
+            },
+            {
+                "name": "City College",
+                "resume_type": "Education",
+                "date_start": "2017-09",
+                "date_end": "2021-06",
+                "description": "Bachelor of Arts in Marketing."
+            },
+            {
+                "name": "ShopSmart Inc.",
+                "resume_type": "Experience",
+                "date_start": "2021-07",
+                "date_end": "2021-12",
+                "description": "Customer service representative handling returns and complaints."
+            }
+        ],
+        "skills": [
+            "Customer Relations",
+            "Communication Skills",
+            "CRM Software",
+            "Conflict Resolution",
+            "Problem Solving"
+        ],
+        "private_address": {
+            "street": "654 Elm Street",
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip_code": "60605"
+        },
+        "private_email": "david.lee@gmail.com",
+        "private_car_plate": "IL3456",
+        "gender": "male",
+        "passport_id": "V98712345",
+        "ssnid": "654-32-1987",
+        "identification_id": "IL654321987",
+        "place_of_birth": "Chicago, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Marketing",
+            "study_school": "City College"
+        },
+        "categories": [
+            "customer service",
+            "support"
+        ]
+    },
+    {
+        "name": "Sophia Brown",
+        "department": "Customer Service",
+        "job_title": "Customer Service Representative",
+        "work_email": "sophiabrown.customerservice",
+        "job_position": "Customer Service Representative",
+        "resume_lines": [
+            {
+                "name": "Bright Retailers",
+                "resume_type": "Experience",
+                "date_start": "2020-09",
+                "date_end": null,
+                "description": "Providing customer support and resolving product issues."
+            },
+            {
+                "name": "University of California",
+                "resume_type": "Education",
+                "date_start": "2015-09",
+                "date_end": "2019-06",
+                "description": "Bachelor of Arts in Psychology."
+            },
+            {
+                "name": "Retail Assist Co.",
+                "resume_type": "Experience",
+                "date_start": "2019-07",
+                "date_end": "2020-08",
+                "description": "Handled customer complaints and returns."
+            }
+        ],
+        "skills": [
+            "Customer Relations",
+            "Communication Skills",
+            "CRM Software",
+            "Empathy",
+            "Problem Solving"
+        ],
+        "private_address": {
+            "street": "987 Willow Drive",
+            "city": "San Francisco",
+            "state": "California",
+            "zip_code": "94102"
+        },
+        "private_email": "sophia.brown@gmail.com",
+        "private_car_plate": "CA7890",
+        "gender": "female",
+        "passport_id": "U12378945",
+        "ssnid": "789-12-3456",
+        "identification_id": "CA789123456",
+        "place_of_birth": "San Francisco, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Psychology",
+            "study_school": "University of California"
+        },
+        "categories": [
+            "customer service",
+            "support"
+        ]
+    },
+    {
+        "name": "Christopher Davis",
+        "department": "Customer Service",
+        "job_title": "Customer Service Representative",
+        "work_email": "christopherdavis.customerservice",
+        "job_position": "Customer Service Representative",
+        "resume_lines": [
+            {
+                "name": "Retail Solutions",
+                "resume_type": "Experience",
+                "date_start": "2019-04",
+                "date_end": null,
+                "description": "Assisting customers with inquiries and product support."
+            },
+            {
+                "name": "State University",
+                "resume_type": "Education",
+                "date_start": "2014-09",
+                "date_end": "2018-05",
+                "description": "Bachelor of Arts in Communication."
+            },
+            {
+                "name": "ShopSmart Inc.",
+                "resume_type": "Experience",
+                "date_start": "2018-06",
+                "date_end": "2019-03",
+                "description": "Handled customer returns and complaints."
+            }
+        ],
+        "skills": [
+            "Customer Relations",
+            "Communication Skills",
+            "CRM Software",
+            "Conflict Resolution",
+            "Problem Solving"
+        ],
+        "private_address": {
+            "street": "159 Spruce Street",
+            "city": "Miami",
+            "state": "Florida",
+            "zip_code": "33101"
+        },
+        "private_email": "christopher.davis@gmail.com",
+        "private_car_plate": "FL4567",
+        "gender": "male",
+        "passport_id": "T98765431",
+        "ssnid": "321-65-9874",
+        "identification_id": "FL321654987",
+        "place_of_birth": "Miami, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Communication",
+            "study_school": "State University"
+        },
+        "categories": [
+            "customer service",
+            "support"
+        ]
+    },
+    {
+        "name": "Isabella Wilson",
+        "department": "Customer Service",
+        "job_title": "Returns Specialist",
+        "work_email": "isabellawilson.customerservice",
+        "job_position": "Returns Specialist",
+        "resume_lines": [
+            {
+                "name": "Happy Retailers Inc.",
+                "resume_type": "Experience",
+                "date_start": "2017-11",
+                "date_end": null,
+                "description": "Managing product returns and exchanges, ensuring customer satisfaction."
+            },
+            {
+                "name": "Central State University",
+                "resume_type": "Education",
+                "date_start": "2013-09",
+                "date_end": "2017-06",
+                "description": "Bachelor of Science in Business Management."
+            },
+            {
+                "name": "Retail Support Services",
+                "resume_type": "Experience",
+                "date_start": "2017-07",
+                "date_end": "2017-10",
+                "description": "Processed customer returns and refunds."
+            }
+        ],
+        "skills": [
+            "Returns Management",
+            "Customer Relations",
+            "Inventory Control",
+            "Problem Solving",
+            "Communication Skills"
+        ],
+        "private_address": {
+            "street": "753 Aspen Road",
+            "city": "Atlanta",
+            "state": "Georgia",
+            "zip_code": "30303"
+        },
+        "private_email": "isabella.wilson@gmail.com",
+        "private_car_plate": "GA2345",
+        "gender": "female",
+        "passport_id": "S12345679",
+        "ssnid": "234-56-7891",
+        "identification_id": "GA987654322",
+        "place_of_birth": "Atlanta, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Business Management",
+            "study_school": "Central State University"
+        },
+        "categories": [
+            "customer service",
+            "returns"
+        ]
+    },
+    {
+        "name": "Daniel Martinez",
+        "department": "Customer Service",
+        "job_title": "Customer Service Representative",
+        "work_email": "danielmartinez.customerservice",
+        "job_position": "Customer Service Representative",
+        "resume_lines": [
+            {
+                "name": "Retail Experts",
+                "resume_type": "Experience",
+                "date_start": "2021-06",
+                "date_end": null,
+                "description": "Providing customer support and resolving product issues."
+            },
+            {
+                "name": "City University",
+                "resume_type": "Education",
+                "date_start": "2016-09",
+                "date_end": "2020-05",
+                "description": "Bachelor of Arts in Communication."
+            },
+            {
+                "name": "ShopSmart Inc.",
+                "resume_type": "Experience",
+                "date_start": "2020-06",
+                "date_end": "2021-05",
+                "description": "Handled customer inquiries and returns."
+            }
+        ],
+        "skills": [
+            "Customer Relations",
+            "Communication Skills",
+            "CRM Software",
+            "Problem Solving",
+            "Multitasking"
+        ],
+        "private_address": {
+            "street": "852 Pine Street",
+            "city": "Houston",
+            "state": "Texas",
+            "zip_code": "77002"
+        },
+        "private_email": "daniel.martinez@gmail.com",
+        "private_car_plate": "TX3456",
+        "gender": "male",
+        "passport_id": "R98765433",
+        "ssnid": "654-32-1988",
+        "identification_id": "TX654321988",
+        "place_of_birth": "Houston, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Communication",
+            "study_school": "City University"
+        },
+        "categories": [
+            "customer service",
+            "support"
+        ]
+    },
+    {
+        "name": "Mia Thompson",
+        "department": "Customer Service",
+        "job_title": "Customer Service Representative",
+        "work_email": "miathompson.customerservice",
+        "job_position": "Customer Service Representative",
+        "resume_lines": [
+            {
+                "name": "Bright Retailers",
+                "resume_type": "Experience",
+                "date_start": "2019-02",
+                "date_end": null,
+                "description": "Responding to customer inquiries and providing product support."
+            },
+            {
+                "name": "University of Michigan",
+                "resume_type": "Education",
+                "date_start": "2014-09",
+                "date_end": "2018-05",
+                "description": "Bachelor of Arts in Business Administration."
+            },
+            {
+                "name": "Retail Assist Co.",
+                "resume_type": "Experience",
+                "date_start": "2018-06",
+                "date_end": "2019-01",
+                "description": "Handled customer complaints and returns."
+            }
+        ],
+        "skills": [
+            "Customer Relations",
+            "CRM Software",
+            "Communication Skills",
+            "Multitasking",
+            "Problem Solving"
+        ],
+        "private_address": {
+            "street": "963 Walnut Avenue",
+            "city": "Detroit",
+            "state": "Michigan",
+            "zip_code": "48201"
+        },
+        "private_email": "mia.thompson@gmail.com",
+        "private_car_plate": "MI7890",
+        "gender": "female",
+        "passport_id": "Q12345680",
+        "ssnid": "789-12-3457",
+        "identification_id": "MI789123457",
+        "place_of_birth": "Detroit, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Business Administration",
+            "study_school": "University of Michigan"
+        },
+        "categories": [
+            "customer service",
+            "support"
+        ]
+    },
+    {
+        "name": "Ethan Garcia",
+        "department": "Customer Service",
+        "job_title": "Customer Service Representative",
+        "work_email": "ethangarcia.customerservice",
+        "job_position": "Customer Service Representative",
+        "resume_lines": [
+            {
+                "name": "Retail Solutions",
+                "resume_type": "Experience",
+                "date_start": "2020-07",
+                "date_end": null,
+                "description": "Assisting customers with inquiries and product support."
+            },
+            {
+                "name": "State University",
+                "resume_type": "Education",
+                "date_start": "2015-09",
+                "date_end": "2019-06",
+                "description": "Bachelor of Arts in Marketing."
+            },
+            {
+                "name": "ShopSmart Inc.",
+                "resume_type": "Experience",
+                "date_start": "2019-07",
+                "date_end": "2020-06",
+                "description": "Handled customer returns and complaints."
+            }
+        ],
+        "skills": [
+            "Customer Relations",
+            "Communication Skills",
+            "CRM Software",
+            "Conflict Resolution",
+            "Problem Solving"
+        ],
+        "private_address": {
+            "street": "741 Chestnut Street",
+            "city": "Phoenix",
+            "state": "Arizona",
+            "zip_code": "85001"
+        },
+        "private_email": "ethan.garcia@gmail.com",
+        "private_car_plate": "AZ4567",
+        "gender": "male",
+        "passport_id": "P98765434",
+        "ssnid": "321-65-9875",
+        "identification_id": "AZ321654988",
+        "place_of_birth": "Phoenix, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Marketing",
+            "study_school": "State University"
+        },
+        "categories": [
+            "customer service",
+            "support"
+        ]
+    },
+    {
+        "name": "Grace Wilson",
+        "department": "Customer Service",
+        "job_title": "Customer Service Representative",
+        "work_email": "gracewilson.customerservice",
+        "job_position": "Customer Service Representative",
+        "resume_lines": [
+            {
+                "name": "Happy Retailers Inc.",
+                "resume_type": "Experience",
+                "date_start": "2018-10",
+                "date_end": null,
+                "description": "Providing excellent customer service and support for product inquiries."
+            },
+            {
+                "name": "State University",
+                "resume_type": "Education",
+                "date_start": "2013-09",
+                "date_end": "2017-06",
+                "description": "Bachelor of Arts in Communication."
+            },
+            {
+                "name": "Retail Support Services",
+                "resume_type": "Experience",
+                "date_start": "2017-07",
+                "date_end": "2018-09",
+                "description": "Assisted customers with order tracking and returns."
+            }
+        ],
+        "skills": [
+            "Customer Relations",
+            "Communication Skills",
+            "CRM Software",
+            "Problem Solving",
+            "Multitasking"
+        ],
+        "private_address": {
+            "street": "357 Poplar Street",
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip_code": "02108"
+        },
+        "private_email": "grace.wilson@gmail.com",
+        "private_car_plate": "MA2345",
+        "gender": "female",
+        "passport_id": "O12345681",
+        "ssnid": "234-56-7892",
+        "identification_id": "MA987654323",
+        "place_of_birth": "Boston, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Communication",
+            "study_school": "State University"
+        },
+        "categories": [
+            "customer service",
+            "support"
+        ]
+    },
+    {
+        "name": "David Lee",
+        "department": "Procurement",
+        "job_title": "Procurement Manager",
+        "work_email": "davidlee.procurement",
+        "job_position": "Procurement Manager",
+        "resume_lines": [
+            {
+                "name": "Global Retail Supplies",
+                "resume_type": "Experience",
+                "date_start": "2016-04",
+                "date_end": null,
+                "description": "Overseeing procurement processes and supplier negotiations for retail goods."
+            },
+            {
+                "name": "National University",
+                "resume_type": "Education",
+                "date_start": "2010-09",
+                "date_end": "2014-06",
+                "description": "Bachelor of Science in Business Administration."
+            },
+            {
+                "name": "Supply Chain Experts",
+                "resume_type": "Experience",
+                "date_start": "2014-07",
+                "date_end": "2016-03",
+                "description": "Procurement specialist managing vendor relationships and purchase orders."
+            }
+        ],
+        "skills": [
+            "Supplier Management",
+            "Contract Negotiation",
+            "Cost Analysis",
+            "Inventory Forecasting",
+            "Purchase Order Management"
+        ],
+        "private_address": {
+            "street": "321 Birch Lane",
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip_code": "60605"
+        },
+        "private_email": "david.lee@outlook.com",
+        "private_car_plate": "IL3210",
+        "gender": "male",
+        "passport_id": "W34567890",
+        "ssnid": "345-67-8901",
+        "identification_id": "IL123456789",
+        "place_of_birth": "Chicago, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Business Administration",
+            "study_school": "National University"
+        },
+        "categories": [
+            "procurement",
+            "management"
+        ]
+    },
+    {
+        "name": "Emily Carter",
+        "department": "Procurement",
+        "job_title": "Procurement Specialist",
+        "work_email": "emilycarter.procurement",
+        "job_position": "Procurement Specialist",
+        "resume_lines": [
+            {
+                "name": "Retail Solutions Inc.",
+                "resume_type": "Experience",
+                "date_start": "2018-05",
+                "date_end": null,
+                "description": "Managing vendor contracts and purchase orders for consumer goods."
+            },
+            {
+                "name": "State College",
+                "resume_type": "Education",
+                "date_start": "2012-09",
+                "date_end": "2016-06",
+                "description": "Bachelor of Business Administration with a focus on Supply Chain Management."
+            },
+            {
+                "name": "Logistics Partners",
+                "resume_type": "Experience",
+                "date_start": "2016-07",
+                "date_end": "2018-04",
+                "description": "Coordinated procurement activities and supplier evaluations."
+            }
+        ],
+        "skills": [
+            "Vendor Management",
+            "Contract Negotiation",
+            "Purchase Order Processing",
+            "Supplier Evaluation",
+            "Inventory Management"
+        ],
+        "private_address": {
+            "street": "456 Maple Street",
+            "city": "Springfield",
+            "state": "Illinois",
+            "zip_code": "62704"
+        },
+        "private_email": "emily.carter@gmail.com",
+        "private_car_plate": "IL4567",
+        "gender": "female",
+        "passport_id": "X12345678",
+        "ssnid": "123-45-6789",
+        "identification_id": "IL987654321",
+        "place_of_birth": "Springfield, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Supply Chain Management",
+            "study_school": "State College"
+        },
+        "categories": [
+            "procurement",
+            "specialist"
+        ]
+    },
+    {
+        "name": "Michael Johnson",
+        "department": "Procurement",
+        "job_title": "Procurement Specialist",
+        "work_email": "michaeljohnson.procurement",
+        "job_position": "Procurement Specialist",
+        "resume_lines": [
+            {
+                "name": "Consumer Goods Corp.",
+                "resume_type": "Experience",
+                "date_start": "2019-03",
+                "date_end": null,
+                "description": "Responsible for sourcing and supplier relationship management."
+            },
+            {
+                "name": "City University",
+                "resume_type": "Education",
+                "date_start": "2013-09",
+                "date_end": "2017-06",
+                "description": "Bachelor of Science in Business with a concentration in Procurement."
+            },
+            {
+                "name": "Supply Chain Associates",
+                "resume_type": "Experience",
+                "date_start": "2017-07",
+                "date_end": "2019-02",
+                "description": "Assisted in procurement planning and vendor negotiations."
+            }
+        ],
+        "skills": [
+            "Supplier Sourcing",
+            "Negotiation",
+            "Purchase Order Management",
+            "Market Analysis",
+            "Cost Reduction"
+        ],
+        "private_address": {
+            "street": "789 Oak Avenue",
+            "city": "Peoria",
+            "state": "Illinois",
+            "zip_code": "61602"
+        },
+        "private_email": "michael.johnson@outlook.com",
+        "private_car_plate": "IL7890",
+        "gender": "male",
+        "passport_id": "Y98765432",
+        "ssnid": "987-65-4321",
+        "identification_id": "IL112233445",
+        "place_of_birth": "Peoria, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Procurement",
+            "study_school": "City University"
+        },
+        "categories": [
+            "procurement",
+            "specialist"
+        ]
+    },
+    {
+        "name": "Sophia Martinez",
+        "department": "Procurement",
+        "job_title": "Procurement Specialist",
+        "work_email": "sophiamartinez.procurement",
+        "job_position": "Procurement Specialist",
+        "resume_lines": [
+            {
+                "name": "Retail Partners LLC",
+                "resume_type": "Experience",
+                "date_start": "2020-01",
+                "date_end": null,
+                "description": "Handling supplier contracts and purchase order processing."
+            },
+            {
+                "name": "Metro University",
+                "resume_type": "Education",
+                "date_start": "2014-09",
+                "date_end": "2018-06",
+                "description": "Bachelor of Business Administration in Supply Chain Management."
+            },
+            {
+                "name": "Logistics Solutions",
+                "resume_type": "Experience",
+                "date_start": "2018-07",
+                "date_end": "2019-12",
+                "description": "Supported procurement operations and vendor communications."
+            }
+        ],
+        "skills": [
+            "Contract Management",
+            "Supplier Relations",
+            "Purchase Order Processing",
+            "Inventory Forecasting",
+            "Data Analysis"
+        ],
+        "private_address": {
+            "street": "234 Pine Road",
+            "city": "Naperville",
+            "state": "Illinois",
+            "zip_code": "60540"
+        },
+        "private_email": "sophia.martinez@gmail.com",
+        "private_car_plate": "IL2345",
+        "gender": "female",
+        "passport_id": "Z23456789",
+        "ssnid": "234-56-7890",
+        "identification_id": "IL556677889",
+        "place_of_birth": "Naperville, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Supply Chain Management",
+            "study_school": "Metro University"
+        },
+        "categories": [
+            "procurement",
+            "specialist"
+        ]
+    },
+    {
+        "name": "James Wilson",
+        "department": "Procurement",
+        "job_title": "Procurement Specialist",
+        "work_email": "jameswilson.procurement",
+        "job_position": "Procurement Specialist",
+        "resume_lines": [
+            {
+                "name": "Wholesale Goods Inc.",
+                "resume_type": "Experience",
+                "date_start": "2017-06",
+                "date_end": null,
+                "description": "Managing supplier contracts and procurement documentation."
+            },
+            {
+                "name": "Central State University",
+                "resume_type": "Education",
+                "date_start": "2011-09",
+                "date_end": "2015-06",
+                "description": "Bachelor of Science in Business Administration."
+            },
+            {
+                "name": "Supply Chain Experts",
+                "resume_type": "Experience",
+                "date_start": "2015-07",
+                "date_end": "2017-05",
+                "description": "Assisted in vendor management and purchase order processing."
+            }
+        ],
+        "skills": [
+            "Supplier Management",
+            "Contract Negotiation",
+            "Purchase Order Management",
+            "Inventory Control",
+            "Cost Analysis"
+        ],
+        "private_address": {
+            "street": "567 Cedar Street",
+            "city": "Aurora",
+            "state": "Illinois",
+            "zip_code": "60505"
+        },
+        "private_email": "james.wilson@outlook.com",
+        "private_car_plate": "IL5678",
+        "gender": "male",
+        "passport_id": "W87654321",
+        "ssnid": "876-54-3210",
+        "identification_id": "IL998877665",
+        "place_of_birth": "Aurora, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Business Administration",
+            "study_school": "Central State University"
+        },
+        "categories": [
+            "procurement",
+            "specialist"
+        ]
+    },
+    {
+        "name": "Olivia Brown",
+        "department": "Procurement",
+        "job_title": "Procurement Specialist",
+        "work_email": "oliviabrown.procurement",
+        "job_position": "Procurement Specialist",
+        "resume_lines": [
+            {
+                "name": "Retail Supply Co.",
+                "resume_type": "Experience",
+                "date_start": "2019-08",
+                "date_end": null,
+                "description": "Coordinating supplier contracts and purchase orders."
+            },
+            {
+                "name": "University of Illinois",
+                "resume_type": "Education",
+                "date_start": "2013-09",
+                "date_end": "2017-06",
+                "description": "Bachelor of Science in Supply Chain Management."
+            },
+            {
+                "name": "Logistics Partners",
+                "resume_type": "Experience",
+                "date_start": "2017-07",
+                "date_end": "2019-07",
+                "description": "Supported procurement and vendor relationship management."
+            }
+        ],
+        "skills": [
+            "Supplier Coordination",
+            "Contract Management",
+            "Purchase Order Processing",
+            "Inventory Forecasting",
+            "Data Analysis"
+        ],
+        "private_address": {
+            "street": "890 Walnut Avenue",
+            "city": "Champaign",
+            "state": "Illinois",
+            "zip_code": "61820"
+        },
+        "private_email": "olivia.brown@gmail.com",
+        "private_car_plate": "IL8901",
+        "gender": "female",
+        "passport_id": "X34567890",
+        "ssnid": "345-67-8901",
+        "identification_id": "IL223344556",
+        "place_of_birth": "Champaign, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Supply Chain Management",
+            "study_school": "University of Illinois"
+        },
+        "categories": [
+            "procurement",
+            "specialist"
+        ]
+    },
+    {
+        "name": "William Davis",
+        "department": "Procurement",
+        "job_title": "Procurement Specialist",
+        "work_email": "williamdavis.procurement",
+        "job_position": "Procurement Specialist",
+        "resume_lines": [
+            {
+                "name": "Consumer Retailers Inc.",
+                "resume_type": "Experience",
+                "date_start": "2018-11",
+                "date_end": null,
+                "description": "Managing vendor contracts and procurement documentation."
+            },
+            {
+                "name": "State University",
+                "resume_type": "Education",
+                "date_start": "2012-09",
+                "date_end": "2016-06",
+                "description": "Bachelor of Business Administration with a focus on Procurement."
+            },
+            {
+                "name": "Supply Chain Associates",
+                "resume_type": "Experience",
+                "date_start": "2016-07",
+                "date_end": "2018-10",
+                "description": "Assisted in procurement planning and supplier negotiations."
+            }
+        ],
+        "skills": [
+            "Vendor Management",
+            "Contract Negotiation",
+            "Purchase Order Processing",
+            "Supplier Evaluation",
+            "Inventory Management"
+        ],
+        "private_address": {
+            "street": "123 Elm Street",
+            "city": "Rockford",
+            "state": "Illinois",
+            "zip_code": "61101"
+        },
+        "private_email": "william.davis@outlook.com",
+        "private_car_plate": "IL1234",
+        "gender": "male",
+        "passport_id": "Y45678901",
+        "ssnid": "456-78-9012",
+        "identification_id": "IL334455667",
+        "place_of_birth": "Rockford, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Procurement",
+            "study_school": "State University"
+        },
+        "categories": [
+            "procurement",
+            "specialist"
+        ]
+    },
+    {
+        "name": "Isabella Garcia",
+        "department": "Procurement",
+        "job_title": "Procurement Specialist",
+        "work_email": "isabellagarcia.procurement",
+        "job_position": "Procurement Specialist",
+        "resume_lines": [
+            {
+                "name": "Retail Goods LLC",
+                "resume_type": "Experience",
+                "date_start": "2021-02",
+                "date_end": null,
+                "description": "Handling supplier contracts and purchase order processing."
+            },
+            {
+                "name": "City College",
+                "resume_type": "Education",
+                "date_start": "2015-09",
+                "date_end": "2019-06",
+                "description": "Bachelor of Business Administration in Supply Chain Management."
+            },
+            {
+                "name": "Logistics Solutions",
+                "resume_type": "Experience",
+                "date_start": "2019-07",
+                "date_end": "2021-01",
+                "description": "Supported procurement operations and vendor communications."
+            }
+        ],
+        "skills": [
+            "Contract Management",
+            "Supplier Relations",
+            "Purchase Order Processing",
+            "Inventory Forecasting",
+            "Data Analysis"
+        ],
+        "private_address": {
+            "street": "456 Spruce Street",
+            "city": "Evanston",
+            "state": "Illinois",
+            "zip_code": "60201"
+        },
+        "private_email": "isabella.garcia@gmail.com",
+        "private_car_plate": "IL4568",
+        "gender": "female",
+        "passport_id": "Z56789012",
+        "ssnid": "567-89-0123",
+        "identification_id": "IL667788990",
+        "place_of_birth": "Evanston, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Supply Chain Management",
+            "study_school": "City College"
+        },
+        "categories": [
+            "procurement",
+            "specialist"
+        ]
+    },
+    {
+        "name": "Benjamin Thompson",
+        "department": "Procurement",
+        "job_title": "Procurement Specialist",
+        "work_email": "benjaminthompson.procurement",
+        "job_position": "Procurement Specialist",
+        "resume_lines": [
+            {
+                "name": "Wholesale Retailers Inc.",
+                "resume_type": "Experience",
+                "date_start": "2017-09",
+                "date_end": null,
+                "description": "Managing supplier contracts and procurement documentation."
+            },
+            {
+                "name": "Central University",
+                "resume_type": "Education",
+                "date_start": "2011-09",
+                "date_end": "2015-06",
+                "description": "Bachelor of Science in Business Administration."
+            },
+            {
+                "name": "Supply Chain Experts",
+                "resume_type": "Experience",
+                "date_start": "2015-07",
+                "date_end": "2017-08",
+                "description": "Assisted in vendor management and purchase order processing."
+            }
+        ],
+        "skills": [
+            "Supplier Management",
+            "Contract Negotiation",
+            "Purchase Order Management",
+            "Inventory Control",
+            "Cost Analysis"
+        ],
+        "private_address": {
+            "street": "789 Birch Road",
+            "city": "Decatur",
+            "state": "Illinois",
+            "zip_code": "62521"
+        },
+        "private_email": "benjamin.thompson@outlook.com",
+        "private_car_plate": "IL7891",
+        "gender": "male",
+        "passport_id": "W67890123",
+        "ssnid": "678-90-1234",
+        "identification_id": "IL445566778",
+        "place_of_birth": "Decatur, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Business Administration",
+            "study_school": "Central University"
+        },
+        "categories": [
+            "procurement",
+            "specialist"
+        ]
+    },
+    {
+        "name": "Mia Robinson",
+        "department": "Procurement",
+        "job_title": "Procurement Specialist",
+        "work_email": "miarobinson.procurement",
+        "job_position": "Procurement Specialist",
+        "resume_lines": [
+            {
+                "name": "Retail Supply Co.",
+                "resume_type": "Experience",
+                "date_start": "2019-10",
+                "date_end": null,
+                "description": "Coordinating supplier contracts and purchase orders."
+            },
+            {
+                "name": "University of Chicago",
+                "resume_type": "Education",
+                "date_start": "2014-09",
+                "date_end": "2018-06",
+                "description": "Bachelor of Science in Supply Chain Management."
+            },
+            {
+                "name": "Logistics Partners",
+                "resume_type": "Experience",
+                "date_start": "2018-07",
+                "date_end": "2019-09",
+                "description": "Supported procurement and vendor relationship management."
+            }
+        ],
+        "skills": [
+            "Supplier Coordination",
+            "Contract Management",
+            "Purchase Order Processing",
+            "Inventory Forecasting",
+            "Data Analysis"
+        ],
+        "private_address": {
+            "street": "234 Oak Lane",
+            "city": "Evanston",
+            "state": "Illinois",
+            "zip_code": "60202"
+        },
+        "private_email": "mia.robinson@gmail.com",
+        "private_car_plate": "IL2346",
+        "gender": "female",
+        "passport_id": "X67890123",
+        "ssnid": "678-90-1234",
+        "identification_id": "IL778899001",
+        "place_of_birth": "Evanston, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Supply Chain Management",
+            "study_school": "University of Chicago"
+        },
+        "categories": [
+            "procurement",
+            "specialist"
+        ]
+    },
+    {
+        "name": "Alexander White",
+        "department": "Procurement",
+        "job_title": "Procurement Specialist",
+        "work_email": "alexanderwhite.procurement",
+        "job_position": "Procurement Specialist",
+        "resume_lines": [
+            {
+                "name": "Consumer Retailers Inc.",
+                "resume_type": "Experience",
+                "date_start": "2018-12",
+                "date_end": null,
+                "description": "Managing vendor contracts and procurement documentation."
+            },
+            {
+                "name": "Illinois State University",
+                "resume_type": "Education",
+                "date_start": "2012-09",
+                "date_end": "2016-06",
+                "description": "Bachelor of Business Administration with a focus on Procurement."
+            },
+            {
+                "name": "Supply Chain Associates",
+                "resume_type": "Experience",
+                "date_start": "2016-07",
+                "date_end": "2018-11",
+                "description": "Assisted in procurement planning and supplier negotiations."
+            }
+        ],
+        "skills": [
+            "Vendor Management",
+            "Contract Negotiation",
+            "Purchase Order Processing",
+            "Supplier Evaluation",
+            "Inventory Management"
+        ],
+        "private_address": {
+            "street": "567 Pine Street",
+            "city": "Champaign",
+            "state": "Illinois",
+            "zip_code": "61821"
+        },
+        "private_email": "alexander.white@outlook.com",
+        "private_car_plate": "IL5679",
+        "gender": "male",
+        "passport_id": "Y78901234",
+        "ssnid": "789-01-2345",
+        "identification_id": "IL889900112",
+        "place_of_birth": "Champaign, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Procurement",
+            "study_school": "Illinois State University"
+        },
+        "categories": [
+            "procurement",
+            "specialist"
+        ]
+    },
+    {
+        "name": "Charlotte Harris",
+        "department": "Procurement",
+        "job_title": "Procurement Specialist",
+        "work_email": "charlotteharris.procurement",
+        "job_position": "Procurement Specialist",
+        "resume_lines": [
+            {
+                "name": "Retail Goods LLC",
+                "resume_type": "Experience",
+                "date_start": "2021-03",
+                "date_end": null,
+                "description": "Handling supplier contracts and purchase order processing."
+            },
+            {
+                "name": "Northern Illinois University",
+                "resume_type": "Education",
+                "date_start": "2015-09",
+                "date_end": "2019-06",
+                "description": "Bachelor of Business Administration in Supply Chain Management."
+            },
+            {
+                "name": "Logistics Solutions",
+                "resume_type": "Experience",
+                "date_start": "2019-07",
+                "date_end": "2021-02",
+                "description": "Supported procurement operations and vendor communications."
+            }
+        ],
+        "skills": [
+            "Contract Management",
+            "Supplier Relations",
+            "Purchase Order Processing",
+            "Inventory Forecasting",
+            "Data Analysis"
+        ],
+        "private_address": {
+            "street": "890 Cedar Avenue",
+            "city": "Rockford",
+            "state": "Illinois",
+            "zip_code": "61102"
+        },
+        "private_email": "charlotte.harris@gmail.com",
+        "private_car_plate": "IL8910",
+        "gender": "female",
+        "passport_id": "Z78901234",
+        "ssnid": "789-01-2345",
+        "identification_id": "IL990011223",
+        "place_of_birth": "Rockford, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Supply Chain Management",
+            "study_school": "Northern Illinois University"
+        },
+        "categories": [
+            "procurement",
+            "specialist"
+        ]
+    },
+    {
+        "name": "James Carter",
+        "department": "Finance & Accounting",
+        "job_title": "Senior Accountant",
+        "work_email": "jamescarter.finance",
+        "job_position": "Accountant",
+        "resume_lines": [
+            {
+                "name": "Retail Finance Group",
+                "resume_type": "Experience",
+                "date_start": "2018-01",
+                "date_end": null,
+                "description": "Managing accounts payable and receivable for retail clients."
+            },
+            {
+                "name": "State University",
+                "resume_type": "Education",
+                "date_start": "2012-09",
+                "date_end": "2016-05",
+                "description": "Bachelor of Science in Accounting."
+            },
+            {
+                "name": "Accounting Solutions Inc.",
+                "resume_type": "Experience",
+                "date_start": "2016-06",
+                "date_end": "2017-12",
+                "description": "Prepared financial statements and assisted in audits."
+            }
+        ],
+        "skills": [
+            "Financial Reporting",
+            "Accounts Payable",
+            "Accounts Receivable",
+            "Excel",
+            "ERP Software"
+        ],
+        "private_address": {
+            "street": "123 Maple Avenue",
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip_code": "60616"
+        },
+        "private_email": "james.carter@gmail.com",
+        "private_car_plate": "IL1234",
+        "gender": "male",
+        "passport_id": "J12345678",
+        "ssnid": "123-45-6789",
+        "identification_id": "IL123456789",
+        "place_of_birth": "Chicago, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Accounting",
+            "study_school": "State University"
+        },
+        "categories": [
+            "finance",
+            "accounting"
+        ]
+    },
+    {
+        "name": "Emily Johnson",
+        "department": "Finance & Accounting",
+        "job_title": "Finance Analyst",
+        "work_email": "emilyjohnson.finance",
+        "job_position": "Finance Analyst",
+        "resume_lines": [
+            {
+                "name": "Retail Finance Group",
+                "resume_type": "Experience",
+                "date_start": "2019-03",
+                "date_end": null,
+                "description": "Analyzing financial trends and preparing budget forecasts."
+            },
+            {
+                "name": "City College",
+                "resume_type": "Education",
+                "date_start": "2013-09",
+                "date_end": "2017-06",
+                "description": "Bachelor of Business Administration in Finance."
+            },
+            {
+                "name": "Finance Corp",
+                "resume_type": "Experience",
+                "date_start": "2017-07",
+                "date_end": "2019-02",
+                "description": "Conducted financial modeling and risk assessments."
+            }
+        ],
+        "skills": [
+            "Financial Modeling",
+            "Budgeting",
+            "Data Analysis",
+            "ERP Software",
+            "PowerPoint"
+        ],
+        "private_address": {
+            "street": "456 Oak Street",
+            "city": "Seattle",
+            "state": "Washington",
+            "zip_code": "98101"
+        },
+        "private_email": "emily.johnson@gmail.com",
+        "private_car_plate": "WA5678",
+        "gender": "female",
+        "passport_id": "E23456789",
+        "ssnid": "234-56-7890",
+        "identification_id": "WA234567890",
+        "place_of_birth": "Seattle, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Finance",
+            "study_school": "City College"
+        },
+        "categories": [
+            "finance",
+            "analysis"
+        ]
+    },
+    {
+        "name": "Michael Lee",
+        "department": "Finance & Accounting",
+        "job_title": "Payroll Specialist",
+        "work_email": "michaellee.finance",
+        "job_position": "Payroll Specialist",
+        "resume_lines": [
+            {
+                "name": "Retail Finance Group",
+                "resume_type": "Experience",
+                "date_start": "2020-05",
+                "date_end": null,
+                "description": "Managing payroll processing and compliance for retail employees."
+            },
+            {
+                "name": "Tech University",
+                "resume_type": "Education",
+                "date_start": "2014-09",
+                "date_end": "2018-05",
+                "description": "Bachelor of Science in Business Administration."
+            },
+            {
+                "name": "Payroll Services LLC",
+                "resume_type": "Experience",
+                "date_start": "2018-06",
+                "date_end": "2020-04",
+                "description": "Processed payroll and maintained employee records."
+            }
+        ],
+        "skills": [
+            "Payroll Processing",
+            "Tax Compliance",
+            "HRIS Systems",
+            "Excel",
+            "Attention to Detail"
+        ],
+        "private_address": {
+            "street": "789 Pine Road",
+            "city": "Denver",
+            "state": "Colorado",
+            "zip_code": "80203"
+        },
+        "private_email": "michael.lee@gmail.com",
+        "private_car_plate": "CO7890",
+        "gender": "male",
+        "passport_id": "M34567890",
+        "ssnid": "345-67-8901",
+        "identification_id": "CO345678901",
+        "place_of_birth": "Denver, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Business Administration",
+            "study_school": "Tech University"
+        },
+        "categories": [
+            "finance",
+            "payroll"
+        ]
+    },
+    {
+        "name": "Sophia Martinez",
+        "department": "Finance & Accounting",
+        "job_title": "Accountant",
+        "work_email": "sophiamartinez.finance",
+        "job_position": "Accountant",
+        "resume_lines": [
+            {
+                "name": "Retail Finance Group",
+                "resume_type": "Experience",
+                "date_start": "2017-09",
+                "date_end": null,
+                "description": "Maintaining general ledger and preparing monthly financial reports."
+            },
+            {
+                "name": "State University",
+                "resume_type": "Education",
+                "date_start": "2013-09",
+                "date_end": "2017-05",
+                "description": "Bachelor of Science in Accounting."
+            },
+            {
+                "name": "Accounting Experts",
+                "resume_type": "Experience",
+                "date_start": "2016-06",
+                "date_end": "2017-08",
+                "description": "Assisted with audits and tax filings."
+            }
+        ],
+        "skills": [
+            "General Ledger",
+            "Financial Reporting",
+            "Tax Preparation",
+            "QuickBooks",
+            "ERP Software"
+        ],
+        "private_address": {
+            "street": "321 Birch Lane",
+            "city": "Austin",
+            "state": "Texas",
+            "zip_code": "78701"
+        },
+        "private_email": "sophia.martinez@gmail.com",
+        "private_car_plate": "TX3210",
+        "gender": "female",
+        "passport_id": "S45678901",
+        "ssnid": "456-78-9012",
+        "identification_id": "TX456789012",
+        "place_of_birth": "Austin, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Accounting",
+            "study_school": "State University"
+        },
+        "categories": [
+            "finance",
+            "accounting"
+        ]
+    },
+    {
+        "name": "David Wilson",
+        "department": "Finance & Accounting",
+        "job_title": "Finance Analyst",
+        "work_email": "davidwilson.finance",
+        "job_position": "Finance Analyst",
+        "resume_lines": [
+            {
+                "name": "Retail Finance Group",
+                "resume_type": "Experience",
+                "date_start": "2016-11",
+                "date_end": null,
+                "description": "Conducting financial analysis and preparing investment reports."
+            },
+            {
+                "name": "Business College",
+                "resume_type": "Education",
+                "date_start": "2011-09",
+                "date_end": "2015-06",
+                "description": "Bachelor of Science in Finance."
+            },
+            {
+                "name": "Investment Partners",
+                "resume_type": "Experience",
+                "date_start": "2015-07",
+                "date_end": "2016-10",
+                "description": "Analyzed market trends and portfolio performance."
+            }
+        ],
+        "skills": [
+            "Financial Analysis",
+            "Investment Research",
+            "Excel",
+            "ERP Software",
+            "Power BI"
+        ],
+        "private_address": {
+            "street": "654 Elm Street",
+            "city": "New York",
+            "state": "New York",
+            "zip_code": "10001"
+        },
+        "private_email": "david.wilson@gmail.com",
+        "private_car_plate": "NY6543",
+        "gender": "male",
+        "passport_id": "D56789012",
+        "ssnid": "567-89-0123",
+        "identification_id": "NY567890123",
+        "place_of_birth": "New York, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Finance",
+            "study_school": "Business College"
+        },
+        "categories": [
+            "finance",
+            "analysis"
+        ]
+    },
+    {
+        "name": "Olivia Brown",
+        "department": "Finance & Accounting",
+        "job_title": "Accountant",
+        "work_email": "oliviabrown.finance",
+        "job_position": "Accountant",
+        "resume_lines": [
+            {
+                "name": "Retail Finance Group",
+                "resume_type": "Experience",
+                "date_start": "2019-02",
+                "date_end": null,
+                "description": "Preparing financial statements and managing accounts reconciliation."
+            },
+            {
+                "name": "City University",
+                "resume_type": "Education",
+                "date_start": "2014-09",
+                "date_end": "2018-05",
+                "description": "Bachelor of Science in Accounting."
+            },
+            {
+                "name": "Accounting Firm",
+                "resume_type": "Experience",
+                "date_start": "2018-06",
+                "date_end": "2019-01",
+                "description": "Handled bookkeeping and tax preparation for clients."
+            }
+        ],
+        "skills": [
+            "Financial Reporting",
+            "Accounts Reconciliation",
+            "Tax Compliance",
+            "QuickBooks",
+            "ERP Software"
+        ],
+        "private_address": {
+            "street": "987 Spruce Drive",
+            "city": "San Francisco",
+            "state": "California",
+            "zip_code": "94102"
+        },
+        "private_email": "olivia.brown@gmail.com",
+        "private_car_plate": "CA9876",
+        "gender": "female",
+        "passport_id": "O67890123",
+        "ssnid": "678-90-1234",
+        "identification_id": "CA678901234",
+        "place_of_birth": "San Francisco, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Accounting",
+            "study_school": "City University"
+        },
+        "categories": [
+            "finance",
+            "accounting"
+        ]
+    },
+    {
+        "name": "William Davis",
+        "department": "Finance & Accounting",
+        "job_title": "Payroll Specialist",
+        "work_email": "williamdavis.finance",
+        "job_position": "Payroll Specialist",
+        "resume_lines": [
+            {
+                "name": "Retail Finance Group",
+                "resume_type": "Experience",
+                "date_start": "2018-07",
+                "date_end": null,
+                "description": "Overseeing payroll operations and ensuring compliance with tax regulations."
+            },
+            {
+                "name": "State College",
+                "resume_type": "Education",
+                "date_start": "2013-09",
+                "date_end": "2017-05",
+                "description": "Bachelor of Business Administration."
+            },
+            {
+                "name": "Payroll Solutions",
+                "resume_type": "Experience",
+                "date_start": "2017-06",
+                "date_end": "2018-06",
+                "description": "Processed payroll for multiple clients and maintained records."
+            }
+        ],
+        "skills": [
+            "Payroll Management",
+            "Tax Compliance",
+            "HRIS",
+            "Excel",
+            "Attention to Detail"
+        ],
+        "private_address": {
+            "street": "246 Willow Street",
+            "city": "Miami",
+            "state": "Florida",
+            "zip_code": "33101"
+        },
+        "private_email": "william.davis@gmail.com",
+        "private_car_plate": "FL2468",
+        "gender": "male",
+        "passport_id": "W78901234",
+        "ssnid": "789-01-2345",
+        "identification_id": "FL789012345",
+        "place_of_birth": "Miami, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Business Administration",
+            "study_school": "State College"
+        },
+        "categories": [
+            "finance",
+            "payroll"
+        ]
+    },
+    {
+        "name": "Isabella Garcia",
+        "department": "Finance & Accounting",
+        "job_title": "Finance Analyst",
+        "work_email": "isabellagarcia.finance",
+        "job_position": "Finance Analyst",
+        "resume_lines": [
+            {
+                "name": "Retail Finance Group",
+                "resume_type": "Experience",
+                "date_start": "2021-01",
+                "date_end": null,
+                "description": "Performing financial forecasting and variance analysis."
+            },
+            {
+                "name": "University of Finance",
+                "resume_type": "Education",
+                "date_start": "2015-09",
+                "date_end": "2019-06",
+                "description": "Bachelor of Science in Finance."
+            },
+            {
+                "name": "Capital Advisors",
+                "resume_type": "Experience",
+                "date_start": "2019-07",
+                "date_end": "2020-12",
+                "description": "Assisted in preparing financial models and reports."
+            }
+        ],
+        "skills": [
+            "Financial Forecasting",
+            "Variance Analysis",
+            "Excel",
+            "ERP Software",
+            "Power BI"
+        ],
+        "private_address": {
+            "street": "135 Cedar Lane",
+            "city": "Atlanta",
+            "state": "Georgia",
+            "zip_code": "30303"
+        },
+        "private_email": "isabella.garcia@gmail.com",
+        "private_car_plate": "GA1357",
+        "gender": "female",
+        "passport_id": "I89012345",
+        "ssnid": "890-12-3456",
+        "identification_id": "GA890123456",
+        "place_of_birth": "Atlanta, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Finance",
+            "study_school": "University of Finance"
+        },
+        "categories": [
+            "finance",
+            "analysis"
+        ]
+    },
+    {
+        "name": "Benjamin Thompson",
+        "department": "Finance & Accounting",
+        "job_title": "Accountant",
+        "work_email": "benjaminthompson.finance",
+        "job_position": "Accountant",
+        "resume_lines": [
+            {
+                "name": "Retail Finance Group",
+                "resume_type": "Experience",
+                "date_start": "2017-04",
+                "date_end": null,
+                "description": "Handling monthly closings and financial audits."
+            },
+            {
+                "name": "State University",
+                "resume_type": "Education",
+                "date_start": "2012-09",
+                "date_end": "2016-05",
+                "description": "Bachelor of Science in Accounting."
+            },
+            {
+                "name": "Accounting Associates",
+                "resume_type": "Experience",
+                "date_start": "2016-06",
+                "date_end": "2017-03",
+                "description": "Prepared tax returns and financial statements."
+            }
+        ],
+        "skills": [
+            "Financial Auditing",
+            "Monthly Closing",
+            "Tax Preparation",
+            "QuickBooks",
+            "ERP Software"
+        ],
+        "private_address": {
+            "street": "864 Walnut Street",
+            "city": "Philadelphia",
+            "state": "Pennsylvania",
+            "zip_code": "19103"
+        },
+        "private_email": "benjamin.thompson@gmail.com",
+        "private_car_plate": "PA8642",
+        "gender": "male",
+        "passport_id": "B90123456",
+        "ssnid": "901-23-4567",
+        "identification_id": "PA901234567",
+        "place_of_birth": "Philadelphia, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Accounting",
+            "study_school": "State University"
+        },
+        "categories": [
+            "finance",
+            "accounting"
+        ]
+    },
+    {
+        "name": "Mia Robinson",
+        "department": "Finance & Accounting",
+        "job_title": "Finance Analyst",
+        "work_email": "miarobinson.finance",
+        "job_position": "Finance Analyst",
+        "resume_lines": [
+            {
+                "name": "Retail Finance Group",
+                "resume_type": "Experience",
+                "date_start": "2019-06",
+                "date_end": null,
+                "description": "Analyzing financial data and preparing management reports."
+            },
+            {
+                "name": "City College",
+                "resume_type": "Education",
+                "date_start": "2014-09",
+                "date_end": "2018-05",
+                "description": "Bachelor of Business Administration in Finance."
+            },
+            {
+                "name": "Financial Insights",
+                "resume_type": "Experience",
+                "date_start": "2018-06",
+                "date_end": "2019-05",
+                "description": "Conducted market research and financial analysis."
+            }
+        ],
+        "skills": [
+            "Financial Analysis",
+            "Data Visualization",
+            "Excel",
+            "ERP Software",
+            "Power BI"
+        ],
+        "private_address": {
+            "street": "753 Aspen Road",
+            "city": "Portland",
+            "state": "Oregon",
+            "zip_code": "97205"
+        },
+        "private_email": "mia.robinson@gmail.com",
+        "private_car_plate": "OR7531",
+        "gender": "female",
+        "passport_id": "M01234567",
+        "ssnid": "012-34-5678",
+        "identification_id": "OR012345678",
+        "place_of_birth": "Portland, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Finance",
+            "study_school": "City College"
+        },
+        "categories": [
+            "finance",
+            "analysis"
+        ]
+    },
+    {
+        "name": "Alexander White",
+        "department": "Finance & Accounting",
+        "job_title": "Payroll Specialist",
+        "work_email": "alexanderwhite.finance",
+        "job_position": "Payroll Specialist",
+        "resume_lines": [
+            {
+                "name": "Retail Finance Group",
+                "resume_type": "Experience",
+                "date_start": "2020-10",
+                "date_end": null,
+                "description": "Managing payroll systems and ensuring timely payments."
+            },
+            {
+                "name": "Tech Institute",
+                "resume_type": "Education",
+                "date_start": "2015-09",
+                "date_end": "2019-06",
+                "description": "Bachelor of Science in Business Administration."
+            },
+            {
+                "name": "Payroll Experts",
+                "resume_type": "Experience",
+                "date_start": "2019-07",
+                "date_end": "2020-09",
+                "description": "Processed payroll and maintained employee benefits records."
+            }
+        ],
+        "skills": [
+            "Payroll Management",
+            "HRIS",
+            "Tax Compliance",
+            "Excel",
+            "Attention to Detail"
+        ],
+        "private_address": {
+            "street": "159 Chestnut Street",
+            "city": "Houston",
+            "state": "Texas",
+            "zip_code": "77002"
+        },
+        "private_email": "alexander.white@gmail.com",
+        "private_car_plate": "TX1593",
+        "gender": "male",
+        "passport_id": "A12345678",
+        "ssnid": "123-45-6789",
+        "identification_id": "TX123456789",
+        "place_of_birth": "Houston, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Business Administration",
+            "study_school": "Tech Institute"
+        },
+        "categories": [
+            "finance",
+            "payroll"
+        ]
+    },
+    {
+        "name": "Charlotte Harris",
+        "department": "Finance & Accounting",
+        "job_title": "Accountant",
+        "work_email": "charlotteharris.finance",
+        "job_position": "Accountant",
+        "resume_lines": [
+            {
+                "name": "Retail Finance Group",
+                "resume_type": "Experience",
+                "date_start": "2018-03",
+                "date_end": null,
+                "description": "Preparing tax documents and managing financial records."
+            },
+            {
+                "name": "State College",
+                "resume_type": "Education",
+                "date_start": "2013-09",
+                "date_end": "2017-05",
+                "description": "Bachelor of Science in Accounting."
+            },
+            {
+                "name": "Accounting Partners",
+                "resume_type": "Experience",
+                "date_start": "2017-06",
+                "date_end": "2018-02",
+                "description": "Assisted with audits and financial reporting."
+            }
+        ],
+        "skills": [
+            "Tax Preparation",
+            "Financial Reporting",
+            "QuickBooks",
+            "ERP Software",
+            "Attention to Detail"
+        ],
+        "private_address": {
+            "street": "852 Magnolia Avenue",
+            "city": "Charlotte",
+            "state": "North Carolina",
+            "zip_code": "28202"
+        },
+        "private_email": "charlotte.harris@gmail.com",
+        "private_car_plate": "NC8520",
+        "gender": "female",
+        "passport_id": "C23456789",
+        "ssnid": "234-56-7890",
+        "identification_id": "NC234567890",
+        "place_of_birth": "Charlotte, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Accounting",
+            "study_school": "State College"
+        },
+        "categories": [
+            "finance",
+            "accounting"
+        ]
+    },
+    {
+        "name": "James Wilson",
+        "department": "Human Resources",
+        "job_title": "HR Manager",
+        "work_email": "jameswilson.hr",
+        "job_position": "HR Manager",
+        "resume_lines": [
+            {
+                "name": "People First Corp",
+                "resume_type": "Experience",
+                "date_start": "2015-05",
+                "date_end": null,
+                "description": "Managing recruitment, employee relations, and compliance for retail staff."
+            },
+            {
+                "name": "University of Michigan",
+                "resume_type": "Education",
+                "date_start": "2010-09",
+                "date_end": "2014-06",
+                "description": "Bachelor of Arts in Human Resource Management."
+            },
+            {
+                "name": "Talent Solutions",
+                "resume_type": "Experience",
+                "date_start": "2014-07",
+                "date_end": "2015-04",
+                "description": "HR generalist supporting hiring and training programs."
+            }
+        ],
+        "skills": [
+            "Recruitment",
+            "Employee Relations",
+            "Labor Law Compliance",
+            "Training & Development",
+            "HRIS"
+        ],
+        "private_address": {
+            "street": "987 Elm Street",
+            "city": "Ann Arbor",
+            "state": "Michigan",
+            "zip_code": "48104"
+        },
+        "private_email": "james.wilson@outlook.com",
+        "private_car_plate": "MI9876",
+        "gender": "male",
+        "passport_id": "U56789012",
+        "ssnid": "567-89-0123",
+        "identification_id": "MI123456789",
+        "place_of_birth": "Detroit, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Human Resource Management",
+            "study_school": "University of Michigan"
+        },
+        "categories": [
+            "human resources",
+            "management"
+        ]
+    },
+    {
+        "name": "Emily Carter",
+        "department": "Human Resources",
+        "job_title": "Talent Acquisition Specialist",
+        "work_email": "emilycarter.hr",
+        "job_position": "Talent Acquisition Specialist",
+        "resume_lines": [
+            {
+                "name": "Bright Future Recruiting",
+                "resume_type": "Experience",
+                "date_start": "2018-03",
+                "date_end": null,
+                "description": "Leading recruitment efforts and candidate screening for retail and consumer goods roles."
+            },
+            {
+                "name": "Ohio State University",
+                "resume_type": "Education",
+                "date_start": "2013-09",
+                "date_end": "2017-06",
+                "description": "Bachelor of Science in Business Administration with a focus on Human Resources."
+            },
+            {
+                "name": "Staffing Solutions Inc.",
+                "resume_type": "Experience",
+                "date_start": "2017-07",
+                "date_end": "2018-02",
+                "description": "Coordinated hiring processes and onboarding for new employees."
+            }
+        ],
+        "skills": [
+            "Talent Acquisition",
+            "Interviewing",
+            "Candidate Screening",
+            "Onboarding",
+            "Applicant Tracking Systems"
+        ],
+        "private_address": {
+            "street": "123 Maple Avenue",
+            "city": "Columbus",
+            "state": "Ohio",
+            "zip_code": "43215"
+        },
+        "private_email": "emily.carter@gmail.com",
+        "private_car_plate": "OH4521",
+        "gender": "female",
+        "passport_id": "U78901234",
+        "ssnid": "789-01-2345",
+        "identification_id": "OH987654321",
+        "place_of_birth": "Cleveland, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Business Administration",
+            "study_school": "Ohio State University"
+        },
+        "categories": [
+            "human resources",
+            "recruitment"
+        ]
+    },
+    {
+        "name": "Michael Thompson",
+        "department": "Human Resources",
+        "job_title": "HR Generalist",
+        "work_email": "michaelthompson.hr",
+        "job_position": "HR Generalist",
+        "resume_lines": [
+            {
+                "name": "Retail Solutions LLC",
+                "resume_type": "Experience",
+                "date_start": "2016-06",
+                "date_end": null,
+                "description": "Handling employee relations, benefits administration, and compliance."
+            },
+            {
+                "name": "University of Florida",
+                "resume_type": "Education",
+                "date_start": "2011-09",
+                "date_end": "2015-05",
+                "description": "Bachelor of Arts in Human Resource Management."
+            },
+            {
+                "name": "HR Partners",
+                "resume_type": "Experience",
+                "date_start": "2015-06",
+                "date_end": "2016-05",
+                "description": "Supported HR operations and employee engagement initiatives."
+            }
+        ],
+        "skills": [
+            "Employee Relations",
+            "Benefits Administration",
+            "HR Policies",
+            "Conflict Resolution",
+            "HRIS"
+        ],
+        "private_address": {
+            "street": "456 Oak Street",
+            "city": "Gainesville",
+            "state": "Florida",
+            "zip_code": "32601"
+        },
+        "private_email": "michael.thompson@outlook.com",
+        "private_car_plate": "FL3345",
+        "gender": "male",
+        "passport_id": "U34567890",
+        "ssnid": "345-67-8901",
+        "identification_id": "FL123987456",
+        "place_of_birth": "Miami, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Human Resource Management",
+            "study_school": "University of Florida"
+        },
+        "categories": [
+            "human resources",
+            "generalist"
+        ]
+    },
+    {
+        "name": "Sophia Martinez",
+        "department": "Human Resources",
+        "job_title": "HR Generalist",
+        "work_email": "sophiamartinez.hr",
+        "job_position": "HR Generalist",
+        "resume_lines": [
+            {
+                "name": "Consumer Goods Inc.",
+                "resume_type": "Experience",
+                "date_start": "2017-08",
+                "date_end": null,
+                "description": "Managing employee records, assisting with payroll and benefits."
+            },
+            {
+                "name": "University of Texas",
+                "resume_type": "Education",
+                "date_start": "2012-09",
+                "date_end": "2016-06",
+                "description": "Bachelor of Business Administration in Human Resources."
+            },
+            {
+                "name": "People First Corp",
+                "resume_type": "Experience",
+                "date_start": "2016-07",
+                "date_end": "2017-07",
+                "description": "Assisted in recruitment and employee training programs."
+            }
+        ],
+        "skills": [
+            "Payroll Assistance",
+            "Employee Records Management",
+            "Benefits Coordination",
+            "HR Compliance",
+            "Communication"
+        ],
+        "private_address": {
+            "street": "789 Pine Road",
+            "city": "Austin",
+            "state": "Texas",
+            "zip_code": "73301"
+        },
+        "private_email": "sophia.martinez@gmail.com",
+        "private_car_plate": "TX7789",
+        "gender": "female",
+        "passport_id": "U23456789",
+        "ssnid": "234-56-7890",
+        "identification_id": "TX456789123",
+        "place_of_birth": "Houston, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Business Administration",
+            "study_school": "University of Texas"
+        },
+        "categories": [
+            "human resources",
+            "generalist"
+        ]
+    },
+    {
+        "name": "David Lee",
+        "department": "Human Resources",
+        "job_title": "Payroll Specialist",
+        "work_email": "davidlee.hr",
+        "job_position": "Payroll Specialist",
+        "resume_lines": [
+            {
+                "name": "Retail Corp",
+                "resume_type": "Experience",
+                "date_start": "2019-01",
+                "date_end": null,
+                "description": "Managing payroll processing and compliance for all employees."
+            },
+            {
+                "name": "San Francisco State University",
+                "resume_type": "Education",
+                "date_start": "2013-09",
+                "date_end": "2017-06",
+                "description": "Bachelor of Science in Accounting."
+            },
+            {
+                "name": "Payroll Experts",
+                "resume_type": "Experience",
+                "date_start": "2017-07",
+                "date_end": "2018-12",
+                "description": "Processed payroll and maintained employee compensation records."
+            }
+        ],
+        "skills": [
+            "Payroll Processing",
+            "Tax Compliance",
+            "Accounting",
+            "HRIS",
+            "Attention to Detail"
+        ],
+        "private_address": {
+            "street": "321 Cedar Lane",
+            "city": "San Francisco",
+            "state": "California",
+            "zip_code": "94102"
+        },
+        "private_email": "david.lee@outlook.com",
+        "private_car_plate": "CA1234",
+        "gender": "male",
+        "passport_id": "U45678901",
+        "ssnid": "456-78-9012",
+        "identification_id": "CA789456123",
+        "place_of_birth": "Los Angeles, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Accounting",
+            "study_school": "San Francisco State University"
+        },
+        "categories": [
+            "human resources",
+            "payroll"
+        ]
+    },
+    {
+        "name": "Olivia Johnson",
+        "department": "Human Resources",
+        "job_title": "Customer Service Representative",
+        "work_email": "oliviajohnson.hr",
+        "job_position": "Customer Service Representative",
+        "resume_lines": [
+            {
+                "name": "Retail Solutions",
+                "resume_type": "Experience",
+                "date_start": "2020-02",
+                "date_end": null,
+                "description": "Handling employee inquiries and assisting with HR-related customer service."
+            },
+            {
+                "name": "University of Washington",
+                "resume_type": "Education",
+                "date_start": "2014-09",
+                "date_end": "2018-06",
+                "description": "Bachelor of Arts in Communications."
+            },
+            {
+                "name": "Service First",
+                "resume_type": "Experience",
+                "date_start": "2018-07",
+                "date_end": "2020-01",
+                "description": "Provided customer support and resolved service issues."
+            }
+        ],
+        "skills": [
+            "Customer Service",
+            "Communication",
+            "Problem Solving",
+            "Employee Support",
+            "Data Entry"
+        ],
+        "private_address": {
+            "street": "654 Spruce Street",
+            "city": "Seattle",
+            "state": "Washington",
+            "zip_code": "98101"
+        },
+        "private_email": "olivia.johnson@gmail.com",
+        "private_car_plate": "WA5566",
+        "gender": "female",
+        "passport_id": "U56789123",
+        "ssnid": "567-89-1234",
+        "identification_id": "WA321654987",
+        "place_of_birth": "Tacoma, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Communications",
+            "study_school": "University of Washington"
+        },
+        "categories": [
+            "human resources",
+            "customer service"
+        ]
+    },
+    {
+        "name": "Ethan Brown",
+        "department": "Human Resources",
+        "job_title": "Training & Development Specialist",
+        "work_email": "ethanbrown.hr",
+        "job_position": "Talent Acquisition Specialist",
+        "resume_lines": [
+            {
+                "name": "Growth Partners",
+                "resume_type": "Experience",
+                "date_start": "2018-05",
+                "date_end": null,
+                "description": "Designing and delivering training programs for retail employees."
+            },
+            {
+                "name": "University of Illinois",
+                "resume_type": "Education",
+                "date_start": "2012-09",
+                "date_end": "2016-06",
+                "description": "Bachelor of Science in Education."
+            },
+            {
+                "name": "Skill Builders",
+                "resume_type": "Experience",
+                "date_start": "2016-07",
+                "date_end": "2018-04",
+                "description": "Developed training materials and facilitated workshops."
+            }
+        ],
+        "skills": [
+            "Training Program Design",
+            "Employee Development",
+            "Public Speaking",
+            "Instructional Design",
+            "Coaching"
+        ],
+        "private_address": {
+            "street": "987 Birch Avenue",
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip_code": "60601"
+        },
+        "private_email": "ethan.brown@outlook.com",
+        "private_car_plate": "IL3344",
+        "gender": "male",
+        "passport_id": "U67890123",
+        "ssnid": "678-90-1234",
+        "identification_id": "IL654987321",
+        "place_of_birth": "Springfield, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Education",
+            "study_school": "University of Illinois"
+        },
+        "categories": [
+            "human resources",
+            "training"
+        ]
+    },
+    {
+        "name": "Isabella Davis",
+        "department": "Human Resources",
+        "job_title": "HR Generalist",
+        "work_email": "isabelladavis.hr",
+        "job_position": "HR Generalist",
+        "resume_lines": [
+            {
+                "name": "Consumer Retailers",
+                "resume_type": "Experience",
+                "date_start": "2017-09",
+                "date_end": null,
+                "description": "Supporting HR operations including recruitment, benefits, and employee relations."
+            },
+            {
+                "name": "University of Georgia",
+                "resume_type": "Education",
+                "date_start": "2013-09",
+                "date_end": "2017-06",
+                "description": "Bachelor of Arts in Human Resource Management."
+            },
+            {
+                "name": "HR Solutions",
+                "resume_type": "Experience",
+                "date_start": "2016-07",
+                "date_end": "2017-08",
+                "description": "Assisted with employee onboarding and compliance."
+            }
+        ],
+        "skills": [
+            "Recruitment",
+            "Employee Relations",
+            "Benefits Administration",
+            "HR Policies",
+            "Communication"
+        ],
+        "private_address": {
+            "street": "123 Willow Street",
+            "city": "Atlanta",
+            "state": "Georgia",
+            "zip_code": "30303"
+        },
+        "private_email": "isabella.davis@gmail.com",
+        "private_car_plate": "GA7788",
+        "gender": "female",
+        "passport_id": "U78901234",
+        "ssnid": "789-01-2345",
+        "identification_id": "GA987654321",
+        "place_of_birth": "Savannah, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Human Resource Management",
+            "study_school": "University of Georgia"
+        },
+        "categories": [
+            "human resources",
+            "generalist"
+        ]
+    },
+    {
+        "name": "Benjamin Harris",
+        "department": "Human Resources",
+        "job_title": "HR Generalist",
+        "work_email": "benjaminharris.hr",
+        "job_position": "HR Generalist",
+        "resume_lines": [
+            {
+                "name": "Retail Experts",
+                "resume_type": "Experience",
+                "date_start": "2019-04",
+                "date_end": null,
+                "description": "Managing employee relations, compliance, and HR administration."
+            },
+            {
+                "name": "Michigan State University",
+                "resume_type": "Education",
+                "date_start": "2014-09",
+                "date_end": "2018-06",
+                "description": "Bachelor of Science in Human Resource Management."
+            },
+            {
+                "name": "HR Associates",
+                "resume_type": "Experience",
+                "date_start": "2018-07",
+                "date_end": "2019-03",
+                "description": "Supported recruitment and employee engagement programs."
+            }
+        ],
+        "skills": [
+            "Employee Relations",
+            "Compliance",
+            "HR Administration",
+            "Recruitment",
+            "Conflict Resolution"
+        ],
+        "private_address": {
+            "street": "456 Aspen Road",
+            "city": "Lansing",
+            "state": "Michigan",
+            "zip_code": "48910"
+        },
+        "private_email": "benjamin.harris@outlook.com",
+        "private_car_plate": "MI5566",
+        "gender": "male",
+        "passport_id": "U89012345",
+        "ssnid": "890-12-3456",
+        "identification_id": "MI321654987",
+        "place_of_birth": "Detroit, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Human Resource Management",
+            "study_school": "Michigan State University"
+        },
+        "categories": [
+            "human resources",
+            "generalist"
+        ]
+    },
+    {
+        "name": "Mia Wilson",
+        "department": "Human Resources",
+        "job_title": "Talent Acquisition Specialist",
+        "work_email": "miawilson.hr",
+        "job_position": "Talent Acquisition Specialist",
+        "resume_lines": [
+            {
+                "name": "Talent Seekers",
+                "resume_type": "Experience",
+                "date_start": "2020-01",
+                "date_end": null,
+                "description": "Sourcing and recruiting candidates for retail and consumer goods positions."
+            },
+            {
+                "name": "Boston University",
+                "resume_type": "Education",
+                "date_start": "2014-09",
+                "date_end": "2018-06",
+                "description": "Bachelor of Science in Psychology with a focus on Organizational Behavior."
+            },
+            {
+                "name": "Recruitment Hub",
+                "resume_type": "Experience",
+                "date_start": "2018-07",
+                "date_end": "2019-12",
+                "description": "Managed candidate pipelines and coordinated interviews."
+            }
+        ],
+        "skills": [
+            "Talent Sourcing",
+            "Interview Coordination",
+            "Candidate Screening",
+            "Applicant Tracking Systems",
+            "Communication"
+        ],
+        "private_address": {
+            "street": "789 Cherry Lane",
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip_code": "02108"
+        },
+        "private_email": "mia.wilson@gmail.com",
+        "private_car_plate": "MA1122",
+        "gender": "female",
+        "passport_id": "U90123456",
+        "ssnid": "901-23-4567",
+        "identification_id": "MA654321987",
+        "place_of_birth": "Cambridge, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Psychology",
+            "study_school": "Boston University"
+        },
+        "categories": [
+            "human resources",
+            "recruitment"
+        ]
+    },
+    {
+        "name": "Alexander Moore",
+        "department": "Human Resources",
+        "job_title": "Payroll Specialist",
+        "work_email": "alexandermoore.hr",
+        "job_position": "Payroll Specialist",
+        "resume_lines": [
+            {
+                "name": "Retail Group",
+                "resume_type": "Experience",
+                "date_start": "2017-11",
+                "date_end": null,
+                "description": "Overseeing payroll processing and ensuring compliance with tax regulations."
+            },
+            {
+                "name": "University of North Carolina",
+                "resume_type": "Education",
+                "date_start": "2012-09",
+                "date_end": "2016-06",
+                "description": "Bachelor of Science in Finance."
+            },
+            {
+                "name": "Payroll Services Inc.",
+                "resume_type": "Experience",
+                "date_start": "2016-07",
+                "date_end": "2017-10",
+                "description": "Processed payroll and maintained employee compensation records."
+            }
+        ],
+        "skills": [
+            "Payroll Management",
+            "Tax Compliance",
+            "Accounting",
+            "Attention to Detail",
+            "HRIS"
+        ],
+        "private_address": {
+            "street": "321 Elmwood Drive",
+            "city": "Charlotte",
+            "state": "North Carolina",
+            "zip_code": "28202"
+        },
+        "private_email": "alexander.moore@outlook.com",
+        "private_car_plate": "NC3344",
+        "gender": "male",
+        "passport_id": "U01234567",
+        "ssnid": "012-34-5678",
+        "identification_id": "NC789123456",
+        "place_of_birth": "Raleigh, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Finance",
+            "study_school": "University of North Carolina"
+        },
+        "categories": [
+            "human resources",
+            "payroll"
+        ]
+    },
+    {
+        "name": "Charlotte King",
+        "department": "Human Resources",
+        "job_title": "HR Generalist",
+        "work_email": "charlotteking.hr",
+        "job_position": "HR Generalist",
+        "resume_lines": [
+            {
+                "name": "Consumer Retail",
+                "resume_type": "Experience",
+                "date_start": "2018-10",
+                "date_end": null,
+                "description": "Supporting HR functions including recruitment, employee relations, and benefits."
+            },
+            {
+                "name": "University of Virginia",
+                "resume_type": "Education",
+                "date_start": "2013-09",
+                "date_end": "2017-06",
+                "description": "Bachelor of Arts in Human Resource Management."
+            },
+            {
+                "name": "HR Solutions",
+                "resume_type": "Experience",
+                "date_start": "2017-07",
+                "date_end": "2018-09",
+                "description": "Assisted with onboarding and employee engagement initiatives."
+            }
+        ],
+        "skills": [
+            "Recruitment",
+            "Employee Relations",
+            "Benefits Administration",
+            "HR Policies",
+            "Communication"
+        ],
+        "private_address": {
+            "street": "654 Oakwood Blvd",
+            "city": "Charlottesville",
+            "state": "Virginia",
+            "zip_code": "22903"
+        },
+        "private_email": "charlotte.king@gmail.com",
+        "private_car_plate": "VA5566",
+        "gender": "female",
+        "passport_id": "U12345678",
+        "ssnid": "123-45-6789",
+        "identification_id": "VA987654321",
+        "place_of_birth": "Richmond, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Human Resource Management",
+            "study_school": "University of Virginia"
+        },
+        "categories": [
+            "human resources",
+            "generalist"
+        ]
+    },
+    {
+        "name": "Michael Thompson",
+        "department": "Logistics",
+        "job_title": "Logistics Coordinator",
+        "work_email": "michaelthompson.logistics",
+        "job_position": "Logistics Coordinator",
+        "resume_lines": [
+            {
+                "name": "Global Freight Solutions",
+                "resume_type": "Experience",
+                "date_start": "2019-03",
+                "date_end": null,
+                "description": "Coordinated daily logistics operations including shipment tracking and delivery scheduling."
+            },
+            {
+                "name": "Midwest State University",
+                "resume_type": "Education",
+                "date_start": "2014-09",
+                "date_end": "2018-05",
+                "description": "Bachelor of Science in Supply Chain Management."
+            },
+            {
+                "name": "QuickShip Logistics",
+                "resume_type": "Experience",
+                "date_start": "2018-06",
+                "date_end": "2019-02",
+                "description": "Assisted in managing warehouse inventory and transportation logistics."
+            }
+        ],
+        "skills": [
+            "Route Planning",
+            "Inventory Control",
+            "Shipping & Receiving",
+            "Fleet Management",
+            "Supply Chain Coordination"
+        ],
+        "private_address": {
+            "street": "123 Maple Street",
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip_code": "60616"
+        },
+        "private_email": "michael.thompson@gmail.com",
+        "private_car_plate": "IL1234",
+        "gender": "male",
+        "passport_id": "M12345678",
+        "ssnid": "123-45-6789",
+        "identification_id": "IL123456789",
+        "place_of_birth": "Chicago, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Supply Chain Management",
+            "study_school": "Midwest State University"
+        },
+        "categories": [
+            "logistics",
+            "operations"
+        ]
+    },
+    {
+        "name": "Jessica Lee",
+        "department": "Logistics",
+        "job_title": "Fleet Manager",
+        "work_email": "jessicalee.logistics",
+        "job_position": "Fleet Manager",
+        "resume_lines": [
+            {
+                "name": "Citywide Transport",
+                "resume_type": "Experience",
+                "date_start": "2017-05",
+                "date_end": null,
+                "description": "Managed fleet operations ensuring vehicle maintenance and compliance with safety regulations."
+            },
+            {
+                "name": "University of California",
+                "resume_type": "Education",
+                "date_start": "2012-09",
+                "date_end": "2016-06",
+                "description": "Bachelor of Business Administration with focus on Logistics."
+            },
+            {
+                "name": "West Coast Logistics",
+                "resume_type": "Experience",
+                "date_start": "2016-07",
+                "date_end": "2017-04",
+                "description": "Supervised vehicle dispatch and driver scheduling."
+            }
+        ],
+        "skills": [
+            "Fleet Management",
+            "Route Planning",
+            "Safety Compliance",
+            "Vehicle Maintenance",
+            "Driver Coordination"
+        ],
+        "private_address": {
+            "street": "456 Oak Avenue",
+            "city": "San Diego",
+            "state": "California",
+            "zip_code": "92101"
+        },
+        "private_email": "jessica.lee@gmail.com",
+        "private_car_plate": "CA5678",
+        "gender": "female",
+        "passport_id": "J87654321",
+        "ssnid": "987-65-4321",
+        "identification_id": "CA987654321",
+        "place_of_birth": "San Diego, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Business Administration",
+            "study_school": "University of California"
+        },
+        "categories": [
+            "logistics",
+            "fleet management"
+        ]
+    },
+    {
+        "name": "David Martinez",
+        "department": "Logistics",
+        "job_title": "Shipping and Receiving Clerk",
+        "work_email": "davidmartinez.logistics",
+        "job_position": "Shipping and Receiving Clerk",
+        "resume_lines": [
+            {
+                "name": "National Retail Corp",
+                "resume_type": "Experience",
+                "date_start": "2020-01",
+                "date_end": null,
+                "description": "Handled shipping and receiving documentation and coordinated with warehouse staff."
+            },
+            {
+                "name": "State Community College",
+                "resume_type": "Education",
+                "date_start": "2016-09",
+                "date_end": "2018-05",
+                "description": "Associate Degree in Logistics and Supply Chain."
+            },
+            {
+                "name": "Express Delivery",
+                "resume_type": "Experience",
+                "date_start": "2018-06",
+                "date_end": "2019-12",
+                "description": "Processed incoming and outgoing shipments and maintained accurate records."
+            }
+        ],
+        "skills": [
+            "Shipping & Receiving",
+            "Inventory Control",
+            "Documentation",
+            "Warehouse Coordination",
+            "Data Entry"
+        ],
+        "private_address": {
+            "street": "789 Pine Road",
+            "city": "Houston",
+            "state": "Texas",
+            "zip_code": "77002"
+        },
+        "private_email": "david.martinez@gmail.com",
+        "private_car_plate": "TX7890",
+        "gender": "male",
+        "passport_id": "D23456789",
+        "ssnid": "234-56-7890",
+        "identification_id": "TX234567890",
+        "place_of_birth": "Houston, USA",
+        "education": {
+            "certificate": "other",
+            "study_field": "Logistics and Supply Chain",
+            "study_school": "State Community College"
+        },
+        "categories": [
+            "logistics",
+            "warehouse"
+        ]
+    },
+    {
+        "name": "Emily Johnson",
+        "department": "Logistics",
+        "job_title": "Logistics Manager",
+        "work_email": "emilyjohnson.logistics",
+        "job_position": "Logistics Manager",
+        "resume_lines": [
+            {
+                "name": "Prime Logistics Inc.",
+                "resume_type": "Experience",
+                "date_start": "2016-04",
+                "date_end": null,
+                "description": "Overseeing logistics operations, managing staff, and optimizing supply chain processes."
+            },
+            {
+                "name": "Eastern State University",
+                "resume_type": "Education",
+                "date_start": "2011-09",
+                "date_end": "2015-05",
+                "description": "Bachelor of Science in Logistics and Supply Chain Management."
+            },
+            {
+                "name": "LogiTrans Solutions",
+                "resume_type": "Experience",
+                "date_start": "2015-06",
+                "date_end": "2016-03",
+                "description": "Coordinated transportation and warehouse activities."
+            }
+        ],
+        "skills": [
+            "Supply Chain Coordination",
+            "Fleet Management",
+            "Route Planning",
+            "Inventory Control",
+            "Team Leadership"
+        ],
+        "private_address": {
+            "street": "321 Birch Lane",
+            "city": "Philadelphia",
+            "state": "Pennsylvania",
+            "zip_code": "19103"
+        },
+        "private_email": "emily.johnson@gmail.com",
+        "private_car_plate": "PA3210",
+        "gender": "female",
+        "passport_id": "E34567890",
+        "ssnid": "345-67-8901",
+        "identification_id": "PA345678901",
+        "place_of_birth": "Philadelphia, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Logistics and Supply Chain Management",
+            "study_school": "Eastern State University"
+        },
+        "categories": [
+            "logistics",
+            "management"
+        ]
+    },
+    {
+        "name": "Robert Wilson",
+        "department": "Logistics",
+        "job_title": "Warehouse Associate",
+        "work_email": "robertwilson.logistics",
+        "job_position": "Warehouse Associate",
+        "resume_lines": [
+            {
+                "name": "Retail Distribution Center",
+                "resume_type": "Experience",
+                "date_start": "2019-08",
+                "date_end": null,
+                "description": "Assisted with inventory management, order picking, and packing."
+            },
+            {
+                "name": "Central Technical Institute",
+                "resume_type": "Education",
+                "date_start": "2015-09",
+                "date_end": "2017-06",
+                "description": "Certificate in Warehouse Operations."
+            },
+            {
+                "name": "Logistics Solutions",
+                "resume_type": "Experience",
+                "date_start": "2017-07",
+                "date_end": "2019-07",
+                "description": "Supported warehouse logistics and maintained stock accuracy."
+            }
+        ],
+        "skills": [
+            "Inventory Control",
+            "Order Picking",
+            "Packing",
+            "Shipping & Receiving",
+            "Warehouse Safety"
+        ],
+        "private_address": {
+            "street": "654 Cedar Street",
+            "city": "Denver",
+            "state": "Colorado",
+            "zip_code": "80203"
+        },
+        "private_email": "robert.wilson@gmail.com",
+        "private_car_plate": "CO6543",
+        "gender": "male",
+        "passport_id": "R45678901",
+        "ssnid": "456-78-9012",
+        "identification_id": "CO456789012",
+        "place_of_birth": "Denver, USA",
+        "education": {
+            "certificate": "other",
+            "study_field": "Warehouse Operations",
+            "study_school": "Central Technical Institute"
+        },
+        "categories": [
+            "logistics",
+            "warehouse"
+        ]
+    },
+    {
+        "name": "Sophia Brown",
+        "department": "Logistics",
+        "job_title": "Inventory Analyst",
+        "work_email": "sophiabrown.logistics",
+        "job_position": "Inventory Analyst",
+        "resume_lines": [
+            {
+                "name": "Supply Chain Experts",
+                "resume_type": "Experience",
+                "date_start": "2018-11",
+                "date_end": null,
+                "description": "Analyzed inventory levels and forecasted demand to optimize stock."
+            },
+            {
+                "name": "Northern University",
+                "resume_type": "Education",
+                "date_start": "2013-09",
+                "date_end": "2017-05",
+                "description": "Bachelor of Science in Business Analytics."
+            },
+            {
+                "name": "Logistics Partners",
+                "resume_type": "Experience",
+                "date_start": "2017-06",
+                "date_end": "2018-10",
+                "description": "Monitored inventory accuracy and coordinated with procurement."
+            }
+        ],
+        "skills": [
+            "Inventory Control",
+            "Data Analysis",
+            "Forecasting",
+            "Supply Chain Coordination",
+            "Reporting"
+        ],
+        "private_address": {
+            "street": "987 Elm Street",
+            "city": "Seattle",
+            "state": "Washington",
+            "zip_code": "98101"
+        },
+        "private_email": "sophia.brown@gmail.com",
+        "private_car_plate": "WA9876",
+        "gender": "female",
+        "passport_id": "S56789012",
+        "ssnid": "567-89-0123",
+        "identification_id": "WA567890123",
+        "place_of_birth": "Seattle, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Business Analytics",
+            "study_school": "Northern University"
+        },
+        "categories": [
+            "logistics",
+            "analytics"
+        ]
+    },
+    {
+        "name": "James Garcia",
+        "department": "Logistics",
+        "job_title": "Forklift Operator",
+        "work_email": "jamesgarcia.logistics",
+        "job_position": "Forklift Operator",
+        "resume_lines": [
+            {
+                "name": "Warehouse Solutions",
+                "resume_type": "Experience",
+                "date_start": "2021-02",
+                "date_end": null,
+                "description": "Operated forklifts to move and organize inventory safely and efficiently."
+            },
+            {
+                "name": "City Vocational School",
+                "resume_type": "Education",
+                "date_start": "2017-09",
+                "date_end": "2019-06",
+                "description": "Certification in Heavy Equipment Operation."
+            },
+            {
+                "name": "Logistics Hub",
+                "resume_type": "Experience",
+                "date_start": "2019-07",
+                "date_end": "2021-01",
+                "description": "Assisted in loading and unloading shipments using forklifts."
+            }
+        ],
+        "skills": [
+            "Forklift Operation",
+            "Safety Compliance",
+            "Inventory Handling",
+            "Equipment Maintenance",
+            "Warehouse Support"
+        ],
+        "private_address": {
+            "street": "159 Walnut Avenue",
+            "city": "Miami",
+            "state": "Florida",
+            "zip_code": "33101"
+        },
+        "private_email": "james.garcia@gmail.com",
+        "private_car_plate": "FL1597",
+        "gender": "male",
+        "passport_id": "J67890123",
+        "ssnid": "678-90-1234",
+        "identification_id": "FL678901234",
+        "place_of_birth": "Miami, USA",
+        "education": {
+            "certificate": "other",
+            "study_field": "Heavy Equipment Operation",
+            "study_school": "City Vocational School"
+        },
+        "categories": [
+            "logistics",
+            "warehouse"
+        ]
+    },
+    {
+        "name": "Olivia Martinez",
+        "department": "Logistics",
+        "job_title": "Customer Service Representative",
+        "work_email": "oliviamartinez.logistics",
+        "job_position": "Customer Service Representative",
+        "resume_lines": [
+            {
+                "name": "Retail Logistics Inc.",
+                "resume_type": "Experience",
+                "date_start": "2019-06",
+                "date_end": null,
+                "description": "Handled customer inquiries related to shipping and delivery status."
+            },
+            {
+                "name": "State University",
+                "resume_type": "Education",
+                "date_start": "2014-09",
+                "date_end": "2018-05",
+                "description": "Bachelor of Arts in Communication."
+            },
+            {
+                "name": "Fast Track Shipping",
+                "resume_type": "Experience",
+                "date_start": "2018-06",
+                "date_end": "2019-05",
+                "description": "Provided support for shipment tracking and issue resolution."
+            }
+        ],
+        "skills": [
+            "Customer Service",
+            "Communication",
+            "Problem Solving",
+            "Shipping & Receiving",
+            "Data Entry"
+        ],
+        "private_address": {
+            "street": "753 Chestnut Street",
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip_code": "02108"
+        },
+        "private_email": "olivia.martinez@gmail.com",
+        "private_car_plate": "MA7531",
+        "gender": "female",
+        "passport_id": "O78901234",
+        "ssnid": "789-01-2345",
+        "identification_id": "MA789012345",
+        "place_of_birth": "Boston, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Communication",
+            "study_school": "State University"
+        },
+        "categories": [
+            "logistics",
+            "customer service"
+        ]
+    },
+    {
+        "name": "William Anderson",
+        "department": "Logistics",
+        "job_title": "Returns Specialist",
+        "work_email": "williamanderson.logistics",
+        "job_position": "Returns Specialist",
+        "resume_lines": [
+            {
+                "name": "Retail Returns LLC",
+                "resume_type": "Experience",
+                "date_start": "2020-09",
+                "date_end": null,
+                "description": "Managed product returns process and coordinated with warehouse and customer service."
+            },
+            {
+                "name": "Community College",
+                "resume_type": "Education",
+                "date_start": "2016-01",
+                "date_end": "2018-12",
+                "description": "Associate Degree in Business Administration."
+            },
+            {
+                "name": "Logistics Express",
+                "resume_type": "Experience",
+                "date_start": "2018-01",
+                "date_end": "2020-08",
+                "description": "Processed return shipments and maintained accurate records."
+            }
+        ],
+        "skills": [
+            "Returns Processing",
+            "Inventory Control",
+            "Customer Coordination",
+            "Data Management",
+            "Problem Solving"
+        ],
+        "private_address": {
+            "street": "852 Spruce Street",
+            "city": "Phoenix",
+            "state": "Arizona",
+            "zip_code": "85004"
+        },
+        "private_email": "william.anderson@gmail.com",
+        "private_car_plate": "AZ8520",
+        "gender": "male",
+        "passport_id": "W89012345",
+        "ssnid": "890-12-3456",
+        "identification_id": "AZ890123456",
+        "place_of_birth": "Phoenix, USA",
+        "education": {
+            "certificate": "other",
+            "study_field": "Business Administration",
+            "study_school": "Community College"
+        },
+        "categories": [
+            "logistics",
+            "returns"
+        ]
+    },
+    {
+        "name": "Isabella Clark",
+        "department": "Logistics",
+        "job_title": "Procurement Specialist",
+        "work_email": "isabellaclark.logistics",
+        "job_position": "Procurement Specialist",
+        "resume_lines": [
+            {
+                "name": "Supply Chain Partners",
+                "resume_type": "Experience",
+                "date_start": "2017-10",
+                "date_end": null,
+                "description": "Managed procurement of logistics equipment and supplies."
+            },
+            {
+                "name": "State University",
+                "resume_type": "Education",
+                "date_start": "2012-09",
+                "date_end": "2016-05",
+                "description": "Bachelor of Science in Business Management."
+            },
+            {
+                "name": "Logistics Solutions",
+                "resume_type": "Experience",
+                "date_start": "2016-06",
+                "date_end": "2017-09",
+                "description": "Assisted in vendor management and purchase order processing."
+            }
+        ],
+        "skills": [
+            "Procurement",
+            "Vendor Management",
+            "Negotiation",
+            "Inventory Control",
+            "Supply Chain Coordination"
+        ],
+        "private_address": {
+            "street": "369 Willow Drive",
+            "city": "Austin",
+            "state": "Texas",
+            "zip_code": "78701"
+        },
+        "private_email": "isabella.clark@gmail.com",
+        "private_car_plate": "TX3698",
+        "gender": "female",
+        "passport_id": "I90123456",
+        "ssnid": "901-23-4567",
+        "identification_id": "TX901234567",
+        "place_of_birth": "Austin, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Business Management",
+            "study_school": "State University"
+        },
+        "categories": [
+            "logistics",
+            "procurement"
+        ]
+    },
+    {
+        "name": "Benjamin Harris",
+        "department": "Logistics",
+        "job_title": "Customer Service Manager",
+        "work_email": "benjaminharris.logistics",
+        "job_position": "Customer Service Manager",
+        "resume_lines": [
+            {
+                "name": "Logistics Customer Care",
+                "resume_type": "Experience",
+                "date_start": "2015-07",
+                "date_end": null,
+                "description": "Managed customer service team handling logistics inquiries and complaints."
+            },
+            {
+                "name": "Western University",
+                "resume_type": "Education",
+                "date_start": "2010-09",
+                "date_end": "2014-06",
+                "description": "Bachelor of Arts in Management."
+            },
+            {
+                "name": "Express Logistics",
+                "resume_type": "Experience",
+                "date_start": "2014-07",
+                "date_end": "2015-06",
+                "description": "Supervised customer service representatives and improved service processes."
+            }
+        ],
+        "skills": [
+            "Customer Service Management",
+            "Team Leadership",
+            "Communication",
+            "Problem Resolution",
+            "Logistics Coordination"
+        ],
+        "private_address": {
+            "street": "147 Aspen Road",
+            "city": "Portland",
+            "state": "Oregon",
+            "zip_code": "97205"
+        },
+        "private_email": "benjamin.harris@gmail.com",
+        "private_car_plate": "OR1470",
+        "gender": "male",
+        "passport_id": "B01234567",
+        "ssnid": "012-34-5678",
+        "identification_id": "OR012345678",
+        "place_of_birth": "Portland, USA",
+        "education": {
+            "certificate": "bachelor",
+            "study_field": "Management",
+            "study_school": "Western University"
+        },
+        "categories": [
+            "logistics",
+            "customer service"
+        ]
+    },
+    {
+        "name": "Mia Robinson",
+        "department": "Logistics",
+        "job_title": "Warehouse Supervisor",
+        "work_email": "miarobinson.logistics",
+        "job_position": "Warehouse Supervisor",
+        "resume_lines": [
+            {
+                "name": "Central Warehouse Inc.",
+                "resume_type": "Experience",
+                "date_start": "2018-03",
+                "date_end": null,
+                "description": "Supervised warehouse staff and ensured efficient inventory management."
+            },
+            {
+                "name": "Technical College",
+                "resume_type": "Education",
+                "date_start": "2013-09",
+                "date_end": "2015-06",
+                "description": "Diploma in Warehouse Management."
+            },
+            {
+                "name": "Logistics Hub",
+                "resume_type": "Experience",
+                "date_start": "2015-07",
+                "date_end": "2018-02",
+                "description": "Coordinated warehouse operations and safety compliance."
+            }
+        ],
+        "skills": [
+            "Warehouse Management",
+            "Team Leadership",
+            "Inventory Control",
+            "Safety Compliance",
+            "Shipping & Receiving"
+        ],
+        "private_address": {
+            "street": "258 Fir Street",
+            "city": "Minneapolis",
+            "state": "Minnesota",
+            "zip_code": "55401"
+        },
+        "private_email": "mia.robinson@gmail.com",
+        "private_car_plate": "MN2589",
+        "gender": "female",
+        "passport_id": "M12309876",
+        "ssnid": "123-09-8765",
+        "identification_id": "MN123098765",
+        "place_of_birth": "Minneapolis, USA",
+        "education": {
+            "certificate": "other",
+            "study_field": "Warehouse Management",
+            "study_school": "Technical College"
+        },
+        "categories": [
+            "logistics",
+            "warehouse"
+        ]
+    }
+]

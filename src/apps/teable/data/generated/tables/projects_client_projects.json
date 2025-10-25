@@ -1,0 +1,2557 @@
+{
+  "table_name": "Projects",
+  "parent_workspace_name": "Client Projects",
+  "parent_base_name": "Client Projects",
+  "records": [
+    {
+      "fields": {
+        "Project Name": "AI-Driven Content Campaign",
+        "Status": "Active",
+        "Start Date": "2024-08-15",
+        "End Date": "2025-03-10",
+        "Budget": 125000.0,
+        "Priority": "High",
+        "Description": "Implementing AI-powered content creation to boost client engagement and conversion rates.",
+        "Created Date": "2024-08-10",
+        "Last Updated": "2025-05-30",
+        "Project Type": "Feature",
+        "Progress %": 0.65,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "SEO Optimization Revamp",
+        "Status": "Planning",
+        "Start Date": "2025-01-05",
+        "End Date": "2025-04-20",
+        "Budget": 45000.0,
+        "Priority": "Medium",
+        "Description": "Optimizing website SEO with latest AI insights to increase organic traffic.",
+        "Created Date": "2025-01-01",
+        "Last Updated": "2025-04-01",
+        "Project Type": "Enhancement",
+        "Progress %": 0.15,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Social Media Automation",
+        "Status": "Active",
+        "Start Date": "2024-07-20",
+        "End Date": "2025-01-30",
+        "Budget": 80000.0,
+        "Priority": "Critical",
+        "Description": "Deploy AI tools to automate social media posting and performance analysis.",
+        "Created Date": "2024-07-18",
+        "Last Updated": "2025-06-20",
+        "Project Type": "Feature",
+        "Progress %": 0.7,
+        "Risk Level": "High",
+        "Project Health Indicator": "Red"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Client Dashboard Bug Fixes",
+        "Status": "Blocked",
+        "Start Date": "2025-03-10",
+        "End Date": "2025-06-25",
+        "Budget": 15000.0,
+        "Priority": "High",
+        "Description": "Fix bugs causing data sync delays in client dashboards.",
+        "Created Date": "2025-03-05",
+        "Last Updated": "2025-06-01",
+        "Project Type": "Bug Fix",
+        "Progress %": 0.3,
+        "Risk Level": "High",
+        "Project Health Indicator": "Red"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Market Research Analysis",
+        "Status": "Active",
+        "Start Date": "2024-11-01",
+        "End Date": "2025-05-15",
+        "Budget": 60000.0,
+        "Priority": "Medium",
+        "Description": "Conduct market research leveraging AI data analytics to guide marketing strategies.",
+        "Created Date": "2024-10-28",
+        "Last Updated": "2025-05-10",
+        "Project Type": "Research",
+        "Progress %": 0.55,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Email Campaign Personalization",
+        "Status": "Completed",
+        "Start Date": "2024-04-10",
+        "End Date": "2024-12-20",
+        "Budget": 35000.0,
+        "Priority": "Low",
+        "Description": "Enhanced AI-driven personalization in email marketing campaigns.",
+        "Created Date": "2024-04-05",
+        "Last Updated": "2024-12-21",
+        "Project Type": "Enhancement",
+        "Progress %": 1.0,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Virtual Assistant Deployment",
+        "Status": "Active",
+        "Start Date": "2025-02-15",
+        "End Date": "2025-08-15",
+        "Budget": 90000.0,
+        "Priority": "Critical",
+        "Description": "Roll out AI virtual assistant for client support to improve response times.",
+        "Created Date": "2025-02-10",
+        "Last Updated": "2025-06-22",
+        "Project Type": "Feature",
+        "Progress %": 0.45,
+        "Risk Level": "High",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Legacy System Maintenance",
+        "Status": "Planning",
+        "Start Date": "2025-04-01",
+        "End Date": "2025-07-30",
+        "Budget": 20000.0,
+        "Priority": "Low",
+        "Description": "Maintain and update legacy marketing platform systems to ensure stability.",
+        "Created Date": "2025-03-28",
+        "Last Updated": "2025-06-10",
+        "Project Type": "Maintenance",
+        "Progress %": 0.05,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Chatbot Enhancement",
+        "Status": "Active",
+        "Start Date": "2024-09-25",
+        "End Date": "2025-05-20",
+        "Budget": 70000.0,
+        "Priority": "High",
+        "Description": "Improve chatbot AI for better customer interaction and conversion rates.",
+        "Created Date": "2024-09-20",
+        "Last Updated": "2025-05-15",
+        "Project Type": "Enhancement",
+        "Progress %": 0.6,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Performance Analytics Dashboard",
+        "Status": "Completed",
+        "Start Date": "2024-01-20",
+        "End Date": "2024-11-30",
+        "Budget": 50000.0,
+        "Priority": "Medium",
+        "Description": "Developed comprehensive analytics dashboard using AI for client campaigns.",
+        "Created Date": "2024-01-15",
+        "Last Updated": "2024-12-01",
+        "Project Type": "Feature",
+        "Progress %": 1.0,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Customer Segmentation Study",
+        "Status": "Active",
+        "Start Date": "2024-10-05",
+        "End Date": "2025-04-18",
+        "Budget": 42000.0,
+        "Priority": "Medium",
+        "Description": "Use AI for detailed customer segmentation to improve targeting strategies.",
+        "Created Date": "2024-10-01",
+        "Last Updated": "2025-04-15",
+        "Project Type": "Research",
+        "Progress %": 0.5,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Retainer Contract Renewal",
+        "Status": "Planning",
+        "Start Date": "2025-06-01",
+        "End Date": "2025-12-31",
+        "Budget": 120000.0,
+        "Priority": "High",
+        "Description": "Negotiating retainer terms with key clients for ongoing marketing services.",
+        "Created Date": "2025-05-28",
+        "Last Updated": "2025-06-20",
+        "Project Type": "Retainer",
+        "Progress %": 0.1,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Ad Campaign Bug Fixing",
+        "Status": "Blocked",
+        "Start Date": "2025-03-15",
+        "End Date": "2025-06-25",
+        "Budget": 18000.0,
+        "Priority": "Critical",
+        "Description": "Resolve critical bugs affecting real-time ad bidding and reporting.",
+        "Created Date": "2025-03-12",
+        "Last Updated": "2025-06-22",
+        "Project Type": "Bug Fix",
+        "Progress %": 0.25,
+        "Risk Level": "High",
+        "Project Health Indicator": "Red"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "New Feature Rollout: AI Insights",
+        "Status": "Active",
+        "Start Date": "2024-12-01",
+        "End Date": "2025-05-30",
+        "Budget": 95000.0,
+        "Priority": "High",
+        "Description": "Launching AI insights feature for campaign performance enhancement.",
+        "Created Date": "2024-11-28",
+        "Last Updated": "2025-05-29",
+        "Project Type": "Feature",
+        "Progress %": 0.75,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Monthly Maintenance Update",
+        "Status": "Active",
+        "Start Date": "2025-01-10",
+        "End Date": "2025-06-30",
+        "Budget": 15000.0,
+        "Priority": "Low",
+        "Description": "Routine maintenance to ensure platform reliability and security.",
+        "Created Date": "2025-01-05",
+        "Last Updated": "2025-06-25",
+        "Project Type": "Maintenance",
+        "Progress %": 0.8,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI-Driven Lead Scoring",
+        "Status": "Planning",
+        "Start Date": "2025-05-01",
+        "End Date": "2025-09-30",
+        "Budget": 70000.0,
+        "Priority": "High",
+        "Description": "Develop lead scoring model using AI to improve sales funnel efficiency.",
+        "Created Date": "2025-04-28",
+        "Last Updated": "2025-06-10",
+        "Project Type": "Feature",
+        "Progress %": 0.2,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Content Quality Enhancement",
+        "Status": "Completed",
+        "Start Date": "2024-03-01",
+        "End Date": "2024-11-15",
+        "Budget": 40000.0,
+        "Priority": "Medium",
+        "Description": "Improved content quality using AI-based editing and suggestions.",
+        "Created Date": "2024-02-28",
+        "Last Updated": "2024-11-16",
+        "Project Type": "Enhancement",
+        "Progress %": 1.0,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Campaign Performance Bug Fixes",
+        "Status": "Active",
+        "Start Date": "2025-02-01",
+        "End Date": "2025-07-10",
+        "Budget": 22000.0,
+        "Priority": "High",
+        "Description": "Fix bugs affecting campaign data accuracy and reporting.",
+        "Created Date": "2025-01-30",
+        "Last Updated": "2025-06-20",
+        "Project Type": "Bug Fix",
+        "Progress %": 0.55,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Marketing Research Initiative",
+        "Status": "Research",
+        "Start Date": "2024-09-15",
+        "End Date": "2025-06-25",
+        "Budget": 63000.0,
+        "Priority": "Medium",
+        "Description": "Research new AI methods to improve marketing effectiveness.",
+        "Created Date": "2024-09-10",
+        "Last Updated": "2025-06-15",
+        "Project Type": "Research",
+        "Progress %": 0.65,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Client Retainer Program Expansion",
+        "Status": "Planning",
+        "Start Date": "2025-03-20",
+        "End Date": "2025-08-30",
+        "Budget": 110000.0,
+        "Priority": "High",
+        "Description": "Expand retainer program to include premium AI analytics services.",
+        "Created Date": "2025-03-15",
+        "Last Updated": "2025-06-05",
+        "Project Type": "Retainer",
+        "Progress %": 0.1,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Website Maintenance and Updates",
+        "Status": "Active",
+        "Start Date": "2025-01-15",
+        "End Date": "2025-06-15",
+        "Budget": 25000.0,
+        "Priority": "Medium",
+        "Description": "Regular website updates and bug fixes to improve performance.",
+        "Created Date": "2025-01-10",
+        "Last Updated": "2025-06-12",
+        "Project Type": "Maintenance",
+        "Progress %": 0.75,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI-Powered Customer Insights",
+        "Status": "Active",
+        "Start Date": "2024-08-01",
+        "End Date": "2025-04-30",
+        "Budget": 88000.0,
+        "Priority": "High",
+        "Description": "Deploy AI tools to generate actionable customer insights for campaigns.",
+        "Created Date": "2024-07-30",
+        "Last Updated": "2025-04-25",
+        "Project Type": "Feature",
+        "Progress %": 0.8,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Email Automation Bug Fixes",
+        "Status": "Blocked",
+        "Start Date": "2025-02-20",
+        "End Date": "2025-06-25",
+        "Budget": 17000.0,
+        "Priority": "Critical",
+        "Description": "Resolve bugs delaying automated email dispatches.",
+        "Created Date": "2025-02-18",
+        "Last Updated": "2025-06-18",
+        "Project Type": "Bug Fix",
+        "Progress %": 0.2,
+        "Risk Level": "High",
+        "Project Health Indicator": "Red"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Content Strategy Enhancement",
+        "Status": "Active",
+        "Start Date": "2024-11-20",
+        "End Date": "2025-05-20",
+        "Budget": 47000.0,
+        "Priority": "Medium",
+        "Description": "Refining content strategies using AI to improve engagement metrics.",
+        "Created Date": "2024-11-15",
+        "Last Updated": "2025-05-16",
+        "Project Type": "Enhancement",
+        "Progress %": 0.6,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Campaign Forecasting",
+        "Status": "Planning",
+        "Start Date": "2025-04-10",
+        "End Date": "2025-09-30",
+        "Budget": 78000.0,
+        "Priority": "High",
+        "Description": "Develop AI models to forecast campaign performance and ROI.",
+        "Created Date": "2025-04-05",
+        "Last Updated": "2025-06-12",
+        "Project Type": "Research",
+        "Progress %": 0.1,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Monthly Retainer Client Support",
+        "Status": "Active",
+        "Start Date": "2024-06-15",
+        "End Date": "2025-06-15",
+        "Budget": 130000.0,
+        "Priority": "High",
+        "Description": "Ongoing client support and service improvements under retainer.",
+        "Created Date": "2024-06-10",
+        "Last Updated": "2025-06-10",
+        "Project Type": "Retainer",
+        "Progress %": 0.9,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "User Interface Maintenance",
+        "Status": "Active",
+        "Start Date": "2025-01-25",
+        "End Date": "2025-06-30",
+        "Budget": 19000.0,
+        "Priority": "Low",
+        "Description": "Updating UI components for better usability and performance.",
+        "Created Date": "2025-01-20",
+        "Last Updated": "2025-06-20",
+        "Project Type": "Maintenance",
+        "Progress %": 0.85,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI-Backed Lead Generation",
+        "Status": "Active",
+        "Start Date": "2024-07-10",
+        "End Date": "2025-02-28",
+        "Budget": 94000.0,
+        "Priority": "High",
+        "Description": "Implement AI lead generation to increase qualified leads.",
+        "Created Date": "2024-07-05",
+        "Last Updated": "2025-02-25",
+        "Project Type": "Feature",
+        "Progress %": 0.7,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Marketing Dashboard Bug Fixes",
+        "Status": "Blocked",
+        "Start Date": "2025-03-25",
+        "End Date": "2025-06-25",
+        "Budget": 16000.0,
+        "Priority": "Critical",
+        "Description": "Fixing dashboard bugs causing inaccurate report generation.",
+        "Created Date": "2025-03-20",
+        "Last Updated": "2025-06-23",
+        "Project Type": "Bug Fix",
+        "Progress %": 0.15,
+        "Risk Level": "High",
+        "Project Health Indicator": "Red"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Campaign Content Enhancement",
+        "Status": "Active",
+        "Start Date": "2024-12-10",
+        "End Date": "2025-05-15",
+        "Budget": 45000.0,
+        "Priority": "Medium",
+        "Description": "Enhance campaign content quality using AI recommendations.",
+        "Created Date": "2024-12-05",
+        "Last Updated": "2025-05-12",
+        "Project Type": "Enhancement",
+        "Progress %": 0.55,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Customer Behavior Research",
+        "Status": "Research",
+        "Start Date": "2024-10-15",
+        "End Date": "2025-06-30",
+        "Budget": 52000.0,
+        "Priority": "Medium",
+        "Description": "Analyze customer behavior patterns with AI to improve targeting.",
+        "Created Date": "2024-10-10",
+        "Last Updated": "2025-06-28",
+        "Project Type": "Research",
+        "Progress %": 0.7,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Digital Marketing Retainer Setup",
+        "Status": "Planning",
+        "Start Date": "2025-03-01",
+        "End Date": "2025-08-31",
+        "Budget": 115000.0,
+        "Priority": "High",
+        "Description": "Setting up retainer contracts for digital marketing support services.",
+        "Created Date": "2025-02-25",
+        "Last Updated": "2025-06-05",
+        "Project Type": "Retainer",
+        "Progress %": 0.15,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Website Security Maintenance",
+        "Status": "Active",
+        "Start Date": "2025-01-05",
+        "End Date": "2025-06-30",
+        "Budget": 17500.0,
+        "Priority": "Medium",
+        "Description": "Maintain security updates to protect client websites from vulnerabilities.",
+        "Created Date": "2025-01-01",
+        "Last Updated": "2025-06-26",
+        "Project Type": "Maintenance",
+        "Progress %": 0.8,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Customer Feedback Integration",
+        "Status": "Active",
+        "Start Date": "2024-08-10",
+        "End Date": "2025-05-25",
+        "Budget": 85000.0,
+        "Priority": "High",
+        "Description": "Integrate AI tools to analyze customer feedback for actionable insights.",
+        "Created Date": "2024-08-05",
+        "Last Updated": "2025-05-20",
+        "Project Type": "Feature",
+        "Progress %": 0.75,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Email System Bug Fixes",
+        "Status": "Blocked",
+        "Start Date": "2025-02-28",
+        "End Date": "2025-06-25",
+        "Budget": 16000.0,
+        "Priority": "Critical",
+        "Description": "Fix bugs causing delays in email delivery and tracking.",
+        "Created Date": "2025-02-25",
+        "Last Updated": "2025-06-22",
+        "Project Type": "Bug Fix",
+        "Progress %": 0.2,
+        "Risk Level": "High",
+        "Project Health Indicator": "Red"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Content Strategy AI Enhancement",
+        "Status": "Active",
+        "Start Date": "2024-11-05",
+        "End Date": "2025-05-15",
+        "Budget": 46000.0,
+        "Priority": "Medium",
+        "Description": "Use AI to optimize content strategy based on data-driven insights.",
+        "Created Date": "2024-11-01",
+        "Last Updated": "2025-05-12",
+        "Project Type": "Enhancement",
+        "Progress %": 0.6,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Campaign Forecasting Model",
+        "Status": "Planning",
+        "Start Date": "2025-04-15",
+        "End Date": "2025-09-30",
+        "Budget": 80000.0,
+        "Priority": "High",
+        "Description": "Develop AI-enabled forecasting models for campaign performance.",
+        "Created Date": "2025-04-10",
+        "Last Updated": "2025-06-10",
+        "Project Type": "Research",
+        "Progress %": 0.1,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Client Support Retainer Services",
+        "Status": "Active",
+        "Start Date": "2024-06-20",
+        "End Date": "2025-06-20",
+        "Budget": 128000.0,
+        "Priority": "High",
+        "Description": "Provide ongoing client support and marketing services under retainer.",
+        "Created Date": "2024-06-15",
+        "Last Updated": "2025-06-15",
+        "Project Type": "Retainer",
+        "Progress %": 0.9,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "UI Maintenance and Upgrades",
+        "Status": "Active",
+        "Start Date": "2025-01-30",
+        "End Date": "2025-06-30",
+        "Budget": 18500.0,
+        "Priority": "Low",
+        "Description": "Perform UI maintenance and implement usability upgrades.",
+        "Created Date": "2025-01-25",
+        "Last Updated": "2025-06-20",
+        "Project Type": "Maintenance",
+        "Progress %": 0.85,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Lead Generation Enhancement",
+        "Status": "Active",
+        "Start Date": "2024-07-15",
+        "End Date": "2025-03-01",
+        "Budget": 96000.0,
+        "Priority": "High",
+        "Description": "Enhance lead generation capabilities using advanced AI techniques.",
+        "Created Date": "2024-07-10",
+        "Last Updated": "2025-02-28",
+        "Project Type": "Feature",
+        "Progress %": 0.7,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Marketing Dashboard Critical Fixes",
+        "Status": "Blocked",
+        "Start Date": "2025-03-30",
+        "End Date": "2025-06-25",
+        "Budget": 16500.0,
+        "Priority": "Critical",
+        "Description": "Address critical bugs in the marketing analytics dashboard.",
+        "Created Date": "2025-03-25",
+        "Last Updated": "2025-06-24",
+        "Project Type": "Bug Fix",
+        "Progress %": 0.15,
+        "Risk Level": "High",
+        "Project Health Indicator": "Red"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Campaign Content AI Upgrade",
+        "Status": "Active",
+        "Start Date": "2024-12-15",
+        "End Date": "2025-05-25",
+        "Budget": 47000.0,
+        "Priority": "Medium",
+        "Description": "Upgrade campaign content quality with AI-driven tools.",
+        "Created Date": "2024-12-10",
+        "Last Updated": "2025-05-20",
+        "Project Type": "Enhancement",
+        "Progress %": 0.55,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Customer Behavior AI Study",
+        "Status": "Research",
+        "Start Date": "2024-10-20",
+        "End Date": "2025-06-30",
+        "Budget": 54000.0,
+        "Priority": "Medium",
+        "Description": "Study customer behavior patterns using AI analytics.",
+        "Created Date": "2024-10-15",
+        "Last Updated": "2025-06-29",
+        "Project Type": "Research",
+        "Progress %": 0.7,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Digital Marketing Retainer Program",
+        "Status": "Planning",
+        "Start Date": "2025-03-05",
+        "End Date": "2025-08-31",
+        "Budget": 118000.0,
+        "Priority": "High",
+        "Description": "Launch an expanded retainer program for digital marketing clients.",
+        "Created Date": "2025-02-28",
+        "Last Updated": "2025-06-06",
+        "Project Type": "Retainer",
+        "Progress %": 0.15,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Website Security Updates",
+        "Status": "Active",
+        "Start Date": "2025-01-08",
+        "End Date": "2025-06-30",
+        "Budget": 18000.0,
+        "Priority": "Medium",
+        "Description": "Apply latest security patches to client websites.",
+        "Created Date": "2025-01-03",
+        "Last Updated": "2025-06-26",
+        "Project Type": "Maintenance",
+        "Progress %": 0.8,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Customer Feedback Analysis",
+        "Status": "Active",
+        "Start Date": "2024-08-15",
+        "End Date": "2025-05-28",
+        "Budget": 87000.0,
+        "Priority": "High",
+        "Description": "Analyze customer feedback using AI to gain insights.",
+        "Created Date": "2024-08-12",
+        "Last Updated": "2025-05-25",
+        "Project Type": "Feature",
+        "Progress %": 0.75,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Email Delivery Bug Fixes",
+        "Status": "Blocked",
+        "Start Date": "2025-03-01",
+        "End Date": "2025-06-25",
+        "Budget": 16500.0,
+        "Priority": "Critical",
+        "Description": "Fix bugs that impact email delivery and tracking accuracy.",
+        "Created Date": "2025-02-27",
+        "Last Updated": "2025-06-22",
+        "Project Type": "Bug Fix",
+        "Progress %": 0.2,
+        "Risk Level": "High",
+        "Project Health Indicator": "Red"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Content Strategy AI Optimization",
+        "Status": "Active",
+        "Start Date": "2024-11-10",
+        "End Date": "2025-05-20",
+        "Budget": 48000.0,
+        "Priority": "Medium",
+        "Description": "Optimize content strategy using AI-driven data analysis.",
+        "Created Date": "2024-11-05",
+        "Last Updated": "2025-05-15",
+        "Project Type": "Enhancement",
+        "Progress %": 0.6,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Campaign Performance Forecasting",
+        "Status": "Planning",
+        "Start Date": "2025-04-20",
+        "End Date": "2025-10-01",
+        "Budget": 82000.0,
+        "Priority": "High",
+        "Description": "Build AI forecasting tools for marketing campaign outcomes.",
+        "Created Date": "2025-04-15",
+        "Last Updated": "2025-06-14",
+        "Project Type": "Research",
+        "Progress %": 0.1,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Client Retainer Service Expansion",
+        "Status": "Active",
+        "Start Date": "2024-06-25",
+        "End Date": "2025-06-25",
+        "Budget": 130000.0,
+        "Priority": "High",
+        "Description": "Expand retainer services to include AI-driven marketing solutions.",
+        "Created Date": "2024-06-20",
+        "Last Updated": "2025-06-21",
+        "Project Type": "Retainer",
+        "Progress %": 0.9,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "UI Maintenance Cycle",
+        "Status": "Active",
+        "Start Date": "2025-02-01",
+        "End Date": "2025-07-01",
+        "Budget": 19000.0,
+        "Priority": "Low",
+        "Description": "Conduct UI maintenance and incremental updates.",
+        "Created Date": "2025-01-27",
+        "Last Updated": "2025-06-26",
+        "Project Type": "Maintenance",
+        "Progress %": 0.85,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI-Enhanced Lead Generation",
+        "Status": "Active",
+        "Start Date": "2024-07-20",
+        "End Date": "2025-03-05",
+        "Budget": 97000.0,
+        "Priority": "High",
+        "Description": "Improve lead generation using enhanced AI algorithms.",
+        "Created Date": "2024-07-15",
+        "Last Updated": "2025-03-01",
+        "Project Type": "Feature",
+        "Progress %": 0.7,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Marketing Dashboard Issue Fixes",
+        "Status": "Blocked",
+        "Start Date": "2025-04-01",
+        "End Date": "2025-06-25",
+        "Budget": 17000.0,
+        "Priority": "Critical",
+        "Description": "Resolve critical issues with marketing analytics dashboard.",
+        "Created Date": "2025-03-28",
+        "Last Updated": "2025-06-25",
+        "Project Type": "Bug Fix",
+        "Progress %": 0.15,
+        "Risk Level": "High",
+        "Project Health Indicator": "Red"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Campaign Content Quality Upgrade",
+        "Status": "Active",
+        "Start Date": "2024-12-20",
+        "End Date": "2025-05-30",
+        "Budget": 48000.0,
+        "Priority": "Medium",
+        "Description": "Upgrade campaign content using AI-driven quality checks.",
+        "Created Date": "2024-12-15",
+        "Last Updated": "2025-05-25",
+        "Project Type": "Enhancement",
+        "Progress %": 0.55,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Customer Behavior Analysis",
+        "Status": "Research",
+        "Start Date": "2024-10-25",
+        "End Date": "2025-07-05",
+        "Budget": 55000.0,
+        "Priority": "Medium",
+        "Description": "Analyze customer behavior via AI tools to optimize marketing.",
+        "Created Date": "2024-10-20",
+        "Last Updated": "2025-07-02",
+        "Project Type": "Research",
+        "Progress %": 0.7,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Digital Marketing Retainer Launch",
+        "Status": "Planning",
+        "Start Date": "2025-03-10",
+        "End Date": "2025-09-01",
+        "Budget": 120000.0,
+        "Priority": "High",
+        "Description": "Launch new retainer program with AI-enabled marketing services.",
+        "Created Date": "2025-03-05",
+        "Last Updated": "2025-06-10",
+        "Project Type": "Retainer",
+        "Progress %": 0.15,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Website Security Enhancements",
+        "Status": "Active",
+        "Start Date": "2025-01-10",
+        "End Date": "2025-07-05",
+        "Budget": 18500.0,
+        "Priority": "Medium",
+        "Description": "Enhance website security protocols and patch vulnerabilities.",
+        "Created Date": "2025-01-06",
+        "Last Updated": "2025-06-27",
+        "Project Type": "Maintenance",
+        "Progress %": 0.8,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Customer Feedback Tool",
+        "Status": "Active",
+        "Start Date": "2024-08-20",
+        "End Date": "2025-06-01",
+        "Budget": 88000.0,
+        "Priority": "High",
+        "Description": "Deploy AI tools to analyze and act on customer feedback.",
+        "Created Date": "2024-08-15",
+        "Last Updated": "2025-05-30",
+        "Project Type": "Feature",
+        "Progress %": 0.75,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Email System Critical Fixes",
+        "Status": "Blocked",
+        "Start Date": "2025-03-05",
+        "End Date": "2025-06-25",
+        "Budget": 17000.0,
+        "Priority": "Critical",
+        "Description": "Address critical fixes for email system bugs impairing delivery.",
+        "Created Date": "2025-03-01",
+        "Last Updated": "2025-06-23",
+        "Project Type": "Bug Fix",
+        "Progress %": 0.2,
+        "Risk Level": "High",
+        "Project Health Indicator": "Red"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Content Strategy Optimization",
+        "Status": "Active",
+        "Start Date": "2024-11-15",
+        "End Date": "2025-05-25",
+        "Budget": 49000.0,
+        "Priority": "Medium",
+        "Description": "Optimize content strategy using AI data insights and analysis.",
+        "Created Date": "2024-11-10",
+        "Last Updated": "2025-05-20",
+        "Project Type": "Enhancement",
+        "Progress %": 0.6,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Campaign Forecast AI Models",
+        "Status": "Planning",
+        "Start Date": "2025-04-25",
+        "End Date": "2025-10-10",
+        "Budget": 84000.0,
+        "Priority": "High",
+        "Description": "Develop AI forecasting models for campaign success prediction.",
+        "Created Date": "2025-04-20",
+        "Last Updated": "2025-06-16",
+        "Project Type": "Research",
+        "Progress %": 0.1,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Client Retainer Marketing Services",
+        "Status": "Active",
+        "Start Date": "2024-06-30",
+        "End Date": "2025-06-30",
+        "Budget": 135000.0,
+        "Priority": "High",
+        "Description": "Deliver ongoing marketing services under retainer agreements.",
+        "Created Date": "2024-06-25",
+        "Last Updated": "2025-06-25",
+        "Project Type": "Retainer",
+        "Progress %": 0.9,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "UI Maintenance Improvements",
+        "Status": "Active",
+        "Start Date": "2025-02-05",
+        "End Date": "2025-07-05",
+        "Budget": 19500.0,
+        "Priority": "Low",
+        "Description": "Implement UI improvements and regular maintenance.",
+        "Created Date": "2025-01-30",
+        "Last Updated": "2025-06-27",
+        "Project Type": "Maintenance",
+        "Progress %": 0.85,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Lead Gen Platform Upgrade",
+        "Status": "Active",
+        "Start Date": "2024-07-25",
+        "End Date": "2025-03-10",
+        "Budget": 98500.0,
+        "Priority": "High",
+        "Description": "Upgrade lead generation platform with advanced AI features.",
+        "Created Date": "2024-07-20",
+        "Last Updated": "2025-03-05",
+        "Project Type": "Feature",
+        "Progress %": 0.7,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Marketing Dashboard Fixes",
+        "Status": "Blocked",
+        "Start Date": "2025-04-05",
+        "End Date": "2025-06-25",
+        "Budget": 17500.0,
+        "Priority": "Critical",
+        "Description": "Fix critical defects in marketing dashboard analytics.",
+        "Created Date": "2025-03-31",
+        "Last Updated": "2025-06-25",
+        "Project Type": "Bug Fix",
+        "Progress %": 0.15,
+        "Risk Level": "High",
+        "Project Health Indicator": "Red"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Campaign Content AI Quality",
+        "Status": "Active",
+        "Start Date": "2024-12-25",
+        "End Date": "2025-06-05",
+        "Budget": 49000.0,
+        "Priority": "Medium",
+        "Description": "Ensure campaign content meets quality standards using AI validation.",
+        "Created Date": "2024-12-20",
+        "Last Updated": "2025-06-01",
+        "Project Type": "Enhancement",
+        "Progress %": 0.55,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Customer AI Behavior Modeling",
+        "Status": "Research",
+        "Start Date": "2024-10-30",
+        "End Date": "2025-07-10",
+        "Budget": 56000.0,
+        "Priority": "Medium",
+        "Description": "Model customer behavior patterns with AI to improve targeting.",
+        "Created Date": "2024-10-25",
+        "Last Updated": "2025-07-07",
+        "Project Type": "Research",
+        "Progress %": 0.7,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Digital Marketing Retainer Campaign",
+        "Status": "Planning",
+        "Start Date": "2025-03-15",
+        "End Date": "2025-09-10",
+        "Budget": 125000.0,
+        "Priority": "High",
+        "Description": "Campaign to promote new retainer program with AI services.",
+        "Created Date": "2025-03-10",
+        "Last Updated": "2025-06-12",
+        "Project Type": "Retainer",
+        "Progress %": 0.15,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Website Security Protocols Update",
+        "Status": "Active",
+        "Start Date": "2025-01-15",
+        "End Date": "2025-07-10",
+        "Budget": 19000.0,
+        "Priority": "Medium",
+        "Description": "Update security protocols for client websites to mitigate risks.",
+        "Created Date": "2025-01-10",
+        "Last Updated": "2025-06-28",
+        "Project Type": "Maintenance",
+        "Progress %": 0.8,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Customer Feedback Insights",
+        "Status": "Active",
+        "Start Date": "2024-08-25",
+        "End Date": "2025-06-05",
+        "Budget": 90000.0,
+        "Priority": "High",
+        "Description": "Gather and analyze customer feedback using AI tools.",
+        "Created Date": "2024-08-20",
+        "Last Updated": "2025-06-01",
+        "Project Type": "Feature",
+        "Progress %": 0.75,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Email System Bug Remediation",
+        "Status": "Blocked",
+        "Start Date": "2025-03-10",
+        "End Date": "2025-06-25",
+        "Budget": 17500.0,
+        "Priority": "Critical",
+        "Description": "Remediation of bugs affecting email system performance.",
+        "Created Date": "2025-03-06",
+        "Last Updated": "2025-06-24",
+        "Project Type": "Bug Fix",
+        "Progress %": 0.2,
+        "Risk Level": "High",
+        "Project Health Indicator": "Red"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Content Strategy AI Overhaul",
+        "Status": "Active",
+        "Start Date": "2024-11-20",
+        "End Date": "2025-05-30",
+        "Budget": 50000.0,
+        "Priority": "Medium",
+        "Description": "Overhaul content strategy leveraging advanced AI analytics.",
+        "Created Date": "2024-11-15",
+        "Last Updated": "2025-05-25",
+        "Project Type": "Enhancement",
+        "Progress %": 0.6,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Campaign AI Forecast Development",
+        "Status": "Planning",
+        "Start Date": "2025-04-30",
+        "End Date": "2025-10-15",
+        "Budget": 86000.0,
+        "Priority": "High",
+        "Description": "Develop AI-based models to forecast campaign impacts accurately.",
+        "Created Date": "2025-04-25",
+        "Last Updated": "2025-06-18",
+        "Project Type": "Research",
+        "Progress %": 0.1,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Client Retainer Marketing Growth",
+        "Status": "Active",
+        "Start Date": "2024-07-05",
+        "End Date": "2025-07-05",
+        "Budget": 140000.0,
+        "Priority": "High",
+        "Description": "Expand client retainer marketing services with AI enhancements.",
+        "Created Date": "2024-07-01",
+        "Last Updated": "2025-06-30",
+        "Project Type": "Retainer",
+        "Progress %": 0.9,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "UI Maintenance and Fixes",
+        "Status": "Active",
+        "Start Date": "2025-02-10",
+        "End Date": "2025-07-10",
+        "Budget": 20000.0,
+        "Priority": "Low",
+        "Description": "Routine maintenance and fixing of UI components.",
+        "Created Date": "2025-02-05",
+        "Last Updated": "2025-06-28",
+        "Project Type": "Maintenance",
+        "Progress %": 0.85,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Lead Generation Platform",
+        "Status": "Active",
+        "Start Date": "2024-08-01",
+        "End Date": "2025-03-15",
+        "Budget": 100000.0,
+        "Priority": "High",
+        "Description": "Deploy AI platform for superior lead generation.",
+        "Created Date": "2024-07-28",
+        "Last Updated": "2025-03-10",
+        "Project Type": "Feature",
+        "Progress %": 0.7,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Marketing Dashboard Critical Bug Fix",
+        "Status": "Blocked",
+        "Start Date": "2025-04-10",
+        "End Date": "2025-06-25",
+        "Budget": 18000.0,
+        "Priority": "Critical",
+        "Description": "Critical bug fixes for marketing dashboard analytics.",
+        "Created Date": "2025-04-05",
+        "Last Updated": "2025-06-25",
+        "Project Type": "Bug Fix",
+        "Progress %": 0.15,
+        "Risk Level": "High",
+        "Project Health Indicator": "Red"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Campaign Content Quality Assurance",
+        "Status": "Active",
+        "Start Date": "2024-12-30",
+        "End Date": "2025-06-10",
+        "Budget": 50000.0,
+        "Priority": "Medium",
+        "Description": "AI-assisted quality assurance for campaign content.",
+        "Created Date": "2024-12-25",
+        "Last Updated": "2025-06-07",
+        "Project Type": "Enhancement",
+        "Progress %": 0.55,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI-Driven Customer Behavior Study",
+        "Status": "Research",
+        "Start Date": "2024-11-05",
+        "End Date": "2025-07-15",
+        "Budget": 57000.0,
+        "Priority": "Medium",
+        "Description": "Study customer behavior using AI analytics to improve targeting.",
+        "Created Date": "2024-11-01",
+        "Last Updated": "2025-07-12",
+        "Project Type": "Research",
+        "Progress %": 0.7,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Digital Marketing Retainer Deployment",
+        "Status": "Planning",
+        "Start Date": "2025-03-20",
+        "End Date": "2025-09-15",
+        "Budget": 130000.0,
+        "Priority": "High",
+        "Description": "Deploy new retainer program focused on AI-driven marketing.",
+        "Created Date": "2025-03-15",
+        "Last Updated": "2025-06-14",
+        "Project Type": "Retainer",
+        "Progress %": 0.15,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Website Security Patch Application",
+        "Status": "Active",
+        "Start Date": "2025-01-20",
+        "End Date": "2025-07-15",
+        "Budget": 19500.0,
+        "Priority": "Medium",
+        "Description": "Apply security patches to client websites regularly.",
+        "Created Date": "2025-01-15",
+        "Last Updated": "2025-06-29",
+        "Project Type": "Maintenance",
+        "Progress %": 0.8,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Customer Feedback System",
+        "Status": "Active",
+        "Start Date": "2024-09-01",
+        "End Date": "2025-06-10",
+        "Budget": 92000.0,
+        "Priority": "High",
+        "Description": "Build AI system to analyze customer feedback effectively.",
+        "Created Date": "2024-08-28",
+        "Last Updated": "2025-06-08",
+        "Project Type": "Feature",
+        "Progress %": 0.75,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Email System Bug Resolution",
+        "Status": "Blocked",
+        "Start Date": "2025-03-15",
+        "End Date": "2025-06-25",
+        "Budget": 18000.0,
+        "Priority": "Critical",
+        "Description": "Resolve critical bugs in email delivery system.",
+        "Created Date": "2025-03-10",
+        "Last Updated": "2025-06-24",
+        "Project Type": "Bug Fix",
+        "Progress %": 0.2,
+        "Risk Level": "High",
+        "Project Health Indicator": "Red"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Content Strategy AI Revamp",
+        "Status": "Active",
+        "Start Date": "2024-11-25",
+        "End Date": "2025-06-05",
+        "Budget": 51000.0,
+        "Priority": "Medium",
+        "Description": "Revamp content strategy using AI for better engagement.",
+        "Created Date": "2024-11-20",
+        "Last Updated": "2025-06-01",
+        "Project Type": "Enhancement",
+        "Progress %": 0.6,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Campaign AI Forecasting Solutions",
+        "Status": "Planning",
+        "Start Date": "2025-05-05",
+        "End Date": "2025-10-20",
+        "Budget": 88000.0,
+        "Priority": "High",
+        "Description": "Develop AI solutions for campaign forecasting accuracy.",
+        "Created Date": "2025-05-01",
+        "Last Updated": "2025-06-20",
+        "Project Type": "Research",
+        "Progress %": 0.1,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Client Retainer Marketing Enhancement",
+        "Status": "Active",
+        "Start Date": "2024-07-10",
+        "End Date": "2025-07-10",
+        "Budget": 145000.0,
+        "Priority": "High",
+        "Description": "Enhance client retainer marketing services with AI integration.",
+        "Created Date": "2024-07-05",
+        "Last Updated": "2025-07-01",
+        "Project Type": "Retainer",
+        "Progress %": 0.9,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "UI Maintenance and Optimization",
+        "Status": "Active",
+        "Start Date": "2025-02-15",
+        "End Date": "2025-07-15",
+        "Budget": 20500.0,
+        "Priority": "Low",
+        "Description": "Optimize UI components alongside routine maintenance.",
+        "Created Date": "2025-02-10",
+        "Last Updated": "2025-06-29",
+        "Project Type": "Maintenance",
+        "Progress %": 0.85,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Lead Generation Enhancement Project",
+        "Status": "Active",
+        "Start Date": "2024-08-05",
+        "End Date": "2025-03-20",
+        "Budget": 102000.0,
+        "Priority": "High",
+        "Description": "Enhance lead generation platform with AI upgrades.",
+        "Created Date": "2024-08-01",
+        "Last Updated": "2025-03-15",
+        "Project Type": "Feature",
+        "Progress %": 0.7,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Marketing Dashboard Major Fixes",
+        "Status": "Blocked",
+        "Start Date": "2025-04-15",
+        "End Date": "2025-06-25",
+        "Budget": 18500.0,
+        "Priority": "Critical",
+        "Description": "Implement major fixes on marketing dashboard bugs.",
+        "Created Date": "2025-04-10",
+        "Last Updated": "2025-06-25",
+        "Project Type": "Bug Fix",
+        "Progress %": 0.15,
+        "Risk Level": "High",
+        "Project Health Indicator": "Red"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Campaign Content AI Quality Control",
+        "Status": "Active",
+        "Start Date": "2024-12-30",
+        "End Date": "2025-06-15",
+        "Budget": 51000.0,
+        "Priority": "Medium",
+        "Description": "Control campaign content quality using AI tools.",
+        "Created Date": "2024-12-25",
+        "Last Updated": "2025-06-12",
+        "Project Type": "Enhancement",
+        "Progress %": 0.55,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Customer Behavior Analytics",
+        "Status": "Research",
+        "Start Date": "2024-11-10",
+        "End Date": "2025-07-20",
+        "Budget": 58000.0,
+        "Priority": "Medium",
+        "Description": "Analyze customer behavior patterns with AI analytics.",
+        "Created Date": "2024-11-05",
+        "Last Updated": "2025-07-17",
+        "Project Type": "Research",
+        "Progress %": 0.7,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Digital Marketing Retainer Expansion",
+        "Status": "Planning",
+        "Start Date": "2025-03-25",
+        "End Date": "2025-09-20",
+        "Budget": 135000.0,
+        "Priority": "High",
+        "Description": "Expand retainer program focusing on AI capabilities.",
+        "Created Date": "2025-03-20",
+        "Last Updated": "2025-06-16",
+        "Project Type": "Retainer",
+        "Progress %": 0.15,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Website Security Enhancement Plan",
+        "Status": "Active",
+        "Start Date": "2025-01-25",
+        "End Date": "2025-07-20",
+        "Budget": 20000.0,
+        "Priority": "Medium",
+        "Description": "Implement security enhancements and regular patching.",
+        "Created Date": "2025-01-20",
+        "Last Updated": "2025-06-30",
+        "Project Type": "Maintenance",
+        "Progress %": 0.8,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Customer Feedback Platform",
+        "Status": "Active",
+        "Start Date": "2024-09-05",
+        "End Date": "2025-06-15",
+        "Budget": 94000.0,
+        "Priority": "High",
+        "Description": "Launch AI platform for analyzing customer feedback effectively.",
+        "Created Date": "2024-09-01",
+        "Last Updated": "2025-06-12",
+        "Project Type": "Feature",
+        "Progress %": 0.75,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Email System Critical Bug Fixes",
+        "Status": "Blocked",
+        "Start Date": "2025-03-20",
+        "End Date": "2025-06-25",
+        "Budget": 18500.0,
+        "Priority": "Critical",
+        "Description": "Critical fixes to email system bugs affecting delivery.",
+        "Created Date": "2025-03-15",
+        "Last Updated": "2025-06-24",
+        "Project Type": "Bug Fix",
+        "Progress %": 0.2,
+        "Risk Level": "High",
+        "Project Health Indicator": "Red"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Content Strategy AI Refinement",
+        "Status": "Active",
+        "Start Date": "2024-11-30",
+        "End Date": "2025-06-10",
+        "Budget": 52000.0,
+        "Priority": "Medium",
+        "Description": "Refine content strategy leveraging AI analytics.",
+        "Created Date": "2024-11-25",
+        "Last Updated": "2025-06-07",
+        "Project Type": "Enhancement",
+        "Progress %": 0.6,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Campaign Forecast AI Solutions",
+        "Status": "Planning",
+        "Start Date": "2025-05-10",
+        "End Date": "2025-10-25",
+        "Budget": 90000.0,
+        "Priority": "High",
+        "Description": "Develop AI solutions to improve campaign forecasting accuracy.",
+        "Created Date": "2025-05-05",
+        "Last Updated": "2025-06-22",
+        "Project Type": "Research",
+        "Progress %": 0.1,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Client Retainer Marketing Initiative",
+        "Status": "Active",
+        "Start Date": "2024-07-15",
+        "End Date": "2025-07-15",
+        "Budget": 150000.0,
+        "Priority": "High",
+        "Description": "Initiative to grow client retainer marketing services with AI.",
+        "Created Date": "2024-07-10",
+        "Last Updated": "2025-07-05",
+        "Project Type": "Retainer",
+        "Progress %": 0.9,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "UI Maintenance and Enhancement",
+        "Status": "Active",
+        "Start Date": "2025-02-20",
+        "End Date": "2025-07-20",
+        "Budget": 21000.0,
+        "Priority": "Low",
+        "Description": "Enhance UI while performing routine maintenance.",
+        "Created Date": "2025-02-15",
+        "Last Updated": "2025-06-30",
+        "Project Type": "Maintenance",
+        "Progress %": 0.85,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Lead Generation Optimization",
+        "Status": "Active",
+        "Start Date": "2024-08-10",
+        "End Date": "2025-03-25",
+        "Budget": 105000.0,
+        "Priority": "High",
+        "Description": "Optimize lead generation with AI powered tools.",
+        "Created Date": "2024-08-05",
+        "Last Updated": "2025-03-20",
+        "Project Type": "Feature",
+        "Progress %": 0.7,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Marketing Dashboard Critical Updates",
+        "Status": "Blocked",
+        "Start Date": "2025-04-20",
+        "End Date": "2025-06-25",
+        "Budget": 19000.0,
+        "Priority": "Critical",
+        "Description": "Critical updates and fixes for marketing dashboard issues.",
+        "Created Date": "2025-04-15",
+        "Last Updated": "2025-06-25",
+        "Project Type": "Bug Fix",
+        "Progress %": 0.15,
+        "Risk Level": "High",
+        "Project Health Indicator": "Red"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Campaign Content AI Assurance",
+        "Status": "Active",
+        "Start Date": "2025-01-02",
+        "End Date": "2025-06-20",
+        "Budget": 52000.0,
+        "Priority": "Medium",
+        "Description": "Ensure campaign content quality using AI assurance tools.",
+        "Created Date": "2024-12-28",
+        "Last Updated": "2025-06-18",
+        "Project Type": "Enhancement",
+        "Progress %": 0.55,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Customer AI Behavior Modeling Project",
+        "Status": "Research",
+        "Start Date": "2024-11-15",
+        "End Date": "2025-07-25",
+        "Budget": 59000.0,
+        "Priority": "Medium",
+        "Description": "Model customer behavior with AI to refine marketing targeting.",
+        "Created Date": "2024-11-10",
+        "Last Updated": "2025-07-22",
+        "Project Type": "Research",
+        "Progress %": 0.7,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Digital Marketing Retainer Growth",
+        "Status": "Planning",
+        "Start Date": "2025-03-30",
+        "End Date": "2025-09-25",
+        "Budget": 140000.0,
+        "Priority": "High",
+        "Description": "Grow retainer program with AI marketing services.",
+        "Created Date": "2025-03-25",
+        "Last Updated": "2025-06-18",
+        "Project Type": "Retainer",
+        "Progress %": 0.15,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Website Security Update Cycle",
+        "Status": "Active",
+        "Start Date": "2025-01-30",
+        "End Date": "2025-07-25",
+        "Budget": 20500.0,
+        "Priority": "Medium",
+        "Description": "Cycle of applying security updates to client websites.",
+        "Created Date": "2025-01-25",
+        "Last Updated": "2025-06-30",
+        "Project Type": "Maintenance",
+        "Progress %": 0.8,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Customer Feedback Solution",
+        "Status": "Active",
+        "Start Date": "2024-09-10",
+        "End Date": "2025-06-20",
+        "Budget": 95000.0,
+        "Priority": "High",
+        "Description": "Deploy solution for AI-based customer feedback analysis.",
+        "Created Date": "2024-09-05",
+        "Last Updated": "2025-06-18",
+        "Project Type": "Feature",
+        "Progress %": 0.75,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Email System Bug Resolution Phase",
+        "Status": "Blocked",
+        "Start Date": "2025-03-25",
+        "End Date": "2025-06-25",
+        "Budget": 19000.0,
+        "Priority": "Critical",
+        "Description": "Phase of bug resolution for email system errors.",
+        "Created Date": "2025-03-20",
+        "Last Updated": "2025-06-24",
+        "Project Type": "Bug Fix",
+        "Progress %": 0.2,
+        "Risk Level": "High",
+        "Project Health Indicator": "Red"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Content Strategy AI Improvement",
+        "Status": "Active",
+        "Start Date": "2024-12-05",
+        "End Date": "2025-06-15",
+        "Budget": 53000.0,
+        "Priority": "Medium",
+        "Description": "Improve content strategy through AI-driven insights.",
+        "Created Date": "2024-12-01",
+        "Last Updated": "2025-06-12",
+        "Project Type": "Enhancement",
+        "Progress %": 0.6,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Campaign AI Forecasting Development",
+        "Status": "Planning",
+        "Start Date": "2025-05-15",
+        "End Date": "2025-10-30",
+        "Budget": 92000.0,
+        "Priority": "High",
+        "Description": "Develop AI forecasting tools for campaign success prediction.",
+        "Created Date": "2025-05-10",
+        "Last Updated": "2025-06-24",
+        "Project Type": "Research",
+        "Progress %": 0.1,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Client Retainer Marketing Enhancement Plan",
+        "Status": "Active",
+        "Start Date": "2024-07-20",
+        "End Date": "2025-07-20",
+        "Budget": 155000.0,
+        "Priority": "High",
+        "Description": "Enhance marketing services under client retainer agreements.",
+        "Created Date": "2024-07-15",
+        "Last Updated": "2025-07-10",
+        "Project Type": "Retainer",
+        "Progress %": 0.9,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "UI Maintenance and Revamp",
+        "Status": "Active",
+        "Start Date": "2025-02-25",
+        "End Date": "2025-07-25",
+        "Budget": 21500.0,
+        "Priority": "Low",
+        "Description": "Routine UI maintenance and partial revamp for usability.",
+        "Created Date": "2025-02-20",
+        "Last Updated": "2025-06-30",
+        "Project Type": "Maintenance",
+        "Progress %": 0.85,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Lead Generation Strategy Upgrade",
+        "Status": "Active",
+        "Start Date": "2024-08-15",
+        "End Date": "2025-03-30",
+        "Budget": 108000.0,
+        "Priority": "High",
+        "Description": "Upgrade lead generation strategy with AI enhancements.",
+        "Created Date": "2024-08-10",
+        "Last Updated": "2025-03-25",
+        "Project Type": "Feature",
+        "Progress %": 0.7,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Marketing Dashboard Urgent Fixes",
+        "Status": "Blocked",
+        "Start Date": "2025-04-25",
+        "End Date": "2025-06-25",
+        "Budget": 19500.0,
+        "Priority": "Critical",
+        "Description": "Urgent fixes for critical issues in marketing dashboard.",
+        "Created Date": "2025-04-20",
+        "Last Updated": "2025-06-25",
+        "Project Type": "Bug Fix",
+        "Progress %": 0.15,
+        "Risk Level": "High",
+        "Project Health Indicator": "Red"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Campaign Content Quality Improvement",
+        "Status": "Active",
+        "Start Date": "2025-01-10",
+        "End Date": "2025-06-25",
+        "Budget": 53000.0,
+        "Priority": "Medium",
+        "Description": "Improve campaign content quality using AI tools.",
+        "Created Date": "2025-01-05",
+        "Last Updated": "2025-06-20",
+        "Project Type": "Enhancement",
+        "Progress %": 0.55,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Customer AI Behavior Analytics Study",
+        "Status": "Research",
+        "Start Date": "2024-11-20",
+        "End Date": "2025-07-30",
+        "Budget": 60000.0,
+        "Priority": "Medium",
+        "Description": "Conduct study of customer behavior patterns using AI.",
+        "Created Date": "2024-11-15",
+        "Last Updated": "2025-07-27",
+        "Project Type": "Research",
+        "Progress %": 0.7,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Digital Marketing Retainer Growth Plan",
+        "Status": "Planning",
+        "Start Date": "2025-04-01",
+        "End Date": "2025-10-01",
+        "Budget": 145000.0,
+        "Priority": "High",
+        "Description": "Plan to grow retainer marketing services focusing on AI.",
+        "Created Date": "2025-03-28",
+        "Last Updated": "2025-06-20",
+        "Project Type": "Retainer",
+        "Progress %": 0.15,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Website Security Patch Cycle",
+        "Status": "Active",
+        "Start Date": "2025-02-05",
+        "End Date": "2025-07-30",
+        "Budget": 21000.0,
+        "Priority": "Medium",
+        "Description": "Cycle for applying security patches and enhancements.",
+        "Created Date": "2025-02-01",
+        "Last Updated": "2025-07-01",
+        "Project Type": "Maintenance",
+        "Progress %": 0.8,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Customer Feedback System Deployment",
+        "Status": "Active",
+        "Start Date": "2024-09-15",
+        "End Date": "2025-06-25",
+        "Budget": 96000.0,
+        "Priority": "High",
+        "Description": "Deploy AI system for enhanced customer feedback analysis.",
+        "Created Date": "2024-09-10",
+        "Last Updated": "2025-06-22",
+        "Project Type": "Feature",
+        "Progress %": 0.75,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Email System Critical Bug Resolution",
+        "Status": "Blocked",
+        "Start Date": "2025-03-30",
+        "End Date": "2025-06-25",
+        "Budget": 20000.0,
+        "Priority": "Critical",
+        "Description": "Resolve critical issues in email system affecting delivery.",
+        "Created Date": "2025-03-25",
+        "Last Updated": "2025-06-24",
+        "Project Type": "Bug Fix",
+        "Progress %": 0.2,
+        "Risk Level": "High",
+        "Project Health Indicator": "Red"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Content Strategy AI Upgrade",
+        "Status": "Active",
+        "Start Date": "2024-12-10",
+        "End Date": "2025-06-20",
+        "Budget": 54000.0,
+        "Priority": "Medium",
+        "Description": "Upgrade content strategy leveraging AI insights.",
+        "Created Date": "2024-12-05",
+        "Last Updated": "2025-06-18",
+        "Project Type": "Enhancement",
+        "Progress %": 0.6,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Campaign AI Forecasting System",
+        "Status": "Planning",
+        "Start Date": "2025-05-20",
+        "End Date": "2025-11-05",
+        "Budget": 94000.0,
+        "Priority": "High",
+        "Description": "Develop AI system for accurate campaign forecasting.",
+        "Created Date": "2025-05-15",
+        "Last Updated": "2025-06-26",
+        "Project Type": "Research",
+        "Progress %": 0.1,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Client Retainer Marketing Service Expansion",
+        "Status": "Active",
+        "Start Date": "2024-07-25",
+        "End Date": "2025-07-25",
+        "Budget": 160000.0,
+        "Priority": "High",
+        "Description": "Expand marketing services offered under client retainers.",
+        "Created Date": "2024-07-20",
+        "Last Updated": "2025-07-15",
+        "Project Type": "Retainer",
+        "Progress %": 0.9,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "UI Maintenance and Redesign",
+        "Status": "Active",
+        "Start Date": "2025-03-01",
+        "End Date": "2025-08-01",
+        "Budget": 22000.0,
+        "Priority": "Low",
+        "Description": "Redesign UI elements combined with routine maintenance.",
+        "Created Date": "2025-02-25",
+        "Last Updated": "2025-07-01",
+        "Project Type": "Maintenance",
+        "Progress %": 0.85,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Lead Generation Expansion",
+        "Status": "Active",
+        "Start Date": "2024-08-20",
+        "End Date": "2025-04-05",
+        "Budget": 110000.0,
+        "Priority": "High",
+        "Description": "Expand lead generation capabilities with AI tools.",
+        "Created Date": "2024-08-15",
+        "Last Updated": "2025-03-30",
+        "Project Type": "Feature",
+        "Progress %": 0.7,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Marketing Dashboard Emergency Fixes",
+        "Status": "Blocked",
+        "Start Date": "2025-04-30",
+        "End Date": "2025-06-25",
+        "Budget": 20000.0,
+        "Priority": "Critical",
+        "Description": "Emergency fixes on marketing dashboard for critical bugs.",
+        "Created Date": "2025-04-25",
+        "Last Updated": "2025-06-25",
+        "Project Type": "Bug Fix",
+        "Progress %": 0.15,
+        "Risk Level": "High",
+        "Project Health Indicator": "Red"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Campaign Content AI Verification",
+        "Status": "Active",
+        "Start Date": "2025-01-15",
+        "End Date": "2025-06-30",
+        "Budget": 54000.0,
+        "Priority": "Medium",
+        "Description": "Verify campaign content quality using AI tools.",
+        "Created Date": "2025-01-10",
+        "Last Updated": "2025-06-25",
+        "Project Type": "Enhancement",
+        "Progress %": 0.55,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Customer AI Behavior Modeling Study",
+        "Status": "Research",
+        "Start Date": "2024-11-25",
+        "End Date": "2025-08-05",
+        "Budget": 61000.0,
+        "Priority": "Medium",
+        "Description": "Study customer behavior patterns using AI for targeting.",
+        "Created Date": "2024-11-20",
+        "Last Updated": "2025-08-02",
+        "Project Type": "Research",
+        "Progress %": 0.7,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Digital Marketing Retainer Upgrade",
+        "Status": "Planning",
+        "Start Date": "2025-04-05",
+        "End Date": "2025-10-10",
+        "Budget": 150000.0,
+        "Priority": "High",
+        "Description": "Upgrade retainer marketing services with AI enhancements.",
+        "Created Date": "2025-04-01",
+        "Last Updated": "2025-06-22",
+        "Project Type": "Retainer",
+        "Progress %": 0.15,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Website Security Cycle Update",
+        "Status": "Active",
+        "Start Date": "2025-02-10",
+        "End Date": "2025-08-05",
+        "Budget": 21500.0,
+        "Priority": "Medium",
+        "Description": "Regular update cycle for website security patches.",
+        "Created Date": "2025-02-05",
+        "Last Updated": "2025-07-02",
+        "Project Type": "Maintenance",
+        "Progress %": 0.8,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Customer Feedback Analysis Deployment",
+        "Status": "Active",
+        "Start Date": "2024-09-20",
+        "End Date": "2025-06-30",
+        "Budget": 98000.0,
+        "Priority": "High",
+        "Description": "Deploy AI for comprehensive analysis of customer feedback.",
+        "Created Date": "2024-09-15",
+        "Last Updated": "2025-06-28",
+        "Project Type": "Feature",
+        "Progress %": 0.75,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Email System Critical Resolution Phase",
+        "Status": "Blocked",
+        "Start Date": "2025-04-01",
+        "End Date": "2025-06-25",
+        "Budget": 20500.0,
+        "Priority": "Critical",
+        "Description": "Critical resolution phase for email system issues.",
+        "Created Date": "2025-03-28",
+        "Last Updated": "2025-06-24",
+        "Project Type": "Bug Fix",
+        "Progress %": 0.2,
+        "Risk Level": "High",
+        "Project Health Indicator": "Red"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Content Strategy AI Enhancement Plan",
+        "Status": "Active",
+        "Start Date": "2024-12-15",
+        "End Date": "2025-06-25",
+        "Budget": 55000.0,
+        "Priority": "Medium",
+        "Description": "Plan to enhance content strategy with AI analytics.",
+        "Created Date": "2024-12-10",
+        "Last Updated": "2025-06-22",
+        "Project Type": "Enhancement",
+        "Progress %": 0.6,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Campaign AI Forecasting Initiative",
+        "Status": "Planning",
+        "Start Date": "2025-05-25",
+        "End Date": "2025-11-10",
+        "Budget": 96000.0,
+        "Priority": "High",
+        "Description": "Initiative to develop AI forecasting for marketing campaigns.",
+        "Created Date": "2025-05-20",
+        "Last Updated": "2025-06-28",
+        "Project Type": "Research",
+        "Progress %": 0.1,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Client Retainer Marketing Expansion",
+        "Status": "Active",
+        "Start Date": "2024-07-30",
+        "End Date": "2025-07-30",
+        "Budget": 165000.0,
+        "Priority": "High",
+        "Description": "Expand marketing services offered under retainers with AI.",
+        "Created Date": "2024-07-25",
+        "Last Updated": "2025-07-20",
+        "Project Type": "Retainer",
+        "Progress %": 0.9,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "UI Maintenance and UX Improvements",
+        "Status": "Active",
+        "Start Date": "2025-03-05",
+        "End Date": "2025-08-05",
+        "Budget": 22500.0,
+        "Priority": "Low",
+        "Description": "Implement UI maintenance and improve user experience.",
+        "Created Date": "2025-03-01",
+        "Last Updated": "2025-07-05",
+        "Project Type": "Maintenance",
+        "Progress %": 0.85,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Lead Generation System Enhancement",
+        "Status": "Active",
+        "Start Date": "2024-08-25",
+        "End Date": "2025-04-10",
+        "Budget": 112000.0,
+        "Priority": "High",
+        "Description": "Enhance lead generation system capabilities with AI.",
+        "Created Date": "2024-08-20",
+        "Last Updated": "2025-04-05",
+        "Project Type": "Feature",
+        "Progress %": 0.7,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Marketing Dashboard Priority Fixes",
+        "Status": "Blocked",
+        "Start Date": "2025-05-05",
+        "End Date": "2025-06-25",
+        "Budget": 20500.0,
+        "Priority": "Critical",
+        "Description": "Prioritize fixes for critical marketing dashboard bugs.",
+        "Created Date": "2025-05-01",
+        "Last Updated": "2025-06-25",
+        "Project Type": "Bug Fix",
+        "Progress %": 0.15,
+        "Risk Level": "High",
+        "Project Health Indicator": "Red"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Campaign Content AI Review",
+        "Status": "Active",
+        "Start Date": "2025-01-20",
+        "End Date": "2025-07-05",
+        "Budget": 55000.0,
+        "Priority": "Medium",
+        "Description": "Review campaign content quality with AI support.",
+        "Created Date": "2025-01-15",
+        "Last Updated": "2025-07-01",
+        "Project Type": "Enhancement",
+        "Progress %": 0.55,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Customer AI Behavioral Data Analysis",
+        "Status": "Research",
+        "Start Date": "2024-12-01",
+        "End Date": "2025-08-10",
+        "Budget": 62000.0,
+        "Priority": "Medium",
+        "Description": "Analyze customer data behavior using AI systems.",
+        "Created Date": "2024-11-25",
+        "Last Updated": "2025-08-07",
+        "Project Type": "Research",
+        "Progress %": 0.7,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Digital Marketing Retainer Strategy",
+        "Status": "Planning",
+        "Start Date": "2025-04-10",
+        "End Date": "2025-10-15",
+        "Budget": 155000.0,
+        "Priority": "High",
+        "Description": "Strategy to enhance retainer marketing with AI tools.",
+        "Created Date": "2025-04-05",
+        "Last Updated": "2025-06-24",
+        "Project Type": "Retainer",
+        "Progress %": 0.15,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Website Security Upgrade Cycle",
+        "Status": "Active",
+        "Start Date": "2025-02-15",
+        "End Date": "2025-08-10",
+        "Budget": 22000.0,
+        "Priority": "Medium",
+        "Description": "Cycle to upgrade website security features and patches.",
+        "Created Date": "2025-02-10",
+        "Last Updated": "2025-07-05",
+        "Project Type": "Maintenance",
+        "Progress %": 0.8,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Customer Feedback Analytics Platform",
+        "Status": "Active",
+        "Start Date": "2024-09-25",
+        "End Date": "2025-07-05",
+        "Budget": 98000.0,
+        "Priority": "High",
+        "Description": "Deploy platform for AI-driven customer feedback analytics.",
+        "Created Date": "2024-09-20",
+        "Last Updated": "2025-07-01",
+        "Project Type": "Feature",
+        "Progress %": 0.75,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Email System Critical Issue Resolution",
+        "Status": "Blocked",
+        "Start Date": "2025-04-05",
+        "End Date": "2025-06-25",
+        "Budget": 21000.0,
+        "Priority": "Critical",
+        "Description": "Resolve critical email system issues impacting delivery.",
+        "Created Date": "2025-04-01",
+        "Last Updated": "2025-06-24",
+        "Project Type": "Bug Fix",
+        "Progress %": 0.2,
+        "Risk Level": "High",
+        "Project Health Indicator": "Red"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Content Strategy AI Renovation",
+        "Status": "Active",
+        "Start Date": "2024-12-20",
+        "End Date": "2025-06-30",
+        "Budget": 56000.0,
+        "Priority": "Medium",
+        "Description": "Renovate content strategy with enhanced AI insights.",
+        "Created Date": "2024-12-15",
+        "Last Updated": "2025-06-26",
+        "Project Type": "Enhancement",
+        "Progress %": 0.6,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Campaign AI Forecasting Implementation",
+        "Status": "Planning",
+        "Start Date": "2025-05-30",
+        "End Date": "2025-11-15",
+        "Budget": 98000.0,
+        "Priority": "High",
+        "Description": "Implement AI forecasting models for marketing campaigns.",
+        "Created Date": "2025-05-25",
+        "Last Updated": "2025-06-30",
+        "Project Type": "Research",
+        "Progress %": 0.1,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Client Retainer Marketing Service Growth",
+        "Status": "Active",
+        "Start Date": "2024-08-05",
+        "End Date": "2025-08-05",
+        "Budget": 170000.0,
+        "Priority": "High",
+        "Description": "Grow marketing services available under client retainers.",
+        "Created Date": "2024-08-01",
+        "Last Updated": "2025-07-30",
+        "Project Type": "Retainer",
+        "Progress %": 0.9,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "UI Maintenance and UX Overhaul",
+        "Status": "Active",
+        "Start Date": "2025-03-10",
+        "End Date": "2025-08-10",
+        "Budget": 23000.0,
+        "Priority": "Low",
+        "Description": "Overhaul UI and improve user experience alongside maintenance.",
+        "Created Date": "2025-03-05",
+        "Last Updated": "2025-07-05",
+        "Project Type": "Maintenance",
+        "Progress %": 0.85,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI-Driven Customer Insights",
+        "Status": "Active",
+        "Start Date": "2024-09-15",
+        "End Date": "2025-04-30",
+        "Budget": 45000,
+        "Priority": "High",
+        "Description": "Developing an AI platform to analyze customer behavior and predict trends for targeted marketing campaigns.",
+        "Created Date": "2024-08-20",
+        "Last Updated": "2025-06-15",
+        "Project Type": "Feature",
+        "Progress %": 0.75,
+        "Risk Level": "Medium",
+        "Project Health Indicator": "Green"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Social Media Automation Enhancement",
+        "Status": "Planning",
+        "Start Date": "2025-01-10",
+        "End Date": "2025-12-15",
+        "Budget": 32000,
+        "Priority": "Medium",
+        "Description": "Upgrading the existing automation tools to integrate new AI-based content suggestions and scheduling features.",
+        "Created Date": "2024-12-05",
+        "Last Updated": "2025-06-10",
+        "Project Type": "Enhancement",
+        "Progress %": 0.1,
+        "Risk Level": "Low",
+        "Project Health Indicator": "Yellow"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Website Bug Fix Sprint Q2",
+        "Status": "Active",
+        "Start Date": "2025-05-01",
+        "End Date": "2025-06-25",
+        "Budget": 8000,
+        "Priority": "Critical",
+        "Description": "Fixing critical bugs found in client websites to improve performance and user experience before the next campaign launch.",
+        "Created Date": "2025-04-20",
+        "Last Updated": "2025-06-20",
+        "Project Type": "Bug Fix",
+        "Progress %": 0.9,
+        "Risk Level": "High",
+        "Project Health Indicator": "Red"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+    "buckets": [
+        {
+            "name": "user-images",
+            "public": false,
+            "file_size_limit": 5242880,
+            "allowed_mime_types": [
+                "image/jpeg",
+                "image/png",
+                "image/webp"
+            ],
+            "owner_id": null
+        },
+        {
+            "name": "cdn",
+            "public": true,
+            "file_size_limit": 10485760,
+            "owner_id": null
+        }
+    ],
+    "paths": [
+        {
+            "bucket_name": "user-images",
+            "path": "user-images"
+        },
+        {
+            "bucket_name": "cdn",
+            "path": "cdn"
+        }
+    ]
+}

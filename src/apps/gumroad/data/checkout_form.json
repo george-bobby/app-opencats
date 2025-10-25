@@ -1,0 +1,29 @@
+{
+    "user_settings": {
+        "display_offer_code_field": true,
+        "recommendation_type": "gumroad_affiliates_products",
+        "tipping_enabled": true
+    },
+    "custom_fields": [
+        {
+            "id": null,
+            "type": "text",
+            "name": "What best describes your creative focus? (Photography/Videography/Design/Illustration/Other)",
+            "required": true,
+            "global": true,
+            "collect_per_product": false,
+            "products": [],
+            "key": "creative_focus"
+        },
+        {
+            "id": null,
+            "type": "text",
+            "name": "How did you hear about us? (Instagram/Pinterest/Google/Friend-Referral/Other)",
+            "required": false,
+            "global": true,
+            "collect_per_product": false,
+            "products": [],
+            "key": "referral_source"
+        }
+    ]
+}

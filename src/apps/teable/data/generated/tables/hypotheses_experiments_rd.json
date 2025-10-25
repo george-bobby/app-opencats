@@ -1,0 +1,1957 @@
+{
+  "table_name": "Hypotheses / Experiments",
+  "parent_workspace_name": "R&D",
+  "parent_base_name": "R&D",
+  "records": [
+    {
+      "fields": {
+        "Hypothesis Statement": "Personalized video ads increase click-through rates by 20% compared to standard ads.",
+        "Validation Method": "A/B Testing",
+        "Outcome": "In Progress",
+        "Start Date": "2025-04-15",
+        "End Date": "2025-09-10",
+        "Experiment Type": "Field",
+        "Status": "Active",
+        "Notes": "Using AI to generate personalized video content for targeted segments to measure CTR uplift.",
+        "Created Date": "2025-02-10"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Chatbot multilingual support improves user engagement metrics by at least 15%.",
+        "Validation Method": "User Interviews",
+        "Outcome": "In Progress",
+        "Start Date": "2025-05-01",
+        "End Date": "2025-10-20",
+        "Experiment Type": "Lab",
+        "Status": "Active",
+        "Notes": "Interviewing diverse users on chatbot interaction quality and satisfaction across languages.",
+        "Created Date": "2025-03-05"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-driven email campaigns generate 25% higher open rates than traditional campaigns.",
+        "Validation Method": "Analytics Review",
+        "Outcome": "Validated",
+        "Start Date": "2025-01-20",
+        "End Date": "2025-07-15",
+        "Experiment Type": "Simulation",
+        "Status": "Completed",
+        "Notes": "Analytics show consistent lift in open rates using AI subject line optimization.",
+        "Created Date": "2024-11-30"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Incorporating voice search optimization enhances organic traffic by 18%.",
+        "Validation Method": "Survey",
+        "Outcome": "In Progress",
+        "Start Date": "2025-03-18",
+        "End Date": "2025-11-15",
+        "Experiment Type": "Field",
+        "Status": "Active",
+        "Notes": "Surveying users on voice search usage and correlating with traffic increases.",
+        "Created Date": "2025-01-10"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated influencer identification reduces manual labor by 40% while maintaining quality.",
+        "Validation Method": "Observation Study",
+        "Outcome": "Inconclusive",
+        "Start Date": "2025-02-25",
+        "End Date": "2025-08-30",
+        "Experiment Type": "Lab",
+        "Status": "Active",
+        "Notes": "Tracking time savings and quality of influencer matches compared to manual process.",
+        "Created Date": "2024-12-20"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI sentiment analysis enhancement improves brand sentiment accuracy by 30%.",
+        "Validation Method": "Prototype Testing",
+        "Outcome": "Validated",
+        "Start Date": "2025-04-01",
+        "End Date": "2025-08-20",
+        "Experiment Type": "Simulation",
+        "Status": "Completed",
+        "Notes": "Prototype demonstrated higher precision in sentiment classification on social media data.",
+        "Created Date": "2025-01-15"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Real-time campaign analytics increase campaign adjustments by 50%, boosting ROI.",
+        "Validation Method": "A/B Testing",
+        "Outcome": "In Progress",
+        "Start Date": "2025-05-10",
+        "End Date": "2025-10-05",
+        "Experiment Type": "Field",
+        "Status": "Active",
+        "Notes": "Testing dashboard usage impact on campaign optimization speed and ROI.",
+        "Created Date": "2025-03-20"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated webinar promotions increase attendance by 22% over manual promotion methods.",
+        "Validation Method": "Analytics Review",
+        "Outcome": "Validated",
+        "Start Date": "2025-01-10",
+        "End Date": "2025-06-30",
+        "Experiment Type": "Field",
+        "Status": "Completed",
+        "Notes": "Analytics confirm higher registration and attendance through automated promotion tool.",
+        "Created Date": "2024-10-05"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Cross-channel marketing analysis identifies 3x more customer touchpoints than single-channel analysis.",
+        "Validation Method": "Observation Study",
+        "Outcome": "In Progress",
+        "Start Date": "2025-03-25",
+        "End Date": "2025-09-25",
+        "Experiment Type": "Lab",
+        "Status": "Active",
+        "Notes": "Observing data integrations across channels to map customer interactions comprehensively.",
+        "Created Date": "2024-12-15"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-powered lead scoring increases qualified lead conversion rate by at least 10%.",
+        "Validation Method": "A/B Testing",
+        "Outcome": "In Progress",
+        "Start Date": "2025-04-20",
+        "End Date": "2025-11-05",
+        "Experiment Type": "Simulation",
+        "Status": "Active",
+        "Notes": "Comparing AI lead scoring with traditional methods in field sales scenarios.",
+        "Created Date": "2025-01-25"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Dynamic pricing AI models improve pricing competitiveness by 15% without sacrificing margins.",
+        "Validation Method": "Analytics Review",
+        "Outcome": "Inconclusive",
+        "Start Date": "2025-02-28",
+        "End Date": "2025-08-15",
+        "Experiment Type": "Simulation",
+        "Status": "Active",
+        "Notes": "Monitoring pricing adjustments and profit impacts with AI dynamic pricing algorithms.",
+        "Created Date": "2024-11-18"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Personalized marketing automation reduces campaign turnaround time by 35%.",
+        "Validation Method": "Prototype Testing",
+        "Outcome": "Validated",
+        "Start Date": "2025-01-05",
+        "End Date": "2025-07-01",
+        "Experiment Type": "Lab",
+        "Status": "Completed",
+        "Notes": "Prototype workflow automation showed significant time savings in campaign setup.",
+        "Created Date": "2024-09-28"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI content gap analysis uncovers 25% more topical opportunities than manual review.",
+        "Validation Method": "User Interviews",
+        "Outcome": "Validated",
+        "Start Date": "2025-02-10",
+        "End Date": "2025-08-22",
+        "Experiment Type": "Simulation",
+        "Status": "Completed",
+        "Notes": "Interviews with content strategists confirm enhanced discovery of content opportunities.",
+        "Created Date": "2024-12-03"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated social media posting increases posting consistency by 40%.",
+        "Validation Method": "Analytics Review",
+        "Outcome": "Validated",
+        "Start Date": "2025-03-12",
+        "End Date": "2025-09-10",
+        "Experiment Type": "Field",
+        "Status": "Completed",
+        "Notes": "Posting frequency data shows improved consistency across client campaigns.",
+        "Created Date": "2025-01-18"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Real-time audience segmentation improves targeted ad relevance and reduces bounce rate by 12%.",
+        "Validation Method": "A/B Testing",
+        "Outcome": "In Progress",
+        "Start Date": "2025-04-22",
+        "End Date": "2025-09-30",
+        "Experiment Type": "Field",
+        "Status": "Active",
+        "Notes": "Testing impact of live segmentation on ad performance metrics.",
+        "Created Date": "2025-02-20"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Chatbot ROI analysis reveals a 15% cost saving in customer service operations.",
+        "Validation Method": "Analytics Review",
+        "Outcome": "Validated",
+        "Start Date": "2025-01-15",
+        "End Date": "2025-06-20",
+        "Experiment Type": "Lab",
+        "Status": "Completed",
+        "Notes": "Analysis of chatbot interaction costs versus traditional support channels.",
+        "Created Date": "2024-10-10"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Voice assistant marketing increases brand recall by 18% among target demographics.",
+        "Validation Method": "Survey",
+        "Outcome": "In Progress",
+        "Start Date": "2025-05-05",
+        "End Date": "2025-11-15",
+        "Experiment Type": "Field",
+        "Status": "Active",
+        "Notes": "Surveys conducted with voice assistant users on brand recall effectiveness.",
+        "Created Date": "2025-03-12"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated email list segmentation increases email relevance and improves click rate by 20%.",
+        "Validation Method": "A/B Testing",
+        "Outcome": "Validated",
+        "Start Date": "2025-02-05",
+        "End Date": "2025-08-01",
+        "Experiment Type": "Simulation",
+        "Status": "Completed",
+        "Notes": "Segmentation algorithms tested against generic lists showed better engagement.",
+        "Created Date": "2024-11-25"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-powered SEO strategy improves organic search rankings by 15 positions on average.",
+        "Validation Method": "Analytics Review",
+        "Outcome": "In Progress",
+        "Start Date": "2025-03-30",
+        "End Date": "2025-10-20",
+        "Experiment Type": "Field",
+        "Status": "Active",
+        "Notes": "SEO metrics monitored pre- and post-AI implementation across client sites.",
+        "Created Date": "2025-01-30"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated copywriting assistant reduces content creation time by 50% with quality maintained.",
+        "Validation Method": "Prototype Testing",
+        "Outcome": "Validated",
+        "Start Date": "2025-01-25",
+        "End Date": "2025-07-25",
+        "Experiment Type": "Lab",
+        "Status": "Completed",
+        "Notes": "Prototype tests show significant time savings with AI-generated drafts.",
+        "Created Date": "2024-10-20"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Predictive churn prevention models reduce customer churn rate by 10%.",
+        "Validation Method": "Analytics Review",
+        "Outcome": "In Progress",
+        "Start Date": "2025-04-10",
+        "End Date": "2025-11-15",
+        "Experiment Type": "Simulation",
+        "Status": "Active",
+        "Notes": "Monitoring churn trends among clients using predictive AI models.",
+        "Created Date": "2025-02-05"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Real-time competitor analysis enables 20% faster response to market changes.",
+        "Validation Method": "Observation Study",
+        "Outcome": "In Progress",
+        "Start Date": "2025-03-18",
+        "End Date": "2025-09-20",
+        "Experiment Type": "Field",
+        "Status": "Active",
+        "Notes": "Observing reaction time improvements with AI competitive insights dashboard.",
+        "Created Date": "2024-12-28"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Social media crisis detection AI reduces response time to negative events by 30%.",
+        "Validation Method": "Analytics Review",
+        "Outcome": "Validated",
+        "Start Date": "2025-01-12",
+        "End Date": "2025-06-25",
+        "Experiment Type": "Lab",
+        "Status": "Completed",
+        "Notes": "Response metrics improved significantly after AI detection integration.",
+        "Created Date": "2024-10-12"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated brand monitoring increases issue detection rate by 40%.",
+        "Validation Method": "Observation Study",
+        "Outcome": "Validated",
+        "Start Date": "2025-02-18",
+        "End Date": "2025-08-10",
+        "Experiment Type": "Simulation",
+        "Status": "Completed",
+        "Notes": "AI monitoring tool detects more brand mentions and issues than manual methods.",
+        "Created Date": "2024-11-15"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Dynamic email content AI increases engagement rates by 22%.",
+        "Validation Method": "A/B Testing",
+        "Outcome": "In Progress",
+        "Start Date": "2025-04-08",
+        "End Date": "2025-09-28",
+        "Experiment Type": "Field",
+        "Status": "Active",
+        "Notes": "Testing emails with AI-generated dynamic content against static emails.",
+        "Created Date": "2025-02-15"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-powered influencer outreach improves response rate by 25%.",
+        "Validation Method": "User Interviews",
+        "Outcome": "Validated",
+        "Start Date": "2025-01-28",
+        "End Date": "2025-07-20",
+        "Experiment Type": "Lab",
+        "Status": "Completed",
+        "Notes": "Influencers report higher engagement with AI-tailored outreach messages.",
+        "Created Date": "2024-10-28"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated lead nurturing increases lead conversion speed by 18%.",
+        "Validation Method": "Analytics Review",
+        "Outcome": "In Progress",
+        "Start Date": "2025-03-02",
+        "End Date": "2025-09-02",
+        "Experiment Type": "Field",
+        "Status": "Active",
+        "Notes": "Analyzing lead timelines before and after AI nurture workflows.",
+        "Created Date": "2025-01-20"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI chatbot training enhancement improves chatbot understanding accuracy by 14%.",
+        "Validation Method": "Prototype Testing",
+        "Outcome": "Validated",
+        "Start Date": "2025-02-15",
+        "End Date": "2025-08-05",
+        "Experiment Type": "Lab",
+        "Status": "Completed",
+        "Notes": "Training sessions enhanced chatbot NLP capabilities significantly.",
+        "Created Date": "2024-12-10"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated content localization increases engagement in new markets by 20%.",
+        "Validation Method": "A/B Testing",
+        "Outcome": "In Progress",
+        "Start Date": "2025-04-12",
+        "End Date": "2025-10-15",
+        "Experiment Type": "Field",
+        "Status": "Active",
+        "Notes": "Localized content tested against non-localized in emerging regions.",
+        "Created Date": "2025-02-18"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Customer loyalty prediction models improve retention program targeting by 30%.",
+        "Validation Method": "Analytics Review",
+        "Outcome": "In Progress",
+        "Start Date": "2025-03-22",
+        "End Date": "2025-10-10",
+        "Experiment Type": "Simulation",
+        "Status": "Active",
+        "Notes": "Predictive model effectiveness measured on retention campaign outcomes.",
+        "Created Date": "2025-01-28"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-driven social media growth tools increase follower growth rate by 25%.",
+        "Validation Method": "Analytics Review",
+        "Outcome": "Validated",
+        "Start Date": "2025-01-18",
+        "End Date": "2025-07-10",
+        "Experiment Type": "Field",
+        "Status": "Completed",
+        "Notes": "Follower analytics show accelerated growth using AI content recommendations.",
+        "Created Date": "2024-10-15"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Sentiment monitoring expansion improves early detection of negative trends by 35%.",
+        "Validation Method": "Observation Study",
+        "Outcome": "In Progress",
+        "Start Date": "2025-02-08",
+        "End Date": "2025-08-22",
+        "Experiment Type": "Lab",
+        "Status": "Active",
+        "Notes": "Expanded monitoring scope detects sentiment shifts more rapidly.",
+        "Created Date": "2024-12-22"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-powered content recommendations improve average session duration by 15%.",
+        "Validation Method": "A/B Testing",
+        "Outcome": "Validated",
+        "Start Date": "2025-01-30",
+        "End Date": "2025-07-25",
+        "Experiment Type": "Simulation",
+        "Status": "Completed",
+        "Notes": "Website analytics confirm longer engagement with AI-recommended articles.",
+        "Created Date": "2024-11-02"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Cross-device user tracking enhances user journey insights by 40%.",
+        "Validation Method": "Analytics Review",
+        "Outcome": "In Progress",
+        "Start Date": "2025-03-05",
+        "End Date": "2025-09-25",
+        "Experiment Type": "Field",
+        "Status": "Active",
+        "Notes": "Aggregated data from multiple devices improves behavioral analytics depth.",
+        "Created Date": "2025-01-10"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-based market segmentation increases campaign relevance and CTR by 18%.",
+        "Validation Method": "A/B Testing",
+        "Outcome": "In Progress",
+        "Start Date": "2025-04-01",
+        "End Date": "2025-10-15",
+        "Experiment Type": "Field",
+        "Status": "Active",
+        "Notes": "Segmented campaigns show higher CTR versus broad targeting.",
+        "Created Date": "2025-02-02"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated campaign scheduling improves scheduling efficiency by 50%.",
+        "Validation Method": "Prototype Testing",
+        "Outcome": "Validated",
+        "Start Date": "2025-01-22",
+        "End Date": "2025-07-10",
+        "Experiment Type": "Lab",
+        "Status": "Completed",
+        "Notes": "Scheduling tool prototype significantly reduces manual input time.",
+        "Created Date": "2024-10-25"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-enabled content curation increases content consumption rate by 20%.",
+        "Validation Method": "Analytics Review",
+        "Outcome": "Validated",
+        "Start Date": "2025-02-26",
+        "End Date": "2025-08-30",
+        "Experiment Type": "Simulation",
+        "Status": "Completed",
+        "Notes": "Curated content shows higher consumption versus non-curated controls.",
+        "Created Date": "2024-11-20"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Real-time ad performance AI increases campaign ROI by 12%.",
+        "Validation Method": "A/B Testing",
+        "Outcome": "In Progress",
+        "Start Date": "2025-03-15",
+        "End Date": "2025-09-15",
+        "Experiment Type": "Field",
+        "Status": "Active",
+        "Notes": "Testing AI-driven real-time bid adjustments against fixed bids.",
+        "Created Date": "2025-01-25"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated social media response improves response time by 40% and user satisfaction.",
+        "Validation Method": "Observation Study",
+        "Outcome": "In Progress",
+        "Start Date": "2025-04-10",
+        "End Date": "2025-10-20",
+        "Experiment Type": "Lab",
+        "Status": "Active",
+        "Notes": "Monitoring response speeds and satisfaction ratings post-automation.",
+        "Created Date": "2025-02-18"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Voice search content adaptation increases voice traffic by 25%.",
+        "Validation Method": "Analytics Review",
+        "Outcome": "In Progress",
+        "Start Date": "2025-02-15",
+        "End Date": "2025-09-05",
+        "Experiment Type": "Field",
+        "Status": "Active",
+        "Notes": "Analyzing traffic sources and voice search usage statistics.",
+        "Created Date": "2024-12-27"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Customer behavior AI analysis improves campaign targeting accuracy by 30%.",
+        "Validation Method": "Prototype Testing",
+        "Outcome": "Validated",
+        "Start Date": "2025-01-07",
+        "End Date": "2025-06-30",
+        "Experiment Type": "Simulation",
+        "Status": "Completed",
+        "Notes": "Prototype AI predicts customer interests better than baseline models.",
+        "Created Date": "2024-09-30"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-powered marketing automation reduces manual workflow steps by 45%.",
+        "Validation Method": "Observation Study",
+        "Outcome": "Validated",
+        "Start Date": "2025-03-01",
+        "End Date": "2025-08-25",
+        "Experiment Type": "Lab",
+        "Status": "Completed",
+        "Notes": "Observation confirms fewer manual inputs and faster campaign launches.",
+        "Created Date": "2024-11-15"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Predictive email engagement model increases click-through rates by 17%.",
+        "Validation Method": "A/B Testing",
+        "Outcome": "In Progress",
+        "Start Date": "2025-04-05",
+        "End Date": "2025-10-10",
+        "Experiment Type": "Simulation",
+        "Status": "Active",
+        "Notes": "Emails optimized with predictive model outperform control group.",
+        "Created Date": "2025-02-22"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-based competitor benchmarking improves market positioning strategies by 20%.",
+        "Validation Method": "User Interviews",
+        "Outcome": "Validated",
+        "Start Date": "2025-01-20",
+        "End Date": "2025-06-20",
+        "Experiment Type": "Lab",
+        "Status": "Completed",
+        "Notes": "Strategy teams report improved competitor insights facilitating decision making.",
+        "Created Date": "2024-10-12"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated content scheduling improves publishing consistency by 33%.",
+        "Validation Method": "Analytics Review",
+        "Outcome": "Validated",
+        "Start Date": "2025-02-08",
+        "End Date": "2025-08-12",
+        "Experiment Type": "Field",
+        "Status": "Completed",
+        "Notes": "Content calendar adherence increased with AI scheduling tool.",
+        "Created Date": "2024-11-28"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-powered brand awareness analysis improves detection of brand mentions by 40%.",
+        "Validation Method": "Observation Study",
+        "Outcome": "In Progress",
+        "Start Date": "2025-03-10",
+        "End Date": "2025-09-20",
+        "Experiment Type": "Simulation",
+        "Status": "Active",
+        "Notes": "Monitoring increased brand mention capture through AI tools.",
+        "Created Date": "2025-01-05"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated lead qualification reduces sales team review time by 30%.",
+        "Validation Method": "Prototype Testing",
+        "Outcome": "Validated",
+        "Start Date": "2025-01-25",
+        "End Date": "2025-07-18",
+        "Experiment Type": "Lab",
+        "Status": "Completed",
+        "Notes": "Prototype AI automatically filters non-qualified leads effectively.",
+        "Created Date": "2024-10-22"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Real-time social campaign tracking increases social engagement metrics by 20%.",
+        "Validation Method": "Analytics Review",
+        "Outcome": "In Progress",
+        "Start Date": "2025-04-12",
+        "End Date": "2025-10-25",
+        "Experiment Type": "Field",
+        "Status": "Active",
+        "Notes": "Live tracking enables faster campaign adjustments.",
+        "Created Date": "2025-02-10"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Chatbot engagement optimization increases session duration by 15%.",
+        "Validation Method": "User Interviews",
+        "Outcome": "Validated",
+        "Start Date": "2025-02-28",
+        "End Date": "2025-08-15",
+        "Experiment Type": "Lab",
+        "Status": "Completed",
+        "Notes": "User feedback indicates better engagement with updated chatbot flows.",
+        "Created Date": "2024-12-05"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated market trend reports reduce report generation time by 50%.",
+        "Validation Method": "Observation Study",
+        "Outcome": "Validated",
+        "Start Date": "2025-01-10",
+        "End Date": "2025-06-20",
+        "Experiment Type": "Simulation",
+        "Status": "Completed",
+        "Notes": "Time logs confirm significant reduction in manual report preparation.",
+        "Created Date": "2024-09-25"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-powered prospect scoring improves sales lead prioritization accuracy by 25%.",
+        "Validation Method": "A/B Testing",
+        "Outcome": "In Progress",
+        "Start Date": "2025-03-20",
+        "End Date": "2025-09-10",
+        "Experiment Type": "Simulation",
+        "Status": "Active",
+        "Notes": "Scoring model tested against traditional lead scoring methods.",
+        "Created Date": "2025-01-15"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Dynamic content delivery AI increases website engagement rates by 18%.",
+        "Validation Method": "A/B Testing",
+        "Outcome": "In Progress",
+        "Start Date": "2025-04-07",
+        "End Date": "2025-10-12",
+        "Experiment Type": "Field",
+        "Status": "Active",
+        "Notes": "Personalized content delivery tested versus static content pages.",
+        "Created Date": "2025-02-25"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI chatbot expansion into new platforms increases traffic by 22%.",
+        "Validation Method": "Analytics Review",
+        "Outcome": "Validated",
+        "Start Date": "2025-02-12",
+        "End Date": "2025-08-20",
+        "Experiment Type": "Field",
+        "Status": "Completed",
+        "Notes": "Expansion to multiple messaging channels shows traffic uplift.",
+        "Created Date": "2024-12-18"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated customer feedback analysis improves issue resolution speed by 30%.",
+        "Validation Method": "Observation Study",
+        "Outcome": "In Progress",
+        "Start Date": "2025-03-22",
+        "End Date": "2025-09-20",
+        "Experiment Type": "Lab",
+        "Status": "Active",
+        "Notes": "AI sentiment and topic detection accelerates customer service response.",
+        "Created Date": "2025-01-22"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Voice assistant marketing improves app usage frequency by 20%.",
+        "Validation Method": "Survey",
+        "Outcome": "In Progress",
+        "Start Date": "2025-04-15",
+        "End Date": "2025-10-30",
+        "Experiment Type": "Field",
+        "Status": "Active",
+        "Notes": "User surveys assess influence of voice marketing campaigns on app engagement.",
+        "Created Date": "2025-02-12"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-based click-through rate optimization increases CTR by 12%.",
+        "Validation Method": "A/B Testing",
+        "Outcome": "Validated",
+        "Start Date": "2025-01-22",
+        "End Date": "2025-07-15",
+        "Experiment Type": "Simulation",
+        "Status": "Completed",
+        "Notes": "CTR improvements confirmed with AI-driven ad copy and placement.",
+        "Created Date": "2024-10-28"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated content repurposing increases content output volume by 40%.",
+        "Validation Method": "Prototype Testing",
+        "Outcome": "Validated",
+        "Start Date": "2025-02-25",
+        "End Date": "2025-08-18",
+        "Experiment Type": "Lab",
+        "Status": "Completed",
+        "Notes": "Automated transformation of content into multiple formats tested successfully.",
+        "Created Date": "2024-11-15"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Predictive social media scheduling improves post engagement by 15%.",
+        "Validation Method": "A/B Testing",
+        "Outcome": "In Progress",
+        "Start Date": "2025-03-05",
+        "End Date": "2025-09-10",
+        "Experiment Type": "Field",
+        "Status": "Active",
+        "Notes": "Testing AI-scheduled posts compared to manual scheduling.",
+        "Created Date": "2025-01-20"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Customer journey AI mapping identifies 30% more bottlenecks than manual mapping.",
+        "Validation Method": "Observation Study",
+        "Outcome": "In Progress",
+        "Start Date": "2025-04-02",
+        "End Date": "2025-10-15",
+        "Experiment Type": "Simulation",
+        "Status": "Active",
+        "Notes": "AI analysis of user paths reveals additional friction points.",
+        "Created Date": "2025-02-05"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated email campaign testing reduces testing time by 40%.",
+        "Validation Method": "Prototype Testing",
+        "Outcome": "Validated",
+        "Start Date": "2025-01-18",
+        "End Date": "2025-07-05",
+        "Experiment Type": "Lab",
+        "Status": "Completed",
+        "Notes": "Testing automation accelerates A/B testing cycles.",
+        "Created Date": "2024-10-12"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-powered video ad testing improves ad engagement by 20%.",
+        "Validation Method": "A/B Testing",
+        "Outcome": "In Progress",
+        "Start Date": "2025-03-10",
+        "End Date": "2025-09-01",
+        "Experiment Type": "Field",
+        "Status": "Active",
+        "Notes": "Video ads optimized with AI outperform baseline videos.",
+        "Created Date": "2025-01-25"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Real-time campaign optimization increases conversion rate by 15%.",
+        "Validation Method": "Analytics Review",
+        "Outcome": "In Progress",
+        "Start Date": "2025-04-18",
+        "End Date": "2025-10-22",
+        "Experiment Type": "Field",
+        "Status": "Active",
+        "Notes": "Real-time adjustments tested against fixed campaign settings.",
+        "Created Date": "2025-02-20"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-based content performance metrics improve content strategy adjustments by 30%.",
+        "Validation Method": "Observation Study",
+        "Outcome": "Validated",
+        "Start Date": "2025-02-20",
+        "End Date": "2025-08-30",
+        "Experiment Type": "Simulation",
+        "Status": "Completed",
+        "Notes": "Performance data provides actionable insights for content teams.",
+        "Created Date": "2024-12-10"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Sentiment trends forecasting improves campaign timing accuracy by 20%.",
+        "Validation Method": "Prototype Testing",
+        "Outcome": "Validated",
+        "Start Date": "2025-01-28",
+        "End Date": "2025-07-18",
+        "Experiment Type": "Lab",
+        "Status": "Completed",
+        "Notes": "Forecasting models help schedule campaigns to align with sentiment peaks.",
+        "Created Date": "2024-11-05"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated brand monitoring identifies 25% more brand mentions in real time.",
+        "Validation Method": "Analytics Review",
+        "Outcome": "Validated",
+        "Start Date": "2025-03-15",
+        "End Date": "2025-09-10",
+        "Experiment Type": "Field",
+        "Status": "Completed",
+        "Notes": "Monitoring tool captures mentions faster and more comprehensively.",
+        "Created Date": "2025-01-08"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-enabled display ad targeting increases click-through rate by 18%.",
+        "Validation Method": "A/B Testing",
+        "Outcome": "In Progress",
+        "Start Date": "2025-04-01",
+        "End Date": "2025-10-10",
+        "Experiment Type": "Simulation",
+        "Status": "Active",
+        "Notes": "AI targeting compared to standard placement improves CTR.",
+        "Created Date": "2025-02-16"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Customer feedback sentiment AI improves issue categorization accuracy by 25%.",
+        "Validation Method": "Prototype Testing",
+        "Outcome": "Validated",
+        "Start Date": "2025-01-12",
+        "End Date": "2025-07-01",
+        "Experiment Type": "Lab",
+        "Status": "Completed",
+        "Notes": "AI classifier outperforms manual classification of feedback.",
+        "Created Date": "2024-10-20"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Real-time influencer engagement tracking improves campaign reach by 22%.",
+        "Validation Method": "Analytics Review",
+        "Outcome": "In Progress",
+        "Start Date": "2025-02-22",
+        "End Date": "2025-09-12",
+        "Experiment Type": "Field",
+        "Status": "Active",
+        "Notes": "Tracking engagement metrics enables influencer campaign adjustments.",
+        "Created Date": "2024-12-20"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated influencer campaign management reduces turnaround time by 35%.",
+        "Validation Method": "Observation Study",
+        "Outcome": "Validated",
+        "Start Date": "2025-03-05",
+        "End Date": "2025-08-30",
+        "Experiment Type": "Lab",
+        "Status": "Completed",
+        "Notes": "Automation speeds up influencer onboarding and content approval.",
+        "Created Date": "2025-01-15"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-based content strategy improves content ROI by 20%.",
+        "Validation Method": "Analytics Review",
+        "Outcome": "Validated",
+        "Start Date": "2025-01-30",
+        "End Date": "2025-07-20",
+        "Experiment Type": "Simulation",
+        "Status": "Completed",
+        "Notes": "Content aligned with AI strategy shows higher engagement and conversions.",
+        "Created Date": "2024-11-10"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Real-time ad spend tracking increases budget efficiency by 15%.",
+        "Validation Method": "Analytics Review",
+        "Outcome": "In Progress",
+        "Start Date": "2025-04-08",
+        "End Date": "2025-10-25",
+        "Experiment Type": "Field",
+        "Status": "Active",
+        "Notes": "Tracking allows quick reallocation of budget to high-performing ads.",
+        "Created Date": "2025-02-12"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Customer experience AI mapping improves UX issue detection by 40%.",
+        "Validation Method": "Prototype Testing",
+        "Outcome": "Validated",
+        "Start Date": "2025-02-12",
+        "End Date": "2025-08-22",
+        "Experiment Type": "Simulation",
+        "Status": "Completed",
+        "Notes": "AI identifies UX pain points not detected by manual reviews.",
+        "Created Date": "2024-12-01"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated video content creation increases video output by 30% while maintaining quality.",
+        "Validation Method": "Prototype Testing",
+        "Outcome": "Validated",
+        "Start Date": "2025-01-18",
+        "End Date": "2025-07-10",
+        "Experiment Type": "Lab",
+        "Status": "Completed",
+        "Notes": "Prototype AI generates videos faster with positive user feedback.",
+        "Created Date": "2024-10-22"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-powered marketing automation increases lead generation efficiency by 20%.",
+        "Validation Method": "Analytics Review",
+        "Outcome": "In Progress",
+        "Start Date": "2025-03-30",
+        "End Date": "2025-09-20",
+        "Experiment Type": "Field",
+        "Status": "Active",
+        "Notes": "Monitoring lead flow improvements post-automation implementation.",
+        "Created Date": "2025-01-30"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Voice search optimization strategy increases voice-based queries by 25%.",
+        "Validation Method": "Analytics Review",
+        "Outcome": "In Progress",
+        "Start Date": "2025-04-15",
+        "End Date": "2025-10-30",
+        "Experiment Type": "Field",
+        "Status": "Active",
+        "Notes": "Tracking voice search trends following SEO strategy deployment.",
+        "Created Date": "2025-02-20"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-based social media moderation reduces inappropriate content by 35%.",
+        "Validation Method": "Observation Study",
+        "Outcome": "Validated",
+        "Start Date": "2025-02-25",
+        "End Date": "2025-08-15",
+        "Experiment Type": "Lab",
+        "Status": "Completed",
+        "Notes": "Automation successfully flags inappropriate posts faster than manual moderation.",
+        "Created Date": "2024-11-15"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated customer retention models improve retention rate by 18%.",
+        "Validation Method": "Analytics Review",
+        "Outcome": "In Progress",
+        "Start Date": "2025-03-20",
+        "End Date": "2025-09-18",
+        "Experiment Type": "Simulation",
+        "Status": "Active",
+        "Notes": "Retention campaigns informed by models show higher success rates.",
+        "Created Date": "2025-01-25"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI influencer collaboration tools increase campaign content output by 22%.",
+        "Validation Method": "Prototype Testing",
+        "Outcome": "Validated",
+        "Start Date": "2025-01-28",
+        "End Date": "2025-07-15",
+        "Experiment Type": "Lab",
+        "Status": "Completed",
+        "Notes": "Tools facilitate more efficient co-created content production.",
+        "Created Date": "2024-10-30"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Campaign effectiveness AI improves ROI predictions by 30%.",
+        "Validation Method": "Analytics Review",
+        "Outcome": "Validated",
+        "Start Date": "2025-02-18",
+        "End Date": "2025-08-22",
+        "Experiment Type": "Simulation",
+        "Status": "Completed",
+        "Notes": "AI predictions closely align with actual campaign results.",
+        "Created Date": "2024-11-20"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Personalized ad creation AI increases ad relevance score by 20%.",
+        "Validation Method": "A/B Testing",
+        "Outcome": "In Progress",
+        "Start Date": "2025-04-05",
+        "End Date": "2025-10-10",
+        "Experiment Type": "Field",
+        "Status": "Active",
+        "Notes": "AI-generated ads tested against generic ads for relevance and engagement.",
+        "Created Date": "2025-02-15"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated email personalization increases conversion rate by 15%.",
+        "Validation Method": "A/B Testing",
+        "Outcome": "Validated",
+        "Start Date": "2025-01-20",
+        "End Date": "2025-07-05",
+        "Experiment Type": "Simulation",
+        "Status": "Completed",
+        "Notes": "Personalized emails outperform control group in conversions.",
+        "Created Date": "2024-10-15"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Predictive analytics for sales improves forecasting accuracy by 25%.",
+        "Validation Method": "Prototype Testing",
+        "Outcome": "Validated",
+        "Start Date": "2025-02-10",
+        "End Date": "2025-08-01",
+        "Experiment Type": "Simulation",
+        "Status": "Completed",
+        "Notes": "Prototype model shows improved sales forecast compared to past methods.",
+        "Created Date": "2024-11-10"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Social media influencer ROI analysis identifies 20% more effective influencers.",
+        "Validation Method": "Analytics Review",
+        "Outcome": "In Progress",
+        "Start Date": "2025-03-12",
+        "End Date": "2025-09-20",
+        "Experiment Type": "Field",
+        "Status": "Active",
+        "Notes": "ROI data used to refine influencer selection for campaigns.",
+        "Created Date": "2025-01-18"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated webinar promotions increase audience registrations by 25%.",
+        "Validation Method": "A/B Testing",
+        "Outcome": "Validated",
+        "Start Date": "2025-01-28",
+        "End Date": "2025-07-25",
+        "Experiment Type": "Field",
+        "Status": "Completed",
+        "Notes": "Automated campaigns outperform manual in registrations and attendance.",
+        "Created Date": "2024-10-28"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Customer journey mapping AI improves journey visualization accuracy by 35%.",
+        "Validation Method": "Observation Study",
+        "Outcome": "Validated",
+        "Start Date": "2025-02-20",
+        "End Date": "2025-08-15",
+        "Experiment Type": "Simulation",
+        "Status": "Completed",
+        "Notes": "AI-generated mappings reveal more detailed customer touchpoints.",
+        "Created Date": "2024-11-22"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-powered UX testing reduces test cycle time by 40%.",
+        "Validation Method": "Prototype Testing",
+        "Outcome": "Validated",
+        "Start Date": "2025-01-15",
+        "End Date": "2025-07-10",
+        "Experiment Type": "Lab",
+        "Status": "Completed",
+        "Notes": "Testing tools automate UX feedback collection and analysis.",
+        "Created Date": "2024-10-05"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated copywriting assistant improves content output by 30% with maintained quality.",
+        "Validation Method": "Prototype Testing",
+        "Outcome": "Validated",
+        "Start Date": "2025-03-05",
+        "End Date": "2025-09-01",
+        "Experiment Type": "Lab",
+        "Status": "Completed",
+        "Notes": "AI drafts reduce writer workload and increase content frequency.",
+        "Created Date": "2025-01-10"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Real-time competitor analysis reduces time to market response by 25%.",
+        "Validation Method": "Observation Study",
+        "Outcome": "In Progress",
+        "Start Date": "2025-04-10",
+        "End Date": "2025-10-20",
+        "Experiment Type": "Field",
+        "Status": "Active",
+        "Notes": "Companies reacting faster to competitor moves with AI insights.",
+        "Created Date": "2025-02-20"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-powered content recommendations increase repeat visitor rate by 18%.",
+        "Validation Method": "Analytics Review",
+        "Outcome": "Validated",
+        "Start Date": "2025-01-22",
+        "End Date": "2025-07-15",
+        "Experiment Type": "Simulation",
+        "Status": "Completed",
+        "Notes": "Recommendation engine boosts user return visits.",
+        "Created Date": "2024-11-12"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-driven sentiment analysis will improve social media engagement rates",
+        "Validation Method": "Analytics Review",
+        "Outcome": "In Progress",
+        "Start Date": "2025-04-15",
+        "End Date": "2025-11-05",
+        "Experiment Type": "Simulation",
+        "Status": "Active",
+        "Notes": "Initial data shows promising trends for sentiment accuracy improvements.",
+        "Created Date": "2025-03-20"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Personalized email campaigns powered by AI increase open rates by 15%",
+        "Validation Method": "A/B Testing",
+        "Outcome": "Validated",
+        "Start Date": "2025-05-10",
+        "End Date": "2025-09-12",
+        "Experiment Type": "Lab",
+        "Status": "Completed",
+        "Notes": "Test groups showed a 17% increase over control; results consistent across segments.",
+        "Created Date": "2025-02-15"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Chatbot multilingual support enhances customer satisfaction scores",
+        "Validation Method": "User Interviews",
+        "Outcome": "In Progress",
+        "Start Date": "2025-03-30",
+        "End Date": "2025-10-01",
+        "Experiment Type": "Field",
+        "Status": "Active",
+        "Notes": "Interviews reveal positive feedback but some issues with language nuance.",
+        "Created Date": "2025-01-25"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Implementing AI-based dynamic pricing will increase revenue during peak hours",
+        "Validation Method": "Analytics Review",
+        "Outcome": "Inconclusive",
+        "Start Date": "2025-02-28",
+        "End Date": "2025-08-15",
+        "Experiment Type": "Simulation",
+        "Status": "Active",
+        "Notes": "Revenue impact varies widely between product categories; more data needed.",
+        "Created Date": "2024-12-30"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated influencer identification will reduce campaign lead time by 20%",
+        "Validation Method": "Observation Study",
+        "Outcome": "Validated",
+        "Start Date": "2025-04-05",
+        "End Date": "2025-07-20",
+        "Experiment Type": "Field",
+        "Status": "Completed",
+        "Notes": "Lead time reduced by 22%, improving campaign planning efficiency significantly.",
+        "Created Date": "2025-01-10"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Voice search optimization increases website traffic among mobile users",
+        "Validation Method": "Analytics Review",
+        "Outcome": "In Progress",
+        "Start Date": "2025-06-01",
+        "End Date": "2025-12-01",
+        "Experiment Type": "Simulation",
+        "Status": "Active",
+        "Notes": "Early metrics show 10% traffic increase, focusing on local search terms.",
+        "Created Date": "2025-05-15"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-based content personalization boosts video ad conversion rates",
+        "Validation Method": "A/B Testing",
+        "Outcome": "Validated",
+        "Start Date": "2025-03-18",
+        "End Date": "2025-09-10",
+        "Experiment Type": "Lab",
+        "Status": "Completed",
+        "Notes": "Conversion rates improved by 18% in test groups compared to generic ads.",
+        "Created Date": "2024-11-20"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated social media posting improves post frequency without quality loss",
+        "Validation Method": "Observation Study",
+        "Outcome": "In Progress",
+        "Start Date": "2025-05-22",
+        "End Date": "2025-10-22",
+        "Experiment Type": "Field",
+        "Status": "Active",
+        "Notes": "Post frequency increased by 35%, engagement metrics stable so far.",
+        "Created Date": "2025-02-28"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Predictive customer engagement models reduce churn rates by 10%",
+        "Validation Method": "Survey",
+        "Outcome": "Inconclusive",
+        "Start Date": "2025-01-15",
+        "End Date": "2025-07-15",
+        "Experiment Type": "Simulation",
+        "Status": "Completed",
+        "Notes": "Survey responses mixed; churn trend unclear due to external factors.",
+        "Created Date": "2024-12-01"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-powered SEO strategy improves organic search rankings within 3 months",
+        "Validation Method": "Analytics Review",
+        "Outcome": "Validated",
+        "Start Date": "2025-03-05",
+        "End Date": "2025-08-31",
+        "Experiment Type": "Simulation",
+        "Status": "Completed",
+        "Notes": "Key keywords saw average ranking improvement of 5 positions.",
+        "Created Date": "2024-11-15"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated webinar promotions increase attendance rates by at least 12%",
+        "Validation Method": "A/B Testing",
+        "Outcome": "Validated",
+        "Start Date": "2025-04-10",
+        "End Date": "2025-09-30",
+        "Experiment Type": "Lab",
+        "Status": "Completed",
+        "Notes": "Test webinars had 15% higher attendance vs manually promoted ones.",
+        "Created Date": "2025-01-05"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Real-time campaign analytics enable faster marketing adjustments",
+        "Validation Method": "User Interviews",
+        "Outcome": "In Progress",
+        "Start Date": "2025-06-10",
+        "End Date": "2025-11-20",
+        "Experiment Type": "Field",
+        "Status": "Active",
+        "Notes": "Users report better decision-making; some dashboard usability improvements needed.",
+        "Created Date": "2025-04-01"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-based market segmentation improves targeting accuracy by 25%",
+        "Validation Method": "Analytics Review",
+        "Outcome": "Validated",
+        "Start Date": "2025-02-10",
+        "End Date": "2025-08-10",
+        "Experiment Type": "Simulation",
+        "Status": "Completed",
+        "Notes": "Targeting precision increased, reflected in higher engagement rates.",
+        "Created Date": "2024-12-15"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated copywriting assistant reduces content creation time by half",
+        "Validation Method": "Observation Study",
+        "Outcome": "Validated",
+        "Start Date": "2025-05-01",
+        "End Date": "2025-07-30",
+        "Experiment Type": "Field",
+        "Status": "Completed",
+        "Notes": "Content teams report 50-55% time savings on draft creation phases.",
+        "Created Date": "2025-02-20"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-powered lead scoring improves sales conversion rates",
+        "Validation Method": "Analytics Review",
+        "Outcome": "In Progress",
+        "Start Date": "2025-03-25",
+        "End Date": "2025-09-25",
+        "Experiment Type": "Simulation",
+        "Status": "Active",
+        "Notes": "Conversion rates trending upward; ongoing calibration of model thresholds.",
+        "Created Date": "2025-01-15"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Social listening expansion enhances sentiment detection accuracy",
+        "Validation Method": "User Interviews",
+        "Outcome": "Validated",
+        "Start Date": "2025-04-20",
+        "End Date": "2025-10-10",
+        "Experiment Type": "Field",
+        "Status": "Completed",
+        "Notes": "Interviewees confirm improved sentiment insights for brand health monitoring.",
+        "Created Date": "2025-02-05"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Dynamic content delivery increases on-site engagement duration",
+        "Validation Method": "A/B Testing",
+        "Outcome": "Validated",
+        "Start Date": "2025-01-25",
+        "End Date": "2025-07-25",
+        "Experiment Type": "Lab",
+        "Status": "Completed",
+        "Notes": "Engagement duration increased by 20% in dynamic content group.",
+        "Created Date": "2024-11-30"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-powered chatbot expansion boosts lead capture efficiency",
+        "Validation Method": "Analytics Review",
+        "Outcome": "In Progress",
+        "Start Date": "2025-06-05",
+        "End Date": "2025-12-05",
+        "Experiment Type": "Simulation",
+        "Status": "Active",
+        "Notes": "Lead capture rate improving steadily; UX enhancements ongoing.",
+        "Created Date": "2025-04-10"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated brand monitoring detects reputation issues faster",
+        "Validation Method": "Observation Study",
+        "Outcome": "Validated",
+        "Start Date": "2025-02-15",
+        "End Date": "2025-08-15",
+        "Experiment Type": "Field",
+        "Status": "Completed",
+        "Notes": "Detection speed improved by 30% compared to manual monitoring.",
+        "Created Date": "2024-12-20"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Real-time competitor analysis aids in rapid strategy adjustments",
+        "Validation Method": "User Interviews",
+        "Outcome": "In Progress",
+        "Start Date": "2025-03-12",
+        "End Date": "2025-09-12",
+        "Experiment Type": "Field",
+        "Status": "Active",
+        "Notes": "Marketing teams find data actionable; some data integration issues noted.",
+        "Created Date": "2025-01-08"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-based click-through rate optimization increases ad CTR by 10%",
+        "Validation Method": "A/B Testing",
+        "Outcome": "Validated",
+        "Start Date": "2025-05-18",
+        "End Date": "2025-11-18",
+        "Experiment Type": "Lab",
+        "Status": "Completed",
+        "Notes": "CTR improved by 11.2% in optimized ads over baseline.",
+        "Created Date": "2025-03-01"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated market trend reports improve forecasting accuracy",
+        "Validation Method": "Analytics Review",
+        "Outcome": "Validated",
+        "Start Date": "2025-04-25",
+        "End Date": "2025-10-25",
+        "Experiment Type": "Simulation",
+        "Status": "Completed",
+        "Notes": "Forecast variance reduced by 15% compared to previous models.",
+        "Created Date": "2025-02-10"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Customer lifetime value prediction enhances marketing ROI",
+        "Validation Method": "Survey",
+        "Outcome": "Inconclusive",
+        "Start Date": "2025-01-30",
+        "End Date": "2025-07-30",
+        "Experiment Type": "Simulation",
+        "Status": "Completed",
+        "Notes": "Survey feedback mixed; ROI improvement not statistically significant yet.",
+        "Created Date": "2024-12-05"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Voice assistant marketing increases conversion rates on mobile",
+        "Validation Method": "Analytics Review",
+        "Outcome": "In Progress",
+        "Start Date": "2025-06-12",
+        "End Date": "2025-12-12",
+        "Experiment Type": "Simulation",
+        "Status": "Active",
+        "Notes": "Conversions rising for voice-enabled queries; monitoring ongoing.",
+        "Created Date": "2025-04-18"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Predictive social media scheduling improves post engagement",
+        "Validation Method": "A/B Testing",
+        "Outcome": "Validated",
+        "Start Date": "2025-03-02",
+        "End Date": "2025-09-02",
+        "Experiment Type": "Lab",
+        "Status": "Completed",
+        "Notes": "Engagement rates up by 14% for AI-scheduled posts.",
+        "Created Date": "2024-11-28"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated lead nurturing increases qualified leads by 20%",
+        "Validation Method": "Analytics Review",
+        "Outcome": "Validated",
+        "Start Date": "2025-02-22",
+        "End Date": "2025-08-22",
+        "Experiment Type": "Simulation",
+        "Status": "Completed",
+        "Notes": "Qualified leads increased by 21% over previous manual process.",
+        "Created Date": "2024-12-18"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-powered video ad testing shortens production cycles",
+        "Validation Method": "Observation Study",
+        "Outcome": "Validated",
+        "Start Date": "2025-04-12",
+        "End Date": "2025-09-30",
+        "Experiment Type": "Field",
+        "Status": "Completed",
+        "Notes": "Production time reduced by 25% with AI testing integration.",
+        "Created Date": "2025-01-22"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Real-time audience segmentation improves targeting precision",
+        "Validation Method": "Analytics Review",
+        "Outcome": "Validated",
+        "Start Date": "2025-05-05",
+        "End Date": "2025-11-05",
+        "Experiment Type": "Simulation",
+        "Status": "Completed",
+        "Notes": "Precision metrics improved by 18% compared to batch segments.",
+        "Created Date": "2025-02-28"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-powered content recommendations increase click-through rates",
+        "Validation Method": "A/B Testing",
+        "Outcome": "Validated",
+        "Start Date": "2025-03-28",
+        "End Date": "2025-09-28",
+        "Experiment Type": "Lab",
+        "Status": "Completed",
+        "Notes": "CTR uplift averaged 16% across tested content types.",
+        "Created Date": "2025-01-12"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated customer feedback analysis identifies trends faster",
+        "Validation Method": "Observation Study",
+        "Outcome": "Validated",
+        "Start Date": "2025-04-18",
+        "End Date": "2025-10-18",
+        "Experiment Type": "Field",
+        "Status": "Completed",
+        "Notes": "Trend identification time reduced by approximately 40%.",
+        "Created Date": "2025-02-05"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI chatbot training enhancements improve response accuracy",
+        "Validation Method": "User Interviews",
+        "Outcome": "In Progress",
+        "Start Date": "2025-05-15",
+        "End Date": "2025-11-15",
+        "Experiment Type": "Field",
+        "Status": "Active",
+        "Notes": "Users report more accurate responses; ongoing training data updates.",
+        "Created Date": "2025-03-01"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated campaign scheduling reduces manual errors",
+        "Validation Method": "Observation Study",
+        "Outcome": "Validated",
+        "Start Date": "2025-01-20",
+        "End Date": "2025-07-20",
+        "Experiment Type": "Field",
+        "Status": "Completed",
+        "Notes": "Error rate dropped by 35% after scheduling automation.",
+        "Created Date": "2024-11-10"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-based competitor benchmarking offers timely market insights",
+        "Validation Method": "Analytics Review",
+        "Outcome": "Validated",
+        "Start Date": "2025-02-05",
+        "End Date": "2025-08-05",
+        "Experiment Type": "Simulation",
+        "Status": "Completed",
+        "Notes": "Benchmark reports delivered 20% faster with AI tools in place.",
+        "Created Date": "2024-12-01"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Dynamic pricing AI models increase average order value",
+        "Validation Method": "A/B Testing",
+        "Outcome": "In Progress",
+        "Start Date": "2025-06-10",
+        "End Date": "2025-12-10",
+        "Experiment Type": "Lab",
+        "Status": "Active",
+        "Notes": "Initial uplift of 7% in order value; seasonality effects noted.",
+        "Created Date": "2025-04-20"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated social media response improves customer satisfaction",
+        "Validation Method": "User Interviews",
+        "Outcome": "Validated",
+        "Start Date": "2025-03-22",
+        "End Date": "2025-09-22",
+        "Experiment Type": "Field",
+        "Status": "Completed",
+        "Notes": "Faster response times correlated with higher satisfaction ratings.",
+        "Created Date": "2025-01-18"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-powered prospect scoring improves sales forecasting accuracy",
+        "Validation Method": "Analytics Review",
+        "Outcome": "Validated",
+        "Start Date": "2025-04-08",
+        "End Date": "2025-10-08",
+        "Experiment Type": "Simulation",
+        "Status": "Completed",
+        "Notes": "Forecast accuracy improved by 12% using AI scoring models.",
+        "Created Date": "2025-02-15"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Real-time social campaign tracking increases campaign agility",
+        "Validation Method": "Observation Study",
+        "Outcome": "In Progress",
+        "Start Date": "2025-05-25",
+        "End Date": "2025-11-25",
+        "Experiment Type": "Field",
+        "Status": "Active",
+        "Notes": "Campaign managers able to pivot tactics more rapidly with data.",
+        "Created Date": "2025-03-10"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-powered brand awareness analysis improves PR strategies",
+        "Validation Method": "User Interviews",
+        "Outcome": "Validated",
+        "Start Date": "2025-02-18",
+        "End Date": "2025-08-18",
+        "Experiment Type": "Field",
+        "Status": "Completed",
+        "Notes": "Insights led to adjustments in messaging that increased reach by 10%.",
+        "Created Date": "2024-12-28"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Voice search content adaptation improves mobile search rankings",
+        "Validation Method": "Analytics Review",
+        "Outcome": "In Progress",
+        "Start Date": "2025-06-01",
+        "End Date": "2025-12-01",
+        "Experiment Type": "Simulation",
+        "Status": "Active",
+        "Notes": "Rankings for voice queries improving steadily; ongoing optimization.",
+        "Created Date": "2025-04-15"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Customer journey AI mapping reveals key drop-off points",
+        "Validation Method": "Analytics Review",
+        "Outcome": "Validated",
+        "Start Date": "2025-03-15",
+        "End Date": "2025-09-15",
+        "Experiment Type": "Simulation",
+        "Status": "Completed",
+        "Notes": "Mapping enabled targeted interventions that reduced drop-offs by 8%.",
+        "Created Date": "2025-01-10"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated content scheduling increases consistency in posting",
+        "Validation Method": "Observation Study",
+        "Outcome": "Validated",
+        "Start Date": "2025-04-28",
+        "End Date": "2025-10-28",
+        "Experiment Type": "Field",
+        "Status": "Completed",
+        "Notes": "Posting consistency improved by 30%, contributing to higher engagement.",
+        "Created Date": "2025-02-18"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-powered influencer outreach increases campaign reach",
+        "Validation Method": "Analytics Review",
+        "Outcome": "Validated",
+        "Start Date": "2025-05-12",
+        "End Date": "2025-11-12",
+        "Experiment Type": "Simulation",
+        "Status": "Completed",
+        "Notes": "Reach increased by 22% compared to previous manual outreach.",
+        "Created Date": "2025-03-05"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Chatbot conversion optimization increases lead capture rate",
+        "Validation Method": "A/B Testing",
+        "Outcome": "Validated",
+        "Start Date": "2025-01-30",
+        "End Date": "2025-07-30",
+        "Experiment Type": "Lab",
+        "Status": "Completed",
+        "Notes": "Lead capture improved by 19% using optimized chatbot scripts.",
+        "Created Date": "2024-12-10"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-based content gap analysis improves content planning",
+        "Validation Method": "User Interviews",
+        "Outcome": "Validated",
+        "Start Date": "2025-03-01",
+        "End Date": "2025-09-01",
+        "Experiment Type": "Field",
+        "Status": "Completed",
+        "Notes": "Teams used insights to fill strategic content gaps effectively.",
+        "Created Date": "2024-11-25"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated email list segmentation increases campaign targeting precision",
+        "Validation Method": "Analytics Review",
+        "Outcome": "Validated",
+        "Start Date": "2025-02-12",
+        "End Date": "2025-08-12",
+        "Experiment Type": "Simulation",
+        "Status": "Completed",
+        "Notes": "Target precision improved by 17%, boosting response rates.",
+        "Created Date": "2024-12-08"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-powered loyalty programs enhance repeat purchase rates",
+        "Validation Method": "Analytics Review",
+        "Outcome": "In Progress",
+        "Start Date": "2025-06-07",
+        "End Date": "2025-12-07",
+        "Experiment Type": "Simulation",
+        "Status": "Active",
+        "Notes": "Preliminary data shows uplift in repeat purchases among program users.",
+        "Created Date": "2025-04-25"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Real-time ad performance AI optimizes budget allocation effectively",
+        "Validation Method": "Analytics Review",
+        "Outcome": "Validated",
+        "Start Date": "2025-04-18",
+        "End Date": "2025-10-18",
+        "Experiment Type": "Simulation",
+        "Status": "Completed",
+        "Notes": "Budget reallocation improved ROI by 13% during test period.",
+        "Created Date": "2025-02-20"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated market segmentation refines audience targeting",
+        "Validation Method": "Analytics Review",
+        "Outcome": "Validated",
+        "Start Date": "2025-03-22",
+        "End Date": "2025-09-22",
+        "Experiment Type": "Simulation",
+        "Status": "Completed",
+        "Notes": "Segmentation granularity improved, aiding campaign effectiveness.",
+        "Created Date": "2025-01-30"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-enabled display ad targeting increases click-through rate",
+        "Validation Method": "A/B Testing",
+        "Outcome": "Validated",
+        "Start Date": "2025-05-16",
+        "End Date": "2025-11-16",
+        "Experiment Type": "Lab",
+        "Status": "Completed",
+        "Notes": "CTR increased by 14% with AI targeting compared to control.",
+        "Created Date": "2025-03-02"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Customer feedback sentiment AI provides actionable insights faster",
+        "Validation Method": "User Interviews",
+        "Outcome": "Validated",
+        "Start Date": "2025-01-28",
+        "End Date": "2025-07-28",
+        "Experiment Type": "Field",
+        "Status": "Completed",
+        "Notes": "Feedback turnaround times reduced substantially, improving responsiveness.",
+        "Created Date": "2024-12-05"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated social listening expansion improves brand monitoring",
+        "Validation Method": "Observation Study",
+        "Outcome": "Validated",
+        "Start Date": "2025-04-22",
+        "End Date": "2025-10-22",
+        "Experiment Type": "Field",
+        "Status": "Completed",
+        "Notes": "Monitoring coverage expanded by 40%, capturing more relevant mentions.",
+        "Created Date": "2025-02-12"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-based competitor pricing analysis enhances pricing strategy",
+        "Validation Method": "Analytics Review",
+        "Outcome": "In Progress",
+        "Start Date": "2025-03-10",
+        "End Date": "2025-09-10",
+        "Experiment Type": "Simulation",
+        "Status": "Active",
+        "Notes": "Preliminary pricing adjustments are aligning with competitive benchmarks.",
+        "Created Date": "2025-01-20"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated lead qualification reduces sales funnel time",
+        "Validation Method": "Observation Study",
+        "Outcome": "Validated",
+        "Start Date": "2025-05-05",
+        "End Date": "2025-11-05",
+        "Experiment Type": "Field",
+        "Status": "Completed",
+        "Notes": "Sales funnel duration reduced by 18% post-automation.",
+        "Created Date": "2025-03-01"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Voice search analytics improves marketing campaign targeting",
+        "Validation Method": "Analytics Review",
+        "Outcome": "In Progress",
+        "Start Date": "2025-06-03",
+        "End Date": "2025-12-03",
+        "Experiment Type": "Simulation",
+        "Status": "Active",
+        "Notes": "Voice search trends are guiding keyword strategy updates.",
+        "Created Date": "2025-04-22"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-powered user engagement increases average session duration",
+        "Validation Method": "Analytics Review",
+        "Outcome": "Validated",
+        "Start Date": "2025-01-18",
+        "End Date": "2025-07-18",
+        "Experiment Type": "Simulation",
+        "Status": "Completed",
+        "Notes": "Session duration increased by 13% for AI-engaged users.",
+        "Created Date": "2024-11-15"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated social media crisis detection reduces response time",
+        "Validation Method": "Observation Study",
+        "Outcome": "Validated",
+        "Start Date": "2025-02-25",
+        "End Date": "2025-08-25",
+        "Experiment Type": "Field",
+        "Status": "Completed",
+        "Notes": "Crisis response times reduced from hours to minutes.",
+        "Created Date": "2024-12-22"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Predictive email engagement improves open and click rates",
+        "Validation Method": "A/B Testing",
+        "Outcome": "Validated",
+        "Start Date": "2025-04-06",
+        "End Date": "2025-10-06",
+        "Experiment Type": "Lab",
+        "Status": "Completed",
+        "Notes": "Open rates increased by 12%, click rates by 9%.",
+        "Created Date": "2025-02-01"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI-based social media moderation reduces negative comments",
+        "Validation Method": "Analytics Review",
+        "Outcome": "Validated",
+        "Start Date": "2025-03-20",
+        "End Date": "2025-09-20",
+        "Experiment Type": "Simulation",
+        "Status": "Completed",
+        "Notes": "Negative comment volume dropped by 28% due to automated moderation.",
+        "Created Date": "2025-01-05"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Automated customer retention models improve retention by 8%",
+        "Validation Method": "Analytics Review",
+        "Outcome": "Validated",
+        "Start Date": "2025-05-12",
+        "End Date": "2025-11-12",
+        "Experiment Type": "Simulation",
+        "Status": "Completed",
+        "Notes": "Retention rates increased by 8.5% in targeted segments.",
+        "Created Date": "2025-03-15"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "AI influencer collaboration tools enhance campaign creativity",
+        "Validation Method": "User Interviews",
+        "Outcome": "In Progress",
+        "Start Date": "2025-06-15",
+        "End Date": "2025-12-15",
+        "Experiment Type": "Field",
+        "Status": "Active",
+        "Notes": "Feedback positive but collaborative workflow needs refinement.",
+        "Created Date": "2025-04-30"
+      }
+    },
+    {
+      "fields": {
+        "Hypothesis Statement": "Campaign personalization algorithms increase customer engagement",
+        "Validation Method": "A/B Testing",
+        "Outcome": "Validated",
+        "Start Date": "2025-02-08",
+        "End Date": "2025-08-08",
+        "Experiment Type": "Lab",
+        "Status": "Completed",
+        "Notes": "Engagement increased by 19% with personalized campaigns.",
+        "Created Date": "2024-12-18"
+      }
+    }
+  ]
+}

@@ -1,0 +1,4326 @@
+[
+    {
+        "name": "Clients",
+        "parent_base_name": "Client Projects",
+        "parent_workspace_name": "Client Projects",
+        "row_count": 150,
+        "fields": [
+            {
+                "name": "Client Name",
+                "type": "singleLineText",
+                "prompt": "should be a name of a client, for example Meta Inc."
+            },
+            {
+                "name": "Industry",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "E-commerce",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "SaaS",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Healthcare",
+                            "color": "red"
+                        },
+                        {
+                            "name": "Finance",
+                            "color": "purple"
+                        },
+                        {
+                            "name": "Education",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "Manufacturing",
+                            "color": "orange"
+                        },
+                        {
+                            "name": "Retail",
+                            "color": "cyan"
+                        },
+                        {
+                            "name": "Media & Entertainment",
+                            "color": "purple"
+                        },
+                        {
+                            "name": "Technology",
+                            "color": "teal"
+                        },
+                        {
+                            "name": "Consulting",
+                            "color": "gray"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Location",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Primary Contact",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Email",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Phone",
+                "type": "singleLineText",
+                "prompt": "should be a phone number in format (###) ###-####, make it random"
+            },
+            {
+                "name": "Company Size",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Startup (1-10)",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Small (11-50)",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Medium (51-200)",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "Large (201-1000)",
+                            "color": "orange"
+                        },
+                        {
+                            "name": "Enterprise (1000+)",
+                            "color": "red"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Status",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Active",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Inactive",
+                            "color": "red"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Last Activity Date",
+                "type": "date",
+                "prompt": "should be a date between 2 years ago and today"
+            },
+            {
+                "name": "Contract Value",
+                "type": "number",
+                "options": {
+                    "formatting": {
+                        "precision": 2,
+                        "type": "currency",
+                        "symbol": "$"
+                    }
+                },
+                "metadata": {
+                    "min": "0",
+                    "max": "10000000"
+                }
+            },
+            {
+                "name": "Client Tier",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Gold",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "Silver",
+                            "color": "gray"
+                        },
+                        {
+                            "name": "Bronze",
+                            "color": "orange"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Renewal Date",
+                "type": "date",
+                "prompt": "should be a date between today and 2 years from now"
+            },
+            {
+                "name": "Satisfaction Score",
+                "type": "number",
+                "options": {
+                    "formatting": {
+                        "precision": 0,
+                        "type": "decimal"
+                    }
+                },
+                "metadata": {
+                    "min": "1",
+                    "max": "10"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Members",
+        "parent_base_name": "Client Projects",
+        "parent_workspace_name": "Client Projects",
+        "row_count": 150,
+        "fields": [
+            {
+                "name": "Full Name",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Email",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Role",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Admin",
+                            "color": "red"
+                        },
+                        {
+                            "name": "Manager",
+                            "color": "orange"
+                        },
+                        {
+                            "name": "Contributor",
+                            "color": "blue"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Status",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Active",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Suspended",
+                            "color": "red"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Department",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Engineering",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Product",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Design",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "QA",
+                            "color": "red"
+                        },
+                        {
+                            "name": "Data",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Marketing",
+                            "color": "purple"
+                        },
+                        {
+                            "name": "Sales",
+                            "color": "cyan"
+                        },
+                        {
+                            "name": "Support",
+                            "color": "gray"
+                        },
+                        {
+                            "name": "Admin",
+                            "color": "orange"
+                        },
+                        {
+                            "name": "Other",
+                            "color": "gray"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Joined Date",
+                "type": "date",
+                "prompt": "should be a date between 5 years ago and today"
+            },
+            {
+                "name": "Total Logged Hours",
+                "type": "number",
+                "options": {
+                    "formatting": {
+                        "precision": 1,
+                        "type": "decimal"
+                    }
+                },
+                "metadata": {
+                    "min": "0",
+                    "max": "10000"
+                }
+            },
+            {
+                "name": "Skills / Tags",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Tags / Labels",
+                    "relationship": "manyMany"
+                }
+            },
+            {
+                "name": "Availability",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Yes",
+                            "color": "green"
+                        },
+                        {
+                            "name": "No",
+                            "color": "red"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Location",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Employment Type",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Full-time",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Contractor",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Part-time",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "Intern",
+                            "color": "purple"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Billable Rate",
+                "type": "number",
+                "options": {
+                    "formatting": {
+                        "precision": 2,
+                        "type": "currency",
+                        "symbol": "$"
+                    }
+                },
+                "metadata": {
+                    "min": "0",
+                    "max": "500"
+                }
+            },
+            {
+                "name": "Time Zone",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "EST",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "CST",
+                            "color": "green"
+                        },
+                        {
+                            "name": "MST",
+                            "color": "orange"
+                        },
+                        {
+                            "name": "PST",
+                            "color": "purple"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Performance Rating",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Exceeds Expectations",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Meets Expectations",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Below Expectations",
+                            "color": "red"
+                        },
+                        {
+                            "name": "New Hire",
+                            "color": "gray"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "name": "Projects",
+        "parent_base_name": "Client Projects",
+        "parent_workspace_name": "Client Projects",
+        "row_count": 150,
+        "views": [
+            {
+                "name": "Grid View",
+                "type": "grid"
+            }
+        ],
+        "fields": [
+            {
+                "name": "Project Name",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Client",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Clients",
+                    "relationship": "manyOne",
+                    "isOneWay": false
+                }
+            },
+            {
+                "name": "Project Owner",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Members",
+                    "relationship": "manyMany",
+                    "isOneWay": false
+                }
+            },
+            {
+                "name": "Status",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Planning",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Active",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Blocked",
+                            "color": "red"
+                        },
+                        {
+                            "name": "Completed",
+                            "color": "gray"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Start Date",
+                "type": "date",
+                "prompt": "should be a date between 1 year ago and today"
+            },
+            {
+                "name": "End Date",
+                "type": "date"
+            },
+            {
+                "name": "Budget",
+                "type": "number",
+                "options": {
+                    "formatting": {
+                        "precision": 2,
+                        "type": "currency",
+                        "symbol": "$"
+                    }
+                }
+            },
+            {
+                "name": "Priority",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Low",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Medium",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "High",
+                            "color": "orange"
+                        },
+                        {
+                            "name": "Critical",
+                            "color": "red"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Tags",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Tags / Labels",
+                    "relationship": "manyMany"
+                }
+            },
+            {
+                "name": "Description",
+                "type": "longText"
+            },
+            {
+                "name": "Created Date",
+                "type": "date",
+                "prompt": "should be a date between 1 year ago and today"
+            },
+            {
+                "name": "Last Updated",
+                "type": "date",
+                "prompt": "should be a date between 1 year ago and today"
+            },
+            {
+                "name": "Project Type",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Feature",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Retainer",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Bug Fix",
+                            "color": "red"
+                        },
+                        {
+                            "name": "Maintenance",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "Enhancement",
+                            "color": "purple"
+                        },
+                        {
+                            "name": "Research",
+                            "color": "orange"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Progress %",
+                "type": "number",
+                "options": {
+                    "formatting": {
+                        "precision": 0,
+                        "type": "percent"
+                    }
+                },
+                "metadata": {
+                    "min": "0",
+                    "max": "1"
+                }
+            },
+            {
+                "name": "Risk Level",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Low",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Medium",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "High",
+                            "color": "red"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Project Health Indicator",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Green",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Yellow",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "Red",
+                            "color": "red"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "name": "Task Templates",
+        "parent_base_name": "Client Projects",
+        "parent_workspace_name": "Client Projects",
+        "row_count": 150,
+        "views": [
+            {
+                "name": "Grid View",
+                "type": "grid"
+            }
+        ],
+        "fields": [
+            {
+                "name": "Template Name",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Default Assignee",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Members",
+                    "relationship": "manyOne"
+                }
+            },
+            {
+                "name": "Default Tags",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Tags / Labels",
+                    "relationship": "manyMany"
+                }
+            },
+            {
+                "name": "Task Description",
+                "type": "longText"
+            },
+            {
+                "name": "Priority",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Low",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Medium",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "High",
+                            "color": "orange"
+                        },
+                        {
+                            "name": "Critical",
+                            "color": "red"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Estimated Time",
+                "type": "number",
+                "options": {
+                    "formatting": {
+                        "precision": 1,
+                        "type": "decimal"
+                    }
+                },
+                "metadata": {
+                    "min": "0.5",
+                    "max": "120"
+                }
+            },
+            {
+                "name": "Status (Default)",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "To Do",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "In Progress",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "Review",
+                            "color": "purple"
+                        },
+                        {
+                            "name": "Done",
+                            "color": "green"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Associated Project Type",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Feature",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Retainer",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Bug Fix",
+                            "color": "red"
+                        },
+                        {
+                            "name": "Maintenance",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "Enhancement",
+                            "color": "purple"
+                        },
+                        {
+                            "name": "Research",
+                            "color": "orange"
+                        },
+                        {
+                            "name": "Any",
+                            "color": "gray"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Created Date",
+                "type": "date",
+                "prompt": "should be a date between 1 year ago and today"
+            },
+            {
+                "name": "Template Category",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Dev",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Design",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "QA",
+                            "color": "red"
+                        },
+                        {
+                            "name": "PM",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Documentation",
+                            "color": "purple"
+                        },
+                        {
+                            "name": "Meeting",
+                            "color": "orange"
+                        },
+                        {
+                            "name": "Admin",
+                            "color": "gray"
+                        },
+                        {
+                            "name": "Client",
+                            "color": "cyan"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Suggested Milestone",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Milestones",
+                    "relationship": "manyOne",
+                    "isOneWay": false
+                }
+            },
+            {
+                "name": "Estimated Complexity",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Low",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Medium",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "High",
+                            "color": "red"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "name": "Tags / Labels",
+        "parent_base_name": "Client Projects",
+        "parent_workspace_name": "Client Projects",
+        "row_count": 150,
+        "views": [
+            {
+                "name": "Grid View",
+                "type": "grid"
+            }
+        ],
+        "fields": [
+            {
+                "name": "Tag Name",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Type",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Function",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Priority",
+                            "color": "red"
+                        },
+                        {
+                            "name": "Status",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "Category",
+                            "color": "purple"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Color Code",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Created Date",
+                "type": "date",
+                "prompt": "should be a date between 1 year ago and today"
+            },
+            {
+                "name": "Associated Project",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Projects",
+                    "relationship": "manyMany",
+                    "isOneWay": false
+                }
+            },
+            {
+                "name": "Visibility",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Public",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Private",
+                            "color": "red"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Tag Group",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Priority",
+                            "color": "red"
+                        },
+                        {
+                            "name": "Department",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Phase",
+                            "color": "green"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Last Used Date",
+                "type": "date",
+                "prompt": "should be a date between 6 months ago and today"
+            },
+            {
+                "name": "Active",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Yes",
+                            "color": "green"
+                        },
+                        {
+                            "name": "No",
+                            "color": "red"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Notes",
+                "type": "longText"
+            },
+            {
+                "name": "Suggested Usage Context",
+                "type": "longText"
+            },
+            {
+                "name": "Archived",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Yes",
+                            "color": "red"
+                        },
+                        {
+                            "name": "No",
+                            "color": "green"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "name": "Tasks",
+        "context_tables": [
+            "Projects"
+        ],
+        "parent_base_name": "Client Projects",
+        "parent_workspace_name": "Client Projects",
+        "row_count": 150,
+        "views": [
+            {
+                "name": "Grid View",
+                "type": "grid"
+            }
+        ],
+        "fields": [
+            {
+                "name": "Task Name",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Project",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Projects",
+                    "relationship": "manyOne"
+                }
+            },
+            {
+                "name": "Assignee",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Members",
+                    "relationship": "manyOne"
+                }
+            },
+            {
+                "name": "Status",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "To Do",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "In Progress",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "Review",
+                            "color": "purple"
+                        },
+                        {
+                            "name": "Done",
+                            "color": "green"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Priority",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Low",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Medium",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "High",
+                            "color": "red"
+                        },
+                        {
+                            "name": "Critical",
+                            "color": "orange"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Due Date",
+                "type": "date"
+            },
+            {
+                "name": "Estimated Hours",
+                "type": "number",
+                "options": {
+                    "formatting": {
+                        "precision": 1,
+                        "type": "decimal"
+                    }
+                },
+                "metadata": {
+                    "min": "0.5",
+                    "max": "120"
+                }
+            },
+            {
+                "name": "Logged Hours",
+                "type": "number",
+                "options": {
+                    "formatting": {
+                        "precision": 1,
+                        "type": "decimal"
+                    }
+                },
+                "metadata": {
+                    "min": "0",
+                    "max": "200"
+                }
+            },
+            {
+                "name": "Sprint / Milestone",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Milestones",
+                    "relationship": "manyOne",
+                    "isOneWay": false
+                }
+            },
+            {
+                "name": "Tags",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Tags / Labels",
+                    "relationship": "manyMany"
+                }
+            },
+            {
+                "name": "Created Date",
+                "type": "date",
+                "prompt": "should be a date between 1 year ago and today"
+            },
+            {
+                "name": "Task Type",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Feature",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Bug",
+                            "color": "red"
+                        },
+                        {
+                            "name": "QA",
+                            "color": "purple"
+                        },
+                        {
+                            "name": "Documentation",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Research",
+                            "color": "orange"
+                        },
+                        {
+                            "name": "Maintenance",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "Enhancement",
+                            "color": "teal"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Complexity",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Low",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Medium",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "High",
+                            "color": "red"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Blocked",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Yes",
+                            "color": "red"
+                        },
+                        {
+                            "name": "No",
+                            "color": "green"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Client Visible",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Yes",
+                            "color": "green"
+                        },
+                        {
+                            "name": "No",
+                            "color": "red"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "name": "Time Logs",
+        "context_tables": [
+            "Tasks"
+        ],
+        "parent_base_name": "Client Projects",
+        "parent_workspace_name": "Client Projects",
+        "row_count": 300,
+        "views": [
+            {
+                "name": "Grid View",
+                "type": "grid"
+            }
+        ],
+        "fields": [
+            {
+                "name": "Log Date",
+                "type": "date",
+                "prompt": "should be a date between 1 year ago and today"
+            },
+            {
+                "name": "Task",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Tasks",
+                    "relationship": "manyOne"
+                }
+            },
+            {
+                "name": "User",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Members",
+                    "relationship": "manyOne"
+                }
+            },
+            {
+                "name": "Hours Logged",
+                "type": "number",
+                "options": {
+                    "formatting": {
+                        "precision": 1,
+                        "type": "decimal"
+                    }
+                },
+                "metadata": {
+                    "min": "0.1",
+                    "max": "24"
+                }
+            },
+            {
+                "name": "Description / Notes",
+                "type": "longText",
+                "prompt": "should be a detailed note about the work performed during this time"
+            },
+            {
+                "name": "Billable",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Yes",
+                            "color": "green"
+                        },
+                        {
+                            "name": "No",
+                            "color": "red"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Client",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Clients",
+                    "relationship": "manyOne"
+                }
+            },
+            {
+                "name": "Project",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Projects",
+                    "relationship": "manyOne"
+                }
+            },
+            {
+                "name": "Activity Type",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Meeting",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Coding",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Review",
+                            "color": "purple"
+                        },
+                        {
+                            "name": "Testing",
+                            "color": "orange"
+                        },
+                        {
+                            "name": "Documentation",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "Research",
+                            "color": "teal"
+                        },
+                        {
+                            "name": "Planning",
+                            "color": "cyan"
+                        },
+                        {
+                            "name": "Design",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "Admin",
+                            "color": "gray"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Timestamp",
+                "type": "date",
+                "prompt": "should be automatically set to the current date and time when the record is created"
+            },
+            {
+                "name": "Approval Status",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Pending",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "Approved",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Rejected",
+                            "color": "red"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Billed Amount",
+                "type": "number",
+                "options": {
+                    "formatting": {
+                        "precision": 2,
+                        "type": "currency",
+                        "symbol": "$"
+                    }
+                },
+                "metadata": {
+                    "min": "0",
+                    "max": "10000"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Documents",
+        "parent_base_name": "Client Projects",
+        "parent_workspace_name": "Client Projects",
+        "row_count": 150,
+        "views": [
+            {
+                "name": "Grid View",
+                "type": "grid"
+            }
+        ],
+        "fields": [
+            {
+                "name": "File Name",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Linked Project",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Projects",
+                    "relationship": "manyOne",
+                    "isOneWay": false
+                }
+            },
+            {
+                "name": "Type",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Contract",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Brief",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "Asset",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Report",
+                            "color": "purple"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Uploaded By",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Members",
+                    "relationship": "manyOne"
+                }
+            },
+            {
+                "name": "Date Uploaded",
+                "type": "date",
+                "prompt": "should be a date between 1 year ago and today"
+            },
+            {
+                "name": "File",
+                "type": "attachment",
+                "offline": true
+            },
+            {
+                "name": "File Size",
+                "type": "singleLineText",
+                "prompt": "should be in format like '2.5 MB' or '150 KB'"
+            },
+            {
+                "name": "Version Number",
+                "type": "singleLineText",
+                "prompt": "should be in format like 'v1.0' or 'v2.3'"
+            },
+            {
+                "name": "Client Visibility",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Yes",
+                            "color": "green"
+                        },
+                        {
+                            "name": "No",
+                            "color": "red"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Last Modified By",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Members",
+                    "relationship": "manyOne",
+                    "isOneWay": false
+                }
+            },
+            {
+                "name": "Confidential",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Yes",
+                            "color": "red"
+                        },
+                        {
+                            "name": "No",
+                            "color": "green"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Notes",
+                "type": "longText"
+            }
+        ]
+    },
+    {
+        "name": "Project Comments",
+        "context_tables": [
+            "Projects"
+        ],
+        "parent_base_name": "Client Projects",
+        "parent_workspace_name": "Client Projects",
+        "row_count": 150,
+        "views": [
+            {
+                "name": "Grid View",
+                "type": "grid"
+            }
+        ],
+        "fields": [
+            {
+                "name": "Comment",
+                "type": "longText"
+            },
+            {
+                "name": "Project",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Projects",
+                    "relationship": "manyOne",
+                    "isOneWay": false
+                }
+            },
+            {
+                "name": "User",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Members",
+                    "relationship": "manyOne"
+                }
+            },
+            {
+                "name": "Date",
+                "type": "date",
+                "prompt": "should be a date between 1 year ago and today"
+            },
+            {
+                "name": "Visibility",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Internal",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Client",
+                            "color": "green"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Comment Type",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "General",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Feedback",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Blocker",
+                            "color": "red"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Linked Task",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Tasks",
+                    "relationship": "manyOne",
+                    "isOneWay": false
+                }
+            },
+            {
+                "name": "Edited",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Yes",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "No",
+                            "color": "green"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Reaction Count",
+                "type": "number",
+                "options": {
+                    "formatting": {
+                        "precision": 0,
+                        "type": "decimal"
+                    }
+                },
+                "metadata": {
+                    "min": "0",
+                    "max": "1000"
+                }
+            },
+            {
+                "name": "Pinned",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Yes",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "No",
+                            "color": "gray"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Tags",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Tags / Labels",
+                    "relationship": "manyMany",
+                    "isOneWay": false
+                }
+            }
+        ]
+    },
+    {
+        "name": "Task Updates",
+        "context_tables": [
+            "Tasks"
+        ],
+        "parent_base_name": "Client Projects",
+        "parent_workspace_name": "Client Projects",
+        "row_count": 200,
+        "views": [
+            {
+                "name": "Grid View",
+                "type": "grid"
+            }
+        ],
+        "fields": [
+            {
+                "name": "Status Change",
+                "type": "singleLineText",
+                "prompt": "format should be 'From Status → To Status' (e.g., 'To Do → In Progress')"
+            },
+            {
+                "name": "Task",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Tasks",
+                    "relationship": "manyOne"
+                }
+            },
+            {
+                "name": "Updated By",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Members",
+                    "relationship": "manyOne"
+                }
+            },
+            {
+                "name": "Update Date",
+                "type": "date",
+                "prompt": "should be a date between 6 months ago and today"
+            },
+            {
+                "name": "Comments / Notes",
+                "type": "longText"
+            },
+            {
+                "name": "Time Spent Since Last Update",
+                "type": "number",
+                "options": {
+                    "formatting": {
+                        "precision": 1,
+                        "type": "decimal"
+                    }
+                },
+                "metadata": {
+                    "min": "0",
+                    "max": "168"
+                }
+            },
+            {
+                "name": "Type of Update",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Manual",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Automated",
+                            "color": "green"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Logged Hours",
+                "type": "number",
+                "options": {
+                    "formatting": {
+                        "precision": 1,
+                        "type": "decimal"
+                    }
+                },
+                "metadata": {
+                    "min": "0",
+                    "max": "24"
+                }
+            },
+            {
+                "name": "Tags Added/Removed",
+                "type": "longText",
+                "prompt": "format should describe tag changes (e.g., '+Design, +Review, -Bug')"
+            },
+            {
+                "name": "Client Visibility",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Yes",
+                            "color": "green"
+                        },
+                        {
+                            "name": "No",
+                            "color": "red"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Automation Triggered",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Yes",
+                            "color": "green"
+                        },
+                        {
+                            "name": "No",
+                            "color": "blue"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Approval Required",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Yes",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "No",
+                            "color": "green"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Updated Field",
+                "type": "singleLineText",
+                "prompt": "should be the name of the field that was updated"
+            },
+            {
+                "name": "Previous Value",
+                "type": "singleLineText",
+                "prompt": "should be the value before the update"
+            },
+            {
+                "name": "New Value",
+                "type": "singleLineText",
+                "prompt": "should be the value after the update"
+            }
+        ]
+    },
+    {
+        "name": "Milestones",
+        "context_tables": [
+            "Projects"
+        ],
+        "parent_base_name": "Client Projects",
+        "parent_workspace_name": "Client Projects",
+        "row_count": 150,
+        "views": [
+            {
+                "name": "Grid View",
+                "type": "grid"
+            }
+        ],
+        "fields": [
+            {
+                "name": "Milestone Name",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Project",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Projects",
+                    "relationship": "manyOne",
+                    "isOneWay": false
+                }
+            },
+            {
+                "name": "Due Date",
+                "type": "date",
+                "prompt": "should be a date between 6 months ago and today"
+            },
+            {
+                "name": "Status",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Planned",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Reached",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Delayed",
+                            "color": "red"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Completion %",
+                "type": "number",
+                "options": {
+                    "formatting": {
+                        "precision": 0,
+                        "type": "percent"
+                    }
+                },
+                "metadata": {
+                    "min": "0",
+                    "max": "1"
+                }
+            },
+            {
+                "name": "Owner",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Members",
+                    "relationship": "manyOne",
+                    "isOneWay": false
+                }
+            },
+            {
+                "name": "Related Client",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Clients",
+                    "relationship": "manyOne",
+                    "isOneWay": false
+                }
+            },
+            {
+                "name": "Notes",
+                "type": "longText"
+            },
+            {
+                "name": "Created Date",
+                "type": "date",
+                "prompt": "should be a date between 1 year ago and today"
+            },
+            {
+                "name": "Risk Level",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Low",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Medium",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "High",
+                            "color": "red"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "name": "Members",
+        "parent_base_name": "Internal Projects",
+        "parent_workspace_name": "Internal Projects",
+        "row_count": 150,
+        "fields": [
+            {
+                "name": "Full Name",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Email",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Role",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Admin",
+                            "color": "red"
+                        },
+                        {
+                            "name": "Manager",
+                            "color": "orange"
+                        },
+                        {
+                            "name": "Contributor",
+                            "color": "blue"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Status",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Active",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Suspended",
+                            "color": "red"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Department",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Departments",
+                    "relationship": "manyOne",
+                    "isOneWay": false
+                }
+            },
+            {
+                "name": "Joined Date",
+                "type": "date",
+                "prompt": "should be a date between 5 years ago and today"
+            },
+            {
+                "name": "Total Logged Hours",
+                "type": "number",
+                "options": {
+                    "formatting": {
+                        "precision": 1,
+                        "type": "decimal"
+                    }
+                },
+                "metadata": {
+                    "min": "0",
+                    "max": "10000"
+                }
+            },
+            {
+                "name": "Availability",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Yes",
+                            "color": "green"
+                        },
+                        {
+                            "name": "No",
+                            "color": "red"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Skills",
+                "type": "multipleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "AI/Machine Learning",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Content Strategy",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Data Analytics",
+                            "color": "purple"
+                        },
+                        {
+                            "name": "SEO/SEM",
+                            "color": "orange"
+                        },
+                        {
+                            "name": "Social Media Marketing",
+                            "color": "cyan"
+                        },
+                        {
+                            "name": "Email Marketing",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "Marketing Automation",
+                            "color": "red"
+                        },
+                        {
+                            "name": "Customer Analytics",
+                            "color": "teal"
+                        },
+                        {
+                            "name": "A/B Testing",
+                            "color": "gray"
+                        },
+                        {
+                            "name": "Conversion Optimization",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Creative Design",
+                            "color": "purple"
+                        },
+                        {
+                            "name": "Video Production",
+                            "color": "orange"
+                        },
+                        {
+                            "name": "Copywriting",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Programmatic Advertising",
+                            "color": "red"
+                        },
+                        {
+                            "name": "Chatbot Development",
+                            "color": "cyan"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Location",
+                "type": "singleLineText"
+            }
+        ]
+    },
+    {
+        "name": "Projects",
+        "parent_base_name": "Internal Projects",
+        "parent_workspace_name": "Internal Projects",
+        "row_count": 150,
+        "views": [
+            {
+                "name": "Grid View",
+                "type": "grid"
+            }
+        ],
+        "fields": [
+            {
+                "name": "Project Name",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Project Owner",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Members",
+                    "relationship": "manyMany",
+                    "isOneWay": false
+                }
+            },
+            {
+                "name": "Status",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Planning",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Active",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Blocked",
+                            "color": "red"
+                        },
+                        {
+                            "name": "Completed",
+                            "color": "gray"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Start Date",
+                "type": "date",
+                "prompt": "should be a date between 1 year ago and today"
+            },
+            {
+                "name": "End Date",
+                "type": "date"
+            },
+            {
+                "name": "Budget",
+                "type": "number",
+                "options": {
+                    "formatting": {
+                        "precision": 2,
+                        "type": "currency",
+                        "symbol": "$"
+                    }
+                }
+            },
+            {
+                "name": "Priority",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Low",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Medium",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "High",
+                            "color": "orange"
+                        },
+                        {
+                            "name": "Critical",
+                            "color": "red"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Description",
+                "type": "longText"
+            },
+            {
+                "name": "Created Date",
+                "type": "date",
+                "prompt": "should be a date between 1 year ago and today"
+            },
+            {
+                "name": "Last Updated",
+                "type": "date",
+                "prompt": "should be a date between 1 year ago and today"
+            },
+            {
+                "name": "Project Type",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Feature",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Retainer",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Bug Fix",
+                            "color": "red"
+                        },
+                        {
+                            "name": "Maintenance",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "Enhancement",
+                            "color": "purple"
+                        },
+                        {
+                            "name": "Research",
+                            "color": "orange"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Client Impact",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "High",
+                            "color": "red"
+                        },
+                        {
+                            "name": "Medium",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "Low",
+                            "color": "blue"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "name": "Marketing Campaigns",
+        "parent_base_name": "Internal Projects",
+        "parent_workspace_name": "Internal Projects",
+        "row_count": 150,
+        "views": [
+            {
+                "name": "Grid View",
+                "type": "grid"
+            }
+        ],
+        "fields": [
+            {
+                "name": "Name",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Objective",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Target Audience",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Start Date",
+                "type": "date",
+                "prompt": "should be a date between 1 year ago and today"
+            },
+            {
+                "name": "End Date",
+                "type": "date",
+                "prompt": "should be a date between 3 months ago and next 2 months"
+            },
+            {
+                "name": "Budget",
+                "type": "number",
+                "options": {
+                    "formatting": {
+                        "precision": 2,
+                        "type": "currency",
+                        "symbol": "$"
+                    }
+                }
+            },
+            {
+                "name": "Campaign Owner",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Members",
+                    "relationship": "manyOne",
+                    "isOneWay": false
+                }
+            },
+            {
+                "name": "Channels",
+                "type": "multipleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Email",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Social",
+                            "color": "purple"
+                        },
+                        {
+                            "name": "Paid Ads",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Content Marketing",
+                            "color": "orange"
+                        },
+                        {
+                            "name": "Events",
+                            "color": "yellow"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Assigned Department",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Marketing",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Product",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Sales",
+                            "color": "purple"
+                        },
+                        {
+                            "name": "Design",
+                            "color": "yellow"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Status",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Planned",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "In Progress",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "Completed",
+                            "color": "green"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "name": "Departments",
+        "parent_base_name": "Internal Projects",
+        "parent_workspace_name": "Internal Projects",
+        "row_count": 20,
+        "views": [
+            {
+                "name": "Grid View",
+                "type": "grid"
+            }
+        ],
+        "fields": [
+            {
+                "name": "Name",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Head of Department",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Members",
+                    "relationship": "manyOne"
+                }
+            },
+            {
+                "name": "Size",
+                "type": "number",
+                "options": {
+                    "formatting": {
+                        "precision": 0,
+                        "type": "decimal"
+                    }
+                },
+                "metadata": {
+                    "min": "5",
+                    "max": "10"
+                }
+            },
+            {
+                "name": "Location",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Department Budget",
+                "type": "number",
+                "options": {
+                    "formatting": {
+                        "precision": 2,
+                        "type": "currency",
+                        "symbol": "$"
+                    }
+                }
+            },
+            {
+                "name": "Department Email",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Created Date",
+                "type": "date",
+                "prompt": "should be a date between 5 years ago and today"
+            },
+            {
+                "name": "Status",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Active",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Inactive",
+                            "color": "red"
+                        },
+                        {
+                            "name": "Merged",
+                            "color": "blue"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Notes",
+                "type": "longText"
+            }
+        ]
+    },
+    {
+        "name": "Task Templates",
+        "parent_base_name": "Internal Projects",
+        "parent_workspace_name": "Internal Projects",
+        "row_count": 150,
+        "views": [
+            {
+                "name": "Grid View",
+                "type": "grid"
+            }
+        ],
+        "fields": [
+            {
+                "name": "Template Name",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Description",
+                "type": "longText"
+            },
+            {
+                "name": "Suggested Duration (days)",
+                "type": "number",
+                "options": {
+                    "formatting": {
+                        "precision": 0,
+                        "type": "decimal"
+                    }
+                },
+                "metadata": {
+                    "min": "1",
+                    "max": "10"
+                }
+            },
+            {
+                "name": "Default Priority",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "High",
+                            "color": "red"
+                        },
+                        {
+                            "name": "Medium",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "Low",
+                            "color": "blue"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Category",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Marketing",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Design",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "Development",
+                            "color": "green"
+                        },
+                        {
+                            "name": "QA",
+                            "color": "red"
+                        },
+                        {
+                            "name": "Content",
+                            "color": "purple"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Default Assignee",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Members",
+                    "relationship": "manyOne",
+                    "isOneWay": false
+                }
+            },
+            {
+                "name": "Associated Department",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Departments",
+                    "relationship": "manyOne",
+                    "isOneWay": false
+                }
+            },
+            {
+                "name": "Default Status",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "To Do",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "In Progress",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "Done",
+                            "color": "green"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Tags",
+                "type": "multipleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "AI-Powered",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Automation",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Analytics",
+                            "color": "purple"
+                        },
+                        {
+                            "name": "Creative",
+                            "color": "orange"
+                        },
+                        {
+                            "name": "Strategy",
+                            "color": "cyan"
+                        },
+                        {
+                            "name": "Performance",
+                            "color": "red"
+                        },
+                        {
+                            "name": "Content",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "Technical",
+                            "color": "gray"
+                        },
+                        {
+                            "name": "Client-Facing",
+                            "color": "teal"
+                        },
+                        {
+                            "name": "Research",
+                            "color": "purple"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Last Updated",
+                "type": "date",
+                "prompt": "should be a date between 1 year ago and today"
+            }
+        ]
+    },
+    {
+        "name": "Milestones",
+        "context_tables": [
+            "Marketing Campaigns"
+        ],
+        "parent_base_name": "Internal Projects",
+        "parent_workspace_name": "Internal Projects",
+        "row_count": 150,
+        "views": [
+            {
+                "name": "Grid View",
+                "type": "grid"
+            }
+        ],
+        "fields": [
+            {
+                "name": "Name",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Related Campaign",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Marketing Campaigns",
+                    "relationship": "manyOne",
+                    "isOneWay": false
+                }
+            },
+            {
+                "name": "Date",
+                "type": "date",
+                "prompt": "should be a date between 6 months ago and today"
+            },
+            {
+                "name": "Responsible Owner",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Members",
+                    "relationship": "manyOne",
+                    "isOneWay": false
+                }
+            },
+            {
+                "name": "Status",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Planned",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Completed",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Delayed",
+                            "color": "red"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Notes",
+                "type": "longText"
+            },
+            {
+                "name": "Created Date",
+                "type": "date",
+                "prompt": "should be a date between 1 year ago and today"
+            },
+            {
+                "name": "Last Updated",
+                "type": "date",
+                "prompt": "should be a date between 1 year ago and today"
+            },
+            {
+                "name": "Milestone Type",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Internal",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "External",
+                            "color": "green"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "name": "Tasks",
+        "context_tables": [
+            "Marketing Campaigns"
+        ],
+        "parent_base_name": "Internal Projects",
+        "parent_workspace_name": "Internal Projects",
+        "row_count": 150,
+        "views": [
+            {
+                "name": "Grid View",
+                "type": "grid"
+            }
+        ],
+        "fields": [
+            {
+                "name": "Name",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Related Campaign",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Marketing Campaigns",
+                    "relationship": "manyOne"
+                }
+            },
+            {
+                "name": "Assigned To",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Members",
+                    "relationship": "manyOne"
+                }
+            },
+            {
+                "name": "Due Date",
+                "type": "date"
+            },
+            {
+                "name": "Status",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "To Do",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "In Progress",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "Done",
+                            "color": "green"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Priority",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "High",
+                            "color": "red"
+                        },
+                        {
+                            "name": "Medium",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "Low",
+                            "color": "blue"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Estimated Hours",
+                "type": "number",
+                "options": {
+                    "formatting": {
+                        "precision": 1,
+                        "type": "decimal"
+                    }
+                },
+                "metadata": {
+                    "min": "0",
+                    "max": "100"
+                }
+            },
+            {
+                "name": "Logged Hours",
+                "type": "number",
+                "options": {
+                    "formatting": {
+                        "precision": 1,
+                        "type": "decimal"
+                    }
+                },
+                "metadata": {
+                    "min": "0",
+                    "max": "100"
+                }
+            },
+            {
+                "name": "Task Type",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Design",
+                            "color": "purple"
+                        },
+                        {
+                            "name": "Content",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Dev",
+                            "color": "green"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Tags",
+                "type": "multipleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Urgent",
+                            "color": "red"
+                        },
+                        {
+                            "name": "High Priority",
+                            "color": "orange"
+                        },
+                        {
+                            "name": "Campaign Related",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "AI Enhancement",
+                            "color": "purple"
+                        },
+                        {
+                            "name": "Client Deliverable",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Internal Process",
+                            "color": "gray"
+                        },
+                        {
+                            "name": "Analytics",
+                            "color": "cyan"
+                        },
+                        {
+                            "name": "Creative",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "Technical Debt",
+                            "color": "red"
+                        },
+                        {
+                            "name": "Innovation",
+                            "color": "teal"
+                        },
+                        {
+                            "name": "Documentation",
+                            "color": "purple"
+                        },
+                        {
+                            "name": "Training",
+                            "color": "blue"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Sprint",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "SMT-01",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "SMT-02",
+                            "color": "green"
+                        },
+                        {
+                            "name": "SMT-03",
+                            "color": "orange"
+                        },
+                        {
+                            "name": "SMT-04",
+                            "color": "red"
+                        },
+                        {
+                            "name": "SMT-05",
+                            "color": "purple"
+                        },
+                        {
+                            "name": "SMT-06",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "SMT-07",
+                            "color": "cyan"
+                        },
+                        {
+                            "name": "SMT-08",
+                            "color": "gray"
+                        },
+                        {
+                            "name": "SMT-09",
+                            "color": "teal"
+                        },
+                        {
+                            "name": "SMT-10",
+                            "color": "orange"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Created Date",
+                "type": "date",
+                "prompt": "should be a date between 1 year ago and today"
+            }
+        ]
+    },
+    {
+        "name": "Resource Allocation Reports",
+        "parent_base_name": "Internal Projects",
+        "parent_workspace_name": "Internal Projects",
+        "row_count": 150,
+        "views": [
+            {
+                "name": "Grid View",
+                "type": "grid"
+            }
+        ],
+        "fields": [
+            {
+                "name": "Week",
+                "type": "singleLineText",
+                "prompt": "example format: 2025-W27"
+            },
+            {
+                "name": "Member Name",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Members",
+                    "relationship": "manyOne"
+                }
+            },
+            {
+                "name": "Tasks Assigned",
+                "type": "number",
+                "options": {
+                    "formatting": {
+                        "precision": 0,
+                        "type": "decimal"
+                    }
+                },
+                "metadata": {
+                    "min": "1",
+                    "max": "15"
+                }
+            },
+            {
+                "name": "Hours Estimated",
+                "type": "number",
+                "options": {
+                    "formatting": {
+                        "precision": 0,
+                        "type": "decimal"
+                    }
+                },
+                "metadata": {
+                    "min": "10",
+                    "max": "40"
+                }
+            },
+            {
+                "name": "Hours Logged",
+                "type": "number",
+                "options": {
+                    "formatting": {
+                        "precision": 0,
+                        "type": "decimal"
+                    }
+                },
+                "metadata": {
+                    "min": "8",
+                    "max": "45"
+                }
+            },
+            {
+                "name": "Overallocated",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Yes",
+                            "color": "red"
+                        },
+                        {
+                            "name": "No",
+                            "color": "green"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Underutilized",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Yes",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "No",
+                            "color": "blue"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Comments",
+                "type": "longText"
+            },
+            {
+                "name": "Created Date",
+                "type": "date",
+                "prompt": "should be a date between 1 year ago and today"
+            }
+        ]
+    },
+    {
+        "name": "Calendar Events",
+        "context_tables": [
+            "Marketing Campaigns"
+        ],
+        "parent_base_name": "Internal Projects",
+        "parent_workspace_name": "Internal Projects",
+        "row_count": 150,
+        "views": [
+            {
+                "name": "Grid View",
+                "type": "grid"
+            }
+        ],
+        "fields": [
+            {
+                "name": "Title",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Campaign",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Marketing Campaigns",
+                    "relationship": "manyOne",
+                    "isOneWay": false
+                }
+            },
+            {
+                "name": "Event Owner",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Members",
+                    "relationship": "manyOne"
+                }
+            },
+            {
+                "name": "Event Type",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Kickoff",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Review",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Brainstorm",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "Other",
+                            "color": "gray"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Participants",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Members",
+                    "relationship": "manyMany",
+                    "isOneWay": false
+                }
+            },
+            {
+                "name": "Start Date/Time",
+                "type": "date",
+                "prompt": "should be a date between 6 months ago and 3 months from now"
+            },
+            {
+                "name": "End Date/Time",
+                "type": "date",
+                "prompt": "should be a date between 3 months ago and 6 months from now"
+            },
+            {
+                "name": "Location",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Notes",
+                "type": "longText"
+            }
+        ]
+    },
+    {
+        "name": "Research Initiatives",
+        "parent_base_name": "R&D",
+        "parent_workspace_name": "R&D",
+        "row_count": 150,
+        "views": [
+            {
+                "name": "Grid View",
+                "type": "grid"
+            }
+        ],
+        "fields": [
+            {
+                "name": "Title",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Objective",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Start Date",
+                "type": "date",
+                "prompt": "should be a date between 6 months ago and today"
+            },
+            {
+                "name": "End Date",
+                "type": "date",
+                "prompt": "should be a date between today and 1 year from now"
+            },
+            {
+                "name": "Lead Researcher",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Members",
+                    "relationship": "manyOne",
+                    "isOneWay": false
+                }
+            },
+            {
+                "name": "Status",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Active",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Paused",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "Complete",
+                            "color": "blue"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Funding Source",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Research Area",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "AI",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "UX",
+                            "color": "purple"
+                        },
+                        {
+                            "name": "Product",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Data Science",
+                            "color": "orange"
+                        },
+                        {
+                            "name": "Security",
+                            "color": "red"
+                        },
+                        {
+                            "name": "Performance",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "Infrastructure",
+                            "color": "gray"
+                        },
+                        {
+                            "name": "Other",
+                            "color": "cyan"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Budget Allocated",
+                "type": "number",
+                "options": {
+                    "formatting": {
+                        "precision": 2,
+                        "type": "currency",
+                        "symbol": "$"
+                    }
+                },
+                "metadata": {
+                    "min": "0",
+                    "max": "1000000"
+                }
+            },
+            {
+                "name": "Progress %",
+                "type": "number",
+                "options": {
+                    "formatting": {
+                        "precision": 0,
+                        "type": "percent"
+                    }
+                },
+                "metadata": {
+                    "min": "0",
+                    "max": "100"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Hypotheses / Experiments",
+        "context_tables": [
+            "Research Initiatives"
+        ],
+        "parent_base_name": "R&D",
+        "parent_workspace_name": "R&D",
+        "row_count": 150,
+        "views": [
+            {
+                "name": "Grid View",
+                "type": "grid"
+            }
+        ],
+        "fields": [
+            {
+                "name": "Hypothesis Statement",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Related Initiative",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Research Initiatives",
+                    "relationship": "manyOne",
+                    "isOneWay": false
+                }
+            },
+            {
+                "name": "Validation Method",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "A/B Testing",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "User Interviews",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Analytics Review",
+                            "color": "purple"
+                        },
+                        {
+                            "name": "Prototype Testing",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "Survey",
+                            "color": "orange"
+                        },
+                        {
+                            "name": "Observation Study",
+                            "color": "teal"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Outcome",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "In Progress",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "Validated",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Invalidated",
+                            "color": "red"
+                        },
+                        {
+                            "name": "Inconclusive",
+                            "color": "gray"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Start Date",
+                "type": "date",
+                "prompt": "should be a date between 3 months ago and today"
+            },
+            {
+                "name": "End Date",
+                "type": "date",
+                "prompt": "should be a date between today and 6 months from now"
+            },
+            {
+                "name": "Owner",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Members",
+                    "relationship": "manyOne",
+                    "isOneWay": false
+                }
+            },
+            {
+                "name": "Experiment Type",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Lab",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Field",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Simulation",
+                            "color": "purple"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Status",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Planned",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Active",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Completed",
+                            "color": "gray"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Notes",
+                "type": "longText"
+            },
+            {
+                "name": "Created Date",
+                "type": "date",
+                "prompt": "should be a date between 1 year ago and today"
+            }
+        ]
+    },
+    {
+        "name": "Task Templates",
+        "parent_base_name": "R&D",
+        "parent_workspace_name": "R&D",
+        "row_count": 150,
+        "views": [
+            {
+                "name": "Grid View",
+                "type": "grid"
+            }
+        ],
+        "fields": [
+            {
+                "name": "Name",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Description",
+                "type": "longText"
+            },
+            {
+                "name": "Suggested Duration (days)",
+                "type": "number",
+                "options": {
+                    "formatting": {
+                        "precision": 0,
+                        "type": "decimal"
+                    }
+                },
+                "metadata": {
+                    "min": "1",
+                    "max": "14"
+                }
+            },
+            {
+                "name": "Category",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Research",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Experiment",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Analysis",
+                            "color": "purple"
+                        },
+                        {
+                            "name": "Presentation",
+                            "color": "orange"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Default Assignee",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Members",
+                    "relationship": "manyOne",
+                    "isOneWay": false
+                }
+            },
+            {
+                "name": "Associated Initiative",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Research Initiatives",
+                    "relationship": "manyOne",
+                    "isOneWay": false
+                }
+            },
+            {
+                "name": "Tags",
+                "type": "multipleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "High Priority",
+                            "color": "red"
+                        },
+                        {
+                            "name": "Technical",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Research",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Analysis",
+                            "color": "purple"
+                        },
+                        {
+                            "name": "Documentation",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "Presentation",
+                            "color": "orange"
+                        },
+                        {
+                            "name": "Review Required",
+                            "color": "cyan"
+                        },
+                        {
+                            "name": "Collaborative",
+                            "color": "teal"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Default Priority",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Low",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Medium",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "High",
+                            "color": "orange"
+                        },
+                        {
+                            "name": "Critical",
+                            "color": "red"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Created Date",
+                "type": "date",
+                "prompt": "should be a date between 1 year ago and today"
+            },
+            {
+                "name": "Last Updated",
+                "type": "date",
+                "prompt": "should be a date between 1 year ago and today"
+            }
+        ]
+    },
+    {
+        "name": "Milestones",
+        "context_tables": [
+            "Research Initiatives"
+        ],
+        "parent_base_name": "R&D",
+        "parent_workspace_name": "R&D",
+        "row_count": 150,
+        "views": [
+            {
+                "name": "Grid View",
+                "type": "grid"
+            }
+        ],
+        "fields": [
+            {
+                "name": "Title",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Related Initiative",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Research Initiatives",
+                    "relationship": "manyOne"
+                }
+            },
+            {
+                "name": "Date",
+                "type": "date",
+                "prompt": "should be a date between 6 months ago and today"
+            },
+            {
+                "name": "Responsible Owner",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Members",
+                    "relationship": "manyOne",
+                    "isOneWay": false
+                }
+            },
+            {
+                "name": "Status",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Planned",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Delayed",
+                            "color": "red"
+                        },
+                        {
+                            "name": "Completed",
+                            "color": "green"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Notes",
+                "type": "longText"
+            },
+            {
+                "name": "Created Date",
+                "type": "date",
+                "prompt": "should be a date between 1 year ago and today"
+            },
+            {
+                "name": "Milestone Type",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Internal",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "External",
+                            "color": "green"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Last Updated",
+                "type": "date",
+                "prompt": "should be a date between 1 year ago and today"
+            }
+        ]
+    },
+    {
+        "name": "Tasks",
+        "context_tables": [
+            "Research Initiatives",
+            "Hypotheses / Experiments"
+        ],
+        "parent_base_name": "R&D",
+        "parent_workspace_name": "R&D",
+        "row_count": 150,
+        "views": [
+            {
+                "name": "Grid View",
+                "type": "grid"
+            }
+        ],
+        "fields": [
+            {
+                "name": "Name",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Related Initiative",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Research Initiatives",
+                    "relationship": "manyOne"
+                }
+            },
+            {
+                "name": "Assigned To",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Members",
+                    "relationship": "manyOne"
+                }
+            },
+            {
+                "name": "Due Date",
+                "type": "date"
+            },
+            {
+                "name": "Priority",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "High",
+                            "color": "red"
+                        },
+                        {
+                            "name": "Medium",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "Low",
+                            "color": "blue"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Estimated Hours",
+                "type": "number",
+                "options": {
+                    "formatting": {
+                        "precision": 1,
+                        "type": "decimal"
+                    }
+                }
+            },
+            {
+                "name": "Logged Hours",
+                "type": "number",
+                "options": {
+                    "formatting": {
+                        "precision": 1,
+                        "type": "decimal"
+                    }
+                }
+            },
+            {
+                "name": "Task Type",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Experiment Setup",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Analysis",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Documentation",
+                            "color": "purple"
+                        },
+                        {
+                            "name": "Research",
+                            "color": "orange"
+                        },
+                        {
+                            "name": "Development",
+                            "color": "cyan"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Tags",
+                "type": "multipleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Urgent",
+                            "color": "red"
+                        },
+                        {
+                            "name": "Technical",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Research",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Documentation",
+                            "color": "purple"
+                        },
+                        {
+                            "name": "Review Required",
+                            "color": "yellow"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Created Date",
+                "type": "date",
+                "prompt": "should be a date between 1 year ago and today"
+            },
+            {
+                "name": "Status",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "To Do",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "In Progress",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "Review",
+                            "color": "purple"
+                        },
+                        {
+                            "name": "Done",
+                            "color": "green"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "name": "Meeting Logs",
+        "parent_base_name": "R&D",
+        "parent_workspace_name": "R&D",
+        "context_tables": [
+            "Research Initiatives",
+            "Tasks"
+        ],
+        "row_count": 150,
+        "views": [
+            {
+                "name": "Grid View",
+                "type": "grid"
+            }
+        ],
+        "fields": [
+            {
+                "name": "Title",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Type",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Standup",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Research Review",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Retrospective",
+                            "color": "purple"
+                        },
+                        {
+                            "name": "Planning",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "Brainstorm",
+                            "color": "orange"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Date",
+                "type": "date",
+                "prompt": "should be a date between 6 months ago and today"
+            },
+            {
+                "name": "Related Initiative",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Research Initiatives",
+                    "relationship": "manyOne",
+                    "isOneWay": false
+                }
+            },
+            {
+                "name": "Participants",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Members",
+                    "relationship": "manyMany",
+                    "isOneWay": false
+                }
+            },
+            {
+                "name": "Duration",
+                "type": "number",
+                "options": {
+                    "formatting": {
+                        "precision": 1,
+                        "type": "decimal"
+                    }
+                }
+            },
+            {
+                "name": "Notes",
+                "type": "longText"
+            },
+            {
+                "name": "Meeting Outcome",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Action Items Created",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Decisions Made",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Follow-up Required",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "No Action Required",
+                            "color": "gray"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Created Date",
+                "type": "date",
+                "prompt": "should be a date between 1 year ago and today"
+            },
+            {
+                "name": "Summary Notes",
+                "type": "longText"
+            }
+        ]
+    },
+    {
+        "name": "Members",
+        "parent_base_name": "R&D",
+        "parent_workspace_name": "R&D",
+        "row_count": 150,
+        "fields": [
+            {
+                "name": "Full Name",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Email",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Role",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Admin",
+                            "color": "red"
+                        },
+                        {
+                            "name": "Manager",
+                            "color": "orange"
+                        },
+                        {
+                            "name": "Contributor",
+                            "color": "blue"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Status",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Active",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Suspended",
+                            "color": "red"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Department",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Engineering",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Product",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Design",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "QA",
+                            "color": "red"
+                        },
+                        {
+                            "name": "Data",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Marketing",
+                            "color": "purple"
+                        },
+                        {
+                            "name": "Sales",
+                            "color": "cyan"
+                        },
+                        {
+                            "name": "Support",
+                            "color": "gray"
+                        },
+                        {
+                            "name": "Admin",
+                            "color": "orange"
+                        },
+                        {
+                            "name": "Other",
+                            "color": "gray"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Location",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Skills",
+                "type": "multipleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Python",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "JavaScript",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "UI/UX Design",
+                            "color": "purple"
+                        },
+                        {
+                            "name": "Data Analysis",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Project Management",
+                            "color": "orange"
+                        },
+                        {
+                            "name": "DevOps",
+                            "color": "red"
+                        },
+                        {
+                            "name": "Machine Learning",
+                            "color": "cyan"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Joined Date",
+                "type": "date",
+                "prompt": "should be a date between 5 years ago and today"
+            },
+            {
+                "name": "Assigned Projects",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Projects",
+                    "relationship": "manyMany"
+                }
+            },
+            {
+                "name": "Total Logged Hours",
+                "type": "number",
+                "options": {
+                    "formatting": {
+                        "precision": 1,
+                        "type": "decimal"
+                    }
+                },
+                "metadata": {
+                    "min": "0",
+                    "max": "10000"
+                }
+            },
+            {
+                "name": "Availability",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Yes",
+                            "color": "green"
+                        },
+                        {
+                            "name": "No",
+                            "color": "red"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "name": "Projects",
+        "parent_base_name": "R&D",
+        "parent_workspace_name": "R&D",
+        "row_count": 150,
+        "views": [
+            {
+                "name": "Grid View",
+                "type": "grid"
+            }
+        ],
+        "fields": [
+            {
+                "name": "Project Name",
+                "type": "singleLineText"
+            },
+            {
+                "name": "Project Owner",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Members",
+                    "relationship": "manyMany",
+                    "isOneWay": false
+                }
+            },
+            {
+                "name": "Status",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Planning",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Active",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Blocked",
+                            "color": "red"
+                        },
+                        {
+                            "name": "Completed",
+                            "color": "gray"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Start Date",
+                "type": "date",
+                "prompt": "should be a date between 1 year ago and today"
+            },
+            {
+                "name": "End Date",
+                "type": "date"
+            },
+            {
+                "name": "Budget",
+                "type": "number",
+                "options": {
+                    "formatting": {
+                        "precision": 2,
+                        "type": "currency",
+                        "symbol": "$"
+                    }
+                }
+            },
+            {
+                "name": "Priority",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Low",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Medium",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "High",
+                            "color": "orange"
+                        },
+                        {
+                            "name": "Critical",
+                            "color": "red"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Description",
+                "type": "longText"
+            },
+            {
+                "name": "Created Date",
+                "type": "date",
+                "prompt": "should be a date between 1 year ago and today"
+            },
+            {
+                "name": "Last Updated",
+                "type": "date",
+                "prompt": "should be a date between 1 year ago and today"
+            },
+            {
+                "name": "Project Type",
+                "type": "singleSelect",
+                "options": {
+                    "choices": [
+                        {
+                            "name": "Feature",
+                            "color": "green"
+                        },
+                        {
+                            "name": "Retainer",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Bug Fix",
+                            "color": "red"
+                        },
+                        {
+                            "name": "Maintenance",
+                            "color": "yellow"
+                        },
+                        {
+                            "name": "Enhancement",
+                            "color": "purple"
+                        },
+                        {
+                            "name": "Research",
+                            "color": "orange"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Research Initiatives",
+                "type": "link",
+                "options": {
+                    "foreignTableName": "Research Initiatives",
+                    "relationship": "manyOne",
+                    "isOneWay": false
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,226 @@
+[
+    {
+        "name": "New Lead Initial Outreach",
+        "activity_plan_lines": [
+            {
+                "activity_type_name": "Email",
+                "summary": "Send initial introduction email to new lead",
+                "delay_count": 0,
+                "interval_type": "days"
+            },
+            {
+                "activity_type_name": "Call",
+                "summary": "Follow up with a phone call to discuss needs",
+                "delay_count": 2,
+                "interval_type": "days"
+            },
+            {
+                "activity_type_name": "Meeting",
+                "summary": "Schedule a discovery meeting to explore solutions",
+                "delay_count": 1,
+                "interval_type": "weeks"
+            }
+        ]
+    },
+    {
+        "name": "Post-Demo Nurturing",
+        "activity_plan_lines": [
+            {
+                "activity_type_name": "Call",
+                "summary": "Call to gather feedback after product demo",
+                "delay_count": 1,
+                "interval_type": "days"
+            },
+            {
+                "activity_type_name": "Email",
+                "summary": "Send additional product information and case studies",
+                "delay_count": 3,
+                "interval_type": "days"
+            },
+            {
+                "activity_type_name": "Meeting",
+                "summary": "Arrange a follow-up meeting to address questions",
+                "delay_count": 1,
+                "interval_type": "weeks"
+            }
+        ]
+    },
+    {
+        "name": "High-Value Prospect Engagement",
+        "activity_plan_lines": [
+            {
+                "activity_type_name": "Call",
+                "summary": "Initial qualification call with high-value prospect",
+                "delay_count": 0,
+                "interval_type": "days"
+            },
+            {
+                "activity_type_name": "Meeting",
+                "summary": "In-depth needs analysis meeting",
+                "delay_count": 1,
+                "interval_type": "weeks"
+            },
+            {
+                "activity_type_name": "Email",
+                "summary": "Send customized proposal and pricing details",
+                "delay_count": 3,
+                "interval_type": "days"
+            },
+            {
+                "activity_type_name": "Call",
+                "summary": "Follow up call to discuss proposal and next steps",
+                "delay_count": 1,
+                "interval_type": "weeks"
+            }
+        ]
+    },
+    {
+        "name": "Cold Lead Re-Engagement",
+        "activity_plan_lines": [
+            {
+                "activity_type_name": "Email",
+                "summary": "Send re-engagement email with updated offerings",
+                "delay_count": 0,
+                "interval_type": "days"
+            },
+            {
+                "activity_type_name": "Call",
+                "summary": "Follow up call to gauge interest and update needs",
+                "delay_count": 5,
+                "interval_type": "days"
+            }
+        ]
+    },
+    {
+        "name": "Retail Partner Onboarding",
+        "activity_plan_lines": [
+            {
+                "activity_type_name": "Email",
+                "summary": "Send welcome email with onboarding materials",
+                "delay_count": 0,
+                "interval_type": "days"
+            },
+            {
+                "activity_type_name": "Call",
+                "summary": "Schedule call to review onboarding process",
+                "delay_count": 3,
+                "interval_type": "days"
+            },
+            {
+                "activity_type_name": "Meeting",
+                "summary": "Conduct onboarding meeting to finalize partnership",
+                "delay_count": 1,
+                "interval_type": "weeks"
+            }
+        ]
+    },
+    {
+        "name": "Seasonal Promotion Campaign",
+        "activity_plan_lines": [
+            {
+                "activity_type_name": "Email",
+                "summary": "Announce seasonal promotion to existing customers",
+                "delay_count": 0,
+                "interval_type": "days"
+            },
+            {
+                "activity_type_name": "Call",
+                "summary": "Follow up call to encourage participation",
+                "delay_count": 4,
+                "interval_type": "days"
+            },
+            {
+                "activity_type_name": "Email",
+                "summary": "Send reminder email before promotion ends",
+                "delay_count": 1,
+                "interval_type": "weeks"
+            }
+        ]
+    },
+    {
+        "name": "Upsell Opportunity Follow-Up",
+        "activity_plan_lines": [
+            {
+                "activity_type_name": "Call",
+                "summary": "Identify upsell opportunities during regular check-in",
+                "delay_count": 0,
+                "interval_type": "days"
+            },
+            {
+                "activity_type_name": "Email",
+                "summary": "Send tailored upsell proposal",
+                "delay_count": 2,
+                "interval_type": "days"
+            },
+            {
+                "activity_type_name": "Meeting",
+                "summary": "Schedule meeting to discuss upsell details",
+                "delay_count": 1,
+                "interval_type": "weeks"
+            }
+        ]
+    },
+    {
+        "name": "Contract Renewal Process",
+        "activity_plan_lines": [
+            {
+                "activity_type_name": "Email",
+                "summary": "Send contract renewal reminder",
+                "delay_count": 30,
+                "interval_type": "days"
+            },
+            {
+                "activity_type_name": "Call",
+                "summary": "Discuss renewal options and address concerns",
+                "delay_count": 1,
+                "interval_type": "weeks"
+            },
+            {
+                "activity_type_name": "Meeting",
+                "summary": "Finalize renewal agreement meeting",
+                "delay_count": 2,
+                "interval_type": "weeks"
+            }
+        ]
+    },
+    {
+        "name": "New Product Launch Outreach",
+        "activity_plan_lines": [
+            {
+                "activity_type_name": "Email",
+                "summary": "Announce new product launch to prospects",
+                "delay_count": 0,
+                "interval_type": "days"
+            },
+            {
+                "activity_type_name": "Call",
+                "summary": "Follow up call to introduce product benefits",
+                "delay_count": 3,
+                "interval_type": "days"
+            },
+            {
+                "activity_type_name": "Meeting",
+                "summary": "Schedule demo meeting for interested prospects",
+                "delay_count": 1,
+                "interval_type": "weeks"
+            }
+        ]
+    },
+    {
+        "name": "Customer Feedback Collection",
+        "activity_plan_lines": [
+            {
+                "activity_type_name": "Email",
+                "summary": "Send survey request email to recent customers",
+                "delay_count": 7,
+                "interval_type": "days"
+            },
+            {
+                "activity_type_name": "Call",
+                "summary": "Follow up call to discuss feedback and improvements",
+                "delay_count": 1,
+                "interval_type": "weeks"
+            }
+        ]
+    }
+]

@@ -1,0 +1,1657 @@
+{
+  "table_name": "Milestones",
+  "parent_workspace_name": "Client Projects",
+  "parent_base_name": "Client Projects",
+  "records": [
+    {
+      "fields": {
+        "Milestone Name": "Kickoff Meeting Completed",
+        "Due Date": "2024-12-15",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Initial project kickoff meeting held with all stakeholders.",
+        "Created Date": "2024-06-25",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Content Strategy Draft",
+        "Due Date": "2025-04-10",
+        "Status": "Delayed",
+        "Completion %": 0.3,
+        "Notes": "Draft content strategy delayed due to client feedback revisions.",
+        "Created Date": "2024-11-20",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "SEO Audit Report Finalized",
+        "Due Date": "2025-02-28",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Comprehensive SEO audit report delivered to client.",
+        "Created Date": "2024-08-15",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Social Media Posting Automation Setup",
+        "Due Date": "2025-01-05",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Automation tools integrated and tested successfully.",
+        "Created Date": "2024-07-01",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Client Dashboard Bug Fix Release",
+        "Due Date": "2025-05-20",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Scheduled bug fix deployment for client dashboard issues.",
+        "Created Date": "2025-01-10",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Market Research Data Collection",
+        "Due Date": "2025-03-12",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Completed data gathering phase using AI tools.",
+        "Created Date": "2024-09-30",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Email Template Personalization Testing",
+        "Due Date": "2025-06-10",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Testing personalized email campaigns for higher engagement.",
+        "Created Date": "2025-04-01",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Virtual Assistant Pilot Launch",
+        "Due Date": "2025-05-05",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Successfully launched pilot version of virtual assistant.",
+        "Created Date": "2024-12-15",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Legacy System Security Audit",
+        "Due Date": "2024-12-30",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Security audit completed with recommendations implemented.",
+        "Created Date": "2024-07-20",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Chatbot Enhancement Release 1.2",
+        "Due Date": "2025-03-28",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Improved chatbot NLP capabilities and response accuracy.",
+        "Created Date": "2024-10-05",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Analytics Dashboard UI Update",
+        "Due Date": "2025-04-15",
+        "Status": "Delayed",
+        "Completion %": 0.5,
+        "Notes": "UI update delayed due to resource constraints.",
+        "Created Date": "2024-11-10",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Customer Segmentation Model Deployment",
+        "Due Date": "2025-02-20",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "AI-driven segmentation model deployed to production.",
+        "Created Date": "2024-08-05",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Retainer Contract Renewal Meeting",
+        "Due Date": "2025-05-30",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Scheduled client meeting to discuss contract renewal.",
+        "Created Date": "2025-03-15",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Ad Campaign Bug Fixes Testing",
+        "Due Date": "2025-01-22",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Completed testing and fixes for ad campaign issues.",
+        "Created Date": "2024-09-01",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "New AI Insights Feature Rollout",
+        "Due Date": "2025-06-18",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Preparing rollout plan for new AI insights module.",
+        "Created Date": "2025-05-01",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Monthly Maintenance Update June",
+        "Due Date": "2025-06-26",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Scheduled routine maintenance tasks for this month.",
+        "Created Date": "2025-06-01",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Lead Scoring Algorithm Update",
+        "Due Date": "2025-04-25",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Improved accuracy of AI lead scoring mechanism.",
+        "Created Date": "2024-12-10",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Content Quality Assurance Review",
+        "Due Date": "2025-03-05",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "QA review completed with positive results.",
+        "Created Date": "2024-09-25",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Performance Bug Fixes Deployment",
+        "Due Date": "2025-05-12",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Scheduled deployment of performance-related bug fixes.",
+        "Created Date": "2025-02-20",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Marketing Research Initiative Kickoff",
+        "Due Date": "2024-11-15",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Initiative started with full team engagement.",
+        "Created Date": "2024-06-30",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Client Retainer Program Expansion Plan",
+        "Due Date": "2025-02-10",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Plan approved for expanding retainer program.",
+        "Created Date": "2024-08-18",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Website Update Sprint Q1",
+        "Due Date": "2025-01-18",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Website updates for Q1 completed ahead of schedule.",
+        "Created Date": "2024-07-15",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Customer Insights AI Model Train",
+        "Due Date": "2025-04-02",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Trained new AI model for customer insights analysis.",
+        "Created Date": "2024-10-22",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Bug Fix Release: Email Automation",
+        "Due Date": "2025-03-22",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Critical bug fixes deployed for email automation system.",
+        "Created Date": "2024-09-12",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Content Strategy Enhancement Workshop",
+        "Due Date": "2025-06-12",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Workshop scheduled to improve content methodology.",
+        "Created Date": "2025-04-10",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Campaign Forecasting Model Update",
+        "Due Date": "2025-05-08",
+        "Status": "Delayed",
+        "Completion %": 0.4,
+        "Notes": "Update delayed due to integration issues.",
+        "Created Date": "2025-02-25",
+        "Risk Level": "High"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Monthly Client Support Retainer Review",
+        "Due Date": "2025-06-20",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Review meeting planned for monthly client support.",
+        "Created Date": "2025-05-12",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "User Interface Maintenance Cycle",
+        "Due Date": "2025-04-18",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "UI maintenance completed with minor fixes.",
+        "Created Date": "2024-11-05",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Lead Generation Enhancement Module",
+        "Due Date": "2025-05-25",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Development phase for lead generation upgrades begins.",
+        "Created Date": "2025-03-20",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Dashboard Bug Fix Emergency Patch",
+        "Due Date": "2025-03-14",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Emergency patch deployed for dashboard bugs.",
+        "Created Date": "2024-10-30",
+        "Risk Level": "High"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Campaign Content Quality Improvement",
+        "Due Date": "2025-01-30",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Improved content standards implemented successfully.",
+        "Created Date": "2024-08-05",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Customer Behavior Data Analysis",
+        "Due Date": "2025-02-25",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "AI analysis of customer behavior completed.",
+        "Created Date": "2024-09-18",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Digital Retainer Setup Completion",
+        "Due Date": "2025-03-19",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Retainer setup finalized and operational.",
+        "Created Date": "2024-10-10",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Website Security Update Deployment",
+        "Due Date": "2025-06-18",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Security protocol updates scheduled for deployment.",
+        "Created Date": "2025-04-25",
+        "Risk Level": "High"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Customer Feedback Integration Phase 1",
+        "Due Date": "2025-04-29",
+        "Status": "Delayed",
+        "Completion %": 0.2,
+        "Notes": "Integration phase delayed by technical challenges.",
+        "Created Date": "2025-01-30",
+        "Risk Level": "High"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Email System Bug Fix Rollout",
+        "Due Date": "2025-02-08",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Bug fixes for email delivery issues deployed.",
+        "Created Date": "2024-09-28",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Content AI Optimization Sprint",
+        "Due Date": "2025-05-04",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Sprint planned to enhance AI content quality.",
+        "Created Date": "2025-03-01",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Campaign Performance Forecast Release",
+        "Due Date": "2025-01-12",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Forecasting tool for campaigns released.",
+        "Created Date": "2024-07-30",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Client Retainer Service Expansion Meeting",
+        "Due Date": "2025-06-03",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Meeting scheduled to discuss retainer expansion.",
+        "Created Date": "2025-04-15",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "UI Maintenance and Upgrade Completion",
+        "Due Date": "2025-03-01",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "User interface maintenance and upgrades completed.",
+        "Created Date": "2024-11-25",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Lead Generation Platform Upgrade",
+        "Due Date": "2025-04-19",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Upgraded platform with new AI lead gen features.",
+        "Created Date": "2024-12-05",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Marketing Dashboard Critical Fixes",
+        "Due Date": "2025-02-19",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Critical fixes applied to marketing dashboard.",
+        "Created Date": "2024-09-15",
+        "Risk Level": "High"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Campaign Content AI Quality Control",
+        "Due Date": "2025-01-25",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Quality control measures for AI content implemented.",
+        "Created Date": "2024-08-12",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Customer Behavior Modeling Work",
+        "Due Date": "2025-05-15",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Starting new AI customer behavior modeling project.",
+        "Created Date": "2025-03-25",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Digital Marketing Retainer Campaign Launch",
+        "Due Date": "2025-04-07",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Retainer campaign launched with key clients.",
+        "Created Date": "2024-12-28",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Website Security Protocols Update",
+        "Due Date": "2025-03-26",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Updated security protocols to latest standards.",
+        "Created Date": "2024-10-17",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "AI Customer Feedback Tool Development",
+        "Due Date": "2025-06-10",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Development phase for feedback tool started.",
+        "Created Date": "2025-04-20",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Email System Critical Bug Fix Deployment",
+        "Due Date": "2025-05-01",
+        "Status": "Delayed",
+        "Completion %": 0.3,
+        "Notes": "Deployment delayed due to last minute issues.",
+        "Created Date": "2025-02-15",
+        "Risk Level": "High"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Content Strategy AI Renovation",
+        "Due Date": "2025-03-10",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Renovated content strategy using AI refinement.",
+        "Created Date": "2024-11-02",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Campaign AI Forecasting System Update",
+        "Due Date": "2025-06-23",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Upcoming update to forecasting system scheduled.",
+        "Created Date": "2025-05-10",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Client Retainer Marketing Growth Plan",
+        "Due Date": "2025-01-28",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Growth plan approved for client retainer services.",
+        "Created Date": "2024-08-22",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "UI Maintenance and UX Improvement",
+        "Due Date": "2025-04-16",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "UI and UX improvements completed successfully.",
+        "Created Date": "2024-11-20",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "AI Lead Generation Optimization",
+        "Due Date": "2025-02-14",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Optimization of AI lead gen algorithms completed.",
+        "Created Date": "2024-09-05",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Marketing Dashboard Emergency Fixes",
+        "Due Date": "2025-03-11",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Emergency fixes deployed to address dashboard crashes.",
+        "Created Date": "2024-10-28",
+        "Risk Level": "High"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Campaign Content Quality Review",
+        "Due Date": "2025-05-20",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Quality review scheduled for upcoming campaigns.",
+        "Created Date": "2025-03-30",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Customer AI Behavior Modeling Study",
+        "Due Date": "2025-04-29",
+        "Status": "Delayed",
+        "Completion %": 0.35,
+        "Notes": "Study progress slower than anticipated due to data quality.",
+        "Created Date": "2025-01-22",
+        "Risk Level": "High"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Digital Marketing Retainer Growth Plan",
+        "Due Date": "2025-05-10",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Planning phase for retainer growth campaign.",
+        "Created Date": "2025-03-15",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Website Security Patch Cycle",
+        "Due Date": "2025-02-26",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Security patch cycle completed on schedule.",
+        "Created Date": "2024-09-25",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "AI Customer Feedback System Deployment",
+        "Due Date": "2025-06-06",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Deployment scheduled for new feedback system.",
+        "Created Date": "2025-04-27",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Email System Critical Resolution Phase",
+        "Due Date": "2025-05-14",
+        "Status": "Delayed",
+        "Completion %": 0.4,
+        "Notes": "Resolution phase delayed due to complex bug fixes.",
+        "Created Date": "2025-02-28",
+        "Risk Level": "High"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Content Strategy AI Enhancement Plan",
+        "Due Date": "2025-03-23",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Plan executed for enhancing AI content strategy.",
+        "Created Date": "2024-11-15",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Campaign AI Forecasting Initiative",
+        "Due Date": "2025-06-19",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Initiative planning underway for forecasting improvements.",
+        "Created Date": "2025-05-05",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Client Retainer Marketing Expansion",
+        "Due Date": "2025-02-15",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Expanded retainer marketing services to new clients.",
+        "Created Date": "2024-09-08",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "UI Maintenance and UX Overhaul",
+        "Due Date": "2025-05-27",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Scheduled an overhaul of UI and UX for client apps.",
+        "Created Date": "2025-03-28",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "AI-Driven Customer Insights Release",
+        "Due Date": "2025-01-10",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Released new AI insights module for customer analytics.",
+        "Created Date": "2024-07-20",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Social Media Automation Enhancement",
+        "Due Date": "2025-04-14",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Enhanced automation features for social media posts.",
+        "Created Date": "2024-11-12",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Website Bug Fix Sprint Q2",
+        "Due Date": "2025-06-12",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Sprint planned to fix website bugs reported in Q2.",
+        "Created Date": "2025-04-29",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Client Dashboard Feature Update",
+        "Due Date": "2025-03-07",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "New features added to client dashboard interface.",
+        "Created Date": "2024-10-20",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "AI Chatbot Training Phase",
+        "Due Date": "2025-01-16",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Training completed with improved response accuracy.",
+        "Created Date": "2024-08-01",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Email Campaign Performance Analysis",
+        "Due Date": "2025-04-22",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Analyzed campaign data for performance insights.",
+        "Created Date": "2024-11-30",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Marketing Dashboard Feature Enhancement",
+        "Due Date": "2025-05-15",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Enhancement scheduled for marketing analytics dashboard.",
+        "Created Date": "2025-03-05",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Client Retainer Success Review",
+        "Due Date": "2025-02-18",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Reviewed success metrics of retainer clients.",
+        "Created Date": "2024-09-15",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "AI Market Research Tool Upgrade",
+        "Due Date": "2025-06-08",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Tool upgrade planned for improved AI market research.",
+        "Created Date": "2025-04-18",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "New Lead Scoring Model Deployment",
+        "Due Date": "2025-03-25",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Deployed updated AI model for lead scoring.",
+        "Created Date": "2024-12-03",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Campaign Content AI Quality Review",
+        "Due Date": "2025-01-29",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Review completed ensuring content quality standards.",
+        "Created Date": "2024-08-20",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "AI Customer Behavior Analytics Project",
+        "Due Date": "2025-02-27",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Analytics project completed and results documented.",
+        "Created Date": "2024-09-30",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Digital Marketing Retainer Campaign",
+        "Due Date": "2025-05-05",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Campaign launch planned for retainer clients.",
+        "Created Date": "2025-03-25",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Website Security Enhancement Plan",
+        "Due Date": "2025-04-17",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Plan executed to enhance website security measures.",
+        "Created Date": "2024-11-25",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "AI Customer Feedback Platform Launch",
+        "Due Date": "2025-06-14",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Launch scheduled for new feedback platform.",
+        "Created Date": "2025-05-01",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Email System Critical Issue Resolution",
+        "Due Date": "2025-03-03",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Resolved critical issues in email system.",
+        "Created Date": "2024-10-10",
+        "Risk Level": "High"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Content Strategy AI Refinement",
+        "Due Date": "2025-02-12",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Refined AI-driven content strategy for client campaigns.",
+        "Created Date": "2024-09-20",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Campaign Forecast AI Development",
+        "Due Date": "2025-05-23",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Development started on AI forecasting tools.",
+        "Created Date": "2025-03-18",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Client Retainer Marketing Growth",
+        "Due Date": "2025-01-14",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Achieved planned growth in retainer marketing.",
+        "Created Date": "2024-07-25",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "UI Maintenance and Redesign",
+        "Due Date": "2025-04-05",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Redesign completed with improved user experience.",
+        "Created Date": "2024-11-01",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "AI Lead Generation Platform Upgrade",
+        "Due Date": "2025-03-19",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Platform upgraded with latest AI models.",
+        "Created Date": "2024-10-15",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Marketing Dashboard Priority Fixes",
+        "Due Date": "2025-02-22",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "High priority fixes addressed in dashboard.",
+        "Created Date": "2024-09-30",
+        "Risk Level": "High"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Campaign Content AI Verification",
+        "Due Date": "2025-06-02",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Verification process planned for campaign content.",
+        "Created Date": "2025-04-28",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Customer AI Behavior Modeling Study",
+        "Due Date": "2025-01-26",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Study completed with actionable insights.",
+        "Created Date": "2024-08-22",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Digital Marketing Retainer Upgrade",
+        "Due Date": "2025-04-21",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Upgrade scheduled for retainer marketing services.",
+        "Created Date": "2025-02-15",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Website Security Cycle Update",
+        "Due Date": "2025-03-13",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Security cycle update applied as per schedule.",
+        "Created Date": "2024-10-05",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "AI Customer Feedback Analysis Deploy",
+        "Due Date": "2025-05-11",
+        "Status": "Delayed",
+        "Completion %": 0.3,
+        "Notes": "Deployment delayed due to integration issues.",
+        "Created Date": "2025-02-28",
+        "Risk Level": "High"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Email System Critical Bug Resolution",
+        "Due Date": "2025-02-05",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Critical bugs resolved successfully in email system.",
+        "Created Date": "2024-09-12",
+        "Risk Level": "High"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Content Strategy AI Upgrade",
+        "Due Date": "2025-06-21",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Upgrade planned for AI content strategy tools.",
+        "Created Date": "2025-05-08",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Campaign AI Forecasting System",
+        "Due Date": "2025-01-08",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "AI forecasting system successfully implemented.",
+        "Created Date": "2024-07-28",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Client Retainer Marketing Service Expansion",
+        "Due Date": "2025-04-28",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Expansion planning for retainer marketing services.",
+        "Created Date": "2025-02-20",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "UI Maintenance and Redesign Phase 2",
+        "Due Date": "2025-03-09",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Phase 2 of UI redesign completed.",
+        "Created Date": "2024-10-18",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "AI Lead Generation Strategy Upgrade",
+        "Due Date": "2025-05-17",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Strategy upgrade planned for lead gen AI.",
+        "Created Date": "2025-03-30",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Marketing Dashboard Urgent Fixes",
+        "Due Date": "2025-02-13",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Urgent fixes deployed to dashboard.",
+        "Created Date": "2024-09-18",
+        "Risk Level": "High"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Campaign Content Quality Improvement",
+        "Due Date": "2025-04-10",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Campaign content quality significantly improved.",
+        "Created Date": "2024-11-02",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Customer AI Behavioral Data Analysis",
+        "Due Date": "2025-01-22",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Data analysis completed with updated algorithms.",
+        "Created Date": "2024-08-10",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Digital Marketing Retainer Strategy Plan",
+        "Due Date": "2025-03-21",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Comprehensive strategy plan approved.",
+        "Created Date": "2024-10-02",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Website Security Upgrade Cycle",
+        "Due Date": "2025-06-15",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Upcoming security upgrade cycle planned.",
+        "Created Date": "2025-04-22",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "AI Customer Feedback Analytics Platform",
+        "Due Date": "2025-05-03",
+        "Status": "Delayed",
+        "Completion %": 0.25,
+        "Notes": "Platform rollout delayed due to backend issues.",
+        "Created Date": "2025-02-27",
+        "Risk Level": "High"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Email System Critical Issue Resolution Phase",
+        "Due Date": "2025-01-31",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Critical issue resolved within planned timeframe.",
+        "Created Date": "2024-08-28",
+        "Risk Level": "High"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Content Strategy AI Renovation Phase 2",
+        "Due Date": "2025-04-27",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Phase 2 of AI renovation scheduled.",
+        "Created Date": "2025-02-20",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Campaign AI Forecasting Implementation",
+        "Due Date": "2025-03-17",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Forecasting implementation completed.",
+        "Created Date": "2024-10-25",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Client Retainer Marketing Service Growth",
+        "Due Date": "2025-05-28",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Growth initiatives planned for retainer marketing.",
+        "Created Date": "2025-03-22",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "UI Maintenance and UX Overhaul Phase 2",
+        "Due Date": "2025-02-02",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Second phase of UI/UX overhaul completed.",
+        "Created Date": "2024-08-30",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "AI-Driven Customer Insights Release",
+        "Due Date": "2025-01-05",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Customer insights AI module released.",
+        "Created Date": "2024-07-10",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Social Media Automation Feature Upgrade",
+        "Due Date": "2025-04-24",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Upgraded automation features for social media.",
+        "Created Date": "2024-11-18",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Website Bug Fix Sprint Completion",
+        "Due Date": "2025-06-24",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Ongoing sprint to fix website bugs.",
+        "Created Date": "2025-05-10",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Client Dashboard Feature Enhancement",
+        "Due Date": "2025-03-02",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Enhanced client dashboard with new widgets.",
+        "Created Date": "2024-10-08",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "AI Chatbot NLP Model Upgrade",
+        "Due Date": "2025-01-20",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Upgraded NLP model for chatbot responses.",
+        "Created Date": "2024-08-15",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Email Campaign Performance Review",
+        "Due Date": "2025-04-18",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Reviewed and analyzed recent email campaigns.",
+        "Created Date": "2024-11-25",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Marketing Dashboard Feature Release",
+        "Due Date": "2025-05-12",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Scheduled new features for marketing dashboard.",
+        "Created Date": "2025-03-12",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Client Retainer Success Metrics Analysis",
+        "Due Date": "2025-02-22",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Analyzed success metrics for retainer clients.",
+        "Created Date": "2024-09-22",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "AI Market Research Tool Testing",
+        "Due Date": "2025-06-04",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Planned testing phase for market research tools.",
+        "Created Date": "2025-04-15",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Lead Scoring Model Finalization",
+        "Due Date": "2025-03-21",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Finalized AI lead scoring model improvements.",
+        "Created Date": "2024-12-01",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Campaign Content AI Quality Assurance",
+        "Due Date": "2025-01-28",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Ensured AI content met quality assurance standards.",
+        "Created Date": "2024-08-18",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Customer Behavior Analytics Report",
+        "Due Date": "2025-02-24",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Delivered detailed behavior analytics report.",
+        "Created Date": "2024-09-25",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Digital Retainer Campaign Launch",
+        "Due Date": "2025-05-06",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Launch planned for digital marketing retainer campaign.",
+        "Created Date": "2025-03-28",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Website Security Plan Implementation",
+        "Due Date": "2025-04-19",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Implemented security improvement plan successfully.",
+        "Created Date": "2024-12-01",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "AI Customer Feedback Platform Testing",
+        "Due Date": "2025-06-11",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Testing phase for feedback platform underway.",
+        "Created Date": "2025-05-03",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Email System Critical Issue Patch",
+        "Due Date": "2025-03-04",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Critical patch applied to email system issues.",
+        "Created Date": "2024-10-15",
+        "Risk Level": "High"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Content Strategy AI Refinement Phase 2",
+        "Due Date": "2025-02-13",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Phase 2 refinements completed for content strategy.",
+        "Created Date": "2024-09-25",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Campaign AI Forecasting Tool Update",
+        "Due Date": "2025-05-24",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Update planned for AI forecasting tools.",
+        "Created Date": "2025-03-22",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Client Retainer Growth Strategy",
+        "Due Date": "2025-01-15",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Growth strategy for retainer clients implemented.",
+        "Created Date": "2024-08-02",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "UI Maintenance and UX Redesign",
+        "Due Date": "2025-04-06",
+        "Status": "Reached",
+        "Completion %": 0.1,
+        "Notes": "Completed UX redesign improving user workflows.",
+        "Created Date": "2024-11-05",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Initial Content Strategy Outline",
+        "Due Date": "2025-04-15",
+        "Status": "Reached",
+        "Completion %": 0.100,
+        "Notes": "Completed the first draft of the AI-generated content strategy for client review.",
+        "Created Date": "2024-07-10",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "SEO Keyword Audit Completion",
+        "Due Date": "2025-06-01",
+        "Status": "Delayed",
+        "Completion %": 0.65,
+        "Notes": "Audit revealed new keyword opportunities but delays due to tool integration.",
+        "Created Date": "2024-11-22",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Social Media Automation Beta Launch",
+        "Due Date": "2025-05-20",
+        "Status": "Reached",
+        "Completion %": 0.100,
+        "Notes": "Beta version deployed to selected clients with positive feedback.",
+        "Created Date": "2025-01-30",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Client Dashboard Bug Fixes Release 1",
+        "Due Date": "2025-03-10",
+        "Status": "Reached",
+        "Completion %": 0.100,
+        "Notes": "Resolved critical bugs affecting analytics display.",
+        "Created Date": "2024-08-05",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "AI Market Research Prototype",
+        "Due Date": "2025-01-15",
+        "Status": "Reached",
+        "Completion %": 0.100,
+        "Notes": "Prototype delivered and tested internally for accuracy.",
+        "Created Date": "2024-06-30",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Email Campaign Personalization Setup",
+        "Due Date": "2025-04-28",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Plan to integrate AI-driven personalization features into email campaigns.",
+        "Created Date": "2025-05-05",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Virtual Assistant Initial Training",
+        "Due Date": "2025-02-20",
+        "Status": "Reached",
+        "Completion %": 0.100,
+        "Notes": "Completed initial training dataset for virtual assistant AI.",
+        "Created Date": "2024-12-01",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Legacy System Maintenance Schedule",
+        "Due Date": "2025-06-10",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Scheduled regular updates and patches for old client systems.",
+        "Created Date": "2025-03-15",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "AI Chatbot Enhancement Phase 1",
+        "Due Date": "2025-05-05",
+        "Status": "Reached",
+        "Completion %": 0.100,
+        "Notes": "Implemented new NLP models improving response accuracy by 15%.",
+        "Created Date": "2024-10-25",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Performance Analytics Dashboard Revamp",
+        "Due Date": "2025-03-30",
+        "Status": "Delayed",
+        "Completion %": 0.70,
+        "Notes": "Development slowed due to API integration challenges.",
+        "Created Date": "2024-09-12",
+        "Risk Level": "High"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Customer Segmentation Study Final Report",
+        "Due Date": "2025-01-28",
+        "Status": "Reached",
+        "Completion %": 0.100,
+        "Notes": "In-depth analysis completed; report shared with marketing team.",
+        "Created Date": "2024-07-20",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Retainer Contract Renewal Discussions",
+        "Due Date": "2025-06-25",
+        "Status": "Planned",
+        "Completion %": 0.10,
+        "Notes": "Initial meetings started with key clients for contract renewal.",
+        "Created Date": "2025-05-18",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Ad Campaign Bug Fixing Sprint",
+        "Due Date": "2025-02-10",
+        "Status": "Reached",
+        "Completion %": 0.100,
+        "Notes": "Fixed all reported bugs affecting campaign delivery metrics.",
+        "Created Date": "2024-11-10",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "New Feature Rollout: AI Insights",
+        "Due Date": "2025-04-18",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Preparing infrastructure for next-gen AI insights feature.",
+        "Created Date": "2025-03-05",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Monthly Maintenance Update June",
+        "Due Date": "2025-06-15",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Routine system maintenance scheduled for mid-June.",
+        "Created Date": "2025-05-22",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "AI-Driven Lead Scoring Model Training",
+        "Due Date": "2025-03-12",
+        "Status": "Reached",
+        "Completion %": 0.100,
+        "Notes": "Model trained and validated with current campaign data.",
+        "Created Date": "2024-08-18",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Content Quality Enhancement Workshop",
+        "Due Date": "2025-05-25",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Workshop planned to train team on AI content standards.",
+        "Created Date": "2025-04-10",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Campaign Performance Bug Fixes Deployment",
+        "Due Date": "2025-02-28",
+        "Status": "Reached",
+        "Completion %": 0.100,
+        "Notes": "Patch deployed resolving performance tracking issues.",
+        "Created Date": "2024-12-05",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "AI Marketing Research Initiative Kickoff",
+        "Due Date": "2025-01-05",
+        "Status": "Reached",
+        "Completion %": 0.100,
+        "Notes": "Project officially started with kickoff meeting and resource allocation.",
+        "Created Date": "2024-06-15",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Client Retainer Program Expansion Proposal",
+        "Due Date": "2025-04-01",
+        "Status": "Planned",
+        "Completion %": 0.20,
+        "Notes": "Draft proposal under review by management.",
+        "Created Date": "2025-02-15",
+        "Risk Level": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "Website Maintenance and Updates Cycle",
+        "Due Date": "2025-06-20",
+        "Status": "Planned",
+        "Completion %": 0.0,
+        "Notes": "Scheduled updates to improve load times and security.",
+        "Created Date": "2025-05-01",
+        "Risk Level": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Milestone Name": "AI-Powered Customer Insights Report",
+        "Due Date": "2025-03-22",
+        "Status": "Reached",
+        "Completion %": 0.100,
+        "Notes": "Insights report finalized and shared with client team.",
+        "Created Date": "2024-10-01",
+        "Risk Level": "Low"
+      }
+    }
+  ]
+}

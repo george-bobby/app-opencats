@@ -1,0 +1,163 @@
+{
+    "sample_kras": [
+        {
+            "kra": "Improve Code Quality through Peer Reviews",
+            "description": "Conduct regular code reviews to maintain high quality standards",
+            "weightage_range": [
+                20,
+                30
+            ]
+        },
+        {
+            "kra": "Reduce Bug Defect Rate",
+            "description": "Decrease number of bugs reported in production",
+            "weightage_range": [
+                15,
+                25
+            ]
+        },
+        {
+            "kra": "Improve System Performance",
+            "description": "Optimize application to increase performance metrics",
+            "weightage_range": [
+                15,
+                25
+            ]
+        },
+        {
+            "kra": "Knowledge Sharing Sessions",
+            "description": "Conduct technical sessions to share knowledge with team",
+            "weightage_range": [
+                10,
+                20
+            ]
+        },
+        {
+            "kra": "Process Documentation",
+            "description": "Document processes and procedures for better team collaboration",
+            "weightage_range": [
+                10,
+                15
+            ]
+        },
+        {
+            "kra": "Training and Skill Development",
+            "description": "Complete training courses to enhance technical skills",
+            "weightage_range": [
+                10,
+                15
+            ]
+        },
+        {
+            "kra": "Client Satisfaction",
+            "description": "Maintain high client satisfaction through quality deliverables",
+            "weightage_range": [
+                15,
+                25
+            ]
+        },
+        {
+            "kra": "Project Delivery",
+            "description": "Complete project deliverables on time and within scope",
+            "weightage_range": [
+                20,
+                30
+            ]
+        },
+        {
+            "kra": "Team Collaboration",
+            "description": "Effectively collaborate with team members on projects",
+            "weightage_range": [
+                10,
+                20
+            ]
+        },
+        {
+            "kra": "Innovation",
+            "description": "Propose and implement innovative solutions to existing problems",
+            "weightage_range": [
+                10,
+                20
+            ]
+        }
+    ],
+    "self_appraisal_templates": [
+        "This {cycle}, I've made {progress_level} progress in {area1} and {area2}. My {metric1} has improved with {metric_detail}. I also {achievement}. I could have spent more time on {improvement_area}, which I plan to prioritize in the next cycle. Overall, I believe I've added value to the team both technically and collaboratively.",
+        "During {cycle}, I focused on {area1} and {area2}. I'm particularly proud of {achievement} which helped {achievement_impact}. Areas where I could improve include {improvement_area}. My goal for next {cycle} is to {future_goal}.",
+        "I've had a {progress_level} {cycle} with significant improvements in {area1}. I successfully {achievement} and received positive feedback on {feedback_area}. Going forward, I plan to enhance my skills in {improvement_area} and take more initiative in {future_goal}.",
+        "This {cycle} has been {progress_level} for my professional growth. I've strengthened my abilities in {area1} and {area2}, completed {achievement}, and contributed to {team_contribution}. For continued growth, I'll need to focus more on {improvement_area}.",
+        "My performance this {cycle} has been {progress_level}. Key accomplishments include {achievement} and improvements in {area1}. I've received constructive feedback about {improvement_area} which I'm actively working on. My goals for next {cycle} include {future_goal}."
+    ],
+    "areas": [
+        "managing sprint deliverables",
+        "code quality",
+        "mentoring junior developers",
+        "technical documentation",
+        "cross-team collaboration",
+        "project planning",
+        "test coverage",
+        "system architecture",
+        "client communication",
+        "knowledge sharing",
+        "UI/UX improvements",
+        "performance optimization",
+        "database design",
+        "security best practices",
+        "API development"
+    ],
+    "achievements": [
+        "conducted two internal tech talks",
+        "led the implementation of a critical feature",
+        "reduced build time by 30%",
+        "mentored three junior team members",
+        "implemented automated testing that caught 15 bugs before release",
+        "optimized database queries resulting in 40% faster load times",
+        "received positive client feedback for project delivery",
+        "resolved 5 high-priority production issues",
+        "created comprehensive documentation for the onboarding process",
+        "successfully completed migration to a newer technology stack"
+    ],
+    "improvement_areas": [
+        "external certifications",
+        "technical writing skills",
+        "public speaking",
+        "time management",
+        "delegation skills",
+        "cross-functional knowledge",
+        "automated testing practices",
+        "design pattern implementation",
+        "leadership skills",
+        "staying updated with latest technology trends"
+    ],
+    "future_goals": [
+        "take on more leadership responsibilities",
+        "contribute to open source projects",
+        "mentor more junior developers",
+        "deep dive into AI/ML technologies",
+        "improve project estimation accuracy",
+        "get certified in cloud technologies",
+        "develop more efficient coding practices",
+        "take ownership of a major product feature",
+        "improve code review efficiency",
+        "expand my knowledge in adjacent technology stacks"
+    ],
+    "progress_levels": [
+        "strong",
+        "significant",
+        "steady",
+        "moderate",
+        "notable"
+    ],
+    "metrics": [
+        "code quality",
+        "delivery time",
+        "test coverage",
+        "documentation quality"
+    ],
+    "metric_details": [
+        "fewer review comments",
+        "positive peer feedback",
+        "improved performance metrics",
+        "reduced bug count"
+    ]
+}

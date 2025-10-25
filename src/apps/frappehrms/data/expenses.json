@@ -1,0 +1,98 @@
+{
+    "accounts": [
+        {
+            "name": "Expense Claims",
+            "account_type": "Payable",
+            "is_group": 1
+        },
+        {
+            "name": "Administrative Expenses"
+        },
+        {
+            "name": "Entertainment Expenses"
+        },
+        {
+            "name": "Medical Expenses"
+        },
+        {
+            "name": "Administrative Expenses"
+        },
+        {
+            "name": "Travel Expenses"
+        },
+        {
+            "name": "Meal Expenses"
+        },
+        {
+            "name": "Office Supply Expenses"
+        },
+        {
+            "name": "Communication Expenses"
+        }
+    ],
+    "claim_types": [
+        {
+            "name": "Calls",
+            "description": "Expenses related to business calls and communication",
+            "accounts": [
+                {
+                    "account": "Communication Expenses"
+                }
+            ]
+        },
+        {
+            "name": "Food",
+            "description": "Food and dining expenses for business purposes",
+            "accounts": [
+                {
+                    "account": "Meal Expenses"
+                }
+            ]
+        },
+        {
+            "name": "Travel",
+            "description": "Expenses related to business travel including airfare, train tickets, cab fares, etc.",
+            "accounts": [
+                {
+                    "account": "Travel Expenses"
+                }
+            ]
+        },
+        {
+            "name": "Meals",
+            "description": "Food and dining expenses while on business trips or client meetings",
+            "accounts": [
+                {
+                    "account": "Meal Expenses"
+                }
+            ]
+        },
+        {
+            "name": "Office Supplies",
+            "description": "Stationery, printer cartridges, and other office supplies",
+            "accounts": [
+                {
+                    "account": "Office Supply Expenses"
+                }
+            ]
+        },
+        {
+            "name": "Medical",
+            "description": "Medical expenses eligible for reimbursement",
+            "accounts": [
+                {
+                    "account": "Medical Expenses"
+                }
+            ]
+        },
+        {
+            "name": "Others",
+            "description": "Other miscellaneous business expenses",
+            "accounts": [
+                {
+                    "account": "Administrative Expenses"
+                }
+            ]
+        }
+    ]
+}

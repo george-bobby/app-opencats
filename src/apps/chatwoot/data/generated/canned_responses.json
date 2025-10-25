@@ -1,0 +1,182 @@
+[
+  {
+    "short_code": "welcome_new_customer",
+    "content": "Hello {contact.name}, welcome to Acme Inc.! We're thrilled to have you on board. Let us know how we can help you get started today.",
+    "created_at": "2025-04-10T06:21:23.467543",
+    "updated_at": "2025-05-25T11:04:40.293671"
+  },
+  {
+    "short_code": "first_contact_greeting",
+    "content": "Hi there, thanks for reaching out to Acme Inc. Support! How can we assist you with our services today?",
+    "created_at": "2024-11-22T16:59:50.369935",
+    "updated_at": "2025-02-14T15:33:03.013294"
+  },
+  {
+    "short_code": "thank_you_for_contacting",
+    "content": "Thank you for getting in touch with Acme Inc. Support. We appreciate the opportunity to assist you.",
+    "created_at": "2024-10-08T13:44:43.641701",
+    "updated_at": "2025-06-25T10:41:25.797494"
+  },
+  {
+    "short_code": "welcome_back",
+    "content": "Welcome back, {contact.name}! We're happy to see you again. How can we assist you today?",
+    "created_at": "2025-05-19T19:08:36.660542",
+    "updated_at": "2025-07-30T04:30:41.739069"
+  },
+  {
+    "short_code": "returning_customer_greeting",
+    "content": "Great to reconnect, {contact.name}. Let us know how we can support you further with your Acme Inc. subscription.",
+    "created_at": "2025-01-23T01:14:31.638597",
+    "updated_at": "2025-02-24T00:48:01.879283"
+  },
+  {
+    "short_code": "troubleshooting_started",
+    "content": "We're starting to troubleshoot your issue now. Could you please provide any additional details or screenshots that might help?",
+    "created_at": "2024-11-30T20:09:45.007487",
+    "updated_at": "2025-01-25T18:12:18.533022"
+  },
+  {
+    "short_code": "checking_account",
+    "content": "I'm checking your account details now, {contact.name}. Please bear with me for a moment while I review your information.",
+    "created_at": "2025-05-14T10:34:52.523808",
+    "updated_at": "2025-05-21T08:53:03.177141"
+  },
+  {
+    "short_code": "investigating_issue",
+    "content": "We are currently investigating the issue you've reported. We'll keep you updated with our findings as soon as possible.",
+    "created_at": "2025-01-03T23:19:13.801161",
+    "updated_at": "2025-05-25T13:26:10.096695"
+  },
+  {
+    "short_code": "escalation_notice",
+    "content": "I've escalated your request to our specialist team for further assistance. We appreciate your patience and will update you as soon as we have more information.",
+    "created_at": "2025-02-25T17:25:22.023089",
+    "updated_at": "2025-02-27T05:45:10.589679"
+  },
+  {
+    "short_code": "follow_up_scheduled",
+    "content": "A follow-up on your case has been scheduled. We'll reach out to you on the agreed date to check on your progress.",
+    "created_at": "2025-04-18T17:30:05.592336",
+    "updated_at": "2025-07-08T00:38:19.063760"
+  },
+  {
+    "short_code": "issue_resolved",
+    "content": "Your reported issue has been resolved. Please let us know if everything is working correctly now or if you need further help.",
+    "created_at": "2024-09-25T18:35:38.877465",
+    "updated_at": "2024-10-14T01:10:32.033378"
+  },
+  {
+    "short_code": "conversation_closing",
+    "content": "If you have no further questions, we\u2019ll close this conversation. You can always reply here if you need more help in the future.",
+    "created_at": "2024-10-11T16:34:46.848575",
+    "updated_at": "2024-12-05T10:40:09.841628"
+  },
+  {
+    "short_code": "satisfaction_check",
+    "content": "Has your issue been fully resolved, {contact.name}? Please let us know if you\u2019re satisfied with the support you received.",
+    "created_at": "2025-05-24T00:09:31.959171",
+    "updated_at": "2025-07-22T06:32:35.775991"
+  },
+  {
+    "short_code": "additional_help",
+    "content": "Is there anything else we can assist you with today? Our team is here to help with any further questions.",
+    "created_at": "2025-02-21T17:11:13.524877",
+    "updated_at": "2025-06-29T11:38:24.223084"
+  },
+  {
+    "short_code": "feedback_request",
+    "content": "We value your feedback! Please let us know how we did today and how we can continue improving your Acme Inc. experience.",
+    "created_at": "2025-01-25T13:55:34.587222",
+    "updated_at": "2025-07-10T04:28:20.825305"
+  },
+  {
+    "short_code": "case_closed",
+    "content": "This case will now be marked as closed. If you need further support, feel free to open a new ticket with us anytime.",
+    "created_at": "2025-01-09T03:53:45.176529",
+    "updated_at": "2025-05-01T10:43:51.450924"
+  },
+  {
+    "short_code": "follow_up_reminder",
+    "content": "Just a reminder, we will follow up with you soon to ensure everything is resolved. Don\u2019t hesitate to reach out before then if needed.",
+    "created_at": "2024-12-30T16:09:20.398257",
+    "updated_at": "2025-03-29T11:16:32.170614"
+  },
+  {
+    "short_code": "technical_difficulties",
+    "content": "We\u2019re currently experiencing some technical difficulties that may affect your service. Our engineering team is working quickly to resolve the issue.",
+    "created_at": "2024-12-15T14:36:42.231468",
+    "updated_at": "2025-02-21T02:16:39.242872"
+  },
+  {
+    "short_code": "billing_inquiry",
+    "content": "Thank you for your billing inquiry. I\u2019m reviewing your account and will provide you with a detailed response shortly.",
+    "created_at": "2025-05-23T18:47:35.100186",
+    "updated_at": "2025-05-30T04:59:15.860572"
+  },
+  {
+    "short_code": "feature_request",
+    "content": "Thank you for sharing your feature request with us! We\u2019ve passed your suggestion to our product team for future consideration.",
+    "created_at": "2025-06-22T04:03:00.743509",
+    "updated_at": "2025-07-25T02:21:12.624102"
+  },
+  {
+    "short_code": "refund_process",
+    "content": "We understand you\u2019re requesting a refund. Please allow us a short time to review your case and process the request as soon as possible.",
+    "created_at": "2025-04-29T19:16:06.236879",
+    "updated_at": "2025-07-25T11:54:52.508613"
+  },
+  {
+    "short_code": "account_setup",
+    "content": "Welcome to Acme Inc., {contact.name}! To help set up your account, please follow the steps provided in the introductory email. Contact us if you need further guidance.",
+    "created_at": "2025-04-04T22:23:44.856116",
+    "updated_at": "2025-06-24T07:57:11.977005"
+  },
+  {
+    "short_code": "password_reset",
+    "content": "A password reset link has been sent to your registered email address. Please follow the instructions to reset your password securely.",
+    "created_at": "2024-12-15T05:37:56.661823",
+    "updated_at": "2025-05-13T10:31:19.404696"
+  },
+  {
+    "short_code": "maintenance_notice",
+    "content": "We\u2019d like to inform you about scheduled maintenance that may temporarily impact system availability. Thank you for your understanding and patience.",
+    "created_at": "2024-08-28T17:53:05.791185",
+    "updated_at": "2025-01-05T15:48:17.806148"
+  },
+  {
+    "short_code": "outage_update",
+    "content": "We\u2019re aware of a current service outage and our engineers are actively working on resolution. We will keep you posted on progress.",
+    "created_at": "2024-11-03T03:42:20.650260",
+    "updated_at": "2024-11-06T16:44:29.184061"
+  },
+  {
+    "short_code": "plan_upgrade",
+    "content": "You can upgrade your plan at any time from your dashboard. If you need assistance or want to learn more about features, let us know!",
+    "created_at": "2025-01-11T06:33:17.283359",
+    "updated_at": "2025-06-08T09:01:47.191776"
+  },
+  {
+    "short_code": "plan_downgrade",
+    "content": "If you wish to downgrade your plan, we can guide you through the process. Please confirm your request and we\u2019ll assist promptly.",
+    "created_at": "2025-01-22T19:35:47.737574",
+    "updated_at": "2025-04-08T02:48:37.841823"
+  },
+  {
+    "short_code": "data_privacy_info",
+    "content": "Your data privacy and security are top priorities at Acme Inc. Let us know if you have any questions about our privacy practices or policies.",
+    "created_at": "2024-11-30T01:28:28.807930",
+    "updated_at": "2025-03-14T11:14:30.359672"
+  },
+  {
+    "short_code": "integration_assistance",
+    "content": "We\u2019re happy to help you integrate Acme Inc. with your existing tools. Please specify your requirements so we can provide targeted assistance.",
+    "created_at": "2024-11-12T04:12:54.808880",
+    "updated_at": "2025-03-15T04:00:38.235845"
+  },
+  {
+    "short_code": "account_verification",
+    "content": "For your security, please verify your identity by responding with the requested details. This ensures your account and data remain protected.",
+    "created_at": "2025-06-13T13:30:24.733211",
+    "updated_at": "2025-07-16T08:29:41.858214"
+  }
+]

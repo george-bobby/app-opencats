@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Sales Tax",
+    "rate": 6.0
+  },
+  {
+    "name": "VAT",
+    "rate": 10.0
+  },
+  {
+    "name": "Property Tax",
+    "rate": 1.2
+  },
+  {
+    "name": "GST",
+    "rate": 5.0
+  },
+  {
+    "name": "Income Tax",
+    "rate": 25.0
+  },
+  {
+    "name": "Corporate Tax",
+    "rate": 21.0
+  },
+  {
+    "name": "Capital Gains Tax",
+    "rate": 15.0
+  },
+  {
+    "name": "Excise Tax",
+    "rate": 8.0
+  },
+  {
+    "name": "Import Duty",
+    "rate": 4.5
+  },
+  {
+    "name": "Estate Tax",
+    "rate": 40.0
+  },
+  {
+    "name": "Payroll Tax",
+    "rate": 7.65
+  }
+]

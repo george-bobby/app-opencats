@@ -1,0 +1,285 @@
+{
+  "prototypes": [
+    {
+      "id": 1,
+      "name": "Deluxe Orthopedic Dog Bed",
+      "public_metadata": "{\"description\":\"Premium comfort bed for dogs with joint support\",\"recommended_use\":\"Ideal for medium to large breed dogs with orthopedic needs\"}",
+      "private_metadata": "{\"sourcing_notes\":\"Prioritize memory foam and durable fabric materials\"}",
+      "property_names": [
+        "material",
+        "durability_level",
+        "special_features"
+      ],
+      "option_type_names": [
+        "pet_size",
+        "product_color"
+      ],
+      "taxon_names": [
+        "Dogs",
+        "Large Breed",
+        "Health & Wellness"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Interactive Cat Scratcher Tower",
+      "public_metadata": "{\"description\":\"Multi-level scratching post with play features\",\"recommended_use\":\"Indoor cat enrichment and exercise\"}",
+      "private_metadata": "{\"design_considerations\":\"Stable base, multiple scratching surfaces\"}",
+      "property_names": [
+        "material",
+        "durability_level",
+        "indoor_outdoor"
+      ],
+      "option_type_names": [
+        "pet_size",
+        "product_color"
+      ],
+      "taxon_names": [
+        "Cats",
+        "Toys",
+        "Adult Pets"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Airline-Approved Pet Travel Carrier",
+      "public_metadata": "{\"description\":\"Comfortable and secure pet transportation solution\",\"recommended_use\":\"Air and ground travel for small pets\"}",
+      "private_metadata": "{\"compliance_notes\":\"Must meet airline cargo and cabin regulations\"}",
+      "property_names": [
+        "material",
+        "special_features",
+        "durability_level"
+      ],
+      "option_type_names": [
+        "pet_size",
+        "product_color"
+      ],
+      "taxon_names": [
+        "Dogs",
+        "Cats",
+        "Small Mammals",
+        "Travel"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Protein-Rich Training Dog Treats",
+      "public_metadata": "{\"description\":\"High-protein reward treats for dog training\",\"recommended_use\":\"Positive reinforcement during obedience training\"}",
+      "private_metadata": "{\"nutrition_guidelines\":\"Low calorie, single protein source\"}",
+      "property_names": [
+        "nutritional_focus",
+        "special_features"
+      ],
+      "option_type_names": [
+        "treat_texture",
+        "food_weight"
+      ],
+      "taxon_names": [
+        "Dogs",
+        "Treats",
+        "Training"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Professional Pet Grooming Brush",
+      "public_metadata": "{\"description\":\"Ergonomic brush for comprehensive pet coat care\",\"recommended_use\":\"Regular grooming for long and short-haired pets\"}",
+      "private_metadata": "{\"quality_control\":\"Verify bristle durability and comfort\"}",
+      "property_names": [
+        "material",
+        "care_instructions",
+        "special_features"
+      ],
+      "option_type_names": [
+        "product_color",
+        "product_material"
+      ],
+      "taxon_names": [
+        "Grooming",
+        "Dogs",
+        "Cats"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Stainless Steel Pet Feeding Bowl",
+      "public_metadata": "{\"description\":\"Hygienic and durable feeding solution\",\"recommended_use\":\"Daily food and water serving\"}",
+      "private_metadata": "{\"manufacturing_notes\":\"Non-slip base preferred\"}",
+      "property_names": [
+        "material",
+        "durability_level",
+        "special_features"
+      ],
+      "option_type_names": [
+        "pet_size",
+        "product_color"
+      ],
+      "taxon_names": [
+        "Dogs",
+        "Cats",
+        "Feeding"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Interactive Laser Cat Toy",
+      "public_metadata": "{\"description\":\"Stimulating play device for indoor cats\",\"recommended_use\":\"Mental and physical cat exercise\"}",
+      "private_metadata": "{\"safety_considerations\":\"Auto-shutoff mechanism\"}",
+      "property_names": [
+        "material",
+        "safety_rating",
+        "special_features"
+      ],
+      "option_type_names": [
+        "pet_size"
+      ],
+      "taxon_names": [
+        "Cats",
+        "Toys",
+        "Indoor"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "All-Weather Dog Jacket",
+      "public_metadata": "{\"description\":\"Protective outerwear for dogs in various climates\",\"recommended_use\":\"Cold weather and rainy conditions\"}",
+      "private_metadata": "{\"design_focus\":\"Waterproof and windproof materials\"}",
+      "property_names": [
+        "material",
+        "care_instructions",
+        "special_features"
+      ],
+      "option_type_names": [
+        "pet_size",
+        "product_color"
+      ],
+      "taxon_names": [
+        "Dogs",
+        "Pet Apparel",
+        "Outdoor"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Natural Pet Shampoo",
+      "public_metadata": "{\"description\":\"Gentle, organic cleaning solution for pets\",\"recommended_use\":\"Regular bathing for sensitive skin\"}",
+      "private_metadata": "{\"ingredient_sourcing\":\"Prioritize organic, hypoallergenic components\"}",
+      "property_names": [
+        "ingredients",
+        "care_instructions",
+        "special_features"
+      ],
+      "option_type_names": [
+        "food_weight"
+      ],
+      "taxon_names": [
+        "Grooming",
+        "Health & Wellness",
+        "Dogs",
+        "Cats"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Professional Dog Training Clicker",
+      "public_metadata": "{\"description\":\"Precision training tool for positive reinforcement\",\"recommended_use\":\"Obedience and behavioral training\"}",
+      "private_metadata": "{\"ergonomic_requirements\":\"Comfortable grip, consistent sound\"}",
+      "property_names": [
+        "material",
+        "durability_level",
+        "special_features"
+      ],
+      "option_type_names": [
+        "product_color"
+      ],
+      "taxon_names": [
+        "Dogs",
+        "Training",
+        "Puppy & Kitten"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Senior Pet Wellness Supplement",
+      "public_metadata": "{\"description\":\"Nutritional support for aging pets\",\"recommended_use\":\"Joint health and overall wellness\"}",
+      "private_metadata": "{\"research_notes\":\"Consult veterinary nutritionists\"}",
+      "property_names": [
+        "nutritional_focus",
+        "special_features",
+        "safety_rating"
+      ],
+      "option_type_names": [
+        "food_weight",
+        "age_stage"
+      ],
+      "taxon_names": [
+        "Health & Wellness",
+        "Senior Pets",
+        "Dogs",
+        "Cats"
+      ]
+    }
+  ],
+  "available_taxons": [
+    "Categories",
+    "Brands",
+    "Pet Types",
+    "Life Stages",
+    "Dogs",
+    "Cats",
+    "Treats",
+    "Grooming",
+    "Toys",
+    "Health & Wellness",
+    "PetKit",
+    "Royal Canin",
+    "Kong",
+    "Frontline",
+    "Purina",
+    "Petmate",
+    "Hill's Science Diet",
+    "Wellness",
+    "Thundershirt",
+    "Nylabone",
+    "Advantage",
+    "Dogs",
+    "Cats",
+    "Small Mammals",
+    "Birds",
+    "Reptiles",
+    "Fish",
+    "Exotic Pets",
+    "Horse",
+    "Insects",
+    "Pet Apparel",
+    "Wildlife Rescue",
+    "Puppy & Kitten",
+    "Adult Pets",
+    "Senior Pets",
+    "Large Breed",
+    "Small Breed",
+    "Special Needs",
+    "Rescue & Adoption",
+    "Multi-Pet Households"
+  ],
+  "available_properties": [
+    "material",
+    "breed_size",
+    "age_range",
+    "durability_level",
+    "special_features",
+    "care_instructions",
+    "nutritional_focus",
+    "safety_rating",
+    "indoor_outdoor"
+  ],
+  "available_option_types": [
+    "pet_size",
+    "product_flavor",
+    "product_color",
+    "product_material",
+    "food_weight",
+    "treat_texture",
+    "age_stage"
+  ]
+}

@@ -1,0 +1,1990 @@
+[
+    {
+        "partner_name": "John Smith",
+        "email_from": "john.smith@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/johnsmith",
+        "department": "Manufacturing",
+        "job_position": "Production Supervisor",
+        "skills": [
+            "Leadership",
+            "Time Management",
+            "Problem Solving"
+        ],
+        "note": "Experienced in team management.",
+        "salary_expected": 75000.0
+    },
+    {
+        "partner_name": "Emily Johnson",
+        "email_from": "emily.johnson@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/emilyjohnson",
+        "department": "Warehouse & Inventory",
+        "job_position": "Warehouse Manager",
+        "skills": [
+            "Inventory Management",
+            "Logistics Coordination",
+            "Team Leadership"
+        ],
+        "note": "Strong logistics background.",
+        "salary_expected": 68000.0
+    },
+    {
+        "partner_name": "Michael Brown",
+        "email_from": "michael.brown@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/michaelbrown",
+        "department": "Logistics",
+        "job_position": "Logistics Coordinator",
+        "skills": [
+            "Communication",
+            "Analytical Skills",
+            "Attention to Detail"
+        ],
+        "note": "Detail-oriented logistics expert.",
+        "salary_expected": 62000.0
+    },
+    {
+        "partner_name": "Sarah Davis",
+        "email_from": "sarah.davis@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/sarahdavis",
+        "department": "Sales & Marketing",
+        "job_position": "Sales Associate",
+        "skills": [
+            "Customer Service",
+            "Sales Techniques",
+            "Product Knowledge"
+        ],
+        "note": "Passionate about customer satisfaction.",
+        "salary_expected": 45000.0
+    },
+    {
+        "partner_name": "David Wilson",
+        "email_from": "david.wilson@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/davidwilson",
+        "department": "Sales & Marketing",
+        "job_position": "Marketing Specialist",
+        "skills": [
+            "Digital Marketing",
+            "Content Creation",
+            "Market Research"
+        ],
+        "note": "Creative marketing strategist.",
+        "salary_expected": 70000.0
+    },
+    {
+        "partner_name": "Jessica Garcia",
+        "email_from": "jessica.garcia@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/jessicagarcia",
+        "department": "Procurement",
+        "job_position": "Procurement Specialist",
+        "skills": [
+            "Negotiation",
+            "Analytical Skills",
+            "Vendor Management"
+        ],
+        "note": "Skilled in supplier negotiations.",
+        "salary_expected": 65000.0
+    },
+    {
+        "partner_name": "Daniel Martinez",
+        "email_from": "daniel.martinez@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/danielmartinez",
+        "department": "Finance & Accounting",
+        "job_position": "Accountant",
+        "skills": [
+            "Financial Analysis",
+            "Attention to Detail",
+            "Accounting Software"
+        ],
+        "note": "Detail-oriented financial analyst.",
+        "salary_expected": 70000.0
+    },
+    {
+        "partner_name": "Laura Rodriguez",
+        "email_from": "laura.rodriguez@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/laurarodriguez",
+        "department": "Human Resources",
+        "job_position": "HR Generalist",
+        "skills": [
+            "Interpersonal Skills",
+            "Conflict Resolution",
+            "Organizational Skills"
+        ],
+        "note": "Experienced in employee relations.",
+        "salary_expected": 60000.0
+    },
+    {
+        "partner_name": "James Lee",
+        "email_from": "james.lee@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/jameslee",
+        "department": "IT",
+        "job_position": "IT Support Specialist",
+        "skills": [
+            "Technical Support",
+            "Problem Solving",
+            "Communication"
+        ],
+        "note": "Tech-savvy support specialist.",
+        "salary_expected": 55000.0
+    },
+    {
+        "partner_name": "Karen Walker",
+        "email_from": "karen.walker@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/karenwalker",
+        "department": "Customer Support",
+        "job_position": "Customer Service Representative",
+        "skills": [
+            "Communication",
+            "Empathy",
+            "Problem Solving"
+        ],
+        "note": "Dedicated to customer satisfaction.",
+        "salary_expected": 40000.0
+    },
+    {
+        "partner_name": "Robert Hall",
+        "email_from": "robert.hall@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/roberthall",
+        "department": "Manufacturing",
+        "job_position": "Quality Control Inspector",
+        "skills": [
+            "Attention to Detail",
+            "Analytical Skills",
+            "Problem Solving"
+        ],
+        "note": "Quality-focused inspector.",
+        "salary_expected": 48000.0
+    },
+    {
+        "partner_name": "Patricia Young",
+        "email_from": "patricia.young@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/patriciayoung",
+        "department": "Warehouse & Inventory",
+        "job_position": "Inventory Analyst",
+        "skills": [
+            "Data Analysis",
+            "Inventory Management",
+            "Excel"
+        ],
+        "note": "Data-driven inventory analyst.",
+        "salary_expected": 62000.0
+    },
+    {
+        "partner_name": "Charles Allen",
+        "email_from": "charles.allen@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/charlesallen",
+        "department": "Logistics",
+        "job_position": "Supply Chain Analyst",
+        "skills": [
+            "Analytical Skills",
+            "Problem Solving",
+            "Communication"
+        ],
+        "note": "Supply chain optimization expert.",
+        "salary_expected": 68000.0
+    },
+    {
+        "partner_name": "Nancy King",
+        "email_from": "nancy.king@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/nancyking",
+        "department": "Sales & Marketing",
+        "job_position": "Retail Store Manager",
+        "skills": [
+            "Leadership",
+            "Sales Management",
+            "Customer Service"
+        ],
+        "note": "Proven retail management skills.",
+        "salary_expected": 75000.0
+    },
+    {
+        "partner_name": "Steven Wright",
+        "email_from": "steven.wright@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/stevenwright",
+        "department": "Sales & Marketing",
+        "job_position": "E-commerce Specialist",
+        "skills": [
+            "Digital Marketing",
+            "SEO",
+            "Data Analysis"
+        ],
+        "note": "E-commerce growth strategist.",
+        "salary_expected": 72000.0
+    },
+    {
+        "partner_name": "Barbara Scott",
+        "email_from": "barbara.scott@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/barbarascott",
+        "department": "Procurement",
+        "job_position": "Purchasing Manager",
+        "skills": [
+            "Negotiation",
+            "Leadership",
+            "Market Analysis"
+        ],
+        "note": "Experienced purchasing leader.",
+        "salary_expected": 80000.0
+    },
+    {
+        "partner_name": "Kevin Green",
+        "email_from": "kevin.green@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/kevgreen",
+        "department": "Finance & Accounting",
+        "job_position": "Financial Analyst",
+        "skills": [
+            "Financial Modeling",
+            "Analytical Skills",
+            "Excel"
+        ],
+        "note": "Data-driven financial analyst.",
+        "salary_expected": 70000.0
+    },
+    {
+        "partner_name": "Michelle Adams",
+        "email_from": "michelle.adams@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/michelleadams",
+        "department": "Finance & Accounting",
+        "job_position": "Payroll Specialist",
+        "skills": [
+            "Attention to Detail",
+            "Time Management",
+            "Accounting Software"
+        ],
+        "note": "Payroll processing expert.",
+        "salary_expected": 55000.0
+    },
+    {
+        "partner_name": "Brian Nelson",
+        "email_from": "brian.nelson@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/briannelson",
+        "department": "Human Resources",
+        "job_position": "Talent Acquisition Specialist",
+        "skills": [
+            "Recruitment",
+            "Interpersonal Skills",
+            "Organizational Skills"
+        ],
+        "note": "Skilled recruiter with experience.",
+        "salary_expected": 60000.0
+    },
+    {
+        "partner_name": "Lisa Carter",
+        "email_from": "lisa.carter@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/lisacarter",
+        "department": "IT",
+        "job_position": "IT Project Manager",
+        "skills": [
+            "Project Management",
+            "Communication",
+            "Technical Knowledge"
+        ],
+        "note": "Experienced IT project leader.",
+        "salary_expected": 90000.0
+    },
+    {
+        "partner_name": "Mark Mitchell",
+        "email_from": "mark.mitchell@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/markmitchell",
+        "department": "Customer Support",
+        "job_position": "Customer Success Manager",
+        "skills": [
+            "Customer Relationship Management",
+            "Communication",
+            "Problem Solving"
+        ],
+        "note": "Focused on customer retention.",
+        "salary_expected": 75000.0
+    },
+    {
+        "partner_name": "Angela Perez",
+        "email_from": "angela.perez@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/angelaperez",
+        "department": "Manufacturing",
+        "job_position": "Manufacturing Engineer",
+        "skills": [
+            "Engineering Principles",
+            "Problem Solving",
+            "Project Management"
+        ],
+        "note": "Innovative manufacturing engineer.",
+        "salary_expected": 80000.0
+    },
+    {
+        "partner_name": "Matthew Roberts",
+        "email_from": "matthew.roberts@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/matthewroberts",
+        "department": "Logistics",
+        "job_position": "Shipping Coordinator",
+        "skills": [
+            "Logistics Coordination",
+            "Attention to Detail",
+            "Communication"
+        ],
+        "note": "Efficient shipping coordinator.",
+        "salary_expected": 58000.0
+    },
+    {
+        "partner_name": "Sophia Turner",
+        "email_from": "sophia.turner@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/sophiaturner",
+        "department": "Sales & Marketing",
+        "job_position": "Sales Manager",
+        "skills": [
+            "Leadership",
+            "Sales Strategy",
+            "Customer Relationship Management"
+        ],
+        "note": "Proven sales leader.",
+        "salary_expected": 95000.0
+    },
+    {
+        "partner_name": "Daniel Lee",
+        "email_from": "daniel.lee@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/daniellee",
+        "department": "Sales & Marketing",
+        "job_position": "Brand Manager",
+        "skills": [
+            "Brand Strategy",
+            "Market Research",
+            "Communication"
+        ],
+        "note": "Creative brand strategist.",
+        "salary_expected": 85000.0
+    },
+    {
+        "partner_name": "Olivia Hall",
+        "email_from": "olivia.hall@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/oliviahall",
+        "department": "Warehouse & Inventory",
+        "job_position": "Warehouse Associate",
+        "skills": [
+            "Attention to Detail",
+            "Physical Stamina",
+            "Teamwork"
+        ],
+        "note": "Reliable warehouse worker.",
+        "salary_expected": 35000.0
+    },
+    {
+        "partner_name": "James White",
+        "email_from": "james.white@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/jameswhite",
+        "department": "Logistics",
+        "job_position": "Logistics Manager",
+        "skills": [
+            "Leadership",
+            "Logistics Management",
+            "Analytical Skills"
+        ],
+        "note": "Experienced logistics manager.",
+        "salary_expected": 90000.0
+    },
+    {
+        "partner_name": "Emily Harris",
+        "email_from": "emily.harris@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/emilyharris",
+        "department": "Customer Support",
+        "job_position": "Customer Support Supervisor",
+        "skills": [
+            "Leadership",
+            "Customer Service",
+            "Problem Solving"
+        ],
+        "note": "Strong customer support leader.",
+        "salary_expected": 70000.0
+    },
+    {
+        "partner_name": "Christopher Clark",
+        "email_from": "christopher.clark@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/christopherclark",
+        "department": "Procurement",
+        "job_position": "Procurement Analyst",
+        "skills": [
+            "Data Analysis",
+            "Negotiation",
+            "Communication"
+        ],
+        "note": "Analytical procurement expert.",
+        "salary_expected": 65000.0
+    },
+    {
+        "partner_name": "Jessica Lewis",
+        "email_from": "jessica.lewis@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/jessicalewis",
+        "department": "Finance & Accounting",
+        "job_position": "Financial Controller",
+        "skills": [
+            "Financial Management",
+            "Leadership",
+            "Analytical Skills"
+        ],
+        "note": "Strategic financial leader.",
+        "salary_expected": 110000.0
+    },
+    {
+        "partner_name": "Brian Walker",
+        "email_from": "brian.walker@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/brianwalker",
+        "department": "Human Resources",
+        "job_position": "HR Manager",
+        "skills": [
+            "Leadership",
+            "Interpersonal Skills",
+            "Organizational Skills"
+        ],
+        "note": "Experienced HR leader.",
+        "salary_expected": 95000.0
+    },
+    {
+        "partner_name": "Sarah Hall",
+        "email_from": "sarah.hall@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/sarahhall",
+        "department": "IT",
+        "job_position": "IT Systems Administrator",
+        "skills": [
+            "Technical Skills",
+            "Problem Solving",
+            "Network Management"
+        ],
+        "note": "IT infrastructure expert.",
+        "salary_expected": 75000.0
+    },
+    {
+        "partner_name": "Daniel Young",
+        "email_from": "daniel.young@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/danielyoung",
+        "department": "Customer Support",
+        "job_position": "Customer Experience Specialist",
+        "skills": [
+            "Analytical Skills",
+            "Communication",
+            "Problem Solving"
+        ],
+        "note": "Focused on enhancing customer experience.",
+        "salary_expected": 60000.0
+    },
+    {
+        "partner_name": "Emily Johnson",
+        "email_from": "emily.johnson@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/emilyjohnson",
+        "department": "Sales & Marketing",
+        "job_position": "Sales Associate",
+        "skills": [
+            "Customer Service",
+            "Sales Techniques",
+            "Product Knowledge"
+        ],
+        "note": "Experienced in retail sales.",
+        "salary_expected": 45000.0
+    },
+    {
+        "partner_name": "Michael Smith",
+        "email_from": "michael.smith@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/michaelsmith",
+        "department": "Warehouse & Inventory",
+        "job_position": "Warehouse Manager",
+        "skills": [
+            "Inventory Management",
+            "Logistics Coordination",
+            "Team Leadership"
+        ],
+        "note": "Strong leadership skills.",
+        "salary_expected": 60000.0
+    },
+    {
+        "partner_name": "Sarah Brown",
+        "email_from": "sarah.brown@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/sarahbrown",
+        "department": "Logistics",
+        "job_position": "Logistics Coordinator",
+        "skills": [
+            "Communication",
+            "Analytical Skills",
+            "Attention to Detail"
+        ],
+        "note": "Detail-oriented logistics expert.",
+        "salary_expected": 55000.0
+    },
+    {
+        "partner_name": "David Wilson",
+        "email_from": "david.wilson@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/davidwilson",
+        "department": "Manufacturing",
+        "job_position": "Production Supervisor",
+        "skills": [
+            "Leadership",
+            "Time Management",
+            "Problem Solving"
+        ],
+        "note": "Proven track record in production.",
+        "salary_expected": 65000.0
+    },
+    {
+        "partner_name": "Jessica Taylor",
+        "email_from": "jessica.taylor@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/jessicataylor",
+        "department": "Sales & Marketing",
+        "job_position": "Marketing Specialist",
+        "skills": [
+            "Digital Marketing",
+            "Content Creation",
+            "Market Research"
+        ],
+        "note": "Creative marketing strategist.",
+        "salary_expected": 58000.0
+    },
+    {
+        "partner_name": "James Anderson",
+        "email_from": "james.anderson@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/jamesanderson",
+        "department": "Finance & Accounting",
+        "job_position": "Accountant",
+        "skills": [
+            "Financial Analysis",
+            "Attention to Detail",
+            "Accounting Software"
+        ],
+        "note": "Detail-oriented financial analyst.",
+        "salary_expected": 70000.0
+    },
+    {
+        "partner_name": "Laura Martinez",
+        "email_from": "laura.martinez@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/lauramartinez",
+        "department": "Human Resources",
+        "job_position": "HR Generalist",
+        "skills": [
+            "Interpersonal Skills",
+            "Conflict Resolution",
+            "Organizational Skills"
+        ],
+        "note": "Skilled in employee relations.",
+        "salary_expected": 60000.0
+    },
+    {
+        "partner_name": "Robert Garcia",
+        "email_from": "robert.garcia@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/robertgarcia",
+        "department": "IT",
+        "job_position": "IT Support Specialist",
+        "skills": [
+            "Technical Support",
+            "Problem Solving",
+            "Communication"
+        ],
+        "note": "Tech-savvy support specialist.",
+        "salary_expected": 55000.0
+    },
+    {
+        "partner_name": "Linda Rodriguez",
+        "email_from": "linda.rodriguez@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/lindarodriguez",
+        "department": "Customer Support",
+        "job_position": "Customer Service Representative",
+        "skills": [
+            "Communication",
+            "Empathy",
+            "Problem Solving"
+        ],
+        "note": "Customer-focused service expert.",
+        "salary_expected": 40000.0
+    },
+    {
+        "partner_name": "Daniel Lee",
+        "email_from": "daniel.lee@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/daniellee",
+        "department": "Manufacturing",
+        "job_position": "Quality Control Inspector",
+        "skills": [
+            "Attention to Detail",
+            "Analytical Skills",
+            "Problem Solving"
+        ],
+        "note": "Quality assurance specialist.",
+        "salary_expected": 48000.0
+    },
+    {
+        "partner_name": "Karen Hall",
+        "email_from": "karen.hall@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/karenhall",
+        "department": "Warehouse & Inventory",
+        "job_position": "Inventory Analyst",
+        "skills": [
+            "Data Analysis",
+            "Inventory Management",
+            "Excel"
+        ],
+        "note": "Data-driven inventory expert.",
+        "salary_expected": 52000.0
+    },
+    {
+        "partner_name": "Matthew Young",
+        "email_from": "matthew.young@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/matthewyoung",
+        "department": "Logistics",
+        "job_position": "Supply Chain Analyst",
+        "skills": [
+            "Analytical Skills",
+            "Problem Solving",
+            "Communication"
+        ],
+        "note": "Supply chain optimization specialist.",
+        "salary_expected": 62000.0
+    },
+    {
+        "partner_name": "Sophia King",
+        "email_from": "sophia.king@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/sophiaking",
+        "department": "Sales & Marketing",
+        "job_position": "Retail Store Manager",
+        "skills": [
+            "Leadership",
+            "Sales Management",
+            "Customer Service"
+        ],
+        "note": "Experienced retail manager.",
+        "salary_expected": 70000.0
+    },
+    {
+        "partner_name": "Christopher Wright",
+        "email_from": "christopher.wright@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/christopherwright",
+        "department": "Sales & Marketing",
+        "job_position": "E-commerce Specialist",
+        "skills": [
+            "Digital Marketing",
+            "SEO",
+            "Data Analysis"
+        ],
+        "note": "E-commerce growth strategist.",
+        "salary_expected": 65000.0
+    },
+    {
+        "partner_name": "Patricia Scott",
+        "email_from": "patricia.scott@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/patriciascott",
+        "department": "Procurement",
+        "job_position": "Procurement Specialist",
+        "skills": [
+            "Negotiation",
+            "Analytical Skills",
+            "Vendor Management"
+        ],
+        "note": "Skilled in supplier negotiations.",
+        "salary_expected": 58000.0
+    },
+    {
+        "partner_name": "Anthony Green",
+        "email_from": "anthony.green@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/anthonygreen",
+        "department": "Finance & Accounting",
+        "job_position": "Financial Analyst",
+        "skills": [
+            "Financial Modeling",
+            "Analytical Skills",
+            "Excel"
+        ],
+        "note": "Data-driven financial analyst.",
+        "salary_expected": 72000.0
+    },
+    {
+        "partner_name": "Nancy Adams",
+        "email_from": "nancy.adams@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/nancyadams",
+        "department": "Finance & Accounting",
+        "job_position": "Payroll Specialist",
+        "skills": [
+            "Attention to Detail",
+            "Time Management",
+            "Accounting Software"
+        ],
+        "note": "Payroll processing expert.",
+        "salary_expected": 50000.0
+    },
+    {
+        "partner_name": "Steven Baker",
+        "email_from": "steven.baker@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/stevenbaker",
+        "department": "Human Resources",
+        "job_position": "Talent Acquisition Specialist",
+        "skills": [
+            "Recruitment",
+            "Interpersonal Skills",
+            "Organizational Skills"
+        ],
+        "note": "Expert in talent acquisition.",
+        "salary_expected": 65000.0
+    },
+    {
+        "partner_name": "Jessica Nelson",
+        "email_from": "jessica.nelson@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/jessicanelson",
+        "department": "IT",
+        "job_position": "IT Project Manager",
+        "skills": [
+            "Project Management",
+            "Communication",
+            "Technical Knowledge"
+        ],
+        "note": "Experienced IT project manager.",
+        "salary_expected": 80000.0
+    },
+    {
+        "partner_name": "Brian Carter",
+        "email_from": "brian.carter@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/briancarter",
+        "department": "Customer Support",
+        "job_position": "Customer Success Manager",
+        "skills": [
+            "Customer Relationship Management",
+            "Communication",
+            "Problem Solving"
+        ],
+        "note": "Focused on customer satisfaction.",
+        "salary_expected": 60000.0
+    },
+    {
+        "partner_name": "Angela Mitchell",
+        "email_from": "angela.mitchell@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/angelamitchell",
+        "department": "Manufacturing",
+        "job_position": "Manufacturing Engineer",
+        "skills": [
+            "Engineering Principles",
+            "Problem Solving",
+            "Project Management"
+        ],
+        "note": "Innovative manufacturing engineer.",
+        "salary_expected": 75000.0
+    },
+    {
+        "partner_name": "Kevin Perez",
+        "email_from": "kevin.perez@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/kevinperez",
+        "department": "Logistics",
+        "job_position": "Shipping Coordinator",
+        "skills": [
+            "Logistics Coordination",
+            "Attention to Detail",
+            "Communication"
+        ],
+        "note": "Efficient shipping coordinator.",
+        "salary_expected": 52000.0
+    },
+    {
+        "partner_name": "Michelle Roberts",
+        "email_from": "michelle.roberts@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/michelleroberts",
+        "department": "Sales & Marketing",
+        "job_position": "Sales Manager",
+        "skills": [
+            "Leadership",
+            "Sales Strategy",
+            "Customer Relationship Management"
+        ],
+        "note": "Proven sales leader.",
+        "salary_expected": 85000.0
+    },
+    {
+        "partner_name": "Laura Turner",
+        "email_from": "laura.turner@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/lauraturner",
+        "department": "Sales & Marketing",
+        "job_position": "Brand Manager",
+        "skills": [
+            "Brand Strategy",
+            "Market Research",
+            "Communication"
+        ],
+        "note": "Expert in brand management.",
+        "salary_expected": 70000.0
+    },
+    {
+        "partner_name": "Charles Phillips",
+        "email_from": "charles.phillips@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/charlesphillips",
+        "department": "Warehouse & Inventory",
+        "job_position": "Warehouse Associate",
+        "skills": [
+            "Attention to Detail",
+            "Physical Stamina",
+            "Teamwork"
+        ],
+        "note": "Reliable warehouse associate.",
+        "salary_expected": 35000.0
+    },
+    {
+        "partner_name": "Jessica Evans",
+        "email_from": "jessica.evans@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/jessicaevans",
+        "department": "Logistics",
+        "job_position": "Logistics Manager",
+        "skills": [
+            "Leadership",
+            "Logistics Management",
+            "Analytical Skills"
+        ],
+        "note": "Experienced logistics manager.",
+        "salary_expected": 90000.0
+    },
+    {
+        "partner_name": "Daniel Collins",
+        "email_from": "daniel.collins@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/danielcollins",
+        "department": "Customer Support",
+        "job_position": "Customer Support Supervisor",
+        "skills": [
+            "Leadership",
+            "Customer Service",
+            "Problem Solving"
+        ],
+        "note": "Strong customer support leader.",
+        "salary_expected": 65000.0
+    },
+    {
+        "partner_name": "Rebecca Stewart",
+        "email_from": "rebecca.stewart@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/rebeccastewart",
+        "department": "Procurement",
+        "job_position": "Procurement Analyst",
+        "skills": [
+            "Data Analysis",
+            "Negotiation",
+            "Communication"
+        ],
+        "note": "Analytical procurement expert.",
+        "salary_expected": 57000.0
+    },
+    {
+        "partner_name": "George Sanchez",
+        "email_from": "george.sanchez@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/georgesanchez",
+        "department": "Finance & Accounting",
+        "job_position": "Financial Controller",
+        "skills": [
+            "Financial Management",
+            "Leadership",
+            "Analytical Skills"
+        ],
+        "note": "Experienced financial controller.",
+        "salary_expected": 95000.0
+    },
+    {
+        "partner_name": "Samantha Rivera",
+        "email_from": "samantha.rivera@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/samantharivera",
+        "department": "Human Resources",
+        "job_position": "HR Manager",
+        "skills": [
+            "Leadership",
+            "Interpersonal Skills",
+            "Organizational Skills"
+        ],
+        "note": "HR management expert.",
+        "salary_expected": 80000.0
+    },
+    {
+        "partner_name": "Paul Bennett",
+        "email_from": "paul.bennett@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/paulbennett",
+        "department": "IT",
+        "job_position": "IT Systems Administrator",
+        "skills": [
+            "Technical Skills",
+            "Problem Solving",
+            "Network Management"
+        ],
+        "note": "Skilled IT administrator.",
+        "salary_expected": 70000.0
+    },
+    {
+        "partner_name": "Olivia Hughes",
+        "email_from": "olivia.hughes@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/oliviahughes",
+        "department": "Customer Support",
+        "job_position": "Customer Experience Specialist",
+        "skills": [
+            "Analytical Skills",
+            "Communication",
+            "Problem Solving"
+        ],
+        "note": "Focused on enhancing customer experience.",
+        "salary_expected": 60000.0
+    },
+    {
+        "partner_name": "Emily Johnson",
+        "email_from": "emily.johnson@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/emilyjohnson",
+        "department": "Sales & Marketing",
+        "job_position": "Sales Associate",
+        "skills": [
+            "Customer Service",
+            "Sales Techniques",
+            "Product Knowledge"
+        ],
+        "note": "Strong sales background.",
+        "salary_expected": 45000.0
+    },
+    {
+        "partner_name": "Michael Smith",
+        "email_from": "michael.smith@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/michaelsmith",
+        "department": "Warehouse & Inventory",
+        "job_position": "Warehouse Manager",
+        "skills": [
+            "Inventory Management",
+            "Logistics Coordination",
+            "Team Leadership"
+        ],
+        "note": "Experienced in warehouse operations.",
+        "salary_expected": 60000.0
+    },
+    {
+        "partner_name": "Jessica Brown",
+        "email_from": "jessica.brown@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/jessicabrown",
+        "department": "Logistics",
+        "job_position": "Logistics Coordinator",
+        "skills": [
+            "Communication",
+            "Analytical Skills",
+            "Attention to Detail"
+        ],
+        "note": "Detail-oriented logistics expert.",
+        "salary_expected": 55000.0
+    },
+    {
+        "partner_name": "David Wilson",
+        "email_from": "david.wilson@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/davidwilson",
+        "department": "Manufacturing",
+        "job_position": "Production Supervisor",
+        "skills": [
+            "Leadership",
+            "Time Management",
+            "Problem Solving"
+        ],
+        "note": "Proven leadership skills.",
+        "salary_expected": 65000.0
+    },
+    {
+        "partner_name": "Sarah Davis",
+        "email_from": "sarah.davis@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/sarahdavis",
+        "department": "Sales & Marketing",
+        "job_position": "Marketing Specialist",
+        "skills": [
+            "Digital Marketing",
+            "Content Creation",
+            "Market Research"
+        ],
+        "note": "Creative marketing strategist.",
+        "salary_expected": 58000.0
+    },
+    {
+        "partner_name": "James Miller",
+        "email_from": "james.miller@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/jamesmiller",
+        "department": "Finance & Accounting",
+        "job_position": "Accountant",
+        "skills": [
+            "Financial Analysis",
+            "Attention to Detail",
+            "Accounting Software"
+        ],
+        "note": "Detail-oriented accountant.",
+        "salary_expected": 70000.0
+    },
+    {
+        "partner_name": "Laura Garcia",
+        "email_from": "laura.garcia@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/lauragarcia",
+        "department": "Human Resources",
+        "job_position": "HR Generalist",
+        "skills": [
+            "Interpersonal Skills",
+            "Conflict Resolution",
+            "Organizational Skills"
+        ],
+        "note": "Strong HR background.",
+        "salary_expected": 60000.0
+    },
+    {
+        "partner_name": "Robert Martinez",
+        "email_from": "robert.martinez@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/robertmartinez",
+        "department": "IT",
+        "job_position": "IT Support Specialist",
+        "skills": [
+            "Technical Support",
+            "Problem Solving",
+            "Communication"
+        ],
+        "note": "Tech-savvy support specialist.",
+        "salary_expected": 55000.0
+    },
+    {
+        "partner_name": "Linda Rodriguez",
+        "email_from": "linda.rodriguez@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/lindarodriguez",
+        "department": "Customer Support",
+        "job_position": "Customer Service Representative",
+        "skills": [
+            "Communication",
+            "Empathy",
+            "Problem Solving"
+        ],
+        "note": "Customer-focused representative.",
+        "salary_expected": 40000.0
+    },
+    {
+        "partner_name": "William Hernandez",
+        "email_from": "william.hernandez@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/williamhernandez",
+        "department": "Manufacturing",
+        "job_position": "Quality Control Inspector",
+        "skills": [
+            "Attention to Detail",
+            "Analytical Skills",
+            "Problem Solving"
+        ],
+        "note": "Quality assurance expert.",
+        "salary_expected": 50000.0
+    },
+    {
+        "partner_name": "Patricia Lee",
+        "email_from": "patricia.lee@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/patricialee",
+        "department": "Warehouse & Inventory",
+        "job_position": "Inventory Analyst",
+        "skills": [
+            "Data Analysis",
+            "Inventory Management",
+            "Excel"
+        ],
+        "note": "Data-driven inventory analyst.",
+        "salary_expected": 52000.0
+    },
+    {
+        "partner_name": "Daniel Walker",
+        "email_from": "daniel.walker@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/danielwalker",
+        "department": "Logistics",
+        "job_position": "Supply Chain Analyst",
+        "skills": [
+            "Analytical Skills",
+            "Problem Solving",
+            "Communication"
+        ],
+        "note": "Supply chain optimization expert.",
+        "salary_expected": 62000.0
+    },
+    {
+        "partner_name": "Sophia Hall",
+        "email_from": "sophia.hall@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/sophiahall",
+        "department": "Sales & Marketing",
+        "job_position": "Retail Store Manager",
+        "skills": [
+            "Leadership",
+            "Sales Management",
+            "Customer Service"
+        ],
+        "note": "Strong retail management skills.",
+        "salary_expected": 68000.0
+    },
+    {
+        "partner_name": "Christopher Young",
+        "email_from": "christopher.young@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/christopheryoung",
+        "department": "Sales & Marketing",
+        "job_position": "E-commerce Specialist",
+        "skills": [
+            "Digital Marketing",
+            "SEO",
+            "Data Analysis"
+        ],
+        "note": "E-commerce expert.",
+        "salary_expected": 60000.0
+    },
+    {
+        "partner_name": "Jessica King",
+        "email_from": "jessica.king@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/jessicaking",
+        "department": "Procurement",
+        "job_position": "Procurement Specialist",
+        "skills": [
+            "Negotiation",
+            "Analytical Skills",
+            "Vendor Management"
+        ],
+        "note": "Skilled negotiator.",
+        "salary_expected": 65000.0
+    },
+    {
+        "partner_name": "Matthew Wright",
+        "email_from": "matthew.wright@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/matthewwright",
+        "department": "Finance & Accounting",
+        "job_position": "Financial Analyst",
+        "skills": [
+            "Financial Modeling",
+            "Analytical Skills",
+            "Excel"
+        ],
+        "note": "Financial data expert.",
+        "salary_expected": 72000.0
+    },
+    {
+        "partner_name": "Olivia Scott",
+        "email_from": "olivia.scott@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/oliviascott",
+        "department": "Finance & Accounting",
+        "job_position": "Payroll Specialist",
+        "skills": [
+            "Attention to Detail",
+            "Time Management",
+            "Accounting Software"
+        ],
+        "note": "Payroll processing expert.",
+        "salary_expected": 58000.0
+    },
+    {
+        "partner_name": "James Green",
+        "email_from": "james.green@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/jamesgreen",
+        "department": "Human Resources",
+        "job_position": "Talent Acquisition Specialist",
+        "skills": [
+            "Recruitment",
+            "Interpersonal Skills",
+            "Organizational Skills"
+        ],
+        "note": "Recruitment specialist.",
+        "salary_expected": 60000.0
+    },
+    {
+        "partner_name": "Megan Adams",
+        "email_from": "megan.adams@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/meganadams",
+        "department": "IT",
+        "job_position": "IT Project Manager",
+        "skills": [
+            "Project Management",
+            "Communication",
+            "Technical Knowledge"
+        ],
+        "note": "Experienced project manager.",
+        "salary_expected": 80000.0
+    },
+    {
+        "partner_name": "Anthony Nelson",
+        "email_from": "anthony.nelson@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/anthony-nelson",
+        "department": "Customer Support",
+        "job_position": "Customer Success Manager",
+        "skills": [
+            "Customer Relationship Management",
+            "Communication",
+            "Problem Solving"
+        ],
+        "note": "Customer success advocate.",
+        "salary_expected": 65000.0
+    },
+    {
+        "partner_name": "Elizabeth Carter",
+        "email_from": "elizabeth.carter@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/elizabethcarter",
+        "department": "Manufacturing",
+        "job_position": "Manufacturing Engineer",
+        "skills": [
+            "Engineering Principles",
+            "Problem Solving",
+            "Project Management"
+        ],
+        "note": "Engineering expert.",
+        "salary_expected": 75000.0
+    },
+    {
+        "partner_name": "Daniel Perez",
+        "email_from": "daniel.perez@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/danielperez",
+        "department": "Logistics",
+        "job_position": "Shipping Coordinator",
+        "skills": [
+            "Logistics Coordination",
+            "Attention to Detail",
+            "Communication"
+        ],
+        "note": "Shipping operations expert.",
+        "salary_expected": 52000.0
+    },
+    {
+        "partner_name": "Samantha Turner",
+        "email_from": "samantha.turner@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/samanthaturner",
+        "department": "Sales & Marketing",
+        "job_position": "Sales Manager",
+        "skills": [
+            "Leadership",
+            "Sales Strategy",
+            "Customer Relationship Management"
+        ],
+        "note": "Sales leadership experience.",
+        "salary_expected": 90000.0
+    },
+    {
+        "partner_name": "Ava Phillips",
+        "email_from": "ava.phillips@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/avaphillips",
+        "department": "Sales & Marketing",
+        "job_position": "Brand Manager",
+        "skills": [
+            "Brand Strategy",
+            "Market Research",
+            "Communication"
+        ],
+        "note": "Brand management specialist.",
+        "salary_expected": 75000.0
+    },
+    {
+        "partner_name": "Ethan Campbell",
+        "email_from": "ethan.campbell@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/ethancampbell",
+        "department": "Warehouse & Inventory",
+        "job_position": "Warehouse Associate",
+        "skills": [
+            "Attention to Detail",
+            "Physical Stamina",
+            "Teamwork"
+        ],
+        "note": "Dedicated warehouse worker.",
+        "salary_expected": 35000.0
+    },
+    {
+        "partner_name": "Isabella Mitchell",
+        "email_from": "isabella.mitchell@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/isabellamitchell",
+        "department": "Logistics",
+        "job_position": "Logistics Manager",
+        "skills": [
+            "Leadership",
+            "Logistics Management",
+            "Analytical Skills"
+        ],
+        "note": "Logistics management expert.",
+        "salary_expected": 85000.0
+    },
+    {
+        "partner_name": "Sophia Roberts",
+        "email_from": "sophia.roberts@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/sophiaroberts",
+        "department": "Customer Support",
+        "job_position": "Customer Support Supervisor",
+        "skills": [
+            "Leadership",
+            "Customer Service",
+            "Problem Solving"
+        ],
+        "note": "Experienced customer support leader.",
+        "salary_expected": 70000.0
+    },
+    {
+        "partner_name": "Henry Evans",
+        "email_from": "henry.evans@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/henryevans",
+        "department": "Procurement",
+        "job_position": "Procurement Analyst",
+        "skills": [
+            "Data Analysis",
+            "Negotiation",
+            "Communication"
+        ],
+        "note": "Procurement data analyst.",
+        "salary_expected": 60000.0
+    },
+    {
+        "partner_name": "Grace Edwards",
+        "email_from": "grace.edwards@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/graceedwards",
+        "department": "Finance & Accounting",
+        "job_position": "Financial Controller",
+        "skills": [
+            "Financial Management",
+            "Leadership",
+            "Analytical Skills"
+        ],
+        "note": "Financial operations leader.",
+        "salary_expected": 95000.0
+    },
+    {
+        "partner_name": "Lucas Collins",
+        "email_from": "lucas.collins@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/lucascollins",
+        "department": "Human Resources",
+        "job_position": "HR Manager",
+        "skills": [
+            "Leadership",
+            "Interpersonal Skills",
+            "Organizational Skills"
+        ],
+        "note": "HR leadership experience.",
+        "salary_expected": 80000.0
+    },
+    {
+        "partner_name": "Ella Stewart",
+        "email_from": "ella.stewart@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/ellastewart",
+        "department": "IT",
+        "job_position": "IT Systems Administrator",
+        "skills": [
+            "Technical Skills",
+            "Problem Solving",
+            "Network Management"
+        ],
+        "note": "IT systems expert.",
+        "salary_expected": 70000.0
+    },
+    {
+        "partner_name": "Liam Sanchez",
+        "email_from": "liam.sanchez@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/liamsanchez",
+        "department": "Customer Support",
+        "job_position": "Customer Experience Specialist",
+        "skills": [
+            "Analytical Skills",
+            "Communication",
+            "Problem Solving"
+        ],
+        "note": "Customer experience advocate.",
+        "salary_expected": 60000.0
+    },
+    {
+        "partner_name": "Emily Johnson",
+        "email_from": "emily.johnson@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/emilyjohnson",
+        "department": "Sales & Marketing",
+        "job_position": "Sales Associate",
+        "skills": [
+            "Customer Service",
+            "Sales Techniques",
+            "Product Knowledge"
+        ],
+        "note": "Experienced in retail sales.",
+        "salary_expected": 45000.0
+    },
+    {
+        "partner_name": "Michael Smith",
+        "email_from": "michael.smith@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/michaelsmith",
+        "department": "Warehouse & Inventory",
+        "job_position": "Warehouse Manager",
+        "skills": [
+            "Inventory Management",
+            "Logistics Coordination",
+            "Team Leadership"
+        ],
+        "note": "Strong leadership skills.",
+        "salary_expected": 60000.0
+    },
+    {
+        "partner_name": "Sarah Brown",
+        "email_from": "sarah.brown@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/sarahbrown",
+        "department": "Logistics",
+        "job_position": "Logistics Coordinator",
+        "skills": [
+            "Communication",
+            "Analytical Skills",
+            "Attention to Detail"
+        ],
+        "note": "Detail-oriented logistics expert.",
+        "salary_expected": 52000.0
+    },
+    {
+        "partner_name": "David Wilson",
+        "email_from": "david.wilson@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/davidwilson",
+        "department": "Manufacturing",
+        "job_position": "Production Supervisor",
+        "skills": [
+            "Leadership",
+            "Time Management",
+            "Problem Solving"
+        ],
+        "note": "Proven track record in production.",
+        "salary_expected": 65000.0
+    },
+    {
+        "partner_name": "Jessica Taylor",
+        "email_from": "jessica.taylor@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/jessicataylor",
+        "department": "Sales & Marketing",
+        "job_position": "Marketing Specialist",
+        "skills": [
+            "Digital Marketing",
+            "Content Creation",
+            "Market Research"
+        ],
+        "note": "Creative marketing strategist.",
+        "salary_expected": 58000.0
+    },
+    {
+        "partner_name": "James Anderson",
+        "email_from": "james.anderson@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/jamesanderson",
+        "department": "Finance & Accounting",
+        "job_position": "Accountant",
+        "skills": [
+            "Financial Analysis",
+            "Attention to Detail",
+            "Accounting Software"
+        ],
+        "note": "Expert in financial reporting.",
+        "salary_expected": 70000.0
+    },
+    {
+        "partner_name": "Laura Martinez",
+        "email_from": "laura.martinez@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/lauramartinez",
+        "department": "Human Resources",
+        "job_position": "HR Generalist",
+        "skills": [
+            "Interpersonal Skills",
+            "Conflict Resolution",
+            "Organizational Skills"
+        ],
+        "note": "Skilled in employee relations.",
+        "salary_expected": 62000.0
+    },
+    {
+        "partner_name": "Robert Garcia",
+        "email_from": "robert.garcia@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/robertgarcia",
+        "department": "IT",
+        "job_position": "IT Support Specialist",
+        "skills": [
+            "Technical Support",
+            "Problem Solving",
+            "Communication"
+        ],
+        "note": "Tech-savvy support specialist.",
+        "salary_expected": 55000.0
+    },
+    {
+        "partner_name": "Patricia Lee",
+        "email_from": "patricia.lee@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/patricialee",
+        "department": "Customer Support",
+        "job_position": "Customer Service Representative",
+        "skills": [
+            "Communication",
+            "Empathy",
+            "Problem Solving"
+        ],
+        "note": "Dedicated customer advocate.",
+        "salary_expected": 40000.0
+    },
+    {
+        "partner_name": "Daniel Harris",
+        "email_from": "daniel.harris@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/danielharris",
+        "department": "Manufacturing",
+        "job_position": "Quality Control Inspector",
+        "skills": [
+            "Attention to Detail",
+            "Analytical Skills",
+            "Problem Solving"
+        ],
+        "note": "Quality assurance expert.",
+        "salary_expected": 48000.0
+    },
+    {
+        "partner_name": "Sophia Clark",
+        "email_from": "sophia.clark@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/sophiaclark",
+        "department": "Warehouse & Inventory",
+        "job_position": "Inventory Analyst",
+        "skills": [
+            "Data Analysis",
+            "Inventory Management",
+            "Excel"
+        ],
+        "note": "Data-driven inventory analyst.",
+        "salary_expected": 52000.0
+    },
+    {
+        "partner_name": "Matthew Lewis",
+        "email_from": "matthew.lewis@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/matthewlewis",
+        "department": "Logistics",
+        "job_position": "Supply Chain Analyst",
+        "skills": [
+            "Analytical Skills",
+            "Problem Solving",
+            "Communication"
+        ],
+        "note": "Supply chain optimization expert.",
+        "salary_expected": 60000.0
+    },
+    {
+        "partner_name": "Olivia Walker",
+        "email_from": "olivia.walker@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/oliviawalker",
+        "department": "Sales & Marketing",
+        "job_position": "Retail Store Manager",
+        "skills": [
+            "Leadership",
+            "Sales Management",
+            "Customer Service"
+        ],
+        "note": "Proven retail manager.",
+        "salary_expected": 70000.0
+    },
+    {
+        "partner_name": "Ethan Hall",
+        "email_from": "ethan.hall@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/ethanhall",
+        "department": "Sales & Marketing",
+        "job_position": "E-commerce Specialist",
+        "skills": [
+            "Digital Marketing",
+            "SEO",
+            "Data Analysis"
+        ],
+        "note": "E-commerce growth strategist.",
+        "salary_expected": 65000.0
+    },
+    {
+        "partner_name": "Ava Young",
+        "email_from": "ava.young@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/avayoung",
+        "department": "Procurement",
+        "job_position": "Procurement Specialist",
+        "skills": [
+            "Negotiation",
+            "Analytical Skills",
+            "Vendor Management"
+        ],
+        "note": "Skilled negotiator.",
+        "salary_expected": 58000.0
+    },
+    {
+        "partner_name": "William King",
+        "email_from": "william.king@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/williamking",
+        "department": "Finance & Accounting",
+        "job_position": "Financial Analyst",
+        "skills": [
+            "Financial Modeling",
+            "Analytical Skills",
+            "Excel"
+        ],
+        "note": "Financial data expert.",
+        "salary_expected": 72000.0
+    },
+    {
+        "partner_name": "Isabella Wright",
+        "email_from": "isabella.wright@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/isabellawright",
+        "department": "Finance & Accounting",
+        "job_position": "Payroll Specialist",
+        "skills": [
+            "Attention to Detail",
+            "Time Management",
+            "Accounting Software"
+        ],
+        "note": "Payroll processing expert.",
+        "salary_expected": 50000.0
+    },
+    {
+        "partner_name": "Lucas Scott",
+        "email_from": "lucas.scott@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/lucasscott",
+        "department": "Human Resources",
+        "job_position": "Talent Acquisition Specialist",
+        "skills": [
+            "Recruitment",
+            "Interpersonal Skills",
+            "Organizational Skills"
+        ],
+        "note": "Talent acquisition expert.",
+        "salary_expected": 65000.0
+    },
+    {
+        "partner_name": "Mia Green",
+        "email_from": "mia.green@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/miagreen",
+        "department": "IT",
+        "job_position": "IT Project Manager",
+        "skills": [
+            "Project Management",
+            "Communication",
+            "Technical Knowledge"
+        ],
+        "note": "Experienced project manager.",
+        "salary_expected": 80000.0
+    },
+    {
+        "partner_name": "Noah Adams",
+        "email_from": "noah.adams@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/noahadams",
+        "department": "Customer Support",
+        "job_position": "Customer Success Manager",
+        "skills": [
+            "Customer Relationship Management",
+            "Communication",
+            "Problem Solving"
+        ],
+        "note": "Customer-focused leader.",
+        "salary_expected": 70000.0
+    },
+    {
+        "partner_name": "Charlotte Baker",
+        "email_from": "charlotte.baker@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/charlottebaker",
+        "department": "Manufacturing",
+        "job_position": "Manufacturing Engineer",
+        "skills": [
+            "Engineering Principles",
+            "Problem Solving",
+            "Project Management"
+        ],
+        "note": "Innovative manufacturing engineer.",
+        "salary_expected": 75000.0
+    },
+    {
+        "partner_name": "James Turner",
+        "email_from": "james.turner@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/jamesturner",
+        "department": "Logistics",
+        "job_position": "Shipping Coordinator",
+        "skills": [
+            "Logistics Coordination",
+            "Attention to Detail",
+            "Communication"
+        ],
+        "note": "Shipping operations expert.",
+        "salary_expected": 52000.0
+    },
+    {
+        "partner_name": "Amelia Phillips",
+        "email_from": "amelia.phillips@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/amelia.phillips",
+        "department": "Sales & Marketing",
+        "job_position": "Sales Manager",
+        "skills": [
+            "Leadership",
+            "Sales Strategy",
+            "Customer Relationship Management"
+        ],
+        "note": "Sales team leader.",
+        "salary_expected": 90000.0
+    },
+    {
+        "partner_name": "Benjamin Campbell",
+        "email_from": "benjamin.campbell@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/benjamincampbell",
+        "department": "Sales & Marketing",
+        "job_position": "Brand Manager",
+        "skills": [
+            "Brand Strategy",
+            "Market Research",
+            "Communication"
+        ],
+        "note": "Brand strategy expert.",
+        "salary_expected": 75000.0
+    },
+    {
+        "partner_name": "Ella Mitchell",
+        "email_from": "ella.mitchell@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/ellamitchell",
+        "department": "Warehouse & Inventory",
+        "job_position": "Warehouse Associate",
+        "skills": [
+            "Attention to Detail",
+            "Physical Stamina",
+            "Teamwork"
+        ],
+        "note": "Reliable warehouse worker.",
+        "salary_expected": 35000.0
+    },
+    {
+        "partner_name": "Alexander Perez",
+        "email_from": "alexander.perez@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/alexanderperez",
+        "department": "Logistics",
+        "job_position": "Logistics Manager",
+        "skills": [
+            "Leadership",
+            "Logistics Management",
+            "Analytical Skills"
+        ],
+        "note": "Logistics operations leader.",
+        "salary_expected": 85000.0
+    },
+    {
+        "partner_name": "Grace Rivera",
+        "email_from": "grace.rivera@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/gracerivera",
+        "department": "Customer Support",
+        "job_position": "Customer Support Supervisor",
+        "skills": [
+            "Leadership",
+            "Customer Service",
+            "Problem Solving"
+        ],
+        "note": "Customer support leader.",
+        "salary_expected": 60000.0
+    },
+    {
+        "partner_name": "Henry Cooper",
+        "email_from": "henry.cooper@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/henrycooper",
+        "department": "Procurement",
+        "job_position": "Procurement Analyst",
+        "skills": [
+            "Data Analysis",
+            "Negotiation",
+            "Communication"
+        ],
+        "note": "Procurement data analyst.",
+        "salary_expected": 58000.0
+    },
+    {
+        "partner_name": "Sofia Reed",
+        "email_from": "sofia.reed@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/sofiareed",
+        "department": "Finance & Accounting",
+        "job_position": "Financial Controller",
+        "skills": [
+            "Financial Management",
+            "Leadership",
+            "Analytical Skills"
+        ],
+        "note": "Financial operations leader.",
+        "salary_expected": 95000.0
+    },
+    {
+        "partner_name": "Liam Morgan",
+        "email_from": "liam.morgan@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/liammorgan",
+        "department": "Human Resources",
+        "job_position": "HR Manager",
+        "skills": [
+            "Leadership",
+            "Interpersonal Skills",
+            "Organizational Skills"
+        ],
+        "note": "HR operations leader.",
+        "salary_expected": 80000.0
+    },
+    {
+        "partner_name": "Zoe Murphy",
+        "email_from": "zoe.murphy@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/zoemurphy",
+        "department": "IT",
+        "job_position": "IT Systems Administrator",
+        "skills": [
+            "Technical Skills",
+            "Problem Solving",
+            "Network Management"
+        ],
+        "note": "IT infrastructure expert.",
+        "salary_expected": 70000.0
+    },
+    {
+        "partner_name": "Aiden Price",
+        "email_from": "aiden.price@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/aidenprice",
+        "department": "Customer Support",
+        "job_position": "Customer Experience Specialist",
+        "skills": [
+            "Analytical Skills",
+            "Communication",
+            "Problem Solving"
+        ],
+        "note": "Customer experience advocate.",
+        "salary_expected": 60000.0
+    },
+    {
+        "partner_name": "Chloe Bennett",
+        "email_from": "chloe.bennett@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/chloebennett",
+        "department": "Sales & Marketing",
+        "job_position": "Marketing Specialist",
+        "skills": [
+            "Digital Marketing",
+            "Content Creation",
+            "Market Research"
+        ],
+        "note": "Creative marketing professional.",
+        "salary_expected": 58000.0
+    },
+    {
+        "partner_name": "Jackson Foster",
+        "email_from": "jackson.foster@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/jacksonfoster",
+        "department": "Warehouse & Inventory",
+        "job_position": "Inventory Analyst",
+        "skills": [
+            "Data Analysis",
+            "Inventory Management",
+            "Excel"
+        ],
+        "note": "Data-driven inventory expert.",
+        "salary_expected": 52000.0
+    },
+    {
+        "partner_name": "Mason Hayes",
+        "email_from": "mason.hayes@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/masonhayes",
+        "department": "Logistics",
+        "job_position": "Supply Chain Analyst",
+        "skills": [
+            "Analytical Skills",
+            "Problem Solving",
+            "Communication"
+        ],
+        "note": "Supply chain optimization specialist.",
+        "salary_expected": 60000.0
+    },
+    {
+        "partner_name": "Lily Ward",
+        "email_from": "lily.ward@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/lilyward",
+        "department": "Sales & Marketing",
+        "job_position": "Sales Associate",
+        "skills": [
+            "Customer Service",
+            "Sales Techniques",
+            "Product Knowledge"
+        ],
+        "note": "Retail sales expert.",
+        "salary_expected": 45000.0
+    },
+    {
+        "partner_name": "Ella Bennett",
+        "email_from": "ella.bennett@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/ellabennett",
+        "department": "Manufacturing",
+        "job_position": "Quality Control Inspector",
+        "skills": [
+            "Attention to Detail",
+            "Analytical Skills",
+            "Problem Solving"
+        ],
+        "note": "Quality assurance specialist.",
+        "salary_expected": 48000.0
+    },
+    {
+        "partner_name": "Lucas Rivera",
+        "email_from": "lucas.rivera@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/lucasrivera",
+        "department": "Finance & Accounting",
+        "job_position": "Accountant",
+        "skills": [
+            "Financial Analysis",
+            "Attention to Detail",
+            "Accounting Software"
+        ],
+        "note": "Financial reporting expert.",
+        "salary_expected": 70000.0
+    },
+    {
+        "partner_name": "Mia Cooper",
+        "email_from": "mia.cooper@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/miacooper",
+        "department": "Human Resources",
+        "job_position": "HR Generalist",
+        "skills": [
+            "Interpersonal Skills",
+            "Conflict Resolution",
+            "Organizational Skills"
+        ],
+        "note": "HR professional with experience.",
+        "salary_expected": 62000.0
+    },
+    {
+        "partner_name": "Ethan Lee",
+        "email_from": "ethan.lee@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/ethanlee",
+        "department": "IT",
+        "job_position": "IT Support Specialist",
+        "skills": [
+            "Technical Support",
+            "Problem Solving",
+            "Communication"
+        ],
+        "note": "Technical support expert.",
+        "salary_expected": 55000.0
+    },
+    {
+        "partner_name": "Sophia Johnson",
+        "email_from": "sophia.johnson@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/sophiajohnson",
+        "department": "Sales & Marketing",
+        "job_position": "Marketing Specialist",
+        "skills": [
+            "Digital Marketing",
+            "Content Creation",
+            "Market Research"
+        ],
+        "note": "Creative marketing strategist.",
+        "salary_expected": 58000.0
+    },
+    {
+        "partner_name": "James Brown",
+        "email_from": "james.brown@yahoo.com",
+        "partner_website": "https://www.linkedin.com/in/jamesbrown",
+        "department": "Warehouse & Inventory",
+        "job_position": "Warehouse Manager",
+        "skills": [
+            "Inventory Management",
+            "Logistics Coordination",
+            "Team Leadership"
+        ],
+        "note": "Strong leadership skills.",
+        "salary_expected": 60000.0
+    },
+    {
+        "partner_name": "Olivia Smith",
+        "email_from": "olivia.smith@hotmail.com",
+        "partner_website": "https://www.linkedin.com/in/oliviasmith",
+        "department": "Logistics",
+        "job_position": "Logistics Coordinator",
+        "skills": [
+            "Communication",
+            "Analytical Skills",
+            "Attention to Detail"
+        ],
+        "note": "Detail-oriented logistics expert.",
+        "salary_expected": 52000.0
+    },
+    {
+        "partner_name": "David Wilson",
+        "email_from": "david.wilson@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/davidwilson",
+        "department": "Manufacturing",
+        "job_position": "Production Supervisor",
+        "skills": [
+            "Leadership",
+            "Time Management",
+            "Problem Solving"
+        ],
+        "note": "Proven track record in production.",
+        "salary_expected": 65000.0
+    },
+    {
+        "partner_name": "Emily Johnson",
+        "email_from": "emily.johnson@gmail.com",
+        "partner_website": "https://www.linkedin.com/in/emilyjohnson",
+        "department": "Sales & Marketing",
+        "job_position": "Sales Associate",
+        "skills": [
+            "Customer Service",
+            "Sales Techniques",
+            "Product Knowledge"
+        ],
+        "note": "Experienced in retail sales.",
+        "salary_expected": 45000.0
+    }
+]

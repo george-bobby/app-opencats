@@ -1,0 +1,3897 @@
+[
+    {
+        "id": 2,
+        "username": "misty.mack",
+        "email": "misty.mack@vertexon.com",
+        "first_name": "Misty",
+        "last_name": "Mack",
+        "nickname": "Misty",
+        "position": "Senior HR Business Partner",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1680123050919,
+        "team_channels": {
+            "customer-success": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1702062856181
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1702278938284
+                }
+            }
+        }
+    },
+    {
+        "id": 3,
+        "username": "robert.williamson",
+        "email": "robert.williamson@vertexon.com",
+        "first_name": "Robert",
+        "last_name": "Williamson",
+        "nickname": "Robert",
+        "position": "Chief Financial Officer (CFO)",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1696883903537,
+        "team_channels": {
+            "customer-success": {
+                "success-metrics": {
+                    "role": "member",
+                    "joined_at": 1724833525891
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1705907542485
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1701895671327
+                }
+            },
+            "engineering": {
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1723386233744
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1726723408996
+                }
+            }
+        }
+    },
+    {
+        "id": 4,
+        "username": "anne.king",
+        "email": "anne.king@vertexon.com",
+        "first_name": "Anne",
+        "last_name": "King",
+        "nickname": "Anne",
+        "position": "VP of Product",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1718212935048,
+        "team_channels": {
+            "customer-success": {
+                "product-feedback": {
+                    "role": "admin",
+                    "joined_at": 1722317509197
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1720657373965
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1720587829761
+                }
+            },
+            "product": {
+                "product-roadmap": {
+                    "role": "admin",
+                    "joined_at": 1735284195239
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1718647250477
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1724944402737
+                }
+            },
+            "engineering": {
+                "town-square": {
+                    "role": "admin",
+                    "joined_at": 1720122773670
+                },
+                "tech-innovations": {
+                    "role": "member",
+                    "joined_at": 1740900436505
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1720407754484
+                }
+            }
+        }
+    },
+    {
+        "id": 5,
+        "username": "anthony.rodgers",
+        "email": "anthony.rodgers@vertexon.com",
+        "first_name": "Anthony",
+        "last_name": "Rodgers",
+        "nickname": "Anthony",
+        "position": "Senior Full Stack Developer",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1685286752588,
+        "team_channels": {
+            "customer-success": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1701865979009
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1701889047848
+                }
+            },
+            "product": {
+                "feature-specs": {
+                    "role": "member",
+                    "joined_at": 1729686194009
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1715393634972
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1715403495301
+                }
+            },
+            "engineering": {
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1721015675174
+                },
+                "architecture-design": {
+                    "role": "member",
+                    "joined_at": 1741583965144
+                },
+                "code-reviews": {
+                    "role": "member",
+                    "joined_at": 1731364501930
+                },
+                "devops-updates": {
+                    "role": "member",
+                    "joined_at": 1723376248499
+                },
+                "backend-team": {
+                    "role": "member",
+                    "joined_at": 1732221370033
+                },
+                "tech-innovations": {
+                    "role": "member",
+                    "joined_at": 1740961022342
+                },
+                "security-protocols": {
+                    "role": "member",
+                    "joined_at": 1742381949112
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1722150071267
+                }
+            }
+        }
+    },
+    {
+        "id": 6,
+        "username": "joseph.boyd",
+        "email": "joseph.boyd@vertexon.com",
+        "first_name": "Joseph",
+        "last_name": "Boyd",
+        "nickname": "Joseph",
+        "position": "Sales Director",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1724245057341,
+        "team_channels": {
+            "customer-success": {
+                "customer-onboarding": {
+                    "role": "member",
+                    "joined_at": 1724266757080
+                },
+                "retention-strategies": {
+                    "role": "member",
+                    "joined_at": 1729937756363
+                },
+                "renewal-pipeline": {
+                    "role": "member",
+                    "joined_at": 1728202029729
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1730512758008
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1727001723412
+                }
+            },
+            "engineering": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1724277914576
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1726808341692
+                }
+            }
+        }
+    },
+    {
+        "id": 7,
+        "username": "malik.lopez",
+        "email": "malik.lopez@vertexon.com",
+        "first_name": "Malik",
+        "last_name": "Lopez",
+        "nickname": "Malik",
+        "position": "UX Researcher",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1707030017803,
+        "team_channels": {
+            "customer-success": {
+                "product-feedback": {
+                    "role": "member",
+                    "joined_at": 1726157997190
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1707043888246
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1707022994496
+                }
+            },
+            "engineering": {
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1720171740260
+                },
+                "tech-innovations": {
+                    "role": "member",
+                    "joined_at": 1744018437736
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1725929447896
+                }
+            }
+        }
+    },
+    {
+        "id": 8,
+        "username": "michael.briggs",
+        "email": "michael.briggs@vertexon.com",
+        "first_name": "Michael",
+        "last_name": "Briggs",
+        "nickname": "Michael",
+        "position": "DevOps Team Lead",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1711952119365,
+        "team_channels": {
+            "customer-success": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1711954403624
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1715582652315
+                }
+            },
+            "engineering": {
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1726579518651
+                },
+                "devops-updates": {
+                    "role": "admin",
+                    "joined_at": 1729332791553
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1720180260310
+                }
+            }
+        }
+    },
+    {
+        "id": 9,
+        "username": "james.bowers",
+        "email": "james.bowers@vertexon.com",
+        "first_name": "James",
+        "last_name": "Bowers",
+        "nickname": "James",
+        "position": "Human Resources Manager",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1699481855412,
+        "team_channels": {
+            "customer-success": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1703876636125
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1701852951382
+                }
+            },
+            "engineering": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1723565373573
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1720458900762
+                }
+            }
+        }
+    },
+    {
+        "id": 10,
+        "username": "albert.jacobs",
+        "email": "albert.jacobs@vertexon.com",
+        "first_name": "Albert",
+        "last_name": "Jacobs",
+        "nickname": "Albert",
+        "position": "Sales Development Representative",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1697911105423,
+        "team_channels": {}
+    },
+    {
+        "id": 11,
+        "username": "lori.carney",
+        "email": "lori.carney@vertexon.com",
+        "first_name": "Lori",
+        "last_name": "Carney",
+        "nickname": "Lori",
+        "position": "Director of Sales Strategy",
+        "roles": "system_user system_admin",
+        "gender": "female",
+        "joined_at": 1688571162239,
+        "team_channels": {
+            "customer-success": {
+                "retention-strategies": {
+                    "role": "member",
+                    "joined_at": 1704607404606
+                },
+                "renewal-pipeline": {
+                    "role": "admin",
+                    "joined_at": 1719076525255
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1702090389012
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1709526944515
+                }
+            }
+        }
+    },
+    {
+        "id": 12,
+        "username": "matthew.solomon",
+        "email": "matthew.solomon@vertexon.com",
+        "first_name": "Matthew",
+        "last_name": "Solomon",
+        "nickname": "Matthew",
+        "position": "Director of Product Management",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1704588061078,
+        "team_channels": {
+            "customer-success": {
+                "product-feedback": {
+                    "role": "admin",
+                    "joined_at": 1722985841753
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1710006082098
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1707017974984
+                }
+            },
+            "product": {
+                "product-roadmap": {
+                    "role": "admin",
+                    "joined_at": 1733088155748
+                },
+                "feature-specs": {
+                    "role": "admin",
+                    "joined_at": 1728073617455
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1715728559830
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1721638138590
+                }
+            },
+            "engineering": {
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1726562451647
+                },
+                "architecture-design": {
+                    "role": "member",
+                    "joined_at": 1741367660185
+                },
+                "code-reviews": {
+                    "role": "member",
+                    "joined_at": 1730941473362
+                },
+                "backend-team": {
+                    "role": "member",
+                    "joined_at": 1731141696584
+                },
+                "tech-innovations": {
+                    "role": "member",
+                    "joined_at": 1740991684109
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1721034141525
+                }
+            }
+        }
+    },
+    {
+        "id": 13,
+        "username": "jennifer.edwards",
+        "email": "jennifer.edwards@vertexon.com",
+        "first_name": "Jennifer",
+        "last_name": "Edwards",
+        "nickname": "Jennifer",
+        "position": "Sales Director",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1694528637247,
+        "team_channels": {
+            "customer-success": {
+                "retention-strategies": {
+                    "role": "member",
+                    "joined_at": 1707468209931
+                },
+                "renewal-pipeline": {
+                    "role": "member",
+                    "joined_at": 1716904196413
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1701876563399
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1704898679760
+                }
+            },
+            "engineering": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1727168095609
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1722752660508
+                }
+            }
+        }
+    },
+    {
+        "id": 14,
+        "username": "heather.phillips",
+        "email": "heather.phillips@vertexon.com",
+        "first_name": "Heather",
+        "last_name": "Phillips",
+        "nickname": "Heather",
+        "position": "Senior Data Engineer",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1710117657530,
+        "team_channels": {
+            "customer-success": {
+                "success-metrics": {
+                    "role": "member",
+                    "joined_at": 1717343829408
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1710168834334
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1710109133911
+                }
+            },
+            "product": {
+                "feature-specs": {
+                    "role": "member",
+                    "joined_at": 1728000320629
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1718148224734
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1715393653397
+                }
+            },
+            "engineering": {
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1727068296955
+                },
+                "architecture-design": {
+                    "role": "member",
+                    "joined_at": 1742410784502
+                },
+                "devops-updates": {
+                    "role": "member",
+                    "joined_at": 1724091208197
+                },
+                "tech-innovations": {
+                    "role": "member",
+                    "joined_at": 1740913451843
+                },
+                "security-protocols": {
+                    "role": "member",
+                    "joined_at": 1740482509697
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1720376694680
+                }
+            }
+        }
+    },
+    {
+        "id": 15,
+        "username": "susan.singh",
+        "email": "susan.singh@vertexon.com",
+        "first_name": "Susan",
+        "last_name": "Singh",
+        "nickname": "Susan",
+        "position": "Senior Machine Learning Engineer",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1693932428394,
+        "team_channels": {
+            "customer-success": {
+                "success-metrics": {
+                    "role": "member",
+                    "joined_at": 1719702060239
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1707182665856
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1703603610996
+                }
+            },
+            "engineering": {
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1721472049761
+                },
+                "architecture-design": {
+                    "role": "member",
+                    "joined_at": 1743954737555
+                },
+                "devops-updates": {
+                    "role": "member",
+                    "joined_at": 1729006819267
+                },
+                "tech-innovations": {
+                    "role": "member",
+                    "joined_at": 1741287628810
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1720440522020
+                }
+            }
+        }
+    },
+    {
+        "id": 16,
+        "username": "terri.shelton",
+        "email": "terri.shelton@vertexon.com",
+        "first_name": "Terri",
+        "last_name": "Shelton",
+        "nickname": "Terri",
+        "position": "Sales Manager",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1700351774746,
+        "team_channels": {
+            "customer-success": {
+                "customer-onboarding": {
+                    "role": "member",
+                    "joined_at": 1719062643165
+                },
+                "escalations": {
+                    "role": "member",
+                    "joined_at": 1714181696383
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1702372686873
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1704636343554
+                }
+            },
+            "engineering": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1722745414978
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1720367290568
+                }
+            }
+        }
+    },
+    {
+        "id": 17,
+        "username": "robert.garcia",
+        "email": "robert.garcia@vertexon.com",
+        "first_name": "Robert",
+        "last_name": "Garcia",
+        "nickname": "Robert",
+        "position": "VP of Engineering",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1732616563945,
+        "team_channels": {
+            "customer-success": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1732613256895
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1732659123674
+                }
+            },
+            "product": {
+                "product-roadmap": {
+                    "role": "member",
+                    "joined_at": 1732692066228
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1737893911858
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1732632355541
+                }
+            },
+            "engineering": {
+                "town-square": {
+                    "role": "admin",
+                    "joined_at": 1737773809106
+                },
+                "architecture-design": {
+                    "role": "admin",
+                    "joined_at": 1741400326179
+                },
+                "devops-updates": {
+                    "role": "member",
+                    "joined_at": 1732629426798
+                },
+                "backend-team": {
+                    "role": "member",
+                    "joined_at": 1732873292161
+                },
+                "tech-innovations": {
+                    "role": "admin",
+                    "joined_at": 1740933072191
+                },
+                "security-protocols": {
+                    "role": "member",
+                    "joined_at": 1740480461791
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1737659780612
+                }
+            }
+        }
+    },
+    {
+        "id": 18,
+        "username": "william.mejia",
+        "email": "william.mejia@vertexon.com",
+        "first_name": "William",
+        "last_name": "Mejia",
+        "nickname": "William",
+        "position": "Enterprise Sales Manager",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1716508716102,
+        "team_channels": {
+            "customer-success": {
+                "customer-onboarding": {
+                    "role": "member",
+                    "joined_at": 1723660514207
+                },
+                "retention-strategies": {
+                    "role": "member",
+                    "joined_at": 1719009933355
+                },
+                "escalations": {
+                    "role": "member",
+                    "joined_at": 1718265645894
+                },
+                "renewal-pipeline": {
+                    "role": "member",
+                    "joined_at": 1716551293648
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1722570998625
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1722441669708
+                }
+            }
+        }
+    },
+    {
+        "id": 19,
+        "username": "daniel.mosley",
+        "email": "daniel.mosley@vertexon.com",
+        "first_name": "Daniel",
+        "last_name": "Mosley",
+        "nickname": "Daniel",
+        "position": "IT Help Desk Specialist",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1682124566419,
+        "team_channels": {
+            "engineering": {
+                "devops-updates": {
+                    "role": "member",
+                    "joined_at": 1725955576955
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1727298134640
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1723270594745
+                }
+            }
+        }
+    },
+    {
+        "id": 20,
+        "username": "megan.williams",
+        "email": "megan.williams@vertexon.com",
+        "first_name": "Megan",
+        "last_name": "Williams",
+        "nickname": "Megan",
+        "position": "Financial Analyst",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1689746716919,
+        "team_channels": {
+            "customer-success": {
+                "success-metrics": {
+                    "role": "member",
+                    "joined_at": 1721252812133
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1707206283491
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1706422689716
+                }
+            }
+        }
+    },
+    {
+        "id": 21,
+        "username": "julie.rogers",
+        "email": "julie.rogers@vertexon.com",
+        "first_name": "Julie",
+        "last_name": "Rogers",
+        "nickname": "Julie",
+        "position": "Product Owner",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1736643736615,
+        "team_channels": {
+            "customer-success": {
+                "product-feedback": {
+                    "role": "member",
+                    "joined_at": 1738510785808
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1740830524183
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1736644803654
+                }
+            },
+            "product": {
+                "product-roadmap": {
+                    "role": "member",
+                    "joined_at": 1736942078633
+                },
+                "feature-specs": {
+                    "role": "member",
+                    "joined_at": 1737530159111
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1736745618664
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1738661956616
+                }
+            },
+            "engineering": {
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1739433723175
+                },
+                "architecture-design": {
+                    "role": "member",
+                    "joined_at": 1742811443300
+                },
+                "code-reviews": {
+                    "role": "member",
+                    "joined_at": 1737295945367
+                },
+                "backend-team": {
+                    "role": "member",
+                    "joined_at": 1736738560900
+                },
+                "tech-innovations": {
+                    "role": "member",
+                    "joined_at": 1742481882009
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1738347353496
+                }
+            }
+        }
+    },
+    {
+        "id": 22,
+        "username": "andrew.rodriguez",
+        "email": "andrew.rodriguez@vertexon.com",
+        "first_name": "Andrew",
+        "last_name": "Rodriguez",
+        "nickname": "Andrew",
+        "position": "DevOps Team Lead",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1707243508585,
+        "team_channels": {
+            "customer-success": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1707259110963
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1710615720483
+                }
+            },
+            "engineering": {
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1720526465401
+                },
+                "devops-updates": {
+                    "role": "admin",
+                    "joined_at": 1723386042511
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1727085634512
+                }
+            }
+        }
+    },
+    {
+        "id": 23,
+        "username": "michelle.ortiz",
+        "email": "michelle.ortiz@vertexon.com",
+        "first_name": "Michelle",
+        "last_name": "Ortiz",
+        "nickname": "Michelle",
+        "position": "Senior UX Designer",
+        "roles": "system_user system_admin",
+        "gender": "male",
+        "joined_at": 1696540234717,
+        "team_channels": {
+            "customer-success": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1701856626186
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1706706331628
+                }
+            },
+            "product": {
+                "feature-specs": {
+                    "role": "member",
+                    "joined_at": 1727966886685
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1715620808723
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1716183354717
+                }
+            },
+            "engineering": {
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1720547670830
+                },
+                "code-reviews": {
+                    "role": "member",
+                    "joined_at": 1732753469830
+                },
+                "tech-innovations": {
+                    "role": "member",
+                    "joined_at": 1742283891971
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1720360604006
+                }
+            }
+        }
+    },
+    {
+        "id": 24,
+        "username": "yvette.taylor",
+        "email": "yvette.taylor@vertexon.com",
+        "first_name": "Yvette",
+        "last_name": "Taylor",
+        "nickname": "Yvette",
+        "position": "Product Manager",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1709910078275,
+        "team_channels": {
+            "customer-success": {
+                "product-feedback": {
+                    "role": "member",
+                    "joined_at": 1726755417953
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1711677947925
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1711120716390
+                }
+            },
+            "product": {
+                "product-roadmap": {
+                    "role": "member",
+                    "joined_at": 1734907586910
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1719712382687
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1722194078845
+                }
+            },
+            "engineering": {
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1720139199314
+                },
+                "architecture-design": {
+                    "role": "member",
+                    "joined_at": 1742708618156
+                },
+                "code-reviews": {
+                    "role": "member",
+                    "joined_at": 1728096327249
+                },
+                "backend-team": {
+                    "role": "member",
+                    "joined_at": 1729960508548
+                },
+                "tech-innovations": {
+                    "role": "member",
+                    "joined_at": 1740913047816
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1727496316813
+                }
+            }
+        }
+    },
+    {
+        "id": 25,
+        "username": "gregory.alexander",
+        "email": "gregory.alexander@vertexon.com",
+        "first_name": "Gregory",
+        "last_name": "Alexander",
+        "nickname": "Gregory",
+        "position": "Documentation Specialist",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1731736406762,
+        "team_channels": {
+            "engineering": {
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1736676845349
+                },
+                "code-reviews": {
+                    "role": "member",
+                    "joined_at": 1732623839538
+                },
+                "backend-team": {
+                    "role": "member",
+                    "joined_at": 1735942502234
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1734873646635
+                }
+            }
+        }
+    },
+    {
+        "id": 26,
+        "username": "paula.reese",
+        "email": "paula.reese@vertexon.com",
+        "first_name": "Paula",
+        "last_name": "Reese",
+        "nickname": "Paula",
+        "position": "Customer Support Specialist",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1741111066909,
+        "team_channels": {
+            "customer-success": {
+                "customer-onboarding": {
+                    "role": "member",
+                    "joined_at": 1741233365871
+                },
+                "escalations": {
+                    "role": "member",
+                    "joined_at": 1741473919803
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1741104771858
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1741243567075
+                }
+            },
+            "engineering": {
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1741633125330
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1741113450883
+                }
+            }
+        }
+    },
+    {
+        "id": 27,
+        "username": "victoria.walker",
+        "email": "victoria.walker@vertexon.com",
+        "first_name": "Victoria",
+        "last_name": "Walker",
+        "nickname": "Victoria",
+        "position": "Knowledge Management Specialist",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1730387573934,
+        "team_channels": {
+            "engineering": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1730436947403
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1735640503520
+                }
+            }
+        }
+    },
+    {
+        "id": 28,
+        "username": "heather.morris",
+        "email": "heather.morris@vertexon.com",
+        "first_name": "Heather",
+        "last_name": "Morris",
+        "nickname": "Heather",
+        "position": "Chief Financial Officer (CFO)",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1695661659331,
+        "team_channels": {
+            "customer-success": {
+                "success-metrics": {
+                    "role": "member",
+                    "joined_at": 1717327855016
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1706964491479
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1701868870244
+                }
+            }
+        }
+    },
+    {
+        "id": 29,
+        "username": "peter.rios",
+        "email": "peter.rios@vertexon.com",
+        "first_name": "Peter",
+        "last_name": "Rios",
+        "nickname": "Peter",
+        "position": "Brand Marketing Manager",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1693712396814,
+        "team_channels": {
+            "customer-success": {
+                "customer-stories": {
+                    "role": "admin",
+                    "joined_at": 1713626311820
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1703786669950
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1703772682427
+                }
+            },
+            "engineering": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1720163857632
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1721965365895
+                }
+            }
+        }
+    },
+    {
+        "id": 30,
+        "username": "paul.carr",
+        "email": "paul.carr@vertexon.com",
+        "first_name": "Paul",
+        "last_name": "Carr",
+        "nickname": "Paul",
+        "position": "Chief Marketing Officer (CMO)",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1682439522135,
+        "team_channels": {
+            "customer-success": {
+                "customer-stories": {
+                    "role": "member",
+                    "joined_at": 1707173008207
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1706762540692
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1707433271271
+                }
+            }
+        }
+    },
+    {
+        "id": 31,
+        "username": "frank.weaver",
+        "email": "frank.weaver@vertexon.com",
+        "first_name": "Frank",
+        "last_name": "Weaver",
+        "nickname": "Frank",
+        "position": "Director of People Operations",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1686501167791,
+        "team_channels": {
+            "customer-success": {
+                "off-topic": {
+                    "role": "admin",
+                    "joined_at": 1701862114313
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1701868110605
+                }
+            },
+            "engineering": {
+                "off-topic": {
+                    "role": "admin",
+                    "joined_at": 1720720074812
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1726610360193
+                }
+            }
+        }
+    },
+    {
+        "id": 32,
+        "username": "lance.ashley",
+        "email": "lance.ashley@vertexon.com",
+        "first_name": "Lance",
+        "last_name": "Ashley",
+        "nickname": "Lance",
+        "position": "Chief Financial Officer (CFO)",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1685985137192,
+        "team_channels": {
+            "customer-success": {
+                "success-metrics": {
+                    "role": "member",
+                    "joined_at": 1720017357493
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1702032277154
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1705781722296
+                }
+            }
+        }
+    },
+    {
+        "id": 33,
+        "username": "shawn.cooper",
+        "email": "shawn.cooper@vertexon.com",
+        "first_name": "Shawn",
+        "last_name": "Cooper",
+        "nickname": "Shawn",
+        "position": "Director of Sales Strategy",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1696417601066,
+        "team_channels": {
+            "customer-success": {
+                "retention-strategies": {
+                    "role": "member",
+                    "joined_at": 1704484698307
+                },
+                "renewal-pipeline": {
+                    "role": "member",
+                    "joined_at": 1716116554376
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1702238465354
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1706101798745
+                }
+            }
+        }
+    },
+    {
+        "id": 34,
+        "username": "james.hansen",
+        "email": "james.hansen@vertexon.com",
+        "first_name": "James",
+        "last_name": "Hansen",
+        "nickname": "James",
+        "position": "Brand Marketing Manager",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1705712766888,
+        "team_channels": {
+            "engineering": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1720132566916
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1725902244742
+                }
+            }
+        }
+    },
+    {
+        "id": 35,
+        "username": "justin.clark",
+        "email": "justin.clark@vertexon.com",
+        "first_name": "Justin",
+        "last_name": "Clark",
+        "nickname": "Justin",
+        "position": "Talent Acquisition Specialist",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1687015310647,
+        "team_channels": {
+            "customer-success": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1701875678639
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1701853661408
+                }
+            },
+            "engineering": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1720376612825
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1724070561582
+                }
+            }
+        }
+    },
+    {
+        "id": 36,
+        "username": "valerie.byrd",
+        "email": "valerie.byrd@vertexon.com",
+        "first_name": "Valerie",
+        "last_name": "Byrd",
+        "nickname": "Valerie",
+        "position": "Sales Manager",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1702329521954,
+        "team_channels": {
+            "customer-success": {
+                "customer-onboarding": {
+                    "role": "member",
+                    "joined_at": 1717465083002
+                },
+                "escalations": {
+                    "role": "member",
+                    "joined_at": 1713365381677
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1702751777408
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1709128546697
+                }
+            },
+            "engineering": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1720150086748
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1720248604847
+                }
+            }
+        }
+    },
+    {
+        "id": 37,
+        "username": "sarah.villegas",
+        "email": "sarah.villegas@vertexon.com",
+        "first_name": "Sarah",
+        "last_name": "Villegas",
+        "nickname": "Sarah",
+        "position": "Chief Technology Officer (CTO)",
+        "roles": "system_user system_admin",
+        "gender": "female",
+        "joined_at": 1711453505635,
+        "team_channels": {
+            "customer-success": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1718307601142
+                },
+                "town-square": {
+                    "role": "admin",
+                    "joined_at": 1712756127209
+                }
+            },
+            "product": {
+                "product-roadmap": {
+                    "role": "member",
+                    "joined_at": 1733031027542
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1718496801839
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1723204704686
+                }
+            },
+            "engineering": {
+                "town-square": {
+                    "role": "admin",
+                    "joined_at": 1726707769505
+                },
+                "architecture-design": {
+                    "role": "admin",
+                    "joined_at": 1741348162570
+                },
+                "devops-updates": {
+                    "role": "member",
+                    "joined_at": 1730415558321
+                },
+                "backend-team": {
+                    "role": "member",
+                    "joined_at": 1729921272856
+                },
+                "tech-innovations": {
+                    "role": "admin",
+                    "joined_at": 1742230648906
+                },
+                "security-protocols": {
+                    "role": "admin",
+                    "joined_at": 1742790964660
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1721500304802
+                }
+            }
+        }
+    },
+    {
+        "id": 38,
+        "username": "jonathan.alexander",
+        "email": "jonathan.alexander@vertexon.com",
+        "first_name": "Jonathan",
+        "last_name": "Alexander",
+        "nickname": "Jonathan",
+        "position": "Customer Support Specialist",
+        "roles": "system_user system_admin",
+        "gender": "male",
+        "joined_at": 1720865092774,
+        "team_channels": {
+            "customer-success": {
+                "customer-onboarding": {
+                    "role": "member",
+                    "joined_at": 1727040675389
+                },
+                "escalations": {
+                    "role": "admin",
+                    "joined_at": 1720857843275
+                },
+                "product-feedback": {
+                    "role": "member",
+                    "joined_at": 1722564420145
+                },
+                "customer-stories": {
+                    "role": "member",
+                    "joined_at": 1727617623063
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1727126772061
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1726025199835
+                }
+            },
+            "engineering": {
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1723544991246
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1722195186713
+                }
+            }
+        }
+    },
+    {
+        "id": 39,
+        "username": "cynthia.clark",
+        "email": "cynthia.clark@vertexon.com",
+        "first_name": "Cynthia",
+        "last_name": "Clark",
+        "nickname": "Cynthia",
+        "position": "Payroll Specialist",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1717096353314,
+        "team_channels": {}
+    },
+    {
+        "id": 40,
+        "username": "todd.martin",
+        "email": "todd.martin@vertexon.com",
+        "first_name": "Todd",
+        "last_name": "Martin",
+        "nickname": "Todd",
+        "position": "Partner Account Manager",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1720933596357,
+        "team_channels": {
+            "customer-success": {
+                "customer-onboarding": {
+                    "role": "member",
+                    "joined_at": 1723699711560
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1728638163478
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1720941359330
+                }
+            },
+            "engineering": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1723217330812
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1728587030482
+                }
+            }
+        }
+    },
+    {
+        "id": 41,
+        "username": "michael.clements",
+        "email": "michael.clements@vertexon.com",
+        "first_name": "Michael",
+        "last_name": "Clements",
+        "nickname": "Michael",
+        "position": "Senior Software Engineer",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1700487678248,
+        "team_channels": {
+            "customer-success": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1707600724268
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1708664093344
+                }
+            },
+            "product": {
+                "feature-specs": {
+                    "role": "member",
+                    "joined_at": 1728053315816
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1715395222973
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1717853378869
+                }
+            },
+            "engineering": {
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1720172285053
+                },
+                "architecture-design": {
+                    "role": "member",
+                    "joined_at": 1743939198143
+                },
+                "code-reviews": {
+                    "role": "member",
+                    "joined_at": 1731321772596
+                },
+                "devops-updates": {
+                    "role": "member",
+                    "joined_at": 1726095466069
+                },
+                "backend-team": {
+                    "role": "member",
+                    "joined_at": 1731383802965
+                },
+                "tech-innovations": {
+                    "role": "member",
+                    "joined_at": 1743045588454
+                },
+                "security-protocols": {
+                    "role": "member",
+                    "joined_at": 1741378774027
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1721658477564
+                }
+            }
+        }
+    },
+    {
+        "id": 42,
+        "username": "robert.johnson",
+        "email": "robert.johnson@vertexon.com",
+        "first_name": "Robert",
+        "last_name": "Johnson",
+        "nickname": "Robert",
+        "position": "Operations Manager",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1691755964544,
+        "team_channels": {}
+    },
+    {
+        "id": 43,
+        "username": "barbara.bradley",
+        "email": "barbara.bradley@vertexon.com",
+        "first_name": "Barbara",
+        "last_name": "Bradley",
+        "nickname": "Barbara",
+        "position": "Customer Success Manager",
+        "roles": "system_user system_admin",
+        "gender": "male",
+        "joined_at": 1695798267914,
+        "team_channels": {
+            "customer-success": {
+                "customer-onboarding": {
+                    "role": "admin",
+                    "joined_at": 1714379011048
+                },
+                "retention-strategies": {
+                    "role": "admin",
+                    "joined_at": 1704574081693
+                },
+                "success-metrics": {
+                    "role": "admin",
+                    "joined_at": 1717365401698
+                },
+                "escalations": {
+                    "role": "admin",
+                    "joined_at": 1718999272229
+                },
+                "renewal-pipeline": {
+                    "role": "admin",
+                    "joined_at": 1719209740665
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1701943941720
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1706029596243
+                }
+            }
+        }
+    },
+    {
+        "id": 44,
+        "username": "michael.wilson",
+        "email": "michael.wilson@vertexon.com",
+        "first_name": "Michael",
+        "last_name": "Wilson",
+        "nickname": "Michael",
+        "position": "Director of Customer Experience",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1703708966030,
+        "team_channels": {
+            "customer-success": {
+                "customer-onboarding": {
+                    "role": "admin",
+                    "joined_at": 1714382435375
+                },
+                "retention-strategies": {
+                    "role": "admin",
+                    "joined_at": 1704785393530
+                },
+                "success-metrics": {
+                    "role": "admin",
+                    "joined_at": 1719764739794
+                },
+                "escalations": {
+                    "role": "member",
+                    "joined_at": 1713198083192
+                },
+                "customer-stories": {
+                    "role": "admin",
+                    "joined_at": 1709399224911
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1705523643209
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1703839797440
+                }
+            }
+        }
+    },
+    {
+        "id": 45,
+        "username": "erik.parker",
+        "email": "erik.parker@vertexon.com",
+        "first_name": "Erik",
+        "last_name": "Parker",
+        "nickname": "Erik",
+        "position": "UX Researcher",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1732024596372,
+        "team_channels": {
+            "customer-success": {
+                "product-feedback": {
+                    "role": "member",
+                    "joined_at": 1732869647078
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1733675121533
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1733633277725
+                }
+            },
+            "product": {
+                "feature-specs": {
+                    "role": "member",
+                    "joined_at": 1732297699107
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1732166906256
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1732384290320
+                }
+            },
+            "engineering": {
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1735375835858
+                },
+                "tech-innovations": {
+                    "role": "member",
+                    "joined_at": 1740899166993
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1734188094078
+                }
+            }
+        }
+    },
+    {
+        "id": 46,
+        "username": "taylor.thompson",
+        "email": "taylor.thompson@vertexon.com",
+        "first_name": "Taylor",
+        "last_name": "Thompson",
+        "nickname": "Taylor",
+        "position": "Chief Technology Officer (CTO)",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1710551327670,
+        "team_channels": {
+            "customer-success": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1710641212439
+                },
+                "town-square": {
+                    "role": "admin",
+                    "joined_at": 1715431047372
+                }
+            }
+        }
+    },
+    {
+        "id": 47,
+        "username": "gina.scott",
+        "email": "gina.scott@vertexon.com",
+        "first_name": "Gina",
+        "last_name": "Scott",
+        "nickname": "Gina",
+        "position": "Junior Software Engineer",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1686429803595,
+        "team_channels": {
+            "engineering": {
+                "architecture-design": {
+                    "role": "member",
+                    "joined_at": 1741372732195
+                },
+                "code-reviews": {
+                    "role": "member",
+                    "joined_at": 1733878020533
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1723730039269
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1720122999972
+                }
+            }
+        }
+    },
+    {
+        "id": 48,
+        "username": "melanie.gonzalez",
+        "email": "melanie.gonzalez@vertexon.com",
+        "first_name": "Melanie",
+        "last_name": "Gonzalez",
+        "nickname": "Melanie",
+        "position": "Senior HR Business Partner",
+        "roles": "system_user system_admin",
+        "gender": "female",
+        "joined_at": 1713152056564,
+        "team_channels": {
+            "customer-success": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1713165612085
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1713620325490
+                }
+            },
+            "engineering": {
+                "off-topic": {
+                    "role": "admin",
+                    "joined_at": 1724268497072
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1722219207964
+                }
+            }
+        }
+    },
+    {
+        "id": 49,
+        "username": "greg.wilson",
+        "email": "greg.wilson@vertexon.com",
+        "first_name": "Greg",
+        "last_name": "Wilson",
+        "nickname": "Greg",
+        "position": "Senior Software Engineer",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1717186762159,
+        "team_channels": {
+            "customer-success": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1717197976916
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1723807475763
+                }
+            },
+            "engineering": {
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1723821310086
+                },
+                "architecture-design": {
+                    "role": "member",
+                    "joined_at": 1743925934898
+                },
+                "code-reviews": {
+                    "role": "member",
+                    "joined_at": 1732255852800
+                },
+                "backend-team": {
+                    "role": "member",
+                    "joined_at": 1728240504683
+                },
+                "tech-innovations": {
+                    "role": "member",
+                    "joined_at": 1744115685162
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1726306428040
+                }
+            }
+        }
+    },
+    {
+        "id": 50,
+        "username": "morgan.wu",
+        "email": "morgan.wu@vertexon.com",
+        "first_name": "Morgan",
+        "last_name": "Wu",
+        "nickname": "Morgan",
+        "position": "Product Team Lead",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1708547350150,
+        "team_channels": {
+            "customer-success": {
+                "product-feedback": {
+                    "role": "member",
+                    "joined_at": 1722930185321
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1711286219363
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1708652907697
+                }
+            },
+            "product": {
+                "product-roadmap": {
+                    "role": "admin",
+                    "joined_at": 1731183815045
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1718310128009
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1715391295292
+                }
+            },
+            "engineering": {
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1725217590209
+                },
+                "architecture-design": {
+                    "role": "member",
+                    "joined_at": 1741363667814
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1720296860964
+                }
+            }
+        }
+    },
+    {
+        "id": 51,
+        "username": "caleb.fields",
+        "email": "caleb.fields@vertexon.com",
+        "first_name": "Caleb",
+        "last_name": "Fields",
+        "nickname": "Caleb",
+        "position": "Engineering Team Lead",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1709267858677,
+        "team_channels": {
+            "customer-success": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1716605428501
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1711634884586
+                }
+            },
+            "product": {
+                "product-roadmap": {
+                    "role": "member",
+                    "joined_at": 1732757038631
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1722455154140
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1718663192483
+                }
+            },
+            "engineering": {
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1727985227822
+                },
+                "architecture-design": {
+                    "role": "admin",
+                    "joined_at": 1741634115411
+                },
+                "code-reviews": {
+                    "role": "admin",
+                    "joined_at": 1732488017374
+                },
+                "devops-updates": {
+                    "role": "member",
+                    "joined_at": 1724766279552
+                },
+                "backend-team": {
+                    "role": "member",
+                    "joined_at": 1728334337478
+                },
+                "tech-innovations": {
+                    "role": "member",
+                    "joined_at": 1743797477028
+                },
+                "security-protocols": {
+                    "role": "member",
+                    "joined_at": 1740562771966
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1727432475545
+                }
+            }
+        }
+    },
+    {
+        "id": 52,
+        "username": "tanner.rivera",
+        "email": "tanner.rivera@vertexon.com",
+        "first_name": "Tanner",
+        "last_name": "Rivera",
+        "nickname": "Tanner",
+        "position": "Office Manager",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1723212725318,
+        "team_channels": {
+            "customer-success": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1725665407393
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1723743805134
+                }
+            },
+            "engineering": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1729453006992
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1728442365240
+                }
+            }
+        }
+    },
+    {
+        "id": 53,
+        "username": "alexa.riley",
+        "email": "alexa.riley@vertexon.com",
+        "first_name": "Alexa",
+        "last_name": "Riley",
+        "nickname": "Alexa",
+        "position": "HR Coordinator",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1754815755842,
+        "team_channels": {
+            "customer-success": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1754804881977
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1754816701294
+                }
+            },
+            "engineering": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1754822239263
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1754829525668
+                }
+            }
+        }
+    },
+    {
+        "id": 54,
+        "username": "adam.robertson",
+        "email": "adam.robertson@vertexon.com",
+        "first_name": "Adam",
+        "last_name": "Robertson",
+        "nickname": "Adam",
+        "position": "Senior Backend Engineer",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1705964551171,
+        "team_channels": {
+            "customer-success": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1711809681249
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1705965300631
+                }
+            },
+            "product": {
+                "feature-specs": {
+                    "role": "member",
+                    "joined_at": 1729259328993
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1716676399669
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1718194433184
+                }
+            },
+            "engineering": {
+                "architecture-design": {
+                    "role": "member",
+                    "joined_at": 1741900669264
+                },
+                "code-reviews": {
+                    "role": "member",
+                    "joined_at": 1729004784201
+                },
+                "backend-team": {
+                    "role": "admin",
+                    "joined_at": 1731040603975
+                },
+                "security-protocols": {
+                    "role": "member",
+                    "joined_at": 1741492396217
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1720265952318
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1722041294780
+                }
+            }
+        }
+    },
+    {
+        "id": 55,
+        "username": "betty.powers",
+        "email": "betty.powers@vertexon.com",
+        "first_name": "Betty",
+        "last_name": "Powers",
+        "nickname": "Betty",
+        "position": "Cloud Engineer",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1733904471649,
+        "team_channels": {
+            "engineering": {
+                "devops-updates": {
+                    "role": "member",
+                    "joined_at": 1734124616212
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1738352136698
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1738234906492
+                }
+            }
+        }
+    },
+    {
+        "id": 56,
+        "username": "jonathon.blanchard",
+        "email": "jonathon.blanchard@vertexon.com",
+        "first_name": "Jonathon",
+        "last_name": "Blanchard",
+        "nickname": "Jonathon",
+        "position": "Business Development Representative",
+        "roles": "system_user system_admin",
+        "gender": "male",
+        "joined_at": 1715662857007,
+        "team_channels": {
+            "customer-success": {
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1716418677627
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1718313227633
+                }
+            }
+        }
+    },
+    {
+        "id": 57,
+        "username": "sonya.perry",
+        "email": "sonya.perry@vertexon.com",
+        "first_name": "Sonya",
+        "last_name": "Perry",
+        "nickname": "Sonya",
+        "position": "Backend Engineer",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1689205089813,
+        "team_channels": {
+            "engineering": {
+                "architecture-design": {
+                    "role": "member",
+                    "joined_at": 1743004009342
+                },
+                "code-reviews": {
+                    "role": "member",
+                    "joined_at": 1731243849680
+                },
+                "backend-team": {
+                    "role": "member",
+                    "joined_at": 1728210337398
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1721031501876
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1720603458652
+                }
+            }
+        }
+    },
+    {
+        "id": 58,
+        "username": "david.hill",
+        "email": "david.hill@vertexon.com",
+        "first_name": "David",
+        "last_name": "Hill",
+        "nickname": "David",
+        "position": "Technical Writer",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1703724544282,
+        "team_channels": {
+            "engineering": {
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1721126738877
+                },
+                "code-reviews": {
+                    "role": "member",
+                    "joined_at": 1728023054809
+                },
+                "backend-team": {
+                    "role": "member",
+                    "joined_at": 1730084217655
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1721901918484
+                }
+            }
+        }
+    },
+    {
+        "id": 59,
+        "username": "jennifer.rogers",
+        "email": "jennifer.rogers@vertexon.com",
+        "first_name": "Jennifer",
+        "last_name": "Rogers",
+        "nickname": "Jennifer",
+        "position": "Product Owner",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1685112217533,
+        "team_channels": {
+            "customer-success": {
+                "product-feedback": {
+                    "role": "member",
+                    "joined_at": 1724955623000
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1708963466794
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1701888633895
+                }
+            },
+            "product": {
+                "product-roadmap": {
+                    "role": "member",
+                    "joined_at": 1734723244054
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1715569915872
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1717635593045
+                }
+            }
+        }
+    },
+    {
+        "id": 60,
+        "username": "samantha.lynn",
+        "email": "samantha.lynn@vertexon.com",
+        "first_name": "Samantha",
+        "last_name": "Lynn",
+        "nickname": "Samantha",
+        "position": "Senior Marketing Manager",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1702060728832,
+        "team_channels": {
+            "customer-success": {
+                "customer-stories": {
+                    "role": "member",
+                    "joined_at": 1714341492328
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1702208223739
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1708960529661
+                }
+            },
+            "engineering": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1724749284779
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1726386258944
+                }
+            }
+        }
+    },
+    {
+        "id": 61,
+        "username": "lorraine.jones",
+        "email": "lorraine.jones@vertexon.com",
+        "first_name": "Lorraine",
+        "last_name": "Jones",
+        "nickname": "Lorraine",
+        "position": "Junior DevOps Engineer",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1739140231132,
+        "team_channels": {
+            "engineering": {
+                "devops-updates": {
+                    "role": "member",
+                    "joined_at": 1739522345857
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1739127491373
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1740260431190
+                }
+            }
+        }
+    },
+    {
+        "id": 62,
+        "username": "stephanie.lee",
+        "email": "stephanie.lee@vertexon.com",
+        "first_name": "Stephanie",
+        "last_name": "Lee",
+        "nickname": "Stephanie",
+        "position": "Technical Lead",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1693971935404,
+        "team_channels": {
+            "product": {
+                "feature-specs": {
+                    "role": "admin",
+                    "joined_at": 1727983761802
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1723056911735
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1721286337660
+                }
+            },
+            "engineering": {
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1720117841650
+                },
+                "architecture-design": {
+                    "role": "admin",
+                    "joined_at": 1741642522040
+                },
+                "code-reviews": {
+                    "role": "admin",
+                    "joined_at": 1729873242529
+                },
+                "backend-team": {
+                    "role": "member",
+                    "joined_at": 1732199049568
+                },
+                "tech-innovations": {
+                    "role": "member",
+                    "joined_at": 1740919729938
+                },
+                "security-protocols": {
+                    "role": "member",
+                    "joined_at": 1743434308653
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1721551995942
+                }
+            }
+        }
+    },
+    {
+        "id": 63,
+        "username": "dawn.obrien",
+        "email": "dawn.obrien@vertexon.com",
+        "first_name": "Dawn",
+        "last_name": "Obrien",
+        "nickname": "Dawn",
+        "position": "Senior Machine Learning Engineer",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1700338072010,
+        "team_channels": {
+            "customer-success": {
+                "success-metrics": {
+                    "role": "member",
+                    "joined_at": 1721238051788
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1702001298162
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1706274294169
+                }
+            },
+            "engineering": {
+                "tech-innovations": {
+                    "role": "member",
+                    "joined_at": 1740952045764
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1722726554960
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1725171177401
+                }
+            }
+        }
+    },
+    {
+        "id": 64,
+        "username": "jose.kirk",
+        "email": "jose.kirk@vertexon.com",
+        "first_name": "Jose",
+        "last_name": "Kirk",
+        "nickname": "Jose",
+        "position": "Administrative Coordinator",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1721759771398,
+        "team_channels": {
+            "customer-success": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1722320149892
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1728774258913
+                }
+            },
+            "engineering": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1721778531368
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1722586247926
+                }
+            }
+        }
+    },
+    {
+        "id": 65,
+        "username": "mark.lee",
+        "email": "mark.lee@vertexon.com",
+        "first_name": "Mark",
+        "last_name": "Lee",
+        "nickname": "Mark",
+        "position": "Director of Sales Strategy",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1713183380897,
+        "team_channels": {
+            "customer-success": {
+                "retention-strategies": {
+                    "role": "member",
+                    "joined_at": 1720310610497
+                },
+                "renewal-pipeline": {
+                    "role": "member",
+                    "joined_at": 1716419343297
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1715984511758
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1714359453198
+                }
+            }
+        }
+    },
+    {
+        "id": 66,
+        "username": "susan.riley",
+        "email": "susan.riley@vertexon.com",
+        "first_name": "Susan",
+        "last_name": "Riley",
+        "nickname": "Susan",
+        "position": "VP of Sales",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1743120173861,
+        "team_channels": {
+            "customer-success": {
+                "retention-strategies": {
+                    "role": "member",
+                    "joined_at": 1743136979421
+                },
+                "renewal-pipeline": {
+                    "role": "member",
+                    "joined_at": 1744129074947
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1743484253747
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1744281651922
+                }
+            }
+        }
+    },
+    {
+        "id": 67,
+        "username": "brooke.ellis",
+        "email": "brooke.ellis@vertexon.com",
+        "first_name": "Brooke",
+        "last_name": "Ellis",
+        "nickname": "Brooke",
+        "position": "Business Development Representative",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1750524136806,
+        "team_channels": {}
+    },
+    {
+        "id": 68,
+        "username": "kurt.bell",
+        "email": "kurt.bell@vertexon.com",
+        "first_name": "Kurt",
+        "last_name": "Bell",
+        "nickname": "Kurt",
+        "position": "Project Coordinator",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1726771866253,
+        "team_channels": {
+            "customer-success": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1726897475044
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1733170163017
+                }
+            },
+            "engineering": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1733708156917
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1726782390370
+                }
+            }
+        }
+    },
+    {
+        "id": 69,
+        "username": "gary.ramirez",
+        "email": "gary.ramirez@vertexon.com",
+        "first_name": "Gary",
+        "last_name": "Ramirez",
+        "nickname": "Gary",
+        "position": "Sales Development Representative",
+        "roles": "system_user system_admin",
+        "gender": "female",
+        "joined_at": 1706391947876,
+        "team_channels": {}
+    },
+    {
+        "id": 70,
+        "username": "cynthia.luna",
+        "email": "cynthia.luna@vertexon.com",
+        "first_name": "Cynthia",
+        "last_name": "Luna",
+        "nickname": "Cynthia",
+        "position": "Senior Backend Engineer",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1689375194801,
+        "team_channels": {
+            "customer-success": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1703242376657
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1702204630432
+                }
+            },
+            "engineering": {
+                "architecture-design": {
+                    "role": "member",
+                    "joined_at": 1741927812029
+                },
+                "code-reviews": {
+                    "role": "member",
+                    "joined_at": 1728297284096
+                },
+                "backend-team": {
+                    "role": "admin",
+                    "joined_at": 1729922892844
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1723352048962
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1726027731578
+                }
+            }
+        }
+    },
+    {
+        "id": 71,
+        "username": "tiffany.lucas",
+        "email": "tiffany.lucas@vertexon.com",
+        "first_name": "Tiffany",
+        "last_name": "Lucas",
+        "nickname": "Tiffany",
+        "position": "Social Media Marketing Manager",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1710813408948,
+        "team_channels": {
+            "customer-success": {
+                "customer-stories": {
+                    "role": "member",
+                    "joined_at": 1716889634741
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1717204225014
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1710851934611
+                }
+            },
+            "engineering": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1723577882108
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1722427199715
+                }
+            }
+        }
+    },
+    {
+        "id": 72,
+        "username": "connie.morris",
+        "email": "connie.morris@vertexon.com",
+        "first_name": "Connie",
+        "last_name": "Morris",
+        "nickname": "Connie",
+        "position": "Customer Onboarding Manager",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1687686704096,
+        "team_channels": {
+            "customer-success": {
+                "customer-onboarding": {
+                    "role": "admin",
+                    "joined_at": 1715580795553
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1705441751748
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1702156227796
+                }
+            }
+        }
+    },
+    {
+        "id": 73,
+        "username": "james.yates",
+        "email": "james.yates@vertexon.com",
+        "first_name": "James",
+        "last_name": "Yates",
+        "nickname": "James",
+        "position": "Cloud Engineer",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1727985629532,
+        "team_channels": {
+            "customer-success": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1729702470554
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1733019341625
+                }
+            },
+            "engineering": {
+                "devops-updates": {
+                    "role": "member",
+                    "joined_at": 1728260482217
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1728909060854
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1728049494594
+                }
+            }
+        }
+    },
+    {
+        "id": 74,
+        "username": "lisa.richardson",
+        "email": "lisa.richardson@vertexon.com",
+        "first_name": "Lisa",
+        "last_name": "Richardson",
+        "nickname": "Lisa",
+        "position": "Junior Backend Engineer",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1689391068866,
+        "team_channels": {
+            "engineering": {
+                "architecture-design": {
+                    "role": "member",
+                    "joined_at": 1741537741165
+                },
+                "code-reviews": {
+                    "role": "member",
+                    "joined_at": 1728515216874
+                },
+                "backend-team": {
+                    "role": "member",
+                    "joined_at": 1728365904855
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1720570733836
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1723769466533
+                }
+            }
+        }
+    },
+    {
+        "id": 75,
+        "username": "connie.watts",
+        "email": "connie.watts@vertexon.com",
+        "first_name": "Connie",
+        "last_name": "Watts",
+        "nickname": "Connie",
+        "position": "Senior Financial Analyst",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1718756469213,
+        "team_channels": {
+            "customer-success": {
+                "success-metrics": {
+                    "role": "member",
+                    "joined_at": 1725992816052
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1718940037656
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1723867606500
+                }
+            }
+        }
+    },
+    {
+        "id": 76,
+        "username": "lisa.cooper",
+        "email": "lisa.cooper@vertexon.com",
+        "first_name": "Lisa",
+        "last_name": "Cooper",
+        "nickname": "Lisa",
+        "position": "Knowledge Management Specialist",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1702971138650,
+        "team_channels": {
+            "engineering": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1724394119471
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1722904799674
+                }
+            }
+        }
+    },
+    {
+        "id": 77,
+        "username": "benjamin.cox",
+        "email": "benjamin.cox@vertexon.com",
+        "first_name": "Benjamin",
+        "last_name": "Cox",
+        "nickname": "Benjamin",
+        "position": "Marketing Communications Specialist",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1720398414732,
+        "team_channels": {
+            "customer-success": {
+                "customer-stories": {
+                    "role": "member",
+                    "joined_at": 1726653922676
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1722914018774
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1726539793459
+                }
+            },
+            "engineering": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1722270358382
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1727276295355
+                }
+            }
+        }
+    },
+    {
+        "id": 78,
+        "username": "tim.harris",
+        "email": "tim.harris@vertexon.com",
+        "first_name": "Tim",
+        "last_name": "Harris",
+        "nickname": "Tim",
+        "position": "Social Media Marketing Manager",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1717881666127,
+        "team_channels": {
+            "customer-success": {
+                "customer-stories": {
+                    "role": "member",
+                    "joined_at": 1717880284089
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1718242842703
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1720491000963
+                }
+            },
+            "engineering": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1720135091973
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1720240574850
+                }
+            }
+        }
+    },
+    {
+        "id": 79,
+        "username": "ashley.williams",
+        "email": "ashley.williams@vertexon.com",
+        "first_name": "Ashley",
+        "last_name": "Williams",
+        "nickname": "Ashley",
+        "position": "Content Marketing Manager",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1703988203805,
+        "team_channels": {
+            "customer-success": {
+                "customer-stories": {
+                    "role": "member",
+                    "joined_at": 1708037213358
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1708760522656
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1706894627836
+                }
+            },
+            "engineering": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1720562032212
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1724416491885
+                }
+            }
+        }
+    },
+    {
+        "id": 80,
+        "username": "trevor.kline",
+        "email": "trevor.kline@vertexon.com",
+        "first_name": "Trevor",
+        "last_name": "Kline",
+        "nickname": "Trevor",
+        "position": "Enterprise Sales Manager",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1710739061994,
+        "team_channels": {
+            "customer-success": {
+                "retention-strategies": {
+                    "role": "member",
+                    "joined_at": 1718600770344
+                },
+                "escalations": {
+                    "role": "member",
+                    "joined_at": 1718858305390
+                },
+                "renewal-pipeline": {
+                    "role": "member",
+                    "joined_at": 1718747696567
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1715013331499
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1714309971427
+                }
+            }
+        }
+    },
+    {
+        "id": 81,
+        "username": "karen.lowe",
+        "email": "karen.lowe@vertexon.com",
+        "first_name": "Karen",
+        "last_name": "Lowe",
+        "nickname": "Karen",
+        "position": "Chief Operating Officer (COO)",
+        "roles": "system_user system_admin",
+        "gender": "female",
+        "joined_at": 1704289934803,
+        "team_channels": {
+            "customer-success": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1708855334961
+                },
+                "town-square": {
+                    "role": "admin",
+                    "joined_at": 1705013872866
+                }
+            },
+            "engineering": {
+                "town-square": {
+                    "role": "admin",
+                    "joined_at": 1723388478005
+                },
+                "security-protocols": {
+                    "role": "member",
+                    "joined_at": 1740485239136
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1722960215799
+                }
+            }
+        }
+    },
+    {
+        "id": 82,
+        "username": "sarah.davis",
+        "email": "sarah.davis@vertexon.com",
+        "first_name": "Sarah",
+        "last_name": "Davis",
+        "nickname": "Sarah",
+        "position": "Payroll Specialist",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1699302025692,
+        "team_channels": {}
+    },
+    {
+        "id": 83,
+        "username": "dwayne.bradford",
+        "email": "dwayne.bradford@vertexon.com",
+        "first_name": "Dwayne",
+        "last_name": "Bradford",
+        "nickname": "Dwayne",
+        "position": "Partner Account Manager",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1706677930225,
+        "team_channels": {
+            "customer-success": {
+                "customer-onboarding": {
+                    "role": "member",
+                    "joined_at": 1714397658031
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1707013405225
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1712544377549
+                }
+            }
+        }
+    },
+    {
+        "id": 84,
+        "username": "peter.hurley",
+        "email": "peter.hurley@vertexon.com",
+        "first_name": "Peter",
+        "last_name": "Hurley",
+        "nickname": "Peter",
+        "position": "Network Administrator",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1732109871083,
+        "team_channels": {
+            "engineering": {
+                "devops-updates": {
+                    "role": "member",
+                    "joined_at": 1732352452750
+                },
+                "security-protocols": {
+                    "role": "member",
+                    "joined_at": 1742644802220
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1732098556374
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1732109771146
+                }
+            }
+        }
+    },
+    {
+        "id": 85,
+        "username": "daniel.smith",
+        "email": "daniel.smith@vertexon.com",
+        "first_name": "Daniel",
+        "last_name": "Smith",
+        "nickname": "Daniel",
+        "position": "Customer Success Manager",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1713540597711,
+        "team_channels": {
+            "customer-success": {
+                "customer-onboarding": {
+                    "role": "member",
+                    "joined_at": 1716079641923
+                },
+                "escalations": {
+                    "role": "member",
+                    "joined_at": 1713527820965
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1715970007866
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1713545903040
+                }
+            }
+        }
+    },
+    {
+        "id": 86,
+        "username": "karen.gordon",
+        "email": "karen.gordon@vertexon.com",
+        "first_name": "Karen",
+        "last_name": "Gordon",
+        "nickname": "Karen",
+        "position": "IT Support Technician",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1743213182961,
+        "team_channels": {
+            "engineering": {
+                "devops-updates": {
+                    "role": "member",
+                    "joined_at": 1743290174460
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1745389284885
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1743227177800
+                }
+            }
+        }
+    },
+    {
+        "id": 87,
+        "username": "michael.garrett",
+        "email": "michael.garrett@vertexon.com",
+        "first_name": "Michael",
+        "last_name": "Garrett",
+        "nickname": "Michael",
+        "position": "Product Designer",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1722480937628,
+        "team_channels": {
+            "customer-success": {
+                "product-feedback": {
+                    "role": "member",
+                    "joined_at": 1724542769427
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1723502803198
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1725258289579
+                }
+            },
+            "product": {
+                "feature-specs": {
+                    "role": "member",
+                    "joined_at": 1730059778896
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1727667494230
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1729707838083
+                }
+            },
+            "engineering": {
+                "code-reviews": {
+                    "role": "member",
+                    "joined_at": 1728337916201
+                },
+                "tech-innovations": {
+                    "role": "member",
+                    "joined_at": 1743857515638
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1725809419233
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1728848195221
+                }
+            }
+        }
+    },
+    {
+        "id": 88,
+        "username": "trevor.bruce",
+        "email": "trevor.bruce@vertexon.com",
+        "first_name": "Trevor",
+        "last_name": "Bruce",
+        "nickname": "Trevor",
+        "position": "Systems Administrator",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1749929396520,
+        "team_channels": {
+            "engineering": {
+                "devops-updates": {
+                    "role": "member",
+                    "joined_at": 1750648559329
+                },
+                "security-protocols": {
+                    "role": "member",
+                    "joined_at": 1749969467307
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1750236400379
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1751075375980
+                }
+            }
+        }
+    },
+    {
+        "id": 89,
+        "username": "adam.harrison",
+        "email": "adam.harrison@vertexon.com",
+        "first_name": "Adam",
+        "last_name": "Harrison",
+        "nickname": "Adam",
+        "position": "Employee Experience Specialist",
+        "roles": "system_user system_admin",
+        "gender": "female",
+        "joined_at": 1708446192579,
+        "team_channels": {
+            "customer-success": {
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1708492205441
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1710491860218
+                }
+            }
+        }
+    },
+    {
+        "id": 90,
+        "username": "tina.melton",
+        "email": "tina.melton@vertexon.com",
+        "first_name": "Tina",
+        "last_name": "Melton",
+        "nickname": "Tina",
+        "position": "Senior Security Engineer",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1695696789997,
+        "team_channels": {
+            "engineering": {
+                "devops-updates": {
+                    "role": "member",
+                    "joined_at": 1723445189324
+                },
+                "security-protocols": {
+                    "role": "admin",
+                    "joined_at": 1741739308698
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1723100800926
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1722751648404
+                }
+            }
+        }
+    },
+    {
+        "id": 91,
+        "username": "james.bell",
+        "email": "james.bell@vertexon.com",
+        "first_name": "James",
+        "last_name": "Bell",
+        "nickname": "James",
+        "position": "Financial Analyst",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1749377890388,
+        "team_channels": {
+            "customer-success": {
+                "success-metrics": {
+                    "role": "member",
+                    "joined_at": 1749871898015
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1749770058734
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1749988129867
+                }
+            }
+        }
+    },
+    {
+        "id": 92,
+        "username": "wayne.kirk",
+        "email": "wayne.kirk@vertexon.com",
+        "first_name": "Wayne",
+        "last_name": "Kirk",
+        "nickname": "Wayne",
+        "position": "VP of Human Resources",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1705518660425,
+        "team_channels": {
+            "customer-success": {
+                "off-topic": {
+                    "role": "admin",
+                    "joined_at": 1707082364398
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1710698354736
+                }
+            },
+            "engineering": {
+                "off-topic": {
+                    "role": "admin",
+                    "joined_at": 1726166377670
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1720305043245
+                }
+            }
+        }
+    },
+    {
+        "id": 93,
+        "username": "thomas.miranda",
+        "email": "thomas.miranda@vertexon.com",
+        "first_name": "Thomas",
+        "last_name": "Miranda",
+        "nickname": "Thomas",
+        "position": "Junior Frontend Engineer",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1689741839537,
+        "team_channels": {
+            "engineering": {
+                "architecture-design": {
+                    "role": "member",
+                    "joined_at": 1741367904404
+                },
+                "code-reviews": {
+                    "role": "member",
+                    "joined_at": 1729131651818
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1720972877244
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1720149431935
+                }
+            }
+        }
+    },
+    {
+        "id": 94,
+        "username": "kevin.zimmerman",
+        "email": "kevin.zimmerman@vertexon.com",
+        "first_name": "Kevin",
+        "last_name": "Zimmerman",
+        "nickname": "Kevin",
+        "position": "Executive Assistant",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1689722903107,
+        "team_channels": {
+            "customer-success": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1708615660589
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1701882426205
+                }
+            },
+            "engineering": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1724993908114
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1724347294644
+                }
+            }
+        }
+    },
+    {
+        "id": 95,
+        "username": "mike.clark",
+        "email": "mike.clark@vertexon.com",
+        "first_name": "Mike",
+        "last_name": "Clark",
+        "nickname": "Mike",
+        "position": "Senior Security Engineer",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1694701645843,
+        "team_channels": {
+            "engineering": {
+                "devops-updates": {
+                    "role": "member",
+                    "joined_at": 1728888636669
+                },
+                "security-protocols": {
+                    "role": "admin",
+                    "joined_at": 1741783169148
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1722810197287
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1720273846307
+                }
+            }
+        }
+    },
+    {
+        "id": 96,
+        "username": "katherine.waller",
+        "email": "katherine.waller@vertexon.com",
+        "first_name": "Katherine",
+        "last_name": "Waller",
+        "nickname": "Katherine",
+        "position": "Social Media Marketing Manager",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1719299791666,
+        "team_channels": {
+            "customer-success": {
+                "customer-stories": {
+                    "role": "member",
+                    "joined_at": 1721725579634
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1719309837126
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1722063770929
+                }
+            },
+            "engineering": {
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1720333662213
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1720223562529
+                }
+            }
+        }
+    },
+    {
+        "id": 97,
+        "username": "tyler.garcia",
+        "email": "tyler.garcia@vertexon.com",
+        "first_name": "Tyler",
+        "last_name": "Garcia",
+        "nickname": "Tyler",
+        "position": "Product Manager",
+        "roles": "system_user system_admin",
+        "gender": "female",
+        "joined_at": 1690821413631,
+        "team_channels": {
+            "customer-success": {
+                "product-feedback": {
+                    "role": "member",
+                    "joined_at": 1722214194794
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1704750212122
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1706722210233
+                }
+            },
+            "product": {
+                "product-roadmap": {
+                    "role": "admin",
+                    "joined_at": 1732675107063
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1715733605086
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1715380260872
+                }
+            }
+        }
+    },
+    {
+        "id": 98,
+        "username": "erin.turner",
+        "email": "erin.turner@vertexon.com",
+        "first_name": "Erin",
+        "last_name": "Turner",
+        "nickname": "Erin",
+        "position": "Machine Learning Engineer",
+        "roles": "system_user",
+        "gender": "female",
+        "joined_at": 1719342944185,
+        "team_channels": {
+            "engineering": {
+                "tech-innovations": {
+                    "role": "member",
+                    "joined_at": 1744097500009
+                },
+                "town-square": {
+                    "role": "member",
+                    "joined_at": 1720579905150
+                },
+                "off-topic": {
+                    "role": "member",
+                    "joined_at": 1723009043190
+                }
+            }
+        }
+    },
+    {
+        "id": 99,
+        "username": "amber.blake",
+        "email": "amber.blake@vertexon.com",
+        "first_name": "Amber",
+        "last_name": "Blake",
+        "nickname": "Amber",
+        "position": "Staff Accountant",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1678725352859,
+        "team_channels": {}
+    },
+    {
+        "id": 100,
+        "username": "wanda.medina",
+        "email": "wanda.medina@vertexon.com",
+        "first_name": "Wanda",
+        "last_name": "Medina",
+        "nickname": "Wanda",
+        "position": "Senior Project Manager",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1681964038503,
+        "team_channels": {}
+    },
+    {
+        "id": 101,
+        "username": "priscilla.shannon",
+        "email": "priscilla.shannon@vertexon.com",
+        "first_name": "Priscilla",
+        "last_name": "Shannon",
+        "nickname": "Priscilla",
+        "position": "VP of Sales",
+        "roles": "system_user",
+        "gender": "male",
+        "joined_at": 1729212815484,
+        "team_channels": {}
+    },
+    {
+        "id": 1,
+        "username": "john.appleseed",
+        "email": "admin@vertexon.com",
+        "first_name": "John",
+        "last_name": "Appleseed",
+        "nickname": "Johnny",
+        "position": "Executive Manager",
+        "roles": "system_user system_admin",
+        "gender": "male",
+        "joined_at": 1681142552282,
+        "team_channels": {
+            "product": {
+                "product-roadmap": {
+                    "role": "admin",
+                    "joined_at": 1732792991963
+                },
+                "feature-specs": {
+                    "role": "admin",
+                    "joined_at": 1732542650769
+                },
+                "design-reviews": {
+                    "role": "admin",
+                    "joined_at": 1741587742897
+                },
+                "customer-insights": {
+                    "role": "admin",
+                    "joined_at": 1718287531614
+                },
+                "sprint-planning": {
+                    "role": "admin",
+                    "joined_at": 1717737354239
+                },
+                "tech-architecture": {
+                    "role": "admin",
+                    "joined_at": 1723616901887
+                },
+                "integration-updates": {
+                    "role": "admin",
+                    "joined_at": 1729716436933
+                },
+                "product-analytics": {
+                    "role": "admin",
+                    "joined_at": 1743446072031
+                },
+                "release-management": {
+                    "role": "admin",
+                    "joined_at": 1735375424387
+                },
+                "innovation-lab": {
+                    "role": "admin",
+                    "joined_at": 1724135995828
+                },
+                "compliance-security": {
+                    "role": "admin",
+                    "joined_at": 1736828849237
+                },
+                "product-community": {
+                    "role": "admin",
+                    "joined_at": 1724810953228
+                },
+                "off-topic": {
+                    "role": "admin",
+                    "joined_at": 1715456365411
+                },
+                "town-square": {
+                    "role": "admin",
+                    "joined_at": 1719470828879
+                }
+            },
+            "engineering": {
+                "architecture-design": {
+                    "role": "admin",
+                    "joined_at": 1744528628474
+                },
+                "code-reviews": {
+                    "role": "admin",
+                    "joined_at": 1732922796727
+                },
+                "devops-updates": {
+                    "role": "admin",
+                    "joined_at": 1727492350061
+                },
+                "backend-team": {
+                    "role": "admin",
+                    "joined_at": 1728582876681
+                },
+                "tech-innovations": {
+                    "role": "admin",
+                    "joined_at": 1742221737595
+                },
+                "security-protocols": {
+                    "role": "admin",
+                    "joined_at": 1745648472347
+                },
+                "off-topic": {
+                    "role": "admin",
+                    "joined_at": 1720354069249
+                },
+                "town-square": {
+                    "role": "admin",
+                    "joined_at": 1721159666511
+                }
+            },
+            "customer-success": {
+                "customer-onboarding": {
+                    "role": "admin",
+                    "joined_at": 1715751944586
+                },
+                "retention-strategies": {
+                    "role": "admin",
+                    "joined_at": 1706819280892
+                },
+                "success-metrics": {
+                    "role": "admin",
+                    "joined_at": 1718030108969
+                },
+                "escalations": {
+                    "role": "admin",
+                    "joined_at": 1715397431788
+                },
+                "product-feedback": {
+                    "role": "admin",
+                    "joined_at": 1722317849512
+                },
+                "renewal-pipeline": {
+                    "role": "admin",
+                    "joined_at": 1720709670254
+                },
+                "customer-stories": {
+                    "role": "admin",
+                    "joined_at": 1707495722361
+                },
+                "off-topic": {
+                    "role": "admin",
+                    "joined_at": 1705128331586
+                },
+                "town-square": {
+                    "role": "admin",
+                    "joined_at": 1702918478533
+                }
+            }
+        }
+    }
+]

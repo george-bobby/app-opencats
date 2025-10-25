@@ -1,0 +1,661 @@
+{
+  "return_reasons": [
+    {
+      "id": 1,
+      "name": "Defective Product",
+      "active": true,
+      "mutable": true
+    },
+    {
+      "id": 2,
+      "name": "Wrong Item Received",
+      "active": true,
+      "mutable": true
+    },
+    {
+      "id": 3,
+      "name": "Damaged During Shipping",
+      "active": true,
+      "mutable": true
+    },
+    {
+      "id": 4,
+      "name": "Size/Fit Not Suitable",
+      "active": true,
+      "mutable": true
+    },
+    {
+      "id": 5,
+      "name": "Product Not as Described",
+      "active": true,
+      "mutable": true
+    },
+    {
+      "id": 6,
+      "name": "Duplicate Order",
+      "active": true,
+      "mutable": true
+    },
+    {
+      "id": 7,
+      "name": "Pet Allergic/Adverse Reaction",
+      "active": true,
+      "mutable": true
+    },
+    {
+      "id": 8,
+      "name": "Incorrect Product Specifications",
+      "active": true,
+      "mutable": true
+    },
+    {
+      "id": 9,
+      "name": "Changed Mind",
+      "active": true,
+      "mutable": true
+    },
+    {
+      "id": 10,
+      "name": "Expired/Near Expiration",
+      "active": true,
+      "mutable": true
+    },
+    {
+      "id": 11,
+      "name": "Incompatible with Pet's Needs",
+      "active": true,
+      "mutable": true
+    },
+    {
+      "id": 12,
+      "name": "Quality Does Not Meet Expectations",
+      "active": true,
+      "mutable": true
+    }
+  ],
+  "return_authorizations": [
+    {
+      "id": 1,
+      "number": "RA330514818",
+      "state": "authorized",
+      "order_id": 1,
+      "memo": "Customer requested return due to order processing error. No specific items identified.",
+      "created_at": "2025-09-04T10:30:00Z",
+      "updated_at": "2025-09-04T10:30:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 5
+    },
+    {
+      "id": 2,
+      "number": "RA537847792",
+      "state": "authorized",
+      "order_id": 2,
+      "memo": "Customer requested return due to order processing error. No specific items identified for return.",
+      "created_at": "2025-09-04T10:30:00Z",
+      "updated_at": "2025-09-04T10:30:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 5
+    },
+    {
+      "id": 3,
+      "number": "RA026953469",
+      "state": "authorized",
+      "order_id": 3,
+      "memo": "Customer requested return due to order processing error. No specific items identified.",
+      "created_at": "2025-09-04T10:15:30Z",
+      "updated_at": "2025-09-04T10:15:30Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 5
+    },
+    {
+      "id": 4,
+      "number": "RA868934153",
+      "state": "canceled",
+      "order_id": 4,
+      "memo": "Customer requested return due to order processing error. No specific items identified for return.",
+      "created_at": "2025-09-04T10:30:00Z",
+      "updated_at": "2025-09-04T10:30:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 3
+    },
+    {
+      "id": 5,
+      "number": "RA400826148",
+      "state": "authorized",
+      "order_id": 10,
+      "memo": "Customer requested return due to order processing error. No specific items identified for return.",
+      "created_at": "2025-09-04T10:30:00Z",
+      "updated_at": "2025-09-04T10:30:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 5
+    },
+    {
+      "id": 6,
+      "number": "RA705027471",
+      "state": "canceled",
+      "order_id": 11,
+      "memo": "Customer requested return due to order processing error. No specific items identified.",
+      "created_at": "2025-09-04T10:30:00Z",
+      "updated_at": "2025-09-04T10:30:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 3
+    },
+    {
+      "id": 7,
+      "number": "RA266187929",
+      "state": "authorized",
+      "order_id": 12,
+      "memo": "Customer requested return due to order processing error. No specific items identified.",
+      "created_at": "2025-09-04T10:30:00.000Z",
+      "updated_at": "2025-09-04T10:30:00.000Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 5
+    },
+    {
+      "id": 8,
+      "number": "RA956950174",
+      "state": "authorized",
+      "order_id": 13,
+      "memo": "Customer requested return due to order processing error. No specific items identified for return.",
+      "created_at": "2025-09-04T10:30:00Z",
+      "updated_at": "2025-09-04T10:30:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 5
+    },
+    {
+      "id": 9,
+      "number": "RA628109040",
+      "state": "authorized",
+      "order_id": 14,
+      "memo": "Customer requested return due to order processing error. No specific items to return.",
+      "created_at": "2025-09-04T10:30:00Z",
+      "updated_at": "2025-09-04T10:30:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 3
+    },
+    {
+      "id": 10,
+      "number": "RA677386109",
+      "state": "authorized",
+      "order_id": 15,
+      "memo": "Customer requested return due to order processing error. No specific items to return.",
+      "created_at": "2025-09-04T10:30:00Z",
+      "updated_at": "2025-09-04T10:30:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 3
+    },
+    {
+      "id": 11,
+      "number": "RA858621025",
+      "state": "authorized",
+      "order_id": 16,
+      "memo": "Customer requested return due to order processing error. No specific items identified.",
+      "created_at": "2025-09-04T10:30:00Z",
+      "updated_at": "2025-09-04T10:30:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 3
+    },
+    {
+      "id": 12,
+      "number": "RA984611560",
+      "state": "authorized",
+      "order_id": 17,
+      "memo": "Customer requested return due to order processing error. No specific items identified for return.",
+      "created_at": "2025-09-04T10:30:00Z",
+      "updated_at": "2025-09-04T10:30:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 3
+    },
+    {
+      "id": 13,
+      "number": "RA145092244",
+      "state": "authorized",
+      "order_id": 18,
+      "memo": "Customer requested return due to order processing error. No specific items identified for return.",
+      "created_at": "2025-09-04T10:30:00Z",
+      "updated_at": "2025-09-04T10:30:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 4
+    },
+    {
+      "id": 14,
+      "number": "RA495846917",
+      "state": "authorized",
+      "order_id": 20,
+      "memo": "Customer requested return due to order processing error. No specific items identified.",
+      "created_at": "2025-09-04T10:30:00Z",
+      "updated_at": "2025-09-04T10:30:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 5
+    },
+    {
+      "id": 15,
+      "number": "RA927287844",
+      "state": "authorized",
+      "order_id": 21,
+      "memo": "Customer requested return due to order processing error. No specific items to return at this time.",
+      "created_at": "2025-09-04T10:30:00Z",
+      "updated_at": "2025-09-04T10:30:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 4
+    },
+    {
+      "id": 16,
+      "number": "RA851414260",
+      "state": "authorized",
+      "order_id": 24,
+      "memo": "Customer requested return due to order processing error. No specific items to return at this time.",
+      "created_at": "2025-09-04T10:30:00Z",
+      "updated_at": "2025-09-04T10:30:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 5
+    },
+    {
+      "id": 17,
+      "number": "RA236431959",
+      "state": "canceled",
+      "order_id": 25,
+      "memo": "Customer requested return due to order processing error. No specific items to return.",
+      "created_at": "2025-09-04T10:15:20.996829",
+      "updated_at": "2025-09-04T10:15:20.996829",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 3
+    },
+    {
+      "id": 18,
+      "number": "RA729315808",
+      "state": "authorized",
+      "order_id": 26,
+      "memo": "Customer requested return due to order processing error. No specific items identified.",
+      "created_at": "2025-09-04T10:30:00Z",
+      "updated_at": "2025-09-04T10:30:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 3
+    },
+    {
+      "id": 19,
+      "number": "RA726403558",
+      "state": "authorized",
+      "order_id": 29,
+      "memo": "Customer requested return due to order processing error. No specific items identified for return.",
+      "created_at": "2025-09-04T10:30:00Z",
+      "updated_at": "2025-09-04T10:30:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 3
+    },
+    {
+      "id": 20,
+      "number": "RA345767374",
+      "state": "authorized",
+      "order_id": 30,
+      "memo": "Customer requested return due to order processing error. No specific items available for return.",
+      "created_at": "2025-09-04T10:15:30.000Z",
+      "updated_at": "2025-09-04T10:15:30.000Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 5
+    },
+    {
+      "id": 21,
+      "number": "RA648114262",
+      "state": "authorized",
+      "order_id": 32,
+      "memo": "Customer requested return due to order processing error. No specific items identified for return.",
+      "created_at": "2025-09-04T10:30:00Z",
+      "updated_at": "2025-09-04T10:30:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 5
+    },
+    {
+      "id": 22,
+      "number": "RA378613425",
+      "state": "authorized",
+      "order_id": 33,
+      "memo": "Customer requested return due to order processing error. No specific items identified.",
+      "created_at": "2025-09-04T10:30:00Z",
+      "updated_at": "2025-09-04T10:30:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 5
+    },
+    {
+      "id": 23,
+      "number": "RA624511060",
+      "state": "canceled",
+      "order_id": 34,
+      "memo": "Customer requested return due to order review. No specific items identified for return.",
+      "created_at": "2025-09-04T10:30:00Z",
+      "updated_at": "2025-09-04T10:30:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 5
+    },
+    {
+      "id": 24,
+      "number": "RA250812203",
+      "state": "authorized",
+      "order_id": 37,
+      "memo": "Customer requested return due to order processing error. No specific items identified.",
+      "created_at": "2025-09-04T10:30:00Z",
+      "updated_at": "2025-09-04T10:30:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 5
+    },
+    {
+      "id": 25,
+      "number": "RA248954497",
+      "state": "authorized",
+      "order_id": 38,
+      "memo": "Customer requested return due to order processing error. No specific items identified for return.",
+      "created_at": "2025-09-04T10:30:00Z",
+      "updated_at": "2025-09-04T10:30:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 5
+    },
+    {
+      "id": 26,
+      "number": "RA762619650",
+      "state": "canceled",
+      "order_id": 39,
+      "memo": "Customer requested return due to order processing error. No specific items identified.",
+      "created_at": "2025-09-04T10:15:30Z",
+      "updated_at": "2025-09-04T10:15:30Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 3
+    },
+    {
+      "id": 27,
+      "number": "RA424036316",
+      "state": "authorized",
+      "order_id": 41,
+      "memo": "Customer requested return due to order processing error. No specific items identified.",
+      "created_at": "2025-09-04T10:15:30Z",
+      "updated_at": "2025-09-04T10:15:30Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 5
+    },
+    {
+      "id": 28,
+      "number": "RA469338856",
+      "state": "authorized",
+      "order_id": 42,
+      "memo": "Customer requested return due to order processing error. No specific items available for return.",
+      "created_at": "2025-09-04T10:30:00Z",
+      "updated_at": "2025-09-04T10:30:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 3
+    },
+    {
+      "id": 29,
+      "number": "RA941169492",
+      "state": "authorized",
+      "order_id": 44,
+      "memo": "Customer requested return due to order processing error. No specific items identified for return.",
+      "created_at": "2025-09-04T10:15:30Z",
+      "updated_at": "2025-09-04T10:15:30Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 5
+    },
+    {
+      "id": 30,
+      "number": "RA951386204",
+      "state": "authorized",
+      "order_id": 45,
+      "memo": "Customer requested return due to order processing error. No specific items identified.",
+      "created_at": "2025-09-04T10:15:30Z",
+      "updated_at": "2025-09-04T10:15:30Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 3
+    },
+    {
+      "id": 31,
+      "number": "RA119859787",
+      "state": "authorized",
+      "order_id": 47,
+      "memo": "Customer requested return due to order processing error. No specific items identified.",
+      "created_at": "2025-09-04T10:15:30.000Z",
+      "updated_at": "2025-09-04T10:15:30.000Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 5
+    },
+    {
+      "id": 32,
+      "number": "RA518357259",
+      "state": "canceled",
+      "order_id": 53,
+      "memo": "Customer requested return due to order processing error. No specific items identified.",
+      "created_at": "2025-09-04T10:30:00Z",
+      "updated_at": "2025-09-04T10:30:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 5
+    },
+    {
+      "id": 33,
+      "number": "RA763637820",
+      "state": "authorized",
+      "order_id": 54,
+      "memo": "Customer requested return due to order processing error. No specific items identified for return.",
+      "created_at": "2025-09-04T10:30:00Z",
+      "updated_at": "2025-09-04T10:30:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 3
+    },
+    {
+      "id": 34,
+      "number": "RA389268758",
+      "state": "canceled",
+      "order_id": 55,
+      "memo": "Customer requested return due to order processing error. No specific items identified for return.",
+      "created_at": "2025-09-04T10:30:00Z",
+      "updated_at": "2025-09-04T10:30:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 3
+    },
+    {
+      "id": 35,
+      "number": "RA223896012",
+      "state": "canceled",
+      "order_id": 57,
+      "memo": "Customer requested return due to order processing error. No specific items identified for return.",
+      "created_at": "2025-09-04T10:30:00Z",
+      "updated_at": "2025-09-04T10:30:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 5
+    },
+    {
+      "id": 36,
+      "number": "RA629729100",
+      "state": "authorized",
+      "order_id": 58,
+      "memo": "Customer requested return due to order processing error. No specific items identified.",
+      "created_at": "2025-09-04T10:30:00Z",
+      "updated_at": "2025-09-04T10:30:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 3
+    },
+    {
+      "id": 37,
+      "number": "RA683765914",
+      "state": "canceled",
+      "order_id": 59,
+      "memo": "Customer requested return due to order processing error. No specific items identified.",
+      "created_at": "2025-09-04T10:15:00Z",
+      "updated_at": "2025-09-04T10:15:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 5
+    },
+    {
+      "id": 38,
+      "number": "RA034706174",
+      "state": "authorized",
+      "order_id": 60,
+      "memo": "Customer requested return due to order processing error. No specific items identified.",
+      "created_at": "2025-09-04T10:30:00.000Z",
+      "updated_at": "2025-09-04T10:30:00.000Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 3
+    },
+    {
+      "id": 39,
+      "number": "RA537887771",
+      "state": "authorized",
+      "order_id": 64,
+      "memo": "Customer requested return due to order processing error. No specific items available for return.",
+      "created_at": "2025-09-04T10:15:22.783316Z",
+      "updated_at": "2025-09-04T10:15:22.783316Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 3
+    },
+    {
+      "id": 40,
+      "number": "RA894591112",
+      "state": "authorized",
+      "order_id": 66,
+      "memo": "Customer requested return due to order processing error. No specific items identified for return.",
+      "created_at": "2025-09-04T10:30:00Z",
+      "updated_at": "2025-09-04T10:30:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 5
+    },
+    {
+      "id": 41,
+      "number": "RA619258370",
+      "state": "canceled",
+      "order_id": 67,
+      "memo": "Customer requested return due to order processing error. No specific items available for return.",
+      "created_at": "2025-09-04T10:30:00Z",
+      "updated_at": "2025-09-04T10:30:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 5
+    },
+    {
+      "id": 42,
+      "number": "RA458795449",
+      "state": "canceled",
+      "order_id": 69,
+      "memo": "Customer requested return due to order processing error. No specific items identified for return.",
+      "created_at": "2025-09-04T10:30:00Z",
+      "updated_at": "2025-09-04T10:30:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 5
+    },
+    {
+      "id": 43,
+      "number": "RA799292489",
+      "state": "authorized",
+      "order_id": 70,
+      "memo": "Customer requested return due to order processing error. No specific items identified for return.",
+      "created_at": "2025-09-04T10:30:00Z",
+      "updated_at": "2025-09-04T10:30:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 5
+    },
+    {
+      "id": 44,
+      "number": "RA812445856",
+      "state": "authorized",
+      "order_id": 73,
+      "memo": "Customer requested return due to order processing error. No specific items identified.",
+      "created_at": "2025-09-04T10:15:22.000Z",
+      "updated_at": "2025-09-04T10:15:22.000Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 5
+    },
+    {
+      "id": 45,
+      "number": "RA749656156",
+      "state": "authorized",
+      "order_id": 76,
+      "memo": "Customer requested return due to order processing error. No specific items identified.",
+      "created_at": "2025-09-04T10:30:00Z",
+      "updated_at": "2025-09-04T10:30:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 3
+    },
+    {
+      "id": 46,
+      "number": "RA236550540",
+      "state": "canceled",
+      "order_id": 77,
+      "memo": "Customer requested return due to order processing error. No specific items identified.",
+      "created_at": "2025-09-04T10:30:00Z",
+      "updated_at": "2025-09-04T10:30:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 5
+    },
+    {
+      "id": 47,
+      "number": "RA315663935",
+      "state": "authorized",
+      "order_id": 80,
+      "memo": "Customer requested return due to order processing error. No specific items identified for return.",
+      "created_at": "2025-09-04T10:30:00Z",
+      "updated_at": "2025-09-04T10:30:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 5
+    },
+    {
+      "id": 48,
+      "number": "RA591606901",
+      "state": "canceled",
+      "order_id": 81,
+      "memo": "Customer requested return due to order processing error. No specific items identified for return.",
+      "created_at": "2025-09-04T10:15:30Z",
+      "updated_at": "2025-09-04T10:15:30Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 5
+    },
+    {
+      "id": 49,
+      "number": "RA576386735",
+      "state": "authorized",
+      "order_id": 82,
+      "memo": "Customer requested return due to order processing error. No specific items identified for return.",
+      "created_at": "2025-09-04T10:30:00Z",
+      "updated_at": "2025-09-04T10:30:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 5
+    },
+    {
+      "id": 50,
+      "number": "RA747673199",
+      "state": "authorized",
+      "order_id": 83,
+      "memo": "Customer requested return due to order processing error. No specific items identified for return.",
+      "created_at": "2025-09-04T10:30:00Z",
+      "updated_at": "2025-09-04T10:30:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 5
+    },
+    {
+      "id": 51,
+      "number": "RA769686916",
+      "state": "authorized",
+      "order_id": 85,
+      "memo": "Customer requested return due to order processing error. No specific items identified for return.",
+      "created_at": "2025-09-04T10:30:00Z",
+      "updated_at": "2025-09-04T10:30:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 3
+    },
+    {
+      "id": 52,
+      "number": "RA213236215",
+      "state": "canceled",
+      "order_id": 86,
+      "memo": "Customer requested return due to order processing error. No specific items identified for return.",
+      "created_at": "2025-09-04T10:15:22Z",
+      "updated_at": "2025-09-04T10:15:22Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 3
+    },
+    {
+      "id": 53,
+      "number": "RA584990506",
+      "state": "authorized",
+      "order_id": 87,
+      "memo": "Customer requested return due to order processing error. No specific items identified for return.",
+      "created_at": "2025-09-04T10:30:00Z",
+      "updated_at": "2025-09-04T10:30:00Z",
+      "stock_location_id": 2,
+      "return_authorization_reason_id": 4
+    }
+  ]
+}

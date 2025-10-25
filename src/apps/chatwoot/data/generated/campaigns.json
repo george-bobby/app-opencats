@@ -1,0 +1,222 @@
+[
+  {
+    "title": "Instant Help on Pricing Page",
+    "message": "Have questions about our plans? Chat with us for instant answers!",
+    "enabled": true,
+    "trigger_only_during_business_hours": true,
+    "trigger_rules": {
+      "url": "https://acmeinc.com/pricing",
+      "time_on_page": 15
+    },
+    "scheduled_at": null,
+    "audience": null,
+    "created_at": "2024-12-31T11:08:16.511356",
+    "updated_at": "2025-08-02T05:40:49.822330"
+  },
+  {
+    "title": "Assistance on Checkout",
+    "message": "Need help completing your purchase? We\u2019re here to assist you!",
+    "enabled": true,
+    "trigger_only_during_business_hours": false,
+    "trigger_rules": {
+      "url": "https://acmeinc.com/checkout",
+      "time_on_page": 30
+    },
+    "scheduled_at": null,
+    "audience": null,
+    "created_at": "2024-10-18T00:38:38.836283",
+    "updated_at": "2025-02-19T10:04:54.280228"
+  },
+  {
+    "title": "Live Demo Chat Offer",
+    "message": "Curious about how Acme Inc. works? Chat with us now for a live demo!",
+    "enabled": true,
+    "trigger_only_during_business_hours": true,
+    "trigger_rules": {
+      "url": "https://acmeinc.com/product",
+      "time_on_page": 20
+    },
+    "scheduled_at": null,
+    "audience": null,
+    "created_at": "2025-04-01T08:12:46.185931",
+    "updated_at": "2025-04-30T20:50:49.494728"
+  },
+  {
+    "title": "Get Started Resources",
+    "message": "Want help getting started? Our team is ready to guide you.",
+    "enabled": true,
+    "trigger_only_during_business_hours": false,
+    "trigger_rules": {
+      "url": "https://acmeinc.com/get-started",
+      "time_on_page": 12
+    },
+    "scheduled_at": null,
+    "audience": null,
+    "created_at": "2025-03-02T01:02:03.154206",
+    "updated_at": "2025-05-29T15:25:47.990291"
+  },
+  {
+    "title": "Feature Guidance on Integrations",
+    "message": "Have questions integrating Acme with your tools? Let\u2019s chat!",
+    "enabled": true,
+    "trigger_only_during_business_hours": true,
+    "trigger_rules": {
+      "url": "https://acmeinc.com/integrations",
+      "time_on_page": 25
+    },
+    "scheduled_at": null,
+    "audience": null,
+    "created_at": "2025-08-02T10:36:41.173567",
+    "updated_at": "2025-08-04T01:57:20.050475"
+  },
+  {
+    "title": "Documentation Help Popup",
+    "message": "Can\u2019t find what you need in our docs? Chat with support now!",
+    "enabled": true,
+    "trigger_only_during_business_hours": false,
+    "trigger_rules": {
+      "url": "https://acmeinc.com/docs",
+      "time_on_page": 45
+    },
+    "scheduled_at": null,
+    "audience": null,
+    "created_at": "2025-04-12T13:41:04.808780",
+    "updated_at": "2025-04-21T03:15:34.055009"
+  },
+  {
+    "title": "Onboarding Support",
+    "message": "Welcome to Acme Inc.! Need onboarding help? Start a chat with us.",
+    "enabled": true,
+    "trigger_only_during_business_hours": true,
+    "trigger_rules": {
+      "url": "https://acmeinc.com/welcome",
+      "time_on_page": 18
+    },
+    "scheduled_at": null,
+    "audience": null,
+    "created_at": "2025-05-16T18:36:35.481479",
+    "updated_at": "2025-07-07T17:00:16.823362"
+  },
+  {
+    "title": "Contact Page Popup",
+    "message": "We reply fast! Chat with our experts right from here.",
+    "enabled": true,
+    "trigger_only_during_business_hours": true,
+    "trigger_rules": {
+      "url": "https://acmeinc.com/contact",
+      "time_on_page": 10
+    },
+    "scheduled_at": null,
+    "audience": null,
+    "created_at": "2025-04-05T15:43:55.632429",
+    "updated_at": "2025-07-16T22:52:02.621617"
+  },
+  {
+    "title": "Trial Expiration Reminder",
+    "message": "Your trial period is ending soon! Chat to extend or upgrade your plan.",
+    "enabled": true,
+    "trigger_only_during_business_hours": false,
+    "trigger_rules": {
+      "url": "https://acmeinc.com/account",
+      "time_on_page": 35
+    },
+    "scheduled_at": null,
+    "audience": null,
+    "created_at": "2025-01-31T21:48:36.445062",
+    "updated_at": "2025-05-31T06:46:44.197883"
+  },
+  {
+    "title": "Event Signup Support",
+    "message": "Need help signing up for our upcoming event? Chat with support now.",
+    "enabled": true,
+    "trigger_only_during_business_hours": false,
+    "trigger_rules": {
+      "url": "https://acmeinc.com/events",
+      "time_on_page": 22
+    },
+    "scheduled_at": null,
+    "audience": null,
+    "created_at": "2025-01-03T10:55:57.027627",
+    "updated_at": "2025-07-20T02:19:17.145817"
+  },
+  {
+    "title": "Monthly Product Update Newsletter",
+    "message": "See what's new at Acme Inc.! Don't miss our latest features and improvements.",
+    "enabled": true,
+    "trigger_only_during_business_hours": false,
+    "trigger_rules": null,
+    "scheduled_at": "2024-06-01T10:00:00Z",
+    "audience": [
+      {
+        "id": 201,
+        "type": "customers"
+      }
+    ],
+    "created_at": "2025-02-27T22:40:58.142632",
+    "updated_at": "2025-06-12T14:53:06.073924"
+  },
+  {
+    "title": "Welcome to Acme Inc.!",
+    "message": "Thank you for signing up! Explore our platform and unlock its full potential.",
+    "enabled": true,
+    "trigger_only_during_business_hours": false,
+    "trigger_rules": null,
+    "scheduled_at": "2024-06-05T09:00:00Z",
+    "audience": [
+      {
+        "id": 202,
+        "type": "new_users"
+      }
+    ],
+    "created_at": "2025-05-27T10:14:30.719405",
+    "updated_at": "2025-06-26T03:34:08.332649"
+  },
+  {
+    "title": "Community Invitation",
+    "message": "Join our Acme User Community for exclusive insights, tips, and networking!",
+    "enabled": true,
+    "trigger_only_during_business_hours": false,
+    "trigger_rules": null,
+    "scheduled_at": "2024-06-11T15:00:00Z",
+    "audience": [
+      {
+        "id": 203,
+        "type": "active_customers"
+      }
+    ],
+    "created_at": "2024-12-21T08:20:53.920615",
+    "updated_at": "2025-08-03T09:16:08.684229"
+  },
+  {
+    "title": "Training Webinar Reminder",
+    "message": "Don't miss our upcoming product training webinar. Reserve your seat today!",
+    "enabled": true,
+    "trigger_only_during_business_hours": false,
+    "trigger_rules": null,
+    "scheduled_at": "2024-06-13T08:30:00Z",
+    "audience": [
+      {
+        "id": 204,
+        "type": "all_subscribers"
+      }
+    ],
+    "created_at": "2024-10-13T18:32:19.393537",
+    "updated_at": "2025-02-26T06:25:01.220167"
+  },
+  {
+    "title": "Re-engagement Follow-up",
+    "message": "We noticed you haven't logged in lately! Come see what you're missing at Acme Inc.",
+    "enabled": true,
+    "trigger_only_during_business_hours": false,
+    "trigger_rules": null,
+    "scheduled_at": "2024-06-17T16:00:00Z",
+    "audience": [
+      {
+        "id": 205,
+        "type": "inactive_customers"
+      }
+    ],
+    "created_at": "2024-09-05T04:43:39.996554",
+    "updated_at": "2024-12-03T13:33:44.413394"
+  }
+]

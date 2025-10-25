@@ -1,0 +1,504 @@
+{
+  "pages": [
+    {
+      "id": 1,
+      "title": "Welcome to Fuzzloft - Quality Pet Supplies",
+      "meta_title": "Fuzzloft | Premium Pet Supplies for Every Furry Friend",
+      "content": null,
+      "meta_description": "Shop Fuzzloft for premium pet supplies, toys, food, and accessories. Find everything your pets need with fast shipping and exceptional customer service.",
+      "visible": true,
+      "slug": "home",
+      "type": "Spree::Cms::Pages::Homepage",
+      "locale": "en",
+      "sections": [
+        {
+          "id": 9,
+          "name": "Fuzzloft Welcome Hero Banner",
+          "content": {
+            "title": "Every Pet Deserves The Best Care",
+            "subtitle": "Discover premium pet supplies that keep your furry, feathery, or scaly companions happy, healthy, and thriving. Quality products, trusted by pet parents nationwide.",
+            "button_text": "Shop All Products"
+          },
+          "settings": {
+            "gutters": "Gutters"
+          },
+          "fit": "Screen",
+          "destination": null,
+          "type": "Spree::Cms::Sections::HeroImage",
+          "position": 1,
+          "linked_resource_type": "Spree::Taxon",
+          "linked_resource_id": 1,
+          "cms_page_id": 1,
+          "created_at": null,
+          "updated_at": null,
+          "image_url": "https://images.pexels.com/photos/8434641/pexels-photo-8434641.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "keywords": [
+            "pets",
+            "dogs",
+            "cats",
+            "toys",
+            "food",
+            "treats",
+            "supplies"
+          ]
+        },
+        {
+          "id": 10,
+          "name": "Pamper Your Pets: Trending Toys They'll Love",
+          "content": null,
+          "settings": null,
+          "fit": "Container",
+          "destination": null,
+          "type": "Spree::Cms::Sections::ProductCarousel",
+          "position": 2,
+          "linked_resource_type": "Spree::Taxon",
+          "linked_resource_id": 9,
+          "cms_page_id": 1,
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 11,
+          "name": "Pet Care Excellence",
+          "content": {
+            "title": "Pamper Your Pets",
+            "subtitle": "Discover premium products that enhance your furry friend's health and happiness.",
+            "button_text": "Shop Now",
+            "rte_content": "<h1>Quality Pet Care Essentials</h1><p>At <strong>Fuzzloft</strong>, we understand that pets are family. That's why we carefully select only the finest products that support their wellbeing and bring joy to their daily lives. From nutritious treats to engaging toys, we offer everything your beloved companions need to thrive.</p><p>Our curated selection ensures <em>safety, quality, and satisfaction</em> for pets of all types and sizes. Experience the Fuzzloft difference today!</p>"
+          },
+          "settings": {
+            "gutters": "No Gutters"
+          },
+          "fit": "Screen",
+          "destination": null,
+          "type": "Spree::Cms::Sections::FeaturedArticle",
+          "position": 3,
+          "linked_resource_type": "Spree::Taxon",
+          "linked_resource_id": 3,
+          "cms_page_id": 1,
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 12,
+          "name": "Shop Pet Favorites",
+          "content": "{\"link_type_one\": \"Spree::Taxon\", \"link_type_two\": \"Spree::Taxon\", \"link_type_three\": \"Spree::Product\", \"title_one\": \"Dog Essentials\", \"title_two\": \"Toy Selection\", \"title_three\": \"Cat Paradise\", \"link_one\": 5, \"link_two\": 9, \"link_three\": 46, \"keywords_one\": \"happy dogs, dog supplies, premium dog products, canine care\", \"keywords_two\": \"pet toys, interactive toys, colorful pet toys, durable toys\", \"keywords_three\": \"cat tower, cat scratching post, feline play, interactive cat toy\"}",
+          "settings": "{\"layout_style\":\"Default\",\"display_labels\":\"Show\"}",
+          "fit": "Container",
+          "destination": null,
+          "type": "Spree::Cms::Sections::ImageGallery",
+          "position": 4,
+          "linked_resource_type": null,
+          "linked_resource_id": null,
+          "cms_page_id": 1,
+          "created_at": null,
+          "updated_at": null,
+          "image_urls": {
+            "image_url_1": "https://images.pexels.com/photos/28948921/pexels-photo-28948921.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+            "image_url_2": "https://images.pexels.com/photos/5418877/pexels-photo-5418877.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+            "image_url_3": "https://images.pexels.com/photos/10914515/pexels-photo-10914515.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+          }
+        },
+        {
+          "id": 13,
+          "name": "Welcome to Fuzzloft - Premium Pet Care Destination",
+          "content": "<br><h1>Welcome to Fuzzloft</h1><h2>Where Your Pets' Happiness Comes First</h2><p>At Fuzzloft, we believe that pets aren't just animals—they're family members deserving of the finest care, nutrition, and products. Founded by passionate pet parents in the heart of the United States, our mission is to provide premium pet supplies that enhance the bond between you and your furry companions.</p><p>Every product in our carefully curated collection undergoes rigorous quality testing and meets our strict standards for safety, sustainability, and effectiveness. Whether you're searching for nutritious treats, engaging toys, or essential grooming supplies, our team of pet experts has handpicked each item to ensure it contributes to your pet's health, happiness, and longevity.</p><h3>Our Promise to Pet Parents</h3><p>When you shop with Fuzzloft, you're not just buying pet supplies—you're joining a community that celebrates the joy pets bring to our lives. We support American manufacturers who share our values, work with brands committed to ethical sourcing, and donate a portion of every purchase to animal welfare organizations across the country. Discover the Fuzzloft difference today and see why thousands of pet parents trust us with their furry family members' needs.</p><p><strong>Explore our specialized collections for <a href=\"#\" data-taxon-id=\"5\">Dogs</a> and <a href=\"#\" data-taxon-id=\"6\">Cats</a>, or browse by categories like <a href=\"#\" data-taxon-id=\"7\">Treats</a>, <a href=\"#\" data-taxon-id=\"8\">Grooming</a>, and <a href=\"#\" data-taxon-id=\"10\">Health & Wellness</a>.</strong></p></br>",
+          "settings": {
+            "gutters": "Gutters",
+            "text_alignment": "Left",
+            "padding": "Standard"
+          },
+          "fit": "Container",
+          "destination": null,
+          "type": "Spree::Cms::Sections::RichTextContent",
+          "position": 5,
+          "linked_resource_type": "Spree::Taxon",
+          "linked_resource_id": 3,
+          "cms_page_id": 1,
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 14,
+          "name": "Pet Care Essentials",
+          "content": "{\"link_type_one\": \"Spree::Taxon\", \"link_type_two\": \"Spree::Product\", \"title_one\": \"Keep your pet looking fabulous\", \"title_two\": \"Engage their natural instincts\", \"subtitle_one\": \"GROOMING\", \"subtitle_two\": \"INTERACTIVE PLAY\", \"link_one\": 8, \"link_two\": 33, \"keywords_one\": \"pet grooming, dog brush, cat brush, pet salon, grooming tools\", \"keywords_two\": \"cat tower, scratching post, interactive toy, cat enrichment, pet play\"}",
+          "settings": "{\"gutters\":\"Gutters\"}",
+          "fit": "Container",
+          "destination": null,
+          "type": "Spree::Cms::Sections::SideBySideImages",
+          "position": 6,
+          "linked_resource_type": null,
+          "linked_resource_id": null,
+          "cms_page_id": 1,
+          "created_at": null,
+          "updated_at": null,
+          "image_urls": {
+            "image_url_1": "https://images.pexels.com/photos/7516109/pexels-photo-7516109.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+            "image_url_2": "https://images.pexels.com/photos/10914515/pexels-photo-10914515.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Pet Care Guides",
+      "meta_title": "Expert Pet Care Guides & Resources | Fuzzloft",
+      "content": null,
+      "meta_description": "Discover comprehensive pet care guides for all life stages. From nutrition to grooming, Fuzzloft provides expert advice to help your pets live their best lives.",
+      "visible": true,
+      "slug": "pet-care-guides",
+      "type": "Spree::Cms::Pages::FeaturePage",
+      "locale": "en",
+      "sections": [
+        {
+          "id": 5,
+          "name": "Pet Care Guides Hero Banner",
+          "content": {
+            "title": "Expert Pet Care Knowledge Awaits",
+            "subtitle": "Discover comprehensive guides and tips from our pet care specialists to keep your furry friends healthy, happy, and thriving at every stage of life.",
+            "button_text": "Browse Guides"
+          },
+          "settings": {
+            "gutters": "Gutters"
+          },
+          "fit": "Screen",
+          "destination": null,
+          "type": "Spree::Cms::Sections::HeroImage",
+          "position": 1,
+          "linked_resource_type": "Spree::Taxon",
+          "linked_resource_id": 10,
+          "cms_page_id": 2,
+          "created_at": null,
+          "updated_at": null,
+          "image_url": "https://images.pexels.com/photos/19145872/pexels-photo-19145872.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "keywords": [
+            "pets",
+            "dogs",
+            "cats",
+            "grooming",
+            "health",
+            "wellness",
+            "care guides"
+          ]
+        },
+        {
+          "id": 6,
+          "name": "Complete Pet Care Guide Collection",
+          "content": "<br><h1>Expert Pet Care Guides from Fuzzloft</h1><p>Welcome to our comprehensive collection of pet care guides, meticulously crafted by our team of veterinarians and animal behavior specialists. At Fuzzloft, we believe that informed pet parents raise healthier, happier companions.</p><h2>Essential Care Resources for Every Pet Parent</h2><p>Whether you're a first-time pet owner or a seasoned companion to multiple furry friends, our guides cover everything you need to know about proper care, nutrition, training, and wellness. From understanding your puppy's developmental stages to managing senior cat health concerns, we've compiled expert advice to support you through every phase of your pet's life.</p><h3>Popular Guide Categories</h3><ul><li><strong>Nutrition & Feeding</strong>: Breed-specific diets, feeding schedules, and understanding pet food ingredients</li><li><strong>Grooming Essentials</strong>: Step-by-step tutorials for at-home grooming, breed-specific needs, and product recommendations</li><li><strong>Behavior & Training</strong>: Positive reinforcement techniques, solving common behavioral issues, and socialization tips</li><li><strong>Health & Wellness</strong>: Preventative care, recognizing symptoms, and managing chronic conditions</li></ul><p>Browse our <em>Health & Wellness</em> section for in-depth articles on maintaining your pet's optimal health throughout every life stage. Our veterinarian-approved content helps you stay ahead of potential health concerns and make informed decisions about your pet's care.</p></br>",
+          "settings": {
+            "gutters": "Gutters",
+            "text_alignment": "Left",
+            "padding": "Standard"
+          },
+          "fit": "Container",
+          "destination": null,
+          "type": "Spree::Cms::Sections::RichTextContent",
+          "position": 2,
+          "linked_resource_type": "Spree::Taxon",
+          "linked_resource_id": 10,
+          "cms_page_id": 2,
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 7,
+          "name": "Essential Pet Care Guide",
+          "content": {
+            "title": "Happy Pets, Happy Homes",
+            "subtitle": "Discover expert tips and advice to keep your furry friends healthy and thriving.",
+            "button_text": "Read Guides",
+            "rte_content": "<h2>Your Pet Deserves the Best</h2><p>At Fuzzloft, we believe that <strong>informed pet parents raise healthier pets</strong>. Our comprehensive care guides cover everything from nutrition basics to grooming techniques, helping you provide the best care possible for your beloved companions.</p><p>Whether you're a new pet parent or a seasoned pro, our expert-written guides offer valuable insights for <em>every stage</em> of your pet's life journey.</p>"
+          },
+          "settings": {
+            "gutters": "No Gutters"
+          },
+          "fit": "Screen",
+          "destination": null,
+          "type": "Spree::Cms::Sections::FeaturedArticle",
+          "position": 3,
+          "linked_resource_type": "Spree::Taxon",
+          "linked_resource_id": 10,
+          "cms_page_id": 2,
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 8,
+          "name": "Pet Wellness Essentials",
+          "content": "{\"link_type_one\": \"Spree::Taxon\", \"link_type_two\": \"Spree::Product\", \"title_one\": \"Professional tools for happy pets\", \"title_two\": \"Nutrition for senior companions\", \"subtitle_one\": \"GROOMING CARE\", \"subtitle_two\": \"WELLNESS SUPPORT\", \"link_one\": 8, \"link_two\": 119, \"keywords_one\": \"pet grooming, grooming tools, dog brush, cat grooming, professional pet care\", \"keywords_two\": \"senior pet supplements, pet health, small breed vitamins, elderly dog care, pet nutrition\"}",
+          "settings": "{\"gutters\":\"Gutters\"}",
+          "fit": "Container",
+          "destination": null,
+          "type": "Spree::Cms::Sections::SideBySideImages",
+          "position": 4,
+          "linked_resource_type": null,
+          "linked_resource_id": null,
+          "cms_page_id": 2,
+          "created_at": null,
+          "updated_at": null,
+          "image_urls": {
+            "image_url_1": "https://images.pexels.com/photos/19145894/pexels-photo-19145894.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+            "image_url_2": "https://images.pexels.com/photos/7086020/pexels-photo-7086020.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Best Sellers",
+      "meta_title": "Top-Rated Pet Supplies | Fuzzloft Best Sellers",
+      "content": null,
+      "meta_description": "Discover Fuzzloft's most-loved pet products. From Royal Canin toys to PetKit grooming tools, our best sellers are trusted by pet owners across America.",
+      "visible": true,
+      "slug": "best-sellers",
+      "type": "Spree::Cms::Pages::FeaturePage",
+      "locale": "en",
+      "sections": [
+        {
+          "id": 15,
+          "name": "Best Sellers Showcase Hero",
+          "content": {
+            "title": "Top Pet Products Loved Nationwide",
+            "subtitle": "Discover our most popular pet supplies that have won the hearts of pets and their owners across America. Quality, comfort, and joy in every purchase.",
+            "button_text": "Shop Best Sellers"
+          },
+          "settings": {
+            "gutters": "Gutters"
+          },
+          "fit": "Screen",
+          "destination": null,
+          "type": "Spree::Cms::Sections::HeroImage",
+          "position": 1,
+          "linked_resource_type": "Spree::Taxon",
+          "linked_resource_id": 1,
+          "cms_page_id": 3,
+          "created_at": null,
+          "updated_at": null,
+          "image_url": "https://images.pexels.com/photos/16395147/pexels-photo-16395147.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "keywords": [
+            "pets",
+            "dogs",
+            "cats",
+            "toys",
+            "treats",
+            "popular products",
+            "best sellers"
+          ]
+        },
+        {
+          "id": 16,
+          "name": "Customer Favorites: Our Top-Selling Pet Products",
+          "content": null,
+          "settings": null,
+          "fit": "Container",
+          "destination": null,
+          "type": "Spree::Cms::Sections::ProductCarousel",
+          "position": 2,
+          "linked_resource_type": "Spree::Taxon",
+          "linked_resource_id": 1,
+          "cms_page_id": 3,
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 17,
+          "name": "Best-Selling Pet Products Showcase",
+          "content": "<br><h1>Discover Fuzzloft's Top-Rated Products</h1><p>Welcome to our <strong>Best Sellers</strong> collection, where you'll find the most beloved pet products that have won the hearts of pets and their humans across America. These customer favorites have earned their spot through exceptional quality, innovation, and the joy they bring to pets nationwide.</p><h2>Why Our Best Sellers Stand Out</h2><p>Each product in this carefully curated collection represents the perfect balance of quality, value, and pet-approved fun. From durable toys that withstand even the most enthusiastic play sessions to premium treats that support health while delighting taste buds, these items have consistently exceeded expectations and earned their place as Fuzzloft favorites.</p><p>We regularly update this collection based on customer ratings, repeat purchases, and the heartwarming stories you share with us about how these products have enhanced your pet's life. Whether you're shopping for a playful puppy, a discerning cat, or any beloved companion, our best sellers provide a trusted starting point for discovering items that truly deliver.</p><h3>Shop With Confidence</h3><ul><li>Extensively tested for quality and safety</li><li>Backed by thousands of positive customer reviews</li><li>Satisfaction guaranteed on every purchase</li><li>Fast, free shipping on orders over $49</li></ul><p>Explore our complete range of best sellers and see why pet parents across the country consider Fuzzloft their trusted destination for premium pet supplies!</p></br>",
+          "settings": {
+            "gutters": "Gutters",
+            "text_alignment": "Left",
+            "padding": "Standard"
+          },
+          "fit": "Container",
+          "destination": null,
+          "type": "Spree::Cms::Sections::RichTextContent",
+          "position": 3,
+          "linked_resource_type": "Spree::Taxon",
+          "linked_resource_id": 9,
+          "cms_page_id": 3,
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 18,
+          "name": "Fan Favorites Showcase",
+          "content": "{\"link_type_one\": \"Spree::Taxon\", \"link_type_two\": \"Spree::Product\", \"title_one\": \"Spoil your furry friend\", \"title_two\": \"Interactive play for felines\", \"subtitle_one\": \"DOG ESSENTIALS\", \"subtitle_two\": \"CAT PARADISE\", \"link_one\": 5, \"link_two\": 46, \"keywords_one\": \"happy dog, pet supplies, dog toys, dog treats, playful dog\", \"keywords_two\": \"cat scratcher, cat tower, interactive toy, cat playing, feline enrichment\"}",
+          "settings": "{\"gutters\":\"Gutters\"}",
+          "fit": "Container",
+          "destination": null,
+          "type": "Spree::Cms::Sections::SideBySideImages",
+          "position": 4,
+          "linked_resource_type": null,
+          "linked_resource_id": null,
+          "cms_page_id": 3,
+          "created_at": null,
+          "updated_at": null,
+          "image_urls": {
+            "image_url_1": "https://images.pexels.com/photos/32003908/pexels-photo-32003908.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+            "image_url_2": "https://images.pexels.com/photos/7725972/pexels-photo-7725972.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "New Pet Parent Essentials",
+      "meta_title": "New Pet Parent Essentials Guide | Fuzzloft",
+      "content": null,
+      "meta_description": "Find everything you need as a new pet parent at Fuzzloft. Essential supplies, starter kits, and expert advice for dogs, cats, and small pets.",
+      "visible": true,
+      "slug": "new-pet-essentials",
+      "type": "Spree::Cms::Pages::FeaturePage",
+      "locale": "en",
+      "sections": [
+        {
+          "id": 1,
+          "name": "New Pet Parent Essentials Hero",
+          "content": {
+            "title": "Everything Your New Furry Friend Needs",
+            "subtitle": "Starting your journey as a pet parent? Discover our curated collection of essentials to give your new companion the perfect welcome home.",
+            "button_text": "Shop Essentials"
+          },
+          "settings": {
+            "gutters": "Gutters"
+          },
+          "fit": "Screen",
+          "destination": null,
+          "type": "Spree::Cms::Sections::HeroImage",
+          "position": 1,
+          "linked_resource_type": "Spree::Taxon",
+          "linked_resource_id": 4,
+          "cms_page_id": 4,
+          "created_at": null,
+          "updated_at": null,
+          "image_url": "https://images.pexels.com/photos/8434641/pexels-photo-8434641.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "keywords": [
+            "puppies",
+            "kittens",
+            "new pets",
+            "pet beds",
+            "food bowls",
+            "toys",
+            "pet supplies"
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Essential Starter Products for New Pet Parents",
+          "content": null,
+          "settings": null,
+          "fit": "Container",
+          "destination": null,
+          "type": "Spree::Cms::Sections::ProductCarousel",
+          "position": 2,
+          "linked_resource_type": "Spree::Taxon",
+          "linked_resource_id": 4,
+          "cms_page_id": 4,
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 3,
+          "name": "New Pet Parent Guide",
+          "content": {
+            "title": "Welcome Furry Family",
+            "subtitle": "Everything you need to start your journey as a new pet parent with confidence and joy.",
+            "button_text": "Get Started",
+            "rte_content": "<h2>Essential First Steps</h2><p>Bringing home a new pet is exciting and overwhelming. At Fuzzloft, we've simplified the process with curated essentials for <strong>every new pet parent</strong>. From nutritious first foods to comfortable bedding and training tools, we've got everything your new companion needs to feel safe and loved.</p><p>Our <em>New Pet Parent Kits</em> include veterinarian-approved products specifically selected for different life stages, ensuring your furry family member gets the best start possible.</p>"
+          },
+          "settings": {
+            "gutters": "No Gutters"
+          },
+          "fit": "Screen",
+          "destination": null,
+          "type": "Spree::Cms::Sections::FeaturedArticle",
+          "position": 3,
+          "linked_resource_type": "Spree::Taxon",
+          "linked_resource_id": 4,
+          "cms_page_id": 4,
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 4,
+          "name": "New Pet Parent Essentials Guide",
+          "content": "<br><h1>Welcome to the Wonderful World of Pet Parenthood!</h1><p>Bringing home a new furry family member is an exciting adventure filled with tail wags, purrs, and countless memorable moments. At Fuzzloft, we understand that becoming a pet parent comes with both joy and responsibility, which is why we've curated everything you need to create a loving, comfortable home for your new companion.</p><h2>Essential Supplies for New Pet Parents</h2><p>Whether you're welcoming a playful puppy, a curious kitten, or any other pet into your home, having the right supplies from day one makes all the difference in creating a smooth transition for both of you. Our carefully selected essentials include:</p><ul><li><strong>Nutrition Basics:</strong> High-quality food formulated for your pet's specific age and needs, proper feeding bowls, and healthy treats for training and bonding</li><li><strong>Comfort Items:</strong> Cozy beds, security blankets, and appropriately sized crates or carriers to create safe spaces</li><li><strong>Health & Hygiene:</strong> Grooming tools, waste management supplies, and starter health care items to keep your pet clean and healthy</li><li><strong>Enrichment & Play:</strong> Age-appropriate toys that stimulate physical activity and mental development</li></ul><h2>Building Strong Foundations</h2><p>The early days with your new pet establish patterns and relationships that can last a lifetime. Our <em>New Pet Parent Starter Kits</em> are thoughtfully designed by animal behavior experts to help you create positive experiences from the beginning. From potty training essentials for puppies to scratching solutions for kittens, we've thought of everything you'll need during those crucial first weeks together.</p><p>Visit our <a href=\"#\">Life Stages</a> section for age-specific recommendations, or explore our specialized departments for <a href=\"#\">Dogs</a> and <a href=\"#\">Cats</a> to find exactly what your new family member needs to thrive in their forever home with you.</p></br>",
+          "settings": {
+            "gutters": "Gutters",
+            "text_alignment": "Left",
+            "padding": "Standard"
+          },
+          "fit": "Container",
+          "destination": null,
+          "type": "Spree::Cms::Sections::RichTextContent",
+          "position": 4,
+          "linked_resource_type": "Spree::Taxon",
+          "linked_resource_id": 4,
+          "cms_page_id": 4,
+          "created_at": null,
+          "updated_at": null
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "About Fuzzloft",
+      "meta_title": "About Fuzzloft | Premium Pet Supplies for Your Furry Friends",
+      "content": "<div class=\"about-container\">\n  <h1>About Fuzzloft</h1>\n  \n  <div class=\"about-intro\">\n    <p>Welcome to Fuzzloft, your trusted partner in providing premium pet supplies for all the furry, feathered, and scaly members of your family. Founded in 2015, we've grown from a small passion project to one of America's most beloved online pet supply destinations.</p>\n  </div>\n  \n  <div class=\"about-section\">\n    <h2>Our Story</h2>\n    <p>Fuzzloft began with a simple observation: pet parents deserved better. Our founder, Sarah Jenkins, struggled to find high-quality, trustworthy products for her rescue dog Max and cat Luna. Frustrated by limited options and questionable ingredients, she envisioned a one-stop shop where pet owners could find premium products they could trust.</p>\n    \n    <p>What started as a small online store run from Sarah's garage has blossomed into a nationwide operation with a dedicated team of animal lovers. Our growth hasn't changed our core mission: to enhance the bond between pets and their humans through exceptional products and education.</p>\n  </div>\n  \n  <div class=\"about-section\">\n    <h2>Our Mission</h2>\n    <p>At Fuzzloft, we believe every pet deserves the best. Our mission is to enhance the lives of pets and their families by providing:</p>\n    \n    <ul>\n      <li><strong>Premium Quality Products</strong> - Carefully selected for safety, effectiveness, and joy</li>\n      <li><strong>Exceptional Customer Service</strong> - Guided by pet lovers for pet lovers</li>\n      <li><strong>Educational Resources</strong> - Helping you make informed choices for your pet's unique needs</li>\n      <li><strong>Sustainable Options</strong> - Because we care about the planet our pets call home too</li>\n    </ul>\n  </div>\n  \n  <div class=\"about-section\">\n    <h2>Our Values</h2>\n    \n    <h3>Pets First</h3>\n    <p>Every decision we make starts with one question: \"Is this good for pets?\" This principle guides our product selection, customer service policies, and business practices.</p>\n    \n    <h3>Quality Assurance</h3>\n    <p>We personally test and review products before they reach our virtual shelves. Our rigorous quality standards ensure that every item we sell meets our high expectations for safety, durability, and value.</p>\n    \n    <h3>Education & Transparency</h3>\n    <p>We believe informed pet parents make the best decisions. That's why we provide detailed product information, ingredient lists, and usage guidance for everything we sell.</p>\n    \n    <h3>Community</h3>\n    <p>We're more than a store—we're a community of pet lovers. We regularly partner with animal shelters and rescue organizations, donating a portion of our profits to support animals in need.</p>\n  </div>\n  \n  <div class=\"about-section\">\n    <h2>Our Product Standards</h2>\n    <p>When you shop with Fuzzloft, you can be confident that each product has been vetted against our strict criteria:</p>\n    \n    <ul>\n      <li><strong>Safety First</strong> - All products undergo rigorous testing</li>\n      <li><strong>Quality Ingredients</strong> - Nutritional products are selected for wholesome, appropriate ingredients</li>\n      <li><strong>Durability</strong> - We know pets can be tough on their toys and gear</li>\n      <li><strong>Value</strong> - Quality doesn't have to break the bank</li>\n      <li><strong>Eco-Consciousness</strong> - We prioritize sustainable and environmentally responsible products</li>\n    </ul>\n  </div>\n  \n  <div class=\"about-section\">\n    <h2>Shop By Pet Type</h2>\n    <p>Whether you're caring for a playful puppy, a senior cat, an energetic small mammal, or any other beloved pet, Fuzzloft has specialized products to meet their unique needs. We organize our store by:</p>\n    \n    <ul>\n      <li><strong>Pet Types</strong> - Dogs, cats, small mammals, birds, fish, reptiles</li>\n      <li><strong>Life Stages</strong> - From newborn to senior, we have age-appropriate options</li>\n      <li><strong>Categories</strong> - Food, toys, grooming, health, bedding, travel, and more</li>\n      <li><strong>Premium Brands</strong> - Including Royal Canin, Kong, Nylabone, PetKit, and many others</li>\n    </ul>\n  </div>\n  \n  <div class=\"about-section\">\n    <h2>Our Brand Partners</h2>\n    <p>We're proud to partner with the most trusted names in pet care. Our relationships with industry-leading brands like Royal Canin, Kong, PetKit, and Nylabone allow us to bring you innovative, high-quality products at competitive prices.</p>\n    \n    <p>We don't just stock these brands—we work closely with them to ensure we're offering the latest advancements in pet care, from interactive toys that stimulate your pet's mind to protective gear that keeps them comfortable in all weather conditions.</p>\n  </div>\n  \n  <div class=\"about-section\">\n    <h2>Our Commitment to You</h2>\n    <p>As pet parents ourselves, we understand the deep bond you share with your animals. We promise to:</p>\n    \n    <ul>\n      <li>Never compromise on quality</li>\n      <li>Provide honest, helpful guidance</li>\n      <li>Listen to your feedback and continuously improve</li>\n      <li>Stand behind every product we sell</li>\n      <li>Treat you and your pets with the care and respect you deserve</li>\n    </ul>\n    \n    <p>Thank you for choosing Fuzzloft as your partner in pet care. We look forward to serving you and your furry, feathered, or scaly family members for years to come.</p>\n  </div>\n  \n  <div class=\"team-section\">\n    <h2>Meet Our Team</h2>\n    <p>Behind Fuzzloft is a dedicated team of animal enthusiasts, including veterinary consultants, product specialists, and customer care representatives—all united by our love for animals and commitment to excellence.</p>\n    \n    <p>Have questions or feedback? We'd love to hear from you! Contact our customer service team at <a href=\"mailto:support@fuzzloft.com\">support@fuzzloft.com</a> or call us at (800) FUZZ-PET.</p>\n  </div>\n</div>",
+      "meta_description": "Discover Fuzzloft's story and commitment to premium pet supplies. We offer quality products for all pet types and life stages from trusted brands across America.",
+      "visible": true,
+      "slug": "about-us",
+      "type": "Spree::Cms::Pages::StandardPage",
+      "locale": "en",
+      "sections": []
+    },
+    {
+      "id": 6,
+      "title": "Shipping & Returns",
+      "meta_title": "Shipping & Returns Policy | Fuzzloft Pet Supplies",
+      "content": "<div class=\"shipping-returns-page\">\n  <h1>Shipping & Returns</h1>\n  \n  <section class=\"shipping-section\">\n    <h2>Shipping Information</h2>\n    <p>At Fuzzloft, we understand that you want your pet supplies delivered quickly and safely. We offer several shipping options to meet your needs and ensure your furry, feathered, or scaled friends get what they need when they need it.</p>\n    \n    <h3>Shipping Options</h3>\n    <div class=\"shipping-options\">\n      <table class=\"shipping-table\">\n        <thead>\n          <tr>\n            <th>Shipping Method</th>\n            <th>Estimated Delivery Time</th>\n            <th>Cost</th>\n          </tr>\n        </thead>\n        <tbody>\n          <tr>\n            <td>Standard Shipping</td>\n            <td>5-7 business days</td>\n            <td>$5.99 (Free on orders over $49)</td>\n          </tr>\n          <tr>\n            <td>Expedited Shipping</td>\n            <td>2-3 business days</td>\n            <td>$12.99</td>\n          </tr>\n          <tr>\n            <td>Next Day Shipping</td>\n            <td>Next business day</td>\n            <td>$24.99</td>\n          </tr>\n        </tbody>\n      </table>\n    </div>\n    \n    <h3>Shipping Zones</h3>\n    <p>Fuzzloft currently ships to all 50 United States and U.S. territories. Shipping rates and delivery times may vary based on your location:</p>\n    <ul>\n      <li><strong>Continental US:</strong> Standard shipping rates apply</li>\n      <li><strong>Alaska and Hawaii:</strong> Additional $10 shipping fee may apply</li>\n      <li><strong>US Territories:</strong> Additional shipping fees may apply based on location</li>\n    </ul>\n    \n    <h3>Oversized Items</h3>\n    <p>Some products like large cat towers, dog houses, or aquariums may incur additional shipping charges due to their size and weight. These charges will be clearly displayed during checkout.</p>\n    \n    <h3>Order Processing</h3>\n    <p>Orders are typically processed within 1-2 business days. Orders placed after 2:00 PM EST will be processed the following business day. Please note that delivery timeframes begin once your order has been processed.</p>\n    \n    <h3>Tracking Your Order</h3>\n    <p>Once your order ships, you'll receive a confirmation email with tracking information. You can also track your order by logging into your Fuzzloft account or contacting our customer service team.</p>\n    \n    <h3>Special Considerations for Pet Food & Perishables</h3>\n    <p>We take extra care when shipping perishable items. Depending on the season and your location, we may use special packaging to ensure your pet's food arrives in optimal condition.</p>\n  </section>\n  \n  <section class=\"returns-section\">\n    <h2>Returns Policy</h2>\n    <p>We want you and your pets to be completely satisfied with your Fuzzloft purchases. If for any reason you're not happy with your order, we offer a straightforward return process.</p>\n    \n    <h3>Return Eligibility</h3>\n    <p>Most unused and unopened items may be returned within 30 days of delivery. To be eligible for a return, your item must be:</p>\n    <ul>\n      <li>In the same condition as you received it</li>\n      <li>In the original packaging</li>\n      <li>Accompanied by the receipt or proof of purchase</li>\n    </ul>\n    \n    <h3>Non-Returnable Items</h3>\n    <p>For health and safety reasons, the following items cannot be returned:</p>\n    <ul>\n      <li>Opened pet food, treats, or consumables</li>\n      <li>Used bedding, litter, or sanitation products</li>\n      <li>Medications and supplements once opened</li>\n      <li>Personal grooming items that have been used</li>\n      <li>Custom or personalized items</li>\n    </ul>\n    \n    <h3>Damaged or Defective Items</h3>\n    <p>If you receive a damaged or defective item, please contact us immediately at <a href=\"mailto:support@fuzzloft.com\">support@fuzzloft.com</a> or call <a href=\"tel:1-800-FUZZLOFT\">1-800-FUZZLOFT</a>. We'll arrange a replacement or refund at no additional cost to you.</p>\n    \n    <h3>How to Initiate a Return</h3>\n    <ol>\n      <li>Log in to your Fuzzloft account and navigate to your order history</li>\n      <li>Select the order containing the item you wish to return</li>\n      <li>Click on \"Return Item\" and follow the on-screen instructions</li>\n      <li>Print the prepaid return shipping label (if eligible)</li>\n      <li>Package the item securely with all original materials</li>\n      <li>Attach the return label and drop off at any authorized shipping location</li>\n    </ol>\n    \n    <h3>Return Shipping</h3>\n    <p>For standard returns, customers are responsible for return shipping costs unless the item was received damaged or incorrect. For orders over $75, we offer free return shipping labels.</p>\n    \n    <h3>Refund Process</h3>\n    <p>Once we receive your return, our team will inspect the item. If approved, your refund will be processed within 3-5 business days. Refunds will be issued to the original payment method used for the purchase.</p>\n    <p>Please note that depending on your credit card company or bank, it may take an additional 5-10 business days for the refund to appear in your account.</p>\n    \n    <h3>Exchanges</h3>\n    <p>If you'd like to exchange an item for a different size, color, or product, please initiate a return following the steps above and place a new order for the desired item. This ensures you receive your replacement as quickly as possible.</p>\n  </section>\n  \n  <section class=\"contact-section\">\n    <h2>Need Help?</h2>\n    <p>Our dedicated customer service team is here to assist with any shipping or return questions. Contact us through any of these methods:</p>\n    <ul class=\"contact-methods\">\n      <li><strong>Email:</strong> <a href=\"mailto:support@fuzzloft.com\">support@fuzzloft.com</a></li>\n      <li><strong>Phone:</strong> <a href=\"tel:1-800-FUZZLOFT\">1-800-FUZZLOFT</a> (Monday-Friday, 9am-6pm EST)</li>\n      <li><strong>Live Chat:</strong> Available on our website 7 days a week, 9am-9pm EST</li>\n    </ul>\n  </section>\n</div>",
+      "meta_description": "Learn about Fuzzloft's shipping options, delivery timeframes, and our 30-day return policy for pet supplies. Free shipping on orders over $49!",
+      "visible": true,
+      "slug": "shipping-returns",
+      "type": "Spree::Cms::Pages::StandardPage",
+      "locale": "en",
+      "sections": []
+    },
+    {
+      "id": 7,
+      "title": "Frequently Asked Questions",
+      "meta_title": "Frequently Asked Questions | Fuzzloft Pet Supplies",
+      "content": "<div class=\"faq-container\">\n  <h1>Frequently Asked Questions</h1>\n  \n  <p>Welcome to Fuzzloft's FAQ section. Find answers to the most common questions about our pet products, ordering process, shipping policies, and more. Can't find what you're looking for? <a href=\"/contact-us\">Contact our customer service team</a>.</p>\n  \n  <div class=\"faq-nav\">\n    <h4>Jump to a section:</h4>\n    <ul>\n      <li><a href=\"#ordering\">Ordering & Account</a></li>\n      <li><a href=\"#products\">Products & Selection</a></li>\n      <li><a href=\"#shipping\">Shipping & Delivery</a></li>\n      <li><a href=\"#returns\">Returns & Refunds</a></li>\n      <li><a href=\"#pet-care\">Pet Care</a></li>\n    </ul>\n  </div>\n  \n  <section id=\"ordering\">\n    <h2>Ordering & Account</h2>\n    \n    <div class=\"faq-item\">\n      <h3>How do I create a Fuzzloft account?</h3>\n      <p>Creating an account is easy! Click the \"Account\" icon in the top right corner of our website and select \"Create Account.\" Fill in your email address, create a password, and provide your basic information. Having an account allows you to track orders, save favorite products, and checkout faster.</p>\n    </div>\n    \n    <div class=\"faq-item\">\n      <h3>Can I place an order without creating an account?</h3>\n      <p>Yes! Fuzzloft offers guest checkout options. Simply add items to your cart and proceed to checkout. You'll have the option to check out as a guest or create an account during the process.</p>\n    </div>\n    \n    <div class=\"faq-item\">\n      <h3>How can I track my order?</h3>\n      <p>Once your order ships, you'll receive a confirmation email with tracking information. If you have an account, you can also log in and view your order status under \"Order History.\" Please allow 24 hours after receiving your order confirmation for tracking information to become available.</p>\n    </div>\n    \n    <div class=\"faq-item\">\n      <h3>How do I update my payment information?</h3>\n      <p>Log into your Fuzzloft account, navigate to \"Account Settings,\" and select \"Payment Methods.\" From there, you can add, edit, or remove payment methods.</p>\n    </div>\n    \n    <div class=\"faq-item\">\n      <h3>Do you offer discounts for recurring orders?</h3>\n      <p>Yes! Our \"Auto-Ship\" program offers 10% off eligible products when you set up recurring deliveries. You can easily manage delivery frequency and skip or cancel at any time through your account.</p>\n    </div>\n  </section>\n  \n  <section id=\"products\">\n    <h2>Products & Selection</h2>\n    \n    <div class=\"faq-item\">\n      <h3>What brands do you carry?</h3>\n      <p>Fuzzloft carries premium pet brands including Royal Canin, Kong, Nylabone, PetKit, and many more. We carefully select brands that prioritize quality, safety, and nutrition for your pets.</p>\n    </div>\n    \n    <div class=\"faq-item\">\n      <h3>How do I know which product is right for my pet?</h3>\n      <p>You can shop by pet type (dogs, cats, small pets), life stage (puppy/kitten, adult, senior), or specific needs. Product descriptions include recommended pet sizes, ages, and uses. Our <a href=\"/blog\">blog</a> also features helpful guides on choosing the right products for your pet.</p>\n    </div>\n    \n    <div class=\"faq-item\">\n      <h3>Are your products safe for pets?</h3>\n      <p>Absolutely. We only carry products from reputable manufacturers that meet U.S. safety standards. All food and treat products are made with high-quality ingredients and toys are designed with pet safety in mind.</p>\n    </div>\n    \n    <div class=\"faq-item\">\n      <h3>Do you sell prescription pet food or medications?</h3>\n      <p>We carry prescription pet foods, but require verification of your veterinarian's prescription before shipping. Please note that we do not sell prescription medications. For prescription foods, you'll need to upload your pet's prescription during checkout or email it to us at prescriptions@fuzzloft.com.</p>\n    </div>\n    \n    <div class=\"faq-item\">\n      <h3>Do you offer samples of pet food before I commit to a full bag?</h3>\n      <p>For select brands and products, we do offer sample sizes. Look for the \"Sample Size Available\" label on product pages. Additionally, first-time customers can request a sample in their order notes for eligible products.</p>\n    </div>\n  </section>\n  \n  <section id=\"shipping\">\n    <h2>Shipping & Delivery</h2>\n    \n    <div class=\"faq-item\">\n      <h3>How much does shipping cost?</h3>\n      <p>Fuzzloft offers free standard shipping on all orders over $49. For orders under $49, standard shipping is $5.99. Expedited and overnight shipping options are available at additional costs, calculated at checkout based on your location and order weight.</p>\n    </div>\n    \n    <div class=\"faq-item\">\n      <h3>How long will it take to receive my order?</h3>\n      <p>Standard shipping typically takes 3-5 business days. Expedited shipping delivers within 2 business days, and overnight orders placed before 2 PM ET will arrive the next business day. Please note that delivery to Alaska, Hawaii, and U.S. territories may take additional time.</p>\n    </div>\n    \n    <div class=\"faq-item\">\n      <h3>Do you ship to PO boxes?</h3>\n      <p>Yes, we ship to PO boxes for standard shipping only. Expedited and overnight deliveries require a physical address.</p>\n    </div>\n    \n    <div class=\"faq-item\">\n      <h3>Do you ship internationally?</h3>\n      <p>Currently, Fuzzloft only ships within the United States, including Alaska, Hawaii, and U.S. territories.</p>\n    </div>\n    \n    <div class=\"faq-item\">\n      <h3>What if my package is lost or damaged?</h3>\n      <p>If your package arrives damaged or doesn't arrive within the expected timeframe, please contact our customer service team at support@fuzzloft.com or call 1-800-FUZZLFT within 7 days of the expected delivery date. We'll work quickly to resolve the issue.</p>\n    </div>\n  </section>\n  \n  <section id=\"returns\">\n    <h2>Returns & Refunds</h2>\n    \n    <div class=\"faq-item\">\n      <h3>What is your return policy?</h3>\n      <p>Fuzzloft offers a 30-day satisfaction guarantee on most products. If you're not completely satisfied with your purchase, you can return it within 30 days of delivery for a full refund or exchange. Some exceptions apply for health and safety reasons.</p>\n    </div>\n    \n    <div class=\"faq-item\">\n      <h3>Which items cannot be returned?</h3>\n      <p>For health and safety reasons, we cannot accept returns on opened food, treats, supplements, litter, medications, or used beds. Additionally, customized items cannot be returned unless they arrive damaged or defective.</p>\n    </div>\n    \n    <div class=\"faq-item\">\n      <h3>How do I start a return?</h3>\n      <p>To initiate a return, log into your account and select the order containing the item(s) you wish to return. Click \"Return Items\" and follow the instructions. You can also contact customer service at returns@fuzzloft.com or call 1-800-FUZZLFT for assistance.</p>\n    </div>\n    \n    <div class=\"faq-item\">\n      <h3>How long do refunds take to process?</h3>\n      <p>Once we receive your returned items, we'll process your refund within 3-5 business days. The funds may take an additional 5-10 business days to appear in your account, depending on your payment method and financial institution.</p>\n    </div>\n    \n    <div class=\"faq-item\">\n      <h3>What if I received the wrong item?</h3>\n      <p>If you received an incorrect item, please contact our customer service team immediately. We'll arrange for the return of the incorrect item and expedite shipping of the correct product to you at no additional cost.</p>\n    </div>\n  </section>\n  \n  <section id=\"pet-care\">\n    <h2>Pet Care</h2>\n    \n    <div class=\"faq-item\">\n      <h3>How do I choose the right food for my pet's life stage?</h3>\n      <p>Different life stages (puppy/kitten, adult, senior) require specific nutrients. Puppies and kittens need more calories and nutrients for growth, while senior pets may need joint support and fewer calories. Shop our Life Stages categories for age-appropriate options, or consult your veterinarian for personalized recommendations.</p>\n    </div>\n    \n    <div class=\"faq-item\">\n      <h3>My pet has special dietary needs. Can you help?</h3>\n      <p>Absolutely! You can filter our products by special needs such as grain-free, limited ingredient, weight management, sensitive stomach, and more. For pets with medical conditions, we recommend consulting your veterinarian before changing their diet.</p>\n    </div>\n    \n    <div class=\"faq-item\">\n      <h3>How often should I replace pet toys and bedding?</h3>\n      <p>Inspect toys regularly for damage and replace them if they become torn, broken, or have missing pieces that could be swallowed. For bedding, most pet beds should be replaced every 1-2 years, depending on use and wear. Regular washing according to manufacturer instructions can extend the life of pet bedding.</p>\n    </div>\n    \n    <div class=\"faq-item\">\n      <h3>What grooming products do you recommend for my pet type?</h3>\n      <p>We offer a range of grooming tools for different pet types and coat lengths. For dogs, products like the PetKit Professional Dog Grooming Brush are great for regular maintenance. For small mammals, the Kong Professional Senior Small Mammal Grooming Brush is specially designed for their delicate coats. Visit our Grooming category for more specific recommendations.</p>\n    </div>\n    \n    <div class=\"faq-item\">\n      <h3>How can I ensure my pet stays mentally stimulated?</h3>\n      <p>Mental stimulation is crucial for pet health! Products like the Royal Canin Interactive Cat Scratcher Tower for cats and the Royal Canin Interactive Small Pet Enrichment Toy provide engaging activities. Rotate toys regularly to maintain interest, and set aside time each day for interactive play with your pet.</p>\n    </div>\n  </section>\n  \n  <div class=\"still-have-questions\">\n    <h2>Still Have Questions?</h2>\n    <p>Our dedicated customer service team is here to help! Contact us through any of these channels:</p>\n    <ul>\n      <li><strong>Email:</strong> <a href=\"mailto:support@fuzzloft.com\">support@fuzzloft.com</a></li>\n      <li><strong>Phone:</strong> 1-800-FUZZLFT (1-800-389-9538)</li>\n      <li><strong>Live Chat:</strong> Available 8 AM - 8 PM ET, Monday through Saturday</li>\n      <li><strong>Contact Form:</strong> <a href=\"/contact-us\">Fill out our contact form</a></li>\n    </ul>\n    <p>We aim to respond to all inquiries within 24 business hours.</p>\n  </div>\n</div>",
+      "meta_description": "Find answers to common questions about pet products, ordering, shipping, returns, and pet care at Fuzzloft, your trusted US pet supplies store.",
+      "visible": true,
+      "slug": "faq",
+      "type": "Spree::Cms::Pages::StandardPage",
+      "locale": "en",
+      "sections": []
+    },
+    {
+      "id": 8,
+      "title": "Contact Us",
+      "meta_title": "Contact Fuzzloft - Customer Service for Pet Supplies",
+      "content": "<div class=\"contact-page-container\">\n  <h1>Contact Fuzzloft</h1>\n  \n  <div class=\"contact-intro\">\n    <p>We're here to help with all your pet supply needs. Our dedicated customer service team is ready to assist with product questions, order inquiries, or any other concerns you might have about your furry, feathery, or scaly friends.</p>\n  </div>\n\n  <div class=\"contact-sections\">\n    <div class=\"contact-section\">\n      <h2>Customer Service Hours</h2>\n      <p><strong>Monday - Friday:</strong> 8:00 AM - 8:00 PM EST</p>\n      <p><strong>Saturday:</strong> 9:00 AM - 6:00 PM EST</p>\n      <p><strong>Sunday:</strong> 10:00 AM - 5:00 PM EST</p>\n      <p><em>Extended hours during holidays and special promotions</em></p>\n    </div>\n\n    <div class=\"contact-section\">\n      <h2>Get in Touch</h2>\n      <ul class=\"contact-methods\">\n        <li>\n          <strong>Phone:</strong> <a href=\"tel:1-800-FUZZLOFT\">1-800-FUZZLOFT (1-800-389-9563)</a>\n        </li>\n        <li>\n          <strong>Email:</strong> <a href=\"mailto:support@fuzzloft.com\">support@fuzzloft.com</a>\n        </li>\n        <li>\n          <strong>Order Issues:</strong> <a href=\"mailto:orders@fuzzloft.com\">orders@fuzzloft.com</a>\n        </li>\n        <li>\n          <strong>Product Questions:</strong> <a href=\"mailto:products@fuzzloft.com\">products@fuzzloft.com</a>\n        </li>\n      </ul>\n    </div>\n  </div>\n\n  <div class=\"contact-form-section\">\n    <h2>Send Us a Message</h2>\n    <form id=\"contact-form\" class=\"contact-form\">\n      <div class=\"form-group\">\n        <label for=\"name\">Your Name*</label>\n        <input type=\"text\" id=\"name\" name=\"name\" required>\n      </div>\n      \n      <div class=\"form-group\">\n        <label for=\"email\">Email Address*</label>\n        <input type=\"email\" id=\"email\" name=\"email\" required>\n      </div>\n      \n      <div class=\"form-group\">\n        <label for=\"phone\">Phone Number</label>\n        <input type=\"tel\" id=\"phone\" name=\"phone\">\n      </div>\n      \n      <div class=\"form-group\">\n        <label for=\"order-number\">Order Number (if applicable)</label>\n        <input type=\"text\" id=\"order-number\" name=\"order-number\">\n      </div>\n      \n      <div class=\"form-group\">\n        <label for=\"subject\">Subject*</label>\n        <select id=\"subject\" name=\"subject\" required>\n          <option value=\"\">Please select...</option>\n          <option value=\"order-status\">Order Status</option>\n          <option value=\"returns\">Returns & Exchanges</option>\n          <option value=\"product-info\">Product Information</option>\n          <option value=\"pet-advice\">Pet Care Advice</option>\n          <option value=\"brands\">Brand Inquiries</option>\n          <option value=\"other\">Other</option>\n        </select>\n      </div>\n      \n      <div class=\"form-group\">\n        <label for=\"pet-type\">Pet Type</label>\n        <select id=\"pet-type\" name=\"pet-type\">\n          <option value=\"\">Please select...</option>\n          <option value=\"dog\">Dog</option>\n          <option value=\"cat\">Cat</option>\n          <option value=\"small-mammal\">Small Mammal</option>\n          <option value=\"bird\">Bird</option>\n          <option value=\"fish\">Fish</option>\n          <option value=\"reptile\">Reptile</option>\n          <option value=\"other\">Other</option>\n        </select>\n      </div>\n      \n      <div class=\"form-group full-width\">\n        <label for=\"message\">Your Message*</label>\n        <textarea id=\"message\" name=\"message\" rows=\"5\" required></textarea>\n      </div>\n      \n      <div class=\"form-group\">\n        <button type=\"submit\" class=\"submit-button\">Send Message</button>\n      </div>\n    </form>\n  </div>\n\n  <div class=\"contact-additional-info\">\n    <div class=\"social-media\">\n      <h2>Connect With Us</h2>\n      <p>Follow us on social media for pet care tips, product updates, and adorable pet photos!</p>\n      <ul class=\"social-links\">\n        <li><a href=\"https://facebook.com/fuzzloft\" target=\"_blank\">Facebook</a></li>\n        <li><a href=\"https://instagram.com/fuzzloft\" target=\"_blank\">Instagram</a></li>\n        <li><a href=\"https://twitter.com/fuzzloft\" target=\"_blank\">Twitter</a></li>\n        <li><a href=\"https://pinterest.com/fuzzloft\" target=\"_blank\">Pinterest</a></li>\n        <li><a href=\"https://tiktok.com/@fuzzloft\" target=\"_blank\">TikTok</a></li>\n      </ul>\n    </div>\n    \n    <div class=\"faq-section\">\n      <h2>Frequently Asked Questions</h2>\n      <p>Before reaching out, check our <a href=\"/faqs\">FAQ page</a> for answers to common questions about:</p>\n      <ul>\n        <li>Shipping & Delivery</li>\n        <li>Returns & Exchanges</li>\n        <li>Order Tracking</li>\n        <li>Product Information</li>\n        <li>Account Management</li>\n      </ul>\n    </div>\n  </div>\n\n  <div class=\"warehouse-location\">\n    <h2>Fuzzloft Distribution Center</h2>\n    <p><strong>Address:</strong> 1250 Pet Supply Drive, Columbus, OH 43215</p>\n    <p><em>Note: Our distribution center is not open to the public for retail purchases.</em></p>\n    <div class=\"map-container\">\n      <iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d196281.12937391442!2d-83.16726968359373!3d39.98295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88388f3b3cbe3ddd%3A0x3c7c99514c60cc9d!2sColumbus%2C%20OH!5e0!3m2!1sen!2sus!4v1662297836740!5m2!1sen!2sus\" width=\"100%\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n    </div>\n  </div>\n\n  <div class=\"contact-bottom-text\">\n    <p>At Fuzzloft, we're dedicated to providing exceptional products for pets of all types and life stages. Whether you have questions about our collection of top brands like Royal Canin, Kong, Nylabone, and PetKit, or need help choosing the right supplies for your pet's specific life stage, we're here to help.</p>\n    <p>Your pet's happiness and health are our top priorities, and we look forward to helping you find the perfect products for your furry family members!</p>\n  </div>\n</div>",
+      "meta_description": "Contact Fuzzloft's customer service team for help with pet supply orders, product questions, or pet care advice. Available 7 days a week by phone and email.",
+      "visible": true,
+      "slug": "contact",
+      "type": "Spree::Cms::Pages::StandardPage",
+      "locale": "en",
+      "sections": []
+    },
+    {
+      "id": 9,
+      "title": "Privacy Policy",
+      "meta_title": "Privacy Policy | Fuzzloft Pet Supplies",
+      "content": "<div class=\"privacy-policy-container\">\n  <h1>Privacy Policy</h1>\n  <p class=\"last-updated\">Last Updated: June 1, 2023</p>\n\n  <div class=\"policy-introduction\">\n    <p>Fuzzloft (\"we,\" \"our,\" or \"us\") is committed to protecting your privacy. This Privacy Policy explains how your personal information is collected, used, and disclosed by Fuzzloft when you access or use our website, fuzzloft.com, our mobile application, or our related services (collectively, the \"Services\"), shop with us, or otherwise interact with us.</p>\n    <p>Please read this Privacy Policy carefully to understand our policies and practices regarding your information. By accessing or using our Services, you agree to this Privacy Policy. If you do not agree with our policies and practices, your choice is not to use our Services.</p>\n  </div>\n\n  <div class=\"policy-section\">\n    <h2>Information We Collect</h2>\n    <h3>Personal Information You Provide to Us</h3>\n    <p>We collect information you provide directly to us when you register for an account, make a purchase, sign up for our newsletter, participate in a survey, contest, or promotion, contact customer support, or otherwise communicate with us. This information may include:</p>\n    <ul>\n      <li><strong>Contact and Identity Information:</strong> Your name, email address, postal address, phone number, and other similar contact details</li>\n      <li><strong>Account Information:</strong> Your username, password, and pet preferences (types, ages, breeds)</li>\n      <li><strong>Payment Information:</strong> Your credit card details, billing address, and other payment-related information</li>\n      <li><strong>Purchase and Order Information:</strong> Information about the products you purchase or consider purchasing, shopping preferences, and order history</li>\n      <li><strong>Profile Information:</strong> Your pet details, product preferences, and shopping habits</li>\n    </ul>\n\n    <h3>Information We Collect Automatically</h3>\n    <p>When you access or use our Services, we automatically collect certain information about you, including:</p>\n    <ul>\n      <li><strong>Log Information:</strong> Information about your use of our Services, including the type of browser you use, access times, pages viewed, your IP address, and the page you visited before navigating to our Services</li>\n      <li><strong>Device Information:</strong> Information about the computer or mobile device you use to access our Services, including the hardware model, operating system and version, unique device identifiers, and mobile network information</li>\n      <li><strong>Location Information:</strong> Information about your location, which may be determined through your IP address</li>\n      <li><strong>Cookies and Similar Technologies:</strong> We and our service providers use cookies, web beacons, and other tracking technologies to collect information about you when you interact with our Services, including information about your browsing behavior online</li>\n    </ul>\n  </div>\n\n  <div class=\"policy-section\">\n    <h2>How We Use Your Information</h2>\n    <p>We use the information we collect to:</p>\n    <ul>\n      <li>Process and deliver orders, manage payments, and communicate with you about your orders</li>\n      <li>Create and maintain your Fuzzloft account</li>\n      <li>Send you technical notices, updates, security alerts, and support and administrative messages</li>\n      <li>Communicate with you about products, services, offers, promotions, and events, and provide news and information we think will be of interest to you</li>\n      <li>Personalize and improve your experience with our Services and provide content, product recommendations, and features that match your profile and interests</li>\n      <li>Monitor and analyze trends, usage, and activities in connection with our Services</li>\n      <li>Detect, investigate, and prevent fraudulent transactions and other illegal activities and protect our rights and property</li>\n      <li>Improve our Services, marketing efforts, and user experience</li>\n      <li>Comply with our legal obligations</li>\n    </ul>\n  </div>\n\n  <div class=\"policy-section\">\n    <h2>Sharing of Information</h2>\n    <p>We may share personal information about you as follows:</p>\n    <ul>\n      <li><strong>Vendors and Service Providers:</strong> With vendors, consultants, and other service providers who need access to such information to carry out work on our behalf (e.g., payment processors, shipping companies)</li>\n      <li><strong>Business Transfers:</strong> If we are involved in a merger, acquisition, financing, reorganization, bankruptcy, or sale of company assets, information about you may be transferred as part of that transaction</li>\n      <li><strong>Compliance with Laws:</strong> If we believe disclosure is necessary or appropriate to comply with applicable laws, regulations, legal processes, or governmental requests</li>\n      <li><strong>Protection of Rights:</strong> If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Fuzzloft, our customers, or others</li>\n      <li><strong>With Your Consent:</strong> Otherwise with your consent or at your direction</li>\n    </ul>\n    <p>We may also share aggregated or de-identified information that cannot reasonably be used to identify you.</p>\n  </div>\n\n  <div class=\"policy-section\">\n    <h2>Security</h2>\n    <p>Fuzzloft takes reasonable measures to help protect information about you from loss, theft, misuse, and unauthorized access, disclosure, alteration, and destruction. However, no security system is impenetrable, and we cannot guarantee the security of our systems.</p>\n  </div>\n\n  <div class=\"policy-section\">\n    <h2>Your Choices</h2>\n    <h3>Account Information</h3>\n    <p>You may update, correct, or delete information about you at any time by logging into your online account or emailing us at privacy@fuzzloft.com. Note that we may retain certain information as required by law or for legitimate business purposes.</p>\n\n    <h3>Cookies</h3>\n    <p>Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.</p>\n\n    <h3>Promotional Communications</h3>\n    <p>You may opt out of receiving promotional emails from Fuzzloft by following the instructions in those emails or by adjusting your communication preferences in your account settings. If you opt out, we may still send you non-promotional emails, such as those about your account or our ongoing business relations.</p>\n  </div>\n\n  <div class=\"policy-section\">\n    <h2>California Privacy Rights</h2>\n    <p>If you are a California resident, California law may provide you with additional rights regarding our use of your personal information. To learn more about your California privacy rights, please visit our <a href=\"/california-privacy-rights\">California Privacy Rights</a> page.</p>\n    <p>California's \"Shine the Light\" law (Civil Code Section § 1798.83) permits users of our website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to privacy@fuzzloft.com.</p>\n  </div>\n\n  <div class=\"policy-section\">\n    <h2>Children's Privacy</h2>\n    <p>Our Services are not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at privacy@fuzzloft.com.</p>\n  </div>\n\n  <div class=\"policy-section\">\n    <h2>Changes to Our Privacy Policy</h2>\n    <p>We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our website homepage or sending you a notification). We encourage you to review the Privacy Policy whenever you access our Services or otherwise interact with us to stay informed about our information practices and the choices available to you.</p>\n  </div>\n\n  <div class=\"policy-section\">\n    <h2>Data Retention</h2>\n    <p>We store the information we collect about you for as long as is necessary for the purpose(s) for which we originally collected it. We may retain certain information for legitimate business purposes or as required by law.</p>\n  </div>\n\n  <div class=\"policy-section\">\n    <h2>International Data Transfers</h2>\n    <p>Fuzzloft is based in the United States and the information we collect is governed by U.S. law. If you are accessing our Services from outside the United States, please be aware that information collected through the Services will be transferred to, processed, and stored in the United States. The data protection laws of the United States may be different from those of your country of residence. By using the Services, you consent to the transfer of your information to the United States and the use and disclosure of your information as described in this Privacy Policy.</p>\n  </div>\n\n  <div class=\"policy-section\">\n    <h2>Contact Us</h2>\n    <p>If you have any questions about this Privacy Policy, please contact us at:</p>\n    <div class=\"contact-info\">\n      <p>Fuzzloft Customer Care<br>\n      Email: privacy@fuzzloft.com<br>\n      Phone: 1-800-FUZZLOFT<br>\n      Address: 123 Pet Paradise Lane, Suite 100, Los Angeles, CA 90001</p>\n    </div>\n  </div>\n</div>",
+      "meta_description": "Learn how Fuzzloft collects, uses, and protects your personal information when you shop for pet supplies. View our complete Privacy Policy.",
+      "visible": true,
+      "slug": "privacy-policy",
+      "type": "Spree::Cms::Pages::StandardPage",
+      "locale": "en",
+      "sections": []
+    }
+  ]
+}

@@ -1,0 +1,2260 @@
+{
+  "table_name": "Task Templates",
+  "parent_workspace_name": "Internal Projects",
+  "parent_base_name": "Internal Projects",
+  "records": [
+    {
+      "fields": {
+        "Template Name": "Social Media Campaign Launch",
+        "Description": "Plan and execute a social media campaign across multiple platforms focusing on brand awareness and engagement.",
+        "Suggested Duration (days)": 7,
+        "Default Priority": "High",
+        "Category": "Marketing",
+        "Default Status": "To Do",
+        "Tags": [
+          "Creative",
+          "Strategy",
+          "Client-Facing"
+        ],
+        "Last Updated": "2025-05-18"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Website Redesign",
+        "Description": "Complete overhaul of the company website to improve UX and incorporate latest design trends.",
+        "Suggested Duration (days)": 9,
+        "Default Priority": "Medium",
+        "Category": "Design",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Creative",
+          "Technical",
+          "Performance"
+        ],
+        "Last Updated": "2025-06-10"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "SEO Optimization",
+        "Description": "Review and optimize website content to improve search engine rankings and increase organic traffic.",
+        "Suggested Duration (days)": 5,
+        "Default Priority": "High",
+        "Category": "Marketing",
+        "Default Status": "To Do",
+        "Tags": [
+          "Analytics",
+          "Strategy",
+          "AI-Powered"
+        ],
+        "Last Updated": "2025-03-22"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Email Newsletter Setup",
+        "Description": "Create and schedule monthly email newsletters with engaging content and promotional offers.",
+        "Suggested Duration (days)": 3,
+        "Default Priority": "Medium",
+        "Category": "Marketing",
+        "Default Status": "Done",
+        "Tags": [
+          "Content",
+          "Client-Facing",
+          "Automation"
+        ],
+        "Last Updated": "2025-06-22"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Product Photography",
+        "Description": "Organize a photoshoot for the new product line to create high-quality images for marketing materials.",
+        "Suggested Duration (days)": 4,
+        "Default Priority": "Low",
+        "Category": "Design",
+        "Default Status": "To Do",
+        "Tags": [
+          "Creative",
+          "Performance"
+        ],
+        "Last Updated": "2025-04-30"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Blog Content Planning",
+        "Description": "Develop a content calendar for blog posts aimed at improving thought leadership and SEO.",
+        "Suggested Duration (days)": 6,
+        "Default Priority": "Medium",
+        "Category": "Content",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Content",
+          "Strategy",
+          "Research"
+        ],
+        "Last Updated": "2025-02-15"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "App Feature Development",
+        "Description": "Develop and integrate new features into the client mobile application with focus on user experience.",
+        "Suggested Duration (days)": 8,
+        "Default Priority": "High",
+        "Category": "Development",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Technical",
+          "AI-Powered"
+        ],
+        "Last Updated": "2025-06-12"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "QA Testing for Website",
+        "Description": "Perform comprehensive quality assurance testing to identify and fix bugs before launch.",
+        "Suggested Duration (days)": 5,
+        "Default Priority": "High",
+        "Category": "QA",
+        "Default Status": "To Do",
+        "Tags": [
+          "Technical",
+          "Performance"
+        ],
+        "Last Updated": "2025-05-01"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Market Research Analysis",
+        "Description": "Conduct detailed market research to identify new opportunities and trends for client campaigns.",
+        "Suggested Duration (days)": 7,
+        "Default Priority": "Medium",
+        "Category": "Marketing",
+        "Default Status": "Done",
+        "Tags": [
+          "Research",
+          "Analytics",
+          "Strategy"
+        ],
+        "Last Updated": "2025-04-18"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Video Marketing Strategy",
+        "Description": "Plan and produce engaging video content for various social media channels and client websites.",
+        "Suggested Duration (days)": 6,
+        "Default Priority": "High",
+        "Category": "Marketing",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Creative",
+          "Strategy",
+          "Client-Facing"
+        ],
+        "Last Updated": "2025-03-25"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "UX Wireframe Design",
+        "Description": "Create wireframes for new product features focusing on improving user navigation and accessibility.",
+        "Suggested Duration (days)": 4,
+        "Default Priority": "Medium",
+        "Category": "Design",
+        "Default Status": "To Do",
+        "Tags": [
+          "Creative",
+          "Technical"
+        ],
+        "Last Updated": "2025-06-15"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Automated Reporting Setup",
+        "Description": "Set up automated reporting dashboards for clients to track key performance metrics in real-time.",
+        "Suggested Duration (days)": 3,
+        "Default Priority": "High",
+        "Category": "Development",
+        "Default Status": "Done",
+        "Tags": [
+          "Automation",
+          "Analytics",
+          "AI-Powered"
+        ],
+        "Last Updated": "2025-06-20"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Copywriting for Landing Pages",
+        "Description": "Write compelling copy for client landing pages to maximize conversion rates and lead capture.",
+        "Suggested Duration (days)": 5,
+        "Default Priority": "Medium",
+        "Category": "Content",
+        "Default Status": "To Do",
+        "Tags": [
+          "Content",
+          "Client-Facing",
+          "Strategy"
+        ],
+        "Last Updated": "2025-05-28"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Customer Feedback Collection",
+        "Description": "Implement surveys and feedback forms to gather customer insights and improve service delivery.",
+        "Suggested Duration (days)": 4,
+        "Default Priority": "Low",
+        "Category": "Marketing",
+        "Default Status": "Done",
+        "Tags": [
+          "Research",
+          "Client-Facing"
+        ],
+        "Last Updated": "2025-01-30"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Mobile App Bug Fixes",
+        "Description": "Identify and resolve bugs reported in the recent app release to enhance stability and performance.",
+        "Suggested Duration (days)": 6,
+        "Default Priority": "High",
+        "Category": "QA",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Technical",
+          "Performance"
+        ],
+        "Last Updated": "2025-06-08"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Content Calendar Review",
+        "Description": "Review and adjust the content calendar based on recent analytics and performance data.",
+        "Suggested Duration (days)": 2,
+        "Default Priority": "Medium",
+        "Category": "Content",
+        "Default Status": "Done",
+        "Tags": [
+          "Analytics",
+          "Content",
+          "Strategy"
+        ],
+        "Last Updated": "2025-06-24"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Brand Identity Refresh",
+        "Description": "Update brand guidelines including logo, color palette, and typography for consistent branding.",
+        "Suggested Duration (days)": 7,
+        "Default Priority": "High",
+        "Category": "Design",
+        "Default Status": "To Do",
+        "Tags": [
+          "Creative",
+          "Strategy"
+        ],
+        "Last Updated": "2025-06-05"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Social Listening Setup",
+        "Description": "Implement tools to monitor social media channels for brand mentions and sentiment analysis.",
+        "Suggested Duration (days)": 3,
+        "Default Priority": "Medium",
+        "Category": "Marketing",
+        "Default Status": "In Progress",
+        "Tags": [
+          "AI-Powered",
+          "Analytics"
+        ],
+        "Last Updated": "2025-04-12"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Feature Specification Document",
+        "Description": "Draft detailed specifications for upcoming development features including user stories and acceptance criteria.",
+        "Suggested Duration (days)": 5,
+        "Default Priority": "High",
+        "Category": "Development",
+        "Default Status": "To Do",
+        "Tags": [
+          "Technical",
+          "Strategy"
+        ],
+        "Last Updated": "2025-03-30"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "QA Regression Testing",
+        "Description": "Conduct regression tests to ensure new changes have not affected existing functionalities.",
+        "Suggested Duration (days)": 4,
+        "Default Priority": "High",
+        "Category": "QA",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Performance",
+          "Technical"
+        ],
+        "Last Updated": "2025-06-09"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Paid Ad Campaign Setup",
+        "Description": "Design and launch a paid advertising campaign targeting key demographics for client acquisition.",
+        "Suggested Duration (days)": 3,
+        "Default Priority": "High",
+        "Category": "Marketing",
+        "Default Status": "To Do",
+        "Tags": [
+          "Creative",
+          "Client-Facing",
+          "Strategy"
+        ],
+        "Last Updated": "2025-05-20"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Graphic Asset Creation",
+        "Description": "Create high-quality graphics for use in marketing materials and social media posts.",
+        "Suggested Duration (days)": 5,
+        "Default Priority": "Medium",
+        "Category": "Design",
+        "Default Status": "Done",
+        "Tags": [
+          "Creative",
+          "Content"
+        ],
+        "Last Updated": "2025-06-19"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Content Audit",
+        "Description": "Review existing content for accuracy, relevance, and SEO effectiveness, recommending updates.",
+        "Suggested Duration (days)": 6,
+        "Default Priority": "Medium",
+        "Category": "Content",
+        "Default Status": "To Do",
+        "Tags": [
+          "Content",
+          "Analytics",
+          "Research"
+        ],
+        "Last Updated": "2025-02-25"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "CRM Integration",
+        "Description": "Integrate client relationship management software with marketing platforms for streamlined workflows.",
+        "Suggested Duration (days)": 7,
+        "Default Priority": "High",
+        "Category": "Development",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Automation",
+          "Technical"
+        ],
+        "Last Updated": "2025-06-11"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "User Experience Testing",
+        "Description": "Conduct usability tests with target users to gather feedback and improve product design.",
+        "Suggested Duration (days)": 5,
+        "Default Priority": "High",
+        "Category": "QA",
+        "Default Status": "To Do",
+        "Tags": [
+          "Research",
+          "Performance"
+        ],
+        "Last Updated": "2025-04-05"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Influencer Outreach",
+        "Description": "Identify and connect with social media influencers to promote client products and services.",
+        "Suggested Duration (days)": 4,
+        "Default Priority": "Medium",
+        "Category": "Marketing",
+        "Default Status": "Done",
+        "Tags": [
+          "Client-Facing",
+          "Strategy",
+          "Creative"
+        ],
+        "Last Updated": "2025-05-23"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Landing Page A/B Testing",
+        "Description": "Set up and monitor A/B tests on landing pages to determine the most effective designs and copy.",
+        "Suggested Duration (days)": 6,
+        "Default Priority": "High",
+        "Category": "Marketing",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Analytics",
+          "Strategy"
+        ],
+        "Last Updated": "2025-06-17"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Logo Design Concepts",
+        "Description": "Create multiple logo design concepts for client review and feedback sessions.",
+        "Suggested Duration (days)": 3,
+        "Default Priority": "Medium",
+        "Category": "Design",
+        "Default Status": "To Do",
+        "Tags": [
+          "Creative"
+        ],
+        "Last Updated": "2025-02-11"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Content Localization",
+        "Description": "Translate and adapt content for different regional markets to improve engagement and reach.",
+        "Suggested Duration (days)": 5,
+        "Default Priority": "Medium",
+        "Category": "Content",
+        "Default Status": "Done",
+        "Tags": [
+          "Content",
+          "Client-Facing"
+        ],
+        "Last Updated": "2025-06-14"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "API Development",
+        "Description": "Develop APIs for seamless integration between client platforms and third-party services.",
+        "Suggested Duration (days)": 8,
+        "Default Priority": "High",
+        "Category": "Development",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Technical",
+          "Automation"
+        ],
+        "Last Updated": "2025-06-07"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Performance Monitoring Setup",
+        "Description": "Implement monitoring tools to track system performance and identify potential issues proactively.",
+        "Suggested Duration (days)": 4,
+        "Default Priority": "High",
+        "Category": "QA",
+        "Default Status": "To Do",
+        "Tags": [
+          "Performance",
+          "Technical",
+          "Automation"
+        ],
+        "Last Updated": "2025-05-29"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Press Release Drafting",
+        "Description": "Write and distribute press releases to announce new products, updates, or company news.",
+        "Suggested Duration (days)": 3,
+        "Default Priority": "Medium",
+        "Category": "Content",
+        "Default Status": "Done",
+        "Tags": [
+          "Content",
+          "Client-Facing"
+        ],
+        "Last Updated": "2025-04-20"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Chatbot Implementation",
+        "Description": "Develop and integrate AI-powered chatbot to improve customer support and lead generation.",
+        "Suggested Duration (days)": 7,
+        "Default Priority": "High",
+        "Category": "Development",
+        "Default Status": "In Progress",
+        "Tags": [
+          "AI-Powered",
+          "Automation",
+          "Client-Facing"
+        ],
+        "Last Updated": "2025-06-18"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Email Automation Workflow",
+        "Description": "Design and implement automated email sequences for onboarding and customer retention.",
+        "Suggested Duration (days)": 4,
+        "Default Priority": "Medium",
+        "Category": "Marketing",
+        "Default Status": "Done",
+        "Tags": [
+          "Automation",
+          "Client-Facing"
+        ],
+        "Last Updated": "2025-06-21"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Creative Brainstorming Session",
+        "Description": "Organize team brainstorming sessions to generate innovative ideas for upcoming campaigns.",
+        "Suggested Duration (days)": 2,
+        "Default Priority": "Low",
+        "Category": "Marketing",
+        "Default Status": "To Do",
+        "Tags": [
+          "Creative",
+          "Strategy"
+        ],
+        "Last Updated": "2025-03-05"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "UI Style Guide Development",
+        "Description": "Develop a comprehensive UI style guide to ensure consistency across all digital products.",
+        "Suggested Duration (days)": 6,
+        "Default Priority": "Medium",
+        "Category": "Design",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Creative",
+          "Technical"
+        ],
+        "Last Updated": "2025-06-23"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Analytics Dashboard Build",
+        "Description": "Create custom dashboards for tracking KPIs and client campaign performance metrics.",
+        "Suggested Duration (days)": 5,
+        "Default Priority": "High",
+        "Category": "Development",
+        "Default Status": "To Do",
+        "Tags": [
+          "Analytics",
+          "AI-Powered"
+        ],
+        "Last Updated": "2025-05-31"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Bug Triage and Prioritization",
+        "Description": "Review incoming bug reports and prioritize fixes based on impact and urgency.",
+        "Suggested Duration (days)": 3,
+        "Default Priority": "High",
+        "Category": "QA",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Technical",
+          "Performance"
+        ],
+        "Last Updated": "2025-06-13"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Client Proposal Drafting",
+        "Description": "Prepare detailed proposals for potential clients including project scope and timelines.",
+        "Suggested Duration (days)": 4,
+        "Default Priority": "Medium",
+        "Category": "Marketing",
+        "Default Status": "Done",
+        "Tags": [
+          "Client-Facing",
+          "Strategy"
+        ],
+        "Last Updated": "2025-03-18"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Video Editing for Ads",
+        "Description": "Edit raw footage to create polished video ads optimized for various social channels.",
+        "Suggested Duration (days)": 5,
+        "Default Priority": "Medium",
+        "Category": "Design",
+        "Default Status": "To Do",
+        "Tags": [
+          "Creative",
+          "Performance"
+        ],
+        "Last Updated": "2025-06-04"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Technical Documentation",
+        "Description": "Write clear technical documentation for internal use and client handoffs.",
+        "Suggested Duration (days)": 6,
+        "Default Priority": "High",
+        "Category": "Development",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Technical",
+          "Research"
+        ],
+        "Last Updated": "2025-05-21"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Load Testing",
+        "Description": "Conduct load testing to evaluate system performance under high user traffic scenarios.",
+        "Suggested Duration (days)": 4,
+        "Default Priority": "High",
+        "Category": "QA",
+        "Default Status": "To Do",
+        "Tags": [
+          "Performance",
+          "Technical"
+        ],
+        "Last Updated": "2025-06-16"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Social Media Content Creation",
+        "Description": "Develop engaging content tailored for each social media platform to boost audience engagement.",
+        "Suggested Duration (days)": 5,
+        "Default Priority": "Medium",
+        "Category": "Content",
+        "Default Status": "Done",
+        "Tags": [
+          "Creative",
+          "Content",
+          "Client-Facing"
+        ],
+        "Last Updated": "2025-06-02"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Brand Strategy Workshop",
+        "Description": "Host workshops to define and refine brand positioning and messaging strategies.",
+        "Suggested Duration (days)": 3,
+        "Default Priority": "High",
+        "Category": "Marketing",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Strategy",
+          "Creative"
+        ],
+        "Last Updated": "2025-04-14"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Mobile Optimization",
+        "Description": "Ensure all digital assets are fully optimized for mobile devices across platforms.",
+        "Suggested Duration (days)": 7,
+        "Default Priority": "High",
+        "Category": "Development",
+        "Default Status": "To Do",
+        "Tags": [
+          "Technical",
+          "Performance"
+        ],
+        "Last Updated": "2025-05-15"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Ad Copywriting",
+        "Description": "Create compelling ad copy that drives clicks and conversions for client campaigns.",
+        "Suggested Duration (days)": 3,
+        "Default Priority": "Medium",
+        "Category": "Content",
+        "Default Status": "Done",
+        "Tags": [
+          "Content",
+          "Creative"
+        ],
+        "Last Updated": "2025-03-28"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Customer Journey Mapping",
+        "Description": "Analyze and document customer touchpoints to improve overall user experience and retention.",
+        "Suggested Duration (days)": 5,
+        "Default Priority": "Medium",
+        "Category": "Marketing",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Research",
+          "Strategy"
+        ],
+        "Last Updated": "2025-06-01"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "UX/UI Feedback Review",
+        "Description": "Gather and evaluate feedback on UX/UI designs to guide iterative improvements.",
+        "Suggested Duration (days)": 4,
+        "Default Priority": "Medium",
+        "Category": "Design",
+        "Default Status": "Done",
+        "Tags": [
+          "Research",
+          "Creative"
+        ],
+        "Last Updated": "2025-04-27"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Back-end API Optimization",
+        "Description": "Optimize API endpoints for faster response times and better scalability.",
+        "Suggested Duration (days)": 6,
+        "Default Priority": "High",
+        "Category": "Development",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Technical",
+          "Performance"
+        ],
+        "Last Updated": "2025-06-06"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Regression Fix Deployment",
+        "Description": "Deploy fixes to production for critical regression bugs identified during testing.",
+        "Suggested Duration (days)": 2,
+        "Default Priority": "High",
+        "Category": "QA",
+        "Default Status": "To Do",
+        "Tags": [
+          "Technical",
+          "Performance"
+        ],
+        "Last Updated": "2025-06-22"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Client Onboarding Kit",
+        "Description": "Create materials and workflows to streamline new client onboarding process.",
+        "Suggested Duration (days)": 4,
+        "Default Priority": "Medium",
+        "Category": "Marketing",
+        "Default Status": "Done",
+        "Tags": [
+          "Client-Facing",
+          "Content"
+        ],
+        "Last Updated": "2025-05-10"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Interactive Content Development",
+        "Description": "Develop quizzes, polls, and interactive infographics to boost user engagement.",
+        "Suggested Duration (days)": 7,
+        "Default Priority": "Medium",
+        "Category": "Content",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Creative",
+          "AI-Powered"
+        ],
+        "Last Updated": "2025-06-03"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Performance Review Meeting",
+        "Description": "Conduct meetings to review project performance and discuss improvements.",
+        "Suggested Duration (days)": 1,
+        "Default Priority": "Low",
+        "Category": "Marketing",
+        "Default Status": "Done",
+        "Tags": [
+          "Strategy",
+          "Performance"
+        ],
+        "Last Updated": "2025-05-25"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Visual Branding Elements",
+        "Description": "Design visual elements including icons, buttons, and banners for brand consistency.",
+        "Suggested Duration (days)": 5,
+        "Default Priority": "Medium",
+        "Category": "Design",
+        "Default Status": "To Do",
+        "Tags": [
+          "Creative"
+        ],
+        "Last Updated": "2025-06-13"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Analytics Tool Integration",
+        "Description": "Integrate advanced analytics tools to track detailed user behavior and campaign effectiveness.",
+        "Suggested Duration (days)": 6,
+        "Default Priority": "High",
+        "Category": "Development",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Analytics",
+          "Technical"
+        ],
+        "Last Updated": "2025-04-21"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Bug Fix Verification",
+        "Description": "Validate the fixes for reported bugs to ensure issues are resolved effectively.",
+        "Suggested Duration (days)": 3,
+        "Default Priority": "High",
+        "Category": "QA",
+        "Default Status": "Done",
+        "Tags": [
+          "Technical",
+          "Performance"
+        ],
+        "Last Updated": "2025-06-14"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Client Feedback Analysis",
+        "Description": "Analyze client feedback to identify trends and areas for service improvement.",
+        "Suggested Duration (days)": 4,
+        "Default Priority": "Medium",
+        "Category": "Marketing",
+        "Default Status": "To Do",
+        "Tags": [
+          "Research",
+          "Client-Facing"
+        ],
+        "Last Updated": "2025-05-07"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Product Launch Plan",
+        "Description": "Develop a detailed plan for launching new products including timelines and promotional activities.",
+        "Suggested Duration (days)": 8,
+        "Default Priority": "High",
+        "Category": "Marketing",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Strategy",
+          "Creative",
+          "Client-Facing"
+        ],
+        "Last Updated": "2025-06-09"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Brand Messaging Update",
+        "Description": "Revise brand messaging to align with new company vision and market positioning.",
+        "Suggested Duration (days)": 5,
+        "Default Priority": "Medium",
+        "Category": "Marketing",
+        "Default Status": "Done",
+        "Tags": [
+          "Strategy",
+          "Content"
+        ],
+        "Last Updated": "2025-04-09"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "User Manual Creation",
+        "Description": "Develop user manuals and guides to assist clients in product usage and troubleshooting.",
+        "Suggested Duration (days)": 6,
+        "Default Priority": "Medium",
+        "Category": "Content",
+        "Default Status": "To Do",
+        "Tags": [
+          "Content",
+          "Technical"
+        ],
+        "Last Updated": "2025-05-02"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Cross-platform Testing",
+        "Description": "Test applications across different devices and operating systems to ensure compatibility.",
+        "Suggested Duration (days)": 5,
+        "Default Priority": "High",
+        "Category": "QA",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Technical",
+          "Performance"
+        ],
+        "Last Updated": "2025-06-05"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Client Case Study Writing",
+        "Description": "Write detailed case studies highlighting successful client projects and outcomes.",
+        "Suggested Duration (days)": 4,
+        "Default Priority": "Medium",
+        "Category": "Content",
+        "Default Status": "Done",
+        "Tags": [
+          "Content",
+          "Client-Facing",
+          "Strategy"
+        ],
+        "Last Updated": "2025-05-12"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Content Syndication Setup",
+        "Description": "Establish partnerships and processes for syndicating content across multiple platforms.",
+        "Suggested Duration (days)": 5,
+        "Default Priority": "Medium",
+        "Category": "Marketing",
+        "Default Status": "To Do",
+        "Tags": [
+          "Content",
+          "Strategy"
+        ],
+        "Last Updated": "2025-03-19"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "New Feature Rollout",
+        "Description": "Plan and execute the rollout of new software features to clients and internal teams.",
+        "Suggested Duration (days)": 7,
+        "Default Priority": "High",
+        "Category": "Development",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Technical",
+          "Client-Facing"
+        ],
+        "Last Updated": "2025-06-01"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Security Audit",
+        "Description": "Conduct security audits to identify vulnerabilities and ensure compliance with standards.",
+        "Suggested Duration (days)": 4,
+        "Default Priority": "High",
+        "Category": "QA",
+        "Default Status": "To Do",
+        "Tags": [
+          "Technical",
+          "Performance"
+        ],
+        "Last Updated": "2025-05-14"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Marketing Automation Campaign",
+        "Description": "Design and implement automated marketing campaigns to nurture leads and increase conversions.",
+        "Suggested Duration (days)": 6,
+        "Default Priority": "High",
+        "Category": "Marketing",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Automation",
+          "AI-Powered",
+          "Client-Facing"
+        ],
+        "Last Updated": "2025-06-20"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Creative Direction Brief",
+        "Description": "Prepare briefs to guide creative teams on project goals, brand voice, and deliverables.",
+        "Suggested Duration (days)": 3,
+        "Default Priority": "Medium",
+        "Category": "Design",
+        "Default Status": "Done",
+        "Tags": [
+          "Creative",
+          "Strategy"
+        ],
+        "Last Updated": "2025-04-28"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Content Review Cycle",
+        "Description": "Implement a structured review process to maintain content quality and consistency.",
+        "Suggested Duration (days)": 5,
+        "Default Priority": "Medium",
+        "Category": "Content",
+        "Default Status": "To Do",
+        "Tags": [
+          "Content",
+          "Performance"
+        ],
+        "Last Updated": "2025-05-17"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "API Documentation Update",
+        "Description": "Update API documentation after new releases to reflect current functionalities.",
+        "Suggested Duration (days)": 4,
+        "Default Priority": "High",
+        "Category": "Development",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Technical",
+          "Content"
+        ],
+        "Last Updated": "2025-06-10"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "User Acceptance Testing",
+        "Description": "Coordinate user acceptance tests to validate new features meet client requirements.",
+        "Suggested Duration (days)": 5,
+        "Default Priority": "High",
+        "Category": "QA",
+        "Default Status": "To Do",
+        "Tags": [
+          "Performance",
+          "Client-Facing"
+        ],
+        "Last Updated": "2025-06-24"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Client Retention Strategy",
+        "Description": "Develop strategies focused on retaining existing clients through engagement and value delivery.",
+        "Suggested Duration (days)": 7,
+        "Default Priority": "Medium",
+        "Category": "Marketing",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Strategy",
+          "Client-Facing"
+        ],
+        "Last Updated": "2025-04-29"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "UI Component Library",
+        "Description": "Build a reusable UI component library to speed up design and development workflows.",
+        "Suggested Duration (days)": 8,
+        "Default Priority": "High",
+        "Category": "Design",
+        "Default Status": "To Do",
+        "Tags": [
+          "Technical",
+          "Creative"
+        ],
+        "Last Updated": "2025-05-13"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Marketing Funnel Analysis",
+        "Description": "Analyze marketing funnels to identify drop-off points and optimize conversion paths.",
+        "Suggested Duration (days)": 6,
+        "Default Priority": "High",
+        "Category": "Marketing",
+        "Default Status": "Done",
+        "Tags": [
+          "Analytics",
+          "Strategy"
+        ],
+        "Last Updated": "2025-03-31"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Content Translation",
+        "Description": "Translate key content pieces for targeted international audiences.",
+        "Suggested Duration (days)": 5,
+        "Default Priority": "Medium",
+        "Category": "Content",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Content",
+          "Client-Facing"
+        ],
+        "Last Updated": "2025-06-16"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "System Upgrade Testing",
+        "Description": "Test new system upgrades to ensure stability and compatibility before deployment.",
+        "Suggested Duration (days)": 4,
+        "Default Priority": "High",
+        "Category": "QA",
+        "Default Status": "To Do",
+        "Tags": [
+          "Technical",
+          "Performance"
+        ],
+        "Last Updated": "2025-05-26"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Social Media Analytics Report",
+        "Description": "Compile detailed reports on social media performance and audience engagement.",
+        "Suggested Duration (days)": 3,
+        "Default Priority": "Medium",
+        "Category": "Marketing",
+        "Default Status": "Done",
+        "Tags": [
+          "Analytics",
+          "Strategy"
+        ],
+        "Last Updated": "2025-06-08"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Brand Partnership Outreach",
+        "Description": "Identify and reach out to potential brand partners for co-marketing opportunities.",
+        "Suggested Duration (days)": 4,
+        "Default Priority": "Medium",
+        "Category": "Marketing",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Client-Facing",
+          "Strategy"
+        ],
+        "Last Updated": "2025-05-04"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "UX Design Prototyping",
+        "Description": "Create interactive prototypes to test design concepts with stakeholders and users.",
+        "Suggested Duration (days)": 5,
+        "Default Priority": "Medium",
+        "Category": "Design",
+        "Default Status": "To Do",
+        "Tags": [
+          "Creative",
+          "Technical"
+        ],
+        "Last Updated": "2025-06-12"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Backend Performance Tuning",
+        "Description": "Optimize backend systems for improved response times and resource utilization.",
+        "Suggested Duration (days)": 6,
+        "Default Priority": "High",
+        "Category": "Development",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Technical",
+          "Performance"
+        ],
+        "Last Updated": "2025-06-02"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Critical Bug Fixing",
+        "Description": "Address and fix critical bugs affecting client-facing applications immediately.",
+        "Suggested Duration (days)": 3,
+        "Default Priority": "High",
+        "Category": "QA",
+        "Default Status": "To Do",
+        "Tags": [
+          "Technical"
+        ],
+        "Last Updated": "2025-06-21"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Client Success Stories",
+        "Description": "Develop and publish success stories to showcase client achievements with our solutions.",
+        "Suggested Duration (days)": 4,
+        "Default Priority": "Medium",
+        "Category": "Content",
+        "Default Status": "Done",
+        "Tags": [
+          "Content",
+          "Client-Facing"
+        ],
+        "Last Updated": "2025-05-09"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Interactive Ad Development",
+        "Description": "Design interactive advertisements to increase user engagement and brand awareness.",
+        "Suggested Duration (days)": 6,
+        "Default Priority": "Medium",
+        "Category": "Marketing",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Creative",
+          "AI-Powered"
+        ],
+        "Last Updated": "2025-06-19"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Weekly Project Sync",
+        "Description": "Schedule and conduct weekly meetings to synchronize project progress and address blockers.",
+        "Suggested Duration (days)": 1,
+        "Default Priority": "Low",
+        "Category": "Marketing",
+        "Default Status": "Done",
+        "Tags": [
+          "Strategy",
+          "Client-Facing"
+        ],
+        "Last Updated": "2025-05-27"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Brand Collateral Design",
+        "Description": "Design brochures, flyers, and other print materials that align with the brand identity.",
+        "Suggested Duration (days)": 5,
+        "Default Priority": "Medium",
+        "Category": "Design",
+        "Default Status": "To Do",
+        "Tags": [
+          "Creative",
+          "Content"
+        ],
+        "Last Updated": "2025-06-07"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Data Pipeline Implementation",
+        "Description": "Build data pipelines to automate collection and processing of marketing analytics.",
+        "Suggested Duration (days)": 7,
+        "Default Priority": "High",
+        "Category": "Development",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Automation",
+          "Technical"
+        ],
+        "Last Updated": "2025-05-16"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Test Case Creation",
+        "Description": "Develop detailed test cases covering all new features and system integrations.",
+        "Suggested Duration (days)": 4,
+        "Default Priority": "High",
+        "Category": "QA",
+        "Default Status": "To Do",
+        "Tags": [
+          "Technical"
+        ],
+        "Last Updated": "2025-06-15"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Customer Persona Development",
+        "Description": "Create detailed customer personas to guide marketing and product development efforts.",
+        "Suggested Duration (days)": 5,
+        "Default Priority": "Medium",
+        "Category": "Marketing",
+        "Default Status": "Done",
+        "Tags": [
+          "Research",
+          "Strategy"
+        ],
+        "Last Updated": "2025-04-24"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Email Content Refresh",
+        "Description": "Update and optimize email templates to improve open and click-through rates.",
+        "Suggested Duration (days)": 3,
+        "Default Priority": "Medium",
+        "Category": "Content",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Content",
+          "Client-Facing"
+        ],
+        "Last Updated": "2025-06-22"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "System Maintenance",
+        "Description": "Scheduled maintenance to update servers and ensure system reliability.",
+        "Suggested Duration (days)": 2,
+        "Default Priority": "High",
+        "Category": "Development",
+        "Default Status": "To Do",
+        "Tags": [
+          "Technical",
+          "Performance"
+        ],
+        "Last Updated": "2025-06-23"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Bug Report Analysis",
+        "Description": "Review and analyze bug reports to identify patterns and improve software quality.",
+        "Suggested Duration (days)": 3,
+        "Default Priority": "High",
+        "Category": "QA",
+        "Default Status": "Done",
+        "Tags": [
+          "Technical",
+          "Research"
+        ],
+        "Last Updated": "2025-05-08"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Campaign Performance Review",
+        "Description": "Evaluate the success of recent marketing campaigns and suggest improvements.",
+        "Suggested Duration (days)": 4,
+        "Default Priority": "Medium",
+        "Category": "Marketing",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Analytics",
+          "Strategy"
+        ],
+        "Last Updated": "2025-05-06"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Content Strategy Meeting",
+        "Description": "Hold meetings to align content goals with overall marketing strategy.",
+        "Suggested Duration (days)": 2,
+        "Default Priority": "Low",
+        "Category": "Content",
+        "Default Status": "Done",
+        "Tags": [
+          "Strategy",
+          "Creative"
+        ],
+        "Last Updated": "2025-05-21"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "UI Bug Fixes",
+        "Description": "Fix UI issues reported by users to improve visual consistency and usability.",
+        "Suggested Duration (days)": 3,
+        "Default Priority": "High",
+        "Category": "QA",
+        "Default Status": "To Do",
+        "Tags": [
+          "Technical"
+        ],
+        "Last Updated": "2025-06-04"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Social Media Influencer Collaboration",
+        "Description": "Coordinate collaborations with influencers to boost brand visibility and engagement.",
+        "Suggested Duration (days)": 5,
+        "Default Priority": "Medium",
+        "Category": "Marketing",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Client-Facing",
+          "Creative"
+        ],
+        "Last Updated": "2025-06-18"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Technical Architecture Review",
+        "Description": "Review and update technical architecture to support scalability and maintainability.",
+        "Suggested Duration (days)": 6,
+        "Default Priority": "High",
+        "Category": "Development",
+        "Default Status": "To Do",
+        "Tags": [
+          "Technical",
+          "Strategy"
+        ],
+        "Last Updated": "2025-06-05"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Client Training Session",
+        "Description": "Organize training for clients on using our marketing tools and platforms effectively.",
+        "Suggested Duration (days)": 4,
+        "Default Priority": "Medium",
+        "Category": "Marketing",
+        "Default Status": "Done",
+        "Tags": [
+          "Client-Facing",
+          "Content"
+        ],
+        "Last Updated": "2025-05-15"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Creative Content Development",
+        "Description": "Produce creative content assets including videos, graphics, and copy for campaigns.",
+        "Suggested Duration (days)": 7,
+        "Default Priority": "Medium",
+        "Category": "Content",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Creative",
+          "Content"
+        ],
+        "Last Updated": "2025-06-13"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Automation Workflow Testing",
+        "Description": "Test automation workflows to ensure smooth and error-free execution.",
+        "Suggested Duration (days)": 3,
+        "Default Priority": "High",
+        "Category": "QA",
+        "Default Status": "To Do",
+        "Tags": [
+          "Automation",
+          "Technical"
+        ],
+        "Last Updated": "2025-06-17"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Brand Voice Guidelines",
+        "Description": "Develop guidelines to maintain a consistent brand voice across all communication channels.",
+        "Suggested Duration (days)": 5,
+        "Default Priority": "Medium",
+        "Category": "Marketing",
+        "Default Status": "Done",
+        "Tags": [
+          "Strategy",
+          "Content"
+        ],
+        "Last Updated": "2025-05-01"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Landing Page Optimization",
+        "Description": "Optimize landing pages for speed, usability, and conversion effectiveness.",
+        "Suggested Duration (days)": 6,
+        "Default Priority": "High",
+        "Category": "Marketing",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Performance",
+          "Strategy"
+        ],
+        "Last Updated": "2025-06-11"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Content Gap Analysis",
+        "Description": "Identify gaps in existing content and recommend new topics to address market needs.",
+        "Suggested Duration (days)": 5,
+        "Default Priority": "Medium",
+        "Category": "Content",
+        "Default Status": "To Do",
+        "Tags": [
+          "Research",
+          "Analytics"
+        ],
+        "Last Updated": "2025-05-28"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Backend Code Review",
+        "Description": "Perform code reviews to ensure quality, security, and adherence to standards.",
+        "Suggested Duration (days)": 4,
+        "Default Priority": "High",
+        "Category": "Development",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Technical"
+        ],
+        "Last Updated": "2025-06-06"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Software Deployment",
+        "Description": "Deploy new software versions to production environments with minimal downtime.",
+        "Suggested Duration (days)": 3,
+        "Default Priority": "High",
+        "Category": "QA",
+        "Default Status": "To Do",
+        "Tags": [
+          "Technical",
+          "Performance"
+        ],
+        "Last Updated": "2025-06-14"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Market Segmentation Analysis",
+        "Description": "Analyze customer data to segment markets for targeted marketing campaigns.",
+        "Suggested Duration (days)": 6,
+        "Default Priority": "Medium",
+        "Category": "Marketing",
+        "Default Status": "Done",
+        "Tags": [
+          "Analytics",
+          "Strategy"
+        ],
+        "Last Updated": "2025-04-15"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Email List Cleaning",
+        "Description": "Clean and segment email lists to improve deliverability and engagement rates.",
+        "Suggested Duration (days)": 3,
+        "Default Priority": "Medium",
+        "Category": "Marketing",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Automation",
+          "Client-Facing"
+        ],
+        "Last Updated": "2025-06-21"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "UX Research Session",
+        "Description": "Conduct user research sessions to gather insights on user behavior and preferences.",
+        "Suggested Duration (days)": 5,
+        "Default Priority": "Medium",
+        "Category": "Design",
+        "Default Status": "To Do",
+        "Tags": [
+          "Research",
+          "Creative"
+        ],
+        "Last Updated": "2025-05-12"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "API Security Audit",
+        "Description": "Conduct security audits specifically focused on API endpoints and integrations.",
+        "Suggested Duration (days)": 4,
+        "Default Priority": "High",
+        "Category": "QA",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Technical"
+        ],
+        "Last Updated": "2025-06-09"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Social Media Calendar Creation",
+        "Description": "Develop a detailed calendar for posting and content scheduling across social channels.",
+        "Suggested Duration (days)": 4,
+        "Default Priority": "Medium",
+        "Category": "Marketing",
+        "Default Status": "Done",
+        "Tags": [
+          "Strategy",
+          "Content"
+        ],
+        "Last Updated": "2025-04-23"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Client Meeting Preparation",
+        "Description": "Prepare materials and agendas for upcoming client meetings and presentations.",
+        "Suggested Duration (days)": 2,
+        "Default Priority": "Low",
+        "Category": "Marketing",
+        "Default Status": "To Do",
+        "Tags": [
+          "Client-Facing"
+        ],
+        "Last Updated": "2025-05-19"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Front-end Bug Fixes",
+        "Description": "Resolve UI and front-end bugs to enhance user experience and interface consistency.",
+        "Suggested Duration (days)": 3,
+        "Default Priority": "High",
+        "Category": "QA",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Technical"
+        ],
+        "Last Updated": "2025-06-03"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Campaign Budget Planning",
+        "Description": "Plan and allocate budgets for upcoming marketing campaigns to maximize ROI.",
+        "Suggested Duration (days)": 4,
+        "Default Priority": "Medium",
+        "Category": "Marketing",
+        "Default Status": "To Do",
+        "Tags": [
+          "Strategy"
+        ],
+        "Last Updated": "2025-05-14"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Video Scriptwriting",
+        "Description": "Write engaging scripts for promotional videos and client testimonials.",
+        "Suggested Duration (days)": 3,
+        "Default Priority": "Medium",
+        "Category": "Content",
+        "Default Status": "Done",
+        "Tags": [
+          "Content",
+          "Creative"
+        ],
+        "Last Updated": "2025-06-08"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Bug Prioritization Meeting",
+        "Description": "Hold meetings to prioritize bug fixes based on severity and impact.",
+        "Suggested Duration (days)": 1,
+        "Default Priority": "High",
+        "Category": "QA",
+        "Default Status": "Done",
+        "Tags": [
+          "Technical"
+        ],
+        "Last Updated": "2025-06-20"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Social Media Community Management",
+        "Description": "Manage and engage with social media communities to foster brand loyalty.",
+        "Suggested Duration (days)": 5,
+        "Default Priority": "Medium",
+        "Category": "Marketing",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Client-Facing",
+          "Creative"
+        ],
+        "Last Updated": "2025-06-07"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Design System Update",
+        "Description": "Update design systems to include new components and design patterns.",
+        "Suggested Duration (days)": 6,
+        "Default Priority": "Medium",
+        "Category": "Design",
+        "Default Status": "To Do",
+        "Tags": [
+          "Creative",
+          "Technical"
+        ],
+        "Last Updated": "2025-05-30"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Data Migration Planning",
+        "Description": "Plan data migration strategies to ensure smooth transition during platform upgrades.",
+        "Suggested Duration (days)": 7,
+        "Default Priority": "High",
+        "Category": "Development",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Technical",
+          "Strategy"
+        ],
+        "Last Updated": "2025-06-15"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "QA Automation Script Writing",
+        "Description": "Develop automation scripts for repetitive testing tasks to improve efficiency.",
+        "Suggested Duration (days)": 5,
+        "Default Priority": "High",
+        "Category": "QA",
+        "Default Status": "To Do",
+        "Tags": [
+          "Automation",
+          "Technical"
+        ],
+        "Last Updated": "2025-06-18"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Client Newsletter Design",
+        "Description": "Design appealing newsletters tailored to client branding and messaging.",
+        "Suggested Duration (days)": 4,
+        "Default Priority": "Medium",
+        "Category": "Marketing",
+        "Default Status": "Done",
+        "Tags": [
+          "Creative",
+          "Client-Facing"
+        ],
+        "Last Updated": "2025-06-02"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Content Collaboration Meeting",
+        "Description": "Coordinate meetings between content creators and marketing teams for alignment.",
+        "Suggested Duration (days)": 2,
+        "Default Priority": "Low",
+        "Category": "Content",
+        "Default Status": "Done",
+        "Tags": [
+          "Client-Facing",
+          "Strategy"
+        ],
+        "Last Updated": "2025-05-26"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Mobile App UI Enhancements",
+        "Description": "Implement UI improvements to enhance usability and visual appeal on mobile apps.",
+        "Suggested Duration (days)": 6,
+        "Default Priority": "Medium",
+        "Category": "Design",
+        "Default Status": "To Do",
+        "Tags": [
+          "Creative",
+          "Technical"
+        ],
+        "Last Updated": "2025-06-11"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Backend Database Optimization",
+        "Description": "Optimize database queries and structure to improve application performance.",
+        "Suggested Duration (days)": 5,
+        "Default Priority": "High",
+        "Category": "Development",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Technical",
+          "Performance"
+        ],
+        "Last Updated": "2025-06-13"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "System Load Balancing",
+        "Description": "Implement load balancing solutions to enhance system reliability during peak usage.",
+        "Suggested Duration (days)": 4,
+        "Default Priority": "High",
+        "Category": "QA",
+        "Default Status": "To Do",
+        "Tags": [
+          "Technical",
+          "Performance"
+        ],
+        "Last Updated": "2025-06-19"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Digital Campaign Analysis",
+        "Description": "Analyze results from digital campaigns to inform future marketing efforts.",
+        "Suggested Duration (days)": 5,
+        "Default Priority": "Medium",
+        "Category": "Marketing",
+        "Default Status": "Done",
+        "Tags": [
+          "Analytics",
+          "Strategy"
+        ],
+        "Last Updated": "2025-04-18"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Client Satisfaction Survey",
+        "Description": "Design and distribute surveys to gauge client satisfaction and gather feedback.",
+        "Suggested Duration (days)": 3,
+        "Default Priority": "Medium",
+        "Category": "Marketing",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Client-Facing",
+          "Research"
+        ],
+        "Last Updated": "2025-05-03"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "UX/UI Accessibility Audit",
+        "Description": "Ensure all digital products comply with accessibility standards for inclusivity.",
+        "Suggested Duration (days)": 6,
+        "Default Priority": "High",
+        "Category": "Design",
+        "Default Status": "To Do",
+        "Tags": [
+          "Technical",
+          "Performance"
+        ],
+        "Last Updated": "2025-06-09"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "API Performance Benchmarking",
+        "Description": "Benchmark API response times and throughput to identify optimization opportunities.",
+        "Suggested Duration (days)": 4,
+        "Default Priority": "High",
+        "Category": "Development",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Technical",
+          "Performance"
+        ],
+        "Last Updated": "2025-06-08"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Bug Fix Deployment Coordination",
+        "Description": "Coordinate deployment of bug fixes to minimize disruption and ensure stability.",
+        "Suggested Duration (days)": 3,
+        "Default Priority": "High",
+        "Category": "QA",
+        "Default Status": "To Do",
+        "Tags": [
+          "Technical"
+        ],
+        "Last Updated": "2025-06-16"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Brand Awareness Campaign",
+        "Description": "Develop campaigns aimed at increasing brand recognition and recall.",
+        "Suggested Duration (days)": 7,
+        "Default Priority": "Medium",
+        "Category": "Marketing",
+        "Default Status": "Done",
+        "Tags": [
+          "Creative",
+          "Client-Facing"
+        ],
+        "Last Updated": "2025-05-20"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Content Repurposing Strategy",
+        "Description": "Develop strategies to repurpose existing content for multiple platforms effectively.",
+        "Suggested Duration (days)": 5,
+        "Default Priority": "Medium",
+        "Category": "Content",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Content",
+          "Strategy"
+        ],
+        "Last Updated": "2025-06-01"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Technical Support Documentation",
+        "Description": "Create documentation to assist technical support teams in troubleshooting.",
+        "Suggested Duration (days)": 4,
+        "Default Priority": "High",
+        "Category": "Development",
+        "Default Status": "To Do",
+        "Tags": [
+          "Technical",
+          "Content"
+        ],
+        "Last Updated": "2025-05-29"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Functional Testing Cycle",
+        "Description": "Plan and execute functional tests to verify software meets specifications.",
+        "Suggested Duration (days)": 5,
+        "Default Priority": "High",
+        "Category": "QA",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Technical",
+          "Performance"
+        ],
+        "Last Updated": "2025-06-07"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Client Success Workshop",
+        "Description": "Conduct workshops to educate clients on maximizing the value of products and services.",
+        "Suggested Duration (days)": 3,
+        "Default Priority": "Medium",
+        "Category": "Marketing",
+        "Default Status": "Done",
+        "Tags": [
+          "Client-Facing",
+          "Content"
+        ],
+        "Last Updated": "2025-05-11"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Creative Asset Review",
+        "Description": "Review creative assets for quality, brand consistency, and effectiveness.",
+        "Suggested Duration (days)": 4,
+        "Default Priority": "Medium",
+        "Category": "Design",
+        "Default Status": "To Do",
+        "Tags": [
+          "Creative"
+        ],
+        "Last Updated": "2025-06-10"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Data Analytics Pipeline",
+        "Description": "Develop pipelines for collecting and processing marketing data efficiently.",
+        "Suggested Duration (days)": 7,
+        "Default Priority": "High",
+        "Category": "Development",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Analytics",
+          "Automation"
+        ],
+        "Last Updated": "2025-06-12"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "QA Test Plan Development",
+        "Description": "Develop comprehensive test plans covering all aspects of new software releases.",
+        "Suggested Duration (days)": 5,
+        "Default Priority": "High",
+        "Category": "QA",
+        "Default Status": "To Do",
+        "Tags": [
+          "Technical"
+        ],
+        "Last Updated": "2025-06-15"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Marketing Campaign Kickoff",
+        "Description": "Initiate new marketing campaigns with all stakeholders aligned on objectives and timelines.",
+        "Suggested Duration (days)": 3,
+        "Default Priority": "Medium",
+        "Category": "Marketing",
+        "Default Status": "Done",
+        "Tags": [
+          "Strategy",
+          "Client-Facing"
+        ],
+        "Last Updated": "2025-05-23"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Content Marketing Workshop",
+        "Description": "Host workshops to train team on latest content marketing strategies and tools.",
+        "Suggested Duration (days)": 4,
+        "Default Priority": "Medium",
+        "Category": "Content",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Content",
+          "Strategy"
+        ],
+        "Last Updated": "2025-06-05"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Mobile App Security Testing",
+        "Description": "Perform security testing on mobile apps to identify and mitigate vulnerabilities.",
+        "Suggested Duration (days)": 5,
+        "Default Priority": "High",
+        "Category": "QA",
+        "Default Status": "To Do",
+        "Tags": [
+          "Technical",
+          "Performance"
+        ],
+        "Last Updated": "2025-06-18"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Social Media Engagement Analysis",
+        "Description": "Analyze engagement metrics to optimize social media content and posting schedules.",
+        "Suggested Duration (days)": 4,
+        "Default Priority": "Medium",
+        "Category": "Marketing",
+        "Default Status": "Done",
+        "Tags": [
+          "Analytics",
+          "Strategy"
+        ],
+        "Last Updated": "2025-05-16"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Client Relationship Management",
+        "Description": "Implement strategies to strengthen relationships and improve client retention.",
+        "Suggested Duration (days)": 6,
+        "Default Priority": "Medium",
+        "Category": "Marketing",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Strategy",
+          "Client-Facing"
+        ],
+        "Last Updated": "2025-06-03"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "UX/UI Design Update",
+        "Description": "Update designs based on user feedback and latest design trends.",
+        "Suggested Duration (days)": 5,
+        "Default Priority": "Medium",
+        "Category": "Design",
+        "Default Status": "To Do",
+        "Tags": [
+          "Creative"
+        ],
+        "Last Updated": "2025-06-14"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "API Endpoint Testing",
+        "Description": "Test API endpoints for functionality, reliability, and performance.",
+        "Suggested Duration (days)": 4,
+        "Default Priority": "High",
+        "Category": "QA",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Technical"
+        ],
+        "Last Updated": "2025-06-09"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Digital Ad Creative Production",
+        "Description": "Create visual and video ads optimized for digital advertising platforms.",
+        "Suggested Duration (days)": 6,
+        "Default Priority": "Medium",
+        "Category": "Marketing",
+        "Default Status": "Done",
+        "Tags": [
+          "Creative",
+          "Client-Facing"
+        ],
+        "Last Updated": "2025-04-26"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Product Demo Video Creation",
+        "Description": "Produce high-quality product demonstration videos to aid client onboarding.",
+        "Suggested Duration (days)": 5,
+        "Default Priority": "Medium",
+        "Category": "Content",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Creative",
+          "Client-Facing"
+        ],
+        "Last Updated": "2025-05-31"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Server Performance Monitoring",
+        "Description": "Set up tools to continuously monitor server health and performance metrics.",
+        "Suggested Duration (days)": 4,
+        "Default Priority": "High",
+        "Category": "QA",
+        "Default Status": "To Do",
+        "Tags": [
+          "Performance",
+          "Technical"
+        ],
+        "Last Updated": "2025-06-17"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Client Feedback Session",
+        "Description": "Organize sessions to gather detailed client feedback on recent projects.",
+        "Suggested Duration (days)": 3,
+        "Default Priority": "Medium",
+        "Category": "Marketing",
+        "Default Status": "Done",
+        "Tags": [
+          "Client-Facing",
+          "Research"
+        ],
+        "Last Updated": "2025-05-08"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Marketing Content Calendar",
+        "Description": "Develop and maintain a calendar of all marketing content publication schedules.",
+        "Suggested Duration (days)": 5,
+        "Default Priority": "Medium",
+        "Category": "Content",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Strategy",
+          "Content"
+        ],
+        "Last Updated": "2025-06-22"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Load and Stress Testing",
+        "Description": "Conduct load and stress tests to evaluate system robustness under heavy usage.",
+        "Suggested Duration (days)": 6,
+        "Default Priority": "High",
+        "Category": "QA",
+        "Default Status": "To Do",
+        "Tags": [
+          "Performance",
+          "Technical"
+        ],
+        "Last Updated": "2025-06-21"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Creative Campaign Concepting",
+        "Description": "Brainstorm and develop innovative campaign concepts with creative teams.",
+        "Suggested Duration (days)": 4,
+        "Default Priority": "Medium",
+        "Category": "Marketing",
+        "Default Status": "Done",
+        "Tags": [
+          "Creative",
+          "Strategy"
+        ],
+        "Last Updated": "2025-05-13"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Technical Implementation Plan",
+        "Description": "Draft detailed technical plans for upcoming development projects and features.",
+        "Suggested Duration (days)": 7,
+        "Default Priority": "High",
+        "Category": "Development",
+        "Default Status": "In Progress",
+        "Tags": [
+          "Technical",
+          "Strategy"
+        ],
+        "Last Updated": "2025-05-25"
+      }
+    }
+  ]
+}

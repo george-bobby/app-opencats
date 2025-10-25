@@ -1,0 +1,438 @@
+[
+    {
+        "name": "Escalate to Engineering",
+        "actions": [
+            {
+                "action_name": "assign_team",
+                "action_params": [
+                    5
+                ]
+            },
+            {
+                "action_name": "add_label",
+                "action_params": [
+                    "escalated"
+                ]
+            },
+            {
+                "action_name": "add_label",
+                "action_params": [
+                    "bug"
+                ]
+            },
+            {
+                "action_name": "add_private_note",
+                "action_params": [
+                    "Escalated to engineering for urgent investigation."
+                ]
+            },
+            {
+                "action_name": "change_priority",
+                "action_params": [
+                    "high"
+                ]
+            }
+        ],
+        "visibility": "global"
+    },
+    {
+        "name": "Sales Lead Handoff",
+        "actions": [
+            {
+                "action_name": "assign_team",
+                "action_params": [
+                    2
+                ]
+            },
+            {
+                "action_name": "add_label",
+                "action_params": [
+                    "lead"
+                ]
+            },
+            {
+                "action_name": "send_message",
+                "action_params": [
+                    "Thank you for your interest! Our sales team will contact you soon."
+                ]
+            },
+            {
+                "action_name": "add_private_note",
+                "action_params": [
+                    "New sales lead assigned. Please follow up promptly."
+                ]
+            }
+        ],
+        "visibility": "global"
+    },
+    {
+        "name": "Customer Onboarding",
+        "actions": [
+            {
+                "action_name": "assign_team",
+                "action_params": [
+                    3
+                ]
+            },
+            {
+                "action_name": "add_label",
+                "action_params": [
+                    "onboarding"
+                ]
+            },
+            {
+                "action_name": "send_message",
+                "action_params": [
+                    "Welcome aboard! Our customer success team will guide you through the onboarding process."
+                ]
+            },
+            {
+                "action_name": "snooze_conversation",
+                "action_params": [
+                    1440
+                ]
+            }
+        ],
+        "visibility": "global"
+    },
+    {
+        "name": "Route Product Feedback",
+        "actions": [
+            {
+                "action_name": "assign_team",
+                "action_params": [
+                    4
+                ]
+            },
+            {
+                "action_name": "add_label",
+                "action_params": [
+                    "feedback"
+                ]
+            },
+            {
+                "action_name": "add_private_note",
+                "action_params": [
+                    "Product feedback received. Please review and consider for roadmap."
+                ]
+            },
+            {
+                "action_name": "mute_conversation",
+                "action_params": []
+            }
+        ],
+        "visibility": "global"
+    },
+    {
+        "name": "Marketing Campaign Inquiry",
+        "actions": [
+            {
+                "action_name": "assign_team",
+                "action_params": [
+                    6
+                ]
+            },
+            {
+                "action_name": "add_label",
+                "action_params": [
+                    "campaign"
+                ]
+            },
+            {
+                "action_name": "send_attachment",
+                "action_params": [
+                    "https://example.com/brochure.pdf"
+                ]
+            },
+            {
+                "action_name": "add_private_note",
+                "action_params": [
+                    "Sent campaign brochure to customer."
+                ]
+            }
+        ],
+        "visibility": "global"
+    },
+    {
+        "name": "Resolve Support Ticket",
+        "actions": [
+            {
+                "action_name": "assign_team",
+                "action_params": [
+                    1
+                ]
+            },
+            {
+                "action_name": "remove_label",
+                "action_params": [
+                    "pending"
+                ]
+            },
+            {
+                "action_name": "add_label",
+                "action_params": [
+                    "resolved"
+                ]
+            },
+            {
+                "action_name": "send_message",
+                "action_params": [
+                    "Your issue has been resolved. If you need further help, just reply to this message."
+                ]
+            },
+            {
+                "action_name": "resolve_conversation",
+                "action_params": []
+            },
+            {
+                "action_name": "mute_conversation",
+                "action_params": []
+            }
+        ],
+        "visibility": "global"
+    },
+    {
+        "name": "Bug Report to Product & Engineering",
+        "actions": [
+            {
+                "action_name": "assign_team",
+                "action_params": [
+                    4
+                ]
+            },
+            {
+                "action_name": "add_label",
+                "action_params": [
+                    "bug"
+                ]
+            },
+            {
+                "action_name": "add_private_note",
+                "action_params": [
+                    "Reported bug, please triage with engineering."
+                ]
+            },
+            {
+                "action_name": "assign_team",
+                "action_params": [
+                    5
+                ]
+            }
+        ],
+        "visibility": "global"
+    },
+    {
+        "name": "Customer Success Follow-up",
+        "actions": [
+            {
+                "action_name": "assign_team",
+                "action_params": [
+                    3
+                ]
+            },
+            {
+                "action_name": "add_label",
+                "action_params": [
+                    "follow-up"
+                ]
+            },
+            {
+                "action_name": "snooze_conversation",
+                "action_params": [
+                    2880
+                ]
+            },
+            {
+                "action_name": "add_private_note",
+                "action_params": [
+                    "Follow up in 2 days."
+                ]
+            }
+        ],
+        "visibility": "global"
+    },
+    {
+        "name": "Sales Demo Request",
+        "actions": [
+            {
+                "action_name": "assign_team",
+                "action_params": [
+                    2
+                ]
+            },
+            {
+                "action_name": "add_label",
+                "action_params": [
+                    "demo-request"
+                ]
+            },
+            {
+                "action_name": "send_message",
+                "action_params": [
+                    "A sales representative will reach out to schedule your demo."
+                ]
+            }
+        ],
+        "visibility": "global"
+    },
+    {
+        "name": "Support: Awaiting Customer",
+        "actions": [
+            {
+                "action_name": "assign_team",
+                "action_params": [
+                    1
+                ]
+            },
+            {
+                "action_name": "add_label",
+                "action_params": [
+                    "awaiting-customer"
+                ]
+            },
+            {
+                "action_name": "snooze_conversation",
+                "action_params": [
+                    720
+                ]
+            },
+            {
+                "action_name": "add_private_note",
+                "action_params": [
+                    "Waiting for customer response."
+                ]
+            }
+        ],
+        "visibility": "global"
+    },
+    {
+        "name": "Marketing: Event Follow-up",
+        "actions": [
+            {
+                "action_name": "assign_team",
+                "action_params": [
+                    6
+                ]
+            },
+            {
+                "action_name": "add_label",
+                "action_params": [
+                    "event"
+                ]
+            },
+            {
+                "action_name": "send_message",
+                "action_params": [
+                    "Thank you for attending our event! Let us know if you have any questions."
+                ]
+            }
+        ],
+        "visibility": "global"
+    },
+    {
+        "name": "Product Feature Request",
+        "actions": [
+            {
+                "action_name": "assign_team",
+                "action_params": [
+                    4
+                ]
+            },
+            {
+                "action_name": "add_label",
+                "action_params": [
+                    "feature-request"
+                ]
+            },
+            {
+                "action_name": "add_private_note",
+                "action_params": [
+                    "Feature request submitted by customer."
+                ]
+            }
+        ],
+        "visibility": "global"
+    },
+    {
+        "name": "Engineering: Platform Outage",
+        "actions": [
+            {
+                "action_name": "assign_team",
+                "action_params": [
+                    5
+                ]
+            },
+            {
+                "action_name": "add_label",
+                "action_params": [
+                    "outage"
+                ]
+            },
+            {
+                "action_name": "change_priority",
+                "action_params": [
+                    "high"
+                ]
+            },
+            {
+                "action_name": "add_private_note",
+                "action_params": [
+                    "Platform outage reported. Immediate attention required."
+                ]
+            }
+        ],
+        "visibility": "global"
+    },
+    {
+        "name": "Customer Success: Renewal Reminder",
+        "actions": [
+            {
+                "action_name": "assign_team",
+                "action_params": [
+                    3
+                ]
+            },
+            {
+                "action_name": "add_label",
+                "action_params": [
+                    "renewal"
+                ]
+            },
+            {
+                "action_name": "send_message",
+                "action_params": [
+                    "Your subscription is up for renewal soon. Let us know if you have any questions!"
+                ]
+            }
+        ],
+        "visibility": "global"
+    },
+    {
+        "name": "Support: Close and Survey",
+        "actions": [
+            {
+                "action_name": "assign_team",
+                "action_params": [
+                    1
+                ]
+            },
+            {
+                "action_name": "add_label",
+                "action_params": [
+                    "closed"
+                ]
+            },
+            {
+                "action_name": "send_message",
+                "action_params": [
+                    "We are closing this ticket. Please take a moment to fill out our satisfaction survey: https://example.com/survey"
+                ]
+            },
+            {
+                "action_name": "resolve_conversation",
+                "action_params": []
+            }
+        ],
+        "visibility": "global"
+    }
+]

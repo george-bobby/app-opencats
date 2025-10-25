@@ -1,0 +1,724 @@
+{
+  "customer_returns": [
+    {
+      "id": 1,
+      "number": "CR524059303",
+      "stock_location_id": 2,
+      "created_at": "2025-04-10 16:42:22",
+      "updated_at": "2025-04-10 16:42:22",
+      "store_id": 1,
+      "public_metadata": {
+        "source": "website"
+      },
+      "private_metadata": {
+        "staff_notes": "Missing components noted during inspection"
+      },
+      "return_authorizations": [
+        31
+      ],
+      "associated_order_id": 47
+    },
+    {
+      "id": 2,
+      "number": "CR623804092",
+      "stock_location_id": 4,
+      "created_at": "2025-04-04 16:42:22",
+      "updated_at": "2025-04-04 16:42:22",
+      "store_id": 1,
+      "public_metadata": {
+        "source": "website",
+        "tags": [
+          "exchange",
+          "priority",
+          "damaged"
+        ]
+      },
+      "private_metadata": {
+        "staff_notes": "Items in good condition, eligible for resale"
+      },
+      "return_authorizations": [
+        33
+      ],
+      "associated_order_id": 54
+    },
+    {
+      "id": 3,
+      "number": "CR296234419",
+      "stock_location_id": 1,
+      "created_at": "2025-03-08 16:42:22",
+      "updated_at": "2025-03-08 16:42:22",
+      "store_id": 1,
+      "public_metadata": {
+        "source": "email",
+        "tags": [
+          "exchange",
+          "priority",
+          "incomplete"
+        ]
+      },
+      "private_metadata": {
+        "staff_notes": "Customer very upset about product quality",
+        "inspection_status": "pending"
+      },
+      "return_authorizations": [
+        45
+      ],
+      "associated_order_id": 76
+    },
+    {
+      "id": 4,
+      "number": "CR437505439",
+      "stock_location_id": 1,
+      "created_at": "2025-05-27 16:42:22",
+      "updated_at": "2025-05-27 16:42:22",
+      "store_id": 1,
+      "public_metadata": {
+        "source": "in_store",
+        "tags": [
+          "exchange",
+          "damaged",
+          "priority"
+        ]
+      },
+      "private_metadata": {
+        "staff_notes": "Package damaged during return shipping"
+      },
+      "return_authorizations": [
+        44
+      ],
+      "associated_order_id": 73
+    },
+    {
+      "id": 5,
+      "number": "CR725249370",
+      "stock_location_id": 1,
+      "created_at": "2025-08-22 16:42:22",
+      "updated_at": "2025-08-22 16:42:22",
+      "store_id": 1,
+      "public_metadata": {
+        "source": "phone",
+        "tags": [
+          "damaged"
+        ]
+      },
+      "private_metadata": {
+        "inspection_status": "passed"
+      },
+      "return_authorizations": [
+        28
+      ],
+      "associated_order_id": 42
+    },
+    {
+      "id": 6,
+      "number": "CR543471118",
+      "stock_location_id": 3,
+      "created_at": "2025-06-14 16:42:22",
+      "updated_at": "2025-06-14 16:42:22",
+      "store_id": 1,
+      "public_metadata": {
+        "source": "in_store",
+        "tags": [
+          "incomplete"
+        ]
+      },
+      "private_metadata": {
+        "staff_notes": "Customer very upset about product quality",
+        "inspection_status": "failed"
+      },
+      "return_authorizations": [
+        8
+      ],
+      "associated_order_id": 13
+    },
+    {
+      "id": 7,
+      "number": "CR067028246",
+      "stock_location_id": 4,
+      "created_at": "2025-09-02 16:42:22",
+      "updated_at": "2025-09-02 16:42:22",
+      "store_id": 1,
+      "public_metadata": {
+        "source": "phone",
+        "tags": [
+          "refund_pending",
+          "exchange",
+          "incomplete"
+        ]
+      },
+      "private_metadata": {
+        "staff_notes": "Customer very upset about product quality",
+        "inspection_status": "failed"
+      },
+      "return_authorizations": [
+        43
+      ],
+      "associated_order_id": 70
+    },
+    {
+      "id": 8,
+      "number": "CR502871258",
+      "stock_location_id": 2,
+      "created_at": "2025-07-03 16:42:22",
+      "updated_at": "2025-07-03 16:42:22",
+      "store_id": 1,
+      "public_metadata": {
+        "source": "phone"
+      },
+      "private_metadata": {
+        "staff_notes": "Package damaged during return shipping",
+        "inspection_status": "failed"
+      },
+      "return_authorizations": [
+        24
+      ],
+      "associated_order_id": 37
+    },
+    {
+      "id": 9,
+      "number": "CR796447546",
+      "stock_location_id": 2,
+      "created_at": "2025-05-14 16:42:22",
+      "updated_at": "2025-05-14 16:42:22",
+      "store_id": 1,
+      "public_metadata": {
+        "source": "phone",
+        "tags": [
+          "exchange"
+        ]
+      },
+      "private_metadata": {
+        "staff_notes": "Missing components noted during inspection",
+        "inspection_status": "failed"
+      },
+      "return_authorizations": [
+        43
+      ],
+      "associated_order_id": 70
+    },
+    {
+      "id": 10,
+      "number": "CR209858095",
+      "stock_location_id": 3,
+      "created_at": "2025-05-27 16:42:22",
+      "updated_at": "2025-05-27 16:42:22",
+      "store_id": 1,
+      "public_metadata": {
+        "source": "email"
+      },
+      "private_metadata": {
+        "staff_notes": "Items in good condition, eligible for resale",
+        "inspection_status": "failed"
+      },
+      "return_authorizations": [
+        25
+      ],
+      "associated_order_id": 38
+    },
+    {
+      "id": 11,
+      "number": "CR280232105",
+      "stock_location_id": 2,
+      "created_at": "2025-03-27 16:42:22",
+      "updated_at": "2025-03-27 16:42:22",
+      "store_id": 1,
+      "public_metadata": {
+        "source": "email"
+      },
+      "private_metadata": {
+        "staff_notes": "Items in good condition, eligible for resale",
+        "inspection_status": "pending"
+      },
+      "return_authorizations": [
+        39
+      ],
+      "associated_order_id": 64
+    },
+    {
+      "id": 12,
+      "number": "CR381255806",
+      "stock_location_id": 2,
+      "created_at": "2025-03-08 16:42:22",
+      "updated_at": "2025-03-08 16:42:22",
+      "store_id": 1,
+      "public_metadata": {
+        "source": "website",
+        "tags": [
+          "damaged",
+          "priority"
+        ]
+      },
+      "private_metadata": {
+        "staff_notes": "Items in good condition, eligible for resale"
+      },
+      "return_authorizations": [
+        27
+      ],
+      "associated_order_id": 41
+    },
+    {
+      "id": 13,
+      "number": "CR078077204",
+      "stock_location_id": 3,
+      "created_at": "2025-08-22 16:42:22",
+      "updated_at": "2025-08-22 16:42:22",
+      "store_id": 1,
+      "public_metadata": {
+        "source": "phone"
+      },
+      "private_metadata": {
+        "staff_notes": "Package damaged during return shipping",
+        "inspection_status": "failed"
+      },
+      "return_authorizations": [
+        49
+      ],
+      "associated_order_id": 82
+    },
+    {
+      "id": 14,
+      "number": "CR206115800",
+      "stock_location_id": 4,
+      "created_at": "2025-08-25 16:42:22",
+      "updated_at": "2025-08-25 16:42:22",
+      "store_id": 1,
+      "public_metadata": {
+        "source": "email",
+        "tags": [
+          "exchange",
+          "priority",
+          "refund_pending"
+        ]
+      },
+      "private_metadata": {
+        "staff_notes": "Items in good condition, eligible for resale",
+        "inspection_status": "passed"
+      },
+      "return_authorizations": [
+        38
+      ],
+      "associated_order_id": 60
+    },
+    {
+      "id": 15,
+      "number": "CR740838356",
+      "stock_location_id": 4,
+      "created_at": "2025-06-01 16:42:22",
+      "updated_at": "2025-06-01 16:42:22",
+      "store_id": 1,
+      "public_metadata": {
+        "source": "email",
+        "tags": [
+          "damaged"
+        ]
+      },
+      "private_metadata": {
+        "staff_notes": "Package damaged during return shipping"
+      },
+      "return_authorizations": [
+        16
+      ],
+      "associated_order_id": 24
+    },
+    {
+      "id": 16,
+      "number": "CR180780577",
+      "stock_location_id": 1,
+      "created_at": "2025-08-09 16:42:22",
+      "updated_at": "2025-08-09 16:42:22",
+      "store_id": 1,
+      "public_metadata": {
+        "source": "email",
+        "tags": [
+          "exchange",
+          "refund_pending",
+          "damaged"
+        ]
+      },
+      "private_metadata": {
+        "staff_notes": "Customer very upset about product quality",
+        "inspection_status": "pending"
+      },
+      "return_authorizations": [
+        3
+      ],
+      "associated_order_id": 3
+    },
+    {
+      "id": 17,
+      "number": "CR406301497",
+      "stock_location_id": 2,
+      "created_at": "2025-04-09 16:42:22",
+      "updated_at": "2025-04-09 16:42:22",
+      "store_id": 1,
+      "public_metadata": {
+        "source": "in_store",
+        "tags": [
+          "exchange"
+        ]
+      },
+      "private_metadata": {
+        "staff_notes": "Customer very upset about product quality",
+        "inspection_status": "passed"
+      },
+      "return_authorizations": [
+        53
+      ],
+      "associated_order_id": 87
+    },
+    {
+      "id": 18,
+      "number": "CR616007692",
+      "stock_location_id": 3,
+      "created_at": "2025-05-08 16:42:22",
+      "updated_at": "2025-05-08 16:42:22",
+      "store_id": 1,
+      "public_metadata": {
+        "source": "website",
+        "tags": [
+          "refund_pending",
+          "exchange"
+        ]
+      },
+      "private_metadata": {
+        "staff_notes": "Items in good condition, eligible for resale",
+        "inspection_status": "failed"
+      },
+      "return_authorizations": [
+        11
+      ],
+      "associated_order_id": 16
+    },
+    {
+      "id": 19,
+      "number": "CR941103149",
+      "stock_location_id": 1,
+      "created_at": "2025-08-23 16:42:22",
+      "updated_at": "2025-08-23 16:42:22",
+      "store_id": 1,
+      "public_metadata": {
+        "source": "email",
+        "tags": [
+          "refund_pending"
+        ]
+      },
+      "private_metadata": {
+        "staff_notes": "Return processed outside normal policy window",
+        "inspection_status": "passed"
+      },
+      "return_authorizations": [
+        38
+      ],
+      "associated_order_id": 60
+    },
+    {
+      "id": 20,
+      "number": "CR567798212",
+      "stock_location_id": 2,
+      "created_at": "2025-06-18 16:42:22",
+      "updated_at": "2025-06-18 16:42:22",
+      "store_id": 1,
+      "public_metadata": {
+        "source": "phone",
+        "tags": [
+          "exchange",
+          "priority",
+          "damaged"
+        ]
+      },
+      "private_metadata": {
+        "staff_notes": "Items in good condition, eligible for resale",
+        "inspection_status": "failed"
+      },
+      "return_authorizations": [
+        11
+      ],
+      "associated_order_id": 16
+    },
+    {
+      "id": 21,
+      "number": "CR203242356",
+      "stock_location_id": 2,
+      "created_at": "2025-05-20 16:42:22",
+      "updated_at": "2025-05-20 16:42:22",
+      "store_id": 1,
+      "public_metadata": {
+        "source": "phone",
+        "tags": [
+          "refund_pending",
+          "priority",
+          "damaged"
+        ]
+      },
+      "private_metadata": {
+        "staff_notes": "Items in good condition, eligible for resale"
+      },
+      "return_authorizations": [
+        49
+      ],
+      "associated_order_id": 82
+    },
+    {
+      "id": 22,
+      "number": "CR408245362",
+      "stock_location_id": 4,
+      "created_at": "2025-04-01 16:42:22",
+      "updated_at": "2025-04-01 16:42:22",
+      "store_id": 1,
+      "public_metadata": {
+        "source": "phone",
+        "tags": [
+          "refund_pending",
+          "exchange",
+          "incomplete"
+        ]
+      },
+      "private_metadata": {
+        "staff_notes": "Package damaged during return shipping",
+        "inspection_status": "failed"
+      },
+      "return_authorizations": [
+        47
+      ],
+      "associated_order_id": 80
+    },
+    {
+      "id": 23,
+      "number": "CR877603610",
+      "stock_location_id": 4,
+      "created_at": "2025-07-23 16:42:22",
+      "updated_at": "2025-07-23 16:42:22",
+      "store_id": 1,
+      "public_metadata": {
+        "source": "website",
+        "tags": [
+          "incomplete",
+          "exchange",
+          "refund_pending"
+        ]
+      },
+      "private_metadata": {
+        "staff_notes": "Return processed outside normal policy window"
+      },
+      "return_authorizations": [
+        28
+      ],
+      "associated_order_id": 42
+    },
+    {
+      "id": 24,
+      "number": "CR055678361",
+      "stock_location_id": 1,
+      "created_at": "2025-06-14 16:42:22",
+      "updated_at": "2025-06-14 16:42:22",
+      "store_id": 1,
+      "public_metadata": {
+        "source": "in_store",
+        "tags": [
+          "priority",
+          "damaged"
+        ]
+      },
+      "private_metadata": {
+        "staff_notes": "Return processed outside normal policy window",
+        "inspection_status": "pending"
+      },
+      "return_authorizations": [
+        22
+      ],
+      "associated_order_id": 33
+    },
+    {
+      "id": 25,
+      "number": "CR312145441",
+      "stock_location_id": 4,
+      "created_at": "2025-08-28 16:42:22",
+      "updated_at": "2025-08-28 16:42:22",
+      "store_id": 1,
+      "public_metadata": {
+        "source": "phone",
+        "tags": [
+          "exchange",
+          "refund_pending"
+        ]
+      },
+      "private_metadata": {
+        "staff_notes": "Package damaged during return shipping"
+      },
+      "return_authorizations": [
+        21
+      ],
+      "associated_order_id": 32
+    },
+    {
+      "id": 26,
+      "number": "CR474303721",
+      "stock_location_id": 1,
+      "created_at": "2025-05-25 16:42:22",
+      "updated_at": "2025-05-25 16:42:22",
+      "store_id": 1,
+      "public_metadata": {
+        "source": "phone",
+        "tags": [
+          "damaged",
+          "exchange"
+        ]
+      },
+      "private_metadata": {
+        "staff_notes": "Return processed outside normal policy window"
+      },
+      "return_authorizations": [
+        1
+      ],
+      "associated_order_id": 1
+    },
+    {
+      "id": 27,
+      "number": "CR793011310",
+      "stock_location_id": 1,
+      "created_at": "2025-08-19 16:42:22",
+      "updated_at": "2025-08-19 16:42:22",
+      "store_id": 1,
+      "public_metadata": {
+        "source": "website",
+        "tags": [
+          "incomplete",
+          "damaged"
+        ]
+      },
+      "private_metadata": null,
+      "return_authorizations": [
+        25
+      ],
+      "associated_order_id": 38
+    },
+    {
+      "id": 28,
+      "number": "CR709758795",
+      "stock_location_id": 4,
+      "created_at": "2025-05-15 16:42:22",
+      "updated_at": "2025-05-15 16:42:22",
+      "store_id": 1,
+      "public_metadata": {
+        "source": "in_store",
+        "tags": [
+          "incomplete"
+        ]
+      },
+      "private_metadata": {
+        "staff_notes": "Return processed outside normal policy window",
+        "inspection_status": "passed"
+      },
+      "return_authorizations": [
+        30
+      ],
+      "associated_order_id": 45
+    },
+    {
+      "id": 29,
+      "number": "CR750397292",
+      "stock_location_id": 3,
+      "created_at": "2025-05-20 16:42:22",
+      "updated_at": "2025-05-20 16:42:22",
+      "store_id": 1,
+      "public_metadata": {
+        "source": "in_store",
+        "tags": [
+          "damaged",
+          "incomplete"
+        ]
+      },
+      "private_metadata": {
+        "staff_notes": "Items in good condition, eligible for resale",
+        "inspection_status": "failed"
+      },
+      "return_authorizations": [
+        38
+      ],
+      "associated_order_id": 60
+    },
+    {
+      "id": 30,
+      "number": "CR503513917",
+      "stock_location_id": 4,
+      "created_at": "2025-07-02 16:42:22",
+      "updated_at": "2025-07-02 16:42:22",
+      "store_id": 1,
+      "public_metadata": {
+        "source": "in_store",
+        "tags": [
+          "refund_pending",
+          "priority",
+          "exchange"
+        ]
+      },
+      "private_metadata": {
+        "inspection_status": "passed"
+      },
+      "return_authorizations": [
+        3
+      ],
+      "associated_order_id": 3
+    },
+    {
+      "id": 31,
+      "number": "CR455029715",
+      "stock_location_id": 3,
+      "created_at": "2025-07-16 16:42:22",
+      "updated_at": "2025-07-16 16:42:22",
+      "store_id": 1,
+      "public_metadata": {
+        "source": "phone",
+        "tags": [
+          "exchange"
+        ]
+      },
+      "private_metadata": {
+        "staff_notes": "Items in good condition, eligible for resale",
+        "inspection_status": "pending"
+      },
+      "return_authorizations": [
+        31
+      ],
+      "associated_order_id": 47
+    },
+    {
+      "id": 32,
+      "number": "CR087788608",
+      "stock_location_id": 1,
+      "created_at": "2025-04-23 16:42:22",
+      "updated_at": "2025-04-23 16:42:22",
+      "store_id": 1,
+      "public_metadata": {
+        "source": "website"
+      },
+      "private_metadata": {
+        "staff_notes": "Customer very upset about product quality",
+        "inspection_status": "pending"
+      },
+      "return_authorizations": [
+        11
+      ],
+      "associated_order_id": 16
+    },
+    {
+      "id": 33,
+      "number": "CR967134937",
+      "stock_location_id": 3,
+      "created_at": "2025-07-18 16:42:22",
+      "updated_at": "2025-07-18 16:42:22",
+      "store_id": 1,
+      "public_metadata": {
+        "source": "website"
+      },
+      "private_metadata": {
+        "staff_notes": "Customer very upset about product quality",
+        "inspection_status": "passed"
+      },
+      "return_authorizations": [
+        36
+      ],
+      "associated_order_id": 58
+    }
+  ]
+}

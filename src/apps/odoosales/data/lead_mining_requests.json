@@ -1,0 +1,90 @@
+[
+    {
+        "name_prefix": "Retail Expansion Q2",
+        "leads_count": 8,
+        "country_names": [
+            "United States",
+            "Canada"
+        ],
+        "industry_names": [
+            "Retailing",
+            "Consumer Staples"
+        ],
+        "sales_team_name": "East Coast Team",
+        "salesperson_name": "Emily Johnson",
+        "tag_names": [
+            "Holiday Promotion",
+            "New Customer Discount"
+        ]
+    },
+    {
+        "name_prefix": "Consumer Goods Leads Summer",
+        "leads_count": 7,
+        "country_names": [
+            "United States"
+        ],
+        "industry_names": [
+            "Consumer Discretionary",
+            "Consumer Durables & Apparel"
+        ],
+        "sales_team_name": "SMB Team",
+        "salesperson_name": "Michael Smith",
+        "tag_names": [
+            "Limited Time Offer",
+            "Flash Sale"
+        ]
+    },
+    {
+        "name_prefix": "Food & Beverage Targeting",
+        "leads_count": 6,
+        "country_names": [
+            "United States",
+            "Mexico"
+        ],
+        "industry_names": [
+            "Food, Beverage & Tobacco",
+            "Consumer Staples"
+        ],
+        "sales_team_name": "West Coast Team",
+        "salesperson_name": "Jessica Williams",
+        "tag_names": [
+            "Bulk Purchase Offer",
+            "Free Shipping"
+        ]
+    },
+    {
+        "name_prefix": "Tech Hardware Retail Push",
+        "leads_count": 5,
+        "country_names": [
+            "United States"
+        ],
+        "industry_names": [
+            "Technology Hardware & Equipment",
+            "Retailing"
+        ],
+        "sales_team_name": "Enterprise Accounts",
+        "salesperson_name": "David Brown",
+        "tag_names": [
+            "Referral Bonus",
+            "Loyalty Program"
+        ]
+    },
+    {
+        "name_prefix": "Consumer Services Outreach",
+        "leads_count": 9,
+        "country_names": [
+            "United States",
+            "United Kingdom"
+        ],
+        "industry_names": [
+            "Consumer Services",
+            "Consumer Discretionary"
+        ],
+        "sales_team_name": "Channel Partners",
+        "salesperson_name": "Sarah Jones",
+        "tag_names": [
+            "Seasonal Sale",
+            "Clearance Sale"
+        ]
+    }
+]

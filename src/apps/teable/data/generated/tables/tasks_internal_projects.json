@@ -1,0 +1,2560 @@
+{
+  "table_name": "Tasks",
+  "parent_workspace_name": "Internal Projects",
+  "parent_base_name": "Internal Projects",
+  "records": [
+    {
+      "fields": {
+        "Name": "Create AI-driven ad content",
+        "Due Date": "2025-07-05",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 12.5,
+        "Logged Hours": 0,
+        "Task Type": "Content",
+        "Tags": [
+          "AI Enhancement",
+          "Campaign Related"
+        ],
+        "Sprint": "SMT-02",
+        "Created Date": "2024-09-21"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Redesign client landing pages",
+        "Due Date": "2025-07-01",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Estimated Hours": 20,
+        "Logged Hours": 5.5,
+        "Task Type": "Design",
+        "Tags": [
+          "Client Deliverable",
+          "Creative"
+        ],
+        "Sprint": "SMT-03",
+        "Created Date": "2025-01-10"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop marketing data dashboard",
+        "Due Date": "2025-07-10",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 35,
+        "Logged Hours": 0,
+        "Task Type": "Dev",
+        "Tags": [
+          "Analytics",
+          "AI Enhancement"
+        ],
+        "Sprint": "SMT-04",
+        "Created Date": "2025-02-15"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Write blog posts for new campaign",
+        "Due Date": "2025-06-30",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Estimated Hours": 8,
+        "Logged Hours": 3,
+        "Task Type": "Content",
+        "Tags": [
+          "Campaign Related",
+          "Training"
+        ],
+        "Sprint": "SMT-01",
+        "Created Date": "2025-03-05"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Fix technical SEO issues",
+        "Due Date": "2025-07-07",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 15,
+        "Logged Hours": 0,
+        "Task Type": "Dev",
+        "Tags": [
+          "Technical Debt",
+          "Urgent"
+        ],
+        "Sprint": "SMT-05",
+        "Created Date": "2024-11-28"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design new social media creatives",
+        "Due Date": "2025-07-03",
+        "Status": "Done",
+        "Priority": "Low",
+        "Estimated Hours": 10,
+        "Logged Hours": 10.5,
+        "Task Type": "Design",
+        "Tags": [
+          "Creative",
+          "Campaign Related"
+        ],
+        "Sprint": "SMT-02",
+        "Created Date": "2024-12-15"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Implement AI chatbot for client",
+        "Due Date": "2025-07-15",
+        "Status": "In Progress",
+        "Priority": "High",
+        "Estimated Hours": 40,
+        "Logged Hours": 18,
+        "Task Type": "Dev",
+        "Tags": [
+          "AI Enhancement",
+          "Client Deliverable"
+        ],
+        "Sprint": "SMT-06",
+        "Created Date": "2025-01-25"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Optimize email marketing sequences",
+        "Due Date": "2025-07-08",
+        "Status": "To Do",
+        "Priority": "Medium",
+        "Estimated Hours": 9,
+        "Logged Hours": 0,
+        "Task Type": "Content",
+        "Tags": [
+          "Campaign Related",
+          "Analytics"
+        ],
+        "Sprint": "SMT-04",
+        "Created Date": "2025-04-02"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Create training materials for new tool",
+        "Due Date": "2025-06-28",
+        "Status": "Done",
+        "Priority": "Low",
+        "Estimated Hours": 7,
+        "Logged Hours": 7,
+        "Task Type": "Content",
+        "Tags": [
+          "Training",
+          "Documentation"
+        ],
+        "Sprint": "SMT-01",
+        "Created Date": "2024-10-11"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Fix bugs in campaign analytics app",
+        "Due Date": "2025-07-12",
+        "Status": "In Progress",
+        "Priority": "High",
+        "Estimated Hours": 25,
+        "Logged Hours": 10,
+        "Task Type": "Dev",
+        "Tags": [
+          "Technical Debt",
+          "Analytics"
+        ],
+        "Sprint": "SMT-05",
+        "Created Date": "2024-12-30"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Conceptualize new brand visuals",
+        "Due Date": "2025-07-14",
+        "Status": "To Do",
+        "Priority": "Medium",
+        "Estimated Hours": 18,
+        "Logged Hours": 0,
+        "Task Type": "Design",
+        "Tags": [
+          "Creative",
+          "Innovation"
+        ],
+        "Sprint": "SMT-03",
+        "Created Date": "2025-03-21"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Document AI model implementation",
+        "Due Date": "2025-07-09",
+        "Status": "In Progress",
+        "Priority": "Low",
+        "Estimated Hours": 12,
+        "Logged Hours": 4,
+        "Task Type": "Content",
+        "Tags": [
+          "Documentation",
+          "AI Enhancement"
+        ],
+        "Sprint": "SMT-06",
+        "Created Date": "2025-02-08"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Improve internal workflow automation",
+        "Due Date": "2025-07-11",
+        "Status": "To Do",
+        "Priority": "Medium",
+        "Estimated Hours": 22,
+        "Logged Hours": 0,
+        "Task Type": "Dev",
+        "Tags": [
+          "Internal Process",
+          "Innovation"
+        ],
+        "Sprint": "SMT-07",
+        "Created Date": "2024-11-20"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Create social media video ads",
+        "Due Date": "2025-07-04",
+        "Status": "Done",
+        "Priority": "Medium",
+        "Estimated Hours": 14,
+        "Logged Hours": 14,
+        "Task Type": "Design",
+        "Tags": [
+          "Creative",
+          "Campaign Related"
+        ],
+        "Sprint": "SMT-02",
+        "Created Date": "2025-05-12"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Write FAQs for client portal",
+        "Due Date": "2025-06-29",
+        "Status": "Done",
+        "Priority": "Low",
+        "Estimated Hours": 5,
+        "Logged Hours": 5,
+        "Task Type": "Content",
+        "Tags": [
+          "Documentation",
+          "Client Deliverable"
+        ],
+        "Sprint": "SMT-01",
+        "Created Date": "2025-01-15"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Refactor legacy campaign code",
+        "Due Date": "2025-07-13",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 30,
+        "Logged Hours": 0,
+        "Task Type": "Dev",
+        "Tags": [
+          "Technical Debt"
+        ],
+        "Sprint": "SMT-05",
+        "Created Date": "2024-09-30"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design event branding assets",
+        "Due Date": "2025-07-06",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Estimated Hours": 16,
+        "Logged Hours": 8,
+        "Task Type": "Design",
+        "Tags": [
+          "Client Deliverable",
+          "Creative"
+        ],
+        "Sprint": "SMT-03",
+        "Created Date": "2025-04-10"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Create AI campaign performance report",
+        "Due Date": "2025-07-02",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 11,
+        "Logged Hours": 0,
+        "Task Type": "Content",
+        "Tags": [
+          "AI Enhancement",
+          "Analytics"
+        ],
+        "Sprint": "SMT-04",
+        "Created Date": "2025-03-30"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Train team on new marketing tools",
+        "Due Date": "2025-07-16",
+        "Status": "To Do",
+        "Priority": "Low",
+        "Estimated Hours": 9,
+        "Logged Hours": 0,
+        "Task Type": "Content",
+        "Tags": [
+          "Training",
+          "Internal Process"
+        ],
+        "Sprint": "SMT-07",
+        "Created Date": "2024-10-25"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop new landing page features",
+        "Due Date": "2025-07-17",
+        "Status": "In Progress",
+        "Priority": "High",
+        "Estimated Hours": 38,
+        "Logged Hours": 20,
+        "Task Type": "Dev",
+        "Tags": [
+          "Client Deliverable",
+          "Innovation"
+        ],
+        "Sprint": "SMT-06",
+        "Created Date": "2025-02-22"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design newsletter template",
+        "Due Date": "2025-07-18",
+        "Status": "To Do",
+        "Priority": "Medium",
+        "Estimated Hours": 10,
+        "Logged Hours": 0,
+        "Task Type": "Design",
+        "Tags": [
+          "Creative",
+          "Campaign Related"
+        ],
+        "Sprint": "SMT-01",
+        "Created Date": "2025-05-03"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Content audit for website",
+        "Due Date": "2025-07-15",
+        "Status": "Done",
+        "Priority": "Medium",
+        "Estimated Hours": 13,
+        "Logged Hours": 13,
+        "Task Type": "Content",
+        "Tags": [
+          "Documentation",
+          "Campaign Related"
+        ],
+        "Sprint": "SMT-02",
+        "Created Date": "2025-01-05"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Fix responsive UI bugs",
+        "Due Date": "2025-07-14",
+        "Status": "In Progress",
+        "Priority": "High",
+        "Estimated Hours": 28,
+        "Logged Hours": 12,
+        "Task Type": "Dev",
+        "Tags": [
+          "Technical Debt",
+          "Urgent"
+        ],
+        "Sprint": "SMT-05",
+        "Created Date": "2024-12-05"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Create AI-powered content calendar",
+        "Due Date": "2025-07-19",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 15,
+        "Logged Hours": 0,
+        "Task Type": "Content",
+        "Tags": [
+          "AI Enhancement",
+          "Innovation"
+        ],
+        "Sprint": "SMT-04",
+        "Created Date": "2025-03-12"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design client pitch decks",
+        "Due Date": "2025-07-08",
+        "Status": "Done",
+        "Priority": "Medium",
+        "Estimated Hours": 20,
+        "Logged Hours": 20,
+        "Task Type": "Design",
+        "Tags": [
+          "Client Deliverable",
+          "Creative"
+        ],
+        "Sprint": "SMT-03",
+        "Created Date": "2024-11-10"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Update marketing automation scripts",
+        "Due Date": "2025-07-20",
+        "Status": "To Do",
+        "Priority": "Medium",
+        "Estimated Hours": 21,
+        "Logged Hours": 0,
+        "Task Type": "Dev",
+        "Tags": [
+          "Internal Process",
+          "Technical Debt"
+        ],
+        "Sprint": "SMT-07",
+        "Created Date": "2025-02-01"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Produce video content for campaign",
+        "Due Date": "2025-07-21",
+        "Status": "In Progress",
+        "Priority": "High",
+        "Estimated Hours": 30,
+        "Logged Hours": 14,
+        "Task Type": "Content",
+        "Tags": [
+          "Creative",
+          "Campaign Related"
+        ],
+        "Sprint": "SMT-01",
+        "Created Date": "2025-04-15"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Document new API endpoints",
+        "Due Date": "2025-07-22",
+        "Status": "To Do",
+        "Priority": "Low",
+        "Estimated Hours": 10,
+        "Logged Hours": 0,
+        "Task Type": "Content",
+        "Tags": [
+          "Documentation",
+          "Technical Debt"
+        ],
+        "Sprint": "SMT-06",
+        "Created Date": "2024-09-27"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design user experience flow",
+        "Due Date": "2025-07-23",
+        "Status": "To Do",
+        "Priority": "Medium",
+        "Estimated Hours": 17,
+        "Logged Hours": 0,
+        "Task Type": "Design",
+        "Tags": [
+          "Creative",
+          "Innovation"
+        ],
+        "Sprint": "SMT-02",
+        "Created Date": "2025-01-18"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Implement client feedback system",
+        "Due Date": "2025-07-24",
+        "Status": "In Progress",
+        "Priority": "High",
+        "Estimated Hours": 27,
+        "Logged Hours": 10,
+        "Task Type": "Dev",
+        "Tags": [
+          "Client Deliverable",
+          "Internal Process"
+        ],
+        "Sprint": "SMT-05",
+        "Created Date": "2025-03-01"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Create AI-based keyword strategy",
+        "Due Date": "2025-07-25",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 13,
+        "Logged Hours": 0,
+        "Task Type": "Content",
+        "Tags": [
+          "AI Enhancement",
+          "Analytics"
+        ],
+        "Sprint": "SMT-04",
+        "Created Date": "2024-10-17"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design promotional email graphics",
+        "Due Date": "2025-07-26",
+        "Status": "Done",
+        "Priority": "Low",
+        "Estimated Hours": 9,
+        "Logged Hours": 9,
+        "Task Type": "Design",
+        "Tags": [
+          "Creative",
+          "Campaign Related"
+        ],
+        "Sprint": "SMT-03",
+        "Created Date": "2025-05-06"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Fix database performance issues",
+        "Due Date": "2025-07-27",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 35,
+        "Logged Hours": 0,
+        "Task Type": "Dev",
+        "Tags": [
+          "Technical Debt",
+          "Urgent"
+        ],
+        "Sprint": "SMT-07",
+        "Created Date": "2024-11-22"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Write case study for recent client",
+        "Due Date": "2025-07-28",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Estimated Hours": 15,
+        "Logged Hours": 7,
+        "Task Type": "Content",
+        "Tags": [
+          "Client Deliverable",
+          "Documentation"
+        ],
+        "Sprint": "SMT-01",
+        "Created Date": "2025-02-10"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design new brand logo",
+        "Due Date": "2025-07-29",
+        "Status": "Done",
+        "Priority": "Medium",
+        "Estimated Hours": 18,
+        "Logged Hours": 18,
+        "Task Type": "Design",
+        "Tags": [
+          "Creative",
+          "Innovation"
+        ],
+        "Sprint": "SMT-02",
+        "Created Date": "2024-12-12"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop client onboarding workflow",
+        "Due Date": "2025-07-30",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 30,
+        "Logged Hours": 0,
+        "Task Type": "Dev",
+        "Tags": [
+          "Client Deliverable",
+          "Internal Process"
+        ],
+        "Sprint": "SMT-05",
+        "Created Date": "2025-03-18"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Create campaign performance videos",
+        "Due Date": "2025-07-31",
+        "Status": "To Do",
+        "Priority": "Medium",
+        "Estimated Hours": 12,
+        "Logged Hours": 0,
+        "Task Type": "Content",
+        "Tags": [
+          "Creative",
+          "Campaign Related"
+        ],
+        "Sprint": "SMT-06",
+        "Created Date": "2024-10-28"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Update social media strategy doc",
+        "Due Date": "2025-08-01",
+        "Status": "In Progress",
+        "Priority": "Low",
+        "Estimated Hours": 8,
+        "Logged Hours": 4,
+        "Task Type": "Content",
+        "Tags": [
+          "Documentation",
+          "Campaign Related"
+        ],
+        "Sprint": "SMT-03",
+        "Created Date": "2025-04-19"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Fix integration bugs in CRM",
+        "Due Date": "2025-08-02",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 22,
+        "Logged Hours": 0,
+        "Task Type": "Dev",
+        "Tags": [
+          "Technical Debt",
+          "Urgent"
+        ],
+        "Sprint": "SMT-07",
+        "Created Date": "2024-09-15"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design infographic assets",
+        "Due Date": "2025-08-03",
+        "Status": "Done",
+        "Priority": "Low",
+        "Estimated Hours": 10,
+        "Logged Hours": 10,
+        "Task Type": "Design",
+        "Tags": [
+          "Creative",
+          "Client Deliverable"
+        ],
+        "Sprint": "SMT-01",
+        "Created Date": "2025-01-29"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop AI content personalization",
+        "Due Date": "2025-08-04",
+        "Status": "In Progress",
+        "Priority": "High",
+        "Estimated Hours": 40,
+        "Logged Hours": 22,
+        "Task Type": "Dev",
+        "Tags": [
+          "AI Enhancement",
+          "Innovation"
+        ],
+        "Sprint": "SMT-05",
+        "Created Date": "2025-02-26"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Write scripts for video ads",
+        "Due Date": "2025-08-05",
+        "Status": "To Do",
+        "Priority": "Medium",
+        "Estimated Hours": 14,
+        "Logged Hours": 0,
+        "Task Type": "Content",
+        "Tags": [
+          "Creative",
+          "Campaign Related"
+        ],
+        "Sprint": "SMT-06",
+        "Created Date": "2024-11-05"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Document software update procedures",
+        "Due Date": "2025-08-06",
+        "Status": "To Do",
+        "Priority": "Low",
+        "Estimated Hours": 11,
+        "Logged Hours": 0,
+        "Task Type": "Content",
+        "Tags": [
+          "Documentation",
+          "Internal Process"
+        ],
+        "Sprint": "SMT-02",
+        "Created Date": "2025-03-14"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design webinar promotional materials",
+        "Due Date": "2025-08-07",
+        "Status": "Done",
+        "Priority": "Low",
+        "Estimated Hours": 13,
+        "Logged Hours": 13,
+        "Task Type": "Design",
+        "Tags": [
+          "Creative",
+          "Training"
+        ],
+        "Sprint": "SMT-01",
+        "Created Date": "2024-12-03"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Refactor analytics module",
+        "Due Date": "2025-08-08",
+        "Status": "In Progress",
+        "Priority": "High",
+        "Estimated Hours": 28,
+        "Logged Hours": 15,
+        "Task Type": "Dev",
+        "Tags": [
+          "Technical Debt",
+          "Analytics"
+        ],
+        "Sprint": "SMT-07",
+        "Created Date": "2024-10-22"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Create AI-powered market analysis",
+        "Due Date": "2025-08-09",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 19,
+        "Logged Hours": 0,
+        "Task Type": "Content",
+        "Tags": [
+          "AI Enhancement",
+          "Innovation"
+        ],
+        "Sprint": "SMT-05",
+        "Created Date": "2025-01-08"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design templates for client reports",
+        "Due Date": "2025-08-10",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Estimated Hours": 15,
+        "Logged Hours": 7,
+        "Task Type": "Design",
+        "Tags": [
+          "Client Deliverable",
+          "Creative"
+        ],
+        "Sprint": "SMT-03",
+        "Created Date": "2025-04-07"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Fix security vulnerabilities",
+        "Due Date": "2025-08-11",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 33,
+        "Logged Hours": 0,
+        "Task Type": "Dev",
+        "Tags": [
+          "Technical Debt",
+          "Urgent"
+        ],
+        "Sprint": "SMT-06",
+        "Created Date": "2024-09-12"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Write newsletter content",
+        "Due Date": "2025-08-12",
+        "Status": "Done",
+        "Priority": "Low",
+        "Estimated Hours": 7,
+        "Logged Hours": 7,
+        "Task Type": "Content",
+        "Tags": [
+          "Campaign Related",
+          "Creative"
+        ],
+        "Sprint": "SMT-01",
+        "Created Date": "2025-02-18"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design social media banner ads",
+        "Due Date": "2025-08-13",
+        "Status": "To Do",
+        "Priority": "Medium",
+        "Estimated Hours": 11,
+        "Logged Hours": 0,
+        "Task Type": "Design",
+        "Tags": [
+          "Creative",
+          "Campaign Related"
+        ],
+        "Sprint": "SMT-02",
+        "Created Date": "2024-11-03"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop client feedback portal",
+        "Due Date": "2025-08-14",
+        "Status": "In Progress",
+        "Priority": "High",
+        "Estimated Hours": 29,
+        "Logged Hours": 13,
+        "Task Type": "Dev",
+        "Tags": [
+          "Client Deliverable",
+          "Internal Process"
+        ],
+        "Sprint": "SMT-05",
+        "Created Date": "2025-03-25"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Create AI-powered SEO audit",
+        "Due Date": "2025-08-15",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 17,
+        "Logged Hours": 0,
+        "Task Type": "Content",
+        "Tags": [
+          "AI Enhancement",
+          "Analytics"
+        ],
+        "Sprint": "SMT-06",
+        "Created Date": "2025-01-22"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design event invitation graphics",
+        "Due Date": "2025-08-16",
+        "Status": "Done",
+        "Priority": "Low",
+        "Estimated Hours": 9,
+        "Logged Hours": 9,
+        "Task Type": "Design",
+        "Tags": [
+          "Creative",
+          "Client Deliverable"
+        ],
+        "Sprint": "SMT-03",
+        "Created Date": "2024-12-27"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Fix bugs in marketing automation",
+        "Due Date": "2025-08-17",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 26,
+        "Logged Hours": 0,
+        "Task Type": "Dev",
+        "Tags": [
+          "Technical Debt",
+          "Urgent"
+        ],
+        "Sprint": "SMT-07",
+        "Created Date": "2024-10-01"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Write client success stories",
+        "Due Date": "2025-08-18",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Estimated Hours": 14,
+        "Logged Hours": 6,
+        "Task Type": "Content",
+        "Tags": [
+          "Client Deliverable",
+          "Documentation"
+        ],
+        "Sprint": "SMT-01",
+        "Created Date": "2025-04-11"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design new product packaging",
+        "Due Date": "2025-08-19",
+        "Status": "Done",
+        "Priority": "Medium",
+        "Estimated Hours": 20,
+        "Logged Hours": 20,
+        "Task Type": "Design",
+        "Tags": [
+          "Creative",
+          "Innovation"
+        ],
+        "Sprint": "SMT-02",
+        "Created Date": "2025-01-01"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop API integration for CRM",
+        "Due Date": "2025-08-20",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 32,
+        "Logged Hours": 0,
+        "Task Type": "Dev",
+        "Tags": [
+          "Client Deliverable",
+          "Internal Process"
+        ],
+        "Sprint": "SMT-05",
+        "Created Date": "2024-11-11"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Create campaign testimonial videos",
+        "Due Date": "2025-08-21",
+        "Status": "To Do",
+        "Priority": "Medium",
+        "Estimated Hours": 13,
+        "Logged Hours": 0,
+        "Task Type": "Content",
+        "Tags": [
+          "Creative",
+          "Campaign Related"
+        ],
+        "Sprint": "SMT-06",
+        "Created Date": "2025-02-05"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Update marketing team wiki",
+        "Due Date": "2025-08-22",
+        "Status": "In Progress",
+        "Priority": "Low",
+        "Estimated Hours": 8,
+        "Logged Hours": 4,
+        "Task Type": "Content",
+        "Tags": [
+          "Documentation",
+          "Internal Process"
+        ],
+        "Sprint": "SMT-03",
+        "Created Date": "2025-03-27"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Fix UI glitches on website",
+        "Due Date": "2025-08-23",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 24,
+        "Logged Hours": 0,
+        "Task Type": "Dev",
+        "Tags": [
+          "Technical Debt",
+          "Urgent"
+        ],
+        "Sprint": "SMT-07",
+        "Created Date": "2024-09-20"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design social media icons",
+        "Due Date": "2025-08-24",
+        "Status": "Done",
+        "Priority": "Low",
+        "Estimated Hours": 7,
+        "Logged Hours": 7,
+        "Task Type": "Design",
+        "Tags": [
+          "Creative"
+        ],
+        "Sprint": "SMT-01",
+        "Created Date": "2025-04-01"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop AI customer segmentation",
+        "Due Date": "2025-08-25",
+        "Status": "In Progress",
+        "Priority": "High",
+        "Estimated Hours": 38,
+        "Logged Hours": 25,
+        "Task Type": "Dev",
+        "Tags": [
+          "AI Enhancement",
+          "Innovation"
+        ],
+        "Sprint": "SMT-05",
+        "Created Date": "2025-01-30"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Write scripts for chatbot",
+        "Due Date": "2025-08-26",
+        "Status": "To Do",
+        "Priority": "Medium",
+        "Estimated Hours": 12,
+        "Logged Hours": 0,
+        "Task Type": "Content",
+        "Tags": [
+          "AI Enhancement",
+          "Client Deliverable"
+        ],
+        "Sprint": "SMT-06",
+        "Created Date": "2024-12-09"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Document client onboarding process",
+        "Due Date": "2025-08-27",
+        "Status": "To Do",
+        "Priority": "Low",
+        "Estimated Hours": 10,
+        "Logged Hours": 0,
+        "Task Type": "Content",
+        "Tags": [
+          "Documentation",
+          "Internal Process"
+        ],
+        "Sprint": "SMT-02",
+        "Created Date": "2025-03-02"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design product UI mockups",
+        "Due Date": "2025-08-28",
+        "Status": "Done",
+        "Priority": "Medium",
+        "Estimated Hours": 16,
+        "Logged Hours": 16,
+        "Task Type": "Design",
+        "Tags": [
+          "Creative",
+          "Innovation"
+        ],
+        "Sprint": "SMT-03",
+        "Created Date": "2024-11-17"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Refactor client dashboard code",
+        "Due Date": "2025-08-29",
+        "Status": "In Progress",
+        "Priority": "High",
+        "Estimated Hours": 30,
+        "Logged Hours": 15,
+        "Task Type": "Dev",
+        "Tags": [
+          "Technical Debt",
+          "Client Deliverable"
+        ],
+        "Sprint": "SMT-07",
+        "Created Date": "2025-02-12"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Create AI email subject lines",
+        "Due Date": "2025-08-30",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 14,
+        "Logged Hours": 0,
+        "Task Type": "Content",
+        "Tags": [
+          "AI Enhancement",
+          "Campaign Related"
+        ],
+        "Sprint": "SMT-05",
+        "Created Date": "2024-10-08"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design infographic for analytics",
+        "Due Date": "2025-08-31",
+        "Status": "Done",
+        "Priority": "Low",
+        "Estimated Hours": 8,
+        "Logged Hours": 8,
+        "Task Type": "Design",
+        "Tags": [
+          "Creative",
+          "Analytics"
+        ],
+        "Sprint": "SMT-01",
+        "Created Date": "2025-01-19"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Fix payment processing bugs",
+        "Due Date": "2025-09-01",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 28,
+        "Logged Hours": 0,
+        "Task Type": "Dev",
+        "Tags": [
+          "Technical Debt",
+          "Urgent"
+        ],
+        "Sprint": "SMT-06",
+        "Created Date": "2024-12-27"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Write social media captions",
+        "Due Date": "2025-09-02",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Estimated Hours": 10,
+        "Logged Hours": 5,
+        "Task Type": "Content",
+        "Tags": [
+          "Creative",
+          "Campaign Related"
+        ],
+        "Sprint": "SMT-02",
+        "Created Date": "2025-04-13"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design webinar slides",
+        "Due Date": "2025-09-03",
+        "Status": "Done",
+        "Priority": "Low",
+        "Estimated Hours": 13,
+        "Logged Hours": 13,
+        "Task Type": "Design",
+        "Tags": [
+          "Creative",
+          "Training"
+        ],
+        "Sprint": "SMT-01",
+        "Created Date": "2024-11-06"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop AI-based ad targeting",
+        "Due Date": "2025-09-04",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 35,
+        "Logged Hours": 0,
+        "Task Type": "Dev",
+        "Tags": [
+          "AI Enhancement",
+          "Innovation"
+        ],
+        "Sprint": "SMT-05",
+        "Created Date": "2025-01-12"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Create content for client newsletter",
+        "Due Date": "2025-09-05",
+        "Status": "To Do",
+        "Priority": "Medium",
+        "Estimated Hours": 12,
+        "Logged Hours": 0,
+        "Task Type": "Content",
+        "Tags": [
+          "Client Deliverable",
+          "Campaign Related"
+        ],
+        "Sprint": "SMT-06",
+        "Created Date": "2024-09-29"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Document deployment procedures",
+        "Due Date": "2025-09-06",
+        "Status": "In Progress",
+        "Priority": "Low",
+        "Estimated Hours": 9,
+        "Logged Hours": 3,
+        "Task Type": "Content",
+        "Tags": [
+          "Documentation",
+          "Internal Process"
+        ],
+        "Sprint": "SMT-03",
+        "Created Date": "2025-02-28"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design mobile app UI",
+        "Due Date": "2025-09-07",
+        "Status": "Done",
+        "Priority": "Medium",
+        "Estimated Hours": 22,
+        "Logged Hours": 22,
+        "Task Type": "Design",
+        "Tags": [
+          "Creative",
+          "Innovation"
+        ],
+        "Sprint": "SMT-07",
+        "Created Date": "2025-04-02"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Fix bugs in mobile app",
+        "Due Date": "2025-09-08",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 27,
+        "Logged Hours": 0,
+        "Task Type": "Dev",
+        "Tags": [
+          "Technical Debt",
+          "Urgent"
+        ],
+        "Sprint": "SMT-01",
+        "Created Date": "2024-11-28"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Write client case studies",
+        "Due Date": "2025-09-09",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Estimated Hours": 16,
+        "Logged Hours": 7,
+        "Task Type": "Content",
+        "Tags": [
+          "Client Deliverable",
+          "Documentation"
+        ],
+        "Sprint": "SMT-02",
+        "Created Date": "2025-03-22"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design new product brochures",
+        "Due Date": "2025-09-10",
+        "Status": "Done",
+        "Priority": "Low",
+        "Estimated Hours": 17,
+        "Logged Hours": 17,
+        "Task Type": "Design",
+        "Tags": [
+          "Creative",
+          "Client Deliverable"
+        ],
+        "Sprint": "SMT-03",
+        "Created Date": "2024-10-19"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop AI-powered chat system",
+        "Due Date": "2025-09-11",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 40,
+        "Logged Hours": 0,
+        "Task Type": "Dev",
+        "Tags": [
+          "AI Enhancement",
+          "Innovation"
+        ],
+        "Sprint": "SMT-05",
+        "Created Date": "2025-01-29"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Create video tutorial scripts",
+        "Due Date": "2025-09-12",
+        "Status": "To Do",
+        "Priority": "Medium",
+        "Estimated Hours": 13,
+        "Logged Hours": 0,
+        "Task Type": "Content",
+        "Tags": [
+          "Training",
+          "Creative"
+        ],
+        "Sprint": "SMT-06",
+        "Created Date": "2024-12-14"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Document testing protocols",
+        "Due Date": "2025-09-13",
+        "Status": "In Progress",
+        "Priority": "Low",
+        "Estimated Hours": 11,
+        "Logged Hours": 5,
+        "Task Type": "Content",
+        "Tags": [
+          "Documentation",
+          "Internal Process"
+        ],
+        "Sprint": "SMT-02",
+        "Created Date": "2025-03-09"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design promotional flyers",
+        "Due Date": "2025-09-14",
+        "Status": "Done",
+        "Priority": "Medium",
+        "Estimated Hours": 15,
+        "Logged Hours": 15,
+        "Task Type": "Design",
+        "Tags": [
+          "Creative",
+          "Campaign Related"
+        ],
+        "Sprint": "SMT-01",
+        "Created Date": "2024-11-19"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Refactor backend services",
+        "Due Date": "2025-09-15",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 33,
+        "Logged Hours": 0,
+        "Task Type": "Dev",
+        "Tags": [
+          "Technical Debt",
+          "Urgent"
+        ],
+        "Sprint": "SMT-07",
+        "Created Date": "2025-02-03"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Create AI-driven product descriptions",
+        "Due Date": "2025-09-16",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 14,
+        "Logged Hours": 0,
+        "Task Type": "Content",
+        "Tags": [
+          "AI Enhancement",
+          "Client Deliverable"
+        ],
+        "Sprint": "SMT-05",
+        "Created Date": "2024-10-12"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design social media stories",
+        "Due Date": "2025-09-17",
+        "Status": "Done",
+        "Priority": "Low",
+        "Estimated Hours": 9,
+        "Logged Hours": 9,
+        "Task Type": "Design",
+        "Tags": [
+          "Creative",
+          "Campaign Related"
+        ],
+        "Sprint": "SMT-01",
+        "Created Date": "2025-01-31"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Fix API integration bugs",
+        "Due Date": "2025-09-18",
+        "Status": "In Progress",
+        "Priority": "High",
+        "Estimated Hours": 25,
+        "Logged Hours": 13,
+        "Task Type": "Dev",
+        "Tags": [
+          "Technical Debt",
+          "Urgent"
+        ],
+        "Sprint": "SMT-06",
+        "Created Date": "2024-12-18"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Write client onboarding guide",
+        "Due Date": "2025-09-19",
+        "Status": "To Do",
+        "Priority": "Medium",
+        "Estimated Hours": 12,
+        "Logged Hours": 0,
+        "Task Type": "Content",
+        "Tags": [
+          "Documentation",
+          "Client Deliverable"
+        ],
+        "Sprint": "SMT-02",
+        "Created Date": "2025-03-14"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design email campaign templates",
+        "Due Date": "2025-09-20",
+        "Status": "Done",
+        "Priority": "Medium",
+        "Estimated Hours": 16,
+        "Logged Hours": 16,
+        "Task Type": "Design",
+        "Tags": [
+          "Creative",
+          "Campaign Related"
+        ],
+        "Sprint": "SMT-03",
+        "Created Date": "2024-11-09"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop automated report generation",
+        "Due Date": "2025-09-21",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 30,
+        "Logged Hours": 0,
+        "Task Type": "Dev",
+        "Tags": [
+          "Internal Process",
+          "Analytics"
+        ],
+        "Sprint": "SMT-05",
+        "Created Date": "2025-02-19"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Create client feedback surveys",
+        "Due Date": "2025-09-22",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Estimated Hours": 10,
+        "Logged Hours": 6,
+        "Task Type": "Content",
+        "Tags": [
+          "Client Deliverable",
+          "Training"
+        ],
+        "Sprint": "SMT-06",
+        "Created Date": "2025-04-05"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Document campaign results",
+        "Due Date": "2025-09-23",
+        "Status": "To Do",
+        "Priority": "Low",
+        "Estimated Hours": 9,
+        "Logged Hours": 0,
+        "Task Type": "Content",
+        "Tags": [
+          "Documentation",
+          "Campaign Related"
+        ],
+        "Sprint": "SMT-01",
+        "Created Date": "2024-10-05"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design new product icons",
+        "Due Date": "2025-09-24",
+        "Status": "Done",
+        "Priority": "Low",
+        "Estimated Hours": 11,
+        "Logged Hours": 11,
+        "Task Type": "Design",
+        "Tags": [
+          "Creative",
+          "Innovation"
+        ],
+        "Sprint": "SMT-02",
+        "Created Date": "2025-01-07"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Fix performance bottlenecks",
+        "Due Date": "2025-09-25",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 28,
+        "Logged Hours": 0,
+        "Task Type": "Dev",
+        "Tags": [
+          "Technical Debt",
+          "Urgent"
+        ],
+        "Sprint": "SMT-07",
+        "Created Date": "2024-12-07"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Write FAQs for product launch",
+        "Due Date": "2025-09-26",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Estimated Hours": 14,
+        "Logged Hours": 8,
+        "Task Type": "Content",
+        "Tags": [
+          "Documentation",
+          "Client Deliverable"
+        ],
+        "Sprint": "SMT-02",
+        "Created Date": "2025-03-18"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design social media ads",
+        "Due Date": "2025-09-27",
+        "Status": "Done",
+        "Priority": "Medium",
+        "Estimated Hours": 15,
+        "Logged Hours": 15,
+        "Task Type": "Design",
+        "Tags": [
+          "Creative",
+          "Campaign Related"
+        ],
+        "Sprint": "SMT-03",
+        "Created Date": "2024-11-25"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop AI content moderation",
+        "Due Date": "2025-09-28",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 35,
+        "Logged Hours": 0,
+        "Task Type": "Dev",
+        "Tags": [
+          "AI Enhancement",
+          "Innovation"
+        ],
+        "Sprint": "SMT-05",
+        "Created Date": "2025-01-14"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Create video scripts for webinars",
+        "Due Date": "2025-09-29",
+        "Status": "To Do",
+        "Priority": "Medium",
+        "Estimated Hours": 12,
+        "Logged Hours": 0,
+        "Task Type": "Content",
+        "Tags": [
+          "Training",
+          "Creative"
+        ],
+        "Sprint": "SMT-06",
+        "Created Date": "2024-10-23"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Document marketing API changes",
+        "Due Date": "2025-09-30",
+        "Status": "In Progress",
+        "Priority": "Low",
+        "Estimated Hours": 10,
+        "Logged Hours": 5,
+        "Task Type": "Content",
+        "Tags": [
+          "Documentation",
+          "Internal Process"
+        ],
+        "Sprint": "SMT-01",
+        "Created Date": "2025-02-05"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop AI-driven content calendar",
+        "Due Date": "2025-07-05",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 12.5,
+        "Logged Hours": 0,
+        "Task Type": "Content",
+        "Tags": [
+          "AI Enhancement",
+          "Campaign Related"
+        ],
+        "Sprint": "SMT-03",
+        "Created Date": "2024-09-15"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design new campaign landing page",
+        "Due Date": "2025-06-30",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Estimated Hours": 18.0,
+        "Logged Hours": 8.5,
+        "Task Type": "Design",
+        "Tags": [
+          "Creative",
+          "Client Deliverable"
+        ],
+        "Sprint": "SMT-02",
+        "Created Date": "2025-01-10"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Implement chatbots for lead capture",
+        "Due Date": "2025-07-12",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 25.0,
+        "Logged Hours": 0,
+        "Task Type": "Dev",
+        "Tags": [
+          "AI Enhancement",
+          "Technical Debt",
+          "Urgent"
+        ],
+        "Sprint": "SMT-04",
+        "Created Date": "2025-04-22"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Write blog post on AI in marketing",
+        "Due Date": "2025-07-01",
+        "Status": "In Progress",
+        "Priority": "Low",
+        "Estimated Hours": 7.5,
+        "Logged Hours": 3.0,
+        "Task Type": "Content",
+        "Tags": [
+          "Documentation",
+          "Campaign Related"
+        ],
+        "Sprint": "SMT-01",
+        "Created Date": "2024-11-30"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Refactor analytics dashboard code",
+        "Due Date": "2025-07-15",
+        "Status": "To Do",
+        "Priority": "Medium",
+        "Estimated Hours": 30.0,
+        "Logged Hours": 0,
+        "Task Type": "Dev",
+        "Tags": [
+          "Analytics",
+          "Technical Debt"
+        ],
+        "Sprint": "SMT-05",
+        "Created Date": "2025-03-18"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Create email template designs",
+        "Due Date": "2025-06-28",
+        "Status": "Done",
+        "Priority": "Medium",
+        "Estimated Hours": 10.0,
+        "Logged Hours": 10.0,
+        "Task Type": "Design",
+        "Tags": [
+          "Client Deliverable",
+          "Creative"
+        ],
+        "Sprint": "SMT-01",
+        "Created Date": "2025-02-14"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Audit and update SEO keywords",
+        "Due Date": "2025-07-03",
+        "Status": "In Progress",
+        "Priority": "High",
+        "Estimated Hours": 15.0,
+        "Logged Hours": 6.0,
+        "Task Type": "Content",
+        "Tags": [
+          "Campaign Related",
+          "Urgent"
+        ],
+        "Sprint": "SMT-03",
+        "Created Date": "2024-08-20"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop AI-powered sentiment analysis tool",
+        "Due Date": "2025-07-18",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 40.0,
+        "Logged Hours": 0,
+        "Task Type": "Dev",
+        "Tags": [
+          "AI Enhancement",
+          "Innovation"
+        ],
+        "Sprint": "SMT-06",
+        "Created Date": "2025-05-02"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Prepare training materials for AI tools",
+        "Due Date": "2025-07-08",
+        "Status": "To Do",
+        "Priority": "Medium",
+        "Estimated Hours": 14.5,
+        "Logged Hours": 0,
+        "Task Type": "Content",
+        "Tags": [
+          "Training",
+          "Internal Process"
+        ],
+        "Sprint": "SMT-03",
+        "Created Date": "2024-12-05"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design social media graphics for launch",
+        "Due Date": "2025-06-29",
+        "Status": "Done",
+        "Priority": "High",
+        "Estimated Hours": 9.0,
+        "Logged Hours": 9.0,
+        "Task Type": "Design",
+        "Tags": [
+          "Urgent",
+          "Campaign Related"
+        ],
+        "Sprint": "SMT-02",
+        "Created Date": "2025-02-28"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Integrate new marketing APIs",
+        "Due Date": "2025-07-10",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Estimated Hours": 20.0,
+        "Logged Hours": 10.0,
+        "Task Type": "Dev",
+        "Tags": [
+          "Technical Debt",
+          "Internal Process"
+        ],
+        "Sprint": "SMT-05",
+        "Created Date": "2025-03-25"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Create case study for latest campaign",
+        "Due Date": "2025-07-14",
+        "Status": "To Do",
+        "Priority": "Low",
+        "Estimated Hours": 8.0,
+        "Logged Hours": 0,
+        "Task Type": "Content",
+        "Tags": [
+          "Client Deliverable",
+          "Documentation"
+        ],
+        "Sprint": "SMT-06",
+        "Created Date": "2025-01-20"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Redesign client onboarding UX",
+        "Due Date": "2025-06-27",
+        "Status": "Done",
+        "Priority": "Medium",
+        "Estimated Hours": 22.5,
+        "Logged Hours": 22.5,
+        "Task Type": "Design",
+        "Tags": [
+          "Client Deliverable",
+          "Creative"
+        ],
+        "Sprint": "SMT-01",
+        "Created Date": "2024-10-17"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Optimize ad spend using AI analytics",
+        "Due Date": "2025-07-09",
+        "Status": "In Progress",
+        "Priority": "High",
+        "Estimated Hours": 16.0,
+        "Logged Hours": 7.0,
+        "Task Type": "Dev",
+        "Tags": [
+          "Analytics",
+          "AI Enhancement"
+        ],
+        "Sprint": "SMT-04",
+        "Created Date": "2025-04-08"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Draft internal newsletter content",
+        "Due Date": "2025-07-11",
+        "Status": "To Do",
+        "Priority": "Low",
+        "Estimated Hours": 6.5,
+        "Logged Hours": 0,
+        "Task Type": "Content",
+        "Tags": [
+          "Internal Process",
+          "Training"
+        ],
+        "Sprint": "SMT-07",
+        "Created Date": "2025-05-15"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop custom AI recommendation system",
+        "Due Date": "2025-07-20",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 50.0,
+        "Logged Hours": 0,
+        "Task Type": "Dev",
+        "Tags": [
+          "AI Enhancement",
+          "Innovation",
+          "Urgent"
+        ],
+        "Sprint": "SMT-08",
+        "Created Date": "2025-06-01"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design interactive webinar slides",
+        "Due Date": "2025-07-07",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Estimated Hours": 12.0,
+        "Logged Hours": 5.5,
+        "Task Type": "Design",
+        "Tags": [
+          "Training",
+          "Creative"
+        ],
+        "Sprint": "SMT-03",
+        "Created Date": "2024-11-05"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Update product descriptions with AI keywords",
+        "Due Date": "2025-07-13",
+        "Status": "To Do",
+        "Priority": "Medium",
+        "Estimated Hours": 11.0,
+        "Logged Hours": 0,
+        "Task Type": "Content",
+        "Tags": [
+          "AI Enhancement",
+          "Campaign Related"
+        ],
+        "Sprint": "SMT-05",
+        "Created Date": "2025-02-22"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Fix bugs in campaign tracking module",
+        "Due Date": "2025-06-26",
+        "Status": "Done",
+        "Priority": "High",
+        "Estimated Hours": 14.0,
+        "Logged Hours": 14.0,
+        "Task Type": "Dev",
+        "Tags": [
+          "Technical Debt",
+          "Urgent"
+        ],
+        "Sprint": "SMT-02",
+        "Created Date": "2025-03-10"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Create branding guidelines document",
+        "Due Date": "2025-07-16",
+        "Status": "To Do",
+        "Priority": "Low",
+        "Estimated Hours": 9.0,
+        "Logged Hours": 0,
+        "Task Type": "Content",
+        "Tags": [
+          "Documentation",
+          "Client Deliverable"
+        ],
+        "Sprint": "SMT-06",
+        "Created Date": "2024-09-25"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design email drip campaign visuals",
+        "Due Date": "2025-07-04",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Estimated Hours": 13.5,
+        "Logged Hours": 6.0,
+        "Task Type": "Design",
+        "Tags": [
+          "Campaign Related",
+          "Creative"
+        ],
+        "Sprint": "SMT-04",
+        "Created Date": "2025-01-28"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Implement AI-based A/B testing feature",
+        "Due Date": "2025-07-19",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 45.0,
+        "Logged Hours": 0,
+        "Task Type": "Dev",
+        "Tags": [
+          "AI Enhancement",
+          "Innovation"
+        ],
+        "Sprint": "SMT-07",
+        "Created Date": "2025-05-18"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Write script for product launch video",
+        "Due Date": "2025-07-06",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Estimated Hours": 7.5,
+        "Logged Hours": 3.5,
+        "Task Type": "Content",
+        "Tags": [
+          "Creative",
+          "Client Deliverable"
+        ],
+        "Sprint": "SMT-03",
+        "Created Date": "2025-01-05"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Optimize website load time",
+        "Due Date": "2025-07-17",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 20.0,
+        "Logged Hours": 0,
+        "Task Type": "Dev",
+        "Tags": [
+          "Technical Debt",
+          "Urgent"
+        ],
+        "Sprint": "SMT-08",
+        "Created Date": "2025-04-12"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Prepare client case study presentation",
+        "Due Date": "2025-06-25",
+        "Status": "Done",
+        "Priority": "Medium",
+        "Estimated Hours": 8.0,
+        "Logged Hours": 8.0,
+        "Task Type": "Content",
+        "Tags": [
+          "Client Deliverable",
+          "Documentation"
+        ],
+        "Sprint": "SMT-01",
+        "Created Date": "2024-10-30"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Create infographic for social media",
+        "Due Date": "2025-07-02",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Estimated Hours": 10.0,
+        "Logged Hours": 4.0,
+        "Task Type": "Design",
+        "Tags": [
+          "Creative",
+          "Campaign Related"
+        ],
+        "Sprint": "SMT-02",
+        "Created Date": "2025-03-02"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop automation for report generation",
+        "Due Date": "2025-07-21",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 35.0,
+        "Logged Hours": 0,
+        "Task Type": "Dev",
+        "Tags": [
+          "AI Enhancement",
+          "Internal Process"
+        ],
+        "Sprint": "SMT-09",
+        "Created Date": "2025-06-10"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Edit and proofread blog series",
+        "Due Date": "2025-07-08",
+        "Status": "To Do",
+        "Priority": "Low",
+        "Estimated Hours": 6.0,
+        "Logged Hours": 0,
+        "Task Type": "Content",
+        "Tags": [
+          "Documentation",
+          "Training"
+        ],
+        "Sprint": "SMT-05",
+        "Created Date": "2024-12-20"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Rebrand campaign visual assets",
+        "Due Date": "2025-06-27",
+        "Status": "Done",
+        "Priority": "Medium",
+        "Estimated Hours": 18.0,
+        "Logged Hours": 18.0,
+        "Task Type": "Design",
+        "Tags": [
+          "Client Deliverable",
+          "Creative"
+        ],
+        "Sprint": "SMT-01",
+        "Created Date": "2024-11-12"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Fix data sync issues with CRM",
+        "Due Date": "2025-07-11",
+        "Status": "In Progress",
+        "Priority": "High",
+        "Estimated Hours": 22.0,
+        "Logged Hours": 12.0,
+        "Task Type": "Dev",
+        "Tags": [
+          "Technical Debt",
+          "Urgent"
+        ],
+        "Sprint": "SMT-06",
+        "Created Date": "2025-03-30"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Write AI ethics compliance article",
+        "Due Date": "2025-07-13",
+        "Status": "To Do",
+        "Priority": "Medium",
+        "Estimated Hours": 9.5,
+        "Logged Hours": 0,
+        "Task Type": "Content",
+        "Tags": [
+          "AI Enhancement",
+          "Documentation"
+        ],
+        "Sprint": "SMT-07",
+        "Created Date": "2024-10-10"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design new UI for analytics tool",
+        "Due Date": "2025-07-15",
+        "Status": "To Do",
+        "Priority": "Medium",
+        "Estimated Hours": 28.0,
+        "Logged Hours": 0,
+        "Task Type": "Design",
+        "Tags": [
+          "Analytics",
+          "Creative"
+        ],
+        "Sprint": "SMT-08",
+        "Created Date": "2025-01-15"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Implement feedback loop for AI models",
+        "Due Date": "2025-07-20",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 40.0,
+        "Logged Hours": 0,
+        "Task Type": "Dev",
+        "Tags": [
+          "AI Enhancement",
+          "Innovation"
+        ],
+        "Sprint": "SMT-10",
+        "Created Date": "2025-05-25"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Prepare FAQ documentation",
+        "Due Date": "2025-07-09",
+        "Status": "In Progress",
+        "Priority": "Low",
+        "Estimated Hours": 5.0,
+        "Logged Hours": 2.0,
+        "Task Type": "Content",
+        "Tags": [
+          "Documentation",
+          "Internal Process"
+        ],
+        "Sprint": "SMT-04",
+        "Created Date": "2024-12-01"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Create client success story video storyboard",
+        "Due Date": "2025-07-03",
+        "Status": "Done",
+        "Priority": "Medium",
+        "Estimated Hours": 14.0,
+        "Logged Hours": 14.0,
+        "Task Type": "Design",
+        "Tags": [
+          "Client Deliverable",
+          "Creative"
+        ],
+        "Sprint": "SMT-02",
+        "Created Date": "2025-02-05"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Fix scalability issues on AI backend",
+        "Due Date": "2025-07-18",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 38.0,
+        "Logged Hours": 0,
+        "Task Type": "Dev",
+        "Tags": [
+          "Technical Debt",
+          "Urgent"
+        ],
+        "Sprint": "SMT-09",
+        "Created Date": "2025-04-18"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Draft social media AI use case scenarios",
+        "Due Date": "2025-07-07",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Estimated Hours": 7.0,
+        "Logged Hours": 3.5,
+        "Task Type": "Content",
+        "Tags": [
+          "AI Enhancement",
+          "Campaign Related"
+        ],
+        "Sprint": "SMT-05",
+        "Created Date": "2025-01-08"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design interactive chatbot UI",
+        "Due Date": "2025-07-14",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 21.0,
+        "Logged Hours": 0,
+        "Task Type": "Design",
+        "Tags": [
+          "AI Enhancement",
+          "Creative"
+        ],
+        "Sprint": "SMT-06",
+        "Created Date": "2025-03-22"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Optimize email campaign delivery times",
+        "Due Date": "2025-07-10",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Estimated Hours": 16.5,
+        "Logged Hours": 7.0,
+        "Task Type": "Dev",
+        "Tags": [
+          "Campaign Related",
+          "Analytics"
+        ],
+        "Sprint": "SMT-07",
+        "Created Date": "2025-02-28"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Create training session for new hires",
+        "Due Date": "2025-07-12",
+        "Status": "To Do",
+        "Priority": "Low",
+        "Estimated Hours": 10.0,
+        "Logged Hours": 0,
+        "Task Type": "Content",
+        "Tags": [
+          "Training",
+          "Internal Process"
+        ],
+        "Sprint": "SMT-08",
+        "Created Date": "2024-12-15"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop AI-powered content optimization tool",
+        "Due Date": "2025-07-19",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 44.0,
+        "Logged Hours": 0,
+        "Task Type": "Dev",
+        "Tags": [
+          "AI Enhancement",
+          "Innovation"
+        ],
+        "Sprint": "SMT-10",
+        "Created Date": "2025-05-20"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design campaign logo and branding",
+        "Due Date": "2025-07-05",
+        "Status": "Done",
+        "Priority": "Medium",
+        "Estimated Hours": 15.0,
+        "Logged Hours": 15.0,
+        "Task Type": "Design",
+        "Tags": [
+          "Creative",
+          "Client Deliverable"
+        ],
+        "Sprint": "SMT-03",
+        "Created Date": "2025-01-12"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Update client feedback forms",
+        "Due Date": "2025-07-01",
+        "Status": "In Progress",
+        "Priority": "Low",
+        "Estimated Hours": 6.0,
+        "Logged Hours": 3.0,
+        "Task Type": "Content",
+        "Tags": [
+          "Client Deliverable",
+          "Documentation"
+        ],
+        "Sprint": "SMT-01",
+        "Created Date": "2024-11-20"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Fix UI bugs in campaign dashboard",
+        "Due Date": "2025-07-16",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 18.0,
+        "Logged Hours": 0,
+        "Task Type": "Dev",
+        "Tags": [
+          "Technical Debt",
+          "Urgent"
+        ],
+        "Sprint": "SMT-06",
+        "Created Date": "2025-03-05"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Create monthly marketing report template",
+        "Due Date": "2025-07-08",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Estimated Hours": 9.0,
+        "Logged Hours": 4.5,
+        "Task Type": "Content",
+        "Tags": [
+          "Analytics",
+          "Internal Process"
+        ],
+        "Sprint": "SMT-04",
+        "Created Date": "2025-01-25"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design graphics for AI feature promotion",
+        "Due Date": "2025-07-13",
+        "Status": "To Do",
+        "Priority": "Medium",
+        "Estimated Hours": 14.0,
+        "Logged Hours": 0,
+        "Task Type": "Design",
+        "Tags": [
+          "AI Enhancement",
+          "Creative"
+        ],
+        "Sprint": "SMT-05",
+        "Created Date": "2025-02-17"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop API for client data integration",
+        "Due Date": "2025-07-20",
+        "Status": "To Do",
+        "Priority": "High",
+        "Estimated Hours": 50.0,
+        "Logged Hours": 0,
+        "Task Type": "Dev",
+        "Tags": [
+          "Internal Process",
+          "Urgent"
+        ],
+        "Sprint": "SMT-09",
+        "Created Date": "2025-06-05"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Write content for AI product FAQ",
+        "Due Date": "2025-07-06",
+        "Status": "In Progress",
+        "Priority": "Low",
+        "Estimated Hours": 8.0,
+        "Logged Hours": 3.0,
+        "Task Type": "Content",
+        "Tags": [
+          "Documentation",
+          "AI Enhancement"
+        ],
+        "Sprint": "SMT-07",
+        "Created Date": "2024-12-10"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Create AI-driven ad creatives",
+        "Due Date": "2025-07-05",
+        "Status": "In Progress",
+        "Priority": "High",
+        "Estimated Hours": 15.5,
+        "Logged Hours": 7.0,
+        "Task Type": "Design",
+        "Tags": [
+          "AI Enhancement",
+          "Creative",
+          "Urgent"
+        ],
+        "Sprint": "SMT-04",
+        "Created Date": "2024-11-15"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Draft blog post on AI marketing trends",
+        "Due Date": "2025-07-12",
+        "Status": "To Do",
+        "Priority": "Medium",
+        "Estimated Hours": 8.0,
+        "Logged Hours": 0,
+        "Task Type": "Content",
+        "Tags": [
+          "Campaign Related",
+          "Innovation"
+        ],
+        "Sprint": "SMT-05",
+        "Created Date": "2025-01-20"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop AI-powered analytics dashboard",
+        "Due Date": "2025-08-01",
+        "Status": "In Progress",
+        "Priority": "High",
+        "Estimated Hours": 40.0,
+        "Logged Hours": 18.5,
+        "Task Type": "Dev",
+        "Tags": [
+          "Analytics",
+          "AI Enhancement",
+          "High Priority"
+        ],
+        "Sprint": "SMT-06",
+        "Created Date": "2025-03-10"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Update internal training materials",
+        "Due Date": "2025-07-20",
+        "Status": "To Do",
+        "Priority": "Low",
+        "Estimated Hours": 6.0,
+        "Logged Hours": 0,
+        "Task Type": "Content",
+        "Tags": [
+          "Training",
+          "Internal Process",
+          "Documentation"
+        ],
+        "Sprint": "SMT-07",
+        "Created Date": "2025-05-05"
+      }
+    }
+  ]
+}

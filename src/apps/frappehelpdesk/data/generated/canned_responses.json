@@ -1,0 +1,337 @@
+{
+  "canned_responses": [
+    {
+      "title": "General Acknowledgment",
+      "message": "<p>Hello [Customer Name],</p><p>Thank you for reaching out to us! We appreciate you bringing this to our attention, and we will assist you shortly.</p><p>Best regards,<br>The Support Team</p>",
+      "author": {
+        "email": "andrea.king@acmeinc.com",
+        "first_name": "Andrea",
+        "last_name": "King"
+      }
+    },
+    {
+      "title": "Issue Received",
+      "message": "<p>Dear [Customer Name],</p><p>Your request has been successfully received and our team will start working on it. Your Issue ID is [Issue ID]. Thank you for your patience!</p><p>Sincerely,<br>The Support Team</p>",
+      "author": {
+        "email": "andrea.baker@acmeinc.com",
+        "first_name": "Andrea",
+        "last_name": "Baker"
+      }
+    },
+    {
+      "title": "Escalation Notification",
+      "message": "<p>Hi [Customer Name],</p><p>We wanted to inform you that your issue has been escalated to our specialist team for further assistance. We will update you as soon as we have more information.</p><p>Thank you for your understanding!<br>The Support Team</p>",
+      "author": {
+        "email": "kristopher.davis@acmeinc.com",
+        "first_name": "Kristopher",
+        "last_name": "Davis"
+      }
+    },
+    {
+      "title": "Resolution Confirmation",
+      "message": "<p>Hello [Customer Name],</p><p>We are pleased to inform you that your issue has been resolved! Please check and let us know if you need any further assistance.</p><p>Thank you,<br>The Support Team</p>",
+      "author": {
+        "email": "kristopher.davis@acmeinc.com",
+        "first_name": "Kristopher",
+        "last_name": "Davis"
+      }
+    },
+    {
+      "title": "Technical Issue Acknowledgment",
+      "message": "<p>Dear [Customer Name],</p><p>We've received your report about the technical issue. Our team is investigating it, and we will keep you updated about our progress.</p><p>Best,<br>The Support Team</p>",
+      "author": {
+        "email": "erika.gardner@acmeinc.com",
+        "first_name": "Erika",
+        "last_name": "Gardner"
+      }
+    },
+    {
+      "title": "Technical Issue Resolution",
+      "message": "<p>Hello [Customer Name],</p><p>The technical issue you reported has been resolved. Please test it on your end and confirm if everything is working fine.</p><p>Thank you!<br>The Support Team</p>",
+      "author": {
+        "email": "sheena.bond@acmeinc.com",
+        "first_name": "Sheena",
+        "last_name": "Bond"
+      }
+    },
+    {
+      "title": "Billing Inquiry Response",
+      "message": "<p>Hi [Customer Name],</p><p>Thank you for contacting us regarding your billing inquiry. Please provide more details about the issue so we can assist you better.</p><p>Best regards,<br>The Support Team</p>",
+      "author": {
+        "email": "vickie.burke@acmeinc.com",
+        "first_name": "Vickie",
+        "last_name": "Burke"
+      }
+    },
+    {
+      "title": "Billing Resolution Confirmed",
+      "message": "<p>Dear [Customer Name],</p><p>Your billing issue has been reviewed and corrected. A confirmation email has been sent to you with the updated details.</p><p>Thank you for your patience!<br>The Support Team</p>",
+      "author": {
+        "email": "barry.deleon@acmeinc.com",
+        "first_name": "Barry",
+        "last_name": "Deleon"
+      }
+    },
+    {
+      "title": "Account Help Request Received",
+      "message": "<p>Hello [Customer Name],</p><p>We have received your request regarding account assistance. Our team will get back to you shortly.</p><p>Best,<br>The Support Team</p>",
+      "author": {
+        "email": "shannon.ryan@acmeinc.com",
+        "first_name": "Shannon",
+        "last_name": "Ryan"
+      }
+    },
+    {
+      "title": "Account Help Resolution",
+      "message": "<p>Hi [Customer Name],</p><p>Your account issue has been resolved. You can now access your account as usual. If you need further assistance, feel free to reach out!</p><p>Thank you,<br>The Support Team</p>",
+      "author": {
+        "email": "melanie.fields@acmeinc.com",
+        "first_name": "Melanie",
+        "last_name": "Fields"
+      }
+    },
+    {
+      "title": "Thank You for Your Patience",
+      "message": "<p>Dear [Customer Name],</p><p>We appreciate your patience while we worked on your issue. If you have any more questions, please don\u2019t hesitate to ask!</p><p>Best regards,<br>The Support Team</p>",
+      "author": {
+        "email": "melanie.fields@acmeinc.com",
+        "first_name": "Melanie",
+        "last_name": "Fields"
+      }
+    },
+    {
+      "title": "Service Downtime Acknowledgment",
+      "message": "<p>Hi [Customer Name],</p><p>We are aware of the service downtime and are currently addressing the issue. Thank you for your patience while we work on restoring the service.</p><p>Sincerely,<br>The Support Team</p>",
+      "author": {
+        "email": "mia.kelly@acmeinc.com",
+        "first_name": "Mia",
+        "last_name": "Kelly"
+      }
+    },
+    {
+      "title": "Follow-Up on Your Ticket",
+      "message": "<p>Hello [Customer Name],</p><p>This is a friendly reminder regarding your issue with ID [Issue ID]. We are still working on it and will update you soon.</p><p>Best,<br>The Support Team</p>",
+      "author": {
+        "email": "marilyn.dorsey@acmeinc.com",
+        "first_name": "Marilyn",
+        "last_name": "Dorsey"
+      }
+    },
+    {
+      "title": "Customer Feedback Request",
+      "message": "<p>Dear [Customer Name],</p><p>We hope your issue has been resolved satisfactorily. Your feedback is important to us! Please take a moment to share your experience.</p><p>Thank you for your time,<br>The Support Team</p>",
+      "author": {
+        "email": "jillian.gibson@acmeinc.com",
+        "first_name": "Jillian",
+        "last_name": "Gibson"
+      }
+    },
+    {
+      "title": "Goodbye and Thank You",
+      "message": "<p>Hi [Customer Name],</p><p>Thank you for allowing us to assist you. If you have any other questions in the future, please don't hesitate to contact us. Have a wonderful day!</p><p>Best regards,<br>The Support Team</p>",
+      "author": {
+        "email": "mary.humphrey@acmeinc.com",
+        "first_name": "Mary",
+        "last_name": "Humphrey"
+      }
+    },
+    {
+      "title": "Password Reset Instructions",
+      "message": "<p>Hello [Customer Name],</p><p>To reset your password, please follow this link: [Password Reset Link]. If you need further assistance, feel free to reach out!</p><p>Best,<br>The Support Team</p>",
+      "author": {
+        "email": "jacob.johnson@acmeinc.com",
+        "first_name": "Jacob",
+        "last_name": "Johnson"
+      }
+    },
+    {
+      "title": "Update on Escalated Issue",
+      "message": "<p>Dear [Customer Name],</p><p>We wanted to provide you with an update on the escalated issue you reported. Our team is actively working on it and we expect to have a resolution soon.</p><p>Thank you for your understanding!<br>The Support Team</p>",
+      "author": {
+        "email": "mary.ruiz@acmeinc.com",
+        "first_name": "Mary",
+        "last_name": "Ruiz"
+      }
+    },
+    {
+      "title": "Refund Process Initiated",
+      "message": "<p>Hi [Customer Name],</p><p>Your refund request has been processed and should reflect on your account shortly. Thank you for your patience!</p><p>Sincerely,<br>The Support Team</p>",
+      "author": {
+        "email": "mary.ruiz@acmeinc.com",
+        "first_name": "Mary",
+        "last_name": "Ruiz"
+      }
+    },
+    {
+      "title": "Scheduled Maintenance Notification",
+      "message": "<p>Dear [Customer Name],</p><p>Please note that we will be performing scheduled maintenance on [Date] from [Time]. During this time, some services may be unavailable. We apologize for any inconvenience caused.</p><p>Best regards,<br>The Support Team</p>",
+      "author": {
+        "email": "barry.deleon@acmeinc.com",
+        "first_name": "Barry",
+        "last_name": "Deleon"
+      }
+    },
+    {
+      "title": "Two-Factor Authentication Help",
+      "message": "<p>Hello [Customer Name],</p><p>If you are having trouble with two-factor authentication, please confirm your phone number or email address, and we will assist you further.</p><p>Thank you,<br>The Support Team</p>",
+      "author": {
+        "email": "terri.sanders@acmeinc.com",
+        "first_name": "Terri",
+        "last_name": "Sanders"
+      }
+    },
+    {
+      "title": "Unsubscribed Confirmation",
+      "message": "<p>Hi [Customer Name],</p><p>Your request to unsubscribe from our mailing list has been processed. If you would like to re-subscribe in the future, please let us know!</p><p>Sincerely,<br>The Support Team</p>",
+      "author": {
+        "email": "robert.clark@acmeinc.com",
+        "first_name": "Robert",
+        "last_name": "Clark"
+      }
+    },
+    {
+      "title": "Trial Period Reminder",
+      "message": "<p>Dear [Customer Name],</p><p>This is a friendly reminder that your trial period will end on [Date]. Please let us know if you would like to discuss any options moving forward.</p><p>Best,<br>The Support Team</p>",
+      "author": {
+        "email": "barry.deleon@acmeinc.com",
+        "first_name": "Barry",
+        "last_name": "Deleon"
+      }
+    },
+    {
+      "title": "Service Availability Inquiry",
+      "message": "<p>Hello [Customer Name],</p><p>Thank you for inquiring about our services. We are happy to assist you with any questions you may have regarding our offerings.</p><p>Best regards,<br>The Support Team</p>",
+      "author": {
+        "email": "mary.humphrey@acmeinc.com",
+        "first_name": "Mary",
+        "last_name": "Humphrey"
+      }
+    },
+    {
+      "title": "Account Suspension Notification",
+      "message": "<p>Dear [Customer Name],</p><p>We wanted to inform you that your account has been temporarily suspended due to [Reason]. Please contact us for further details.</p><p>Thank you for your understanding,<br>The Support Team</p>",
+      "author": {
+        "email": "jared.riley@acmeinc.com",
+        "first_name": "Jared",
+        "last_name": "Riley"
+      }
+    },
+    {
+      "title": "Subscription Renewal Confirmation",
+      "message": "<p>Hi [Customer Name],</p><p>Your subscription has been successfully renewed. Thank you for continuing to choose our services!</p><p>Best,<br>The Support Team</p>",
+      "author": {
+        "email": "sarah.anderson@acmeinc.com",
+        "first_name": "Sarah",
+        "last_name": "Anderson"
+      }
+    },
+    {
+      "title": "Welcome to Our Service",
+      "message": "<p>Dear [Customer Name],</p><p>Welcome aboard! We are thrilled to have you with us. If you have any questions, don\u2019t hesitate to contact us!</p><p>Best regards,<br>The Support Team</p>",
+      "author": {
+        "email": "ashley.lewis@acmeinc.com",
+        "first_name": "Ashley",
+        "last_name": "Lewis"
+      }
+    },
+    {
+      "title": "Event Registration Confirmation",
+      "message": "<p>Hi [Customer Name],</p><p>Thank you for registering for our event! We are excited to have you join us. More details will be sent to you shortly.</p><p>Best,<br>The Support Team</p>",
+      "author": {
+        "email": "mallory.spencer@acmeinc.com",
+        "first_name": "Mallory",
+        "last_name": "Spencer"
+      }
+    },
+    {
+      "title": "Order Confirmation",
+      "message": "<p>Hello [Customer Name],</p><p>Your order has been confirmed! You will receive a tracking number soon. If you have any questions, feel free to reach out.</p><p>Thank you,<br>The Support Team</p>",
+      "author": {
+        "email": "heidi.johnson@acmeinc.com",
+        "first_name": "Heidi",
+        "last_name": "Johnson"
+      }
+    },
+    {
+      "title": "Thank You for Feedback",
+      "message": "<p>Dear [Customer Name],</p><p>Thank you for your feedback! We value your input and will take it into account as we continue to improve our services.</p><p>Best regards,<br>The Support Team</p>",
+      "author": {
+        "email": "elizabeth.lawrence@acmeinc.com",
+        "first_name": "Elizabeth",
+        "last_name": "Lawrence"
+      }
+    },
+    {
+      "title": "Account Deletion Request Acknowledgment",
+      "message": "<p>Hi [Customer Name],</p><p>We have received your request for account deletion. Please allow us some time to process this request. You will receive a confirmation once it\u2019s complete.</p><p>Sincerely,<br>The Support Team</p>",
+      "author": {
+        "email": "bryan.hernandez@acmeinc.com",
+        "first_name": "Bryan",
+        "last_name": "Hernandez"
+      }
+    },
+    {
+      "title": "Service Change Confirmation",
+      "message": "<p>Dear [Customer Name],</p><p>Your service change request has been processed. Please check your account for updated details.</p><p>Thank you for your patience!<br>The Support Team</p>",
+      "author": {
+        "email": "alexandra.gardner@acmeinc.com",
+        "first_name": "Alexandra",
+        "last_name": "Gardner"
+      }
+    },
+    {
+      "title": "Availability of Support Hours",
+      "message": "<p>Hello [Customer Name],</p><p>Our support team is available [Support Hours]. Please reach out during these hours for assistance. Thank you!</p><p>Best,<br>The Support Team</p>",
+      "author": {
+        "email": "erika.gardner@acmeinc.com",
+        "first_name": "Erika",
+        "last_name": "Gardner"
+      }
+    },
+    {
+      "title": "Security Breach Notification",
+      "message": "<p>Dear [Customer Name],</p><p>We wanted to inform you of a potential security breach. Please reset your password immediately to ensure your account's safety.</p><p>Thank you for your immediate attention,<br>The Support Team</p>",
+      "author": {
+        "email": "alexandra.gardner@acmeinc.com",
+        "first_name": "Alexandra",
+        "last_name": "Gardner"
+      }
+    },
+    {
+      "title": "Data Protection Confirmation",
+      "message": "<p>Hi [Customer Name],</p><p>Your data protection request has been successfully processed. If you need any further assistance, feel free to contact us.</p><p>Best regards,<br>The Support Team</p>",
+      "author": {
+        "email": "jacob.johnson@acmeinc.com",
+        "first_name": "Jacob",
+        "last_name": "Johnson"
+      }
+    },
+    {
+      "title": "Reminder for Upcoming Events",
+      "message": "<p>Dear [Customer Name],</p><p>This is a reminder for the upcoming event on [Event Date]. We look forward to your participation!</p><p>Sincerely,<br>The Support Team</p>",
+      "author": {
+        "email": "ashley.dalton@acmeinc.com",
+        "first_name": "Ashley",
+        "last_name": "Dalton"
+      }
+    },
+    {
+      "title": "Subscription Cancellation Confirmation",
+      "message": "<p>Hello [Customer Name],</p><p>Your subscription has been canceled as per your request. If you have any feedback or questions, please let us know.</p><p>Thank you,<br>The Support Team</p>",
+      "author": {
+        "email": "andrew.davis@acmeinc.com",
+        "first_name": "Andrew",
+        "last_name": "Davis"
+      }
+    },
+    {
+      "title": "Thank You for Joining Us",
+      "message": "<p>Hi [Customer Name],</p><p>Thank you for joining us! We are excited to have you as part of our community. If you need help, just reach out!</p><p>Best,<br>The Support Team</p>",
+      "author": {
+        "email": "denise.bush@acmeinc.com",
+        "first_name": "Denise",
+        "last_name": "Bush"
+      }
+    }
+  ]
+}

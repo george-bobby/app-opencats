@@ -1,0 +1,1957 @@
+{
+  "table_name": "Task Templates",
+  "parent_workspace_name": "Client Projects",
+  "parent_base_name": "Client Projects",
+  "records": [
+    {
+      "fields": {
+        "Template Name": "Social Media Campaign Setup",
+        "Task Description": "Set up initial social media advertising campaign including targeting, budget allocation, and creative briefing.",
+        "Priority": "High",
+        "Estimated Time": 15.5,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Feature",
+        "Created Date": "2024-12-10",
+        "Template Category": "PM",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Website SEO Audit",
+        "Task Description": "Conduct a full SEO audit of the client's website and prepare a report with recommendations.",
+        "Priority": "Critical",
+        "Estimated Time": 20.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Research",
+        "Created Date": "2025-04-07",
+        "Template Category": "Dev",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Ad Copywriting for PPC",
+        "Task Description": "Write compelling ad copy for pay-per-click campaigns tailored to target demographics.",
+        "Priority": "Medium",
+        "Estimated Time": 8.0,
+        "Status (Default)": "In Progress",
+        "Associated Project Type": "Enhancement",
+        "Created Date": "2025-01-23",
+        "Template Category": "Design",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Client Onboarding Meeting",
+        "Task Description": "Host initial onboarding meeting to discuss client goals, timelines, and deliverables.",
+        "Priority": "High",
+        "Estimated Time": 2.0,
+        "Status (Default)": "Done",
+        "Associated Project Type": "Any",
+        "Created Date": "2025-03-12",
+        "Template Category": "Meeting",
+        "Estimated Complexity": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Monthly Performance Report Preparation",
+        "Task Description": "Compile and analyze monthly campaign performance data and prepare the report for the client.",
+        "Priority": "Medium",
+        "Estimated Time": 10.0,
+        "Status (Default)": "Review",
+        "Associated Project Type": "Retainer",
+        "Created Date": "2025-05-18",
+        "Template Category": "Documentation",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Bug Fix: Landing Page Form",
+        "Task Description": "Identify and fix bugs related to the lead capture form on the landing page.",
+        "Priority": "Critical",
+        "Estimated Time": 6.0,
+        "Status (Default)": "In Progress",
+        "Associated Project Type": "Bug Fix",
+        "Created Date": "2025-02-27",
+        "Template Category": "QA",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Content Calendar Creation",
+        "Task Description": "Develop a content calendar for social media and blog posts for the upcoming quarter.",
+        "Priority": "Low",
+        "Estimated Time": 12.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Feature",
+        "Created Date": "2024-11-15",
+        "Template Category": "PM",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Email Marketing Template Design",
+        "Task Description": "Design responsive email templates for upcoming promotional campaigns.",
+        "Priority": "Medium",
+        "Estimated Time": 9.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Enhancement",
+        "Created Date": "2025-01-10",
+        "Template Category": "Design",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Weekly Status Meeting",
+        "Task Description": "Organize and conduct the weekly progress status meeting with the internal team.",
+        "Priority": "Low",
+        "Estimated Time": 1.0,
+        "Status (Default)": "Done",
+        "Associated Project Type": "Any",
+        "Created Date": "2025-06-01",
+        "Template Category": "Meeting",
+        "Estimated Complexity": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "CRM Data Cleanup",
+        "Task Description": "Review and clean up duplicate or outdated contacts in the CRM system.",
+        "Priority": "Medium",
+        "Estimated Time": 5.5,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Maintenance",
+        "Created Date": "2025-03-30",
+        "Template Category": "Admin",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Market Research for New Product Launch",
+        "Task Description": "Conduct market research and competitor analysis for the new product launch.",
+        "Priority": "High",
+        "Estimated Time": 25.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Research",
+        "Created Date": "2025-02-04",
+        "Template Category": "PM",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Graphic Asset Creation",
+        "Task Description": "Design new graphic assets for social media ads and blog posts.",
+        "Priority": "Medium",
+        "Estimated Time": 14.0,
+        "Status (Default)": "In Progress",
+        "Associated Project Type": "Feature",
+        "Created Date": "2024-12-20",
+        "Template Category": "Design",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "QA Testing for Mobile App",
+        "Task Description": "Perform quality assurance testing on client's mobile app; log bugs and issues.",
+        "Priority": "Critical",
+        "Estimated Time": 18.0,
+        "Status (Default)": "In Progress",
+        "Associated Project Type": "Bug Fix",
+        "Created Date": "2025-05-05",
+        "Template Category": "QA",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Internal Documentation Update",
+        "Task Description": "Update internal process documentation to reflect recent workflow changes.",
+        "Priority": "Low",
+        "Estimated Time": 3.5,
+        "Status (Default)": "Review",
+        "Associated Project Type": "Maintenance",
+        "Created Date": "2025-04-15",
+        "Template Category": "Documentation",
+        "Estimated Complexity": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Client Feedback Session",
+        "Task Description": "Schedule and conduct a session to gather feedback from the client on recent deliverables.",
+        "Priority": "Medium",
+        "Estimated Time": 2.5,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Retainer",
+        "Created Date": "2025-06-12",
+        "Template Category": "Client",
+        "Estimated Complexity": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Video Script Writing",
+        "Task Description": "Create scripts for promotional videos and explainers.",
+        "Priority": "High",
+        "Estimated Time": 11.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Enhancement",
+        "Created Date": "2025-03-02",
+        "Template Category": "Design",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Server Maintenance",
+        "Task Description": "Perform routine server maintenance and ensure backups are functioning correctly.",
+        "Priority": "Medium",
+        "Estimated Time": 7.0,
+        "Status (Default)": "Done",
+        "Associated Project Type": "Maintenance",
+        "Created Date": "2025-01-15",
+        "Template Category": "Admin",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Press Release Drafting",
+        "Task Description": "Draft press release for the upcoming client announcement.",
+        "Priority": "High",
+        "Estimated Time": 4.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Feature",
+        "Created Date": "2025-04-22",
+        "Template Category": "Documentation",
+        "Estimated Complexity": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "UX Review Meeting",
+        "Task Description": "Conduct a UX review meeting with design and product teams.",
+        "Priority": "Medium",
+        "Estimated Time": 3.0,
+        "Status (Default)": "Review",
+        "Associated Project Type": "Feature",
+        "Created Date": "2025-05-28",
+        "Template Category": "Meeting",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Campaign Budget Adjustment",
+        "Task Description": "Review and adjust campaign budgets according to performance analytics.",
+        "Priority": "High",
+        "Estimated Time": 2.5,
+        "Status (Default)": "In Progress",
+        "Associated Project Type": "Retainer",
+        "Created Date": "2025-06-20",
+        "Template Category": "PM",
+        "Estimated Complexity": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "SEO Keyword Research",
+        "Task Description": "Perform keyword research to optimize website and content for search engines.",
+        "Priority": "Medium",
+        "Estimated Time": 13.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Research",
+        "Created Date": "2024-11-28",
+        "Template Category": "Dev",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Client Contract Review",
+        "Task Description": "Review and approve client contracts for new projects.",
+        "Priority": "Critical",
+        "Estimated Time": 3.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Any",
+        "Created Date": "2025-02-18",
+        "Template Category": "Admin",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "A/B Testing Setup",
+        "Task Description": "Configure A/B testing for email campaigns and landing pages.",
+        "Priority": "High",
+        "Estimated Time": 9.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Feature",
+        "Created Date": "2025-03-09",
+        "Template Category": "QA",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Bug Fix: Analytics Tracking",
+        "Task Description": "Fix issues with analytics tracking codes across client websites.",
+        "Priority": "Critical",
+        "Estimated Time": 6.5,
+        "Status (Default)": "In Progress",
+        "Associated Project Type": "Bug Fix",
+        "Created Date": "2025-04-10",
+        "Template Category": "Dev",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Weekly Social Media Report",
+        "Task Description": "Generate weekly report on social media metrics and engagement rates.",
+        "Priority": "Low",
+        "Estimated Time": 3.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Retainer",
+        "Created Date": "2025-06-14",
+        "Template Category": "Documentation",
+        "Estimated Complexity": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Design Review and Approval",
+        "Task Description": "Conduct design review session and get client approval on new creatives.",
+        "Priority": "Medium",
+        "Estimated Time": 4.0,
+        "Status (Default)": "Review",
+        "Associated Project Type": "Enhancement",
+        "Created Date": "2025-01-29",
+        "Template Category": "Client",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Onsite Client Workshop",
+        "Task Description": "Organize and facilitate an onsite workshop with the client to define goals.",
+        "Priority": "High",
+        "Estimated Time": 7.0,
+        "Status (Default)": "Done",
+        "Associated Project Type": "Any",
+        "Created Date": "2025-03-17",
+        "Template Category": "Meeting",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Content Proofreading",
+        "Task Description": "Proofread marketing content for grammar, style, and brand tone consistency.",
+        "Priority": "Low",
+        "Estimated Time": 2.0,
+        "Status (Default)": "Done",
+        "Associated Project Type": "Maintenance",
+        "Created Date": "2025-05-01",
+        "Template Category": "Documentation",
+        "Estimated Complexity": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Email List Segmentation",
+        "Task Description": "Segment email lists based on user behavior and demographics for targeted campaigns.",
+        "Priority": "Medium",
+        "Estimated Time": 5.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Enhancement",
+        "Created Date": "2025-02-08",
+        "Template Category": "PM",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Bug Fix: Mobile Responsiveness",
+        "Task Description": "Fix mobile responsiveness issues on client websites and landing pages.",
+        "Priority": "Critical",
+        "Estimated Time": 8.0,
+        "Status (Default)": "In Progress",
+        "Associated Project Type": "Bug Fix",
+        "Created Date": "2025-04-25",
+        "Template Category": "QA",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Training Session for New Tools",
+        "Task Description": "Organize training session on new marketing automation tools for staff.",
+        "Priority": "Medium",
+        "Estimated Time": 4.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Any",
+        "Created Date": "2025-01-05",
+        "Template Category": "Admin",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Landing Page Optimization",
+        "Task Description": "Analyze and optimize landing pages to improve conversion rates.",
+        "Priority": "High",
+        "Estimated Time": 12.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Enhancement",
+        "Created Date": "2024-12-15",
+        "Template Category": "Dev",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Client Satisfaction Survey",
+        "Task Description": "Design and distribute a client satisfaction survey post-project delivery.",
+        "Priority": "Medium",
+        "Estimated Time": 3.5,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Retainer",
+        "Created Date": "2025-05-20",
+        "Template Category": "Client",
+        "Estimated Complexity": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Product Feature Documentation",
+        "Task Description": "Create detailed documentation for newly developed product features.",
+        "Priority": "Medium",
+        "Estimated Time": 14.0,
+        "Status (Default)": "Review",
+        "Associated Project Type": "Feature",
+        "Created Date": "2025-03-26",
+        "Template Category": "Documentation",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Social Media Post Scheduling",
+        "Task Description": "Schedule social media posts across multiple platforms for upcoming campaigns.",
+        "Priority": "Low",
+        "Estimated Time": 6.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Retainer",
+        "Created Date": "2025-02-14",
+        "Template Category": "PM",
+        "Estimated Complexity": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "UX/UI Bug Fixes",
+        "Task Description": "Fix UX/UI bugs reported in the latest design round for the client platform.",
+        "Priority": "High",
+        "Estimated Time": 10.0,
+        "Status (Default)": "In Progress",
+        "Associated Project Type": "Bug Fix",
+        "Created Date": "2025-06-19",
+        "Template Category": "Design",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Campaign Creative Brief",
+        "Task Description": "Prepare creative brief for upcoming digital advertising campaigns.",
+        "Priority": "Medium",
+        "Estimated Time": 3.0,
+        "Status (Default)": "Done",
+        "Associated Project Type": "Feature",
+        "Created Date": "2025-01-20",
+        "Template Category": "PM",
+        "Estimated Complexity": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Technical SEO Fixes",
+        "Task Description": "Implement technical SEO fixes including site speed improvements and crawl error resolution.",
+        "Priority": "High",
+        "Estimated Time": 16.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Maintenance",
+        "Created Date": "2025-04-02",
+        "Template Category": "Dev",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Press Kit Assembly",
+        "Task Description": "Assemble press kit materials for client media distribution.",
+        "Priority": "Low",
+        "Estimated Time": 4.5,
+        "Status (Default)": "Review",
+        "Associated Project Type": "Feature",
+        "Created Date": "2025-03-08",
+        "Template Category": "Documentation",
+        "Estimated Complexity": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Monthly Budget Review",
+        "Task Description": "Review monthly project budgets and report discrepancies to management.",
+        "Priority": "Medium",
+        "Estimated Time": 5.0,
+        "Status (Default)": "Done",
+        "Associated Project Type": "Retainer",
+        "Created Date": "2025-05-11",
+        "Template Category": "PM",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Client Billing Setup",
+        "Task Description": "Set up billing cycles and invoicing preferences for new clients.",
+        "Priority": "High",
+        "Estimated Time": 3.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Any",
+        "Created Date": "2025-02-25",
+        "Template Category": "Admin",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Social Media Crisis Response",
+        "Task Description": "Prepare crisis communication plan for social media emergencies.",
+        "Priority": "Critical",
+        "Estimated Time": 7.5,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Any",
+        "Created Date": "2025-01-30",
+        "Template Category": "Client",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Blog Post SEO Optimization",
+        "Task Description": "Optimize blog posts with keywords, meta descriptions, and internal links.",
+        "Priority": "Medium",
+        "Estimated Time": 6.0,
+        "Status (Default)": "In Progress",
+        "Associated Project Type": "Enhancement",
+        "Created Date": "2025-04-17",
+        "Template Category": "Dev",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Video Editing for Campaigns",
+        "Task Description": "Edit video content for social media campaigns including subtitles and branding.",
+        "Priority": "High",
+        "Estimated Time": 13.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Feature",
+        "Created Date": "2024-11-27",
+        "Template Category": "Design",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Quality Assurance Checklist Creation",
+        "Task Description": "Develop a comprehensive QA checklist for marketing materials before release.",
+        "Priority": "Medium",
+        "Estimated Time": 4.0,
+        "Status (Default)": "Done",
+        "Associated Project Type": "Maintenance",
+        "Created Date": "2025-05-22",
+        "Template Category": "QA",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Client Newsletter Design",
+        "Task Description": "Design monthly newsletter templates for client distribution.",
+        "Priority": "Medium",
+        "Estimated Time": 9.5,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Retainer",
+        "Created Date": "2025-06-10",
+        "Template Category": "Design",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Internal Knowledge Base Update",
+        "Task Description": "Update and expand internal knowledge base with new policies and procedures.",
+        "Priority": "Low",
+        "Estimated Time": 7.0,
+        "Status (Default)": "Review",
+        "Associated Project Type": "Maintenance",
+        "Created Date": "2025-03-05",
+        "Template Category": "Documentation",
+        "Estimated Complexity": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Performance Review Preparation",
+        "Task Description": "Prepare materials and data for team member performance reviews.",
+        "Priority": "Medium",
+        "Estimated Time": 4.5,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Any",
+        "Created Date": "2025-02-12",
+        "Template Category": "Admin",
+        "Estimated Complexity": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Bug Fix: Email Deliverability Issues",
+        "Task Description": "Investigate and resolve issues causing poor email deliverability rates.",
+        "Priority": "Critical",
+        "Estimated Time": 6.5,
+        "Status (Default)": "In Progress",
+        "Associated Project Type": "Bug Fix",
+        "Created Date": "2025-06-21",
+        "Template Category": "QA",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "New Client Welcome Package",
+        "Task Description": "Create and send welcome package including documentation and introductory materials.",
+        "Priority": "Low",
+        "Estimated Time": 3.0,
+        "Status (Default)": "Done",
+        "Associated Project Type": "Any",
+        "Created Date": "2025-01-18",
+        "Template Category": "Client",
+        "Estimated Complexity": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Ad Performance Analysis",
+        "Task Description": "Analyze ad performance metrics to guide optimization strategies.",
+        "Priority": "High",
+        "Estimated Time": 11.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Retainer",
+        "Created Date": "2025-04-28",
+        "Template Category": "PM",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Social Listening Setup",
+        "Task Description": "Set up tools and dashboards for social media listening and sentiment analysis.",
+        "Priority": "Medium",
+        "Estimated Time": 10.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Research",
+        "Created Date": "2025-02-03",
+        "Template Category": "Dev",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Content Translation",
+        "Task Description": "Translate marketing content into additional languages to reach new markets.",
+        "Priority": "Medium",
+        "Estimated Time": 14.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Enhancement",
+        "Created Date": "2025-03-25",
+        "Template Category": "Documentation",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Task Automation Setup",
+        "Task Description": "Implement automation for repetitive marketing tasks using AI tools.",
+        "Priority": "High",
+        "Estimated Time": 18.0,
+        "Status (Default)": "In Progress",
+        "Associated Project Type": "Feature",
+        "Created Date": "2025-01-04",
+        "Template Category": "Admin",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "UX Wireframe Creation",
+        "Task Description": "Create wireframes for new website or app features.",
+        "Priority": "Medium",
+        "Estimated Time": 8.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Feature",
+        "Created Date": "2025-05-06",
+        "Template Category": "Design",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Client Quarterly Review Meeting",
+        "Task Description": "Conduct quarterly review meeting to discuss progress and next steps with client.",
+        "Priority": "High",
+        "Estimated Time": 3.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Retainer",
+        "Created Date": "2025-06-22",
+        "Template Category": "Client",
+        "Estimated Complexity": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Security Patch Deployment",
+        "Task Description": "Deploy security patches to client websites and monitor for issues.",
+        "Priority": "Critical",
+        "Estimated Time": 5.0,
+        "Status (Default)": "Done",
+        "Associated Project Type": "Maintenance",
+        "Created Date": "2025-02-20",
+        "Template Category": "Admin",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Brand Style Guide Update",
+        "Task Description": "Update brand style guide with new logos, colors, and fonts.",
+        "Priority": "Medium",
+        "Estimated Time": 7.0,
+        "Status (Default)": "Review",
+        "Associated Project Type": "Enhancement",
+        "Created Date": "2025-03-22",
+        "Template Category": "Documentation",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Customer Journey Mapping",
+        "Task Description": "Map out the customer journey to improve marketing targeting and messaging.",
+        "Priority": "High",
+        "Estimated Time": 16.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Research",
+        "Created Date": "2025-01-14",
+        "Template Category": "PM",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Bug Fix: Newsletter Signup",
+        "Task Description": "Fix bugs preventing users from signing up for newsletters on client sites.",
+        "Priority": "Critical",
+        "Estimated Time": 5.5,
+        "Status (Default)": "In Progress",
+        "Associated Project Type": "Bug Fix",
+        "Created Date": "2025-05-15",
+        "Template Category": "QA",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Social Media Ad Retargeting Setup",
+        "Task Description": "Set up retargeting campaigns for social media ads to improve conversion.",
+        "Priority": "High",
+        "Estimated Time": 9.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Feature",
+        "Created Date": "2024-12-05",
+        "Template Category": "PM",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Staff Onboarding Documentation",
+        "Task Description": "Create onboarding documentation for new hires in the marketing team.",
+        "Priority": "Low",
+        "Estimated Time": 4.5,
+        "Status (Default)": "Done",
+        "Associated Project Type": "Any",
+        "Created Date": "2025-04-12",
+        "Template Category": "Documentation",
+        "Estimated Complexity": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Monthly Client Billing",
+        "Task Description": "Prepare and send monthly invoices to clients, track payments.",
+        "Priority": "Medium",
+        "Estimated Time": 3.5,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Retainer",
+        "Created Date": "2025-06-16",
+        "Template Category": "Admin",
+        "Estimated Complexity": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Landing Page Copywriting",
+        "Task Description": "Write persuasive copy for client landing pages to boost conversions.",
+        "Priority": "High",
+        "Estimated Time": 11.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Feature",
+        "Created Date": "2025-03-19",
+        "Template Category": "Design",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Campaign KPI Dashboard Setup",
+        "Task Description": "Set up dashboards to monitor key performance indicators for active campaigns.",
+        "Priority": "Medium",
+        "Estimated Time": 8.5,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Retainer",
+        "Created Date": "2025-02-01",
+        "Template Category": "PM",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Bug Fix: Payment Gateway",
+        "Task Description": "Fix issues with payment gateway integration on client portals.",
+        "Priority": "Critical",
+        "Estimated Time": 7.0,
+        "Status (Default)": "In Progress",
+        "Associated Project Type": "Bug Fix",
+        "Created Date": "2025-05-07",
+        "Template Category": "Dev",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Press Release Distribution",
+        "Task Description": "Distribute press releases to media contacts and track coverage.",
+        "Priority": "Medium",
+        "Estimated Time": 5.0,
+        "Status (Default)": "Done",
+        "Associated Project Type": "Feature",
+        "Created Date": "2025-01-27",
+        "Template Category": "Client",
+        "Estimated Complexity": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "User Feedback Collection Setup",
+        "Task Description": "Set up systems for collecting user feedback on website and apps.",
+        "Priority": "Medium",
+        "Estimated Time": 6.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Research",
+        "Created Date": "2025-04-19",
+        "Template Category": "PM",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Creative Asset Review",
+        "Task Description": "Review creative assets for brand compliance and quality standards.",
+        "Priority": "Medium",
+        "Estimated Time": 4.5,
+        "Status (Default)": "Review",
+        "Associated Project Type": "Enhancement",
+        "Created Date": "2025-03-03",
+        "Template Category": "Design",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Team Collaboration Workshop",
+        "Task Description": "Facilitate workshop to improve team collaboration and productivity.",
+        "Priority": "Low",
+        "Estimated Time": 3.0,
+        "Status (Default)": "Done",
+        "Associated Project Type": "Any",
+        "Created Date": "2025-06-13",
+        "Template Category": "Meeting",
+        "Estimated Complexity": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Email Automation Workflow Setup",
+        "Task Description": "Create automated workflows for email marketing campaigns.",
+        "Priority": "High",
+        "Estimated Time": 14.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Feature",
+        "Created Date": "2025-01-08",
+        "Template Category": "PM",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Bug Fix: API Integration",
+        "Task Description": "Debug and fix API integration issues affecting data synchronization.",
+        "Priority": "Critical",
+        "Estimated Time": 12.0,
+        "Status (Default)": "In Progress",
+        "Associated Project Type": "Bug Fix",
+        "Created Date": "2025-05-25",
+        "Template Category": "Dev",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Competitor Analysis Report",
+        "Task Description": "Prepare detailed competitor analysis report to guide marketing strategy.",
+        "Priority": "High",
+        "Estimated Time": 20.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Research",
+        "Created Date": "2025-03-14",
+        "Template Category": "PM",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Video Captioning and Subtitles",
+        "Task Description": "Add captions and subtitles to video marketing materials.",
+        "Priority": "Medium",
+        "Estimated Time": 7.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Enhancement",
+        "Created Date": "2025-04-24",
+        "Template Category": "Design",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Internal Audit Preparation",
+        "Task Description": "Prepare documentation and data for internal audit of marketing operations.",
+        "Priority": "Medium",
+        "Estimated Time": 8.0,
+        "Status (Default)": "Review",
+        "Associated Project Type": "Maintenance",
+        "Created Date": "2025-02-16",
+        "Template Category": "Admin",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Customer Success Story Creation",
+        "Task Description": "Develop customer success stories and case studies for marketing use.",
+        "Priority": "High",
+        "Estimated Time": 11.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Feature",
+        "Created Date": "2025-01-22",
+        "Template Category": "Documentation",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Weekly Team Meeting",
+        "Task Description": "Organize weekly team meeting to discuss project status and blockers.",
+        "Priority": "Low",
+        "Estimated Time": 1.0,
+        "Status (Default)": "Done",
+        "Associated Project Type": "Any",
+        "Created Date": "2025-06-08",
+        "Template Category": "Meeting",
+        "Estimated Complexity": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "New Feature Testing",
+        "Task Description": "Test new features in client software before release to production.",
+        "Priority": "High",
+        "Estimated Time": 15.0,
+        "Status (Default)": "In Progress",
+        "Associated Project Type": "Feature",
+        "Created Date": "2025-05-29",
+        "Template Category": "QA",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Content Idea Brainstorm",
+        "Task Description": "Brainstorm new content ideas for client blogs and social media channels.",
+        "Priority": "Medium",
+        "Estimated Time": 5.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Research",
+        "Created Date": "2025-03-28",
+        "Template Category": "PM",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Bug Fix: User Registration",
+        "Task Description": "Resolve bugs preventing users from successfully registering accounts.",
+        "Priority": "Critical",
+        "Estimated Time": 6.5,
+        "Status (Default)": "In Progress",
+        "Associated Project Type": "Bug Fix",
+        "Created Date": "2025-04-21",
+        "Template Category": "Dev",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Campaign Launch Checklist",
+        "Task Description": "Prepare checklist for launching digital campaigns across platforms.",
+        "Priority": "High",
+        "Estimated Time": 4.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Feature",
+        "Created Date": "2025-02-06",
+        "Template Category": "PM",
+        "Estimated Complexity": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Monthly Social Content Planning",
+        "Task Description": "Plan and schedule social content for the upcoming month.",
+        "Priority": "Medium",
+        "Estimated Time": 10.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Retainer",
+        "Created Date": "2025-01-31",
+        "Template Category": "PM",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Press Conference Coordination",
+        "Task Description": "Coordinate logistics and materials for upcoming client press conference.",
+        "Priority": "High",
+        "Estimated Time": 7.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Feature",
+        "Created Date": "2025-03-07",
+        "Template Category": "Client",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Data Backup and Security Check",
+        "Task Description": "Perform data backup and run security checks on client databases.",
+        "Priority": "Medium",
+        "Estimated Time": 6.0,
+        "Status (Default)": "Done",
+        "Associated Project Type": "Maintenance",
+        "Created Date": "2025-05-13",
+        "Template Category": "Admin",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Customer Support Training",
+        "Task Description": "Train customer support staff on new tools and procedures.",
+        "Priority": "Medium",
+        "Estimated Time": 5.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Any",
+        "Created Date": "2025-04-04",
+        "Template Category": "Admin",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Brand Messaging Workshop",
+        "Task Description": "Host workshop to refine brand messaging and tone of voice.",
+        "Priority": "High",
+        "Estimated Time": 7.0,
+        "Status (Default)": "Done",
+        "Associated Project Type": "Feature",
+        "Created Date": "2025-02-23",
+        "Template Category": "PM",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Bug Fix: Analytics Dashboard",
+        "Task Description": "Fix bugs causing data inaccuracies on analytics dashboards.",
+        "Priority": "Critical",
+        "Estimated Time": 8.0,
+        "Status (Default)": "In Progress",
+        "Associated Project Type": "Bug Fix",
+        "Created Date": "2025-06-18",
+        "Template Category": "QA",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Email Campaign Performance Report",
+        "Task Description": "Generate performance reports for recent email marketing campaigns.",
+        "Priority": "Medium",
+        "Estimated Time": 5.5,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Retainer",
+        "Created Date": "2025-01-17",
+        "Template Category": "Documentation",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Content Review and Approval",
+        "Task Description": "Review client content drafts and get approval before publishing.",
+        "Priority": "Medium",
+        "Estimated Time": 3.0,
+        "Status (Default)": "Review",
+        "Associated Project Type": "Enhancement",
+        "Created Date": "2025-04-11",
+        "Template Category": "Client",
+        "Estimated Complexity": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Marketing Automation Audit",
+        "Task Description": "Audit marketing automation workflows and optimize for efficiency.",
+        "Priority": "High",
+        "Estimated Time": 12.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Maintenance",
+        "Created Date": "2025-03-27",
+        "Template Category": "Admin",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "New Product Launch Campaign",
+        "Task Description": "Plan and execute marketing campaign for new product launch.",
+        "Priority": "Critical",
+        "Estimated Time": 30.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Feature",
+        "Created Date": "2024-12-22",
+        "Template Category": "PM",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Social Media Engagement Tracking",
+        "Task Description": "Track and analyze social media engagement metrics daily.",
+        "Priority": "Medium",
+        "Estimated Time": 6.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Retainer",
+        "Created Date": "2025-05-09",
+        "Template Category": "PM",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Bug Fix: Mobile App Crash",
+        "Task Description": "Diagnose and fix crash issues reported in the mobile app.",
+        "Priority": "Critical",
+        "Estimated Time": 14.0,
+        "Status (Default)": "In Progress",
+        "Associated Project Type": "Bug Fix",
+        "Created Date": "2025-04-29",
+        "Template Category": "QA",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Client Proposal Drafting",
+        "Task Description": "Draft proposals for new client projects including scope and timelines.",
+        "Priority": "High",
+        "Estimated Time": 8.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Any",
+        "Created Date": "2025-02-13",
+        "Template Category": "PM",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Creative Brainstorm Session",
+        "Task Description": "Conduct brainstorming session to generate creative ideas for campaigns.",
+        "Priority": "Medium",
+        "Estimated Time": 4.0,
+        "Status (Default)": "Done",
+        "Associated Project Type": "Feature",
+        "Created Date": "2025-01-07",
+        "Template Category": "Design",
+        "Estimated Complexity": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Newsletter Content Curation",
+        "Task Description": "Curate and write content for monthly client newsletters.",
+        "Priority": "Medium",
+        "Estimated Time": 7.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Retainer",
+        "Created Date": "2025-03-23",
+        "Template Category": "Documentation",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Security Vulnerability Scan",
+        "Task Description": "Run security scans to detect vulnerabilities in client systems.",
+        "Priority": "High",
+        "Estimated Time": 5.0,
+        "Status (Default)": "Done",
+        "Associated Project Type": "Maintenance",
+        "Created Date": "2025-05-26",
+        "Template Category": "Admin",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Client Feedback Analysis",
+        "Task Description": "Analyze client feedback to identify improvement areas.",
+        "Priority": "Medium",
+        "Estimated Time": 6.5,
+        "Status (Default)": "Review",
+        "Associated Project Type": "Client",
+        "Created Date": "2025-02-09",
+        "Template Category": "PM",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Campaign Creative Asset Upload",
+        "Task Description": "Upload and organize creative assets in project management tools.",
+        "Priority": "Low",
+        "Estimated Time": 2.0,
+        "Status (Default)": "Done",
+        "Associated Project Type": "Feature",
+        "Created Date": "2025-04-06",
+        "Template Category": "Admin",
+        "Estimated Complexity": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "User Experience Survey",
+        "Task Description": "Design and distribute survey to gather user experience data.",
+        "Priority": "Medium",
+        "Estimated Time": 7.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Research",
+        "Created Date": "2025-01-26",
+        "Template Category": "PM",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Bug Fix: Newsletter Formatting",
+        "Task Description": "Fix formatting issues in client newsletters across email clients.",
+        "Priority": "Medium",
+        "Estimated Time": 3.5,
+        "Status (Default)": "In Progress",
+        "Associated Project Type": "Bug Fix",
+        "Created Date": "2025-06-02",
+        "Template Category": "QA",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Campaign Retargeting List Build",
+        "Task Description": "Build and segment retargeting lists for advertising campaigns.",
+        "Priority": "High",
+        "Estimated Time": 10.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Feature",
+        "Created Date": "2025-03-16",
+        "Template Category": "PM",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Client Satisfaction Call",
+        "Task Description": "Schedule and conduct client satisfaction call post-campaign.",
+        "Priority": "Medium",
+        "Estimated Time": 1.5,
+        "Status (Default)": "Done",
+        "Associated Project Type": "Retainer",
+        "Created Date": "2025-05-04",
+        "Template Category": "Client",
+        "Estimated Complexity": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Website Content Update",
+        "Task Description": "Update client website content to reflect latest branding and offers.",
+        "Priority": "Medium",
+        "Estimated Time": 8.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Enhancement",
+        "Created Date": "2025-02-22",
+        "Template Category": "Documentation",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Marketing Team Retrospective",
+        "Task Description": "Conduct retrospective meeting to review completed projects and lessons learned.",
+        "Priority": "Low",
+        "Estimated Time": 2.0,
+        "Status (Default)": "Done",
+        "Associated Project Type": "Any",
+        "Created Date": "2025-06-11",
+        "Template Category": "Meeting",
+        "Estimated Complexity": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Email List Hygiene",
+        "Task Description": "Clean email lists to remove invalid and inactive addresses.",
+        "Priority": "Medium",
+        "Estimated Time": 4.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Maintenance",
+        "Created Date": "2025-04-30",
+        "Template Category": "Admin",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Paid Ads Budget Proposal",
+        "Task Description": "Prepare budget proposal for upcoming paid advertising campaigns.",
+        "Priority": "High",
+        "Estimated Time": 6.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Feature",
+        "Created Date": "2025-01-21",
+        "Template Category": "PM",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Bug Fix: Social Login",
+        "Task Description": "Fix issues with social media login functionality on client websites.",
+        "Priority": "Critical",
+        "Estimated Time": 7.5,
+        "Status (Default)": "In Progress",
+        "Associated Project Type": "Bug Fix",
+        "Created Date": "2025-05-19",
+        "Template Category": "Dev",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Campaign Competitor Benchmarking",
+        "Task Description": "Benchmark campaign performance against competitors to identify gaps.",
+        "Priority": "Medium",
+        "Estimated Time": 9.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Research",
+        "Created Date": "2025-03-01",
+        "Template Category": "PM",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Creative Asset Resizing",
+        "Task Description": "Resize creative assets for various ad platform requirements.",
+        "Priority": "Low",
+        "Estimated Time": 3.0,
+        "Status (Default)": "Done",
+        "Associated Project Type": "Enhancement",
+        "Created Date": "2025-04-14",
+        "Template Category": "Design",
+        "Estimated Complexity": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Content Legal Compliance Review",
+        "Task Description": "Review marketing content for legal compliance and copyright issues.",
+        "Priority": "High",
+        "Estimated Time": 5.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Maintenance",
+        "Created Date": "2025-02-05",
+        "Template Category": "Documentation",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "New Feature Rollout Plan",
+        "Task Description": "Develop rollout plan for new product features including communication and training.",
+        "Priority": "High",
+        "Estimated Time": 12.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Feature",
+        "Created Date": "2025-01-11",
+        "Template Category": "PM",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Client Referral Program Setup",
+        "Task Description": "Set up client referral program incentives and tracking mechanisms.",
+        "Priority": "Medium",
+        "Estimated Time": 6.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Enhancement",
+        "Created Date": "2025-05-03",
+        "Template Category": "Client",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Bug Fix: Analytics Data Sync",
+        "Task Description": "Fix synchronization issues between analytics platforms.",
+        "Priority": "Critical",
+        "Estimated Time": 9.0,
+        "Status (Default)": "In Progress",
+        "Associated Project Type": "Bug Fix",
+        "Created Date": "2025-06-07",
+        "Template Category": "QA",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Social Media Graphics Refresh",
+        "Task Description": "Update and refresh social media graphic templates for new campaigns.",
+        "Priority": "Medium",
+        "Estimated Time": 7.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Feature",
+        "Created Date": "2025-03-18",
+        "Template Category": "Design",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Marketing Metrics Dashboard Review",
+        "Task Description": "Review and update marketing metrics dashboards for accuracy and relevance.",
+        "Priority": "Medium",
+        "Estimated Time": 5.0,
+        "Status (Default)": "Review",
+        "Associated Project Type": "Retainer",
+        "Created Date": "2025-04-09",
+        "Template Category": "PM",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Team Resource Planning",
+        "Task Description": "Plan team resources and capacity for upcoming projects and campaigns.",
+        "Priority": "High",
+        "Estimated Time": 8.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Any",
+        "Created Date": "2025-02-28",
+        "Template Category": "PM",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Training Materials Development",
+        "Task Description": "Create training materials for new marketing platform implementations.",
+        "Priority": "Medium",
+        "Estimated Time": 10.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Maintenance",
+        "Created Date": "2025-01-13",
+        "Template Category": "Documentation",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Bug Fix: Website Load Speed",
+        "Task Description": "Identify and fix factors causing slow website load times.",
+        "Priority": "Critical",
+        "Estimated Time": 8.5,
+        "Status (Default)": "In Progress",
+        "Associated Project Type": "Bug Fix",
+        "Created Date": "2025-05-17",
+        "Template Category": "Dev",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Corporate Event Planning",
+        "Task Description": "Plan and coordinate corporate marketing events for clients.",
+        "Priority": "Medium",
+        "Estimated Time": 12.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Any",
+        "Created Date": "2025-04-21",
+        "Template Category": "Meeting",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Newsletter Audience Segmentation",
+        "Task Description": "Segment newsletter audiences for targeted content delivery.",
+        "Priority": "Medium",
+        "Estimated Time": 6.5,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Retainer",
+        "Created Date": "2025-02-19",
+        "Template Category": "PM",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Content Quality Assurance",
+        "Task Description": "Perform quality assurance checks on content for accuracy and consistency.",
+        "Priority": "Medium",
+        "Estimated Time": 5.0,
+        "Status (Default)": "Review",
+        "Associated Project Type": "Enhancement",
+        "Created Date": "2025-03-13",
+        "Template Category": "QA",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Client Contract Renewal Preparation",
+        "Task Description": "Prepare documentation and reminders for upcoming client contract renewals.",
+        "Priority": "High",
+        "Estimated Time": 3.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Retainer",
+        "Created Date": "2025-05-30",
+        "Template Category": "Admin",
+        "Estimated Complexity": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Website Accessibility Audit",
+        "Task Description": "Conduct accessibility audit to ensure compliance with standards.",
+        "Priority": "High",
+        "Estimated Time": 15.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Maintenance",
+        "Created Date": "2025-01-25",
+        "Template Category": "QA",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Marketing Budget Forecasting",
+        "Task Description": "Forecast marketing budgets for upcoming quarters based on past spend and goals.",
+        "Priority": "Medium",
+        "Estimated Time": 7.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "PM",
+        "Created Date": "2025-04-27",
+        "Template Category": "PM",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Bug Fix: CRM Integration",
+        "Task Description": "Fix issues with CRM integration affecting client contact syncing.",
+        "Priority": "Critical",
+        "Estimated Time": 9.5,
+        "Status (Default)": "In Progress",
+        "Associated Project Type": "Bug Fix",
+        "Created Date": "2025-06-05",
+        "Template Category": "Dev",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Social Media Influencer Outreach",
+        "Task Description": "Identify and reach out to influencers for client campaigns.",
+        "Priority": "Medium",
+        "Estimated Time": 8.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Feature",
+        "Created Date": "2025-03-10",
+        "Template Category": "PM",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Video Content Planning",
+        "Task Description": "Plan video content topics and schedules for upcoming campaigns.",
+        "Priority": "Medium",
+        "Estimated Time": 6.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Enhancement",
+        "Created Date": "2025-02-07",
+        "Template Category": "Design",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Client Performance Dashboard Setup",
+        "Task Description": "Set up client-specific performance dashboards for real-time monitoring.",
+        "Priority": "High",
+        "Estimated Time": 12.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Retainer",
+        "Created Date": "2025-01-16",
+        "Template Category": "PM",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Internal Process Optimization",
+        "Task Description": "Analyze and optimize internal marketing processes for efficiency.",
+        "Priority": "Medium",
+        "Estimated Time": 10.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Maintenance",
+        "Created Date": "2025-05-21",
+        "Template Category": "Admin",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "AI Content Strategy Planning",
+        "Task Description": "Develop a comprehensive AI-powered content strategy for maximizing client engagement and reach across digital channels.",
+        "Priority": "High",
+        "Estimated Time": 15.5,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Feature",
+        "Created Date": "2025-01-10",
+        "Template Category": "PM",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Monthly SEO Audit",
+        "Task Description": "Perform a detailed SEO audit using AI tools to identify ranking issues and optimization opportunities.",
+        "Priority": "Medium",
+        "Estimated Time": 8.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Maintenance",
+        "Created Date": "2024-12-05",
+        "Template Category": "QA",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "AI-Driven Social Media Post Creation",
+        "Task Description": "Create engaging social media posts utilizing AI content generators optimized for client brand voice and audience.",
+        "Priority": "High",
+        "Estimated Time": 10.0,
+        "Status (Default)": "In Progress",
+        "Associated Project Type": "Feature",
+        "Created Date": "2025-06-05",
+        "Template Category": "Design",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Client Onboarding Workflow",
+        "Task Description": "Set up AI-assisted client onboarding process including welcome emails, resource sharing, and kickoff meeting scheduling.",
+        "Priority": "Critical",
+        "Estimated Time": 12.5,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Retainer",
+        "Created Date": "2024-09-20",
+        "Template Category": "Client",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Bug Fix: AI Recommendation Engine",
+        "Task Description": "Identify and fix issues affecting recommendation accuracy in AI engine used for marketing automation.",
+        "Priority": "Critical",
+        "Estimated Time": 18.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Bug Fix",
+        "Created Date": "2025-03-15",
+        "Template Category": "Dev",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Quarterly Marketing Performance Report",
+        "Task Description": "Compile and analyze marketing performance data using AI analytics tools and prepare client report.",
+        "Priority": "Medium",
+        "Estimated Time": 7.0,
+        "Status (Default)": "Review",
+        "Associated Project Type": "Any",
+        "Created Date": "2025-04-08",
+        "Template Category": "Documentation",
+        "Estimated Complexity": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "AI Chatbot Integration Setup",
+        "Task Description": "Integrate AI chatbot into client website for lead generation and customer service automation.",
+        "Priority": "High",
+        "Estimated Time": 20.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Feature",
+        "Created Date": "2024-11-22",
+        "Template Category": "Dev",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Weekly Project Status Meeting",
+        "Task Description": "Organize and conduct weekly meetings to review project progress, blockers, and next steps with AI-generated agenda.",
+        "Priority": "Low",
+        "Estimated Time": 1.5,
+        "Status (Default)": "Done",
+        "Associated Project Type": "Any",
+        "Created Date": "2024-07-15",
+        "Template Category": "Meeting",
+        "Estimated Complexity": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Content Quality Assurance Check",
+        "Task Description": "Review AI-generated marketing content for accuracy, tone, and compliance before publishing.",
+        "Priority": "High",
+        "Estimated Time": 6.0,
+        "Status (Default)": "In Progress",
+        "Associated Project Type": "Maintenance",
+        "Created Date": "2025-05-18",
+        "Template Category": "QA",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Enhancement: AI Lead Scoring Model",
+        "Task Description": "Improve AI model for scoring leads by incorporating new behavioral data and feedback loops.",
+        "Priority": "Medium",
+        "Estimated Time": 25.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Enhancement",
+        "Created Date": "2024-10-30",
+        "Template Category": "Dev",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Admin Access Setup for New Users",
+        "Task Description": "Configure admin roles and permissions for new team members in AI tools and project management software.",
+        "Priority": "Low",
+        "Estimated Time": 2.0,
+        "Status (Default)": "Done",
+        "Associated Project Type": "Maintenance",
+        "Created Date": "2025-02-11",
+        "Template Category": "Admin",
+        "Estimated Complexity": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "AI-Powered Competitor Analysis",
+        "Task Description": "Use AI tools to analyze competitor marketing strategies and identify gaps and opportunities for clients.",
+        "Priority": "High",
+        "Estimated Time": 14.0,
+        "Status (Default)": "In Progress",
+        "Associated Project Type": "Research",
+        "Created Date": "2025-03-28",
+        "Template Category": "PM",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Design Template Refresh",
+        "Task Description": "Update existing design templates using AI to enhance visual appeal and brand alignment.",
+        "Priority": "Medium",
+        "Estimated Time": 9.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Enhancement",
+        "Created Date": "2024-08-10",
+        "Template Category": "Design",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Documentation for AI Tool Usage",
+        "Task Description": "Create detailed user manuals and guidelines for internal AI-powered marketing tools.",
+        "Priority": "Medium",
+        "Estimated Time": 13.0,
+        "Status (Default)": "Review",
+        "Associated Project Type": "Any",
+        "Created Date": "2025-01-25",
+        "Template Category": "Documentation",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Client Feedback Collection Process",
+        "Task Description": "Set up automated AI surveys and feedback collection to gather client responses post-campaign.",
+        "Priority": "Low",
+        "Estimated Time": 4.5,
+        "Status (Default)": "Done",
+        "Associated Project Type": "Retainer",
+        "Created Date": "2025-06-01",
+        "Template Category": "Client",
+        "Estimated Complexity": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Bug Fix: Email Automation Delay",
+        "Task Description": "Resolve delays in email automation workflows generated by AI scheduling tool causing campaign slowdowns.",
+        "Priority": "High",
+        "Estimated Time": 7.5,
+        "Status (Default)": "In Progress",
+        "Associated Project Type": "Bug Fix",
+        "Created Date": "2025-05-12",
+        "Template Category": "Dev",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Research New AI Marketing Trends",
+        "Task Description": "Conduct research on emerging AI marketing technologies and assess applicability for agency services.",
+        "Priority": "Medium",
+        "Estimated Time": 30.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Research",
+        "Created Date": "2024-09-05",
+        "Template Category": "PM",
+        "Estimated Complexity": "High"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Maintenance: Server and API Monitoring",
+        "Task Description": "Establish regular checks and alerts for server performance and AI API uptime to ensure reliability.",
+        "Priority": "High",
+        "Estimated Time": 10.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Maintenance",
+        "Created Date": "2025-04-20",
+        "Template Category": "Admin",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Prepare AI Marketing Workshop Materials",
+        "Task Description": "Develop training materials and exercises for client workshops on AI marketing capabilities.",
+        "Priority": "Medium",
+        "Estimated Time": 16.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Any",
+        "Created Date": "2025-02-15",
+        "Template Category": "Meeting",
+        "Estimated Complexity": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Template Name": "Enhancement: Automated Reporting Dashboard",
+        "Task Description": "Add new AI-driven features to client reporting dashboards for better insights and visualization.",
+        "Priority": "High",
+        "Estimated Time": 22.0,
+        "Status (Default)": "To Do",
+        "Associated Project Type": "Enhancement",
+        "Created Date": "2024-12-18",
+        "Template Category": "Dev",
+        "Estimated Complexity": "High"
+      }
+    }
+  ]
+}

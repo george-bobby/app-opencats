@@ -1,0 +1,827 @@
+[
+    {
+        "name": "Mister Jonathan Reed",
+        "title": "Mister",
+        "phone": "415-732-4819",
+        "mobile": "415-839-2746",
+        "job_position": "Sales Manager",
+        "email": "jonathan.reed@gmail.com",
+        "vat": "123-45-6789",
+        "primary_address": {
+            "contact_name": "Jonathan Reed",
+            "email": "jonathan.reed@gmail.com",
+            "street": "1234 Market St",
+            "city": "San Francisco",
+            "state": "California",
+            "zip_code": "94103",
+            "note": null
+        },
+        "category": "VIP",
+        "website": "http://jonathanreed.com",
+        "note": "Prefers email communication.",
+        "primary_bank_account": {
+            "bank_name": "JPMorgan Chase Bank",
+            "account_number": "9876543210"
+        }
+    },
+    {
+        "name": "Miss Emily Carter",
+        "title": "Miss",
+        "phone": "212-555-3746",
+        "mobile": "212-555-9234",
+        "job_position": "Marketing Coordinator",
+        "email": "emily.carter@outlook.com",
+        "vat": "234-56-7890",
+        "primary_address": {
+            "contact_name": "Emily Carter",
+            "email": "emily.carter@outlook.com",
+            "street": "56 W 45th St",
+            "city": "New York",
+            "state": "New York",
+            "zip_code": "10036",
+            "note": null
+        },
+        "category": "Prospect",
+        "website": null,
+        "note": "Interested in loyalty programs.",
+        "primary_bank_account": {
+            "bank_name": "Bank of America",
+            "account_number": "123456789012"
+        }
+    },
+    {
+        "name": "Mister Robert Thompson",
+        "title": "Mister",
+        "phone": "312-555-2287",
+        "mobile": "312-555-6678",
+        "job_position": "Product Manager",
+        "email": "robert.thompson@gmail.com",
+        "vat": "345-67-8901",
+        "primary_address": {
+            "contact_name": "Robert Thompson",
+            "email": "robert.thompson@gmail.com",
+            "street": "789 W Madison St",
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip_code": "60661",
+            "note": null
+        },
+        "category": "Partner",
+        "website": "http://robertthompsonproducts.com",
+        "note": null,
+        "primary_bank_account": {
+            "bank_name": "Wells Fargo Bank",
+            "account_number": "1122334455"
+        }
+    },
+    {
+        "name": "Madam Sophia Martinez",
+        "title": "Madam",
+        "phone": "305-555-7890",
+        "mobile": "305-555-1234",
+        "job_position": "Brand Ambassador",
+        "email": "sophia.martinez@hotmail.com",
+        "vat": "456-78-9012",
+        "primary_address": {
+            "contact_name": "Sophia Martinez",
+            "email": "sophia.martinez@hotmail.com",
+            "street": "120 Biscayne Blvd",
+            "city": "Miami",
+            "state": "Florida",
+            "zip_code": "33132",
+            "note": "Side door entrance"
+        },
+        "category": "Brand Ambassador",
+        "website": "http://sophiabrands.com",
+        "note": "Active on social media platforms.",
+        "primary_bank_account": {
+            "bank_name": "Citibank",
+            "account_number": "9988776655"
+        }
+    },
+    {
+        "name": "Mister Michael Johnson",
+        "title": "Mister",
+        "phone": "214-555-4444",
+        "mobile": "214-555-9888",
+        "job_position": "Investor Relations",
+        "email": "michael.johnson@gmail.com",
+        "vat": "567-89-0123",
+        "primary_address": {
+            "contact_name": "Michael Johnson",
+            "email": "michael.johnson@gmail.com",
+            "street": "3421 Elm St",
+            "city": "Dallas",
+            "state": "Texas",
+            "zip_code": "75201",
+            "note": null
+        },
+        "category": "Investor",
+        "website": null,
+        "note": "Interested in quarterly financial updates.",
+        "primary_bank_account": {
+            "bank_name": "PNC Bank",
+            "account_number": "5544332211"
+        }
+    },
+    {
+        "name": "Miss Olivia Brown",
+        "title": "Miss",
+        "phone": "617-555-6677",
+        "mobile": "617-555-3344",
+        "job_position": "Community Manager",
+        "email": "olivia.brown@outlook.com",
+        "vat": "678-90-1234",
+        "primary_address": {
+            "contact_name": "Olivia Brown",
+            "email": "olivia.brown@outlook.com",
+            "street": "89 Beacon St",
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip_code": "02108",
+            "note": null
+        },
+        "category": "Community Member",
+        "website": "http://oliviabrowncommunity.org",
+        "note": null,
+        "primary_bank_account": {
+            "bank_name": "Truist Bank",
+            "account_number": "6677889900"
+        }
+    },
+    {
+        "name": "Madam Ava Wilson",
+        "title": "Madam",
+        "phone": "206-555-1122",
+        "mobile": "206-555-7788",
+        "job_position": "Event Coordinator",
+        "email": "ava.wilson@gmail.com",
+        "vat": "789-01-2345",
+        "primary_address": {
+            "contact_name": "Ava Wilson",
+            "email": "ava.wilson@gmail.com",
+            "street": "450 Pine St",
+            "city": "Seattle",
+            "state": "Washington",
+            "zip_code": "98101",
+            "note": "Main entrance"
+        },
+        "category": "Event Attendee",
+        "website": null,
+        "note": "Attended last 3 annual events.",
+        "primary_bank_account": {
+            "bank_name": "Goldman Sachs Bank USA",
+            "account_number": "3344556677"
+        }
+    },
+    {
+        "name": "Mister William Lee",
+        "title": "Mister",
+        "phone": "702-555-9988",
+        "mobile": "702-555-7766",
+        "job_position": "Consultant",
+        "email": "william.lee@gmail.com",
+        "vat": "890-12-3456",
+        "primary_address": {
+            "contact_name": "William Lee",
+            "email": "william.lee@gmail.com",
+            "street": "987 Sunset Blvd",
+            "city": "Las Vegas",
+            "state": "Nevada",
+            "zip_code": "89109",
+            "note": null
+        },
+        "category": "Consultant",
+        "website": "http://williamleecorp.com",
+        "note": "Expert in retail analytics.",
+        "primary_bank_account": {
+            "bank_name": "Capital One Bank",
+            "account_number": "2233445566"
+        }
+    },
+    {
+        "name": "Miss Mia Davis",
+        "title": "Miss",
+        "phone": "415-555-2233",
+        "mobile": "415-555-9988",
+        "job_position": "Social Media Manager",
+        "email": "mia.davis@hotmail.com",
+        "vat": "901-23-4567",
+        "primary_address": {
+            "contact_name": "Mia Davis",
+            "email": "mia.davis@hotmail.com",
+            "street": "123 Castro St",
+            "city": "San Francisco",
+            "state": "California",
+            "zip_code": "94114",
+            "note": null
+        },
+        "category": "Social Media",
+        "website": "http://miadavis.social",
+        "note": null,
+        "primary_bank_account": {
+            "bank_name": "TD Bank, N.A.",
+            "account_number": "6655443322"
+        }
+    },
+    {
+        "name": "Mister James Anderson",
+        "title": "Mister",
+        "phone": "303-555-4455",
+        "mobile": "303-555-1122",
+        "job_position": "Sales Executive",
+        "email": "james.anderson@gmail.com",
+        "vat": "012-34-5678",
+        "primary_address": {
+            "contact_name": "James Anderson",
+            "email": "james.anderson@gmail.com",
+            "street": "789 Colorado Blvd",
+            "city": "Denver",
+            "state": "Colorado",
+            "zip_code": "80206",
+            "note": null
+        },
+        "category": "Referral",
+        "website": null,
+        "note": "Referred by previous client.",
+        "primary_bank_account": {
+            "bank_name": "Charles Schwab Bank",
+            "account_number": "7788990011"
+        }
+    },
+    {
+        "name": "Madam Isabella Martinez",
+        "title": "Madam",
+        "phone": "512-555-3344",
+        "mobile": "512-555-5566",
+        "job_position": "Volunteer Coordinator",
+        "email": "isabella.martinez@gmail.com",
+        "vat": "123-45-6780",
+        "primary_address": {
+            "contact_name": "Isabella Martinez",
+            "email": "isabella.martinez@gmail.com",
+            "street": "456 Congress Ave",
+            "city": "Austin",
+            "state": "Texas",
+            "zip_code": "78701",
+            "note": null
+        },
+        "category": "Volunteer",
+        "website": null,
+        "note": "Organizes monthly community events.",
+        "primary_bank_account": {
+            "bank_name": "Bank of New York Mellon",
+            "account_number": "3344112233"
+        }
+    },
+    {
+        "name": "Mister Daniel Thomas",
+        "title": "Mister",
+        "phone": "407-555-6677",
+        "mobile": "407-555-8899",
+        "job_position": "Industry Expert",
+        "email": "daniel.thomas@outlook.com",
+        "vat": "234-56-7891",
+        "primary_address": {
+            "contact_name": "Daniel Thomas",
+            "email": "daniel.thomas@outlook.com",
+            "street": "789 Orange Ave",
+            "city": "Orlando",
+            "state": "Florida",
+            "zip_code": "32801",
+            "note": "Back entrance"
+        },
+        "category": "Industry Expert",
+        "website": "http://danielthomasconsulting.com",
+        "note": null,
+        "primary_bank_account": {
+            "bank_name": "State Street Bank and Trust Company",
+            "account_number": "9988007766"
+        }
+    },
+    {
+        "name": "Miss Charlotte Harris",
+        "title": "Miss",
+        "phone": "216-555-7788",
+        "mobile": "216-555-6677",
+        "job_position": "Advocate",
+        "email": "charlotte.harris@gmail.com",
+        "vat": "345-67-8902",
+        "primary_address": {
+            "contact_name": "Charlotte Harris",
+            "email": "charlotte.harris@gmail.com",
+            "street": "123 Lake Ave",
+            "city": "Cleveland",
+            "state": "Ohio",
+            "zip_code": "44114",
+            "note": null
+        },
+        "category": "Advocate",
+        "website": "http://charlotteadvocacy.org",
+        "note": "Focuses on consumer rights.",
+        "primary_bank_account": {
+            "bank_name": "Fifth Third Bank",
+            "account_number": "4455667788"
+        }
+    },
+    {
+        "name": "Mister Benjamin Young",
+        "title": "Mister",
+        "phone": "512-555-1234",
+        "mobile": "512-555-7890",
+        "job_position": "Donor Relations",
+        "email": "benjamin.young@gmail.com",
+        "vat": "456-78-9013",
+        "primary_address": {
+            "contact_name": "Benjamin Young",
+            "email": "benjamin.young@gmail.com",
+            "street": "321 Lamar Blvd",
+            "city": "Austin",
+            "state": "Texas",
+            "zip_code": "78703",
+            "note": null
+        },
+        "category": "Donor",
+        "website": null,
+        "note": "Regular donor since 2018.",
+        "primary_bank_account": {
+            "bank_name": "KeyBank",
+            "account_number": "5566778899"
+        }
+    },
+    {
+        "name": "Madam Amelia King",
+        "title": "Madam",
+        "phone": "480-555-3344",
+        "mobile": "480-555-5566",
+        "job_position": "Sponsor Coordinator",
+        "email": "amelia.king@gmail.com",
+        "vat": "567-89-0124",
+        "primary_address": {
+            "contact_name": "Amelia King",
+            "email": "amelia.king@gmail.com",
+            "street": "100 E McKellips Rd",
+            "city": "Mesa",
+            "state": "Arizona",
+            "zip_code": "85203",
+            "note": null
+        },
+        "category": "Sponsor",
+        "website": "http://ameliakingevents.com",
+        "note": null,
+        "primary_bank_account": {
+            "bank_name": "Citizens Bank",
+            "account_number": "6677889900"
+        }
+    },
+    {
+        "name": "Miss Harper Scott",
+        "title": "Miss",
+        "phone": "619-555-7788",
+        "mobile": "619-555-6677",
+        "job_position": "Newsletter Editor",
+        "email": "harper.scott@hotmail.com",
+        "vat": "678-90-1235",
+        "primary_address": {
+            "contact_name": "Harper Scott",
+            "email": "harper.scott@hotmail.com",
+            "street": "456 Broadway",
+            "city": "San Diego",
+            "state": "California",
+            "zip_code": "92101",
+            "note": null
+        },
+        "category": "Newsletter",
+        "website": null,
+        "note": "Publishes monthly newsletter.",
+        "primary_bank_account": {
+            "bank_name": "Huntington National Bank",
+            "account_number": "7788990011"
+        }
+    },
+    {
+        "name": "Mister Elijah Green",
+        "title": "Mister",
+        "phone": "404-555-2233",
+        "mobile": "404-555-9988",
+        "job_position": "Retail Consultant",
+        "email": "elijah.green@gmail.com",
+        "vat": "789-01-2346",
+        "primary_address": {
+            "contact_name": "Elijah Green",
+            "email": "elijah.green@gmail.com",
+            "street": "123 Peachtree St",
+            "city": "Atlanta",
+            "state": "Georgia",
+            "zip_code": "30303",
+            "note": null
+        },
+        "category": "Consultant",
+        "website": "http://elijahgreenconsulting.com",
+        "note": "Specializes in retail expansion.",
+        "primary_bank_account": {
+            "bank_name": "Santander Bank, N.A.",
+            "account_number": "8899001122"
+        }
+    },
+    {
+        "name": "Mister Alexander Walker",
+        "title": "Mister",
+        "phone": "713-555-4455",
+        "mobile": "713-555-1122",
+        "job_position": "Community Member",
+        "email": "alexander.walker@gmail.com",
+        "vat": "890-12-3457",
+        "primary_address": {
+            "contact_name": "Alexander Walker",
+            "email": "alexander.walker@gmail.com",
+            "street": "789 Main St",
+            "city": "Houston",
+            "state": "Texas",
+            "zip_code": "77002",
+            "note": null
+        },
+        "category": "Community Member",
+        "website": null,
+        "note": null,
+        "primary_bank_account": {
+            "bank_name": "American Bank",
+            "account_number": "9988776655"
+        }
+    },
+    {
+        "name": "Miss Evelyn Harris",
+        "title": "Miss",
+        "phone": "972-555-3344",
+        "mobile": "972-555-5566",
+        "job_position": "Influencer",
+        "email": "evelyn.harris@gmail.com",
+        "vat": "901-23-4568",
+        "primary_address": {
+            "contact_name": "Evelyn Harris",
+            "email": "evelyn.harris@gmail.com",
+            "street": "123 Elm St",
+            "city": "Plano",
+            "state": "Texas",
+            "zip_code": "75074",
+            "note": null
+        },
+        "category": "Influencer",
+        "website": "http://evelynharris.influencer",
+        "note": "Active on Instagram and TikTok.",
+        "primary_bank_account": {
+            "bank_name": "Discover Bank",
+            "account_number": "1122446688"
+        }
+    },
+    {
+        "name": "Madam Abigail Nelson",
+        "title": "Madam",
+        "phone": "303-555-7788",
+        "mobile": "303-555-6677",
+        "job_position": "Advocate",
+        "email": "abigail.nelson@outlook.com",
+        "vat": "012-34-5679",
+        "primary_address": {
+            "contact_name": "Abigail Nelson",
+            "email": "abigail.nelson@outlook.com",
+            "street": "456 Cherry Creek",
+            "city": "Denver",
+            "state": "Colorado",
+            "zip_code": "80209",
+            "note": null
+        },
+        "category": "Advocate",
+        "website": null,
+        "note": "Promotes sustainable products.",
+        "primary_bank_account": {
+            "bank_name": "Ally Bank",
+            "account_number": "2233557799"
+        }
+    },
+    {
+        "name": "Mister Matthew Carter",
+        "title": "Mister",
+        "phone": "206-555-9988",
+        "mobile": "206-555-7766",
+        "job_position": "Sponsor",
+        "email": "matthew.carter@gmail.com",
+        "vat": "123-45-6780",
+        "primary_address": {
+            "contact_name": "Matthew Carter",
+            "email": "matthew.carter@gmail.com",
+            "street": "789 5th Ave",
+            "city": "Seattle",
+            "state": "Washington",
+            "zip_code": "98101",
+            "note": null
+        },
+        "category": "Sponsor",
+        "website": null,
+        "note": "Supports community initiatives.",
+        "primary_bank_account": {
+            "bank_name": "Bank of the West",
+            "account_number": "3344667788"
+        }
+    },
+    {
+        "name": "Miss Ella Mitchell",
+        "title": "Miss",
+        "phone": "617-555-2233",
+        "mobile": "617-555-9988",
+        "job_position": "Volunteer",
+        "email": "ella.mitchell@gmail.com",
+        "vat": "234-56-7891",
+        "primary_address": {
+            "contact_name": "Ella Mitchell",
+            "email": "ella.mitchell@gmail.com",
+            "street": "123 Boylston St",
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip_code": "02116",
+            "note": null
+        },
+        "category": "Volunteer",
+        "website": null,
+        "note": "Volunteers at local events.",
+        "primary_bank_account": {
+            "bank_name": "First Horizon Bank",
+            "account_number": "4455778899"
+        }
+    },
+    {
+        "name": "Mister Henry Perez",
+        "title": "Mister",
+        "phone": "214-555-3344",
+        "mobile": "214-555-5566",
+        "job_position": "Brand Ambassador",
+        "email": "henry.perez@gmail.com",
+        "vat": "345-67-8902",
+        "primary_address": {
+            "contact_name": "Henry Perez",
+            "email": "henry.perez@gmail.com",
+            "street": "789 Main St",
+            "city": "Dallas",
+            "state": "Texas",
+            "zip_code": "75201",
+            "note": null
+        },
+        "category": "Brand Ambassador",
+        "website": "http://henryperezbrands.com",
+        "note": null,
+        "primary_bank_account": {
+            "bank_name": "UMB Bank, N.A.",
+            "account_number": "5566889900"
+        }
+    },
+    {
+        "name": "Miss Grace Roberts",
+        "title": "Miss",
+        "phone": "919-555-7788",
+        "mobile": "919-555-6677",
+        "job_position": "Event Attendee",
+        "email": "grace.roberts@hotmail.com",
+        "vat": "456-78-9013",
+        "primary_address": {
+            "contact_name": "Grace Roberts",
+            "email": "grace.roberts@hotmail.com",
+            "street": "123 Fayetteville St",
+            "city": "Raleigh",
+            "state": "North Carolina",
+            "zip_code": "27601",
+            "note": null
+        },
+        "category": "Event Attendee",
+        "website": null,
+        "note": "Attended recent product launch.",
+        "primary_bank_account": {
+            "bank_name": "Flagstar Bank",
+            "account_number": "6677990011"
+        }
+    },
+    {
+        "name": "Mister Samuel Ramirez",
+        "title": "Mister",
+        "phone": "858-555-2233",
+        "mobile": "858-555-9988",
+        "job_position": "Prospect",
+        "email": "samuel.ramirez@gmail.com",
+        "vat": "567-89-0124",
+        "primary_address": {
+            "contact_name": "Samuel Ramirez",
+            "email": "samuel.ramirez@gmail.com",
+            "street": "456 Mission Blvd",
+            "city": "San Diego",
+            "state": "California",
+            "zip_code": "92109",
+            "note": null
+        },
+        "category": "Prospect",
+        "website": null,
+        "note": "Interested in product demos.",
+        "primary_bank_account": {
+            "bank_name": "Commerce Bank",
+            "account_number": "7788112233"
+        }
+    },
+    {
+        "name": "Madam Victoria Clark",
+        "title": "Madam",
+        "phone": "720-555-4455",
+        "mobile": "720-555-1122",
+        "job_position": "Consultant",
+        "email": "victoria.clark@gmail.com",
+        "vat": "678-90-1235",
+        "primary_address": {
+            "contact_name": "Victoria Clark",
+            "email": "victoria.clark@gmail.com",
+            "street": "789 Colfax Ave",
+            "city": "Denver",
+            "state": "Colorado",
+            "zip_code": "80204",
+            "note": null
+        },
+        "category": "Consultant",
+        "website": "http://victoriaclarkconsulting.com",
+        "note": null,
+        "primary_bank_account": {
+            "bank_name": "Frost Bank",
+            "account_number": "8899223344"
+        }
+    },
+    {
+        "name": "Mister Jackson Lewis",
+        "title": "Mister",
+        "phone": "602-555-3344",
+        "mobile": "602-555-5566",
+        "job_position": "Community Member",
+        "email": "jackson.lewis@gmail.com",
+        "vat": "789-01-2346",
+        "primary_address": {
+            "contact_name": "Jackson Lewis",
+            "email": "jackson.lewis@gmail.com",
+            "street": "123 Camelback Rd",
+            "city": "Phoenix",
+            "state": "Arizona",
+            "zip_code": "85016",
+            "note": null
+        },
+        "category": "Community Member",
+        "website": null,
+        "note": null,
+        "primary_bank_account": {
+            "bank_name": "Webster Bank",
+            "account_number": "9900112233"
+        }
+    },
+    {
+        "name": "Miss Lily Walker",
+        "title": "Miss",
+        "phone": "713-555-7788",
+        "mobile": "713-555-6677",
+        "job_position": "Industry Expert",
+        "email": "lily.walker@hotmail.com",
+        "vat": "890-12-3457",
+        "primary_address": {
+            "contact_name": "Lily Walker",
+            "email": "lily.walker@hotmail.com",
+            "street": "456 Texas St",
+            "city": "Houston",
+            "state": "Texas",
+            "zip_code": "77002",
+            "note": null
+        },
+        "category": "Industry Expert",
+        "website": "http://lilywalkerindustry.com",
+        "note": "Specializes in retail trends.",
+        "primary_bank_account": {
+            "bank_name": "MidFirst Bank",
+            "account_number": "1122334455"
+        }
+    },
+    {
+        "name": "Mister David Hall",
+        "title": "Mister",
+        "phone": "305-555-9988",
+        "mobile": "305-555-7766",
+        "job_position": "Investor",
+        "email": "david.hall@gmail.com",
+        "vat": "901-23-4568",
+        "primary_address": {
+            "contact_name": "David Hall",
+            "email": "david.hall@gmail.com",
+            "street": "789 Ocean Dr",
+            "city": "Miami",
+            "state": "Florida",
+            "zip_code": "33139",
+            "note": null
+        },
+        "category": "Investor",
+        "website": null,
+        "note": "Long-term investor.",
+        "primary_bank_account": {
+            "bank_name": "Navy Federal Credit Union",
+            "account_number": "2233445566"
+        }
+    },
+    {
+        "name": "Miss Natalie Allen",
+        "title": "Miss",
+        "phone": "415-555-2233",
+        "mobile": "415-555-9988",
+        "job_position": "Advocate",
+        "email": "natalie.allen@gmail.com",
+        "vat": "012-34-5679",
+        "primary_address": {
+            "contact_name": "Natalie Allen",
+            "email": "natalie.allen@gmail.com",
+            "street": "123 Mission St",
+            "city": "San Francisco",
+            "state": "California",
+            "zip_code": "94105",
+            "note": null
+        },
+        "category": "Advocate",
+        "website": null,
+        "note": "Passionate about ethical retail.",
+        "primary_bank_account": {
+            "bank_name": "American Express Bank, FSB",
+            "account_number": "3344556677"
+        }
+    },
+    {
+        "name": "Mister Christopher Wright",
+        "title": "Mister",
+        "phone": "202-555-3344",
+        "mobile": "202-555-5566",
+        "job_position": "Brand Ambassador",
+        "email": "christopher.wright@gmail.com",
+        "vat": "123-45-6780",
+        "primary_address": {
+            "contact_name": "Christopher Wright",
+            "email": "christopher.wright@gmail.com",
+            "street": "789 K St NW",
+            "city": "Washington",
+            "state": "District of Columbia",
+            "zip_code": "20001",
+            "note": null
+        },
+        "category": "Brand Ambassador",
+        "website": "http://christopherwrightbrands.com",
+        "note": null,
+        "primary_bank_account": {
+            "bank_name": "U.S. Bank",
+            "account_number": "4455667788"
+        }
+    },
+    {
+        "name": "Miss Zoe King",
+        "title": "Miss",
+        "phone": "720-555-7788",
+        "mobile": "720-555-6677",
+        "job_position": "Volunteer",
+        "email": "zoe.king@hotmail.com",
+        "vat": "234-56-7891",
+        "primary_address": {
+            "contact_name": "Zoe King",
+            "email": "zoe.king@hotmail.com",
+            "street": "123 Broadway",
+            "city": "Denver",
+            "state": "Colorado",
+            "zip_code": "80203",
+            "note": null
+        },
+        "category": "Volunteer",
+        "website": null,
+        "note": "Helps with fundraising.",
+        "primary_bank_account": {
+            "bank_name": "Regions Bank",
+            "account_number": "5566778899"
+        }
+    },
+    {
+        "name": "Mister Logan Scott",
+        "title": "Mister",
+        "phone": "312-555-2233",
+        "mobile": "312-555-9988",
+        "job_position": "Prospect",
+        "email": "logan.scott@gmail.com",
+        "vat": "345-67-8902",
+        "primary_address": {
+            "contact_name": "Logan Scott",
+            "email": "logan.scott@gmail.com",
+            "street": "456 Michigan Ave",
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip_code": "60611",
+            "note": null
+        },
+        "category": "Prospect",
+        "website": null,
+        "note": "Requested product samples.",
+        "primary_bank_account": {
+            "bank_name": "BMO Harris Bank N.A.",
+            "account_number": "6677889900"
+        }
+    }
+]

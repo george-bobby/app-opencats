@@ -1,0 +1,3607 @@
+{
+  "table_name": "Time Logs",
+  "parent_workspace_name": "Client Projects",
+  "parent_base_name": "Client Projects",
+  "records": [
+    {
+      "fields": {
+        "Log Date": "2024-09-12",
+        "Hours Logged": 5.2,
+        "Description / Notes": "Developed and optimized AI-driven marketing content strategies targeting key demographics with personalized ad copy.",
+        "Billable": "Yes",
+        "Activity Type": "Coding",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 890.4
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-03-05",
+        "Hours Logged": 3.6,
+        "Description / Notes": "Conducted a detailed review of website UI elements and proposed enhancements for mobile responsiveness and accessibility.",
+        "Billable": "Yes",
+        "Activity Type": "Review",
+        "Timestamp": "2025-06-26T12:00:01Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 540.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-12-18",
+        "Hours Logged": 2.4,
+        "Description / Notes": "Designed email campaign templates focused on seasonal promotions with embedded AI personalization features.",
+        "Billable": "Yes",
+        "Activity Type": "Design",
+        "Timestamp": "2025-06-26T12:00:02Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 360.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-01-22",
+        "Hours Logged": 4.8,
+        "Description / Notes": "Performed extensive SEO keyword research to increase organic traffic and improve search rankings for clients.",
+        "Billable": "Yes",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:00:03Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 720.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-05-10",
+        "Hours Logged": 1.5,
+        "Description / Notes": "Attended client meeting to gather requirements and align project goals with marketing automation capabilities.",
+        "Billable": "No",
+        "Activity Type": "Meeting",
+        "Timestamp": "2025-06-26T12:00:04Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-07-30",
+        "Hours Logged": 7.0,
+        "Description / Notes": "Created social media calendars integrating AI insights into optimal posting times and content themes for engagement.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:05Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 1050.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-04-14",
+        "Hours Logged": 3.0,
+        "Description / Notes": "Reviewed client feedback on latest campaign, compiling actionable insights for marketing strategy adjustment.",
+        "Billable": "Yes",
+        "Activity Type": "Review",
+        "Timestamp": "2025-06-26T12:00:06Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 450.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-11-01",
+        "Hours Logged": 6.1,
+        "Description / Notes": "Developed and tested chatbot features aimed at enhancing user interaction and customer support automation.",
+        "Billable": "Yes",
+        "Activity Type": "Coding",
+        "Timestamp": "2025-06-26T12:00:07Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 915.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-02-26",
+        "Hours Logged": 2.8,
+        "Description / Notes": "Prepared webinar presentation focusing on leveraging AI to boost digital marketing effectiveness across platforms.",
+        "Billable": "No",
+        "Activity Type": "Documentation",
+        "Timestamp": "2025-06-26T12:00:08Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-10-15",
+        "Hours Logged": 5.5,
+        "Description / Notes": "Audited brand performance metrics and market positioning, recommending improvements based on latest AI analytics.",
+        "Billable": "Yes",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:00:09Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 825.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-06-16",
+        "Hours Logged": 4.3,
+        "Description / Notes": "Analyzed PPC campaign data to optimize ad spend and refine target audience segments using AI models.",
+        "Billable": "Yes",
+        "Activity Type": "Analysis",
+        "Timestamp": "2025-06-26T12:00:10Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 645.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-08-29",
+        "Hours Logged": 3.7,
+        "Description / Notes": "Created video ads with AI-generated scripts, optimizing for engagement and viewer retention across social channels.",
+        "Billable": "Yes",
+        "Activity Type": "Design",
+        "Timestamp": "2025-06-26T12:00:11Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 555.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-01-08",
+        "Hours Logged": 2.1,
+        "Description / Notes": "Implemented analytics tools across client websites to track user behavior and campaign performance in real-time.",
+        "Billable": "Yes",
+        "Activity Type": "Coding",
+        "Timestamp": "2025-06-26T12:00:12Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 315.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-12-03",
+        "Hours Logged": 1.9,
+        "Description / Notes": "Finalized marketing strategy documents integrating AI insights for personalized customer journey mapping.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:13Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 285.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-03-21",
+        "Hours Logged": 2.7,
+        "Description / Notes": "Evaluated client satisfaction survey results to improve service delivery and tailor future campaigns.",
+        "Billable": "No",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:00:14Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-09-05",
+        "Hours Logged": 4.0,
+        "Description / Notes": "Created graphic design assets including logos and banners for upcoming client product launch.",
+        "Billable": "Yes",
+        "Activity Type": "Design",
+        "Timestamp": "2025-06-26T12:00:15Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 600.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-05-22",
+        "Hours Logged": 3.3,
+        "Description / Notes": "Prepared for client meeting by compiling project status, timelines, and AI performance reports.",
+        "Billable": "No",
+        "Activity Type": "Admin",
+        "Timestamp": "2025-06-26T12:00:16Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-11-17",
+        "Hours Logged": 5.9,
+        "Description / Notes": "Launched influencer marketing campaign leveraging AI to identify optimal brand ambassadors and content styles.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:17Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 885.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-10-08",
+        "Hours Logged": 3.1,
+        "Description / Notes": "Conducted comprehensive SEO audit, identifying key areas for improvement including metadata and link structure.",
+        "Billable": "Yes",
+        "Activity Type": "Review",
+        "Timestamp": "2025-06-26T12:00:18Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 465.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-04-30",
+        "Hours Logged": 2.5,
+        "Description / Notes": "Created detailed user journey maps to enhance conversion rates and improve customer experience for clients.",
+        "Billable": "Yes",
+        "Activity Type": "Documentation",
+        "Timestamp": "2025-06-26T12:00:19Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 375.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-06-20",
+        "Hours Logged": 4.6,
+        "Description / Notes": "Executed PPC strategy adjustments based on recent campaign data and AI-generated keyword optimization.",
+        "Billable": "Yes",
+        "Activity Type": "Coding",
+        "Timestamp": "2025-06-26T12:00:20Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 690.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-08-12",
+        "Hours Logged": 3.8,
+        "Description / Notes": "Compiled market insights report focusing on competitor analysis and emerging digital marketing trends.",
+        "Billable": "No",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:00:21Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-02-11",
+        "Hours Logged": 3.4,
+        "Description / Notes": "Launched email campaign targeting segmented client lists with AI-personalized messaging for higher engagement.",
+        "Billable": "Yes",
+        "Activity Type": "Coding",
+        "Timestamp": "2025-06-26T12:00:22Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 510.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-11-25",
+        "Hours Logged": 2.2,
+        "Description / Notes": "Finalized content calendar ensuring alignment of AI-driven themes with marketing goals and client feedback.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:23Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 330.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-03-17",
+        "Hours Logged": 5.0,
+        "Description / Notes": "Created and optimized landing pages focused on lead generation with integrated AI chat and analytics.",
+        "Billable": "Yes",
+        "Activity Type": "Coding",
+        "Timestamp": "2025-06-26T12:00:24Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 750.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-09-27",
+        "Hours Logged": 6.2,
+        "Description / Notes": "Developed brand guidelines including AI-assisted logo design and consistent messaging frameworks.",
+        "Billable": "Yes",
+        "Activity Type": "Design",
+        "Timestamp": "2025-06-26T12:00:25Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 930.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-01-13",
+        "Hours Logged": 3.9,
+        "Description / Notes": "Drafted a comprehensive case study highlighting AI marketing success stories and client ROI improvements.",
+        "Billable": "Yes",
+        "Activity Type": "Documentation",
+        "Timestamp": "2025-06-26T12:00:26Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 585.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-10-21",
+        "Hours Logged": 4.1,
+        "Description / Notes": "Conducted user testing sessions to assess functionality and usability of newly developed AI chatbot features.",
+        "Billable": "Yes",
+        "Activity Type": "Testing",
+        "Timestamp": "2025-06-26T12:00:27Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 615.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-05-15",
+        "Hours Logged": 1.8,
+        "Description / Notes": "Updated CRM system with new client data and campaign results to support AI-driven customer insights.",
+        "Billable": "No",
+        "Activity Type": "Admin",
+        "Timestamp": "2025-06-26T12:00:28Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-08-06",
+        "Hours Logged": 3.2,
+        "Description / Notes": "Planned client event logistics including AI-powered attendee engagement and feedback collection.",
+        "Billable": "No",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:29Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-04-04",
+        "Hours Logged": 4.4,
+        "Description / Notes": "Evaluated advertising metrics from recent campaigns and adjusted targeting using AI analytics.",
+        "Billable": "Yes",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:00:30Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 660.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-12-29",
+        "Hours Logged": 2.9,
+        "Description / Notes": "Tested new SEO strategies using AI tools to enhance keyword ranking and website traffic.",
+        "Billable": "Yes",
+        "Activity Type": "Testing",
+        "Timestamp": "2025-06-26T12:00:31Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 435.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-01-30",
+        "Hours Logged": 3.3,
+        "Description / Notes": "Refined customer personas by analyzing AI-driven behavior data to improve campaign targeting.",
+        "Billable": "Yes",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:00:32Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 495.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-06-18",
+        "Hours Logged": 5.7,
+        "Description / Notes": "Launched new product marketing campaign utilizing AI to identify best-performing channels and messaging.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:33Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 855.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-09-19",
+        "Hours Logged": 4.5,
+        "Description / Notes": "Conducted competitive analysis assessing AI marketing tools used by industry leaders for benchmarking.",
+        "Billable": "Yes",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:00:34Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 675.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-02-23",
+        "Hours Logged": 3.6,
+        "Description / Notes": "Optimized ad spend across campaigns using AI recommendations to increase ROI and reduce waste.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:35Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 540.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-11-06",
+        "Hours Logged": 2.7,
+        "Description / Notes": "Analyzed client feedback and incorporated suggestions into AI marketing algorithms for better results.",
+        "Billable": "Yes",
+        "Activity Type": "Review",
+        "Timestamp": "2025-06-26T12:00:36Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 405.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-05-07",
+        "Hours Logged": 4.9,
+        "Description / Notes": "Hosted virtual workshop on AI marketing tools and techniques for client education and adoption.",
+        "Billable": "No",
+        "Activity Type": "Meeting",
+        "Timestamp": "2025-06-26T12:00:37Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-08-24",
+        "Hours Logged": 3.4,
+        "Description / Notes": "Created product landing page with AI-powered personalized content to maximize lead conversion.",
+        "Billable": "Yes",
+        "Activity Type": "Coding",
+        "Timestamp": "2025-06-26T12:00:38Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 510.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-03-13",
+        "Hours Logged": 5.1,
+        "Description / Notes": "Developed marketing collateral including brochures and digital ads enhanced by AI design suggestions.",
+        "Billable": "Yes",
+        "Activity Type": "Design",
+        "Timestamp": "2025-06-26T12:00:39Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 765.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-10-28",
+        "Hours Logged": 3.0,
+        "Description / Notes": "Launched marketing automation workflows integrating AI for real-time campaign optimization and reporting.",
+        "Billable": "Yes",
+        "Activity Type": "Coding",
+        "Timestamp": "2025-06-26T12:00:40Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 450.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-01-19",
+        "Hours Logged": 4.7,
+        "Description / Notes": "Optimized website performance with AI-driven load speed improvements and SEO enhancements.",
+        "Billable": "Yes",
+        "Activity Type": "Coding",
+        "Timestamp": "2025-06-26T12:00:41Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 705.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-06-02",
+        "Hours Logged": 3.5,
+        "Description / Notes": "Developed influencer strategy focused on AI analysis of social media trends and audience demographics.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:42Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 525.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-07-15",
+        "Hours Logged": 4.2,
+        "Description / Notes": "Conducted usability testing for AI-powered client portal improvements and reported findings for development.",
+        "Billable": "Yes",
+        "Activity Type": "Testing",
+        "Timestamp": "2025-06-26T12:00:43Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 630.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-04-21",
+        "Hours Logged": 3.1,
+        "Description / Notes": "Analyzed social media metrics to evaluate campaign success and adjust AI-driven content strategies accordingly.",
+        "Billable": "Yes",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:00:44Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 465.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-09-08",
+        "Hours Logged": 3.8,
+        "Description / Notes": "Developed advertising strategy incorporating AI predictive models to improve targeting and conversion rates.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:45Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 570.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-02-02",
+        "Hours Logged": 5.4,
+        "Description / Notes": "Planned and executed brand workshop with interactive AI tools to refine client brand positioning.",
+        "Billable": "No",
+        "Activity Type": "Meeting",
+        "Timestamp": "2025-06-26T12:00:46Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-11-13",
+        "Hours Logged": 4.0,
+        "Description / Notes": "Created client presentation summarizing AI marketing project achievements and future recommendations.",
+        "Billable": "Yes",
+        "Activity Type": "Documentation",
+        "Timestamp": "2025-06-26T12:00:47Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 600.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-05-18",
+        "Hours Logged": 2.6,
+        "Description / Notes": "Established referral program using AI analytics to identify top referrers and optimize incentives.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:48Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 390.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-08-03",
+        "Hours Logged": 3.7,
+        "Description / Notes": "Compiled influencer list by analyzing social media data and AI recommendations for targeted marketing.",
+        "Billable": "Yes",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:00:49Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 555.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-03-29",
+        "Hours Logged": 5.2,
+        "Description / Notes": "Developed marketing funnel optimized by AI tools to nurture leads effectively through personalized content.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:50Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 780.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-10-12",
+        "Hours Logged": 4.3,
+        "Description / Notes": "Prepared the annual marketing report integrating AI data visualization to highlight campaign performance.",
+        "Billable": "No",
+        "Activity Type": "Documentation",
+        "Timestamp": "2025-06-26T12:00:51Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-01-04",
+        "Hours Logged": 3.9,
+        "Description / Notes": "Updated social media profiles with AI-generated content and optimized scheduling for maximum reach.",
+        "Billable": "No",
+        "Activity Type": "Admin",
+        "Timestamp": "2025-06-26T12:00:52Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-12-22",
+        "Hours Logged": 2.4,
+        "Description / Notes": "Launched new marketing initiative focusing on AI-powered customer segmentation and personalized campaigns.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:53Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 360.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-05-11",
+        "Hours Logged": 3.6,
+        "Description / Notes": "Conducted audience analysis using AI tools to better understand engagement patterns and preferences.",
+        "Billable": "Yes",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:00:54Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 540.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-09-28",
+        "Hours Logged": 4.8,
+        "Description / Notes": "Integrated feedback loops into campaign workflows for continuous improvement driven by AI analytics.",
+        "Billable": "Yes",
+        "Activity Type": "Coding",
+        "Timestamp": "2025-06-26T12:00:55Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 720.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-02-18",
+        "Hours Logged": 3.3,
+        "Description / Notes": "Planned digital marketing strategy incorporating AI insights on trends and consumer behavior.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:56Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 495.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-11-30",
+        "Hours Logged": 2.7,
+        "Description / Notes": "Evaluated advertising metrics and adjusted campaign parameters using AI forecasting models.",
+        "Billable": "Yes",
+        "Activity Type": "Review",
+        "Timestamp": "2025-06-26T12:00:57Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 405.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-03-24",
+        "Hours Logged": 4.1,
+        "Description / Notes": "Conducted client interviews to gather insights and refine AI marketing solutions offered.",
+        "Billable": "No",
+        "Activity Type": "Meeting",
+        "Timestamp": "2025-06-26T12:00:58Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-10-05",
+        "Hours Logged": 3.8,
+        "Description / Notes": "Finalized content strategy aligning AI-generated topics with client branding and goals.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:59Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 570.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-01-27",
+        "Hours Logged": 2.9,
+        "Description / Notes": "Hosted client webinar demonstrating AI tools and benefits for marketing automation.",
+        "Billable": "No",
+        "Activity Type": "Meeting",
+        "Timestamp": "2025-06-26T12:01:00Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-08-17",
+        "Hours Logged": 5.5,
+        "Description / Notes": "Analyzed engagement metrics to optimize AI content delivery and improve user experience.",
+        "Billable": "Yes",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:01:01Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 825.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-04-07",
+        "Hours Logged": 4.4,
+        "Description / Notes": "Drafted marketing proposal incorporating AI-enhanced campaign elements and budget estimates.",
+        "Billable": "Yes",
+        "Activity Type": "Documentation",
+        "Timestamp": "2025-06-26T12:01:02Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 660.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-09-22",
+        "Hours Logged": 3.0,
+        "Description / Notes": "Developed video content plan leveraging AI for scripting, editing, and targeted distribution.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:01:03Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 450.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-02-09",
+        "Hours Logged": 3.7,
+        "Description / Notes": "Created digital ads designed by AI for better click-through rates and brand consistency.",
+        "Billable": "Yes",
+        "Activity Type": "Design",
+        "Timestamp": "2025-06-26T12:01:04Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 555.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-11-21",
+        "Hours Logged": 5.7,
+        "Description / Notes": "Established brand guidelines integrating AI branding tools to maintain visual and verbal coherence.",
+        "Billable": "Yes",
+        "Activity Type": "Design",
+        "Timestamp": "2025-06-26T12:01:05Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 855.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-05-05",
+        "Hours Logged": 4.6,
+        "Description / Notes": "Optimized website SEO using AI analytics for enhanced search rankings and user engagement.",
+        "Billable": "Yes",
+        "Activity Type": "Review",
+        "Timestamp": "2025-06-26T12:01:06Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 690.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-08-20",
+        "Hours Logged": 3.9,
+        "Description / Notes": "Conducted ad spend analysis to identify budget reallocation opportunities using AI insights.",
+        "Billable": "Yes",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:01:07Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 585.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-03-02",
+        "Hours Logged": 2.1,
+        "Description / Notes": "Planned client retention strategies incorporating AI-based customer lifetime value predictions.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:01:08Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 315.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-10-25",
+        "Hours Logged": 4.3,
+        "Description / Notes": "Launched social media ads using AI to optimize audience targeting and creative placement.",
+        "Billable": "Yes",
+        "Activity Type": "Coding",
+        "Timestamp": "2025-06-26T12:01:09Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 645.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-01-16",
+        "Hours Logged": 3.5,
+        "Description / Notes": "Conducted customer surveys to collect data supporting AI-driven marketing adjustments.",
+        "Billable": "No",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:01:10Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-09-11",
+        "Hours Logged": 2.8,
+        "Description / Notes": "Developed brand positioning strategies with AI analysis of market and competitor data.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:01:11Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 420.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-04-28",
+        "Hours Logged": 4.7,
+        "Description / Notes": "Prepared webinar content highlighting AI marketing benefits and case studies for client education.",
+        "Billable": "No",
+        "Activity Type": "Documentation",
+        "Timestamp": "2025-06-26T12:01:12Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-11-09",
+        "Hours Logged": 3.2,
+        "Description / Notes": "Updated client portal with AI-powered dashboards for enhanced campaign monitoring and reporting.",
+        "Billable": "No",
+        "Activity Type": "Admin",
+        "Timestamp": "2025-06-26T12:01:13Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-02-27",
+        "Hours Logged": 3.6,
+        "Description / Notes": "Conducted brand audit using AI tools to assess market reputation and client positioning.",
+        "Billable": "Yes",
+        "Activity Type": "Review",
+        "Timestamp": "2025-06-26T12:01:14Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 540.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-08-14",
+        "Hours Logged": 5.0,
+        "Description / Notes": "Launched product marketing campaign designed with AI-generated customer segmentation and messaging.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:01:15Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 750.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-03-07",
+        "Hours Logged": 4.1,
+        "Description / Notes": "Created social media content calendars managed by AI to optimize posting times and content mix.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:01:16Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 615.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-10-19",
+        "Hours Logged": 3.4,
+        "Description / Notes": "Conducted audience surveys to collect insights for AI model training and campaign refinement.",
+        "Billable": "No",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:01:17Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-01-09",
+        "Hours Logged": 2.9,
+        "Description / Notes": "Analyzed competitor strategies with AI tools to identify gaps and opportunities for clients.",
+        "Billable": "Yes",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:01:18Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 435.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-06-24",
+        "Hours Logged": 3.7,
+        "Description / Notes": "Managed retainer services for Client G, optimizing deliverables with AI workflow automation.",
+        "Billable": "Yes",
+        "Activity Type": "Admin",
+        "Timestamp": "2025-06-26T12:01:19Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 555.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-09-02",
+        "Hours Logged": 4.6,
+        "Description / Notes": "Executed ad campaign for Brand X leveraging AI to optimize ad placements and bid strategies.",
+        "Billable": "Yes",
+        "Activity Type": "Coding",
+        "Timestamp": "2025-06-26T12:01:20Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 690.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-02-16",
+        "Hours Logged": 3.1,
+        "Description / Notes": "Developed influencer partnership strategies using AI to analyze reach and audience compatibility.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:01:21Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 465.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-11-04",
+        "Hours Logged": 2.5,
+        "Description / Notes": "Prepared crisis management plan incorporating AI risk assessment for Client H.",
+        "Billable": "No",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:01:22Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-03-31",
+        "Hours Logged": 5.3,
+        "Description / Notes": "Redesigned brand identity for Client A integrating AI design suggestions for consistency and impact.",
+        "Billable": "Yes",
+        "Activity Type": "Design",
+        "Timestamp": "2025-06-26T12:01:23Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 795.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-10-02",
+        "Hours Logged": 4.0,
+        "Description / Notes": "Set up email marketing automation using AI for client campaigns to increase open and click rates.",
+        "Billable": "Yes",
+        "Activity Type": "Coding",
+        "Timestamp": "2025-06-26T12:01:24Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 600.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-01-25",
+        "Hours Logged": 3.8,
+        "Description / Notes": "Optimized website performance focusing on AI-driven content delivery and SEO improvements.",
+        "Billable": "Yes",
+        "Activity Type": "Coding",
+        "Timestamp": "2025-06-26T12:01:25Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 570.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-05-19",
+        "Hours Logged": 2.7,
+        "Description / Notes": "Improved client onboarding process using AI to streamline data collection and communication.",
+        "Billable": "No",
+        "Activity Type": "Admin",
+        "Timestamp": "2025-06-26T12:01:26Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-08-23",
+        "Hours Logged": 3.3,
+        "Description / Notes": "Conducted social media audit for Client B using AI analytics to identify engagement improvements.",
+        "Billable": "Yes",
+        "Activity Type": "Review",
+        "Timestamp": "2025-06-26T12:01:27Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 495.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-04-09",
+        "Hours Logged": 4.1,
+        "Description / Notes": "Researched competitor strategies with AI to determine effective tactics for client campaigns.",
+        "Billable": "Yes",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:01:28Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 615.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-09-14",
+        "Hours Logged": 3.9,
+        "Description / Notes": "Managed retainer services for Client G ensuring consistent delivery of AI-driven marketing solutions.",
+        "Billable": "Yes",
+        "Activity Type": "Admin",
+        "Timestamp": "2025-06-26T12:01:29Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 585.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-02-05",
+        "Hours Logged": 5.0,
+        "Description / Notes": "Optimized ad campaigns for Product A using AI to analyze performance and improve targeting.",
+        "Billable": "Yes",
+        "Activity Type": "Coding",
+        "Timestamp": "2025-06-26T12:01:30Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 750.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-11-27",
+        "Hours Logged": 4.5,
+        "Description / Notes": "Developed client training program featuring AI tools to enhance marketing team skills.",
+        "Billable": "No",
+        "Activity Type": "Meeting",
+        "Timestamp": "2025-06-26T12:01:31Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-06-14",
+        "Hours Logged": 3.6,
+        "Description / Notes": "Created AI marketing content targeting emerging customer segments for greater engagement.",
+        "Billable": "Yes",
+        "Activity Type": "Coding",
+        "Timestamp": "2025-06-26T12:01:32Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 540.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-08-31",
+        "Hours Logged": 2.8,
+        "Description / Notes": "Redesigned website layout to improve user navigation and integrate AI-driven personalization.",
+        "Billable": "Yes",
+        "Activity Type": "Design",
+        "Timestamp": "2025-06-26T12:01:33Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 420.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-03-10",
+        "Hours Logged": 4.7,
+        "Description / Notes": "Analyzed social media campaign results to optimize AI content algorithms and improve ROI.",
+        "Billable": "Yes",
+        "Activity Type": "Review",
+        "Timestamp": "2025-06-26T12:01:34Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 705.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-10-10",
+        "Hours Logged": 3.1,
+        "Description / Notes": "Created email marketing content leveraging AI for personalized customer engagement.",
+        "Billable": "Yes",
+        "Activity Type": "Coding",
+        "Timestamp": "2025-06-26T12:01:35Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 465.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-01-21",
+        "Hours Logged": 2.6,
+        "Description / Notes": "Conducted SEO audit assessing AI-generated recommendations for website improvements.",
+        "Billable": "Yes",
+        "Activity Type": "Review",
+        "Timestamp": "2025-06-26T12:01:36Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 390.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-05-25",
+        "Hours Logged": 3.4,
+        "Description / Notes": "Developed chatbot for client support with AI-driven natural language processing capabilities.",
+        "Billable": "Yes",
+        "Activity Type": "Coding",
+        "Timestamp": "2025-06-26T12:01:37Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 510.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-09-09",
+        "Hours Logged": 4.2,
+        "Description / Notes": "Prepared detailed marketing report with AI-generated insights and visualizations for client review.",
+        "Billable": "Yes",
+        "Activity Type": "Documentation",
+        "Timestamp": "2025-06-26T12:01:38Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 630.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-02-14",
+        "Hours Logged": 3.7,
+        "Description / Notes": "Updated client branding guidelines to include AI-generated style and tone recommendations.",
+        "Billable": "Yes",
+        "Activity Type": "Design",
+        "Timestamp": "2025-06-26T12:01:39Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 555.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-11-18",
+        "Hours Logged": 5.1,
+        "Description / Notes": "Planned influencer collaboration campaign incorporating AI audience analysis and content scheduling.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:01:40Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 765.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-03-27",
+        "Hours Logged": 4.3,
+        "Description / Notes": "Launched PPC campaign using AI-powered bidding strategies and real-time performance monitoring.",
+        "Billable": "Yes",
+        "Activity Type": "Coding",
+        "Timestamp": "2025-06-26T12:01:41Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 645.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-10-01",
+        "Hours Logged": 3.0,
+        "Description / Notes": "Conducted user experience testing on AI features to identify usability improvements and bugs.",
+        "Billable": "Yes",
+        "Activity Type": "Testing",
+        "Timestamp": "2025-06-26T12:01:42Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 450.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-01-15",
+        "Hours Logged": 3.5,
+        "Description / Notes": "Optimized email automation workflows integrating AI for personalized client communications.",
+        "Billable": "Yes",
+        "Activity Type": "Coding",
+        "Timestamp": "2025-06-26T12:01:43Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 525.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-08-27",
+        "Hours Logged": 2.9,
+        "Description / Notes": "Created client onboarding process enhanced by AI for streamlined data entry and progress tracking.",
+        "Billable": "No",
+        "Activity Type": "Admin",
+        "Timestamp": "2025-06-26T12:01:44Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-04-05",
+        "Hours Logged": 4.0,
+        "Description / Notes": "Reviewed client feedback to refine AI marketing solutions and client engagement strategies.",
+        "Billable": "Yes",
+        "Activity Type": "Review",
+        "Timestamp": "2025-06-26T12:01:45Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 600.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-09-17",
+        "Hours Logged": 3.6,
+        "Description / Notes": "Conducted market research with AI tools to identify emerging consumer trends and behaviors.",
+        "Billable": "Yes",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:01:46Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 540.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-02-07",
+        "Hours Logged": 5.0,
+        "Description / Notes": "Developed analytics dashboard utilizing AI for real-time campaign tracking and performance insights.",
+        "Billable": "Yes",
+        "Activity Type": "Coding",
+        "Timestamp": "2025-06-26T12:01:47Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 750.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-11-22",
+        "Hours Logged": 4.4,
+        "Description / Notes": "Enhanced social media strategy using AI-generated content themes and optimal engagement timing.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:01:48Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 660.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-03-16",
+        "Hours Logged": 3.3,
+        "Description / Notes": "Prepared video marketing content scripts enhanced by AI for storytelling and viewer retention.",
+        "Billable": "Yes",
+        "Activity Type": "Documentation",
+        "Timestamp": "2025-06-26T12:01:49Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 495.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-10-07",
+        "Hours Logged": 4.1,
+        "Description / Notes": "Launched new product campaign using AI to optimize audience targeting and creative assets.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:01:50Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 615.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-01-23",
+        "Hours Logged": 3.7,
+        "Description / Notes": "Conducted competitive analysis to refine marketing approach with AI-driven market insights.",
+        "Billable": "Yes",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:01:51Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 555.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-06-25",
+        "Hours Logged": 3.9,
+        "Description / Notes": "Gathered client testimonials and integrated AI sentiment analysis for marketing materials.",
+        "Billable": "Yes",
+        "Activity Type": "Documentation",
+        "Timestamp": "2025-06-26T12:01:52Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 585.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-09-04",
+        "Hours Logged": 4.5,
+        "Description / Notes": "Performed SEO audit for Client Z using AI tools to identify site performance improvements.",
+        "Billable": "Yes",
+        "Activity Type": "Review",
+        "Timestamp": "2025-06-26T12:01:53Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 675.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-02-20",
+        "Hours Logged": 3.2,
+        "Description / Notes": "Maintained website for Client F ensuring AI-based monitoring for uptime and performance issues.",
+        "Billable": "No",
+        "Activity Type": "Admin",
+        "Timestamp": "2025-06-26T12:01:54Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-11-10",
+        "Hours Logged": 2.6,
+        "Description / Notes": "Optimized ad campaign for Product A focusing on AI-driven audience segmentation and bidding.",
+        "Billable": "Yes",
+        "Activity Type": "Coding",
+        "Timestamp": "2025-06-26T12:01:55Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 390.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-05-01",
+        "Hours Logged": 4.3,
+        "Description / Notes": "Developed client training program on AI marketing tools and campaign management techniques.",
+        "Billable": "No",
+        "Activity Type": "Meeting",
+        "Timestamp": "2025-06-26T12:01:56Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-08-15",
+        "Hours Logged": 3.8,
+        "Description / Notes": "Developed AI-driven marketing content focusing on enhancing client engagement through personalized messaging and optimized call-to-actions.",
+        "Billable": "Yes",
+        "Activity Type": "Coding",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 456.8
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-02-10",
+        "Hours Logged": 2.2,
+        "Description / Notes": "Led client meeting to present revised website UI mockups and gathered feedback for next iteration.",
+        "Billable": "Yes",
+        "Activity Type": "Meeting",
+        "Timestamp": "2025-06-26T12:00:01Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 264.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-06-10",
+        "Hours Logged": 1.5,
+        "Description / Notes": "Reviewed email campaign designs and suggested improvements in visual hierarchy to increase click-through rates.",
+        "Billable": "No",
+        "Activity Type": "Review",
+        "Timestamp": "2025-06-26T12:00:02Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-10-05",
+        "Hours Logged": 4.7,
+        "Description / Notes": "Conducted SEO keyword research using advanced AI tools to identify high-value keywords for client’s new product launch.",
+        "Billable": "Yes",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:00:03Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 564.7
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-09-20",
+        "Hours Logged": 2.9,
+        "Description / Notes": "Performed user testing on chatbot feature to ensure seamless interaction flow and identify areas of improvement.",
+        "Billable": "Yes",
+        "Activity Type": "Testing",
+        "Timestamp": "2025-06-26T12:00:04Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 348.8
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-01-16",
+        "Hours Logged": 3.3,
+        "Description / Notes": "Created detailed documentation for the developed AI marketing tool to assist client onboarding and training.",
+        "Billable": "No",
+        "Activity Type": "Documentation",
+        "Timestamp": "2025-06-26T12:00:05Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-12-02",
+        "Hours Logged": 1.7,
+        "Description / Notes": "Planned social media calendar integrating trending topics and client’s marketing goals for upcoming quarter.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:06Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 204.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-03-14",
+        "Hours Logged": 5.6,
+        "Description / Notes": "Designed innovative email templates focused on improved customer engagement and brand consistency.",
+        "Billable": "Yes",
+        "Activity Type": "Design",
+        "Timestamp": "2025-06-26T12:00:07Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 672.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-11-24",
+        "Hours Logged": 2.4,
+        "Description / Notes": "Handled administrative tasks including scheduling client meetings and updating project status reports.",
+        "Billable": "No",
+        "Activity Type": "Admin",
+        "Timestamp": "2025-06-26T12:00:08Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-04-08",
+        "Hours Logged": 3.0,
+        "Description / Notes": "Reviewed client feedback thoroughly and prepared action plan to address their concerns effectively.",
+        "Billable": "Yes",
+        "Activity Type": "Review",
+        "Timestamp": "2025-06-26T12:00:09Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 360.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-07-30",
+        "Hours Logged": 4.1,
+        "Description / Notes": "Conducted market research focusing on competitor analysis and identifying emerging trends in digital marketing.",
+        "Billable": "Yes",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:00:10Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 492.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-05-22",
+        "Hours Logged": 2.8,
+        "Description / Notes": "Attended project kickoff meeting with client to outline deliverables and timeline expectations.",
+        "Billable": "Yes",
+        "Activity Type": "Meeting",
+        "Timestamp": "2025-06-26T12:00:11Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 336.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-08-01",
+        "Hours Logged": 3.4,
+        "Description / Notes": "Implemented analytics tool configuration to track customer journey and campaign performance metrics.",
+        "Billable": "No",
+        "Activity Type": "Coding",
+        "Timestamp": "2025-06-26T12:00:12Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-09-12",
+        "Hours Logged": 1.1,
+        "Description / Notes": "Prepared webinar presentation focusing on AI enhancements in marketing automation tools.",
+        "Billable": "Yes",
+        "Activity Type": "Documentation",
+        "Timestamp": "2025-06-26T12:00:13Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 132.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-10-28",
+        "Hours Logged": 4.5,
+        "Description / Notes": "Developed chatbot feature using natural language processing to improve customer interaction on client’s website.",
+        "Billable": "Yes",
+        "Activity Type": "Coding",
+        "Timestamp": "2025-06-26T12:00:14Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 540.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-06-01",
+        "Hours Logged": 2.0,
+        "Description / Notes": "Reviewed brand performance data and compiled insights in preparation for quarterly marketing meeting.",
+        "Billable": "No",
+        "Activity Type": "Review",
+        "Timestamp": "2025-06-26T12:00:15Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-11-15",
+        "Hours Logged": 3.6,
+        "Description / Notes": "Compiled detailed PPC campaign analysis report including recommendations for budget optimization.",
+        "Billable": "Yes",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:00:16Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 432.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-03-30",
+        "Hours Logged": 1.9,
+        "Description / Notes": "Created video ad storyboard and coordinated with design team to produce final assets.",
+        "Billable": "Yes",
+        "Activity Type": "Design",
+        "Timestamp": "2025-06-26T12:00:17Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 228.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-05-05",
+        "Hours Logged": 4.2,
+        "Description / Notes": "Tested new features on client’s landing page to ensure responsiveness and faster load times.",
+        "Billable": "Yes",
+        "Activity Type": "Testing",
+        "Timestamp": "2025-06-26T12:00:18Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 504.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-07-25",
+        "Hours Logged": 2.6,
+        "Description / Notes": "Documented process improvements for client onboarding to streamline workflow and increase efficiency.",
+        "Billable": "No",
+        "Activity Type": "Documentation",
+        "Timestamp": "2025-06-26T12:00:19Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-06-15",
+        "Hours Logged": 3.1,
+        "Description / Notes": "Planned and scheduled content calendar for multiple clients incorporating seasonal campaigns and product launches.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:20Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 372.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-08-18",
+        "Hours Logged": 2.3,
+        "Description / Notes": "Led design session for social media ads focusing on brand consistency and audience targeting.",
+        "Billable": "Yes",
+        "Activity Type": "Design",
+        "Timestamp": "2025-06-26T12:00:21Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 276.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-09-07",
+        "Hours Logged": 1.4,
+        "Description / Notes": "Managed administrative email communications and coordinated internal team schedules.",
+        "Billable": "No",
+        "Activity Type": "Admin",
+        "Timestamp": "2025-06-26T12:00:22Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-02-25",
+        "Hours Logged": 3.9,
+        "Description / Notes": "Conducted client feedback review session to identify actionable improvements for ongoing projects.",
+        "Billable": "Yes",
+        "Activity Type": "Review",
+        "Timestamp": "2025-06-26T12:00:23Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 468.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-11-03",
+        "Hours Logged": 2.1,
+        "Description / Notes": "Facilitated client meeting to discuss campaign results and next steps for marketing initiatives.",
+        "Billable": "Yes",
+        "Activity Type": "Meeting",
+        "Timestamp": "2025-06-26T12:00:24Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 252.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-04-18",
+        "Hours Logged": 4.8,
+        "Description / Notes": "Researched latest AI trends applicable to marketing automation to enhance client service delivery.",
+        "Billable": "No",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:00:25Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-05-27",
+        "Hours Logged": 3.7,
+        "Description / Notes": "Tested updated chatbot scripts to improve user response accuracy and overall experience.",
+        "Billable": "Yes",
+        "Activity Type": "Testing",
+        "Timestamp": "2025-06-26T12:00:26Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 444.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-12-14",
+        "Hours Logged": 1.8,
+        "Description / Notes": "Created comprehensive documentation for new client onboarding processes and tools implementation.",
+        "Billable": "No",
+        "Activity Type": "Documentation",
+        "Timestamp": "2025-06-26T12:00:27Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-10-22",
+        "Hours Logged": 3.2,
+        "Description / Notes": "Planned and structured upcoming marketing projects including timelines and resource allocations.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:28Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 384.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-01-05",
+        "Hours Logged": 2.5,
+        "Description / Notes": "Designed new social media campaign graphics with emphasis on AI-driven marketing benefits to clients.",
+        "Billable": "Yes",
+        "Activity Type": "Design",
+        "Timestamp": "2025-06-26T12:00:29Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 300.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-06-20",
+        "Hours Logged": 2.7,
+        "Description / Notes": "Handled administrative duties including updating project documentation and scheduling team meetings.",
+        "Billable": "No",
+        "Activity Type": "Admin",
+        "Timestamp": "2025-06-26T12:00:30Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-09-28",
+        "Hours Logged": 3.3,
+        "Description / Notes": "Reviewed client website and provided actionable recommendations to improve SEO and user engagement.",
+        "Billable": "Yes",
+        "Activity Type": "Review",
+        "Timestamp": "2025-06-26T12:00:31Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 396.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-03-03",
+        "Hours Logged": 1.6,
+        "Description / Notes": "Attended client meeting to discuss AI integration possibilities within existing marketing workflows.",
+        "Billable": "Yes",
+        "Activity Type": "Meeting",
+        "Timestamp": "2025-06-26T12:00:32Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 192.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-08-09",
+        "Hours Logged": 4.4,
+        "Description / Notes": "Conducted extensive market research to identify potential growth opportunities for client’s digital presence.",
+        "Billable": "Yes",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:00:33Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 528.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-05-14",
+        "Hours Logged": 3.9,
+        "Description / Notes": "Tested newly developed landing pages for responsiveness, load time, and user experience enhancements.",
+        "Billable": "Yes",
+        "Activity Type": "Testing",
+        "Timestamp": "2025-06-26T12:00:34Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 468.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-11-09",
+        "Hours Logged": 2.0,
+        "Description / Notes": "Prepared detailed documentation on client project milestones and deliverables for internal review.",
+        "Billable": "No",
+        "Activity Type": "Documentation",
+        "Timestamp": "2025-06-26T12:00:35Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-02-16",
+        "Hours Logged": 3.5,
+        "Description / Notes": "Planned content calendar focusing on AI marketing campaigns and seasonal promotions for multiple clients.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:36Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 420.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-07-22",
+        "Hours Logged": 2.8,
+        "Description / Notes": "Designed email templates optimized for mobile and desktop viewing to increase engagement rates.",
+        "Billable": "Yes",
+        "Activity Type": "Design",
+        "Timestamp": "2025-06-26T12:00:37Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 336.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-04-22",
+        "Hours Logged": 1.3,
+        "Description / Notes": "Performed administrative duties including managing client communications and scheduling tasks.",
+        "Billable": "No",
+        "Activity Type": "Admin",
+        "Timestamp": "2025-06-26T12:00:38Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-05-29",
+        "Hours Logged": 4.0,
+        "Description / Notes": "Reviewed client feedback on latest campaign and finalized adjustments for improved performance.",
+        "Billable": "Yes",
+        "Activity Type": "Review",
+        "Timestamp": "2025-06-26T12:00:39Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 480.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-09-03",
+        "Hours Logged": 2.2,
+        "Description / Notes": "Held productive meeting with client to align on project goals and expectations for next quarter.",
+        "Billable": "Yes",
+        "Activity Type": "Meeting",
+        "Timestamp": "2025-06-26T12:00:40Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 264.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-10-19",
+        "Hours Logged": 3.7,
+        "Description / Notes": "Researched emerging AI technologies to integrate into client marketing strategies for competitive advantage.",
+        "Billable": "No",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:00:41Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-03-28",
+        "Hours Logged": 3.4,
+        "Description / Notes": "Tested functionalities on client chatbot to ensure accurate responses and smooth user interaction flow.",
+        "Billable": "Yes",
+        "Activity Type": "Testing",
+        "Timestamp": "2025-06-26T12:00:42Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 408.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-12-05",
+        "Hours Logged": 1.9,
+        "Description / Notes": "Compiled thorough documentation on project updates and client deliverable timelines for internal use.",
+        "Billable": "No",
+        "Activity Type": "Documentation",
+        "Timestamp": "2025-06-26T12:00:43Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-08-26",
+        "Hours Logged": 4.3,
+        "Description / Notes": "Planned marketing strategies incorporating AI-driven analytics to optimize client campaign outcomes.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:44Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 516.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-01-22",
+        "Hours Logged": 2.6,
+        "Description / Notes": "Designed engaging social media visuals to support upcoming product launch and influencer collaboration.",
+        "Billable": "Yes",
+        "Activity Type": "Design",
+        "Timestamp": "2025-06-26T12:00:45Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 312.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-06-19",
+        "Hours Logged": 2.1,
+        "Description / Notes": "Handled administrative tasks including updating project management tools and coordinating schedules.",
+        "Billable": "No",
+        "Activity Type": "Admin",
+        "Timestamp": "2025-06-26T12:00:46Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-09-10",
+        "Hours Logged": 3.5,
+        "Description / Notes": "Reviewed client website analytics and prepared report with recommendations for SEO improvements.",
+        "Billable": "Yes",
+        "Activity Type": "Review",
+        "Timestamp": "2025-06-26T12:00:47Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 420.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-02-28",
+        "Hours Logged": 1.7,
+        "Description / Notes": "Participated in client meeting discussing integration of AI-powered marketing automation software.",
+        "Billable": "Yes",
+        "Activity Type": "Meeting",
+        "Timestamp": "2025-06-26T12:00:48Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 204.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-07-31",
+        "Hours Logged": 4.6,
+        "Description / Notes": "Conducted comprehensive market research to analyze competitor strategies and identify market gaps.",
+        "Billable": "Yes",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:00:49Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 552.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-05-09",
+        "Hours Logged": 3.8,
+        "Description / Notes": "Tested client landing page enhancements focusing on improved user experience and faster loading.",
+        "Billable": "Yes",
+        "Activity Type": "Testing",
+        "Timestamp": "2025-06-26T12:00:50Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 456.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-11-21",
+        "Hours Logged": 2.3,
+        "Description / Notes": "Documented client onboarding steps and created training materials for new marketing automation tools.",
+        "Billable": "No",
+        "Activity Type": "Documentation",
+        "Timestamp": "2025-06-26T12:00:51Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-01-28",
+        "Hours Logged": 3.6,
+        "Description / Notes": "Planned AI-driven content calendar aligning with client marketing goals and upcoming product launches.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:52Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 432.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-08-14",
+        "Hours Logged": 2.7,
+        "Description / Notes": "Designed marketing collateral including email templates and social media banners for client campaigns.",
+        "Billable": "Yes",
+        "Activity Type": "Design",
+        "Timestamp": "2025-06-26T12:00:53Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 324.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-04-30",
+        "Hours Logged": 1.5,
+        "Description / Notes": "Managed administrative responsibilities including email communications and scheduling client calls.",
+        "Billable": "No",
+        "Activity Type": "Admin",
+        "Timestamp": "2025-06-26T12:00:54Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-06-03",
+        "Hours Logged": 4.1,
+        "Description / Notes": "Reviewed client feedback comprehensively and prepared revision plan to enhance campaign effectiveness.",
+        "Billable": "Yes",
+        "Activity Type": "Review",
+        "Timestamp": "2025-06-26T12:00:55Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 492.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-09-26",
+        "Hours Logged": 2.4,
+        "Description / Notes": "Conducted strategic meeting with client to set objectives and timelines for upcoming marketing projects.",
+        "Billable": "Yes",
+        "Activity Type": "Meeting",
+        "Timestamp": "2025-06-26T12:00:56Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 288.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-10-12",
+        "Hours Logged": 3.9,
+        "Description / Notes": "Researched AI-based marketing tools and presented findings for potential integration with client systems.",
+        "Billable": "No",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:00:57Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-03-06",
+        "Hours Logged": 3.3,
+        "Description / Notes": "Tested chatbot enhancements to improve conversational abilities and user satisfaction metrics.",
+        "Billable": "Yes",
+        "Activity Type": "Testing",
+        "Timestamp": "2025-06-26T12:00:58Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 396.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-12-17",
+        "Hours Logged": 1.8,
+        "Description / Notes": "Compiled project documentation and created user guides for new marketing automation features.",
+        "Billable": "No",
+        "Activity Type": "Documentation",
+        "Timestamp": "2025-06-26T12:00:59Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-08-22",
+        "Hours Logged": 4.0,
+        "Description / Notes": "Planned integrated marketing campaigns using data-driven insights and AI technology enhancements.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:01:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 480.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-01-18",
+        "Hours Logged": 2.5,
+        "Description / Notes": "Designed creative assets for social media ads emphasizing AI capabilities and brand messaging.",
+        "Billable": "Yes",
+        "Activity Type": "Design",
+        "Timestamp": "2025-06-26T12:01:01Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 300.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-06-22",
+        "Hours Logged": 2.0,
+        "Description / Notes": "Performed administrative updates including project tracking and internal communication management.",
+        "Billable": "No",
+        "Activity Type": "Admin",
+        "Timestamp": "2025-06-26T12:01:02Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-09-14",
+        "Hours Logged": 3.4,
+        "Description / Notes": "Reviewed SEO performance reports and advised client on improvements to increase search engine ranking.",
+        "Billable": "Yes",
+        "Activity Type": "Review",
+        "Timestamp": "2025-06-26T12:01:03Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 408.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-02-20",
+        "Hours Logged": 1.6,
+        "Description / Notes": "Engaged in a strategy meeting to discuss AI-powered solutions for improving marketing automation.",
+        "Billable": "Yes",
+        "Activity Type": "Meeting",
+        "Timestamp": "2025-06-26T12:01:04Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 192.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-07-26",
+        "Hours Logged": 4.5,
+        "Description / Notes": "Conducted detailed market research analyzing competitors’ digital marketing tactics and trends.",
+        "Billable": "Yes",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:01:05Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 540.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-05-19",
+        "Hours Logged": 3.7,
+        "Description / Notes": "Tested client website updates focusing on responsiveness and integration with AI chatbots.",
+        "Billable": "Yes",
+        "Activity Type": "Testing",
+        "Timestamp": "2025-06-26T12:01:06Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 444.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-11-11",
+        "Hours Logged": 2.1,
+        "Description / Notes": "Created comprehensive documentation to aid client onboarding and internal team training.",
+        "Billable": "No",
+        "Activity Type": "Documentation",
+        "Timestamp": "2025-06-26T12:01:07Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-02-02",
+        "Hours Logged": 3.8,
+        "Description / Notes": "Planned quarterly marketing content calendar incorporating AI-driven analytics and client goals.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:01:08Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 456.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-08-16",
+        "Hours Logged": 2.6,
+        "Description / Notes": "Designed innovative social media creatives aligned with client branding and AI marketing strategy.",
+        "Billable": "Yes",
+        "Activity Type": "Design",
+        "Timestamp": "2025-06-26T12:01:09Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 312.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-04-27",
+        "Hours Logged": 1.4,
+        "Description / Notes": "Managed administrative tasks including internal communication and calendar scheduling.",
+        "Billable": "No",
+        "Activity Type": "Admin",
+        "Timestamp": "2025-06-26T12:01:10Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-06-05",
+        "Hours Logged": 4.2,
+        "Description / Notes": "Reviewed detailed client feedback and formulated strategic adjustments for campaign optimization.",
+        "Billable": "Yes",
+        "Activity Type": "Review",
+        "Timestamp": "2025-06-26T12:01:11Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 504.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-09-29",
+        "Hours Logged": 2.3,
+        "Description / Notes": "Led client meeting focusing on project milestones, deliverables, and timelines for next phase.",
+        "Billable": "Yes",
+        "Activity Type": "Meeting",
+        "Timestamp": "2025-06-26T12:01:12Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 276.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-10-14",
+        "Hours Logged": 3.9,
+        "Description / Notes": "Conducted research on AI marketing tools and evaluated their fit for client campaign needs.",
+        "Billable": "No",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:01:13Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-03-10",
+        "Hours Logged": 3.5,
+        "Description / Notes": "Tested chatbot conversational flows and improved response accuracy for better user experience.",
+        "Billable": "Yes",
+        "Activity Type": "Testing",
+        "Timestamp": "2025-06-26T12:01:14Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 420.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-12-19",
+        "Hours Logged": 1.7,
+        "Description / Notes": "Prepared detailed project documentation and training guides for client marketing tools.",
+        "Billable": "No",
+        "Activity Type": "Documentation",
+        "Timestamp": "2025-06-26T12:01:15Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-08-24",
+        "Hours Logged": 4.1,
+        "Description / Notes": "Planned AI-enhanced marketing initiatives focusing on customer segmentation and targeted campaigns.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:01:16Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 492.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-01-20",
+        "Hours Logged": 2.9,
+        "Description / Notes": "Designed eye-catching social media posts emphasizing AI marketing benefits for client brand.",
+        "Billable": "Yes",
+        "Activity Type": "Design",
+        "Timestamp": "2025-06-26T12:01:17Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 348.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-06-24",
+        "Hours Logged": 2.2,
+        "Description / Notes": "Handled administrative duties including updating project status and scheduling team meetings.",
+        "Billable": "No",
+        "Activity Type": "Admin",
+        "Timestamp": "2025-06-26T12:01:18Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-09-16",
+        "Hours Logged": 3.6,
+        "Description / Notes": "Reviewed SEO audit reports and recommended optimizations to improve client website rankings.",
+        "Billable": "Yes",
+        "Activity Type": "Review",
+        "Timestamp": "2025-06-26T12:01:19Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 432.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-02-22",
+        "Hours Logged": 1.8,
+        "Description / Notes": "Participated in strategy session discussing AI integration in client’s marketing automation platform.",
+        "Billable": "Yes",
+        "Activity Type": "Meeting",
+        "Timestamp": "2025-06-26T12:01:20Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 216.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-07-28",
+        "Hours Logged": 4.4,
+        "Description / Notes": "Conducted competitive market research analyzing digital marketing trends and AI usage.",
+        "Billable": "Yes",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:01:21Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 528.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-05-21",
+        "Hours Logged": 3.9,
+        "Description / Notes": "Tested client website updates ensuring compatibility with AI chatbots and enhanced UX.",
+        "Billable": "Yes",
+        "Activity Type": "Testing",
+        "Timestamp": "2025-06-26T12:01:22Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 468.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-11-13",
+        "Hours Logged": 2.0,
+        "Description / Notes": "Documented client onboarding workflow and created instructional content for internal teams.",
+        "Billable": "No",
+        "Activity Type": "Documentation",
+        "Timestamp": "2025-06-26T12:01:23Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-07-15",
+        "Hours Logged": 3.2,
+        "Description / Notes": "Collaborated with the design team to create engaging AI marketing content that targets new customer segments, optimizing for SEO and brand voice consistency.",
+        "Billable": "Yes",
+        "Activity Type": "Coding",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 480.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-01-10",
+        "Hours Logged": 1.5,
+        "Description / Notes": "Reviewed the revamped website UI components to ensure responsiveness and adherence to the brand guidelines; reported issues for immediate fixes.",
+        "Billable": "Yes",
+        "Activity Type": "Review",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 225.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-04-02",
+        "Hours Logged": 2.7,
+        "Description / Notes": "Designed and formatted the email campaign layout for the upcoming product launch, incorporating personalized segments and dynamic content.",
+        "Billable": "Yes",
+        "Activity Type": "Design",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 405.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-03-25",
+        "Hours Logged": 4.1,
+        "Description / Notes": "Conducted extensive SEO keyword research to identify high-impact opportunities and improve organic search rankings for client websites.",
+        "Billable": "Yes",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 615.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-02-18",
+        "Hours Logged": 3.4,
+        "Description / Notes": "Led comprehensive market research sessions to analyze competitor strategies and consumer behaviors relevant to client campaigns.",
+        "Billable": "No",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-11-20",
+        "Hours Logged": 5.0,
+        "Description / Notes": "Created and scheduled a detailed social media calendar including content themes, posting times, and targeted engagement strategies.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 750.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-10-05",
+        "Hours Logged": 2.3,
+        "Description / Notes": "Reviewed client feedback thoroughly and prepared actionable insights to improve campaign direction and client satisfaction.",
+        "Billable": "Yes",
+        "Activity Type": "Review",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Rejected",
+        "Billed Amount": 345.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-05-01",
+        "Hours Logged": 6.0,
+        "Description / Notes": "Developed an intelligent chatbot feature for client websites to enhance user interaction and automate FAQs efficiently.",
+        "Billable": "Yes",
+        "Activity Type": "Coding",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 900.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-06-03",
+        "Hours Logged": 1.2,
+        "Description / Notes": "Prepared the webinar presentation slides focusing on AI-driven marketing techniques and case study demonstrations.",
+        "Billable": "No",
+        "Activity Type": "Documentation",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-08-15",
+        "Hours Logged": 3.7,
+        "Description / Notes": "Audited brand performance metrics for key clients and suggested improvements for branding consistency and market reach.",
+        "Billable": "Yes",
+        "Activity Type": "Review",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 555.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-07-30",
+        "Hours Logged": 4.5,
+        "Description / Notes": "Analyzed PPC campaign data to optimize ad targeting and budget allocation for maximum ROI across platforms.",
+        "Billable": "Yes",
+        "Activity Type": "Testing",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 675.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-01-22",
+        "Hours Logged": 2.8,
+        "Description / Notes": "Created video advertisement content scripts and storyboard for client product promotions on YouTube and social channels.",
+        "Billable": "Yes",
+        "Activity Type": "Design",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 420.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-03-14",
+        "Hours Logged": 1.9,
+        "Description / Notes": "Implemented analytics tool integration into client websites to track user behavior and improve data-driven decision making.",
+        "Billable": "No",
+        "Activity Type": "Coding",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 0.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-12-07",
+        "Hours Logged": 5.8,
+        "Description / Notes": "Finalized marketing strategy documentation aligning AI technology with client business goals and target audience insights.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 870.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-02-28",
+        "Hours Logged": 3.0,
+        "Description / Notes": "Evaluated client satisfaction survey results and recommended improvements for customer experience and service delivery.",
+        "Billable": "No",
+        "Activity Type": "Review",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-05-18",
+        "Hours Logged": 4.2,
+        "Description / Notes": "Created graphic design assets for digital ads including banners, social media posts, and email headers.",
+        "Billable": "Yes",
+        "Activity Type": "Design",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 630.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-09-12",
+        "Hours Logged": 2.6,
+        "Description / Notes": "Prepared detailed agenda and materials for client meeting focusing on upcoming campaign strategies and deliverables.",
+        "Billable": "No",
+        "Activity Type": "Meeting",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 0.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-03-05",
+        "Hours Logged": 3.3,
+        "Description / Notes": "Launched influencer marketing campaign including influencer outreach, contract coordination, and content scheduling.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 495.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-11-28",
+        "Hours Logged": 2.1,
+        "Description / Notes": "Conducted SEO audit on client websites to identify technical issues and content gaps for optimization.",
+        "Billable": "Yes",
+        "Activity Type": "Testing",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Rejected",
+        "Billed Amount": 315.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-04-20",
+        "Hours Logged": 3.9,
+        "Description / Notes": "Created detailed user journey maps for client platforms to enhance user experience and increase conversions.",
+        "Billable": "Yes",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 585.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-01-15",
+        "Hours Logged": 4.7,
+        "Description / Notes": "Executed PPC strategy by managing bidding, ad copy testing, and daily budget adjustments to improve campaign KPIs.",
+        "Billable": "Yes",
+        "Activity Type": "Testing",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 705.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-10-22",
+        "Hours Logged": 2.4,
+        "Description / Notes": "Compiled comprehensive market insights report based on competitor analysis and consumer trends for client review.",
+        "Billable": "No",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-06-12",
+        "Hours Logged": 3.1,
+        "Description / Notes": "Launched email campaign involving template creation, audience segmentation, and delivery scheduling for client.",
+        "Billable": "Yes",
+        "Activity Type": "Coding",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 465.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-05-25",
+        "Hours Logged": 4.0,
+        "Description / Notes": "Finalized content calendar for the next quarter ensuring alignment with marketing goals and product launches.",
+        "Billable": "No",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 0.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-08-08",
+        "Hours Logged": 3.6,
+        "Description / Notes": "Created landing page layouts including wireframes and high-fidelity designs optimized for conversions and SEO.",
+        "Billable": "Yes",
+        "Activity Type": "Design",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 540.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-07-21",
+        "Hours Logged": 5.3,
+        "Description / Notes": "Developed brand guidelines incorporating AI-based branding tools to maintain consistency across all client materials.",
+        "Billable": "Yes",
+        "Activity Type": "Documentation",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 795.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-03-29",
+        "Hours Logged": 2.9,
+        "Description / Notes": "Drafted case study highlighting success metrics and project outcomes for recent AI marketing campaign.",
+        "Billable": "No",
+        "Activity Type": "Documentation",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 0.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-12-16",
+        "Hours Logged": 3.8,
+        "Description / Notes": "Conducted user testing sessions to gather feedback on client app usability and suggested UI improvements.",
+        "Billable": "Yes",
+        "Activity Type": "Testing",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 570.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-01-30",
+        "Hours Logged": 2.2,
+        "Description / Notes": "Updated CRM with new client contacts, engagement notes, and follow-up schedules to improve client management.",
+        "Billable": "No",
+        "Activity Type": "Admin",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 0.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-09-25",
+        "Hours Logged": 3.5,
+        "Description / Notes": "Planned client event logistics including venue, schedule, and marketing materials to ensure smooth execution.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 525.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-06-08",
+        "Hours Logged": 4.4,
+        "Description / Notes": "Evaluated campaign performance data and provided insights for optimization and next steps to marketing team.",
+        "Billable": "Yes",
+        "Activity Type": "Review",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 660.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-11-11",
+        "Hours Logged": 3.3,
+        "Description / Notes": "Tested SEO strategies on client blog posts and product pages to improve search engine rankings and traffic.",
+        "Billable": "Yes",
+        "Activity Type": "Testing",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 495.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-02-12",
+        "Hours Logged": 2.7,
+        "Description / Notes": "Refined customer personas using recent survey data and analytics to better target marketing campaigns.",
+        "Billable": "No",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 0.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-10-15",
+        "Hours Logged": 3.9,
+        "Description / Notes": "Launched new product marketing campaign including strategy, advertising materials, and timeline coordination.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 585.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-04-07",
+        "Hours Logged": 4.6,
+        "Description / Notes": "Conducted competitive analysis identifying key differentiators and strategic advantages for client positioning.",
+        "Billable": "Yes",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 690.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-05-15",
+        "Hours Logged": 2.5,
+        "Description / Notes": "Optimized ad spend allocation across multiple platforms to maximize reach and minimize cost per acquisition.",
+        "Billable": "Yes",
+        "Activity Type": "Testing",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 375.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-08-30",
+        "Hours Logged": 3.1,
+        "Description / Notes": "Analyzed client feedback and implemented improvements in communication and delivery for ongoing projects.",
+        "Billable": "No",
+        "Activity Type": "Review",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Rejected",
+        "Billed Amount": 0.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-06-10",
+        "Hours Logged": 5.7,
+        "Description / Notes": "Hosted virtual workshop teaching clients how to leverage AI tools for enhanced marketing results and automation.",
+        "Billable": "Yes",
+        "Activity Type": "Meeting",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 855.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-09-07",
+        "Hours Logged": 4.3,
+        "Description / Notes": "Created product landing page content and layout focused on user conversions and SEO optimization techniques.",
+        "Billable": "Yes",
+        "Activity Type": "Design",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 645.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-01-18",
+        "Hours Logged": 3.6,
+        "Description / Notes": "Developed marketing collateral including brochures, presentations, and digital content for client campaigns.",
+        "Billable": "Yes",
+        "Activity Type": "Design",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 540.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-03-10",
+        "Hours Logged": 1.8,
+        "Description / Notes": "Launched marketing automation workflows to streamline campaign execution and lead nurturing processes.",
+        "Billable": "Yes",
+        "Activity Type": "Coding",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 270.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-12-01",
+        "Hours Logged": 2.9,
+        "Description / Notes": "Optimized website performance by improving load times, fixing bugs, and enhancing mobile responsiveness.",
+        "Billable": "Yes",
+        "Activity Type": "Testing",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 435.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-05-20",
+        "Hours Logged": 3.7,
+        "Description / Notes": "Developed influencer strategy identifying key partners, outreach plans, and campaign goals for brand awareness.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 555.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-11-05",
+        "Hours Logged": 4.1,
+        "Description / Notes": "Conducted usability testing sessions to gather user insights and improve application interface and navigation.",
+        "Billable": "No",
+        "Activity Type": "Testing",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 0.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-02-22",
+        "Hours Logged": 2.4,
+        "Description / Notes": "Analyzed social media metrics to evaluate engagement and reach; adjusted content plan accordingly.",
+        "Billable": "Yes",
+        "Activity Type": "Review",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 360.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-04-25",
+        "Hours Logged": 3.9,
+        "Description / Notes": "Developed advertising strategy focusing on multi-channel campaigns integrating AI-driven targeting.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 585.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-10-27",
+        "Hours Logged": 2.7,
+        "Description / Notes": "Planned brand workshop agenda and materials to align client teams on new branding initiatives and strategies.",
+        "Billable": "No",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-06-01",
+        "Hours Logged": 5.2,
+        "Description / Notes": "Created client presentation summarizing campaign results, performance metrics, and next steps for approval.",
+        "Billable": "Yes",
+        "Activity Type": "Documentation",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 780.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-08-18",
+        "Hours Logged": 3.0,
+        "Description / Notes": "Established referral program framework including incentives, tracking, and promotional materials for clients.",
+        "Billable": "No",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 0.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-03-17",
+        "Hours Logged": 4.4,
+        "Description / Notes": "Compiled influencer list with contact info, audience demographics, and relevance scores for campaign targeting.",
+        "Billable": "Yes",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 660.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-11-15",
+        "Hours Logged": 3.8,
+        "Description / Notes": "Developed marketing funnel strategy to guide prospects through awareness, consideration, and decision stages.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 570.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-01-05",
+        "Hours Logged": 4.9,
+        "Description / Notes": "Prepared annual marketing report analyzing yearly performance, campaign successes, and areas for improvement.",
+        "Billable": "No",
+        "Activity Type": "Documentation",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 0.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-05-14",
+        "Hours Logged": 2.6,
+        "Description / Notes": "Updated social media profiles with latest branding, contact info, and promotional content to maintain consistency.",
+        "Billable": "Yes",
+        "Activity Type": "Admin",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 390.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-07-29",
+        "Hours Logged": 3.3,
+        "Description / Notes": "Launched new marketing initiative focusing on AI-powered customer segmentation and targeted outreach campaigns.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 495.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-02-08",
+        "Hours Logged": 4.2,
+        "Description / Notes": "Conducted audience analysis leveraging social listening tools and analytics to refine targeting strategies.",
+        "Billable": "Yes",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 630.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-04-12",
+        "Hours Logged": 3.5,
+        "Description / Notes": "Integrated client feedback loops into project management to enhance communication and project outcomes.",
+        "Billable": "No",
+        "Activity Type": "Admin",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 0.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-09-03",
+        "Hours Logged": 2.1,
+        "Description / Notes": "Planned digital marketing strategy including channel mix, budget considerations, and content themes.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 315.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-06-23",
+        "Hours Logged": 3.7,
+        "Description / Notes": "Evaluated advertising metrics analyzing click-through rates, conversions, and cost per acquisition for optimization.",
+        "Billable": "Yes",
+        "Activity Type": "Review",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 555.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-08-26",
+        "Hours Logged": 2.9,
+        "Description / Notes": "Conducted client interviews to gather insights on campaign effectiveness and service satisfaction levels.",
+        "Billable": "No",
+        "Activity Type": "Meeting",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 0.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-01-28",
+        "Hours Logged": 4.5,
+        "Description / Notes": "Finalized content strategy documents detailing messaging frameworks and channel-specific approaches.",
+        "Billable": "Yes",
+        "Activity Type": "Documentation",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 675.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-03-22",
+        "Hours Logged": 3.0,
+        "Description / Notes": "Hosted client webinar presenting new AI marketing tools and answering user questions to improve adoption.",
+        "Billable": "No",
+        "Activity Type": "Meeting",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-10-11",
+        "Hours Logged": 3.4,
+        "Description / Notes": "Analyzed engagement metrics across social media platforms to guide content adjustments and boost interactions.",
+        "Billable": "Yes",
+        "Activity Type": "Review",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 510.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-05-05",
+        "Hours Logged": 2.8,
+        "Description / Notes": "Drafted marketing proposals for prospective clients outlining strategic approaches and expected outcomes.",
+        "Billable": "Yes",
+        "Activity Type": "Documentation",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 420.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-07-17",
+        "Hours Logged": 3.9,
+        "Description / Notes": "Developed video content scripts and storyboards aligned with client branding and campaign objectives.",
+        "Billable": "Yes",
+        "Activity Type": "Design",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 585.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-11-19",
+        "Hours Logged": 4.0,
+        "Description / Notes": "Created digital ad assets including banners and social media creatives optimized for multiple platforms.",
+        "Billable": "Yes",
+        "Activity Type": "Design",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 600.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-02-05",
+        "Hours Logged": 2.3,
+        "Description / Notes": "Established brand guidelines documentation to ensure consistent messaging and visual identity across clients.",
+        "Billable": "No",
+        "Activity Type": "Documentation",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-04-29",
+        "Hours Logged": 3.8,
+        "Description / Notes": "Optimized website SEO by updating meta tags, improving internal linking, and optimizing content keywords.",
+        "Billable": "Yes",
+        "Activity Type": "Testing",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 570.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-09-14",
+        "Hours Logged": 4.7,
+        "Description / Notes": "Conducted ad spend analysis identifying underperforming channels and reallocated budget for efficiency gains.",
+        "Billable": "Yes",
+        "Activity Type": "Review",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 705.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-06-18",
+        "Hours Logged": 3.1,
+        "Description / Notes": "Planned client retention strategy including loyalty programs and personalized engagement campaigns.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 465.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-08-03",
+        "Hours Logged": 2.5,
+        "Description / Notes": "Launched social media advertising campaigns focusing on audience targeting and creative testing.",
+        "Billable": "Yes",
+        "Activity Type": "Coding",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 375.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-01-20",
+        "Hours Logged": 3.4,
+        "Description / Notes": "Conducted customer surveys to gather feedback on marketing efforts and product satisfaction.",
+        "Billable": "No",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 0.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-03-09",
+        "Hours Logged": 4.2,
+        "Description / Notes": "Developed brand positioning statements and messaging architectures for client campaigns.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 630.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-12-19",
+        "Hours Logged": 3.6,
+        "Description / Notes": "Prepared webinar content focused on integrating AI in marketing workflows and automation.",
+        "Billable": "No",
+        "Activity Type": "Documentation",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-05-29",
+        "Hours Logged": 2.7,
+        "Description / Notes": "Updated client portals with new content, dashboard widgets, and user guides for better client experience.",
+        "Billable": "No",
+        "Activity Type": "Admin",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 0.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-10-19",
+        "Hours Logged": 3.5,
+        "Description / Notes": "Conducted brand audit to assess consistency and effectiveness of client brand assets and messaging.",
+        "Billable": "Yes",
+        "Activity Type": "Review",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 525.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-02-26",
+        "Hours Logged": 4.0,
+        "Description / Notes": "Launched product marketing campaigns including ad creation, email blasts, and landing page updates.",
+        "Billable": "Yes",
+        "Activity Type": "Coding",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 600.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-07-25",
+        "Hours Logged": 3.3,
+        "Description / Notes": "Created social media content calendars with post themes, hashtags, and timing optimized for engagement.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Rejected",
+        "Billed Amount": 495.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-04-16",
+        "Hours Logged": 2.2,
+        "Description / Notes": "Conducted audience surveys to refine demographics and improve targeting strategies for client accounts.",
+        "Billable": "No",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 0.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-01-08",
+        "Hours Logged": 3.9,
+        "Description / Notes": "Analyzed competitor strategies and market opportunities to advise client marketing direction and innovation.",
+        "Billable": "Yes",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 585.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-11-22",
+        "Hours Logged": 3.7,
+        "Description / Notes": "Prepared marketing presentations for client pitches showcasing AI marketing capabilities and case studies.",
+        "Billable": "Yes",
+        "Activity Type": "Documentation",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 555.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-05-03",
+        "Hours Logged": 4.5,
+        "Description / Notes": "Launched customer loyalty program framework including reward tiers, communication plans, and tracking metrics.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 675.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-08-20",
+        "Hours Logged": 3.1,
+        "Description / Notes": "Created brand campaign assets including logos, slogans, and marketing materials aligned with client vision.",
+        "Billable": "Yes",
+        "Activity Type": "Design",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 465.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-09-01",
+        "Hours Logged": 3.6,
+        "Description / Notes": "Analyzed ad performance metrics and recommended strategic changes to improve campaign effectiveness.",
+        "Billable": "Yes",
+        "Activity Type": "Review",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 540.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-03-04",
+        "Hours Logged": 2.8,
+        "Description / Notes": "Conducted customer interviews to identify pain points and opportunities for enhanced marketing experiences.",
+        "Billable": "No",
+        "Activity Type": "Meeting",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-12-24",
+        "Hours Logged": 3.2,
+        "Description / Notes": "Planned social media strategy outlining content themes, posting schedule, and engagement tactics.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 480.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-01-26",
+        "Hours Logged": 4.1,
+        "Description / Notes": "Developed email strategy including segmentation, content personalization, and automation workflows.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 615.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-10-14",
+        "Hours Logged": 3.0,
+        "Description / Notes": "Launched new marketing initiatives across digital and traditional media channels for client awareness.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 450.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-04-09",
+        "Hours Logged": 2.6,
+        "Description / Notes": "Evaluated campaign ROI by analyzing cost data, conversion rates, and revenue impact for client reports.",
+        "Billable": "Yes",
+        "Activity Type": "Review",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 390.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-07-28",
+        "Hours Logged": 3.8,
+        "Description / Notes": "Planned content calendar in detail coordinating with product launches, events, and seasonal promotions.",
+        "Billable": "No",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 0.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-02-16",
+        "Hours Logged": 4.3,
+        "Description / Notes": "Created client marketing materials including brochures, case studies, and sales presentations.",
+        "Billable": "Yes",
+        "Activity Type": "Documentation",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 645.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-05-12",
+        "Hours Logged": 2.9,
+        "Description / Notes": "Conducted brand survey to collect customer perceptions and brand awareness insights for strategic planning.",
+        "Billable": "No",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-11-02",
+        "Hours Logged": 3.5,
+        "Description / Notes": "Updated marketing strategy documents to reflect new client priorities and market conditions.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 525.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-03-27",
+        "Hours Logged": 3.7,
+        "Description / Notes": "Optimized user experience by implementing UI enhancements and improving site navigation flow.",
+        "Billable": "Yes",
+        "Activity Type": "Design",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 555.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-06-20",
+        "Hours Logged": 4.0,
+        "Description / Notes": "Launched referral campaign with tracking setup, promotional materials, and reward system for clients.",
+        "Billable": "Yes",
+        "Activity Type": "Planning",
+        "Timestamp": "2025-06-26T12:00:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 600.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-05-10",
+        "Hours Logged": 4.5,
+        "Description / Notes": "Developed initial wireframes and high-fidelity mockups for the new website UI revamp, focusing on user navigation improvements and mobile responsiveness.",
+        "Billable": "Yes",
+        "Activity Type": "Design",
+        "Timestamp": "2025-06-26T14:25:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 675.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2024-11-15",
+        "Hours Logged": 3.2,
+        "Description / Notes": "Conducted detailed keyword research for SEO strategy, compiling target keywords and analyzing competitor rankings to improve organic search results.",
+        "Billable": "Yes",
+        "Activity Type": "Research",
+        "Timestamp": "2025-06-26T14:25:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 384.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-03-22",
+        "Hours Logged": 2.8,
+        "Description / Notes": "Prepared and documented comprehensive client feedback review summary, highlighting key points and action items for the marketing team.",
+        "Billable": "No",
+        "Activity Type": "Documentation",
+        "Timestamp": "2025-06-26T14:25:00Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-01-18",
+        "Hours Logged": 5.0,
+        "Description / Notes": "Led a strategy meeting with the client to plan the upcoming AI-driven marketing campaign, aligning goals and deliverables.",
+        "Billable": "Yes",
+        "Activity Type": "Meeting",
+        "Timestamp": "2025-06-26T14:25:00Z",
+        "Approval Status": "Approved",
+        "Billed Amount": 1000.0
+      }
+    },
+    {
+      "fields": {
+        "Log Date": "2025-06-20",
+        "Hours Logged": 1.7,
+        "Description / Notes": "Performed usability testing on the new chatbot feature, identifying issues and recommending fixes to enhance user interaction.",
+        "Billable": "No",
+        "Activity Type": "Testing",
+        "Timestamp": "2025-06-26T14:25:00Z",
+        "Approval Status": "Pending",
+        "Billed Amount": 0
+      }
+    }
+  ]
+}

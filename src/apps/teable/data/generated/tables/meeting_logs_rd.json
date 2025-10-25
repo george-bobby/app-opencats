@@ -1,0 +1,1809 @@
+{
+  "table_name": "Meeting Logs",
+  "parent_workspace_name": "R&D",
+  "parent_base_name": "R&D",
+  "records": [
+    {
+      "fields": {
+        "Title": "Morning standup sync",
+        "Type": "Standup",
+        "Date": "2025-01-15",
+        "Duration": 0.5,
+        "Notes": "Quick update on project statuses and blockers.",
+        "Meeting Outcome": "No Action Required",
+        "Created Date": "2025-01-15",
+        "Summary Notes": "Team shared progress; no immediate issues."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Review AI-Driven Social Media Insights findings",
+        "Type": "Research Review",
+        "Date": "2025-04-10",
+        "Duration": 1.5,
+        "Notes": "Discussed latest data analysis results and implications for client campaigns.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-04-11",
+        "Summary Notes": "Decided to integrate new insights into April campaigns."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Sprint retrospective meeting",
+        "Type": "Retrospective",
+        "Date": "2025-03-28",
+        "Duration": 1.0,
+        "Notes": "Reflected on last sprint's successes and areas for improvement.",
+        "Meeting Outcome": "Action Items Created",
+        "Created Date": "2025-03-29",
+        "Summary Notes": "Action items assigned to improve workflow and testing."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Quarterly planning session",
+        "Type": "Planning",
+        "Date": "2025-02-18",
+        "Duration": 2.0,
+        "Notes": "Outlined key objectives and deliverables for next quarter.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-02-18",
+        "Summary Notes": "Established priorities for upcoming research initiatives."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Brainstorm session: New chatbot features",
+        "Type": "Brainstorm",
+        "Date": "2025-05-05",
+        "Duration": 1.25,
+        "Notes": "Generated ideas to enhance chatbot user experience and engagement.",
+        "Meeting Outcome": "Follow-up Required",
+        "Created Date": "2025-05-06",
+        "Summary Notes": "Identified promising features; assigned research tasks."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Daily standup: campaign updates",
+        "Type": "Standup",
+        "Date": "2025-06-20",
+        "Duration": 0.25,
+        "Notes": "Brief updates from each team member on current tasks.",
+        "Meeting Outcome": "No Action Required",
+        "Created Date": "2025-06-20",
+        "Summary Notes": "No blockers reported; all on track."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Research Review: Predictive Customer Engagement",
+        "Type": "Research Review",
+        "Date": "2025-04-22",
+        "Duration": 1.75,
+        "Notes": "Analyzed customer engagement predictive models and integration possibilities.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-04-23",
+        "Summary Notes": "Agreed on model refinement and pilot testing."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Retrospective on automated email personalization pilot",
+        "Type": "Retrospective",
+        "Date": "2025-01-30",
+        "Duration": 1.0,
+        "Notes": "Reviewed pilot results and team feedback.",
+        "Meeting Outcome": "Action Items Created",
+        "Created Date": "2025-01-31",
+        "Summary Notes": "Defined improvements for next phase rollout."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Planning meeting for Cross-Channel Marketing Analysis",
+        "Type": "Planning",
+        "Date": "2025-03-04",
+        "Duration": 1.5,
+        "Notes": "Set milestones and deliverables for upcoming analysis.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-03-05",
+        "Summary Notes": "Finalized timeline and assigned responsibilities."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Brainstorm: Voice Search Optimization tactics",
+        "Type": "Brainstorm",
+        "Date": "2025-05-15",
+        "Duration": 1.0,
+        "Notes": "Explored creative strategies to boost voice search effectiveness.",
+        "Meeting Outcome": "Follow-up Required",
+        "Created Date": "2025-05-15",
+        "Summary Notes": "Tasked team with competitive analysis and keyword research."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Standup: AI Sentiment Analysis Enhancement progress",
+        "Type": "Standup",
+        "Date": "2025-02-05",
+        "Duration": 0.4,
+        "Notes": "Status updates and minor issue troubleshooting.",
+        "Meeting Outcome": "No Action Required",
+        "Created Date": "2025-02-05",
+        "Summary Notes": "Normal progress; resolved a data labeling concern."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Research Review: Visual Ad Effectiveness Study",
+        "Type": "Research Review",
+        "Date": "2025-04-01",
+        "Duration": 2.0,
+        "Notes": "Comprehensive review of visual ad performance data.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-04-02",
+        "Summary Notes": "Agreed to adjust creative assets and test new variants."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Sprint retrospective: AI Content Gap Analysis",
+        "Type": "Retrospective",
+        "Date": "2025-03-18",
+        "Duration": 1.0,
+        "Notes": "Discussed sprint achievements and challenges.",
+        "Meeting Outcome": "Action Items Created",
+        "Created Date": "2025-03-18",
+        "Summary Notes": "Plan to automate gap detection and improve dataset."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Planning: Predictive Churn Prevention initiative",
+        "Type": "Planning",
+        "Date": "2025-01-22",
+        "Duration": 1.8,
+        "Notes": "Defined scope and objectives for churn prediction model.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-01-23",
+        "Summary Notes": "Allocated resources and set deadlines."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Brainstorming session: Automated Influencer Identification",
+        "Type": "Brainstorm",
+        "Date": "2025-06-10",
+        "Duration": 1.3,
+        "Notes": "Generated approaches to enhance influencer discovery algorithms.",
+        "Meeting Outcome": "Follow-up Required",
+        "Created Date": "2025-06-10",
+        "Summary Notes": "Prioritized social network data integration research."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Morning standup: Real-Time Campaign Analytics updates",
+        "Type": "Standup",
+        "Date": "2025-05-28",
+        "Duration": 0.25,
+        "Notes": "Daily quick sync on campaign tracking status.",
+        "Meeting Outcome": "No Action Required",
+        "Created Date": "2025-05-28",
+        "Summary Notes": "No issues; data streams operating normally."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Research Review: AI-Powered SEO Strategy",
+        "Type": "Research Review",
+        "Date": "2025-02-25",
+        "Duration": 1.6,
+        "Notes": "Evaluated SEO AI models and content optimization techniques.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-02-26",
+        "Summary Notes": "Decided to implement new keywords and metadata strategies."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Retrospective on Behavioral Pattern Recognition project",
+        "Type": "Retrospective",
+        "Date": "2025-04-12",
+        "Duration": 1.0,
+        "Notes": "Team reflected on model accuracy and integration challenges.",
+        "Meeting Outcome": "Action Items Created",
+        "Created Date": "2025-04-13",
+        "Summary Notes": "Plan to improve data preprocessing workflows."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Planning meeting for Ad Spend Optimization Tool",
+        "Type": "Planning",
+        "Date": "2025-03-11",
+        "Duration": 1.7,
+        "Notes": "Agreed on features and integration points for optimization tool.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-03-12",
+        "Summary Notes": "Resources assigned; development schedule agreed."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Brainstorm session: Personalized Video Ads",
+        "Type": "Brainstorm",
+        "Date": "2025-06-01",
+        "Duration": 1.2,
+        "Notes": "Innovative ideas for dynamic video content personalization.",
+        "Meeting Outcome": "Follow-up Required",
+        "Created Date": "2025-06-02",
+        "Summary Notes": "Research on user preferences and platform capabilities."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Daily standup on Customer Sentiment Dashboard",
+        "Type": "Standup",
+        "Date": "2025-04-28",
+        "Duration": 0.3,
+        "Notes": "Team provided updates on dashboard UI and data accuracy.",
+        "Meeting Outcome": "No Action Required",
+        "Created Date": "2025-04-28",
+        "Summary Notes": "Dashboard on track for next release."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Research Review: AI-Driven UX Testing results",
+        "Type": "Research Review",
+        "Date": "2025-01-10",
+        "Duration": 1.8,
+        "Notes": "Reviewed user feedback and AI testing output.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-01-11",
+        "Summary Notes": "Plan to refine AI test scripts and user experience."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Retrospective: Automated Copywriting Assistant performance",
+        "Type": "Retrospective",
+        "Date": "2025-05-20",
+        "Duration": 1.0,
+        "Notes": "Discussed successes and areas to enhance assistant accuracy.",
+        "Meeting Outcome": "Action Items Created",
+        "Created Date": "2025-05-21",
+        "Summary Notes": "Defined next steps for dataset expansion."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Planning session for Data Privacy Compliance AI",
+        "Type": "Planning",
+        "Date": "2025-02-14",
+        "Duration": 1.5,
+        "Notes": "Outlined compliance requirements and AI adaptation needs.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-02-15",
+        "Summary Notes": "Compliance checklist finalized; development started."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Brainstorm: AI Chatbot Expansion strategies",
+        "Type": "Brainstorm",
+        "Date": "2025-06-16",
+        "Duration": 1.1,
+        "Notes": "Explored new functionalities and integration ideas for chatbot.",
+        "Meeting Outcome": "Follow-up Required",
+        "Created Date": "2025-06-16",
+        "Summary Notes": "Assigned market research and technical feasibility study."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Standup meeting: Real-Time Competitor Analysis updates",
+        "Type": "Standup",
+        "Date": "2025-05-22",
+        "Duration": 0.4,
+        "Notes": "Brief progress updates and issue resolution.",
+        "Meeting Outcome": "No Action Required",
+        "Created Date": "2025-05-22",
+        "Summary Notes": "System running smoothly, no blockers."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Research Review: Dynamic Content Delivery techniques",
+        "Type": "Research Review",
+        "Date": "2025-03-21",
+        "Duration": 1.6,
+        "Notes": "Evaluated dynamic content algorithms and user engagement.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-03-22",
+        "Summary Notes": "Decided to pilot personalized content streams."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Retrospective: AI Prediction for Ad Fatigue accuracy",
+        "Type": "Retrospective",
+        "Date": "2025-04-05",
+        "Duration": 1.0,
+        "Notes": "Reviewed prediction errors and model improvements.",
+        "Meeting Outcome": "Action Items Created",
+        "Created Date": "2025-04-06",
+        "Summary Notes": "Actions to retrain model with updated data."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Quarterly planning: Customer Profiling Automation",
+        "Type": "Planning",
+        "Date": "2025-01-28",
+        "Duration": 2.0,
+        "Notes": "Set goals and deadlines for profiling automation system.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-01-29",
+        "Summary Notes": "Milestones and resource allocations approved."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Brainstorm session: AI-Based Market Segmentation",
+        "Type": "Brainstorm",
+        "Date": "2025-05-10",
+        "Duration": 1.3,
+        "Notes": "Conceptualized new segmentation criteria using AI capabilities.",
+        "Meeting Outcome": "Follow-up Required",
+        "Created Date": "2025-05-10",
+        "Summary Notes": "Tasked team with data requirements and prototype design."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Morning standup: Automated Campaign Scheduling progress",
+        "Type": "Standup",
+        "Date": "2025-06-18",
+        "Duration": 0.3,
+        "Notes": "Updates on automation testing and deployment.",
+        "Meeting Outcome": "No Action Required",
+        "Created Date": "2025-06-18",
+        "Summary Notes": "Testing phase proceeding as planned."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Research Review: Sentiment Trends Forecasting model",
+        "Type": "Research Review",
+        "Date": "2025-04-17",
+        "Duration": 1.7,
+        "Notes": "Analyzed forecasting accuracy and seasonal trend impacts.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-04-18",
+        "Summary Notes": "Agreed on model tuning and additional data sources."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Retrospective: AI-Enabled Content Curation feedback",
+        "Type": "Retrospective",
+        "Date": "2025-03-08",
+        "Duration": 1.0,
+        "Notes": "Team reflections on content recommendation effectiveness.",
+        "Meeting Outcome": "Action Items Created",
+        "Created Date": "2025-03-09",
+        "Summary Notes": "Plan to improve algorithm diversity."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Planning meeting: Voice Assistant Marketing campaign",
+        "Type": "Planning",
+        "Date": "2025-02-08",
+        "Duration": 1.5,
+        "Notes": "Defined campaign objectives and channel strategies.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-02-08",
+        "Summary Notes": "Campaign budget and timeline approved."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Brainstorm: Real-Time Audience Segmentation ideas",
+        "Type": "Brainstorm",
+        "Date": "2025-05-30",
+        "Duration": 1.1,
+        "Notes": "Ideas on dynamic segmentation based on user behavior.",
+        "Meeting Outcome": "Follow-up Required",
+        "Created Date": "2025-05-30",
+        "Summary Notes": "Next steps to research data refresh rates."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Standup: Chatbot ROI Analysis status",
+        "Type": "Standup",
+        "Date": "2025-01-18",
+        "Duration": 0.4,
+        "Notes": "Quick check-in on data gathering and preliminary results.",
+        "Meeting Outcome": "No Action Required",
+        "Created Date": "2025-01-18",
+        "Summary Notes": "Data collection on schedule."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Research Review: AI-Driven Email Campaigns performance",
+        "Type": "Research Review",
+        "Date": "2025-03-27",
+        "Duration": 1.6,
+        "Notes": "Reviewed campaign metrics and AI optimization impact.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-03-28",
+        "Summary Notes": "Agreed to expand AI use in segmentation."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Retrospective: Automated Brand Monitoring update",
+        "Type": "Retrospective",
+        "Date": "2025-05-12",
+        "Duration": 1.0,
+        "Notes": "Discussed system alerts and false positives reduction.",
+        "Meeting Outcome": "Action Items Created",
+        "Created Date": "2025-05-13",
+        "Summary Notes": "Set plan for alert tuning and user feedback integration."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Planning session: Predictive Analytics for Sales",
+        "Type": "Planning",
+        "Date": "2025-02-20",
+        "Duration": 1.7,
+        "Notes": "Outlined predictive model goals and integration with CRM.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-02-21",
+        "Summary Notes": "Milestone dates and team leads assigned."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Brainstorm: AI Content Gap Analysis enhancements",
+        "Type": "Brainstorm",
+        "Date": "2025-04-29",
+        "Duration": 1.2,
+        "Notes": "Discussed new data sources and content matching algorithms.",
+        "Meeting Outcome": "Follow-up Required",
+        "Created Date": "2025-04-29",
+        "Summary Notes": "Prioritized dataset expansion and testing."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Daily standup: Customer Loyalty Prediction updates",
+        "Type": "Standup",
+        "Date": "2025-06-03",
+        "Duration": 0.3,
+        "Notes": "Brief updates on model accuracy and data processing improvements.",
+        "Meeting Outcome": "No Action Required",
+        "Created Date": "2025-06-03",
+        "Summary Notes": "No issues to report today."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Research Review: Automated Social Media Posting performance",
+        "Type": "Research Review",
+        "Date": "2025-01-25",
+        "Duration": 1.5,
+        "Notes": "Assessment of scheduling algorithms and posting reliability.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-01-26",
+        "Summary Notes": "Improved scheduling logic approved for rollout."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Retrospective: Ad Copy Performance Tracking",
+        "Type": "Retrospective",
+        "Date": "2025-03-13",
+        "Duration": 1.0,
+        "Notes": "Reviewed tracking accuracy and report usefulness.",
+        "Meeting Outcome": "Action Items Created",
+        "Created Date": "2025-03-14",
+        "Summary Notes": "Agreed on UI improvements and error fixes."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Planning meeting: AI-Enhanced Video Marketing strategy",
+        "Type": "Planning",
+        "Date": "2025-05-02",
+        "Duration": 1.6,
+        "Notes": "Defined campaign goals and video content types.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-05-03",
+        "Summary Notes": "Strategy documents approved, production timeline set."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Brainstorm: Marketing Funnel Optimization techniques",
+        "Type": "Brainstorm",
+        "Date": "2025-06-12",
+        "Duration": 1.3,
+        "Notes": "Explored AI methods to improve funnel conversion rates.",
+        "Meeting Outcome": "Follow-up Required",
+        "Created Date": "2025-06-12",
+        "Summary Notes": "Tasks assigned for funnel data analysis."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Standup: Automated Customer Feedback Analysis progress",
+        "Type": "Standup",
+        "Date": "2025-04-08",
+        "Duration": 0.3,
+        "Notes": "Daily updates on sentiment AI model training.",
+        "Meeting Outcome": "No Action Required",
+        "Created Date": "2025-04-08",
+        "Summary Notes": "Training proceeding as planned."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Research Review: AI-Powered Influencer Outreach results",
+        "Type": "Research Review",
+        "Date": "2025-02-02",
+        "Duration": 1.7,
+        "Notes": "Reviewed influencer engagement metrics and AI targeting accuracy.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-02-03",
+        "Summary Notes": "Decided to expand influencer pool and refine algorithms."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Retrospective: Real-Time Engagement Metrics feedback",
+        "Type": "Retrospective",
+        "Date": "2025-03-31",
+        "Duration": 1.0,
+        "Notes": "Discussed dashboard usability and metric definitions.",
+        "Meeting Outcome": "Action Items Created",
+        "Created Date": "2025-04-01",
+        "Summary Notes": "To improve real-time alert thresholds and visualizations."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Planning: Conversational AI Development roadmap",
+        "Type": "Planning",
+        "Date": "2025-01-19",
+        "Duration": 1.8,
+        "Notes": "Set development phases and feature priorities.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-01-20",
+        "Summary Notes": "Roadmap approved; initial sprints scheduled."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Brainstorm session: Automated Market Trend Reports",
+        "Type": "Brainstorm",
+        "Date": "2025-05-19",
+        "Duration": 1.2,
+        "Notes": "Generated ideas for automated report formats and data sources.",
+        "Meeting Outcome": "Follow-up Required",
+        "Created Date": "2025-05-19",
+        "Summary Notes": "Research team to explore API data integrations."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Daily standup: Cross-Platform Analytics AI updates",
+        "Type": "Standup",
+        "Date": "2025-06-22",
+        "Duration": 0.4,
+        "Notes": "Status updates and issue tracking for analytics tools.",
+        "Meeting Outcome": "No Action Required",
+        "Created Date": "2025-06-22",
+        "Summary Notes": "No outstanding issues; progressing smoothly."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Research Review: AI Personalization Engine capabilities",
+        "Type": "Research Review",
+        "Date": "2025-04-14",
+        "Duration": 1.7,
+        "Notes": "Evaluated personalization algorithms and user data privacy.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-04-15",
+        "Summary Notes": "Approved privacy safeguards and next phase development."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Retrospective: Social Media Crisis Detection system",
+        "Type": "Retrospective",
+        "Date": "2025-03-25",
+        "Duration": 1.0,
+        "Notes": "Reviewed detection accuracy and false positive rates.",
+        "Meeting Outcome": "Action Items Created",
+        "Created Date": "2025-03-26",
+        "Summary Notes": "Planned model retraining and alert refinement."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Planning meeting: Campaign Budget Allocation AI",
+        "Type": "Planning",
+        "Date": "2025-02-12",
+        "Duration": 1.6,
+        "Notes": "Defined AI-driven budget allocation parameters and targets.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-02-12",
+        "Summary Notes": "Budget models approved; development underway."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Brainstorm: AI-Based Competitor Benchmarking features",
+        "Type": "Brainstorm",
+        "Date": "2025-06-07",
+        "Duration": 1.3,
+        "Notes": "Discussed data sources and benchmarking KPIs.",
+        "Meeting Outcome": "Follow-up Required",
+        "Created Date": "2025-06-07",
+        "Summary Notes": "Priority given to integrating competitor social metrics."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Standup: Automated Content Scheduling updates",
+        "Type": "Standup",
+        "Date": "2025-05-24",
+        "Duration": 0.3,
+        "Notes": "Daily progress review on scheduling algorithm improvements.",
+        "Meeting Outcome": "No Action Required",
+        "Created Date": "2025-05-24",
+        "Summary Notes": "No blockers; system testing ongoing."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Research Review: Customer Segmentation Refinement",
+        "Type": "Research Review",
+        "Date": "2025-03-02",
+        "Duration": 1.5,
+        "Notes": "Evaluated segmentation accuracy and customer profiles.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-03-03",
+        "Summary Notes": "Agreed to include behavioral data in segmentation."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Retrospective: Voice of Customer Analytics effectiveness",
+        "Type": "Retrospective",
+        "Date": "2025-04-20",
+        "Duration": 1.0,
+        "Notes": "Discussed report usefulness and data completeness.",
+        "Meeting Outcome": "Action Items Created",
+        "Created Date": "2025-04-21",
+        "Summary Notes": "Plan to enhance data capture methods."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Planning: AI-Driven Ad Placement project",
+        "Type": "Planning",
+        "Date": "2025-01-26",
+        "Duration": 1.7,
+        "Notes": "Defined project goals and technical requirements.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-01-27",
+        "Summary Notes": "Development timeline and resources allocated."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Brainstorm: Real-Time Social Campaign Tracking improvements",
+        "Type": "Brainstorm",
+        "Date": "2025-05-08",
+        "Duration": 1.1,
+        "Notes": "Ideas to improve tracking accuracy and alerting.",
+        "Meeting Outcome": "Follow-up Required",
+        "Created Date": "2025-05-08",
+        "Summary Notes": "Assigned prototyping tasks to data team."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Standup: Automated Lead Nurturing progress",
+        "Type": "Standup",
+        "Date": "2025-06-05",
+        "Duration": 0.3,
+        "Notes": "Brief updates on lead scoring and email flow automation.",
+        "Meeting Outcome": "No Action Required",
+        "Created Date": "2025-06-05",
+        "Summary Notes": "Lead scoring model training continues on schedule."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Research Review: AI-Powered Content Recommendations",
+        "Type": "Research Review",
+        "Date": "2025-02-28",
+        "Duration": 1.6,
+        "Notes": "Reviewed recommendation algorithms and user feedback.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-03-01",
+        "Summary Notes": "Decided on new personalization features to test."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Retrospective: Predictive Email Engagement model",
+        "Type": "Retrospective",
+        "Date": "2025-04-25",
+        "Duration": 1.0,
+        "Notes": "Analyzed prediction accuracy and campaign impacts.",
+        "Meeting Outcome": "Action Items Created",
+        "Created Date": "2025-04-26",
+        "Summary Notes": "Scheduled model retraining and feature review."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Planning meeting: AI-Based Customer Feedback Loop",
+        "Type": "Planning",
+        "Date": "2025-01-14",
+        "Duration": 1.5,
+        "Notes": "Outlined feedback collection and automated analysis strategy.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-01-14",
+        "Summary Notes": "Initial architecture approved; next steps defined."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Brainstorm session: Social Media Influencer ROI metrics",
+        "Type": "Brainstorm",
+        "Date": "2025-06-14",
+        "Duration": 1.2,
+        "Notes": "Discussed new ROI calculation methods and attribution models.",
+        "Meeting Outcome": "Follow-up Required",
+        "Created Date": "2025-06-14",
+        "Summary Notes": "Assigned data validation and tool development tasks."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Daily standup: Automated Webinar Promotions status",
+        "Type": "Standup",
+        "Date": "2025-05-26",
+        "Duration": 0.25,
+        "Notes": "Short sync on webinar promotion campaign progress.",
+        "Meeting Outcome": "No Action Required",
+        "Created Date": "2025-05-26",
+        "Summary Notes": "Campaign on track; no issues."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Research Review: Chatbot Conversion Optimization",
+        "Type": "Research Review",
+        "Date": "2025-03-16",
+        "Duration": 1.6,
+        "Notes": "Evaluated chatbot interaction data and conversion rates.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-03-17",
+        "Summary Notes": "Plan to implement new conversation flows."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Retrospective: AI-Enhanced Brand Storytelling feedback",
+        "Type": "Retrospective",
+        "Date": "2025-04-09",
+        "Duration": 1.0,
+        "Notes": "Team reviewed campaign narratives and emotional engagement.",
+        "Meeting Outcome": "Action Items Created",
+        "Created Date": "2025-04-10",
+        "Summary Notes": "Scheduled script improvements and audience tests."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Planning: Automated Market Opportunity Identification",
+        "Type": "Planning",
+        "Date": "2025-02-06",
+        "Duration": 1.7,
+        "Notes": "Defined goals and required datasets for opportunity detection.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-02-07",
+        "Summary Notes": "Project roadmap approved with milestones."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Morning Standup Sync",
+        "Type": "Standup",
+        "Date": "2025-05-22",
+        "Duration": 0.5,
+        "Notes": "Quick updates from each team member on current tasks and blockers.",
+        "Meeting Outcome": "No Action Required",
+        "Created Date": "2025-05-22",
+        "Summary Notes": "Team updated on current project statuses; no immediate issues."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Review of AI-Driven Social Media Insights Research",
+        "Type": "Research Review",
+        "Date": "2025-01-28",
+        "Duration": 1.5,
+        "Notes": "Discussed latest findings from AI analysis on social media trends.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-01-29",
+        "Summary Notes": "Decided to integrate new insights into upcoming campaigns for better targeting."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Sprint Retrospective - April Cycle",
+        "Type": "Retrospective",
+        "Date": "2025-04-30",
+        "Duration": 1.0,
+        "Notes": "Review of sprint successes and areas for improvement.",
+        "Meeting Outcome": "Action Items Created",
+        "Created Date": "2025-05-01",
+        "Summary Notes": "Created action items to improve cross-team communication and reduce delays."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Quarterly Planning Meeting",
+        "Type": "Planning",
+        "Date": "2025-03-15",
+        "Duration": 2.0,
+        "Notes": "Set goals and allocate resources for next quarter's AI marketing projects.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-03-16",
+        "Summary Notes": "Finalized project priorities and budget allocations for Q2 2025."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Brainstorm Session: New AI Features",
+        "Type": "Brainstorm",
+        "Date": "2025-06-03",
+        "Duration": 1.25,
+        "Notes": "Generated ideas for AI-powered personalization enhancements.",
+        "Meeting Outcome": "Follow-up Required",
+        "Created Date": "2025-06-04",
+        "Summary Notes": "Identified promising AI features; assigned research tasks to team leads."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Daily Standup - Team Marketing AI",
+        "Type": "Standup",
+        "Date": "2025-06-20",
+        "Duration": 0.4,
+        "Notes": "Brief check-in to align on daily tasks and immediate priorities.",
+        "Meeting Outcome": "No Action Required",
+        "Created Date": "2025-06-20",
+        "Summary Notes": "Smooth progress; no blockers reported."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Content Optimization Algorithms Review",
+        "Type": "Research Review",
+        "Date": "2025-02-14",
+        "Duration": 1.75,
+        "Notes": "Analyzed algorithm effectiveness and proposed improvements.",
+        "Meeting Outcome": "Action Items Created",
+        "Created Date": "2025-02-15",
+        "Summary Notes": "Scheduled implementation of algorithm tweaks and testing."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Retrospective: Customer Engagement Project",
+        "Type": "Retrospective",
+        "Date": "2025-05-12",
+        "Duration": 1.0,
+        "Notes": "Evaluated successes and challenges in predictive customer engagement initiative.",
+        "Meeting Outcome": "No Action Required",
+        "Created Date": "2025-05-13",
+        "Summary Notes": "Positive feedback; maintained current approach with minor adjustments."
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI Sentiment Analysis Enhancement Planning",
+        "Type": "Planning",
+        "Date": "2025-04-10",
+        "Duration": 2.5,
+        "Notes": "Mapped out steps to enhance sentiment analysis capabilities.",
+        "Meeting Outcome": "Follow-up Required",
+        "Created Date": "2025-04-11",
+        "Summary Notes": "Defined milestones and assigned responsible teams."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Creative Brainstorm: Visual Ad Effectiveness",
+        "Type": "Brainstorm",
+        "Date": "2025-03-25",
+        "Duration": 1.2,
+        "Notes": "Explored creative concepts to boost visual ad impact.",
+        "Meeting Outcome": "Action Items Created",
+        "Created Date": "2025-03-26",
+        "Summary Notes": "Agreed on testing three new ad designs in next campaign."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Team Standup: AI Content Generation",
+        "Type": "Standup",
+        "Date": "2025-06-22",
+        "Duration": 0.5,
+        "Notes": "Discussed progress on automated content generation tools.",
+        "Meeting Outcome": "No Action Required",
+        "Created Date": "2025-06-22",
+        "Summary Notes": "Development on track with no issues."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Research Review: Chatbot User Experience Study",
+        "Type": "Research Review",
+        "Date": "2025-01-07",
+        "Duration": 1.6,
+        "Notes": "Reviewed data on user interaction improvements for chatbots.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-01-08",
+        "Summary Notes": "Approved UI changes to increase engagement rates."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Sprint Retrospective: AI-Powered SEO Strategy",
+        "Type": "Retrospective",
+        "Date": "2025-02-27",
+        "Duration": 1.1,
+        "Notes": "Discussed SEO enhancements and campaign performance.",
+        "Meeting Outcome": "Action Items Created",
+        "Created Date": "2025-02-28",
+        "Summary Notes": "Action items created for keyword optimization and content alignment."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Planning Session: Automated Email Personalization",
+        "Type": "Planning",
+        "Date": "2025-05-01",
+        "Duration": 2.3,
+        "Notes": "Outlined rollout plan for new email personalization features.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-05-02",
+        "Summary Notes": "Finalized timeline and assigned developers for feature release."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Brainstorm: Real-Time Campaign Analytics",
+        "Type": "Brainstorm",
+        "Date": "2025-06-08",
+        "Duration": 1.4,
+        "Notes": "Ideated on improving dashboard data visualization and alerts.",
+        "Meeting Outcome": "Follow-up Required",
+        "Created Date": "2025-06-09",
+        "Summary Notes": "Team tasked with prototyping new UI elements."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Daily Standup: AI Chatbot Expansion",
+        "Type": "Standup",
+        "Date": "2025-03-30",
+        "Duration": 0.5,
+        "Notes": "Quick status updates on chatbot multilingual features.",
+        "Meeting Outcome": "No Action Required",
+        "Created Date": "2025-03-30",
+        "Summary Notes": "No blockers; progressing as scheduled."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Research Review: AI-Powered Lead Scoring",
+        "Type": "Research Review",
+        "Date": "2025-04-22",
+        "Duration": 1.7,
+        "Notes": "Evaluated lead scoring model accuracy and improvements.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-04-23",
+        "Summary Notes": "Agreed on model retraining with updated datasets."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Retrospective: Social Listening Expansion",
+        "Type": "Retrospective",
+        "Date": "2025-01-19",
+        "Duration": 0.9,
+        "Notes": "Review of social listening tool deployment and feedback.",
+        "Meeting Outcome": "No Action Required",
+        "Created Date": "2025-01-20",
+        "Summary Notes": "Continued with current strategy; minor UI fixes identified."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Planning Meeting: Dynamic Pricing AI Models",
+        "Type": "Planning",
+        "Date": "2025-05-20",
+        "Duration": 2.1,
+        "Notes": "Scheduled phases for dynamic pricing model development and testing.",
+        "Meeting Outcome": "Follow-up Required",
+        "Created Date": "2025-05-21",
+        "Summary Notes": "Assigned teams to data collection and feature engineering."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Creative Brainstorm: Personalized Video Ads",
+        "Type": "Brainstorm",
+        "Date": "2025-02-08",
+        "Duration": 1.5,
+        "Notes": "Generated ideas for personalized video ad campaigns using AI.",
+        "Meeting Outcome": "Action Items Created",
+        "Created Date": "2025-02-09",
+        "Summary Notes": "Planned pilot campaign for targeting specific segments."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Team Standup: Automated Customer Feedback Analysis",
+        "Type": "Standup",
+        "Date": "2025-06-12",
+        "Duration": 0.45,
+        "Notes": "Daily check-in on sentiment analysis automation progress.",
+        "Meeting Outcome": "No Action Required",
+        "Created Date": "2025-06-12",
+        "Summary Notes": "Tasks progressing smoothly with no issues."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Research Review: AI-Driven UX Testing",
+        "Type": "Research Review",
+        "Date": "2025-03-05",
+        "Duration": 1.3,
+        "Notes": "Reviewed user experience testing results from AI experiments.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-03-06",
+        "Summary Notes": "Decided to implement new testing protocols for next release."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Retrospective: Automated Copywriting Assistant",
+        "Type": "Retrospective",
+        "Date": "2025-05-27",
+        "Duration": 1.0,
+        "Notes": "Analyzed writing quality and user feedback on copy assistant.",
+        "Meeting Outcome": "Follow-up Required",
+        "Created Date": "2025-05-28",
+        "Summary Notes": "Identified areas for improvement, scheduled update."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Planning: Data Privacy Compliance AI",
+        "Type": "Planning",
+        "Date": "2025-06-15",
+        "Duration": 2.4,
+        "Notes": "Mapped compliance requirements and AI implementation strategies.",
+        "Meeting Outcome": "Action Items Created",
+        "Created Date": "2025-06-15",
+        "Summary Notes": "Action items created for policy review and AI auditing."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Brainstorm: AI-Powered Customer Segmentation",
+        "Type": "Brainstorm",
+        "Date": "2025-04-13",
+        "Duration": 1.1,
+        "Notes": "Explored segmentation approaches using behavioral data.",
+        "Meeting Outcome": "Follow-up Required",
+        "Created Date": "2025-04-14",
+        "Summary Notes": "Assigned data team to prototype new segmentation model."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Daily Standup: Chatbot Conversion Optimization",
+        "Type": "Standup",
+        "Date": "2025-03-21",
+        "Duration": 0.5,
+        "Notes": "Short status update on chatbot performance metrics.",
+        "Meeting Outcome": "No Action Required",
+        "Created Date": "2025-03-21",
+        "Summary Notes": "Conversion rates steady; no urgent changes required."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Research Review: Real-Time Competitor Analysis",
+        "Type": "Research Review",
+        "Date": "2025-01-30",
+        "Duration": 1.6,
+        "Notes": "Discussed competitor activity tracking via AI solutions.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-01-31",
+        "Summary Notes": "Approved development of alert system for key competitor moves."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Sprint Retrospective: AI-Powered SEO Strategy",
+        "Type": "Retrospective",
+        "Date": "2025-02-12",
+        "Duration": 1.0,
+        "Notes": "Evaluated impact of updated SEO strategy on organic traffic.",
+        "Meeting Outcome": "Action Items Created",
+        "Created Date": "2025-02-13",
+        "Summary Notes": "Created tasks to focus on link-building and content refresh."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Quarterly Planning: AI Marketing Funnel Optimization",
+        "Type": "Planning",
+        "Date": "2025-05-05",
+        "Duration": 2.2,
+        "Notes": "Set goals for funnel improvements using AI analytics.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-05-06",
+        "Summary Notes": "Allocated resources to funnel optimization initiatives."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Brainstorm Session: Voice Assistant Marketing Expansion",
+        "Type": "Brainstorm",
+        "Date": "2025-06-01",
+        "Duration": 1.3,
+        "Notes": "Generated ideas for expanding voice assistant marketing capabilities.",
+        "Meeting Outcome": "Follow-up Required",
+        "Created Date": "2025-06-02",
+        "Summary Notes": "Research team tasked with feasibility analysis."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Team Standup: Automated Social Media Posting",
+        "Type": "Standup",
+        "Date": "2025-04-25",
+        "Duration": 0.45,
+        "Notes": "Daily updates on social media automation progress.",
+        "Meeting Outcome": "No Action Required",
+        "Created Date": "2025-04-25",
+        "Summary Notes": "On track to meet next milestone."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Research Review: AI-Based Market Segmentation",
+        "Type": "Research Review",
+        "Date": "2025-03-17",
+        "Duration": 1.4,
+        "Notes": "Reviewed segmentation model performance and customer insights.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-03-18",
+        "Summary Notes": "Approved rollout to selected client accounts."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Retrospective: Automated Webinar Promotions",
+        "Type": "Retrospective",
+        "Date": "2025-02-26",
+        "Duration": 1.1,
+        "Notes": "Analyzed webinar promotion effectiveness and lead conversion.",
+        "Meeting Outcome": "No Action Required",
+        "Created Date": "2025-02-27",
+        "Summary Notes": "Maintained current promotion strategy; no critical changes."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Planning: AI-Powered Brand Awareness Analysis",
+        "Type": "Planning",
+        "Date": "2025-05-18",
+        "Duration": 2.0,
+        "Notes": "Outlined plan for brand awareness tracking with AI tools.",
+        "Meeting Outcome": "Action Items Created",
+        "Created Date": "2025-05-19",
+        "Summary Notes": "Assigned data sourcing and dashboard development tasks."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Brainstorm: Dynamic Email Content AI",
+        "Type": "Brainstorm",
+        "Date": "2025-01-25",
+        "Duration": 1.2,
+        "Notes": "Discussed dynamic content personalization for email campaigns.",
+        "Meeting Outcome": "Follow-up Required",
+        "Created Date": "2025-01-26",
+        "Summary Notes": "Experiment design assigned to email marketing team."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Daily Standup: AI Chatbot Training Enhancement",
+        "Type": "Standup",
+        "Date": "2025-06-24",
+        "Duration": 0.5,
+        "Notes": "Brief check-in on chatbot training progress and issues.",
+        "Meeting Outcome": "No Action Required",
+        "Created Date": "2025-06-24",
+        "Summary Notes": "Training dataset improvements proceeding well."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Research Review: Predictive Churn Prevention",
+        "Type": "Research Review",
+        "Date": "2025-03-09",
+        "Duration": 1.5,
+        "Notes": "Examined models predicting customer churn and retention strategies.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-03-10",
+        "Summary Notes": "Churn alert system approved for pilot deployment."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Retrospective: AI-Powered Content Recommendations",
+        "Type": "Retrospective",
+        "Date": "2025-04-20",
+        "Duration": 1.0,
+        "Notes": "Reviewed effectiveness of content recommendation implementation.",
+        "Meeting Outcome": "Follow-up Required",
+        "Created Date": "2025-04-21",
+        "Summary Notes": "Planned A/B tests to refine recommendation algorithms."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Planning Meeting: Customer Journey AI Mapping",
+        "Type": "Planning",
+        "Date": "2025-06-05",
+        "Duration": 2.3,
+        "Notes": "Defined roadmap for AI-assisted customer journey analysis.",
+        "Meeting Outcome": "Action Items Created",
+        "Created Date": "2025-06-05",
+        "Summary Notes": "Actions assigned for data integration and tool development."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Brainstorm: Social Media Crisis Detection AI",
+        "Type": "Brainstorm",
+        "Date": "2025-02-03",
+        "Duration": 1.1,
+        "Notes": "Ideas for early detection of social media crises using AI.",
+        "Meeting Outcome": "Follow-up Required",
+        "Created Date": "2025-02-04",
+        "Summary Notes": "Research to explore sentiment threshold triggers."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Team Standup: AI-Enabled Display Ad Targeting",
+        "Type": "Standup",
+        "Date": "2025-05-23",
+        "Duration": 0.4,
+        "Notes": "Progress updates on display ad targeting enhancements.",
+        "Meeting Outcome": "No Action Required",
+        "Created Date": "2025-05-23",
+        "Summary Notes": "Campaign tests running; no issues."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Research Review: Predictive Social Media Scheduling",
+        "Type": "Research Review",
+        "Date": "2025-01-14",
+        "Duration": 1.6,
+        "Notes": "Evaluated AI models for optimal social media post timing.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-01-15",
+        "Summary Notes": "Approved integration into scheduling software."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Retrospective: Automated Lead Qualification",
+        "Type": "Retrospective",
+        "Date": "2025-03-28",
+        "Duration": 1.0,
+        "Notes": "Assessed lead qualification automation and conversion rates.",
+        "Meeting Outcome": "Action Items Created",
+        "Created Date": "2025-03-29",
+        "Summary Notes": "Identified improvements for lead scoring thresholds."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Planning: AI-Based Customer Feedback Loop",
+        "Type": "Planning",
+        "Date": "2025-04-07",
+        "Duration": 2.1,
+        "Notes": "Planned continuous AI feedback processing for customer insights.",
+        "Meeting Outcome": "Follow-up Required",
+        "Created Date": "2025-04-07",
+        "Summary Notes": "Set up data streams and feedback integration points."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Brainstorm Session: Real-Time Audience Segmentation",
+        "Type": "Brainstorm",
+        "Date": "2025-05-10",
+        "Duration": 1.25,
+        "Notes": "Ideas to enhance real-time audience segmentation capabilities.",
+        "Meeting Outcome": "Action Items Created",
+        "Created Date": "2025-05-11",
+        "Summary Notes": "Agreed on prototype features and assigned tasks."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Daily Standup: Automated Brand Monitoring",
+        "Type": "Standup",
+        "Date": "2025-06-18",
+        "Duration": 0.5,
+        "Notes": "Daily updates on brand monitoring AI deployment status.",
+        "Meeting Outcome": "No Action Required",
+        "Created Date": "2025-06-18",
+        "Summary Notes": "Deployment progressing without issues."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Research Review: AI-Powered Video Ad Testing",
+        "Type": "Research Review",
+        "Date": "2025-02-21",
+        "Duration": 1.7,
+        "Notes": "Reviewed video ad performance testing results using AI.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-02-22",
+        "Summary Notes": "Decision to expand testing with additional metrics."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Sprint Retrospective: Automated Campaign Scheduling",
+        "Type": "Retrospective",
+        "Date": "2025-03-12",
+        "Duration": 1.0,
+        "Notes": "Discussed scheduling automation effectiveness and timing accuracy.",
+        "Meeting Outcome": "No Action Required",
+        "Created Date": "2025-03-13",
+        "Summary Notes": "Satisfied with current progress; minor scheduling tweaks planned."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Planning: AI-Based Social Media Moderation",
+        "Type": "Planning",
+        "Date": "2025-05-29",
+        "Duration": 2.2,
+        "Notes": "Developed compliance and moderation workflows for social media AI.",
+        "Meeting Outcome": "Action Items Created",
+        "Created Date": "2025-05-30",
+        "Summary Notes": "Tasks created for policy updates and AI model training."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Brainstorm: Customer Lifetime Value Prediction",
+        "Type": "Brainstorm",
+        "Date": "2025-01-18",
+        "Duration": 1.3,
+        "Notes": "Generated ideas to improve LTV prediction models.",
+        "Meeting Outcome": "Follow-up Required",
+        "Created Date": "2025-01-19",
+        "Summary Notes": "Data science team assigned to dataset enrichment."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Team Standup: Automated Content Localization",
+        "Type": "Standup",
+        "Date": "2025-06-11",
+        "Duration": 0.45,
+        "Notes": "Quick status on progress in content localization automation.",
+        "Meeting Outcome": "No Action Required",
+        "Created Date": "2025-06-11",
+        "Summary Notes": "All tasks on schedule."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Research Review: Real-Time Ad Performance AI",
+        "Type": "Research Review",
+        "Date": "2025-04-01",
+        "Duration": 1.5,
+        "Notes": "Discussed AI models for optimizing ad spend in real time.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-04-02",
+        "Summary Notes": "Approved pilot for dynamic bidding algorithms."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Retrospective: AI-Based Click-Through Rate Optimization",
+        "Type": "Retrospective",
+        "Date": "2025-02-18",
+        "Duration": 1.0,
+        "Notes": "Evaluated CTR optimization efforts and results.",
+        "Meeting Outcome": "Action Items Created",
+        "Created Date": "2025-02-19",
+        "Summary Notes": "Action items targeted at improving call-to-action designs."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Planning: Predictive Analytics for Sales",
+        "Type": "Planning",
+        "Date": "2025-05-14",
+        "Duration": 2.4,
+        "Notes": "Outlined analytics tools to forecast sales performance.",
+        "Meeting Outcome": "Follow-up Required",
+        "Created Date": "2025-05-14",
+        "Summary Notes": "Data acquisition and model refinement assigned."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Brainstorm Session: Social Media Influencer ROI",
+        "Type": "Brainstorm",
+        "Date": "2025-03-03",
+        "Duration": 1.2,
+        "Notes": "Generated ideas to better measure influencer marketing ROI.",
+        "Meeting Outcome": "Action Items Created",
+        "Created Date": "2025-03-04",
+        "Summary Notes": "Created tasks for tracking tool enhancements."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Daily Standup: Automated Lead Nurturing",
+        "Type": "Standup",
+        "Date": "2025-06-16",
+        "Duration": 0.5,
+        "Notes": "Brief updates on lead nurturing automation processes.",
+        "Meeting Outcome": "No Action Required",
+        "Created Date": "2025-06-16",
+        "Summary Notes": "Steady progress; no issues."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Research Review: AI-Driven Email Campaigns",
+        "Type": "Research Review",
+        "Date": "2025-01-09",
+        "Duration": 1.6,
+        "Notes": "Examined email campaign performance aided by AI.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-01-10",
+        "Summary Notes": "Decided to increase personalization parameters in campaigns."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Retrospective: Automated Content Scheduling",
+        "Type": "Retrospective",
+        "Date": "2025-04-28",
+        "Duration": 1.0,
+        "Notes": "Reviewed content scheduling automation impact on engagement.",
+        "Meeting Outcome": "No Action Required",
+        "Created Date": "2025-04-29",
+        "Summary Notes": "No major issues; continued use planned."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Planning: AI-Powered Competitor Pricing Analysis",
+        "Type": "Planning",
+        "Date": "2025-05-08",
+        "Duration": 2.1,
+        "Notes": "Planned approach to analyze competitor pricing with AI.",
+        "Meeting Outcome": "Action Items Created",
+        "Created Date": "2025-05-09",
+        "Summary Notes": "Action items for data integration and analysis workflow."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Brainstorm: Voice Search Optimization Strategy",
+        "Type": "Brainstorm",
+        "Date": "2025-02-01",
+        "Duration": 1.3,
+        "Notes": "Ideas for enhancing voice search marketing with AI.",
+        "Meeting Outcome": "Follow-up Required",
+        "Created Date": "2025-02-02",
+        "Summary Notes": "Assigned research for keyword optimization."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Team Standup: AI-Powered Loyalty Programs",
+        "Type": "Standup",
+        "Date": "2025-06-19",
+        "Duration": 0.4,
+        "Notes": "Daily check-in on loyalty program AI feature development.",
+        "Meeting Outcome": "No Action Required",
+        "Created Date": "2025-06-19",
+        "Summary Notes": "Development progressing on schedule."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Research Review: Automated Customer Retention Models",
+        "Type": "Research Review",
+        "Date": "2025-03-23",
+        "Duration": 1.5,
+        "Notes": "Reviewed retention model accuracy and customer segmentation.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-03-24",
+        "Summary Notes": "Approved deployment of updated retention algorithms."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Retrospective: AI-Driven Campaign ROI Analysis",
+        "Type": "Retrospective",
+        "Date": "2025-02-06",
+        "Duration": 1.1,
+        "Notes": "Assessed ROI improvements from AI-driven campaign optimizations.",
+        "Meeting Outcome": "Action Items Created",
+        "Created Date": "2025-02-07",
+        "Summary Notes": "Created tasks to refine attribution models."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Planning Meeting: Dynamic Content Delivery",
+        "Type": "Planning",
+        "Date": "2025-04-18",
+        "Duration": 2.2,
+        "Notes": "Set roadmap for dynamic content delivery system.",
+        "Meeting Outcome": "Follow-up Required",
+        "Created Date": "2025-04-18",
+        "Summary Notes": "Assigned teams for system architecture design."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Brainstorm: Predictive Email Engagement",
+        "Type": "Brainstorm",
+        "Date": "2025-05-25",
+        "Duration": 1.3,
+        "Notes": "Generated ideas for predicting email engagement with AI.",
+        "Meeting Outcome": "Action Items Created",
+        "Created Date": "2025-05-26",
+        "Summary Notes": "Planned experiments for engagement prediction models."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Daily Standup: Customer Profiling Automation",
+        "Type": "Standup",
+        "Date": "2025-06-10",
+        "Duration": 0.45,
+        "Notes": "Quick updates on customer profiling AI automation.",
+        "Meeting Outcome": "No Action Required",
+        "Created Date": "2025-06-10",
+        "Summary Notes": "Tasks progressing as planned."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Research Review: AI-Based Content Strategy",
+        "Type": "Research Review",
+        "Date": "2025-01-12",
+        "Duration": 1.6,
+        "Notes": "Discussed data on AI-generated content strategies effectiveness.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-01-13",
+        "Summary Notes": "Approved content strategy updates for Q2 campaigns."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Retrospective: Automated Lead Qualification",
+        "Type": "Retrospective",
+        "Date": "2025-03-03",
+        "Duration": 1.0,
+        "Notes": "Reviewed lead qualification results and process efficiency.",
+        "Meeting Outcome": "Follow-up Required",
+        "Created Date": "2025-03-04",
+        "Summary Notes": "Scheduled retraining of lead scoring models."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Planning: AI-Driven Social Media Growth",
+        "Type": "Planning",
+        "Date": "2025-05-21",
+        "Duration": 2.3,
+        "Notes": "Outlined initiatives to foster growth using AI tools.",
+        "Meeting Outcome": "Action Items Created",
+        "Created Date": "2025-05-21",
+        "Summary Notes": "Assigned campaigns and monitoring metrics."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Brainstorm: Chatbot Multilingual Support Expansion",
+        "Type": "Brainstorm",
+        "Date": "2025-02-19",
+        "Duration": 1.2,
+        "Notes": "Ideas to enhance chatbot multilingual capabilities.",
+        "Meeting Outcome": "Follow-up Required",
+        "Created Date": "2025-02-20",
+        "Summary Notes": "Research team to evaluate language model integrations."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Team Standup: AI Marketing Funnel Analysis",
+        "Type": "Standup",
+        "Date": "2025-06-13",
+        "Duration": 0.5,
+        "Notes": "Daily status on marketing funnel AI analysis tasks.",
+        "Meeting Outcome": "No Action Required",
+        "Created Date": "2025-06-13",
+        "Summary Notes": "No blockers, data collection ongoing."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Research Review: Social Media Bot Detection AI",
+        "Type": "Research Review",
+        "Date": "2025-04-05",
+        "Duration": 1.5,
+        "Notes": "Assessment of AI tools for detecting social media bots.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-04-06",
+        "Summary Notes": "Approved integration tests with social platforms."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Retrospective: Automated Email List Segmentation",
+        "Type": "Retrospective",
+        "Date": "2025-03-27",
+        "Duration": 1.0,
+        "Notes": "Evaluation of segmentation accuracy and campaign performance.",
+        "Meeting Outcome": "Action Items Created",
+        "Created Date": "2025-03-28",
+        "Summary Notes": "Identified improvements to segmentation algorithms."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Planning: AI-Powered Influencer Outreach",
+        "Type": "Planning",
+        "Date": "2025-05-03",
+        "Duration": 2.4,
+        "Notes": "Set goals and tasks for influencer outreach automation.",
+        "Meeting Outcome": "Follow-up Required",
+        "Created Date": "2025-05-03",
+        "Summary Notes": "Research on influencer engagement metrics initiated."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Brainstorm: AI Prediction for Ad Fatigue",
+        "Type": "Brainstorm",
+        "Date": "2025-01-22",
+        "Duration": 1.1,
+        "Notes": "Generated ideas to predict and prevent ad fatigue using AI.",
+        "Meeting Outcome": "Action Items Created",
+        "Created Date": "2025-01-23",
+        "Summary Notes": "Planned model development and pilot testing."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Daily Standup: AI-Powered User Engagement",
+        "Type": "Standup",
+        "Date": "2025-06-09",
+        "Duration": 0.45,
+        "Notes": "Updates on user engagement prediction model progress.",
+        "Meeting Outcome": "No Action Required",
+        "Created Date": "2025-06-09",
+        "Summary Notes": "On track with no issues."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Research Review: AI-Powered SEO Strategy",
+        "Type": "Research Review",
+        "Date": "2025-02-10",
+        "Duration": 1.6,
+        "Notes": "Reviewed SEO improvement strategies powered by AI.",
+        "Meeting Outcome": "Decisions Made",
+        "Created Date": "2025-02-11",
+        "Summary Notes": "Decided to update keyword research tools."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Retrospective: Campaign Budget Allocation AI",
+        "Type": "Retrospective",
+        "Date": "2025-04-26",
+        "Duration": 1.0,
+        "Notes": "Reviewed AI-driven budget allocation results and ROI.",
+        "Meeting Outcome": "No Action Required",
+        "Created Date": "2025-04-27",
+        "Summary Notes": "Satisfied with outcomes; continuing with current approach."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Planning: Automated Market Opportunity Identification",
+        "Type": "Planning",
+        "Date": "2025-05-12",
+        "Duration": 2.0,
+        "Notes": "Developed plan to identify market opportunities through AI.",
+        "Meeting Outcome": "Action Items Created",
+        "Created Date": "2025-05-12",
+        "Summary Notes": "Assigned data analysis and reporting tasks."
+      }
+    },
+    {
+      "fields": {
+        "Title": "Weekly Marketing Standup",
+        "Type": "Standup",
+        "Date": "2025-05-15",
+        "Participants": [],
+        "Duration": 0.5,
+        "Notes": "Reviewed last week’s campaign performance and addressed blockers for current projects.",
+        "Meeting Outcome": "Action Items Created",
+        "Created Date": "2025-05-15",
+        "Summary Notes": "Team aligned on priorities and assigned tasks for upcoming deadlines."
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI Content Optimization Brainstorm",
+        "Type": "Brainstorm",
+        "Date": "2025-03-22",
+        "Participants": [],
+        "Duration": 1.5,
+        "Notes": "Discussed innovative ways to leverage AI for personalized content generation and tested new hypothesis on user engagement.",
+        "Meeting Outcome": "Follow-up Required",
+        "Created Date": "2025-03-22",
+        "Summary Notes": "Generated ideas for next sprint; need further research on AI tools and integration feasibility."
+      }
+    }
+  ]
+}

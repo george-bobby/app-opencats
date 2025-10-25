@@ -1,0 +1,1640 @@
+{
+    "threads": [
+        {
+            "messages": [
+                {
+                    "from_user": 44,
+                    "content": "Team, we need to discuss our implementation strategy for the upcoming enterprise client, TechNova Solutions. They're a complex multi-site organization with unique integration requirements. @connie.morris, can you provide an initial assessment of their technical landscape and potential onboarding challenges?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1716899229310,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 72,
+                    "content": "Great point, @michael.wilson. I've completed an initial discovery with their IT director. TechNova has **three distinct network environments** and requires custom API integrations. Key challenges include:\n- Legacy system compatibility\n- Multi-factor authentication requirements\n- Distributed workforce communication needs",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1716930399588,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 85,
+                    "content": "@connie.morris Impressive breakdown. Have we mapped out a preliminary timeline for their implementation? Our standard 6-week onboarding might need adjustment given their complexity.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1716950471246,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 72,
+                    "content": "@daniel.smith Based on our initial scoping, I'm recommending an 8-week phased implementation:\n1. Discovery & Requirements (2 weeks)\n2. Solution Design (2 weeks)\n3. Staged Rollout (3 weeks)\n4. Final Integration & Training (1 week)",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1716959534087,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 83,
+                    "content": "I've been in preliminary discussions with their executive team. They're particularly interested in our **custom reporting capabilities** and seamless cross-platform integration. @michael.wilson, shall we schedule a joint technical discovery session?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1716972599478,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 44,
+                    "content": "@dwayne.bradford Excellent suggestion. Let's align our technical and account management teams. I recommend we include @connie.morris and a senior solutions architect in that initial discovery call to ensure comprehensive coverage.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1716990173916,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 43,
+                    "content": "Quick update on the TechNova engagement: I've reviewed their initial contract requirements. We'll need to customize our standard SLA to accommodate their 24/7 global operations. @michael.wilson, do you want me to draft preliminary contract language?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1717002915250,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 1,
+                    "content": "Team, this looks like a strategic opportunity. @michael.wilson has my full support in allocating additional resources to ensure TechNova's successful onboarding. Let's treat this as a potential flagship enterprise client.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1717007229310,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": true,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 72,
+                    "content": "Team, we're kicking off the onboarding process for TechNova Solutions, a mid-sized healthcare tech company looking to implement our enterprise communication platform. @michael.wilson and @barbara.bradley, can we schedule an initial strategy meeting to align our approach?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1720211813545,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 44,
+                    "content": "Great initiative, @connie.morris. TechNova is a strategic account, and we want to ensure a smooth implementation. I'll review their initial requirements document and propose a comprehensive onboarding timeline by end of day.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1720246766268,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 43,
+                    "content": "I've reviewed their technical specifications. They'll need custom integrations with their existing HIPAA-compliant systems. @dwayne.bradford, can you confirm their current infrastructure details?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1720264183390,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 83,
+                    "content": "I've got their IT architecture overview from the sales discovery. They're running a hybrid cloud environment with legacy healthcare management software. We'll need to design a phased integration strategy to minimize disruption.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1720280444020,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 36,
+                    "content": "Our initial contract indicates they want a full rollout within 90 days. @connie.morris, what's our projected implementation roadmap looking like? We need to manage client expectations carefully.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1720290309852,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 72,
+                    "content": "Proposed timeline draft:\n- Week 1-2: Technical discovery and system mapping\n- Week 3-4: Custom integration design\n- Week 5-8: Staged implementation\n- Week 9-12: User training and support\n\nThoughts, @michael.wilson?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1720302815422,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 44,
+                    "content": "The timeline looks solid. I recommend we schedule a kickoff call with TechNova's leadership to walk them through our approach and get their initial feedback. @barbara.bradley, can you draft the presentation materials?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1720315918477,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 43,
+                    "content": "I'll prepare a comprehensive deck highlighting our implementation methodology, risk mitigation strategies, and success metrics. We'll want to emphasize our experience with healthcare sector clients and our commitment to data security.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1720328131050,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 85,
+                    "content": "Just a quick note - I've reviewed our past healthcare client case studies. We should definitely highlight our HIPAA compliance track record and our adaptive integration capabilities in the presentation.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1720340660673,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 1,
+                    "content": "Excellent collaborative work, team. This looks like a strategic approach for TechNova. Keep me updated on any significant milestones or potential challenges that might require executive intervention.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1720348555764,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 72,
+                    "content": "Final onboarding strategy document will be circulated by end of this week. Team, great collaborative effort in mapping out our approach for TechNova Solutions!",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1720355813545,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 72,
+                    "content": "Team, we need to discuss the implementation strategy for TechNova Solutions. They're a mid-sized financial services firm looking to integrate our platform across their enterprise. @michael.wilson Can you provide an initial overview of their specific requirements and timeline?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1720804202602,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 44,
+                    "content": "Great kickoff, @connie.morris. TechNova has requested a phased rollout with initial focus on their trading operations team. Key priorities include:\n- Secure communication channels\n- Integration with existing Slack and Microsoft Teams infrastructure\n- Compliance-grade message archiving\n\nEstimated project timeline is 90 days from contract signing.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1720837192279,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 36,
+                    "content": "@michael.wilson @connie.morris I've reviewed their contract. They've selected our Enterprise Plus package with custom integration services. Our professional services team needs to schedule an initial discovery workshop within the next two weeks.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1720851355460,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 43,
+                    "content": "I'll draft the initial project kickoff document and send it to the TechNova implementation team. @valerie.byrd, can you confirm the primary technical contact on their side? We want to ensure smooth communication from the start.",
+                    "is_pinned": true,
+                    "has_reactions": true,
+                    "timestamp": 1720863718191,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 83,
+                    "content": "Quick update: I've already had preliminary discussions with their CTO. They're particularly interested in our advanced security features and custom reporting capabilities. Recommend we have our solutions architect join the initial discovery call.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1720877929685,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 85,
+                    "content": "### Customer Onboarding Preliminary Checklist\n\n1. Schedule discovery workshop\n2. Validate technical requirements\n3. Develop custom integration plan\n4. Draft initial implementation roadmap\n5. Confirm compliance and security protocols\n\n@barbara.bradley, does this look comprehensive?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1720893086034,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 44,
+                    "content": "Excellent progress, team. @dwayne.bradford's insights from the CTO conversation are critical. Let's schedule a pre-workshop alignment meeting to ensure we're presenting a unified approach to TechNova.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1720903783015,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 16,
+                    "content": "I'll coordinate with our solutions team to prepare a detailed presentation. We want to demonstrate immediate value and our comprehensive understanding of their unique business challenges.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1720912265896,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 1,
+                    "content": "This looks like a promising enterprise opportunity. Ensure we're positioning our solution not just as a communication platform, but as a strategic business transformation tool for TechNova.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1720926494384,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 72,
+                    "content": "@john.appleseed Absolutely. We're focusing on showcasing how our platform can enhance their operational efficiency, not just provide another communication tool.\n\nNext steps: @michael.wilson to finalize discovery workshop invite, @barbara.bradley to prepare initial documentation.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1720936647117,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 43,
+                    "content": "Documentation draft is 80% complete. I'll have the full proposal ready for internal review by end of day tomorrow. @connie.morris, please review the technical integration section when it's ready.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1720941002602,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 72,
+                    "content": "Hey team, we need to discuss the implementation strategy for TechSolutions Inc. They're a mid-sized IT services firm looking to integrate our platform across their entire organization. @michael.wilson @barbara.bradley Can we align on our initial approach and key milestones?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1720962838191,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 44,
+                    "content": "Great point, @connie.morris. TechSolutions is a strategic account, and we want to ensure a smooth onboarding. I suggest we break down the implementation into three key phases:\n\n1. Discovery and Requirements Mapping\n2. Phased Rollout Strategy\n3. Training and Adoption Support\n\nWhat are your initial thoughts on this framework?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1720982483054,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 43,
+                    "content": "I've reviewed their initial requirements, and I think @michael.wilson's phased approach makes sense. They have complex workflow needs across multiple departments. We should schedule a detailed discovery call to map out their specific use cases and integration points.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1720987527090,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 83,
+                    "content": "@connie.morris I've been in preliminary discussions with their IT director. They're particularly interested in our custom integration capabilities and want to understand how we can map to their existing tech stack. Can we prepare a detailed technical overview?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1720996891155,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 16,
+                    "content": "Quick update from the sales perspective: TechSolutions has allocated a significant budget for this implementation. They're looking for a comprehensive solution that can scale with their growth. @dwayne.bradford, can you share more context from your initial conversations?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1721004049452,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 85,
+                    "content": "Based on our initial assessment, I recommend we create a dedicated onboarding pod for TechSolutions. This will ensure we have consistent communication and can quickly address any technical or strategic challenges that emerge during implementation.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1721009338194,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 72,
+                    "content": "Excellent suggestions, everyone. I'll draft a preliminary project plan and schedule an initial kickoff meeting with key stakeholders from TechSolutions. @michael.wilson @barbara.bradley @dwayne.bradford - please review the draft when it's ready and provide your input.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1721020438191,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 44,
+                    "content": "Solid plan, @connie.morris. Let's aim to have the initial project blueprint ready by next week. Our goal is to demonstrate immediate value and build a strong foundation for long-term partnership with TechSolutions.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1721020438191,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 44,
+                    "content": "Team, we need to discuss the strategic onboarding approach for TechNova Solutions, a promising mid-market cloud infrastructure client. They've signed our enterprise package and we need to ensure a smooth implementation. @connie.morris, can you kick off our initial planning discussion?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1721525831968,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 72,
+                    "content": "Absolutely, @michael.wilson. TechNova is looking for a comprehensive integration of our platform with their existing cloud architecture. I've reviewed their initial requirements and we'll need cross-functional collaboration. Key focus areas include:\n\n- API integration\n- Custom reporting setup\n- Security compliance mapping",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1721556759351,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 43,
+                    "content": "@connie.morris Great initial breakdown. I've been reviewing their technical documentation. Their current cloud stack uses Kubernetes and AWS GovCloud, which might require some specialized configuration on our end.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1721573841795,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 83,
+                    "content": "Their account executive mentioned they're under tight deadlines for Q4 implementation. We should create a compressed timeline that doesn't compromise our standard onboarding quality.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1721591832414,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 36,
+                    "content": "@dwayne.bradford Agreed. Can you draft a proposed project timeline that we can review in our next meeting? I want to ensure we're balancing their aggressive schedule with our robust implementation process.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1721600507871,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 85,
+                    "content": "I recommend we schedule a technical discovery call with their IT leadership. We need to validate their infrastructure assumptions and identify any potential integration challenges early in the process.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1721611128367,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 16,
+                    "content": "Great suggestion, @daniel.smith. I'll reach out to their CTO and schedule a comprehensive discovery session. We should prepare a detailed questionnaire covering their technical ecosystem, compliance requirements, and scalability expectations.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1721625500409,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 1,
+                    "content": "Team, this looks like a strategic opportunity. TechNova could be a significant reference client in the government cloud services sector. Let's ensure we deliver an exceptional onboarding experience.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1721638099100,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 44,
+                    "content": "### Onboarding Strategy for TechNova Solutions\n\nKey Milestones:\n1. Technical Discovery Call (Next Week)\n2. Detailed Integration Blueprint\n3. Compliance & Security Validation\n4. Phased Implementation Rollout\n\nEveryone, please update our internal tracking system with your specific action items.",
+                    "is_pinned": true,
+                    "has_reactions": false,
+                    "timestamp": 1721647696232,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 72,
+                    "content": "@michael.wilson I'll start preparing our standard onboarding deck with custom annotations for TechNova's specific requirements. We'll need to highlight our flexibility with complex cloud architectures.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1721657583582,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 83,
+                    "content": "Preliminary budget allocation looks good. We've structured the initial engagement to provide maximum value while maintaining our standard margin. @terri.shelton, the financial projections align with our quarterly targets.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1721662631968,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 72,
+                    "content": "Team, we're kicking off the implementation for TechNova Solutions today - a potential $250k annual contract in the enterprise cloud integration space. @michael.wilson @barbara.bradley Can we align on our initial onboarding strategy?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1723626602850,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 44,
+                    "content": "Great heads up @connie.morris. TechNova is a strategic target. Let's ensure we have a comprehensive approach. Can you share their primary integration requirements and current infrastructure landscape?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1723634680280,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 43,
+                    "content": "I've reviewed their initial technical assessment. They're looking to integrate our platform with their existing Salesforce and AWS environments. Complex multi-tenant architecture with strict security compliance needs.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1723637402850,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 83,
+                    "content": "I spoke with their CTO last week. They're particularly concerned about seamless data migration and minimal operational disruption during implementation. We'll need our best technical resources on this.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1723637402850,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 36,
+                    "content": "From a sales perspective, we've committed to a 30-day rapid deployment. @connie.morris, what's our projected timeline look like given the technical complexity?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1723637402850,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 72,
+                    "content": "Initial project plan shows us hitting 28 days if we allocate our senior integration architects. I'm scheduling a kickoff workshop next week to deep dive into their specific requirements.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1723637402850,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 85,
+                    "content": "I recommend we prepare a detailed risk mitigation strategy. Their compliance requirements are stringent, and we'll need to demonstrate our security protocols upfront.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1723637402850,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 1,
+                    "content": "This looks promising. @michael.wilson, ensure we're positioning this as a white-glove implementation. TechNova could be a significant reference customer if we execute perfectly.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1723637402850,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 44,
+                    "content": "Agreed. We're treating this as a showcase implementation. I'll personally review our progress weekly and ensure cross-functional alignment.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1723637402850,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 72,
+                    "content": "Draft implementation kickoff deck is ready for review. Key milestones include:\n- Initial architecture mapping\n- Security compliance validation\n- Phased migration strategy\n- User acceptance testing protocol",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1723637402850,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 43,
+                    "content": "Comprehensive plan. I'll coordinate with our technical validation team to support each milestone. Let's schedule a full team review before presenting to TechNova.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1723637402850,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": true,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 16,
+                    "content": "Hey team, we've got a critical onboarding opportunity with TechNova Solutions, a mid-sized cloud infrastructure provider. @michael.wilson and @barbara.bradley, can we schedule a kickoff meeting to align our implementation strategy? They're looking for a comprehensive integration of our platform with their existing systems.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1724471328693,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 44,
+                    "content": "Great heads up, @terri.shelton. I've reviewed their initial requirements, and it looks like we'll need a cross-functional approach. TechNova wants a phased rollout that minimizes disruption to their current workflows. @connie.morris, can you draft a preliminary project timeline that breaks down our key milestones?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1724516641700,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 72,
+                    "content": "On it, @michael.wilson. I'm developing a **4-week implementation roadmap** that includes:\n- Initial system assessment\n- Custom integration design\n- Staged deployment plan\n- User training and knowledge transfer\n\nI'll have a draft ready for review by end of day today.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1724537460823,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 43,
+                    "content": "I've been reviewing TechNova's technical documentation. They're running a complex Kubernetes environment, so our integration will require some custom configuration. @william.mejia, do you want me to coordinate with our technical team to start mapping out the specific integration points?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1724563900382,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 18,
+                    "content": "@barbara.bradley, excellent proactive approach. I recommend we set up a technical discovery call with their infrastructure lead. We should confirm their exact container orchestration setup and validate our proposed integration strategy before finalizing the project plan.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1724576905737,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 16,
+                    "content": "Great collaborative work, everyone. @michael.wilson, shall we schedule a quick alignment meeting to consolidate these initial insights? I want to ensure we present a unified approach when we meet with TechNova next week.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1724593728693,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 16,
+                    "content": "Hey team, we need to discuss our upcoming enterprise onboarding for TechNova Solutions. They're a complex B2B software company with multiple integration requirements. Can we schedule a comprehensive kickoff meeting to align our implementation strategy?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1726316981865,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 44,
+                    "content": "@terri.shelton Great point. I've reviewed their initial requirements document. They'll need a phased approach with custom API integrations and multi-tenant architecture support. We should involve our technical architects early in the process.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1726345071348,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 72,
+                    "content": "I'm pulling together a preliminary project timeline. @michael.wilson, do you want me to include potential risk mitigation strategies for their complex environment? Their tech stack looks pretty intricate.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1726360490641,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 6,
+                    "content": "TechNova is a high-priority client. We need to ensure **100% alignment** across sales, technical implementation, and customer success teams. @connie.morris, can you draft an initial engagement plan by end of week?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1726375787469,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 43,
+                    "content": "I'll collaborate with our solutions engineering team to map out their specific integration points. They mentioned needing seamless connectivity between their CRM, data warehouse, and our platform's API endpoints.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1726393020546,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 18,
+                    "content": "@joseph.boyd Just got off a call with their CTO. They're particularly concerned about data migration complexity and want a detailed security compliance walkthrough. Recommend we schedule a dedicated technical deep dive session.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1726398674849,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 40,
+                    "content": "Our partner ecosystem team can provide additional support. TechNova uses several third-party tools that might require custom connector development. I'll reach out to our integration specialists to assess the scope.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1726409589685,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 85,
+                    "content": "### Preliminary Onboarding Checklist\n\n- Initial requirements gathering ✓\n- Technical architecture review\n- Security compliance assessment\n- Integration pathway mapping\n- Pilot phase planning\n\nShould we create a shared project board to track these milestones?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1726420689771,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 36,
+                    "content": "@daniel.smith Your checklist looks comprehensive. We'll need to establish clear communication cadence with the client to manage expectations and demonstrate proactive engagement.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1726434468916,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 83,
+                    "content": "I've initiated conversations with their procurement team about potential volume licensing and implementation support packages. They seem interested in a multi-year strategic partnership.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1726439199635,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 1,
+                    "content": "Excellent collaborative work, team. This looks like a strategic opportunity to showcase our enterprise onboarding capabilities. Keep the executive team updated on key milestones and potential challenges.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1726453224948,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 16,
+                    "content": "@john.appleseed Absolutely. We're targeting a 45-day implementation timeline with built-in flexibility for their complex requirements. Initial cost projections are within our standard enterprise engagement model.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1726461480860,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 44,
+                    "content": "I recommend we schedule a cross-functional workshop next week to deep dive into their specific integration requirements. This will help us create a more tailored implementation strategy.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1726466780180,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 72,
+                    "content": "**Action Item Summary:**\n1. Technical deep dive workshop\n2. Detailed integration mapping\n3. Security compliance review\n4. Preliminary project timeline\n\nShall we set up a 90-minute kickoff meeting to align all teams?",
+                    "is_pinned": true,
+                    "has_reactions": false,
+                    "timestamp": 1726480049304,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 6,
+                    "content": "### Final Recommendation\n\nApproved. This is a critical enterprise client with significant growth potential. Let's demonstrate our world-class onboarding methodology and turn TechNova into a marquee case study for our capabilities.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1726482581865,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 16,
+                    "content": "Team, we need to discuss the strategic onboarding approach for TechNova Solutions, a potential enterprise client in the cybersecurity space. They've expressed interest in our integrated IT systems, but we need a coordinated plan to ensure a smooth implementation. @william.mejia @barbara.bradley Can we align on our initial strategy?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1726333781165,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 18,
+                    "content": "Great kickoff, @terri.shelton. From the enterprise sales perspective, TechNova has unique requirements. They're looking for a phased rollout with custom integration points. I've reviewed their initial technical requirements, and we'll need to involve our solutions architecture team for a detailed mapping.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1726366092832,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 43,
+                    "content": "I've already started preliminary discovery with their IT leadership. They're particularly interested in our **secure communication modules** and want to understand our implementation timeline. @william.mejia, do you have the initial scoping document we can share with their team?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1726388134456,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 72,
+                    "content": "Based on our standard onboarding workflow, I recommend we schedule a comprehensive kickoff meeting next week. We should include:\n- Technical integration overview\n- Security compliance checklist\n- Milestone tracking template\n- Initial system configuration walkthrough\n\n@terri.shelton, shall I draft the initial project plan?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1726406747552,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 16,
+                    "content": "Excellent suggestions, @connie.morris. Let's set this up as a priority. @barbara.bradley, can you coordinate with the client to find a suitable time for our comprehensive kickoff? We want to demonstrate our proactive approach and commitment to their success.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1726420558415,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 44,
+                    "content": "Team, I've reviewed the initial discussions and I'm impressed with our collaborative approach. TechNova represents a significant opportunity in the cybersecurity market. Let's ensure we provide a white-glove onboarding experience that sets us apart from competitors. @terri.shelton has my full support in driving this initiative forward.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1726430981165,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 72,
+                    "content": "### Enterprise Onboarding Update: TechCore Solutions Initial Implementation\n\nHi team, we're kicking off the implementation for TechCore Solutions today. They're a mid-sized IT services firm looking to streamline their internal communications. @joseph.boyd @william.mejia - can we align on our initial approach and key milestones?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1732451102973,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 6,
+                    "content": "Great thread @connie.morris. TechCore is a strategic account we've been pursuing. Key priorities are rapid deployment and minimal disruption to their existing workflows. @william.mejia, what's our initial technical assessment looking like?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1732459312854,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 18,
+                    "content": "Initial technical assessment is promising. Their current communication stack is fragmented - multiple legacy tools causing collaboration bottlenecks. Our Mattermost enterprise solution should reduce communication friction by at least 40%. @connie.morris, I'm preparing the initial integration blueprint this week.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1732465954638,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 43,
+                    "content": "From a customer success perspective, I recommend we schedule a comprehensive kickoff meeting. We should map out their specific communication pain points and create a tailored implementation roadmap. @jonathan.alexander, can you help draft the initial discovery questionnaire?",
+                    "is_pinned": true,
+                    "has_reactions": true,
+                    "timestamp": 1732470682442,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 38,
+                    "content": "On it, @barbara.bradley. I'll draft a comprehensive discovery document focusing on:\n- Current communication challenges\n- Team structure and communication patterns\n- Integration requirements with existing tools\n- Security and compliance considerations\n\nI'll have a draft ready by end of day.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1732473626395,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 16,
+                    "content": "Solid approach, team. @joseph.boyd, given TechCore's potential as a reference customer, I suggest we allocate additional onboarding resources. Their successful implementation could open doors in the IT services market.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1732477117332,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 1,
+                    "content": "Approved. This looks like a strategic opportunity. Ensure we provide white-glove service and demonstrate the full potential of our platform. @connie.morris, you'll be the executive sponsor for this account.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1732481236739,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 72,
+                    "content": "### Onboarding Timeline Confirmed\n\nQuick update after aligning with the leadership team:\n- Week 1-2: Technical discovery and integration planning\n- Week 3-4: Initial pilot deployment\n- Week 5-6: Full organizational rollout\n- Week 7: Post-implementation review\n\n@william.mejia @jonathan.alexander, please validate this proposed timeline.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1732486984521,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 18,
+                    "content": "Timeline looks achievable. We'll need close coordination between our technical and customer success teams. I recommend weekly sync-ups to track progress and address any potential integration challenges.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1732487102973,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 40,
+                    "content": "From a partner perspective, TechCore's ecosystem might have complementary tools we should be aware of. I'll reach out to their IT lead to understand their current technology stack and potential integration points.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1732487102973,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 44,
+                    "content": "Comprehensive approach, team. Let's ensure we're setting clear expectations and delivering exceptional value. @connie.morris, please prepare a detailed welcome package for the TechCore team.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1732487102973,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 72,
+                    "content": "### Next Steps and Action Items\n\nKey takeaways from our discussion:\n1. Comprehensive discovery process initiated\n2. Preliminary implementation timeline established\n3. Additional resources allocated\n\nTeam, let's converge on our strategy and make TechCore's onboarding a benchmark for future enterprise customers!",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1732487102973,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 16,
+                    "content": "Hey team, we've just secured a new enterprise contract with TechNova Solutions. They're looking for a comprehensive implementation of our platform across their global operations. @connie.morris, can you help kick off the initial onboarding strategy?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1732605434171,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 72,
+                    "content": "Absolutely, @terri.shelton! I'll start preparing our standard enterprise onboarding checklist. TechNova is a complex organization with multiple departments, so we'll need a phased approach. I'm scheduling an initial discovery call with their IT leadership next week to map out their specific requirements.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1732617970441,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 44,
+                    "content": "Great initiative, @connie.morris. Given TechNova's scale, we should involve our technical integration team early. Can we get a preliminary assessment of their current infrastructure and potential integration challenges?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1732629095868,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 38,
+                    "content": "@michael.wilson I've already started reviewing their initial technical documentation. They're running a hybrid cloud environment with some legacy systems that might require custom middleware. I'll draft a preliminary compatibility report by end of day.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1732634838028,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 6,
+                    "content": "Excellent proactive work, team. @william.mejia, since you managed the sales relationship, what specific expectations did TechNova express during contract negotiations that we should prioritize?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1732636258800,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 18,
+                    "content": "Key priorities from our discussions: \n- Seamless Slack and Microsoft Teams integration\n- Enterprise-grade security with multi-factor authentication\n- Custom reporting capabilities\n- 24/7 dedicated support during initial rollout\n\nThey're particularly concerned about minimal disruption to their existing workflows.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1732638855351,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 43,
+                    "content": "I recommend we create a dedicated customer success pod for TechNova. Given the complexity of their requirements, we'll need cross-functional coordination. @daniel.smith, are you available to lead the customer success tracking?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1732646456824,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 85,
+                    "content": "Definitely! I'll set up our comprehensive success tracking dashboard and schedule bi-weekly check-ins during the first 90 days. We should aim to demonstrate clear value and ROI early in the implementation.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1732652743949,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 40,
+                    "content": "One additional consideration: TechNova mentioned potential partner integrations. @dwayne.bradford, can you review their partner ecosystem and see if we have any complementary solutions we can propose?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1732654059318,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 83,
+                    "content": "Good catch. I see potential alignment with our cloud migration partners. I'll compile a recommended partner ecosystem report that could add additional value to their implementation strategy.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1732657559147,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 1,
+                    "content": "This looks like a well-coordinated approach. Let's ensure we maintain our commitment to white-glove service. TechNova represents a significant strategic opportunity for us.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1732659188820,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 36,
+                    "content": "@john.appleseed Agreed. I'll work with marketing to prepare a custom welcome package and initial communication strategy to set the right tone from day one.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1732664916974,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 72,
+                    "content": "Initial project kickoff is scheduled for November 29th. I'll send out the comprehensive onboarding timeline and invite all key stakeholders this afternoon.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1732666634171,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 44,
+                    "content": "Outstanding teamwork, everyone. This is how we transform complex implementations into strategic partnerships. Let's maintain this level of collaboration and proactive communication throughout the TechNova onboarding journey.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1732666634171,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 16,
+                    "content": "Team, we need to discuss the strategic onboarding plan for TechNova Solutions. They're a mid-sized healthcare tech company looking for our enterprise integration platform. @barbara.bradley and @connie.morris, can we align on the initial implementation roadmap?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1736918579025,
+                    "attachment_filenames": [
+                        "technova_initial_assessment.pdf"
+                    ]
+                },
+                {
+                    "from_user": 72,
+                    "content": "Great kickoff, @terri.shelton. I've reviewed their infrastructure requirements. They need a phased rollout with custom API integrations. Attaching the preliminary scoping document for everyone's review.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1736935549267,
+                    "attachment_filenames": [
+                        "technova_integration_scope.docx"
+                    ]
+                },
+                {
+                    "from_user": 43,
+                    "content": "Based on the initial assessment, I recommend we schedule a technical discovery call. @jonathan.alexander, can you prepare a comprehensive requirements gathering template? We want to ensure we capture all their specific use cases.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1736948098498,
+                    "attachment_filenames": [
+                        "discovery_call_template.xlsx"
+                    ]
+                },
+                {
+                    "from_user": 38,
+                    "content": "Absolutely! I'll draft a detailed questionnaire covering their current tech stack, integration points, and compliance requirements. We'll need to be thorough given their healthcare sector constraints.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1736949394018,
+                    "attachment_filenames": [
+                        "healthcare_integration_checklist.pdf"
+                    ]
+                },
+                {
+                    "from_user": 18,
+                    "content": "Solid approach. @william.mejia from enterprise sales here. The client has already indicated a 12-month commitment if we can demonstrate seamless integration. Let's make sure our technical team is prepared to showcase our capabilities.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1736962471380,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 40,
+                    "content": "I've been tracking their initial engagement metrics. They seem particularly interested in our scalability and security features. We should highlight our recent HIPAA compliance certifications during the next presentation.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1736968403514,
+                    "attachment_filenames": [
+                        "hipaa_compliance_summary.pdf"
+                    ]
+                },
+                {
+                    "from_user": 44,
+                    "content": "### Customer Experience Strategy\n\nTeam, this looks promising. A few key considerations:\n- Ensure personalized onboarding experience\n- Provide dedicated technical liaison\n- Create custom success milestones\n\nLet's align our approach to exceed TechNova's expectations.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1736972139744,
+                    "attachment_filenames": [
+                        "customer_success_playbook.md"
+                    ]
+                },
+                {
+                    "from_user": 85,
+                    "content": "I'll start preparing our customer success tracking dashboard. We'll want to monitor their adoption rates, feature utilization, and provide proactive support recommendations.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1736977507377,
+                    "attachment_filenames": [
+                        "customer_success_dashboard_template.xlsx"
+                    ]
+                },
+                {
+                    "from_user": 6,
+                    "content": "Excellent collaborative work, team. @joseph.boyd here. This looks like a strategic opportunity. Ensure we're not just selling a product, but delivering a comprehensive solution that transforms their operational capabilities.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1736981999744,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 72,
+                    "content": "Next steps: I'll coordinate the initial kickoff meeting and send out a comprehensive onboarding timeline. We're targeting first technical integration session by end of January.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1736983379025,
+                    "attachment_filenames": [
+                        "technova_onboarding_timeline.pdf"
+                    ]
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": true
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 72,
+                    "content": "Team, we need to discuss the onboarding strategy for TechNova Solutions, a mid-sized cloud infrastructure company. They've signed our Enterprise Integration Platform and we need to align on our implementation approach. @joseph.boyd @william.mejia Can we sync on the initial project roadmap?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1737226915333,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 16,
+                    "content": "Great kickoff point, @connie.morris. I've reviewed their initial requirements. They're looking for a phased rollout across three of their global data centers. We should break this down into discrete migration stages.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1737231045230,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 18,
+                    "content": "I've been in preliminary discussions with their CTO. They're particularly concerned about minimal service disruption during our integration. We'll need a detailed cutover strategy that ensures zero downtime for their critical systems.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1737234115333,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 43,
+                    "content": "From a customer success perspective, I recommend we schedule a comprehensive discovery workshop. We should map out their current infrastructure, identify potential integration challenges, and establish clear success metrics for each migration phase.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1737234115333,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 38,
+                    "content": "Our support team can provide additional technical validation. @barbara.bradley, do you want me to prepare a preliminary technical assessment document covering potential migration risks?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1737234115333,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 44,
+                    "content": "Excellent collaborative approach. @connie.morris, can you draft a preliminary project charter that outlines our proposed engagement model? We want to demonstrate our comprehensive, strategic methodology to the client.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1737234115333,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 72,
+                    "content": "I'm compiling the project charter now. Key sections will include:\n- Engagement Scope\n- Phased Migration Timeline\n- Technical Integration Approach\n- Risk Mitigation Strategies\n- Success Criteria and KPIs",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1737234115333,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 6,
+                    "content": "Strong work, team. @william.mejia, please ensure our sales engineering team is fully briefed. We want a seamless handoff from sales to implementation.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1737234115333,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 40,
+                    "content": "I'll coordinate with our partner ecosystem to see if we can leverage any complementary solutions that might accelerate TechNova's migration. They might benefit from some of our strategic partner integrations.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1737234115333,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 85,
+                    "content": "Given the complexity of their infrastructure, I suggest we schedule a technical deep dive with their engineering team. We'll need to understand their specific architectural nuances to ensure a smooth integration.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1737234115333,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 18,
+                    "content": "Agreed. I'll reach out to their CTO to set up a comprehensive technical discovery session. We want to demonstrate our consultative approach and technical depth.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1737234115333,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 72,
+                    "content": "Perfect alignment, everyone. I'll update our project management system with the key action items and next steps. Our goal is to make TechNova feel confident in our implementation methodology.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1737234115333,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": true,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 72,
+                    "content": "Team, we need to discuss the ongoing implementation for TechNova Solutions. They're a mid-sized software development firm looking for our enterprise integration platform, and their kick-off is scheduled for next month. Can we align on our initial strategy and key milestones?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1737767236247,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 16,
+                    "content": "@connie.morris Great thread. From the sales perspective, TechNova expressed interest in our full-stack integration suite with particular emphasis on their cloud migration needs. @william.mejia and I discussed their specific requirements during our last discovery call.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1737795787210,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 43,
+                    "content": "I've reviewed their initial technical assessment. They have a complex multi-cloud environment with legacy systems that will require careful mapping. **Key challenges include:**\n\n- Integrating their existing Kubernetes clusters\n- Ensuring secure data transfer protocols\n- Minimal downtime during migration",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1737809778617,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 38,
+                    "content": "@barbara.bradley Those are critical points. Our support team has experience with similar enterprise transitions. Would you be open to scheduling a joint technical deep-dive to map out potential integration paths?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1737828738558,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 44,
+                    "content": "Excellent collaborative approach. @connie.morris, I recommend we create a dedicated onboarding project plan with clear ownership and escalation paths. Our goal is to ensure TechNova sees immediate value and smooth implementation.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1737839345328,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 18,
+                    "content": "Adding context from our enterprise sales perspective - TechNova's CTO was particularly impressed with our `adaptive-integration-framework`. They're looking for a solution that can scale with their rapid growth trajectory.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1737846992831,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 40,
+                    "content": "I've been coordinating with their procurement team. They're targeting a 45-day implementation window and have allocated significant internal resources to support this transition. Looks like they're fully committed.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1737860797177,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 85,
+                    "content": "Customer success perspective here - we should prepare a comprehensive onboarding deck that highlights:\n\n1. Implementation roadmap\n2. Expected business outcomes\n3. Ongoing support model\n\nThis will set clear expectations and demonstrate our strategic partnership approach.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1737869374603,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 72,
+                    "content": "@michael.wilson @barbara.bradley Can we schedule a cross-functional alignment meeting to finalize our approach? I'm thinking we need representatives from sales, technical implementation, and customer success.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1737883260428,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 6,
+                    "content": "Strong collaborative effort, team. @connie.morris, please compile a preliminary project brief summarizing our discussion points. We'll review in our leadership meeting next week to ensure we're presenting a unified strategy to TechNova.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1737887401151,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 43,
+                    "content": "Draft project brief is ready for initial review. I'll share the document in our next sync and walk through the proposed technical integration strategy. @william.mejia, can you validate the enterprise sales alignment?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1737898558821,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 18,
+                    "content": "Reviewed the draft - looks solid. Our sales engineering team is fully prepared to support this implementation. TechNova is a strategic target, and we want to ensure a best-in-class onboarding experience.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1737904036247,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": true,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 16,
+                    "content": "Team, we need to discuss the Enterprise Tech Solutions (ETS) onboarding strategy. They're a complex mid-market client with multiple integration requirements. Can we align on our initial approach and key milestones?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1740040578971,
+                    "attachment_filenames": [
+                        "ets_initial_requirements.pdf"
+                    ]
+                },
+                {
+                    "from_user": 72,
+                    "content": "@terri.shelton Great kickoff topic. I've reviewed their initial requirements document. They need a phased implementation across their sales, support, and IT infrastructure teams. We'll need a detailed project plan.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1740072742068,
+                    "attachment_filenames": [
+                        "ets_implementation_phases.xlsx"
+                    ]
+                },
+                {
+                    "from_user": 43,
+                    "content": "From a Customer Success perspective, I recommend we schedule a comprehensive discovery call. @william.mejia, can you coordinate with their technical lead to understand their specific integration needs?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1740089960501,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 18,
+                    "content": "I'll reach out to their CTO, Marcus Rodriguez, this afternoon. Based on our pre-sales discussions, they're looking for seamless integration with their Salesforce instance and custom reporting capabilities.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1740105520053,
+                    "attachment_filenames": [
+                        "salesforce_integration_requirements.docx"
+                    ]
+                },
+                {
+                    "from_user": 38,
+                    "content": "I've pulled our standard integration playbook and preliminary technical assessment. We'll need to validate their current infrastructure and potential compatibility challenges.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1740121438959,
+                    "attachment_filenames": [
+                        "integration_technical_checklist.xlsx"
+                    ]
+                },
+                {
+                    "from_user": 44,
+                    "content": "Solid initial work, team. Let's ensure we're creating a white-glove experience. @connie.morris, can you draft a comprehensive onboarding timeline that we can share with the client?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1740129858501,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 72,
+                    "content": "Draft onboarding timeline prepared! Key phases include:\n1. Initial discovery (2 weeks)\n2. Technical assessment (3 weeks)\n3. Integration design (4 weeks)\n4. Pilot implementation (6 weeks)\n5. Full rollout (ongoing)",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1740148031351,
+                    "attachment_filenames": [
+                        "ets_onboarding_timeline.pdf"
+                    ]
+                },
+                {
+                    "from_user": 40,
+                    "content": "I've reviewed the timeline. Given our partnership channels, I recommend we involve our technical integration partners early. They might provide additional insights for complex deployments.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1740153824043,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 83,
+                    "content": "Great suggestion. I have contacts at CloudTech Integrations who specialize in enterprise-level Salesforce migrations. Would you like me to initiate preliminary discussions?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1740166559023,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 16,
+                    "content": "@dwayne.bradford Yes, please proceed. We want to demonstrate comprehensive support from the initial engagement.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1740179905380,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 85,
+                    "content": "Risk assessment completed. Primary potential challenges include data migration complexity and ensuring minimal operational disruption during implementation.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1740187011479,
+                    "attachment_filenames": [
+                        "ets_risk_assessment.xlsx"
+                    ]
+                },
+                {
+                    "from_user": 1,
+                    "content": "Excellent collaborative approach. This looks like a strategic opportunity to showcase our implementation capabilities. Keep me updated on major milestones.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1740198148836,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 18,
+                    "content": "Quick update: Initial call with Marcus confirmed. They're impressed with our structured approach and are eager to move forward. Next step is scheduling the comprehensive discovery workshop.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1740210060114,
+                    "attachment_filenames": [
+                        "discovery_workshop_outline.pdf"
+                    ]
+                },
+                {
+                    "from_user": 72,
+                    "content": "Workshop invitation and detailed agenda have been drafted and sent to the ETS team. We're all aligned and ready to kick off this exciting implementation!",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1740213378971,
+                    "attachment_filenames": [
+                        "ets_discovery_workshop_invite.docx"
+                    ]
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": true
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 16,
+                    "content": "Hey team, we need to discuss the implementation strategy for TechCorp's new enterprise software rollout. They're a high-priority client with complex integration requirements, and we want to ensure a smooth onboarding process. @joseph.boyd @barbara.bradley Can we align on our initial approach?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1742128088772,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 43,
+                    "content": "Great point, @terri.shelton. I've reviewed TechCorp's initial requirements, and we'll need a phased approach. Their infrastructure suggests we should:\n\n- Start with a comprehensive system audit\n- Develop a custom integration blueprint\n- Schedule incremental deployment milestones\n\nI recommend we set up a detailed kickoff meeting to map out the full implementation strategy.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1742180474862,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 6,
+                    "content": "@barbara.bradley Your proposed strategy looks solid. @william.mejia, can you confirm the technical feasibility of these integration points? We need to ensure we can meet their expectations without over-promising.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1742212420559,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 18,
+                    "content": "After consulting with our technical team, I can confirm we can handle 80% of their requirements out of the box. The remaining 20% will require some custom scripting, but nothing that should significantly delay our timeline. @joseph.boyd @terri.shelton I suggest we schedule a technical deep-dive with their IT team next week.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1742237137959,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 72,
+                    "content": "**Implementation Timeline Update:** Based on our discussion, I'm drafting a preliminary project plan. @william.mejia's technical assessment gives us a clear roadmap. I'll circulate the draft plan for review by end of day and schedule the kickoff meeting with TechCorp's team.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1742263423438,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 44,
+                    "content": "Excellent collaborative work, team. @connie.morris, please ensure our customer success playbook is tailored for TechCorp's specific needs. We want to demonstrate our commitment to their success from day one. Let's aim to exceed their expectations and turn this into a showcase implementation.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1742282888772,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 72,
+                    "content": "Team, we need to discuss the onboarding strategy for TechNova Solutions, our newest enterprise client in the healthcare IT space. They've signed a comprehensive integration package, and we need to align on our implementation roadmap. @joseph.boyd @william.mejia Can we get initial thoughts on their specific requirements?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1747831897100,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 18,
+                    "content": "Great kickoff, @connie.morris. I've reviewed their initial requirements document. TechNova needs a phased rollout across three of their regional medical networks. They're looking for a **custom integration solution** that connects their existing EHR systems with our platform.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1747848783938,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 6,
+                    "content": "@william.mejia @connie.morris Excellent initial assessment. I've already scheduled an initial discovery call with their CTO for next week. We'll need to confirm their specific compliance and data migration needs. Can @barbara.bradley prepare a preliminary risk assessment document?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1747861093676,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 43,
+                    "content": "I'll draft a comprehensive risk assessment focusing on HIPAA compliance and data security protocols. Our standard healthcare integration checklist will be a good starting point. @joseph.boyd I anticipate having a draft ready by end of week for your review.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1747868101065,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 16,
+                    "content": "Quick update from the sales coordination perspective: TechNova's procurement team is eager to see our implementation timeline. @connie.morris, can we develop a draft project plan that we can share in our next client meeting? We want to demonstrate our structured approach.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1747875739105,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 72,
+                    "content": "Absolutely, @terri.shelton. I'm working on a detailed project plan with milestones for the next 90 days. We'll include key integration checkpoints, data migration phases, and user acceptance testing schedules. I'll have a draft circulated to the team by tomorrow afternoon for collaborative review.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1747878697100,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 16,
+                    "content": "Team, we need to discuss the **GlobalTech Solutions** enterprise integration project. They're a complex multi-site organization looking to implement our platform across 12 different regional offices. @barbara.bradley @jonathan.alexander Can we align on our initial onboarding strategy?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1752589644532,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 43,
+                    "content": "Great kickoff, @terri.shelton. After initial discovery, I see three critical integration challenges:\n\n1. Diverse legacy system architectures\n2. Strict compliance requirements\n3. Decentralized IT infrastructure\n\nWe'll need a phased rollout approach to mitigate risks.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1752614463593,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 38,
+                    "content": "@barbara.bradley Excellent breakdown. I've reviewed their network diagrams and can confirm we'll need custom API adapters for at least 3 of their regional data centers. Estimated development time: 2-3 weeks.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1752634193504,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 44,
+                    "content": "Important update: I've spoken directly with GlobalTech's CTO. They're expecting a comprehensive implementation roadmap by end of next week. @terri.shelton @barbara.bradley We need to accelerate our planning.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1752642383008,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 26,
+                    "content": "@michael.wilson I've compiled initial client communication logs. They seem particularly concerned about data migration security and minimal operational disruption during implementation.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1752658153776,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 18,
+                    "content": "From a sales perspective, we've promised a 30-day zero-downtime migration. @jonathan.alexander Can our technical team confirm this is feasible with their current infrastructure?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1752667943185,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 38,
+                    "content": "@william.mejia Feasible, but challenging. We'll need to design a parallel migration strategy with real-time data synchronization. Recommend scheduling a deep-dive technical workshop.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1752674290722,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 72,
+                    "content": "### Proposed Onboarding Timeline\n\n- Week 1-2: Detailed system assessment\n- Week 3-4: Custom integration development\n- Week 5: Initial staging and testing\n- Week 6-7: Phased regional rollouts\n\nThoughts, team?",
+                    "is_pinned": true,
+                    "has_reactions": false,
+                    "timestamp": 1752687165852,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 40,
+                    "content": "@connie.morris This looks solid. I'll reach out to our partner network to see if we can expedite any specialized hardware requirements for faster deployment.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1752695223114,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 16,
+                    "content": "Excellent collaborative work, everyone. @barbara.bradley Please draft the initial implementation proposal for GlobalTech by Friday. We'll review in our weekly strategy meeting.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1752700513093,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 43,
+                    "content": "Draft proposal underway. I'll include detailed risk mitigation strategies and our proposed `migration_strategy.pdf` for their executive review.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1752710803800,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 85,
+                    "content": "@terri.shelton Quick question - have we confirmed their compliance requirements with legal? Particularly around data residency for international offices?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1752716618904,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 6,
+                    "content": "Outstanding progress, team. @daniel.smith Good catch on compliance. @michael.wilson, can you loop in our legal team to review international data handling protocols?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1752727560269,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 44,
+                    "content": "Legal is already engaged. We'll have a comprehensive compliance assessment completed by Wednesday. Anticipate no major roadblocks based on initial review.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1752730044532,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": false
+        }
+    ]
+}

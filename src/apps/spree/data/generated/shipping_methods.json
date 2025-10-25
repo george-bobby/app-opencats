@@ -1,0 +1,143 @@
+{
+  "shipping_methods": [
+    {
+      "id": 1,
+      "name": "UPS Standard Ground Shipping",
+      "admin_name": "UPS_Standard_Ground",
+      "display_on": "both",
+      "tracking_url": "https://www.ups.com/track?tracknum={tracking_number}",
+      "code": "STD-001",
+      "tax_category_code": "PS-001",
+      "shipping_category_ids": [
+        1
+      ],
+      "calculator_type": "flat_rate",
+      "calculator_amount": 7.99,
+      "zone_ids": [
+        3
+      ],
+      "deleted_at": null
+    },
+    {
+      "id": 2,
+      "name": "FedEx Express Shipping",
+      "admin_name": "FedEx_Expedited",
+      "display_on": "both",
+      "tracking_url": "https://www.fedex.com/tracking?tracknumbers={tracking_number}",
+      "code": "EXP-002",
+      "tax_category_code": "PF-002",
+      "shipping_category_ids": [
+        1
+      ],
+      "calculator_type": "flexible_rate",
+      "calculator_amount": 15.95,
+      "zone_ids": [
+        3
+      ],
+      "deleted_at": null
+    },
+    {
+      "id": 3,
+      "name": "USPS Priority Overnight",
+      "admin_name": "USPS_Next_Day",
+      "display_on": "both",
+      "tracking_url": "https://tools.usps.com/go/TrackConfirmAction?qtc_tLabels1={tracking_number}",
+      "code": "OVN-003",
+      "tax_category_code": "VM-003",
+      "shipping_category_ids": [
+        1
+      ],
+      "calculator_type": "per_item",
+      "calculator_amount": 24.5,
+      "zone_ids": [
+        3
+      ],
+      "deleted_at": null
+    },
+    {
+      "id": 4,
+      "name": "Digital Product Delivery",
+      "admin_name": "Digital_Download",
+      "display_on": "front_end",
+      "tracking_url": "",
+      "code": "DIG-004",
+      "tax_category_code": "DS-004",
+      "shipping_category_ids": [
+        2
+      ],
+      "calculator_type": "digital",
+      "calculator_amount": 0.99,
+      "zone_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "deleted_at": null
+    },
+    {
+      "id": 5,
+      "name": "DHL International Standard",
+      "admin_name": "DHL_Global_Shipping",
+      "display_on": "both",
+      "tracking_url": "https://www.dhl.com/track?trackingNumber={tracking_number}",
+      "code": "INT-005",
+      "tax_category_code": "AS-005",
+      "shipping_category_ids": [
+        1
+      ],
+      "calculator_type": "price_sack",
+      "calculator_amount": 29.99,
+      "zone_ids": [
+        1,
+        2,
+        4,
+        5,
+        6
+      ],
+      "deleted_at": null
+    },
+    {
+      "id": 6,
+      "name": "Fuzzloft Express Pickup",
+      "admin_name": "Store_Pickup",
+      "display_on": "front_end",
+      "tracking_url": "",
+      "code": "PUP-006",
+      "tax_category_code": "SH-006",
+      "shipping_category_ids": [
+        1
+      ],
+      "calculator_type": "flat_rate",
+      "calculator_amount": 3.5,
+      "zone_ids": [
+        3
+      ],
+      "deleted_at": null
+    },
+    {
+      "id": 7,
+      "name": "FedEx International Priority",
+      "admin_name": "FedEx_Global_Express",
+      "display_on": "both",
+      "tracking_url": "https://www.fedex.com/tracking?tracknumbers={tracking_number}",
+      "code": "GLB-007",
+      "tax_category_code": "GC-007",
+      "shipping_category_ids": [
+        1
+      ],
+      "calculator_type": "flexible_rate",
+      "calculator_amount": 45.99,
+      "zone_ids": [
+        1,
+        2,
+        4,
+        5,
+        6
+      ],
+      "deleted_at": null
+    }
+  ]
+}

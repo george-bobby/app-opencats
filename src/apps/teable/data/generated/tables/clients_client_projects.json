@@ -1,0 +1,2557 @@
+{
+  "table_name": "Clients",
+  "parent_workspace_name": "Client Projects",
+  "parent_base_name": "Client Projects",
+  "records": [
+    {
+      "fields": {
+        "Client Name": "Vertex Dynamics",
+        "Industry": "Technology",
+        "Location": "San Francisco, CA",
+        "Primary Contact": "Alice Monroe",
+        "Email": "alice.monroe@vertexdynamics.com",
+        "Phone": "(415) 732-1985",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2024-12-13",
+        "Contract Value": 5823000.58,
+        "Client Tier": "Gold",
+        "Renewal Date": "2026-01-15",
+        "Satisfaction Score": 9
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "BluePeak Retail",
+        "Industry": "Retail",
+        "Location": "Austin, TX",
+        "Primary Contact": "Jamal Edwards",
+        "Email": "jamal.edwards@bluepeakretail.com",
+        "Phone": "(512) 478-2293",
+        "Company Size": "Large (201-1000)",
+        "Status": "Active",
+        "Last Activity Date": "2025-04-22",
+        "Contract Value": 1764500.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2025-09-30",
+        "Satisfaction Score": 7
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "NovaMed Solutions",
+        "Industry": "Healthcare",
+        "Location": "Boston, MA",
+        "Primary Contact": "Dr. Karen Liu",
+        "Email": "karen.liu@novamedsolutions.com",
+        "Phone": "(617) 908-3345",
+        "Company Size": "Enterprise (1000+)",
+        "Status": "Active",
+        "Last Activity Date": "2023-07-09",
+        "Contract Value": 9400000.45,
+        "Client Tier": "Gold",
+        "Renewal Date": "2026-05-20",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "Ecomwise Ventures",
+        "Industry": "E-commerce",
+        "Location": "Seattle, WA",
+        "Primary Contact": "Rohit Sharma",
+        "Email": "rohit.sharma@ecomwiseventures.com",
+        "Phone": "(206) 555-1982",
+        "Company Size": "Startup (1-10)",
+        "Status": "Inactive",
+        "Last Activity Date": "2023-11-27",
+        "Contract Value": 150000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2025-08-05",
+        "Satisfaction Score": 5
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "FinPro Analytics",
+        "Industry": "Finance",
+        "Location": "New York, NY",
+        "Primary Contact": "Emily Carson",
+        "Email": "emily.carson@finproanalytics.com",
+        "Phone": "(212) 789-4421",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2025-01-16",
+        "Contract Value": 3800000.99,
+        "Client Tier": "Gold",
+        "Renewal Date": "2025-12-11",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "MindSpring Education",
+        "Industry": "Education",
+        "Location": "Denver, CO",
+        "Primary Contact": "Lindsay Powell",
+        "Email": "lindsay.powell@mindspringedu.com",
+        "Phone": "(303) 447-8833",
+        "Company Size": "Small (11-50)",
+        "Status": "Active",
+        "Last Activity Date": "2025-06-10",
+        "Contract Value": 750000.25,
+        "Client Tier": "Silver",
+        "Renewal Date": "2025-11-27",
+        "Satisfaction Score": 7
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "Quantum Manufacturing",
+        "Industry": "Manufacturing",
+        "Location": "Detroit, MI",
+        "Primary Contact": "Carlos Martinez",
+        "Email": "carlos.martinez@quantummfg.com",
+        "Phone": "(313) 555-1122",
+        "Company Size": "Large (201-1000)",
+        "Status": "Inactive",
+        "Last Activity Date": "2023-09-18",
+        "Contract Value": 1250000.75,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2025-10-02",
+        "Satisfaction Score": 4
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "Streamline SaaS",
+        "Industry": "SaaS",
+        "Location": "Portland, OR",
+        "Primary Contact": "Natalie Green",
+        "Email": "natalie.green@streamlinesaas.com",
+        "Phone": "(503) 768-9901",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2024-08-04",
+        "Contract Value": 2300000.85,
+        "Client Tier": "Silver",
+        "Renewal Date": "2026-02-19",
+        "Satisfaction Score": 9
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "Silverline Consulting",
+        "Industry": "Consulting",
+        "Location": "Chicago, IL",
+        "Primary Contact": "David Kim",
+        "Email": "david.kim@silverlineconsulting.com",
+        "Phone": "(312) 224-6678",
+        "Company Size": "Small (11-50)",
+        "Status": "Active",
+        "Last Activity Date": "2025-05-25",
+        "Contract Value": 510000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2026-03-12",
+        "Satisfaction Score": 6
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "Echo Media",
+        "Industry": "Media & Entertainment",
+        "Location": "Los Angeles, CA",
+        "Primary Contact": "Jessica Turner",
+        "Email": "jessica.turner@echomedia.com",
+        "Phone": "(323) 555-9987",
+        "Company Size": "Large (201-1000)",
+        "Status": "Active",
+        "Last Activity Date": "2024-03-29",
+        "Contract Value": 4200000.4,
+        "Client Tier": "Gold",
+        "Renewal Date": "2025-10-29",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "Nexus Tech Innovations",
+        "Industry": "Technology",
+        "Location": "San Jose, CA",
+        "Primary Contact": "Ethan Brooks",
+        "Email": "ethan.brooks@nexustech.com",
+        "Phone": "(408) 555-3471",
+        "Company Size": "Startup (1-10)",
+        "Status": "Inactive",
+        "Last Activity Date": "2023-12-02",
+        "Contract Value": 250000.1,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2025-07-08",
+        "Satisfaction Score": 5
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "GreenLeaf Healthcare",
+        "Industry": "Healthcare",
+        "Location": "Minneapolis, MN",
+        "Primary Contact": "Maya Singh",
+        "Email": "maya.singh@greenleafhealth.com",
+        "Phone": "(612) 555-2134",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2024-11-14",
+        "Contract Value": 3500000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2026-04-15",
+        "Satisfaction Score": 7
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "OptiFinance Group",
+        "Industry": "Finance",
+        "Location": "Houston, TX",
+        "Primary Contact": "Samuel Reed",
+        "Email": "samuel.reed@optifinance.com",
+        "Phone": "(713) 555-7800",
+        "Company Size": "Large (201-1000)",
+        "Status": "Active",
+        "Last Activity Date": "2025-02-08",
+        "Contract Value": 5800000.25,
+        "Client Tier": "Gold",
+        "Renewal Date": "2026-01-30",
+        "Satisfaction Score": 9
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "TeachPlus",
+        "Industry": "Education",
+        "Location": "Philadelphia, PA",
+        "Primary Contact": "Olivia Barnes",
+        "Email": "olivia.barnes@teachplus.com",
+        "Phone": "(215) 555-8899",
+        "Company Size": "Small (11-50)",
+        "Status": "Inactive",
+        "Last Activity Date": "2023-09-14",
+        "Contract Value": 630000.15,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2025-08-18",
+        "Satisfaction Score": 6
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "CraftPro Manufacturing",
+        "Industry": "Manufacturing",
+        "Location": "Cleveland, OH",
+        "Primary Contact": "Micheal Johnson",
+        "Email": "micheal.johnson@craftpromfg.com",
+        "Phone": "(216) 555-4758",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2025-05-01",
+        "Contract Value": 2700000.9,
+        "Client Tier": "Silver",
+        "Renewal Date": "2026-02-25",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "ShopEase",
+        "Industry": "E-commerce",
+        "Location": "Miami, FL",
+        "Primary Contact": "Emma Wilson",
+        "Email": "emma.wilson@shopease.com",
+        "Phone": "(305) 555-6677",
+        "Company Size": "Startup (1-10)",
+        "Status": "Active",
+        "Last Activity Date": "2025-06-01",
+        "Contract Value": 180000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2025-09-12",
+        "Satisfaction Score": 7
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "CloudSync SaaS",
+        "Industry": "SaaS",
+        "Location": "Atlanta, GA",
+        "Primary Contact": "Liam Davis",
+        "Email": "liam.davis@cloudsyncsaas.com",
+        "Phone": "(404) 555-3344",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2024-10-22",
+        "Contract Value": 2900000.77,
+        "Client Tier": "Silver",
+        "Renewal Date": "2026-03-21",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "Vestige Consulting",
+        "Industry": "Consulting",
+        "Location": "Dallas, TX",
+        "Primary Contact": "Sophia Patel",
+        "Email": "sophia.patel@vestigeconsulting.com",
+        "Phone": "(214) 555-7789",
+        "Company Size": "Small (11-50)",
+        "Status": "Inactive",
+        "Last Activity Date": "2023-10-31",
+        "Contract Value": 420000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2025-11-09",
+        "Satisfaction Score": 6
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "PixelWave Media",
+        "Industry": "Media & Entertainment",
+        "Location": "New Orleans, LA",
+        "Primary Contact": "Noah Thomas",
+        "Email": "noah.thomas@pixelwavemedia.com",
+        "Phone": "(504) 555-3021",
+        "Company Size": "Large (201-1000)",
+        "Status": "Active",
+        "Last Activity Date": "2025-03-20",
+        "Contract Value": 4700000.3,
+        "Client Tier": "Gold",
+        "Renewal Date": "2025-12-19",
+        "Satisfaction Score": 9
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "InnoTech Solutions",
+        "Industry": "Technology",
+        "Location": "Raleigh, NC",
+        "Primary Contact": "Ava Martinez",
+        "Email": "ava.martinez@innotechsolutions.com",
+        "Phone": "(919) 555-6700",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2025-06-15",
+        "Contract Value": 3200000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2026-05-05",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "HealthCore",
+        "Industry": "Healthcare",
+        "Location": "San Diego, CA",
+        "Primary Contact": "Benjamin Price",
+        "Email": "benjamin.price@healthcore.com",
+        "Phone": "(619) 555-1177",
+        "Company Size": "Enterprise (1000+)",
+        "Status": "Active",
+        "Last Activity Date": "2024-09-25",
+        "Contract Value": 8200000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2025-10-28",
+        "Satisfaction Score": 9
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "Finwise Partners",
+        "Industry": "Finance",
+        "Location": "Charlotte, NC",
+        "Primary Contact": "Grace Lee",
+        "Email": "grace.lee@finwisepartners.com",
+        "Phone": "(704) 555-4433",
+        "Company Size": "Large (201-1000)",
+        "Status": "Active",
+        "Last Activity Date": "2025-04-17",
+        "Contract Value": 6100000.25,
+        "Client Tier": "Gold",
+        "Renewal Date": "2025-08-14",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "EduSpark",
+        "Industry": "Education",
+        "Location": "Salt Lake City, UT",
+        "Primary Contact": "Jack Wilson",
+        "Email": "jack.wilson@eduspark.com",
+        "Phone": "(801) 555-9921",
+        "Company Size": "Small (11-50)",
+        "Status": "Inactive",
+        "Last Activity Date": "2023-12-11",
+        "Contract Value": 540000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2025-12-09",
+        "Satisfaction Score": 6
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "Forge Manufacturing",
+        "Industry": "Manufacturing",
+        "Location": "Indianapolis, IN",
+        "Primary Contact": "Lila Gomez",
+        "Email": "lila.gomez@forgemfg.com",
+        "Phone": "(317) 555-3355",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2024-06-03",
+        "Contract Value": 2950000.55,
+        "Client Tier": "Silver",
+        "Renewal Date": "2026-01-06",
+        "Satisfaction Score": 7
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "MarketNest E-commerce",
+        "Industry": "E-commerce",
+        "Location": "Orlando, FL",
+        "Primary Contact": "Derek Hernandez",
+        "Email": "derek.hernandez@marketnest.com",
+        "Phone": "(407) 555-8800",
+        "Company Size": "Startup (1-10)",
+        "Status": "Active",
+        "Last Activity Date": "2025-05-18",
+        "Contract Value": 175000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2026-04-30",
+        "Satisfaction Score": 7
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "SaaSLink",
+        "Industry": "SaaS",
+        "Location": "San Antonio, TX",
+        "Primary Contact": "Elena Morris",
+        "Email": "elena.morris@saaslink.com",
+        "Phone": "(210) 555-2277",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2024-11-29",
+        "Contract Value": 2750000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2026-02-08",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "Crest Consulting",
+        "Industry": "Consulting",
+        "Location": "Columbus, OH",
+        "Primary Contact": "Michael Reed",
+        "Email": "michael.reed@crestconsulting.com",
+        "Phone": "(614) 555-4412",
+        "Company Size": "Small (11-50)",
+        "Status": "Inactive",
+        "Last Activity Date": "2023-08-23",
+        "Contract Value": 460000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2025-07-20",
+        "Satisfaction Score": 5
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "Vibe Media Group",
+        "Industry": "Media & Entertainment",
+        "Location": "Nashville, TN",
+        "Primary Contact": "Stella Nguyen",
+        "Email": "stella.nguyen@vibemedia.com",
+        "Phone": "(615) 555-9988",
+        "Company Size": "Large (201-1000)",
+        "Status": "Active",
+        "Last Activity Date": "2025-02-26",
+        "Contract Value": 4300000.1,
+        "Client Tier": "Gold",
+        "Renewal Date": "2025-12-07",
+        "Satisfaction Score": 9
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "TechFrontiers",
+        "Industry": "Technology",
+        "Location": "Portland, ME",
+        "Primary Contact": "Jacob Young",
+        "Email": "jacob.young@techfrontiers.com",
+        "Phone": "(207) 555-1233",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2025-04-12",
+        "Contract Value": 3400000.5,
+        "Client Tier": "Silver",
+        "Renewal Date": "2026-01-25",
+        "Satisfaction Score": 7
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "MediCrest",
+        "Industry": "Healthcare",
+        "Location": "Rochester, NY",
+        "Primary Contact": "Isabella Clark",
+        "Email": "isabella.clark@medicrest.com",
+        "Phone": "(585) 555-7766",
+        "Company Size": "Enterprise (1000+)",
+        "Status": "Active",
+        "Last Activity Date": "2024-05-22",
+        "Contract Value": 7600000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2025-09-15",
+        "Satisfaction Score": 9
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "CapitalEdge Finance",
+        "Industry": "Finance",
+        "Location": "Washington, DC",
+        "Primary Contact": "Ethan Nguyen",
+        "Email": "ethan.nguyen@capitaledge.com",
+        "Phone": "(202) 555-2211",
+        "Company Size": "Large (201-1000)",
+        "Status": "Active",
+        "Last Activity Date": "2025-06-18",
+        "Contract Value": 5900000.78,
+        "Client Tier": "Gold",
+        "Renewal Date": "2025-11-22",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "NextGen Learning",
+        "Industry": "Education",
+        "Location": "Ann Arbor, MI",
+        "Primary Contact": "Sophia Ramirez",
+        "Email": "sophia.ramirez@nextgenlearning.com",
+        "Phone": "(734) 555-3345",
+        "Company Size": "Small (11-50)",
+        "Status": "Inactive",
+        "Last Activity Date": "2023-10-09",
+        "Contract Value": 520000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2025-12-18",
+        "Satisfaction Score": 6
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "Titan Manufacturing",
+        "Industry": "Manufacturing",
+        "Location": "Milwaukee, WI",
+        "Primary Contact": "William Bell",
+        "Email": "william.bell@titanmfg.com",
+        "Phone": "(414) 555-8899",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2024-07-30",
+        "Contract Value": 2800000.35,
+        "Client Tier": "Silver",
+        "Renewal Date": "2026-03-04",
+        "Satisfaction Score": 7
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "ShopBridge",
+        "Industry": "Retail",
+        "Location": "Phoenix, AZ",
+        "Primary Contact": "Mia Brooks",
+        "Email": "mia.brooks@shopbridge.com",
+        "Phone": "(602) 555-7890",
+        "Company Size": "Small (11-50)",
+        "Status": "Active",
+        "Last Activity Date": "2025-03-14",
+        "Contract Value": 480000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2026-01-19",
+        "Satisfaction Score": 7
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "CloudMatrix SaaS",
+        "Industry": "SaaS",
+        "Location": "Salt Lake City, UT",
+        "Primary Contact": "Oliver Scott",
+        "Email": "oliver.scott@cloudmatrixsaas.com",
+        "Phone": "(801) 555-2533",
+        "Company Size": "Medium (51-200)",
+        "Status": "Inactive",
+        "Last Activity Date": "2023-11-20",
+        "Contract Value": 2600000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2025-11-03",
+        "Satisfaction Score": 5
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "AdvisoryPlus Consulting",
+        "Industry": "Consulting",
+        "Location": "Charlotte, NC",
+        "Primary Contact": "Natalie Carter",
+        "Email": "natalie.carter@advisoryplus.com",
+        "Phone": "(704) 555-6622",
+        "Company Size": "Small (11-50)",
+        "Status": "Active",
+        "Last Activity Date": "2025-05-08",
+        "Contract Value": 530000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2026-04-02",
+        "Satisfaction Score": 7
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "Lumen Media",
+        "Industry": "Media & Entertainment",
+        "Location": "Atlanta, GA",
+        "Primary Contact": "Daniel Kim",
+        "Email": "daniel.kim@lumenmedia.com",
+        "Phone": "(404) 555-4455",
+        "Company Size": "Large (201-1000)",
+        "Status": "Active",
+        "Last Activity Date": "2025-01-28",
+        "Contract Value": 4500000.55,
+        "Client Tier": "Gold",
+        "Renewal Date": "2025-09-21",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "Innovatech",
+        "Industry": "Technology",
+        "Location": "Austin, TX",
+        "Primary Contact": "Grace Thompson",
+        "Email": "grace.thompson@innovatech.com",
+        "Phone": "(512) 555-7891",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2024-12-05",
+        "Contract Value": 3300000.45,
+        "Client Tier": "Silver",
+        "Renewal Date": "2026-03-15",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "WellnessPath Healthcare",
+        "Industry": "Healthcare",
+        "Location": "Raleigh, NC",
+        "Primary Contact": "Ethan Lewis",
+        "Email": "ethan.lewis@wellnesspath.com",
+        "Phone": "(919) 555-9977",
+        "Company Size": "Enterprise (1000+)",
+        "Status": "Active",
+        "Last Activity Date": "2024-08-26",
+        "Contract Value": 8000000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2025-11-30",
+        "Satisfaction Score": 9
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "CapitalView Finance",
+        "Industry": "Finance",
+        "Location": "Newark, NJ",
+        "Primary Contact": "Ava Martinez",
+        "Email": "ava.martinez@capitalview.com",
+        "Phone": "(973) 555-6677",
+        "Company Size": "Large (201-1000)",
+        "Status": "Active",
+        "Last Activity Date": "2025-05-20",
+        "Contract Value": 6000000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2025-12-12",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "BrightFuture Education",
+        "Industry": "Education",
+        "Location": "Madison, WI",
+        "Primary Contact": "Liam Parker",
+        "Email": "liam.parker@brightfutureedu.com",
+        "Phone": "(608) 555-1122",
+        "Company Size": "Small (11-50)",
+        "Status": "Inactive",
+        "Last Activity Date": "2023-09-30",
+        "Contract Value": 580000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2025-10-22",
+        "Satisfaction Score": 6
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "SteelEdge Manufacturing",
+        "Industry": "Manufacturing",
+        "Location": "Pittsburgh, PA",
+        "Primary Contact": "Isabella Hernandez",
+        "Email": "isabella.hernandez@steeledge.com",
+        "Phone": "(412) 555-3344",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2024-11-11",
+        "Contract Value": 2900000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2026-01-10",
+        "Satisfaction Score": 7
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "MarketHive Retail",
+        "Industry": "Retail",
+        "Location": "Nashville, TN",
+        "Primary Contact": "Mason Wright",
+        "Email": "mason.wright@markethive.com",
+        "Phone": "(615) 555-7766",
+        "Company Size": "Small (11-50)",
+        "Status": "Active",
+        "Last Activity Date": "2025-06-14",
+        "Contract Value": 460000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2025-09-03",
+        "Satisfaction Score": 7
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "Skyline SaaS",
+        "Industry": "SaaS",
+        "Location": "Denver, CO",
+        "Primary Contact": "Charlotte Davis",
+        "Email": "charlotte.davis@skylinesaas.com",
+        "Phone": "(303) 555-2211",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2024-07-30",
+        "Contract Value": 2800000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2025-12-06",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "Pulse Consulting",
+        "Industry": "Consulting",
+        "Location": "San Diego, CA",
+        "Primary Contact": "Noah Johnson",
+        "Email": "noah.johnson@pulseconsulting.com",
+        "Phone": "(619) 555-3344",
+        "Company Size": "Small (11-50)",
+        "Status": "Inactive",
+        "Last Activity Date": "2023-08-05",
+        "Contract Value": 410000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2025-11-15",
+        "Satisfaction Score": 5
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "Radiant Media",
+        "Industry": "Media & Entertainment",
+        "Location": "Chicago, IL",
+        "Primary Contact": "Amelia Roberts",
+        "Email": "amelia.roberts@radiantmedia.com",
+        "Phone": "(312) 555-7788",
+        "Company Size": "Large (201-1000)",
+        "Status": "Active",
+        "Last Activity Date": "2025-01-23",
+        "Contract Value": 4700000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2026-02-13",
+        "Satisfaction Score": 9
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "TechNova",
+        "Industry": "Technology",
+        "Location": "Seattle, WA",
+        "Primary Contact": "Evelyn Miller",
+        "Email": "evelyn.miller@technova.com",
+        "Phone": "(206) 555-9900",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2025-03-10",
+        "Contract Value": 3500000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2026-04-01",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "HealthTrust",
+        "Industry": "Healthcare",
+        "Location": "Houston, TX",
+        "Primary Contact": "James Wilson",
+        "Email": "james.wilson@healthtrust.com",
+        "Phone": "(713) 555-2233",
+        "Company Size": "Enterprise (1000+)",
+        "Status": "Active",
+        "Last Activity Date": "2024-10-22",
+        "Contract Value": 7900000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2025-08-29",
+        "Satisfaction Score": 9
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "Prime Finance",
+        "Industry": "Finance",
+        "Location": "Philadelphia, PA",
+        "Primary Contact": "Ella Martinez",
+        "Email": "ella.martinez@primefinance.com",
+        "Phone": "(215) 555-5577",
+        "Company Size": "Large (201-1000)",
+        "Status": "Active",
+        "Last Activity Date": "2025-05-14",
+        "Contract Value": 6100000.5,
+        "Client Tier": "Gold",
+        "Renewal Date": "2026-01-20",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "EduQuest",
+        "Industry": "Education",
+        "Location": "Minneapolis, MN",
+        "Primary Contact": "Benjamin Scott",
+        "Email": "benjamin.scott@eduquest.com",
+        "Phone": "(612) 555-8899",
+        "Company Size": "Small (11-50)",
+        "Status": "Inactive",
+        "Last Activity Date": "2023-11-12",
+        "Contract Value": 560000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2025-10-30",
+        "Satisfaction Score": 6
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "Precision Manufacturing",
+        "Industry": "Manufacturing",
+        "Location": "Detroit, MI",
+        "Primary Contact": "Mila Jackson",
+        "Email": "mila.jackson@precisionmfg.com",
+        "Phone": "(313) 555-4411",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2024-06-18",
+        "Contract Value": 2750000.75,
+        "Client Tier": "Silver",
+        "Renewal Date": "2026-02-11",
+        "Satisfaction Score": 7
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "RetailCo",
+        "Industry": "Retail",
+        "Location": "Orlando, FL",
+        "Primary Contact": "Lucas Harris",
+        "Email": "lucas.harris@retailco.com",
+        "Phone": "(407) 555-6677",
+        "Company Size": "Small (11-50)",
+        "Status": "Active",
+        "Last Activity Date": "2025-04-25",
+        "Contract Value": 420000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2025-09-17",
+        "Satisfaction Score": 7
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "SaaSHub",
+        "Industry": "SaaS",
+        "Location": "San Antonio, TX",
+        "Primary Contact": "Chloe Martin",
+        "Email": "chloe.martin@saashub.com",
+        "Phone": "(210) 555-2233",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2024-08-14",
+        "Contract Value": 2650000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2026-03-25",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "Clarity Consulting",
+        "Industry": "Consulting",
+        "Location": "Columbus, OH",
+        "Primary Contact": "Henry Lewis",
+        "Email": "henry.lewis@clarityconsulting.com",
+        "Phone": "(614) 555-7766",
+        "Company Size": "Small (11-50)",
+        "Status": "Inactive",
+        "Last Activity Date": "2023-09-05",
+        "Contract Value": 480000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2025-12-14",
+        "Satisfaction Score": 5
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "BrightLight Media",
+        "Industry": "Media & Entertainment",
+        "Location": "New Orleans, LA",
+        "Primary Contact": "Ella Wilson",
+        "Email": "ella.wilson@brightlightmedia.com",
+        "Phone": "(504) 555-3344",
+        "Company Size": "Large (201-1000)",
+        "Status": "Active",
+        "Last Activity Date": "2025-03-30",
+        "Contract Value": 4600000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2025-10-31",
+        "Satisfaction Score": 9
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "NexGen Tech",
+        "Industry": "Technology",
+        "Location": "Raleigh, NC",
+        "Primary Contact": "Liam Turner",
+        "Email": "liam.turner@nexgentech.com",
+        "Phone": "(919) 555-8899",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2025-05-19",
+        "Contract Value": 3250000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2026-01-27",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "CareWell Healthcare",
+        "Industry": "Healthcare",
+        "Location": "San Diego, CA",
+        "Primary Contact": "Sofia King",
+        "Email": "sofia.king@carewellhealth.com",
+        "Phone": "(619) 555-2233",
+        "Company Size": "Enterprise (1000+)",
+        "Status": "Active",
+        "Last Activity Date": "2024-07-10",
+        "Contract Value": 8300000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2025-12-24",
+        "Satisfaction Score": 9
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "FinTrust Finance",
+        "Industry": "Finance",
+        "Location": "Washington, DC",
+        "Primary Contact": "Mason Walker",
+        "Email": "mason.walker@fintrust.com",
+        "Phone": "(202) 555-6677",
+        "Company Size": "Large (201-1000)",
+        "Status": "Active",
+        "Last Activity Date": "2025-02-14",
+        "Contract Value": 6200000.5,
+        "Client Tier": "Gold",
+        "Renewal Date": "2025-11-05",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "LearnSmart Education",
+        "Industry": "Education",
+        "Location": "Ann Arbor, MI",
+        "Primary Contact": "Zoe Adams",
+        "Email": "zoe.adams@learnsmart.com",
+        "Phone": "(734) 555-7788",
+        "Company Size": "Small (11-50)",
+        "Status": "Inactive",
+        "Last Activity Date": "2023-08-30",
+        "Contract Value": 550000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2025-09-28",
+        "Satisfaction Score": 6
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "Ironclad Manufacturing",
+        "Industry": "Manufacturing",
+        "Location": "Milwaukee, WI",
+        "Primary Contact": "Ethan Garcia",
+        "Email": "ethan.garcia@ironcladmfg.com",
+        "Phone": "(414) 555-9922",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2024-10-05",
+        "Contract Value": 2900000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2026-05-08",
+        "Satisfaction Score": 7
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "RetailWorks",
+        "Industry": "Retail",
+        "Location": "Phoenix, AZ",
+        "Primary Contact": "Madison Clark",
+        "Email": "madison.clark@retailworks.com",
+        "Phone": "(602) 555-1122",
+        "Company Size": "Small (11-50)",
+        "Status": "Active",
+        "Last Activity Date": "2025-01-19",
+        "Contract Value": 470000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2026-03-30",
+        "Satisfaction Score": 7
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "SaaSCore",
+        "Industry": "SaaS",
+        "Location": "Salt Lake City, UT",
+        "Primary Contact": "Alexander Edwards",
+        "Email": "alexander.edwards@saascore.com",
+        "Phone": "(801) 555-3344",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2024-06-29",
+        "Contract Value": 2700000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2025-10-10",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "Insight Consulting",
+        "Industry": "Consulting",
+        "Location": "Charlotte, NC",
+        "Primary Contact": "Natalie Young",
+        "Email": "natalie.young@insightconsulting.com",
+        "Phone": "(704) 555-7788",
+        "Company Size": "Small (11-50)",
+        "Status": "Inactive",
+        "Last Activity Date": "2023-12-19",
+        "Contract Value": 430000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2025-11-27",
+        "Satisfaction Score": 5
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "EchoWave Media",
+        "Industry": "Media & Entertainment",
+        "Location": "Atlanta, GA",
+        "Primary Contact": "Oliver Scott",
+        "Email": "oliver.scott@echowavemedia.com",
+        "Phone": "(404) 555-2211",
+        "Company Size": "Large (201-1000)",
+        "Status": "Active",
+        "Last Activity Date": "2025-05-29",
+        "Contract Value": 4800000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2026-02-14",
+        "Satisfaction Score": 9
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "TechX Innovations",
+        "Industry": "Technology",
+        "Location": "Austin, TX",
+        "Primary Contact": "Amelia Johnson",
+        "Email": "amelia.johnson@techxinnovations.com",
+        "Phone": "(512) 555-6677",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2025-02-07",
+        "Contract Value": 3400000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2026-04-19",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "HealthFirst",
+        "Industry": "Healthcare",
+        "Location": "Raleigh, NC",
+        "Primary Contact": "Noah Brown",
+        "Email": "noah.brown@healthfirst.com",
+        "Phone": "(919) 555-7788",
+        "Company Size": "Enterprise (1000+)",
+        "Status": "Active",
+        "Last Activity Date": "2024-09-18",
+        "Contract Value": 8100000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2025-12-28",
+        "Satisfaction Score": 9
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "FinanceHub",
+        "Industry": "Finance",
+        "Location": "New York, NY",
+        "Primary Contact": "Charlotte Wilson",
+        "Email": "charlotte.wilson@financehub.com",
+        "Phone": "(212) 555-3344",
+        "Company Size": "Large (201-1000)",
+        "Status": "Active",
+        "Last Activity Date": "2025-06-04",
+        "Contract Value": 6300000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2025-11-01",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "Bright Minds Education",
+        "Industry": "Education",
+        "Location": "Denver, CO",
+        "Primary Contact": "Benjamin Harris",
+        "Email": "benjamin.harris@brightminds.com",
+        "Phone": "(303) 555-9922",
+        "Company Size": "Small (11-50)",
+        "Status": "Inactive",
+        "Last Activity Date": "2023-10-20",
+        "Contract Value": 570000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2025-12-22",
+        "Satisfaction Score": 6
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "MetalWorks Manufacturing",
+        "Industry": "Manufacturing",
+        "Location": "Cleveland, OH",
+        "Primary Contact": "Mia Davis",
+        "Email": "mia.davis@metalworksmfg.com",
+        "Phone": "(216) 555-2211",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2024-05-28",
+        "Contract Value": 2850000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2026-01-30",
+        "Satisfaction Score": 7
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "RetailPro",
+        "Industry": "Retail",
+        "Location": "Orlando, FL",
+        "Primary Contact": "Lucas Martinez",
+        "Email": "lucas.martinez@retailpro.com",
+        "Phone": "(407) 555-7788",
+        "Company Size": "Small (11-50)",
+        "Status": "Active",
+        "Last Activity Date": "2025-03-19",
+        "Contract Value": 450000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2026-02-05",
+        "Satisfaction Score": 7
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "SaaSForge",
+        "Industry": "SaaS",
+        "Location": "San Antonio, TX",
+        "Primary Contact": "Chloe Garcia",
+        "Email": "chloe.garcia@saasforge.com",
+        "Phone": "(210) 555-1122",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2024-09-01",
+        "Contract Value": 2800000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2025-11-11",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "ConsultEdge",
+        "Industry": "Consulting",
+        "Location": "Columbus, OH",
+        "Primary Contact": "Henry Evans",
+        "Email": "henry.evans@consultedge.com",
+        "Phone": "(614) 555-3344",
+        "Company Size": "Small (11-50)",
+        "Status": "Inactive",
+        "Last Activity Date": "2023-07-15",
+        "Contract Value": 440000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2025-10-12",
+        "Satisfaction Score": 5
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "MediaPulse",
+        "Industry": "Media & Entertainment",
+        "Location": "New Orleans, LA",
+        "Primary Contact": "Ella Roberts",
+        "Email": "ella.roberts@mediapulse.com",
+        "Phone": "(504) 555-6677",
+        "Company Size": "Large (201-1000)",
+        "Status": "Active",
+        "Last Activity Date": "2025-01-13",
+        "Contract Value": 4600000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2026-04-20",
+        "Satisfaction Score": 9
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "TechNexus",
+        "Industry": "Technology",
+        "Location": "Portland, OR",
+        "Primary Contact": "Liam Turner",
+        "Email": "liam.turner@technexus.com",
+        "Phone": "(503) 555-7788",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2025-06-10",
+        "Contract Value": 3350000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2026-05-18",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "WellPath Healthcare",
+        "Industry": "Healthcare",
+        "Location": "Minneapolis, MN",
+        "Primary Contact": "Sofia Lewis",
+        "Email": "sofia.lewis@wellpathhealth.com",
+        "Phone": "(612) 555-2211",
+        "Company Size": "Enterprise (1000+)",
+        "Status": "Active",
+        "Last Activity Date": "2024-11-29",
+        "Contract Value": 8200000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2025-09-29",
+        "Satisfaction Score": 9
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "FinEdge",
+        "Industry": "Finance",
+        "Location": "Houston, TX",
+        "Primary Contact": "Mason Walker",
+        "Email": "mason.walker@finedge.com",
+        "Phone": "(713) 555-3344",
+        "Company Size": "Large (201-1000)",
+        "Status": "Active",
+        "Last Activity Date": "2025-04-11",
+        "Contract Value": 6050000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2026-01-22",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "LearnBright Education",
+        "Industry": "Education",
+        "Location": "Philadelphia, PA",
+        "Primary Contact": "Zoe Wright",
+        "Email": "zoe.wright@learnbright.com",
+        "Phone": "(215) 555-7788",
+        "Company Size": "Small (11-50)",
+        "Status": "Inactive",
+        "Last Activity Date": "2023-09-01",
+        "Contract Value": 550000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2025-11-08",
+        "Satisfaction Score": 6
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "ForgeWorks Manufacturing",
+        "Industry": "Manufacturing",
+        "Location": "Indianapolis, IN",
+        "Primary Contact": "Ethan Scott",
+        "Email": "ethan.scott@forgeworks.com",
+        "Phone": "(317) 555-1122",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2024-06-15",
+        "Contract Value": 2720000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2026-03-29",
+        "Satisfaction Score": 7
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "RetailKing",
+        "Industry": "Retail",
+        "Location": "Miami, FL",
+        "Primary Contact": "Mia Clark",
+        "Email": "mia.clark@retailking.com",
+        "Phone": "(305) 555-3344",
+        "Company Size": "Small (11-50)",
+        "Status": "Active",
+        "Last Activity Date": "2025-05-04",
+        "Contract Value": 440000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2025-10-27",
+        "Satisfaction Score": 7
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "SaaSCore Solutions",
+        "Industry": "SaaS",
+        "Location": "Atlanta, GA",
+        "Primary Contact": "Oliver Lee",
+        "Email": "oliver.lee@saascoresolutions.com",
+        "Phone": "(404) 555-6677",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2024-08-20",
+        "Contract Value": 2780000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2026-02-15",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "Consultancy Hub",
+        "Industry": "Consulting",
+        "Location": "Dallas, TX",
+        "Primary Contact": "Natalie Martin",
+        "Email": "natalie.martin@consultancyhub.com",
+        "Phone": "(214) 555-7788",
+        "Company Size": "Small (11-50)",
+        "Status": "Inactive",
+        "Last Activity Date": "2023-10-04",
+        "Contract Value": 420000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2025-12-03",
+        "Satisfaction Score": 5
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "MediaSpark",
+        "Industry": "Media & Entertainment",
+        "Location": "Los Angeles, CA",
+        "Primary Contact": "Ethan Johnson",
+        "Email": "ethan.johnson@mediaspark.com",
+        "Phone": "(323) 555-1122",
+        "Company Size": "Large (201-1000)",
+        "Status": "Active",
+        "Last Activity Date": "2025-02-25",
+        "Contract Value": 4550000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2026-01-28",
+        "Satisfaction Score": 9
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "TechPulse",
+        "Industry": "Technology",
+        "Location": "San Francisco, CA",
+        "Primary Contact": "Amelia Davis",
+        "Email": "amelia.davis@techpulse.com",
+        "Phone": "(415) 555-6677",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2025-06-12",
+        "Contract Value": 3400000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2026-04-02",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "CarePlus Healthcare",
+        "Industry": "Healthcare",
+        "Location": "Boston, MA",
+        "Primary Contact": "Sofia Martinez",
+        "Email": "sofia.martinez@careplus.com",
+        "Phone": "(617) 555-7788",
+        "Company Size": "Enterprise (1000+)",
+        "Status": "Active",
+        "Last Activity Date": "2024-09-15",
+        "Contract Value": 8400000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2025-11-10",
+        "Satisfaction Score": 9
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "FinPro Partners",
+        "Industry": "Finance",
+        "Location": "New York, NY",
+        "Primary Contact": "Mason Wilson",
+        "Email": "mason.wilson@finpropartners.com",
+        "Phone": "(212) 555-3344",
+        "Company Size": "Large (201-1000)",
+        "Status": "Active",
+        "Last Activity Date": "2025-05-21",
+        "Contract Value": 6200000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2026-01-12",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "EduCore",
+        "Industry": "Education",
+        "Location": "Denver, CO",
+        "Primary Contact": "Zoe Johnson",
+        "Email": "zoe.johnson@educore.com",
+        "Phone": "(303) 555-1122",
+        "Company Size": "Small (11-50)",
+        "Status": "Inactive",
+        "Last Activity Date": "2023-09-25",
+        "Contract Value": 540000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2025-10-20",
+        "Satisfaction Score": 6
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "SteelWorks Manufacturing",
+        "Industry": "Manufacturing",
+        "Location": "Detroit, MI",
+        "Primary Contact": "Ethan Brown",
+        "Email": "ethan.brown@steelworksmfg.com",
+        "Phone": "(313) 555-6677",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2024-06-26",
+        "Contract Value": 2800000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2026-02-20",
+        "Satisfaction Score": 7
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "RetailMax",
+        "Industry": "Retail",
+        "Location": "Orlando, FL",
+        "Primary Contact": "Mia Hernandez",
+        "Email": "mia.hernandez@retailmax.com",
+        "Phone": "(407) 555-7788",
+        "Company Size": "Small (11-50)",
+        "Status": "Active",
+        "Last Activity Date": "2025-04-14",
+        "Contract Value": 460000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2026-03-05",
+        "Satisfaction Score": 7
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "SaaSWorks",
+        "Industry": "SaaS",
+        "Location": "San Antonio, TX",
+        "Primary Contact": "Oliver Martinez",
+        "Email": "oliver.martinez@saasworks.com",
+        "Phone": "(210) 555-1122",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2024-09-14",
+        "Contract Value": 2700000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2025-12-01",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "ConsultPro",
+        "Industry": "Consulting",
+        "Location": "Columbus, OH",
+        "Primary Contact": "Natalie Clark",
+        "Email": "natalie.clark@consultpro.com",
+        "Phone": "(614) 555-3344",
+        "Company Size": "Small (11-50)",
+        "Status": "Inactive",
+        "Last Activity Date": "2023-07-19",
+        "Contract Value": 430000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2025-11-18",
+        "Satisfaction Score": 5
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "MediaCore",
+        "Industry": "Media & Entertainment",
+        "Location": "New Orleans, LA",
+        "Primary Contact": "Ella Lewis",
+        "Email": "ella.lewis@mediacore.com",
+        "Phone": "(504) 555-6677",
+        "Company Size": "Large (201-1000)",
+        "Status": "Active",
+        "Last Activity Date": "2025-01-17",
+        "Contract Value": 4700000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2026-02-22",
+        "Satisfaction Score": 9
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "TechFlow",
+        "Industry": "Technology",
+        "Location": "Portland, OR",
+        "Primary Contact": "Liam Walker",
+        "Email": "liam.walker@techflow.com",
+        "Phone": "(503) 555-7788",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2025-06-15",
+        "Contract Value": 3350000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2026-03-27",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "HealthLink Healthcare",
+        "Industry": "Healthcare",
+        "Location": "Minneapolis, MN",
+        "Primary Contact": "Sofia Adams",
+        "Email": "sofia.adams@healthlink.com",
+        "Phone": "(612) 555-2211",
+        "Company Size": "Enterprise (1000+)",
+        "Status": "Active",
+        "Last Activity Date": "2024-11-25",
+        "Contract Value": 8300000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2025-10-10",
+        "Satisfaction Score": 9
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "FinancePro",
+        "Industry": "Finance",
+        "Location": "Houston, TX",
+        "Primary Contact": "Mason Davis",
+        "Email": "mason.davis@financepro.com",
+        "Phone": "(713) 555-3344",
+        "Company Size": "Large (201-1000)",
+        "Status": "Active",
+        "Last Activity Date": "2025-04-15",
+        "Contract Value": 6080000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2026-01-17",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "LearnPlus Education",
+        "Industry": "Education",
+        "Location": "Philadelphia, PA",
+        "Primary Contact": "Zoe Wilson",
+        "Email": "zoe.wilson@learnplus.com",
+        "Phone": "(215) 555-7788",
+        "Company Size": "Small (11-50)",
+        "Status": "Inactive",
+        "Last Activity Date": "2023-09-15",
+        "Contract Value": 550000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2025-11-25",
+        "Satisfaction Score": 6
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "PrecisionMfg",
+        "Industry": "Manufacturing",
+        "Location": "Indianapolis, IN",
+        "Primary Contact": "Ethan Harris",
+        "Email": "ethan.harris@precisionmfg.com",
+        "Phone": "(317) 555-1122",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2024-06-20",
+        "Contract Value": 2730000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2026-04-01",
+        "Satisfaction Score": 7
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "RetailFirst",
+        "Industry": "Retail",
+        "Location": "Miami, FL",
+        "Primary Contact": "Mia Scott",
+        "Email": "mia.scott@retailfirst.com",
+        "Phone": "(305) 555-3344",
+        "Company Size": "Small (11-50)",
+        "Status": "Active",
+        "Last Activity Date": "2025-05-08",
+        "Contract Value": 440000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2026-01-29",
+        "Satisfaction Score": 7
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "SaaSPro",
+        "Industry": "SaaS",
+        "Location": "Atlanta, GA",
+        "Primary Contact": "Oliver Brown",
+        "Email": "oliver.brown@saaspro.com",
+        "Phone": "(404) 555-6677",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2024-08-25",
+        "Contract Value": 2750000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2025-12-14",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "ConsultWise",
+        "Industry": "Consulting",
+        "Location": "Dallas, TX",
+        "Primary Contact": "Natalie Harris",
+        "Email": "natalie.harris@consultwise.com",
+        "Phone": "(214) 555-7788",
+        "Company Size": "Small (11-50)",
+        "Status": "Inactive",
+        "Last Activity Date": "2023-10-09",
+        "Contract Value": 440000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2025-10-23",
+        "Satisfaction Score": 5
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "MediaX Solutions",
+        "Industry": "Media & Entertainment",
+        "Location": "Los Angeles, CA",
+        "Primary Contact": "Ethan Clark",
+        "Email": "ethan.clark@mediaxsolutions.com",
+        "Phone": "(323) 555-1122",
+        "Company Size": "Large (201-1000)",
+        "Status": "Active",
+        "Last Activity Date": "2025-02-19",
+        "Contract Value": 4600000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2026-01-14",
+        "Satisfaction Score": 9
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "TechWave",
+        "Industry": "Technology",
+        "Location": "San Francisco, CA",
+        "Primary Contact": "Amelia Taylor",
+        "Email": "amelia.taylor@techwave.com",
+        "Phone": "(415) 555-6677",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2025-06-18",
+        "Contract Value": 3380000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2026-05-08",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "CareTrust Healthcare",
+        "Industry": "Healthcare",
+        "Location": "Boston, MA",
+        "Primary Contact": "Sofia Roberts",
+        "Email": "sofia.roberts@caretrust.com",
+        "Phone": "(617) 555-7788",
+        "Company Size": "Enterprise (1000+)",
+        "Status": "Active",
+        "Last Activity Date": "2024-09-20",
+        "Contract Value": 8350000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2025-12-18",
+        "Satisfaction Score": 9
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "FinServe Finance",
+        "Industry": "Finance",
+        "Location": "New York, NY",
+        "Primary Contact": "Mason Lewis",
+        "Email": "mason.lewis@finserve.com",
+        "Phone": "(212) 555-3344",
+        "Company Size": "Large (201-1000)",
+        "Status": "Active",
+        "Last Activity Date": "2025-05-25",
+        "Contract Value": 6150000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2026-02-03",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "EduPrime",
+        "Industry": "Education",
+        "Location": "Denver, CO",
+        "Primary Contact": "Zoe Walker",
+        "Email": "zoe.walker@eduprime.com",
+        "Phone": "(303) 555-7788",
+        "Company Size": "Small (11-50)",
+        "Status": "Inactive",
+        "Last Activity Date": "2023-09-28",
+        "Contract Value": 545000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2025-11-11",
+        "Satisfaction Score": 6
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "ForgeTech Manufacturing",
+        "Industry": "Manufacturing",
+        "Location": "Detroit, MI",
+        "Primary Contact": "Ethan King",
+        "Email": "ethan.king@forgetechmfg.com",
+        "Phone": "(313) 555-1122",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2024-06-30",
+        "Contract Value": 2790000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2026-03-30",
+        "Satisfaction Score": 7
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "RetailEdge",
+        "Industry": "Retail",
+        "Location": "Orlando, FL",
+        "Primary Contact": "Mia Evans",
+        "Email": "mia.evans@retailedge.com",
+        "Phone": "(407) 555-3344",
+        "Company Size": "Small (11-50)",
+        "Status": "Active",
+        "Last Activity Date": "2025-05-12",
+        "Contract Value": 445000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2026-02-18",
+        "Satisfaction Score": 7
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "SaaSLink Solutions",
+        "Industry": "SaaS",
+        "Location": "San Antonio, TX",
+        "Primary Contact": "Oliver Harris",
+        "Email": "oliver.harris@saaslinksolutions.com",
+        "Phone": "(210) 555-6677",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2024-09-06",
+        "Contract Value": 2720000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2025-12-23",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "ConsultPoint",
+        "Industry": "Consulting",
+        "Location": "Columbus, OH",
+        "Primary Contact": "Natalie Scott",
+        "Email": "natalie.scott@consultpoint.com",
+        "Phone": "(614) 555-7788",
+        "Company Size": "Small (11-50)",
+        "Status": "Inactive",
+        "Last Activity Date": "2023-07-30",
+        "Contract Value": 435000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2025-10-27",
+        "Satisfaction Score": 5
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "MediaNet",
+        "Industry": "Media & Entertainment",
+        "Location": "New Orleans, LA",
+        "Primary Contact": "Ella Harris",
+        "Email": "ella.harris@medianet.com",
+        "Phone": "(504) 555-2211",
+        "Company Size": "Large (201-1000)",
+        "Status": "Active",
+        "Last Activity Date": "2025-01-21",
+        "Contract Value": 4620000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2026-02-25",
+        "Satisfaction Score": 9
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "TechSphere",
+        "Industry": "Technology",
+        "Location": "Portland, OR",
+        "Primary Contact": "Liam Clark",
+        "Email": "liam.clark@techsphere.com",
+        "Phone": "(503) 555-3344",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2025-06-22",
+        "Contract Value": 3370000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2026-03-31",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "HealthWay Healthcare",
+        "Industry": "Healthcare",
+        "Location": "Minneapolis, MN",
+        "Primary Contact": "Sofia Walker",
+        "Email": "sofia.walker@healthway.com",
+        "Phone": "(612) 555-7788",
+        "Company Size": "Enterprise (1000+)",
+        "Status": "Active",
+        "Last Activity Date": "2024-11-30",
+        "Contract Value": 8320000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2025-10-15",
+        "Satisfaction Score": 9
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "FinanceTrust",
+        "Industry": "Finance",
+        "Location": "Houston, TX",
+        "Primary Contact": "Mason Johnson",
+        "Email": "mason.johnson@financetrust.com",
+        "Phone": "(713) 555-1122",
+        "Company Size": "Large (201-1000)",
+        "Status": "Active",
+        "Last Activity Date": "2025-04-20",
+        "Contract Value": 6100000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2026-01-25",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "NexGen Retailers",
+        "Industry": "Retail",
+        "Location": "Austin, TX",
+        "Primary Contact": "Sophia Martinez",
+        "Email": "smartinez@nexgenretail.com",
+        "Phone": "(512) 555-2398",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2024-11-15",
+        "Contract Value": 425000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2026-04-12",
+        "Satisfaction Score": 9
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "BrightPath Education",
+        "Industry": "Education",
+        "Location": "Boston, MA",
+        "Primary Contact": "Ethan Chen",
+        "Email": "echen@brightpathedu.org",
+        "Phone": "(617) 555-7814",
+        "Company Size": "Small (11-50)",
+        "Status": "Active",
+        "Last Activity Date": "2025-01-22",
+        "Contract Value": 98000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2025-12-05",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "HealthCore Solutions",
+        "Industry": "Healthcare",
+        "Location": "Denver, CO",
+        "Primary Contact": "Maya Patel",
+        "Email": "mpatel@healthcoresol.com",
+        "Phone": "(303) 555-6623",
+        "Company Size": "Large (201-1000)",
+        "Status": "Active",
+        "Last Activity Date": "2025-04-01",
+        "Contract Value": 1295000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2025-10-19",
+        "Satisfaction Score": 10
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "FinTrust Capital",
+        "Industry": "Finance",
+        "Location": "New York, NY",
+        "Primary Contact": "Lucas Brown",
+        "Email": "lbrown@fintrustcap.com",
+        "Phone": "(212) 555-4421",
+        "Company Size": "Enterprise (1000+)",
+        "Status": "Active",
+        "Last Activity Date": "2025-02-14",
+        "Contract Value": 7500000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2026-02-27",
+        "Satisfaction Score": 9
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "ShopEase Online",
+        "Industry": "E-commerce",
+        "Location": "Seattle, WA",
+        "Primary Contact": "Olivia Kim",
+        "Email": "okim@shopease.com",
+        "Phone": "(206) 555-3137",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2024-09-08",
+        "Contract Value": 350000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2025-11-30",
+        "Satisfaction Score": 7
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "Technium Software",
+        "Industry": "Technology",
+        "Location": "San Francisco, CA",
+        "Primary Contact": "Noah Wilson",
+        "Email": "nwilson@techniumsoft.com",
+        "Phone": "(415) 555-8842",
+        "Company Size": "Small (11-50)",
+        "Status": "Inactive",
+        "Last Activity Date": "2023-12-20",
+        "Contract Value": 120000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2026-01-15",
+        "Satisfaction Score": 5
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "MediaWave Entertainment",
+        "Industry": "Media & Entertainment",
+        "Location": "Los Angeles, CA",
+        "Primary Contact": "Isabella Garcia",
+        "Email": "igarcia@mediawaveent.com",
+        "Phone": "(323) 555-7795",
+        "Company Size": "Large (201-1000)",
+        "Status": "Active",
+        "Last Activity Date": "2025-05-10",
+        "Contract Value": 2100000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2026-05-20",
+        "Satisfaction Score": 9
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "FactoryPro Manufacturing",
+        "Industry": "Manufacturing",
+        "Location": "Detroit, MI",
+        "Primary Contact": "Benjamin Lee",
+        "Email": "blee@factorypro.com",
+        "Phone": "(313) 555-2248",
+        "Company Size": "Enterprise (1000+)",
+        "Status": "Active",
+        "Last Activity Date": "2024-07-19",
+        "Contract Value": 5600000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2025-09-29",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "EduVision Learning",
+        "Industry": "Education",
+        "Location": "Chicago, IL",
+        "Primary Contact": "Emma Johnson",
+        "Email": "ejohnson@eduvisionlearn.edu",
+        "Phone": "(312) 555-6657",
+        "Company Size": "Startup (1-10)",
+        "Status": "Inactive",
+        "Last Activity Date": "2023-11-05",
+        "Contract Value": 15000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2026-04-01",
+        "Satisfaction Score": 6
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "ConsultIQ Advisors",
+        "Industry": "Consulting",
+        "Location": "Atlanta, GA",
+        "Primary Contact": "William Davis",
+        "Email": "wdavis@consultiq.com",
+        "Phone": "(404) 555-9931",
+        "Company Size": "Small (11-50)",
+        "Status": "Active",
+        "Last Activity Date": "2025-03-27",
+        "Contract Value": 230000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2025-08-16",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "GreenLeaf Pharma",
+        "Industry": "Healthcare",
+        "Location": "Raleigh, NC",
+        "Primary Contact": "Ava Thompson",
+        "Email": "athompson@greenleafpharma.com",
+        "Phone": "(919) 555-1476",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2025-06-10",
+        "Contract Value": 980000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2026-03-02",
+        "Satisfaction Score": 9
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "CloudWave SaaS",
+        "Industry": "SaaS",
+        "Location": "Portland, OR",
+        "Primary Contact": "James Anderson",
+        "Email": "janderson@cloudwavesaas.com",
+        "Phone": "(503) 555-4118",
+        "Company Size": "Startup (1-10)",
+        "Status": "Active",
+        "Last Activity Date": "2025-04-20",
+        "Contract Value": 45000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2026-02-28",
+        "Satisfaction Score": 7
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "RetailLink Stores",
+        "Industry": "Retail",
+        "Location": "Miami, FL",
+        "Primary Contact": "Mia Robinson",
+        "Email": "mrobinson@retaillink.com",
+        "Phone": "(305) 555-6733",
+        "Company Size": "Large (201-1000)",
+        "Status": "Inactive",
+        "Last Activity Date": "2023-08-14",
+        "Contract Value": 3400000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2025-07-07",
+        "Satisfaction Score": 5
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "FinEdge Analytics",
+        "Industry": "Finance",
+        "Location": "Houston, TX",
+        "Primary Contact": "Alexander Smith",
+        "Email": "asmith@finedgeanalytics.com",
+        "Phone": "(713) 555-5902",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2025-01-18",
+        "Contract Value": 670000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2026-01-12",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "NextGen Manufacturing",
+        "Industry": "Manufacturing",
+        "Location": "Columbus, OH",
+        "Primary Contact": "Ella Martinez",
+        "Email": "emartinez@nextgenmfg.com",
+        "Phone": "(614) 555-3341",
+        "Company Size": "Large (201-1000)",
+        "Status": "Active",
+        "Last Activity Date": "2024-10-03",
+        "Contract Value": 4800000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2026-05-10",
+        "Satisfaction Score": 9
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "Innovate Media Group",
+        "Industry": "Media & Entertainment",
+        "Location": "Nashville, TN",
+        "Primary Contact": "Michael Young",
+        "Email": "myoung@innovatemedia.com",
+        "Phone": "(615) 555-0278",
+        "Company Size": "Small (11-50)",
+        "Status": "Active",
+        "Last Activity Date": "2025-03-11",
+        "Contract Value": 125000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2025-09-21",
+        "Satisfaction Score": 7
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "EduSmart Technologies",
+        "Industry": "Education",
+        "Location": "Philadelphia, PA",
+        "Primary Contact": "Charlotte Walker",
+        "Email": "cwalker@edusmarttech.edu",
+        "Phone": "(215) 555-7799",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2024-08-26",
+        "Contract Value": 320000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2025-12-17",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "VividTech Solutions",
+        "Industry": "Technology",
+        "Location": "San Diego, CA",
+        "Primary Contact": "Daniel Harris",
+        "Email": "dharris@vividtechsolutions.com",
+        "Phone": "(619) 555-1532",
+        "Company Size": "Small (11-50)",
+        "Status": "Inactive",
+        "Last Activity Date": "2023-06-15",
+        "Contract Value": 87000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2026-03-09",
+        "Satisfaction Score": 6
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "Peak Consulting Group",
+        "Industry": "Consulting",
+        "Location": "Minneapolis, MN",
+        "Primary Contact": "Grace Allen",
+        "Email": "gallen@peakconsulting.com",
+        "Phone": "(612) 555-8005",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2025-05-18",
+        "Contract Value": 410000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2025-11-04",
+        "Satisfaction Score": 9
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "MarketFlow E-commerce",
+        "Industry": "E-commerce",
+        "Location": "Phoenix, AZ",
+        "Primary Contact": "Jacob Scott",
+        "Email": "jscott@marketflow.com",
+        "Phone": "(602) 555-9201",
+        "Company Size": "Startup (1-10)",
+        "Status": "Active",
+        "Last Activity Date": "2025-06-21",
+        "Contract Value": 38000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2026-06-15",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "HealthPlus Clinic",
+        "Industry": "Healthcare",
+        "Location": "Orlando, FL",
+        "Primary Contact": "Lily Campbell",
+        "Email": "lcampbell@healthplusclinic.com",
+        "Phone": "(407) 555-4706",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2025-02-28",
+        "Contract Value": 1150000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2026-01-30",
+        "Satisfaction Score": 10
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "BlueRibbon Finance",
+        "Industry": "Finance",
+        "Location": "Chicago, IL",
+        "Primary Contact": "Ryan Evans",
+        "Email": "revans@blueribbonfinance.com",
+        "Phone": "(312) 555-6213",
+        "Company Size": "Large (201-1000)",
+        "Status": "Inactive",
+        "Last Activity Date": "2023-09-22",
+        "Contract Value": 5100000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2025-08-29",
+        "Satisfaction Score": 5
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "StreamLine Media",
+        "Industry": "Media & Entertainment",
+        "Location": "Atlanta, GA",
+        "Primary Contact": "Zoe Morris",
+        "Email": "zmorris@streamlinemedia.com",
+        "Phone": "(404) 555-1734",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2025-04-30",
+        "Contract Value": 760000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2026-03-25",
+        "Satisfaction Score": 9
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "CraftWorks Manufacturing",
+        "Industry": "Manufacturing",
+        "Location": "Cleveland, OH",
+        "Primary Contact": "David King",
+        "Email": "dking@craftworksmfg.com",
+        "Phone": "(216) 555-9090",
+        "Company Size": "Large (201-1000)",
+        "Status": "Active",
+        "Last Activity Date": "2025-01-08",
+        "Contract Value": 4300000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2025-11-18",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "EduCore Learning",
+        "Industry": "Education",
+        "Location": "Baltimore, MD",
+        "Primary Contact": "Natalie Rivera",
+        "Email": "nrivera@educorelearning.edu",
+        "Phone": "(410) 555-3340",
+        "Company Size": "Small (11-50)",
+        "Status": "Active",
+        "Last Activity Date": "2025-03-05",
+        "Contract Value": 90000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2026-04-08",
+        "Satisfaction Score": 7
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "SaaSify Cloud",
+        "Industry": "SaaS",
+        "Location": "Denver, CO",
+        "Primary Contact": "Evan Brooks",
+        "Email": "ebrooks@saasifycloud.com",
+        "Phone": "(303) 555-7521",
+        "Company Size": "Startup (1-10)",
+        "Status": "Active",
+        "Last Activity Date": "2025-06-12",
+        "Contract Value": 52000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2026-02-14",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "UrbanRetail Co.",
+        "Industry": "Retail",
+        "Location": "San Antonio, TX",
+        "Primary Contact": "Amelia Ward",
+        "Email": "award@urbanretailco.com",
+        "Phone": "(210) 555-8393",
+        "Company Size": "Medium (51-200)",
+        "Status": "Inactive",
+        "Last Activity Date": "2023-07-01",
+        "Contract Value": 375000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2025-10-02",
+        "Satisfaction Score": 6
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "FinVista Partners",
+        "Industry": "Finance",
+        "Location": "Dallas, TX",
+        "Primary Contact": "Jack Turner",
+        "Email": "jturner@finvistapartners.com",
+        "Phone": "(214) 555-2607",
+        "Company Size": "Large (201-1000)",
+        "Status": "Active",
+        "Last Activity Date": "2024-12-30",
+        "Contract Value": 2750000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2026-01-20",
+        "Satisfaction Score": 9
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "MediCare Innovations",
+        "Industry": "Healthcare",
+        "Location": "Minneapolis, MN",
+        "Primary Contact": "Sofia Ramirez",
+        "Email": "sramirez@medicareinnov.com",
+        "Phone": "(612) 555-4829",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2025-05-06",
+        "Contract Value": 1170000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2026-04-15",
+        "Satisfaction Score": 10
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "TechStream Digital",
+        "Industry": "Technology",
+        "Location": "Seattle, WA",
+        "Primary Contact": "Henry Wilson",
+        "Email": "hwilson@techstreamdigital.com",
+        "Phone": "(206) 555-1023",
+        "Company Size": "Small (11-50)",
+        "Status": "Active",
+        "Last Activity Date": "2025-01-11",
+        "Contract Value": 110000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2025-09-01",
+        "Satisfaction Score": 7
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "ConsultPlus Group",
+        "Industry": "Consulting",
+        "Location": "Charlotte, NC",
+        "Primary Contact": "Lily Evans",
+        "Email": "levans@consultplus.com",
+        "Phone": "(704) 555-7240",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2025-06-02",
+        "Contract Value": 360000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2026-06-09",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "EcoRetail Solutions",
+        "Industry": "Retail",
+        "Location": "Portland, OR",
+        "Primary Contact": "Mason Clark",
+        "Email": "mclark@ecoretailsolutions.com",
+        "Phone": "(503) 555-6621",
+        "Company Size": "Small (11-50)",
+        "Status": "Inactive",
+        "Last Activity Date": "2023-05-19",
+        "Contract Value": 92000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2025-11-27",
+        "Satisfaction Score": 5
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "BrightFuture Education",
+        "Industry": "Education",
+        "Location": "Indianapolis, IN",
+        "Primary Contact": "Ella Gray",
+        "Email": "egray@brightfutureedu.org",
+        "Phone": "(317) 555-3917",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2024-07-28",
+        "Contract Value": 310000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2026-03-22",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "SaaSStream Technologies",
+        "Industry": "SaaS",
+        "Location": "Austin, TX",
+        "Primary Contact": "Owen Martinez",
+        "Email": "omartinez@saasstreamtech.com",
+        "Phone": "(512) 555-2741",
+        "Company Size": "Startup (1-10)",
+        "Status": "Active",
+        "Last Activity Date": "2025-06-15",
+        "Contract Value": 47000.0,
+        "Client Tier": "Bronze",
+        "Renewal Date": "2026-05-19",
+        "Satisfaction Score": 7
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "FactoryLine Inc.",
+        "Industry": "Manufacturing",
+        "Location": "Detroit, MI",
+        "Primary Contact": "Avery Johnson",
+        "Email": "ajohnson@factorylineinc.com",
+        "Phone": "(313) 555-4972",
+        "Company Size": "Large (201-1000)",
+        "Status": "Active",
+        "Last Activity Date": "2024-09-21",
+        "Contract Value": 5100000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2025-10-30",
+        "Satisfaction Score": 9
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "PrimeMedia Network",
+        "Industry": "Media & Entertainment",
+        "Location": "Los Angeles, CA",
+        "Primary Contact": "Jackie Nguyen",
+        "Email": "jnguyen@primemedianetwork.com",
+        "Phone": "(323) 555-6184",
+        "Company Size": "Medium (51-200)",
+        "Status": "Active",
+        "Last Activity Date": "2025-04-14",
+        "Contract Value": 800000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2026-01-25",
+        "Satisfaction Score": 8
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "EduTech Innovations",
+        "Industry": "Education",
+        "Location": "San Jose, CA",
+        "Primary Contact": "Grace Lee",
+        "Email": "glee@edutechinnov.com",
+        "Phone": "(408) 555-2739",
+        "Company Size": "Small (11-50)",
+        "Status": "Active",
+        "Last Activity Date": "2025-02-20",
+        "Contract Value": 112000.0,
+        "Client Tier": "Silver",
+        "Renewal Date": "2025-09-13",
+        "Satisfaction Score": 7
+      }
+    },
+    {
+      "fields": {
+        "Client Name": "FinMark Advisory",
+        "Industry": "Finance",
+        "Location": "New York, NY",
+        "Primary Contact": "Samuel Wilson",
+        "Email": "swilson@finmarkadvisory.com",
+        "Phone": "(212) 555-8570",
+        "Company Size": "Enterprise (1000+)",
+        "Status": "Active",
+        "Last Activity Date": "2025-06-05",
+        "Contract Value": 6900000.0,
+        "Client Tier": "Gold",
+        "Renewal Date": "2026-06-24",
+        "Satisfaction Score": 10
+      }
+    }
+  ]
+}

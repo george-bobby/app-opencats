@@ -1,0 +1,518 @@
+[
+  {
+    "name": "Technical Support: Immediate Escalation",
+    "actions": [
+      {
+        "action_name": "assign_team",
+        "action_params": [
+          1
+        ]
+      },
+      {
+        "action_name": "add_label",
+        "action_params": [
+          "technical_support"
+        ]
+      },
+      {
+        "action_name": "change_priority",
+        "action_params": [
+          "urgent"
+        ]
+      },
+      {
+        "action_name": "add_private_note",
+        "action_params": [
+          "Escalated urgent technical support issue for immediate handling."
+        ]
+      }
+    ],
+    "visibility": "global",
+    "created_at": "2025-02-10T20:35:23.753455",
+    "updated_at": "2025-05-14T06:01:55.550384"
+  },
+  {
+    "name": "Billing Issue Resolution",
+    "actions": [
+      {
+        "action_name": "assign_team",
+        "action_params": [
+          3
+        ]
+      },
+      {
+        "action_name": "add_label",
+        "action_params": [
+          "billing_issue"
+        ]
+      },
+      {
+        "action_name": "send_message",
+        "action_params": [
+          "We've assigned your billing issue to our specialist team. You'll hear back shortly."
+        ]
+      },
+      {
+        "action_name": "add_private_note",
+        "action_params": [
+          "Assigned to billing team for follow-up. Review payment history if needed."
+        ]
+      }
+    ],
+    "visibility": "global",
+    "created_at": "2024-10-03T02:49:03.440297",
+    "updated_at": "2025-03-08T04:01:44.813066"
+  },
+  {
+    "name": "Pricing Question: Sales Team",
+    "actions": [
+      {
+        "action_name": "assign_team",
+        "action_params": [
+          2
+        ]
+      },
+      {
+        "action_name": "add_label",
+        "action_params": [
+          "pricing_question"
+        ]
+      },
+      {
+        "action_name": "add_label",
+        "action_params": [
+          "sales_team"
+        ]
+      },
+      {
+        "action_name": "send_message",
+        "action_params": [
+          "Thank you for your interest in Acme Inc.'s pricing! A sales representative will provide details shortly."
+        ]
+      },
+      {
+        "action_name": "add_private_note",
+        "action_params": [
+          "Customer has a pricing inquiry \u2014 prioritize quick response."
+        ]
+      }
+    ],
+    "visibility": "global",
+    "created_at": "2025-05-13T11:38:31.862344",
+    "updated_at": "2025-06-25T20:41:23.312710"
+  },
+  {
+    "name": "API Support Routing",
+    "actions": [
+      {
+        "action_name": "assign_team",
+        "action_params": [
+          4
+        ]
+      },
+      {
+        "action_name": "add_label",
+        "action_params": [
+          "api_support"
+        ]
+      },
+      {
+        "action_name": "send_message",
+        "action_params": [
+          "Your API question is being reviewed by our technical specialists."
+        ]
+      },
+      {
+        "action_name": "add_private_note",
+        "action_params": [
+          "Customer reported an API integration question, assigned to tech lead."
+        ]
+      }
+    ],
+    "visibility": "global",
+    "created_at": "2025-03-05T01:29:30.490236",
+    "updated_at": "2025-05-09T11:24:44.156798"
+  },
+  {
+    "name": "VIP Customer: Priority Handling",
+    "actions": [
+      {
+        "action_name": "assign_team",
+        "action_params": [
+          6
+        ]
+      },
+      {
+        "action_name": "add_label",
+        "action_params": [
+          "vip_customer"
+        ]
+      },
+      {
+        "action_name": "change_priority",
+        "action_params": [
+          "high"
+        ]
+      },
+      {
+        "action_name": "send_message",
+        "action_params": [
+          "Thank you for reaching out. Your account has priority support and our senior team is assisting you."
+        ]
+      },
+      {
+        "action_name": "add_private_note",
+        "action_params": [
+          "VIP status confirmed; ensure timely and satisfactory resolution."
+        ]
+      }
+    ],
+    "visibility": "global",
+    "created_at": "2025-05-31T04:09:49.970002",
+    "updated_at": "2025-06-04T03:00:52.809377"
+  },
+  {
+    "name": "Bug Report Submission",
+    "actions": [
+      {
+        "action_name": "assign_team",
+        "action_params": [
+          5
+        ]
+      },
+      {
+        "action_name": "add_label",
+        "action_params": [
+          "bug_report"
+        ]
+      },
+      {
+        "action_name": "add_label",
+        "action_params": [
+          "technical_team"
+        ]
+      },
+      {
+        "action_name": "send_message",
+        "action_params": [
+          "Thank you for reporting this bug. Our engineering team is investigating and will update you soon."
+        ]
+      },
+      {
+        "action_name": "add_private_note",
+        "action_params": [
+          "Bug report submitted with logs attached. Triage for next sprint."
+        ]
+      }
+    ],
+    "visibility": "global",
+    "created_at": "2024-10-03T17:56:12.431383",
+    "updated_at": "2025-01-05T07:34:53.648861"
+  },
+  {
+    "name": "Account Setup: Welcome Package",
+    "actions": [
+      {
+        "action_name": "assign_team",
+        "action_params": [
+          3
+        ]
+      },
+      {
+        "action_name": "add_label",
+        "action_params": [
+          "account_setup"
+        ]
+      },
+      {
+        "action_name": "add_label",
+        "action_params": [
+          "onboarding"
+        ]
+      },
+      {
+        "action_name": "send_message",
+        "action_params": [
+          "Welcome to Acme Inc.! Here are helpful resources to get started. Let us know if you need further setup assistance."
+        ]
+      },
+      {
+        "action_name": "send_attachment",
+        "action_params": [
+          "https://acme-inc.com/help/welcome_guide.pdf"
+        ]
+      },
+      {
+        "action_name": "add_private_note",
+        "action_params": [
+          "Sent onboarding materials and setup guide to new customer."
+        ]
+      }
+    ],
+    "visibility": "global",
+    "created_at": "2025-02-17T02:55:43.326456",
+    "updated_at": "2025-05-16T17:15:00.451486"
+  },
+  {
+    "name": "Refund Request Handling",
+    "actions": [
+      {
+        "action_name": "assign_team",
+        "action_params": [
+          3
+        ]
+      },
+      {
+        "action_name": "add_label",
+        "action_params": [
+          "refund_request"
+        ]
+      },
+      {
+        "action_name": "send_message",
+        "action_params": [
+          "Your refund request has been sent to our billing department. We'll notify you once it's processed."
+        ]
+      },
+      {
+        "action_name": "add_private_note",
+        "action_params": [
+          "Log refund request and notify accounting. Track resolution timeline."
+        ]
+      }
+    ],
+    "visibility": "global",
+    "created_at": "2025-07-15T18:57:30.798959",
+    "updated_at": "2025-07-30T01:12:50.408500"
+  },
+  {
+    "name": "Sales Inquiry: Partner Opportunity",
+    "actions": [
+      {
+        "action_name": "assign_team",
+        "action_params": [
+          2
+        ]
+      },
+      {
+        "action_name": "add_label",
+        "action_params": [
+          "sales_inquiry"
+        ]
+      },
+      {
+        "action_name": "add_label",
+        "action_params": [
+          "partnership"
+        ]
+      },
+      {
+        "action_name": "send_message",
+        "action_params": [
+          "Thank you for your partnership inquiry! Our sales team will reach out to discuss collaboration opportunities."
+        ]
+      },
+      {
+        "action_name": "add_private_note",
+        "action_params": [
+          "Possible partner lead. Assign sales lead for outreach."
+        ]
+      }
+    ],
+    "visibility": "global",
+    "created_at": "2025-02-23T19:05:26.528375",
+    "updated_at": "2025-06-04T12:48:28.924287"
+  },
+  {
+    "name": "Product Team: Feature Request",
+    "actions": [
+      {
+        "action_name": "assign_team",
+        "action_params": [
+          4
+        ]
+      },
+      {
+        "action_name": "add_label",
+        "action_params": [
+          "feature_request"
+        ]
+      },
+      {
+        "action_name": "add_label",
+        "action_params": [
+          "product_team"
+        ]
+      },
+      {
+        "action_name": "add_private_note",
+        "action_params": [
+          "Customer submitted feature request. Add to feature tracker for product review."
+        ]
+      }
+    ],
+    "visibility": "global",
+    "created_at": "2025-07-21T17:39:19.441682",
+    "updated_at": "2025-08-02T12:03:21.368156"
+  },
+  {
+    "name": "Security Question: Escalate to Specialist",
+    "actions": [
+      {
+        "action_name": "assign_team",
+        "action_params": [
+          5
+        ]
+      },
+      {
+        "action_name": "add_label",
+        "action_params": [
+          "security_question"
+        ]
+      },
+      {
+        "action_name": "send_message",
+        "action_params": [
+          "Your security question is being reviewed by our security team. We'll update you shortly."
+        ]
+      },
+      {
+        "action_name": "add_private_note",
+        "action_params": [
+          "Sensitive case: security review required. Escalate and monitor closely."
+        ]
+      }
+    ],
+    "visibility": "global",
+    "created_at": "2025-07-10T23:08:32.916268",
+    "updated_at": "2025-07-19T23:48:01.924249"
+  },
+  {
+    "name": "Churn Risk: Customer Success Follow-up",
+    "actions": [
+      {
+        "action_name": "assign_team",
+        "action_params": [
+          3
+        ]
+      },
+      {
+        "action_name": "add_label",
+        "action_params": [
+          "churn_risk"
+        ]
+      },
+      {
+        "action_name": "snooze_conversation",
+        "action_params": [
+          10080
+        ]
+      },
+      {
+        "action_name": "add_private_note",
+        "action_params": [
+          "Customer at risk of churning; follow-up weekly until resolved. Offer incentives if appropriate."
+        ]
+      }
+    ],
+    "visibility": "global",
+    "created_at": "2025-01-21T07:24:09.454572",
+    "updated_at": "2025-03-18T22:57:19.793589"
+  },
+  {
+    "name": "Enterprise Client: Dedicated Manager Assignment",
+    "actions": [
+      {
+        "action_name": "assign_team",
+        "action_params": [
+          6
+        ]
+      },
+      {
+        "action_name": "add_label",
+        "action_params": [
+          "enterprise_client"
+        ]
+      },
+      {
+        "action_name": "send_message",
+        "action_params": [
+          "Thank you for reaching out! Your dedicated account manager will respond shortly to your query."
+        ]
+      },
+      {
+        "action_name": "add_private_note",
+        "action_params": [
+          "Enterprise client conversation flagged. Notify account manager."
+        ]
+      }
+    ],
+    "visibility": "global",
+    "created_at": "2024-11-06T23:22:28.553154",
+    "updated_at": "2025-06-06T19:19:17.692174"
+  },
+  {
+    "name": "Training Request: Schedule Session",
+    "actions": [
+      {
+        "action_name": "assign_team",
+        "action_params": [
+          3
+        ]
+      },
+      {
+        "action_name": "add_label",
+        "action_params": [
+          "training_request"
+        ]
+      },
+      {
+        "action_name": "send_message",
+        "action_params": [
+          "Thank you for requesting a training session. Our customer success team will arrange a time soon."
+        ]
+      },
+      {
+        "action_name": "add_private_note",
+        "action_params": [
+          "Customer interested in training. Propose dates and confirm attendance."
+        ]
+      }
+    ],
+    "visibility": "global",
+    "created_at": "2024-11-15T20:38:17.275056",
+    "updated_at": "2025-02-05T21:54:24.781057"
+  },
+  {
+    "name": "Data Export: Confirm Request",
+    "actions": [
+      {
+        "action_name": "assign_team",
+        "action_params": [
+          4
+        ]
+      },
+      {
+        "action_name": "add_label",
+        "action_params": [
+          "data_export"
+        ]
+      },
+      {
+        "action_name": "send_message",
+        "action_params": [
+          "Your data export request is in progress. We will notify you once it's complete."
+        ]
+      },
+      {
+        "action_name": "add_private_note",
+        "action_params": [
+          "Initiate data export process and monitor completion. Confirm customer notification on finish."
+        ]
+      }
+    ],
+    "visibility": "global",
+    "created_at": "2024-08-17T16:00:24.947877",
+    "updated_at": "2025-03-09T11:29:12.737722"
+  }
+]

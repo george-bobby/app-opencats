@@ -1,0 +1,737 @@
+[
+    {
+        "code": "DENIM20",
+        "type": "standard",
+        "is_automatic": false,
+        "campaign": {
+            "name": "Denim Days Sale",
+            "description": "$20 off premium denim collection",
+            "campaign_identifier": "DENIM_DAYS_2025",
+            "starts_at": null,
+            "ends_at": null,
+            "budget": {
+                "limit": 45000,
+                "type": "usage"
+            }
+        },
+        "promotion_config": {
+            "target_type": "items",
+            "allocation": "each",
+            "value_type": "fixed",
+            "value": 20,
+            "needs_currency": true,
+            "max_quantity": 3
+        }
+    },
+    {
+        "code": "NEWSTYLE15",
+        "type": "standard",
+        "is_automatic": false,
+        "campaign": {
+            "name": "New Arrivals Welcome",
+            "description": "$15 discount on new season styles",
+            "campaign_identifier": "NEW_ARRIVALS_SPRING_2025",
+            "starts_at": null,
+            "ends_at": null,
+            "budget": {
+                "limit": 60000,
+                "type": "usage"
+            }
+        },
+        "promotion_config": {
+            "target_type": "items",
+            "allocation": "each",
+            "value_type": "fixed",
+            "value": 15,
+            "needs_currency": true,
+            "max_quantity": 5
+        }
+    },
+    {
+        "code": "BASICS10",
+        "type": "standard",
+        "is_automatic": false,
+        "campaign": {
+            "name": "Essential Basics Sale",
+            "description": "$10 off wardrobe essentials and basic tees",
+            "campaign_identifier": "BASICS_ESSENTIALS_2025",
+            "starts_at": null,
+            "ends_at": null,
+            "budget": {
+                "limit": 35000,
+                "type": "usage"
+            }
+        },
+        "promotion_config": {
+            "target_type": "items",
+            "allocation": "each",
+            "value_type": "fixed",
+            "value": 10,
+            "needs_currency": true,
+            "max_quantity": 8
+        }
+    },
+    {
+        "code": "PREMIUM50",
+        "type": "standard",
+        "is_automatic": false,
+        "campaign": {
+            "name": "Premium Collection Event",
+            "description": "$50 off luxury and premium items",
+            "campaign_identifier": "PREMIUM_LUXURY_2025",
+            "starts_at": null,
+            "ends_at": null,
+            "budget": {
+                "limit": 125000,
+                "type": "usage"
+            }
+        },
+        "promotion_config": {
+            "target_type": "items",
+            "allocation": "each",
+            "value_type": "fixed",
+            "value": 50,
+            "needs_currency": true,
+            "max_quantity": 2
+        }
+    },
+    {
+        "code": "OUTERWEAR30",
+        "type": "standard",
+        "is_automatic": false,
+        "campaign": {
+            "name": "Outerwear Clearance",
+            "description": "$30 off jackets, coats, and outerwear",
+            "campaign_identifier": "OUTERWEAR_CLEAR_2025",
+            "starts_at": null,
+            "ends_at": null,
+            "budget": {
+                "limit": 80000,
+                "type": "usage"
+            }
+        },
+        "promotion_config": {
+            "target_type": "items",
+            "allocation": "each",
+            "value_type": "fixed",
+            "value": 30,
+            "needs_currency": true,
+            "max_quantity": 4
+        }
+    },
+    {
+        "code": "WELCOME50",
+        "type": "standard",
+        "is_automatic": false,
+        "campaign": {
+            "name": "New Customer Welcome",
+            "description": "Welcome discount for first-time shoppers on their entire order",
+            "campaign_identifier": "NEW_CUSTOMER_WELCOME_2025",
+            "starts_at": null,
+            "ends_at": null,
+            "budget": {
+                "limit": 100000,
+                "type": "usage"
+            }
+        },
+        "promotion_config": {
+            "target_type": "order",
+            "allocation": "across",
+            "value_type": "fixed",
+            "value": 50,
+            "needs_currency": true,
+            "max_quantity": null
+        }
+    },
+    {
+        "code": "SPRING25OFF",
+        "type": "standard",
+        "is_automatic": false,
+        "campaign": {
+            "name": "Spring Collection Launch",
+            "description": "Celebrate spring with $25 off your entire purchase",
+            "campaign_identifier": "SPRING_LAUNCH_2025",
+            "starts_at": null,
+            "ends_at": null,
+            "budget": {
+                "limit": 150000,
+                "type": "usage"
+            }
+        },
+        "promotion_config": {
+            "target_type": "order",
+            "allocation": "across",
+            "value_type": "fixed",
+            "value": 25,
+            "needs_currency": true,
+            "max_quantity": null
+        }
+    },
+    {
+        "code": "LOYALVIP75",
+        "type": "standard",
+        "is_automatic": false,
+        "campaign": {
+            "name": "VIP Loyalty Rewards",
+            "description": "Exclusive $75 discount for our most loyal customers",
+            "campaign_identifier": "VIP_LOYALTY_2025",
+            "starts_at": null,
+            "ends_at": null,
+            "budget": {
+                "limit": 250000,
+                "type": "usage"
+            }
+        },
+        "promotion_config": {
+            "target_type": "order",
+            "allocation": "across",
+            "value_type": "fixed",
+            "value": 75,
+            "needs_currency": true,
+            "max_quantity": null
+        }
+    },
+    {
+        "code": "FLASH40",
+        "type": "standard",
+        "is_automatic": false,
+        "campaign": {
+            "name": "48-Hour Flash Sale",
+            "description": "Limited time flash sale - $40 off any order",
+            "campaign_identifier": "FLASH_SALE_MARCH_2025",
+            "starts_at": null,
+            "ends_at": null,
+            "budget": {
+                "limit": 50000,
+                "type": "usage"
+            }
+        },
+        "promotion_config": {
+            "target_type": "order",
+            "allocation": "across",
+            "value_type": "fixed",
+            "value": 40,
+            "needs_currency": true,
+            "max_quantity": null
+        }
+    },
+    {
+        "code": "BIGSAVE100",
+        "type": "standard",
+        "is_automatic": false,
+        "campaign": {
+            "name": "Big Spender Bonus",
+            "description": "Save big with $100 off your entire order",
+            "campaign_identifier": "BIG_SPENDER_2025",
+            "starts_at": null,
+            "ends_at": null,
+            "budget": {
+                "limit": 200000,
+                "type": "usage"
+            }
+        },
+        "promotion_config": {
+            "target_type": "order",
+            "allocation": "across",
+            "value_type": "fixed",
+            "value": 100,
+            "needs_currency": true,
+            "max_quantity": null
+        }
+    },
+    {
+        "code": "FALLREFRESH30",
+        "type": "standard",
+        "is_automatic": false,
+        "campaign": {
+            "name": "Fall Wardrobe Refresh",
+            "description": "Refresh your closet with 30% off select fall styles",
+            "campaign_identifier": "FALL_REFRESH_2025",
+            "starts_at": null,
+            "ends_at": null,
+            "budget": {
+                "limit": 125000,
+                "type": "usage"
+            }
+        },
+        "promotion_config": {
+            "target_type": "items",
+            "allocation": "each",
+            "value_type": "percentage",
+            "value": 30,
+            "needs_currency": false,
+            "max_quantity": 4
+        }
+    },
+    {
+        "code": "MIDWEEK15",
+        "type": "standard",
+        "is_automatic": false,
+        "campaign": {
+            "name": "Wednesday Wardrobe Boost",
+            "description": "Mid-week pick-me-up with 15% off your favorite items",
+            "campaign_identifier": "MIDWEEK_BOOST_2025",
+            "starts_at": null,
+            "ends_at": null,
+            "budget": {
+                "limit": 45000,
+                "type": "usage"
+            }
+        },
+        "promotion_config": {
+            "target_type": "items",
+            "allocation": "each",
+            "value_type": "percentage",
+            "value": 15,
+            "needs_currency": false,
+            "max_quantity": 6
+        }
+    },
+    {
+        "code": "ESSENTIALS20",
+        "type": "standard",
+        "is_automatic": false,
+        "campaign": {
+            "name": "Closet Essentials Sale",
+            "description": "Save 20% on wardrobe staples and everyday essentials",
+            "campaign_identifier": "ESSENTIALS_SALE_2025",
+            "starts_at": null,
+            "ends_at": null,
+            "budget": {
+                "limit": 85000,
+                "type": "usage"
+            }
+        },
+        "promotion_config": {
+            "target_type": "items",
+            "allocation": "each",
+            "value_type": "percentage",
+            "value": 20,
+            "needs_currency": false,
+            "max_quantity": 8
+        }
+    },
+    {
+        "code": "TRENDSETTER45",
+        "type": "standard",
+        "is_automatic": false,
+        "campaign": {
+            "name": "Trendsetter Exclusive",
+            "description": "Exclusive 45% off trending styles for fashion-forward shoppers",
+            "campaign_identifier": "TRENDSETTER_EXCLUSIVE_2025",
+            "starts_at": null,
+            "ends_at": null,
+            "budget": {
+                "limit": 200000,
+                "type": "usage"
+            }
+        },
+        "promotion_config": {
+            "target_type": "items",
+            "allocation": "each",
+            "value_type": "percentage",
+            "value": 45,
+            "needs_currency": false,
+            "max_quantity": 3
+        }
+    },
+    {
+        "code": "STYLESAVE35",
+        "type": "standard",
+        "is_automatic": false,
+        "campaign": {
+            "name": "Style & Save Event",
+            "description": "Upgrade your style with 35% off premium clothing selections",
+            "campaign_identifier": "STYLE_SAVE_EVENT_2025",
+            "starts_at": null,
+            "ends_at": null,
+            "budget": {
+                "limit": 150000,
+                "type": "usage"
+            }
+        },
+        "promotion_config": {
+            "target_type": "items",
+            "allocation": "each",
+            "value_type": "percentage",
+            "value": 35,
+            "needs_currency": false,
+            "max_quantity": 5
+        }
+    },
+    {
+        "code": "SPRING20",
+        "type": "standard",
+        "is_automatic": true,
+        "campaign": {
+            "name": "Spring Collection Launch",
+            "description": "Automatic discount on all spring clothing orders",
+            "campaign_identifier": "SPRING_COLLECTION_2025",
+            "starts_at": null,
+            "ends_at": null,
+            "budget": {
+                "limit": 125000,
+                "type": "usage"
+            }
+        },
+        "promotion_config": {
+            "target_type": "order",
+            "allocation": "across",
+            "value_type": "percentage",
+            "value": 20,
+            "needs_currency": true,
+            "max_quantity": null
+        }
+    },
+    {
+        "code": "WEEKEND25",
+        "type": "standard",
+        "is_automatic": true,
+        "campaign": {
+            "name": "Weekend Wardrobe Refresh",
+            "description": "Automatic weekend discount on all clothing purchases",
+            "campaign_identifier": "WEEKEND_REFRESH_2025",
+            "starts_at": null,
+            "ends_at": null,
+            "budget": {
+                "limit": 85000,
+                "type": "usage"
+            }
+        },
+        "promotion_config": {
+            "target_type": "order",
+            "allocation": "across",
+            "value_type": "percentage",
+            "value": 25,
+            "needs_currency": true,
+            "max_quantity": null
+        }
+    },
+    {
+        "code": "CLEARANCE60",
+        "type": "standard",
+        "is_automatic": true,
+        "campaign": {
+            "name": "End of Season Clearance",
+            "description": "Automatic deep discount on clearance clothing items",
+            "campaign_identifier": "SEASON_CLEARANCE_2025",
+            "starts_at": null,
+            "ends_at": null,
+            "budget": {
+                "limit": 200000,
+                "type": "usage"
+            }
+        },
+        "promotion_config": {
+            "target_type": "order",
+            "allocation": "across",
+            "value_type": "percentage",
+            "value": 60,
+            "needs_currency": true,
+            "max_quantity": null
+        }
+    },
+    {
+        "code": "NEWSEASON15",
+        "type": "standard",
+        "is_automatic": true,
+        "campaign": {
+            "name": "New Season Welcome",
+            "description": "Automatic discount for new seasonal clothing arrivals",
+            "campaign_identifier": "NEW_SEASON_WELCOME_2025",
+            "starts_at": null,
+            "ends_at": null,
+            "budget": {
+                "limit": 95000,
+                "type": "usage"
+            }
+        },
+        "promotion_config": {
+            "target_type": "order",
+            "allocation": "across",
+            "value_type": "percentage",
+            "value": 15,
+            "needs_currency": true,
+            "max_quantity": null
+        }
+    },
+    {
+        "code": "LOYALREWARDS35",
+        "type": "standard",
+        "is_automatic": true,
+        "campaign": {
+            "name": "Loyalty Rewards Program",
+            "description": "Automatic discount for returning customers on all orders",
+            "campaign_identifier": "LOYALTY_REWARDS_2025",
+            "starts_at": null,
+            "ends_at": null,
+            "budget": {
+                "limit": 175000,
+                "type": "usage"
+            }
+        },
+        "promotion_config": {
+            "target_type": "order",
+            "allocation": "across",
+            "value_type": "percentage",
+            "value": 35,
+            "needs_currency": true,
+            "max_quantity": null
+        }
+    },
+    {
+        "code": "BOGO50DENIM",
+        "type": "buyget",
+        "is_automatic": false,
+        "campaign": {
+            "name": "Denim Days BOGO",
+            "description": "Buy one denim item, get second at 50% off",
+            "campaign_identifier": "DENIM_BOGO_2025",
+            "starts_at": null,
+            "ends_at": null,
+            "budget": {
+                "limit": 85000,
+                "type": "usage"
+            }
+        },
+        "promotion_config": {
+            "target_type": "items",
+            "allocation": "each",
+            "value_type": "percentage",
+            "value": 50,
+            "needs_currency": false,
+            "max_quantity": 3,
+            "is_buyget": true,
+            "buy_rules_min_quantity": 1,
+            "apply_to_quantity": 1
+        }
+    },
+    {
+        "code": "BUY2GET1FREE",
+        "type": "buyget",
+        "is_automatic": false,
+        "campaign": {
+            "name": "Buy 2 Get 1 Free Basics",
+            "description": "Purchase two basic items and receive third item free",
+            "campaign_identifier": "BASICS_B2G1_2025",
+            "starts_at": null,
+            "ends_at": null,
+            "budget": {
+                "limit": 120000,
+                "type": "usage"
+            }
+        },
+        "promotion_config": {
+            "target_type": "items",
+            "allocation": "each",
+            "value_type": "percentage",
+            "value": 100,
+            "needs_currency": false,
+            "max_quantity": 5,
+            "is_buyget": true,
+            "buy_rules_min_quantity": 2,
+            "apply_to_quantity": 1
+        }
+    },
+    {
+        "code": "TEES3FOR2",
+        "type": "buyget",
+        "is_automatic": false,
+        "campaign": {
+            "name": "T-Shirt Triple Deal",
+            "description": "Buy 3 t-shirts, pay for only 2",
+            "campaign_identifier": "TSHIRT_3FOR2_2025",
+            "starts_at": null,
+            "ends_at": null,
+            "budget": {
+                "limit": 65000,
+                "type": "usage"
+            }
+        },
+        "promotion_config": {
+            "target_type": "items",
+            "allocation": "each",
+            "value_type": "percentage",
+            "value": 100,
+            "needs_currency": false,
+            "max_quantity": 4,
+            "is_buyget": true,
+            "buy_rules_min_quantity": 3,
+            "apply_to_quantity": 1
+        }
+    },
+    {
+        "code": "ACTIVEWEAR40",
+        "type": "buyget",
+        "is_automatic": false,
+        "campaign": {
+            "name": "Activewear Buy One Get One 40% Off",
+            "description": "Purchase activewear and get second item at 40% discount",
+            "campaign_identifier": "ACTIVEWEAR_BOGO_2025",
+            "starts_at": null,
+            "ends_at": null,
+            "budget": {
+                "limit": 95000,
+                "type": "usage"
+            }
+        },
+        "promotion_config": {
+            "target_type": "items",
+            "allocation": "each",
+            "value_type": "percentage",
+            "value": 40,
+            "needs_currency": false,
+            "max_quantity": 2,
+            "is_buyget": true,
+            "buy_rules_min_quantity": 1,
+            "apply_to_quantity": 1
+        }
+    },
+    {
+        "code": "SHOES2NDPAIR",
+        "type": "buyget",
+        "is_automatic": false,
+        "campaign": {
+            "name": "Footwear Second Pair Deal",
+            "description": "Buy one pair of shoes, get second pair at 60% off",
+            "campaign_identifier": "FOOTWEAR_BOGO_2025",
+            "starts_at": null,
+            "ends_at": null,
+            "budget": {
+                "limit": 150000,
+                "type": "usage"
+            }
+        },
+        "promotion_config": {
+            "target_type": "items",
+            "allocation": "each",
+            "value_type": "percentage",
+            "value": 60,
+            "needs_currency": false,
+            "max_quantity": 2,
+            "is_buyget": true,
+            "buy_rules_min_quantity": 1,
+            "apply_to_quantity": 1
+        }
+    },
+    {
+        "code": "FREESHIP50",
+        "type": "standard",
+        "is_automatic": false,
+        "campaign": {
+            "name": "Free Shipping Spring Event",
+            "description": "50% off shipping for spring clothing collection launch",
+            "campaign_identifier": "SPRING_FREESHIP_2025",
+            "starts_at": null,
+            "ends_at": null,
+            "budget": {
+                "limit": 35000,
+                "type": "usage"
+            }
+        },
+        "promotion_config": {
+            "target_type": "shipping_methods",
+            "allocation": "across",
+            "value_type": "percentage",
+            "value": 50,
+            "needs_currency": false,
+            "max_quantity": null
+        }
+    },
+    {
+        "code": "SHIPNOW25",
+        "type": "standard",
+        "is_automatic": false,
+        "campaign": {
+            "name": "Flash Shipping Discount",
+            "description": "Limited time 25% off all shipping methods",
+            "campaign_identifier": "FLASH_SHIP_2025",
+            "starts_at": null,
+            "ends_at": null,
+            "budget": {
+                "limit": 20000,
+                "type": "usage"
+            }
+        },
+        "promotion_config": {
+            "target_type": "shipping_methods",
+            "allocation": "across",
+            "value_type": "percentage",
+            "value": 25,
+            "needs_currency": false,
+            "max_quantity": null
+        }
+    },
+    {
+        "code": "NEWSHIP75",
+        "type": "standard",
+        "is_automatic": false,
+        "campaign": {
+            "name": "New Customer Shipping Welcome",
+            "description": "75% shipping discount for first-time customers",
+            "campaign_identifier": "NEW_CUSTOMER_SHIP_2025",
+            "starts_at": null,
+            "ends_at": null,
+            "budget": {
+                "limit": 50000,
+                "type": "usage"
+            }
+        },
+        "promotion_config": {
+            "target_type": "shipping_methods",
+            "allocation": "across",
+            "value_type": "percentage",
+            "value": 75,
+            "needs_currency": false,
+            "max_quantity": null
+        }
+    },
+    {
+        "code": "EXPRESSSHIP30",
+        "type": "standard",
+        "is_automatic": false,
+        "campaign": {
+            "name": "Express Delivery Discount",
+            "description": "30% off express shipping for faster clothing delivery",
+            "campaign_identifier": "EXPRESS_SHIP_2025",
+            "starts_at": null,
+            "ends_at": null,
+            "budget": {
+                "limit": 45000,
+                "type": "usage"
+            }
+        },
+        "promotion_config": {
+            "target_type": "shipping_methods",
+            "allocation": "across",
+            "value_type": "percentage",
+            "value": 30,
+            "needs_currency": false,
+            "max_quantity": null
+        }
+    },
+    {
+        "code": "LOYALTY60",
+        "type": "standard",
+        "is_automatic": false,
+        "campaign": {
+            "name": "VIP Loyalty Shipping Rewards",
+            "description": "Exclusive 60% shipping discount for loyal customers",
+            "campaign_identifier": "LOYALTY_SHIP_2025",
+            "starts_at": null,
+            "ends_at": null,
+            "budget": {
+                "limit": 80000,
+                "type": "usage"
+            }
+        },
+        "promotion_config": {
+            "target_type": "shipping_methods",
+            "allocation": "across",
+            "value_type": "percentage",
+            "value": 60,
+            "needs_currency": false,
+            "max_quantity": null
+        }
+    }
+]

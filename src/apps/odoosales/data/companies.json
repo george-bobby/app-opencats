@@ -1,0 +1,1647 @@
+[
+    {
+        "name": "GreenFields Organic Produce",
+        "email": "contact@greenfieldsorganic.com",
+        "primary_address": {
+            "contact_name": "Emily Johnson",
+            "email": "ejohnson@greenfieldsorganic.com",
+            "street": "4527 Farmstead Lane",
+            "city": "Salinas",
+            "state": "California",
+            "zip_code": "93901",
+            "note": null
+        },
+        "industry": "Agriculture",
+        "category": "Partner",
+        "vat": "94-1234567",
+        "website": "https://www.greenfieldsorganic.com",
+        "note": "Specializes in organic fruits and vegetables distribution.",
+        "delivery_address": {
+            "contact_name": "Emily Johnson",
+            "email": "ejohnson@greenfieldsorganic.com",
+            "street": "4527 Farmstead Lane",
+            "city": "Salinas",
+            "state": "California",
+            "zip_code": "93901",
+            "note": "Back dock entrance"
+        },
+        "invoice_address": {
+            "contact_name": "Emily Johnson",
+            "email": "billing@greenfieldsorganic.com",
+            "street": "4527 Farmstead Lane",
+            "city": "Salinas",
+            "state": "California",
+            "zip_code": "93901",
+            "note": "Accounts payable department"
+        },
+        "linked_contact": {
+            "name": "Emily Johnson",
+            "title": "Miss",
+            "job_position": "Operations Manager",
+            "email": "ejohnson@greenfieldsorganic.com",
+            "note": null
+        },
+        "primary_bank_account": {
+            "bank_name": "Wells Fargo Bank",
+            "account_number": "123456789012"
+        }
+    },
+    {
+        "name": "MetroTech Solutions",
+        "email": "info@metrotechsolutions.com",
+        "primary_address": {
+            "contact_name": "James Carter",
+            "email": "jcarter@metrotechsolutions.com",
+            "street": "1201 Innovation Drive",
+            "city": "Austin",
+            "state": "Texas",
+            "zip_code": "78701",
+            "note": null
+        },
+        "industry": "Technology",
+        "category": "Prospect",
+        "vat": "74-9876543",
+        "website": "https://www.metrotechsolutions.com",
+        "note": "Provides software and hardware IT solutions for SMEs.",
+        "delivery_address": {
+            "contact_name": "James Carter",
+            "email": "jcarter@metrotechsolutions.com",
+            "street": "1201 Innovation Drive",
+            "city": "Austin",
+            "state": "Texas",
+            "zip_code": "78701",
+            "note": "Main receiving dock"
+        },
+        "invoice_address": {
+            "contact_name": "James Carter",
+            "email": "billing@metrotechsolutions.com",
+            "street": "1201 Innovation Drive",
+            "city": "Austin",
+            "state": "Texas",
+            "zip_code": "78701",
+            "note": "Finance department"
+        },
+        "linked_contact": {
+            "name": "James Carter",
+            "title": "Mister",
+            "job_position": "Chief Technology Officer",
+            "email": "jcarter@metrotechsolutions.com",
+            "note": null
+        },
+        "primary_bank_account": {
+            "bank_name": "JPMorgan Chase Bank",
+            "account_number": "987654321098"
+        }
+    },
+    {
+        "name": "Sunshine Retailers",
+        "email": "contact@sunshineretailers.com",
+        "primary_address": {
+            "contact_name": "Linda Perry",
+            "email": "lperry@sunshineretailers.com",
+            "street": "789 Market Street",
+            "city": "Seattle",
+            "state": "Washington",
+            "zip_code": "98101",
+            "note": null
+        },
+        "industry": "Retail",
+        "category": "VIP",
+        "vat": "91-2233445",
+        "website": "https://www.sunshineretailers.com",
+        "note": "Operates a chain of retail stores across the Pacific Northwest.",
+        "delivery_address": {
+            "contact_name": "Linda Perry",
+            "email": "lperry@sunshineretailers.com",
+            "street": "789 Market Street",
+            "city": "Seattle",
+            "state": "Washington",
+            "zip_code": "98101",
+            "note": "Front entrance delivery"
+        },
+        "invoice_address": {
+            "contact_name": "Linda Perry",
+            "email": "billing@sunshineretailers.com",
+            "street": "789 Market Street",
+            "city": "Seattle",
+            "state": "Washington",
+            "zip_code": "98101",
+            "note": "Accounting office"
+        },
+        "linked_contact": {
+            "name": "Linda Perry",
+            "title": "Madam",
+            "job_position": "General Manager",
+            "email": "lperry@sunshineretailers.com",
+            "note": null
+        },
+        "primary_bank_account": {
+            "bank_name": "Bank of America",
+            "account_number": "234567890123"
+        }
+    },
+    {
+        "name": "HealthFirst Pharmaceuticals",
+        "email": "info@healthfirstpharma.com",
+        "primary_address": {
+            "contact_name": "Dr. Michael Stevens",
+            "email": "mstevens@healthfirstpharma.com",
+            "street": "1500 Medical Plaza",
+            "city": "Raleigh",
+            "state": "North Carolina",
+            "zip_code": "27607",
+            "note": null
+        },
+        "industry": "Pharmaceutical",
+        "category": "Investor",
+        "vat": "58-3344556",
+        "website": "https://www.healthfirstpharma.com",
+        "note": "Develops and distributes generic pharmaceutical products.",
+        "delivery_address": {
+            "contact_name": "Dr. Michael Stevens",
+            "email": "mstevens@healthfirstpharma.com",
+            "street": "1500 Medical Plaza",
+            "city": "Raleigh",
+            "state": "North Carolina",
+            "zip_code": "27607",
+            "note": "Loading dock B"
+        },
+        "invoice_address": {
+            "contact_name": "Dr. Michael Stevens",
+            "email": "billing@healthfirstpharma.com",
+            "street": "1500 Medical Plaza",
+            "city": "Raleigh",
+            "state": "North Carolina",
+            "zip_code": "27607",
+            "note": "Finance department"
+        },
+        "linked_contact": {
+            "name": "Dr. Michael Stevens",
+            "title": "Mister",
+            "job_position": "Head of Research",
+            "email": "mstevens@healthfirstpharma.com",
+            "note": null
+        },
+        "primary_bank_account": {
+            "bank_name": "Citibank",
+            "account_number": "345678901234"
+        }
+    },
+    {
+        "name": "Evergreen Construction Co.",
+        "email": "contact@evergreenconstruction.com",
+        "primary_address": {
+            "contact_name": "Rachel Green",
+            "email": "rgreen@evergreenconstruction.com",
+            "street": "321 Builder Blvd",
+            "city": "Denver",
+            "state": "Colorado",
+            "zip_code": "80202",
+            "note": null
+        },
+        "industry": "Construction",
+        "category": "Consultant",
+        "vat": "84-5566778",
+        "website": "https://www.evergreenconstruction.com",
+        "note": "Specializes in eco-friendly residential construction.",
+        "delivery_address": {
+            "contact_name": "Rachel Green",
+            "email": "rgreen@evergreenconstruction.com",
+            "street": "321 Builder Blvd",
+            "city": "Denver",
+            "state": "Colorado",
+            "zip_code": "80202",
+            "note": "Construction materials entrance"
+        },
+        "invoice_address": {
+            "contact_name": "Rachel Green",
+            "email": "billing@evergreenconstruction.com",
+            "street": "321 Builder Blvd",
+            "city": "Denver",
+            "state": "Colorado",
+            "zip_code": "80202",
+            "note": "Accounts payable"
+        },
+        "linked_contact": {
+            "name": "Rachel Green",
+            "title": "Miss",
+            "job_position": "Project Manager",
+            "email": "rgreen@evergreenconstruction.com",
+            "note": null
+        },
+        "primary_bank_account": {
+            "bank_name": "PNC Bank",
+            "account_number": "456789012345"
+        }
+    },
+    {
+        "name": "BlueWave Transportation",
+        "email": "info@bluewavetransport.com",
+        "primary_address": {
+            "contact_name": "Carlos Ramirez",
+            "email": "cramirez@bluewavetransport.com",
+            "street": "778 Logistics Parkway",
+            "city": "Memphis",
+            "state": "Tennessee",
+            "zip_code": "38103",
+            "note": null
+        },
+        "industry": "Transportation",
+        "category": "Sponsor",
+        "vat": "63-1122334",
+        "website": "https://www.bluewavetransport.com",
+        "note": "Provides regional freight and logistics services.",
+        "delivery_address": {
+            "contact_name": "Carlos Ramirez",
+            "email": "cramirez@bluewavetransport.com",
+            "street": "778 Logistics Parkway",
+            "city": "Memphis",
+            "state": "Tennessee",
+            "zip_code": "38103",
+            "note": "Dock 4"
+        },
+        "invoice_address": {
+            "contact_name": "Carlos Ramirez",
+            "email": "billing@bluewavetransport.com",
+            "street": "778 Logistics Parkway",
+            "city": "Memphis",
+            "state": "Tennessee",
+            "zip_code": "38103",
+            "note": "Finance office"
+        },
+        "linked_contact": {
+            "name": "Carlos Ramirez",
+            "title": "Mister",
+            "job_position": "Operations Director",
+            "email": "cramirez@bluewavetransport.com",
+            "note": null
+        },
+        "primary_bank_account": {
+            "bank_name": "U.S. Bank",
+            "account_number": "567890123456"
+        }
+    },
+    {
+        "name": "BrightFuture Education",
+        "email": "contact@brightfutureedu.org",
+        "primary_address": {
+            "contact_name": "Sarah Mitchell",
+            "email": "smitchell@brightfutureedu.org",
+            "street": "250 Learning Way",
+            "city": "Madison",
+            "state": "Wisconsin",
+            "zip_code": "53703",
+            "note": null
+        },
+        "industry": "Education",
+        "category": "Volunteer",
+        "vat": "39-4455667",
+        "website": "https://www.brightfutureedu.org",
+        "note": "Nonprofit focused on K-12 educational resources.",
+        "delivery_address": {
+            "contact_name": "Sarah Mitchell",
+            "email": "smitchell@brightfutureedu.org",
+            "street": "250 Learning Way",
+            "city": "Madison",
+            "state": "Wisconsin",
+            "zip_code": "53703",
+            "note": "Receiving entrance"
+        },
+        "invoice_address": {
+            "contact_name": "Sarah Mitchell",
+            "email": "billing@brightfutureedu.org",
+            "street": "250 Learning Way",
+            "city": "Madison",
+            "state": "Wisconsin",
+            "zip_code": "53703",
+            "note": "Accounting department"
+        },
+        "linked_contact": {
+            "name": "Sarah Mitchell",
+            "title": "Madam",
+            "job_position": "Program Coordinator",
+            "email": "smitchell@brightfutureedu.org",
+            "note": null
+        },
+        "primary_bank_account": {
+            "bank_name": "KeyBank",
+            "account_number": "678901234567"
+        }
+    },
+    {
+        "name": "Silverline Media Group",
+        "email": "info@silverlinemedia.com",
+        "primary_address": {
+            "contact_name": "David Lee",
+            "email": "dlee@silverlinemedia.com",
+            "street": "400 Broadcast Blvd",
+            "city": "Atlanta",
+            "state": "Georgia",
+            "zip_code": "30303",
+            "note": null
+        },
+        "industry": "Media",
+        "category": "Industry Expert",
+        "vat": "27-7788990",
+        "website": "https://www.silverlinemedia.com",
+        "note": "Specializes in digital marketing and broadcasting.",
+        "delivery_address": {
+            "contact_name": "David Lee",
+            "email": "dlee@silverlinemedia.com",
+            "street": "400 Broadcast Blvd",
+            "city": "Atlanta",
+            "state": "Georgia",
+            "zip_code": "30303",
+            "note": "Main studio entrance"
+        },
+        "invoice_address": {
+            "contact_name": "David Lee",
+            "email": "billing@silverlinemedia.com",
+            "street": "400 Broadcast Blvd",
+            "city": "Atlanta",
+            "state": "Georgia",
+            "zip_code": "30303",
+            "note": "Billing office"
+        },
+        "linked_contact": {
+            "name": "David Lee",
+            "title": "Mister",
+            "job_position": "Creative Director",
+            "email": "dlee@silverlinemedia.com",
+            "note": null
+        },
+        "primary_bank_account": {
+            "bank_name": "Capital One Bank",
+            "account_number": "789012345678"
+        }
+    },
+    {
+        "name": "Quantum Biotech",
+        "email": "contact@quantumbiotech.com",
+        "primary_address": {
+            "contact_name": "Dr. Lisa Wong",
+            "email": "lwong@quantumbiotech.com",
+            "street": "123 Science Park",
+            "city": "Cambridge",
+            "state": "Massachusetts",
+            "zip_code": "02139",
+            "note": null
+        },
+        "industry": "Biotechnology",
+        "category": "Investor",
+        "vat": "52-6677889",
+        "website": "https://www.quantumbiotech.com",
+        "note": "Researches and develops biotech medical solutions.",
+        "delivery_address": {
+            "contact_name": "Dr. Lisa Wong",
+            "email": "lwong@quantumbiotech.com",
+            "street": "123 Science Park",
+            "city": "Cambridge",
+            "state": "Massachusetts",
+            "zip_code": "02139",
+            "note": "Receiving dock A"
+        },
+        "invoice_address": {
+            "contact_name": "Dr. Lisa Wong",
+            "email": "billing@quantumbiotech.com",
+            "street": "123 Science Park",
+            "city": "Cambridge",
+            "state": "Massachusetts",
+            "zip_code": "02139",
+            "note": "Finance department"
+        },
+        "linked_contact": {
+            "name": "Dr. Lisa Wong",
+            "title": "Miss",
+            "job_position": "Chief Scientist",
+            "email": "lwong@quantumbiotech.com",
+            "note": null
+        },
+        "primary_bank_account": {
+            "bank_name": "Goldman Sachs Bank USA",
+            "account_number": "890123456789"
+        }
+    },
+    {
+        "name": "Cityscape Real Estate",
+        "email": "info@cityscaperealestate.com",
+        "primary_address": {
+            "contact_name": "Mark Thompson",
+            "email": "mthompson@cityscaperealestate.com",
+            "street": "500 Commerce St",
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip_code": "60606",
+            "note": null
+        },
+        "industry": "Real Estate",
+        "category": "Referral",
+        "vat": "36-9988776",
+        "website": "https://www.cityscaperealestate.com",
+        "note": "Commercial and residential property brokerage.",
+        "delivery_address": {
+            "contact_name": "Mark Thompson",
+            "email": "mthompson@cityscaperealestate.com",
+            "street": "500 Commerce St",
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip_code": "60606",
+            "note": "Main office"
+        },
+        "invoice_address": {
+            "contact_name": "Mark Thompson",
+            "email": "billing@cityscaperealestate.com",
+            "street": "500 Commerce St",
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip_code": "60606",
+            "note": "Accounting office"
+        },
+        "linked_contact": {
+            "name": "Mark Thompson",
+            "title": "Mister",
+            "job_position": "Senior Broker",
+            "email": "mthompson@cityscaperealestate.com",
+            "note": null
+        },
+        "primary_bank_account": {
+            "bank_name": "Bank of New York Mellon",
+            "account_number": "901234567890"
+        }
+    },
+    {
+        "name": "EcoEnergy Solutions",
+        "email": "contact@ecoenergysolutions.com",
+        "primary_address": {
+            "contact_name": "Anna Kim",
+            "email": "akim@ecoenergysolutions.com",
+            "street": "850 Greenway Drive",
+            "city": "Portland",
+            "state": "Oregon",
+            "zip_code": "97205",
+            "note": null
+        },
+        "industry": "Energy",
+        "category": "Consultant",
+        "vat": "48-3344221",
+        "website": "https://www.ecoenergysolutions.com",
+        "note": "Renewable energy installations and consulting.",
+        "delivery_address": {
+            "contact_name": "Anna Kim",
+            "email": "akim@ecoenergysolutions.com",
+            "street": "850 Greenway Drive",
+            "city": "Portland",
+            "state": "Oregon",
+            "zip_code": "97205",
+            "note": "Warehouse dock"
+        },
+        "invoice_address": {
+            "contact_name": "Anna Kim",
+            "email": "billing@ecoenergysolutions.com",
+            "street": "850 Greenway Drive",
+            "city": "Portland",
+            "state": "Oregon",
+            "zip_code": "97205",
+            "note": "Financial office"
+        },
+        "linked_contact": {
+            "name": "Anna Kim",
+            "title": "Miss",
+            "job_position": "Energy Consultant",
+            "email": "akim@ecoenergysolutions.com",
+            "note": null
+        },
+        "primary_bank_account": {
+            "bank_name": "Regions Bank",
+            "account_number": "112233445566"
+        }
+    },
+    {
+        "name": "Skyline Automotive",
+        "email": "sales@skylineauto.com",
+        "primary_address": {
+            "contact_name": "Robert Miller",
+            "email": "rmiller@skylineauto.com",
+            "street": "99 Motorway Blvd",
+            "city": "Detroit",
+            "state": "Michigan",
+            "zip_code": "48226",
+            "note": null
+        },
+        "industry": "Automotive",
+        "category": "Brand Ambassador",
+        "vat": "41-5566123",
+        "website": "https://www.skylineauto.com",
+        "note": "Manufacturer and dealer of electric vehicles.",
+        "delivery_address": {
+            "contact_name": "Robert Miller",
+            "email": "rmiller@skylineauto.com",
+            "street": "99 Motorway Blvd",
+            "city": "Detroit",
+            "state": "Michigan",
+            "zip_code": "48226",
+            "note": "Parts receiving entrance"
+        },
+        "invoice_address": {
+            "contact_name": "Robert Miller",
+            "email": "billing@skylineauto.com",
+            "street": "99 Motorway Blvd",
+            "city": "Detroit",
+            "state": "Michigan",
+            "zip_code": "48226",
+            "note": "Accounting department"
+        },
+        "linked_contact": {
+            "name": "Robert Miller",
+            "title": "Mister",
+            "job_position": "Sales Director",
+            "email": "rmiller@skylineauto.com",
+            "note": null
+        },
+        "primary_bank_account": {
+            "bank_name": "Fifth Third Bank",
+            "account_number": "223344556677"
+        }
+    },
+    {
+        "name": "Urban Hospitality Group",
+        "email": "contact@urbanhospitality.com",
+        "primary_address": {
+            "contact_name": "Jessica Turner",
+            "email": "jturner@urbanhospitality.com",
+            "street": "2200 Hospitality Lane",
+            "city": "Las Vegas",
+            "state": "Nevada",
+            "zip_code": "89109",
+            "note": null
+        },
+        "industry": "Hospitality",
+        "category": "Event Attendee",
+        "vat": "60-7788990",
+        "website": "https://www.urbanhospitality.com",
+        "note": "Operates boutique hotels and event venues.",
+        "delivery_address": {
+            "contact_name": "Jessica Turner",
+            "email": "jturner@urbanhospitality.com",
+            "street": "2200 Hospitality Lane",
+            "city": "Las Vegas",
+            "state": "Nevada",
+            "zip_code": "89109",
+            "note": "Main delivery entrance"
+        },
+        "invoice_address": {
+            "contact_name": "Jessica Turner",
+            "email": "billing@urbanhospitality.com",
+            "street": "2200 Hospitality Lane",
+            "city": "Las Vegas",
+            "state": "Nevada",
+            "zip_code": "89109",
+            "note": "Finance office"
+        },
+        "linked_contact": {
+            "name": "Jessica Turner",
+            "title": "Madam",
+            "job_position": "Event Manager",
+            "email": "jturner@urbanhospitality.com",
+            "note": null
+        },
+        "primary_bank_account": {
+            "bank_name": "Truist Bank",
+            "account_number": "334455667788"
+        }
+    },
+    {
+        "name": "Pioneer Chemical Corp.",
+        "email": "info@pioneerchem.com",
+        "primary_address": {
+            "contact_name": "Steven Brooks",
+            "email": "sbrooks@pioneerchem.com",
+            "street": "500 Industrial Way",
+            "city": "Houston",
+            "state": "Texas",
+            "zip_code": "77002",
+            "note": null
+        },
+        "industry": "Chemical",
+        "category": "Sponsor",
+        "vat": "72-9988001",
+        "website": "https://www.pioneerchem.com",
+        "note": "Produces industrial chemical products for manufacturing.",
+        "delivery_address": {
+            "contact_name": "Steven Brooks",
+            "email": "sbrooks@pioneerchem.com",
+            "street": "500 Industrial Way",
+            "city": "Houston",
+            "state": "Texas",
+            "zip_code": "77002",
+            "note": "Chemical storage yard"
+        },
+        "invoice_address": {
+            "contact_name": "Steven Brooks",
+            "email": "billing@pioneerchem.com",
+            "street": "500 Industrial Way",
+            "city": "Houston",
+            "state": "Texas",
+            "zip_code": "77002",
+            "note": "Accounts payable"
+        },
+        "linked_contact": {
+            "name": "Steven Brooks",
+            "title": "Mister",
+            "job_position": "Plant Manager",
+            "email": "sbrooks@pioneerchem.com",
+            "note": null
+        },
+        "primary_bank_account": {
+            "bank_name": "Citizens Bank",
+            "account_number": "445566778899"
+        }
+    },
+    {
+        "name": "Skyward Aerospace",
+        "email": "contact@skywardaero.com",
+        "primary_address": {
+            "contact_name": "Karen Black",
+            "email": "kblack@skywardaero.com",
+            "street": "108 Aerospace Drive",
+            "city": "Seattle",
+            "state": "Washington",
+            "zip_code": "98108",
+            "note": null
+        },
+        "industry": "Aerospace",
+        "category": "Investor",
+        "vat": "65-1122443",
+        "website": "https://www.skywardaero.com",
+        "note": "Designs and manufactures commercial aircraft components.",
+        "delivery_address": {
+            "contact_name": "Karen Black",
+            "email": "kblack@skywardaero.com",
+            "street": "108 Aerospace Drive",
+            "city": "Seattle",
+            "state": "Washington",
+            "zip_code": "98108",
+            "note": "Parts receiving bay"
+        },
+        "invoice_address": {
+            "contact_name": "Karen Black",
+            "email": "billing@skywardaero.com",
+            "street": "108 Aerospace Drive",
+            "city": "Seattle",
+            "state": "Washington",
+            "zip_code": "98108",
+            "note": "Finance department"
+        },
+        "linked_contact": {
+            "name": "Karen Black",
+            "title": "Madam",
+            "job_position": "Chief Engineer",
+            "email": "kblack@skywardaero.com",
+            "note": null
+        },
+        "primary_bank_account": {
+            "bank_name": "TD Bank, N.A.",
+            "account_number": "556677889900"
+        }
+    },
+    {
+        "name": "NextGen Finance Partners",
+        "email": "info@nextgenfinance.com",
+        "primary_address": {
+            "contact_name": "Paul Edwards",
+            "email": "pedwards@nextgenfinance.com",
+            "street": "200 Wall Street",
+            "city": "New York",
+            "state": "New York",
+            "zip_code": "10005",
+            "note": null
+        },
+        "industry": "Finance",
+        "category": "Consultant",
+        "vat": "11-2233445",
+        "website": "https://www.nextgenfinance.com",
+        "note": "Financial advisory and investment services.",
+        "delivery_address": {
+            "contact_name": "Paul Edwards",
+            "email": "pedwards@nextgenfinance.com",
+            "street": "200 Wall Street",
+            "city": "New York",
+            "state": "New York",
+            "zip_code": "10005",
+            "note": "Main lobby"
+        },
+        "invoice_address": {
+            "contact_name": "Paul Edwards",
+            "email": "billing@nextgenfinance.com",
+            "street": "200 Wall Street",
+            "city": "New York",
+            "state": "New York",
+            "zip_code": "10005",
+            "note": "Billing department"
+        },
+        "linked_contact": {
+            "name": "Paul Edwards",
+            "title": "Mister",
+            "job_position": "Senior Financial Advisor",
+            "email": "pedwards@nextgenfinance.com",
+            "note": null
+        },
+        "primary_bank_account": {
+            "bank_name": "Bank of America",
+            "account_number": "667788990011"
+        }
+    },
+    {
+        "name": "FreshMart Grocery Stores",
+        "email": "service@freshmart.com",
+        "primary_address": {
+            "contact_name": "Anna Lopez",
+            "email": "alopez@freshmart.com",
+            "street": "654 Grocery Lane",
+            "city": "Miami",
+            "state": "Florida",
+            "zip_code": "33101",
+            "note": null
+        },
+        "industry": "Retail",
+        "category": "Advocate",
+        "vat": "23-3344556",
+        "website": "https://www.freshmart.com",
+        "note": "Regional chain of grocery stores focusing on fresh products.",
+        "delivery_address": {
+            "contact_name": "Anna Lopez",
+            "email": "alopez@freshmart.com",
+            "street": "654 Grocery Lane",
+            "city": "Miami",
+            "state": "Florida",
+            "zip_code": "33101",
+            "note": "Receiving dock 2"
+        },
+        "invoice_address": {
+            "contact_name": "Anna Lopez",
+            "email": "billing@freshmart.com",
+            "street": "654 Grocery Lane",
+            "city": "Miami",
+            "state": "Florida",
+            "zip_code": "33101",
+            "note": "Finance office"
+        },
+        "linked_contact": {
+            "name": "Anna Lopez",
+            "title": "Miss",
+            "job_position": "Store Manager",
+            "email": "alopez@freshmart.com",
+            "note": null
+        },
+        "primary_bank_account": {
+            "bank_name": "Santander Bank, N.A.",
+            "account_number": "778899001122"
+        }
+    },
+    {
+        "name": "Elite Consulting Group",
+        "email": "contact@eliteconsulting.com",
+        "primary_address": {
+            "contact_name": "George Simmons",
+            "email": "gsimmons@eliteconsulting.com",
+            "street": "900 Business Park",
+            "city": "Charlotte",
+            "state": "North Carolina",
+            "zip_code": "28202",
+            "note": null
+        },
+        "industry": "Consulting",
+        "category": "Consultant",
+        "vat": "40-5566778",
+        "website": "https://www.eliteconsulting.com",
+        "note": "Business management and strategy consulting services.",
+        "delivery_address": {
+            "contact_name": "George Simmons",
+            "email": "gsimmons@eliteconsulting.com",
+            "street": "900 Business Park",
+            "city": "Charlotte",
+            "state": "North Carolina",
+            "zip_code": "28202",
+            "note": "Client entrance"
+        },
+        "invoice_address": {
+            "contact_name": "George Simmons",
+            "email": "billing@eliteconsulting.com",
+            "street": "900 Business Park",
+            "city": "Charlotte",
+            "state": "North Carolina",
+            "zip_code": "28202",
+            "note": "Accounting office"
+        },
+        "linked_contact": {
+            "name": "George Simmons",
+            "title": "Mister",
+            "job_position": "Senior Consultant",
+            "email": "gsimmons@eliteconsulting.com",
+            "note": null
+        },
+        "primary_bank_account": {
+            "bank_name": "Charles Schwab Bank",
+            "account_number": "889900112233"
+        }
+    },
+    {
+        "name": "Harmony Healthcare Services",
+        "email": "info@harmonyhealthcare.com",
+        "primary_address": {
+            "contact_name": "Nancy White",
+            "email": "nwhite@harmonyhealthcare.com",
+            "street": "310 Wellness Blvd",
+            "city": "Minneapolis",
+            "state": "Minnesota",
+            "zip_code": "55401",
+            "note": null
+        },
+        "industry": "Healthcare",
+        "category": "Volunteer",
+        "vat": "55-6677889",
+        "website": "https://www.harmonyhealthcare.com",
+        "note": "Provides home healthcare and nursing services.",
+        "delivery_address": {
+            "contact_name": "Nancy White",
+            "email": "nwhite@harmonyhealthcare.com",
+            "street": "310 Wellness Blvd",
+            "city": "Minneapolis",
+            "state": "Minnesota",
+            "zip_code": "55401",
+            "note": "Main entrance"
+        },
+        "invoice_address": {
+            "contact_name": "Nancy White",
+            "email": "billing@harmonyhealthcare.com",
+            "street": "310 Wellness Blvd",
+            "city": "Minneapolis",
+            "state": "Minnesota",
+            "zip_code": "55401",
+            "note": "Finance department"
+        },
+        "linked_contact": {
+            "name": "Nancy White",
+            "title": "Madam",
+            "job_position": "Director of Nursing",
+            "email": "nwhite@harmonyhealthcare.com",
+            "note": null
+        },
+        "primary_bank_account": {
+            "bank_name": "M&T Bank",
+            "account_number": "990011223344"
+        }
+    },
+    {
+        "name": "Pace Telecommunications",
+        "email": "support@pacetel.com",
+        "primary_address": {
+            "contact_name": "Tom Bennett",
+            "email": "tbennett@pacetel.com",
+            "street": "455 Signal Road",
+            "city": "Raleigh",
+            "state": "North Carolina",
+            "zip_code": "27609",
+            "note": null
+        },
+        "industry": "Telecommunications",
+        "category": "Social Media",
+        "vat": "57-7788991",
+        "website": "https://www.pacetel.com",
+        "note": "Offers wireless and broadband services in the Southeast.",
+        "delivery_address": {
+            "contact_name": "Tom Bennett",
+            "email": "tbennett@pacetel.com",
+            "street": "455 Signal Road",
+            "city": "Raleigh",
+            "state": "North Carolina",
+            "zip_code": "27609",
+            "note": "Tech equipment delivery"
+        },
+        "invoice_address": {
+            "contact_name": "Tom Bennett",
+            "email": "billing@pacetel.com",
+            "street": "455 Signal Road",
+            "city": "Raleigh",
+            "state": "North Carolina",
+            "zip_code": "27609",
+            "note": "Billing department"
+        },
+        "linked_contact": {
+            "name": "Tom Bennett",
+            "title": "Mister",
+            "job_position": "Network Engineer",
+            "email": "tbennett@pacetel.com",
+            "note": null
+        },
+        "primary_bank_account": {
+            "bank_name": "Bank of the West",
+            "account_number": "101112131415"
+        }
+    },
+    {
+        "name": "FreshBrew Coffee Roasters",
+        "email": "contact@freshbrewcoffee.com",
+        "primary_address": {
+            "contact_name": "Olivia Davis",
+            "email": "odavis@freshbrewcoffee.com",
+            "street": "230 Coffee Lane",
+            "city": "Portland",
+            "state": "Oregon",
+            "zip_code": "97214",
+            "note": null
+        },
+        "industry": "Manufacturing",
+        "category": "Brand Ambassador",
+        "vat": "46-5566778",
+        "website": "https://www.freshbrewcoffee.com",
+        "note": "Roasts and distributes specialty coffee beans.",
+        "delivery_address": {
+            "contact_name": "Olivia Davis",
+            "email": "odavis@freshbrewcoffee.com",
+            "street": "230 Coffee Lane",
+            "city": "Portland",
+            "state": "Oregon",
+            "zip_code": "97214",
+            "note": "Loading dock"
+        },
+        "invoice_address": {
+            "contact_name": "Olivia Davis",
+            "email": "billing@freshbrewcoffee.com",
+            "street": "230 Coffee Lane",
+            "city": "Portland",
+            "state": "Oregon",
+            "zip_code": "97214",
+            "note": "Accounting office"
+        },
+        "linked_contact": {
+            "name": "Olivia Davis",
+            "title": "Miss",
+            "job_position": "Marketing Manager",
+            "email": "odavis@freshbrewcoffee.com",
+            "note": null
+        },
+        "primary_bank_account": {
+            "bank_name": "Ally Bank",
+            "account_number": "121314151617"
+        }
+    },
+    {
+        "name": "Summit Construction Services",
+        "email": "info@summitconstruct.com",
+        "primary_address": {
+            "contact_name": "Brian Clark",
+            "email": "bclark@summitconstruct.com",
+            "street": "410 Builder's Road",
+            "city": "Salt Lake City",
+            "state": "Utah",
+            "zip_code": "84101",
+            "note": null
+        },
+        "industry": "Construction",
+        "category": "Referral",
+        "vat": "44-2233445",
+        "website": "https://www.summitconstruct.com",
+        "note": "General contracting and construction management.",
+        "delivery_address": {
+            "contact_name": "Brian Clark",
+            "email": "bclark@summitconstruct.com",
+            "street": "410 Builder's Road",
+            "city": "Salt Lake City",
+            "state": "Utah",
+            "zip_code": "84101",
+            "note": "Materials receiving"
+        },
+        "invoice_address": {
+            "contact_name": "Brian Clark",
+            "email": "billing@summitconstruct.com",
+            "street": "410 Builder's Road",
+            "city": "Salt Lake City",
+            "state": "Utah",
+            "zip_code": "84101",
+            "note": "Finance department"
+        },
+        "linked_contact": {
+            "name": "Brian Clark",
+            "title": "Mister",
+            "job_position": "Project Supervisor",
+            "email": "bclark@summitconstruct.com",
+            "note": null
+        },
+        "primary_bank_account": {
+            "bank_name": "First Horizon Bank",
+            "account_number": "131415161718"
+        }
+    },
+    {
+        "name": "Crescent Pharmaceuticals",
+        "email": "contact@crescentpharma.com",
+        "primary_address": {
+            "contact_name": "Dr. Amanda Reed",
+            "email": "areed@crescentpharma.com",
+            "street": "700 Health Drive",
+            "city": "Nashville",
+            "state": "Tennessee",
+            "zip_code": "37203",
+            "note": null
+        },
+        "industry": "Pharmaceutical",
+        "category": "Investor",
+        "vat": "61-7788992",
+        "website": "https://www.crescentpharma.com",
+        "note": "Innovative drug development company.",
+        "delivery_address": {
+            "contact_name": "Dr. Amanda Reed",
+            "email": "areed@crescentpharma.com",
+            "street": "700 Health Drive",
+            "city": "Nashville",
+            "state": "Tennessee",
+            "zip_code": "37203",
+            "note": "Shipping dock"
+        },
+        "invoice_address": {
+            "contact_name": "Dr. Amanda Reed",
+            "email": "billing@crescentpharma.com",
+            "street": "700 Health Drive",
+            "city": "Nashville",
+            "state": "Tennessee",
+            "zip_code": "37203",
+            "note": "Accounting office"
+        },
+        "linked_contact": {
+            "name": "Dr. Amanda Reed",
+            "title": "Madam",
+            "job_position": "Research Director",
+            "email": "areed@crescentpharma.com",
+            "note": null
+        },
+        "primary_bank_account": {
+            "bank_name": "Frost Bank",
+            "account_number": "141516171819"
+        }
+    },
+    {
+        "name": "Liberty Transportation Inc.",
+        "email": "info@libertytransport.com",
+        "primary_address": {
+            "contact_name": "Ethan Wright",
+            "email": "ewright@libertytransport.com",
+            "street": "333 Freight Road",
+            "city": "Columbus",
+            "state": "Ohio",
+            "zip_code": "43215",
+            "note": null
+        },
+        "industry": "Transportation",
+        "category": "Community Member",
+        "vat": "53-4455667",
+        "website": "https://www.libertytransport.com",
+        "note": "Long-haul trucking and logistics.",
+        "delivery_address": {
+            "contact_name": "Ethan Wright",
+            "email": "ewright@libertytransport.com",
+            "street": "333 Freight Road",
+            "city": "Columbus",
+            "state": "Ohio",
+            "zip_code": "43215",
+            "note": "Loading dock 3"
+        },
+        "invoice_address": {
+            "contact_name": "Ethan Wright",
+            "email": "billing@libertytransport.com",
+            "street": "333 Freight Road",
+            "city": "Columbus",
+            "state": "Ohio",
+            "zip_code": "43215",
+            "note": "Finance office"
+        },
+        "linked_contact": {
+            "name": "Ethan Wright",
+            "title": "Mister",
+            "job_position": "Logistics Manager",
+            "email": "ewright@libertytransport.com",
+            "note": null
+        },
+        "primary_bank_account": {
+            "bank_name": "PNC Bank",
+            "account_number": "151617181920"
+        }
+    },
+    {
+        "name": "Noble Energy Corp.",
+        "email": "contact@nobleenergy.com",
+        "primary_address": {
+            "contact_name": "Samantha Brooks",
+            "email": "sbrooks@nobleenergy.com",
+            "street": "1600 Energy Drive",
+            "city": "Tulsa",
+            "state": "Oklahoma",
+            "zip_code": "74104",
+            "note": null
+        },
+        "industry": "Energy",
+        "category": "Investor",
+        "vat": "45-6677880",
+        "website": "https://www.nobleenergy.com",
+        "note": "Oil and natural gas exploration and production.",
+        "delivery_address": {
+            "contact_name": "Samantha Brooks",
+            "email": "sbrooks@nobleenergy.com",
+            "street": "1600 Energy Drive",
+            "city": "Tulsa",
+            "state": "Oklahoma",
+            "zip_code": "74104",
+            "note": "Supply entrance"
+        },
+        "invoice_address": {
+            "contact_name": "Samantha Brooks",
+            "email": "billing@nobleenergy.com",
+            "street": "1600 Energy Drive",
+            "city": "Tulsa",
+            "state": "Oklahoma",
+            "zip_code": "74104",
+            "note": "Accounting department"
+        },
+        "linked_contact": {
+            "name": "Samantha Brooks",
+            "title": "Madam",
+            "job_position": "Chief Executive Officer",
+            "email": "sbrooks@nobleenergy.com",
+            "note": null
+        },
+        "primary_bank_account": {
+            "bank_name": "FirstBank (Colorado)",
+            "account_number": "161718192021"
+        }
+    },
+    {
+        "name": "Bright Star Apparel",
+        "email": "sales@brightstarapparel.com",
+        "primary_address": {
+            "contact_name": "Jason Hall",
+            "email": "jhall@brightstarapparel.com",
+            "street": "120 Fashion Ave",
+            "city": "New York",
+            "state": "New York",
+            "zip_code": "10018",
+            "note": null
+        },
+        "industry": "Manufacturing",
+        "category": "Brand Ambassador",
+        "vat": "20-3344557",
+        "website": "https://www.brightstarapparel.com",
+        "note": "Designer and manufacturer of casual wear.",
+        "delivery_address": {
+            "contact_name": "Jason Hall",
+            "email": "jhall@brightstarapparel.com",
+            "street": "120 Fashion Ave",
+            "city": "New York",
+            "state": "New York",
+            "zip_code": "10018",
+            "note": "Warehouse entrance"
+        },
+        "invoice_address": {
+            "contact_name": "Jason Hall",
+            "email": "billing@brightstarapparel.com",
+            "street": "120 Fashion Ave",
+            "city": "New York",
+            "state": "New York",
+            "zip_code": "10018",
+            "note": "Finance office"
+        },
+        "linked_contact": {
+            "name": "Jason Hall",
+            "title": "Mister",
+            "job_position": "Production Manager",
+            "email": "jhall@brightstarapparel.com",
+            "note": null
+        },
+        "primary_bank_account": {
+            "bank_name": "Synchrony Bank",
+            "account_number": "171819202122"
+        }
+    },
+    {
+        "name": "Summit Pharmaceuticals",
+        "email": "contact@summitpharma.com",
+        "primary_address": {
+            "contact_name": "Dr. Kevin Mitchell",
+            "email": "kmitchell@summitpharma.com",
+            "street": "400 Medical Park",
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip_code": "02115",
+            "note": null
+        },
+        "industry": "Pharmaceutical",
+        "category": "Advocate",
+        "vat": "59-7788993",
+        "website": "https://www.summitpharma.com",
+        "note": "Develops specialty medications for chronic diseases.",
+        "delivery_address": {
+            "contact_name": "Dr. Kevin Mitchell",
+            "email": "kmitchell@summitpharma.com",
+            "street": "400 Medical Park",
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip_code": "02115",
+            "note": "Pharmaceutical delivery bay"
+        },
+        "invoice_address": {
+            "contact_name": "Dr. Kevin Mitchell",
+            "email": "billing@summitpharma.com",
+            "street": "400 Medical Park",
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip_code": "02115",
+            "note": "Accounting department"
+        },
+        "linked_contact": {
+            "name": "Dr. Kevin Mitchell",
+            "title": "Mister",
+            "job_position": "Medical Director",
+            "email": "kmitchell@summitpharma.com",
+            "note": null
+        },
+        "primary_bank_account": {
+            "bank_name": "Charles Schwab Bank",
+            "account_number": "181920212223"
+        }
+    },
+    {
+        "name": "Pioneer Retail Group",
+        "email": "info@pioneerretail.com",
+        "primary_address": {
+            "contact_name": "Megan Lewis",
+            "email": "mlewis@pioneerretail.com",
+            "street": "800 Retail Parkway",
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip_code": "60607",
+            "note": null
+        },
+        "industry": "Retail",
+        "category": "VIP",
+        "vat": "37-9988777",
+        "website": "https://www.pioneerretail.com",
+        "note": "Operates department stores across Midwest.",
+        "delivery_address": {
+            "contact_name": "Megan Lewis",
+            "email": "mlewis@pioneerretail.com",
+            "street": "800 Retail Parkway",
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip_code": "60607",
+            "note": "Main loading dock"
+        },
+        "invoice_address": {
+            "contact_name": "Megan Lewis",
+            "email": "billing@pioneerretail.com",
+            "street": "800 Retail Parkway",
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip_code": "60607",
+            "note": "Finance department"
+        },
+        "linked_contact": {
+            "name": "Megan Lewis",
+            "title": "Madam",
+            "job_position": "Regional Manager",
+            "email": "mlewis@pioneerretail.com",
+            "note": null
+        },
+        "primary_bank_account": {
+            "bank_name": "Bank of America",
+            "account_number": "192021222324"
+        }
+    },
+    {
+        "name": "ClearWater Consulting",
+        "email": "contact@clearwaterconsult.com",
+        "primary_address": {
+            "contact_name": "Jason Nguyen",
+            "email": "jnguyen@clearwaterconsult.com",
+            "street": "210 Consulting Way",
+            "city": "San Francisco",
+            "state": "California",
+            "zip_code": "94105",
+            "note": null
+        },
+        "industry": "Consulting",
+        "category": "Consultant",
+        "vat": "43-5566779",
+        "website": "https://www.clearwaterconsult.com",
+        "note": "Environmental and sustainability consulting.",
+        "delivery_address": {
+            "contact_name": "Jason Nguyen",
+            "email": "jnguyen@clearwaterconsult.com",
+            "street": "210 Consulting Way",
+            "city": "San Francisco",
+            "state": "California",
+            "zip_code": "94105",
+            "note": "Main office"
+        },
+        "invoice_address": {
+            "contact_name": "Jason Nguyen",
+            "email": "billing@clearwaterconsult.com",
+            "street": "210 Consulting Way",
+            "city": "San Francisco",
+            "state": "California",
+            "zip_code": "94105",
+            "note": "Accounting department"
+        },
+        "linked_contact": {
+            "name": "Jason Nguyen",
+            "title": "Mister",
+            "job_position": "Lead Consultant",
+            "email": "jnguyen@clearwaterconsult.com",
+            "note": null
+        },
+        "primary_bank_account": {
+            "bank_name": "Goldman Sachs Bank USA",
+            "account_number": "202122232425"
+        }
+    },
+    {
+        "name": "Atlas Aerospace",
+        "email": "info@atlasaerospace.com",
+        "primary_address": {
+            "contact_name": "Laura Martinez",
+            "email": "lmartinez@atlasaerospace.com",
+            "street": "555 Flight Road",
+            "city": "Denver",
+            "state": "Colorado",
+            "zip_code": "80204",
+            "note": null
+        },
+        "industry": "Aerospace",
+        "category": "Industry Expert",
+        "vat": "66-1122335",
+        "website": "https://www.atlasaerospace.com",
+        "note": "Manufacturer of aerospace components and systems.",
+        "delivery_address": {
+            "contact_name": "Laura Martinez",
+            "email": "lmartinez@atlasaerospace.com",
+            "street": "555 Flight Road",
+            "city": "Denver",
+            "state": "Colorado",
+            "zip_code": "80204",
+            "note": "Shipping dock"
+        },
+        "invoice_address": {
+            "contact_name": "Laura Martinez",
+            "email": "billing@atlasaerospace.com",
+            "street": "555 Flight Road",
+            "city": "Denver",
+            "state": "Colorado",
+            "zip_code": "80204",
+            "note": "Finance department"
+        },
+        "linked_contact": {
+            "name": "Laura Martinez",
+            "title": "Madam",
+            "job_position": "Engineering Manager",
+            "email": "lmartinez@atlasaerospace.com",
+            "note": null
+        },
+        "primary_bank_account": {
+            "bank_name": "Citibank",
+            "account_number": "212223242526"
+        }
+    },
+    {
+        "name": "Heritage Agricultural Supplies",
+        "email": "contact@heritageagri.com",
+        "primary_address": {
+            "contact_name": "Benjamin Harris",
+            "email": "bharris@heritageagri.com",
+            "street": "900 Farm Equipment Rd",
+            "city": "Fargo",
+            "state": "North Dakota",
+            "zip_code": "58102",
+            "note": null
+        },
+        "industry": "Agriculture",
+        "category": "Partner",
+        "vat": "95-1122336",
+        "website": "https://www.heritageagri.com",
+        "note": "Supplier of farm equipment and supplies.",
+        "delivery_address": {
+            "contact_name": "Benjamin Harris",
+            "email": "bharris@heritageagri.com",
+            "street": "900 Farm Equipment Rd",
+            "city": "Fargo",
+            "state": "North Dakota",
+            "zip_code": "58102",
+            "note": "Loading dock 1"
+        },
+        "invoice_address": {
+            "contact_name": "Benjamin Harris",
+            "email": "billing@heritageagri.com",
+            "street": "900 Farm Equipment Rd",
+            "city": "Fargo",
+            "state": "North Dakota",
+            "zip_code": "58102",
+            "note": "Accounting office"
+        },
+        "linked_contact": {
+            "name": "Benjamin Harris",
+            "title": "Mister",
+            "job_position": "Sales Director",
+            "email": "bharris@heritageagri.com",
+            "note": null
+        },
+        "primary_bank_account": {
+            "bank_name": "Bank of the West",
+            "account_number": "222324252627"
+        }
+    },
+    {
+        "name": "Lighthouse Media",
+        "email": "info@lighthousemedia.com",
+        "primary_address": {
+            "contact_name": "Rachel Adams",
+            "email": "radams@lighthousemedia.com",
+            "street": "100 Media Lane",
+            "city": "Nashville",
+            "state": "Tennessee",
+            "zip_code": "37201",
+            "note": null
+        },
+        "industry": "Media",
+        "category": "Influencer",
+        "vat": "29-7788994",
+        "website": "https://www.lighthousemedia.com",
+        "note": "Digital content creation and media marketing.",
+        "delivery_address": {
+            "contact_name": "Rachel Adams",
+            "email": "radams@lighthousemedia.com",
+            "street": "100 Media Lane",
+            "city": "Nashville",
+            "state": "Tennessee",
+            "zip_code": "37201",
+            "note": "Studio entrance"
+        },
+        "invoice_address": {
+            "contact_name": "Rachel Adams",
+            "email": "billing@lighthousemedia.com",
+            "street": "100 Media Lane",
+            "city": "Nashville",
+            "state": "Tennessee",
+            "zip_code": "37201",
+            "note": "Finance department"
+        },
+        "linked_contact": {
+            "name": "Rachel Adams",
+            "title": "Madam",
+            "job_position": "Content Director",
+            "email": "radams@lighthousemedia.com",
+            "note": null
+        },
+        "primary_bank_account": {
+            "bank_name": "Capital One Bank",
+            "account_number": "232425262728"
+        }
+    },
+    {
+        "name": "Pinnacle Automotive Parts",
+        "email": "contact@pinnacleauto.com",
+        "primary_address": {
+            "contact_name": "Edward Clark",
+            "email": "eclark@pinnacleauto.com",
+            "street": "750 Auto Park",
+            "city": "Detroit",
+            "state": "Michigan",
+            "zip_code": "48207",
+            "note": null
+        },
+        "industry": "Automotive",
+        "category": "Prospect",
+        "vat": "42-3344558",
+        "website": "https://www.pinnacleauto.com",
+        "note": "Manufactures and distributes automotive parts.",
+        "delivery_address": {
+            "contact_name": "Edward Clark",
+            "email": "eclark@pinnacleauto.com",
+            "street": "750 Auto Park",
+            "city": "Detroit",
+            "state": "Michigan",
+            "zip_code": "48207",
+            "note": "Parts receiving dock"
+        },
+        "invoice_address": {
+            "contact_name": "Edward Clark",
+            "email": "billing@pinnacleauto.com",
+            "street": "750 Auto Park",
+            "city": "Detroit",
+            "state": "Michigan",
+            "zip_code": "48207",
+            "note": "Finance office"
+        },
+        "linked_contact": {
+            "name": "Edward Clark",
+            "title": "Mister",
+            "job_position": "Operations Manager",
+            "email": "eclark@pinnacleauto.com",
+            "note": null
+        },
+        "primary_bank_account": {
+            "bank_name": "U.S. Bank",
+            "account_number": "242526272829"
+        }
+    },
+    {
+        "name": "Bright Horizons Biotechnology",
+        "email": "info@brighthorizonsbio.com",
+        "primary_address": {
+            "contact_name": "Dr. Karen Phillips",
+            "email": "kphillips@brighthorizonsbio.com",
+            "street": "85 Innovation Drive",
+            "city": "San Diego",
+            "state": "California",
+            "zip_code": "92121",
+            "note": null
+        },
+        "industry": "Biotechnology",
+        "category": "Investor",
+        "vat": "54-6677881",
+        "website": "https://www.brighthorizonsbio.com",
+        "note": "Develops biotech solutions for medical diagnostics.",
+        "delivery_address": {
+            "contact_name": "Dr. Karen Phillips",
+            "email": "kphillips@brighthorizonsbio.com",
+            "street": "85 Innovation Drive",
+            "city": "San Diego",
+            "state": "California",
+            "zip_code": "92121",
+            "note": "Lab receiving area"
+        },
+        "invoice_address": {
+            "contact_name": "Dr. Karen Phillips",
+            "email": "billing@brighthorizonsbio.com",
+            "street": "85 Innovation Drive",
+            "city": "San Diego",
+            "state": "California",
+            "zip_code": "92121",
+            "note": "Accounting department"
+        },
+        "linked_contact": {
+            "name": "Dr. Karen Phillips",
+            "title": "Madam",
+            "job_position": "Lead Researcher",
+            "email": "kphillips@brighthorizonsbio.com",
+            "note": null
+        },
+        "primary_bank_account": {
+            "bank_name": "JPMorgan Chase Bank",
+            "account_number": "252627282930"
+        }
+    },
+    {
+        "name": "Summit Energy Solutions",
+        "email": "contact@summitenergy.com",
+        "primary_address": {
+            "contact_name": "Michael Foster",
+            "email": "mfoster@summitenergy.com",
+            "street": "600 Power Drive",
+            "city": "Phoenix",
+            "state": "Arizona",
+            "zip_code": "85004",
+            "note": null
+        },
+        "industry": "Energy",
+        "category": "Sponsor",
+        "vat": "62-3344559",
+        "website": "https://www.summitenergy.com",
+        "note": "Provides energy consulting and infrastructure services.",
+        "delivery_address": {
+            "contact_name": "Michael Foster",
+            "email": "mfoster@summitenergy.com",
+            "street": "600 Power Drive",
+            "city": "Phoenix",
+            "state": "Arizona",
+            "zip_code": "85004",
+            "note": "Main loading dock"
+        },
+        "invoice_address": {
+            "contact_name": "Michael Foster",
+            "email": "billing@summitenergy.com",
+            "street": "600 Power Drive",
+            "city": "Phoenix",
+            "state": "Arizona",
+            "zip_code": "85004",
+            "note": "Finance office"
+        },
+        "linked_contact": {
+            "name": "Michael Foster",
+            "title": "Mister",
+            "job_position": "Energy Consultant",
+            "email": "mfoster@summitenergy.com",
+            "note": null
+        },
+        "primary_bank_account": {
+            "bank_name": "TD Bank, N.A.",
+            "account_number": "262728293031"
+        }
+    }
+]

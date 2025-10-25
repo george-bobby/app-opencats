@@ -1,0 +1,506 @@
+{
+    "components": [
+        {
+            "abbreviation": "BP",
+            "name": "Basic Pay",
+            "type": "Earning",
+            "is_taxable": true,
+            "formula": "",
+            "include_in_gross": true,
+            "payment_account": "Salary - E",
+            "is_active": true
+        },
+        {
+            "abbreviation": "HRA",
+            "name": "House Rent Allowance",
+            "type": "Earning",
+            "is_taxable": false,
+            "formula": "40% of Basic Pay",
+            "include_in_gross": true,
+            "payment_account": "Salary - E",
+            "is_active": true
+        },
+        {
+            "abbreviation": "DA",
+            "name": "Dearness Allowance",
+            "type": "Earning",
+            "is_taxable": true,
+            "formula": "",
+            "include_in_gross": true,
+            "payment_account": "Salary - E",
+            "is_active": true
+        },
+        {
+            "abbreviation": "CA",
+            "name": "Conveyance Allowance",
+            "type": "Earning",
+            "is_taxable": false,
+            "formula": "",
+            "include_in_gross": true,
+            "payment_account": "Salary - E",
+            "is_active": true
+        },
+        {
+            "abbreviation": "MA",
+            "name": "Medical Allowance",
+            "type": "Earning",
+            "is_taxable": false,
+            "formula": "",
+            "include_in_gross": true,
+            "payment_account": "Salary - E",
+            "is_active": true
+        },
+        {
+            "abbreviation": "SA",
+            "name": "Special Allowance",
+            "type": "Earning",
+            "is_taxable": true,
+            "formula": "",
+            "include_in_gross": true,
+            "payment_account": "Salary - E",
+            "is_active": true
+        },
+        {
+            "abbreviation": "PB",
+            "name": "Performance Bonus",
+            "type": "Earning",
+            "is_taxable": true,
+            "formula": "",
+            "include_in_gross": true,
+            "payment_account": "Salary - E",
+            "is_active": true
+        },
+        {
+            "abbreviation": "MC",
+            "name": "Meal Coupons",
+            "type": "Earning",
+            "is_taxable": false,
+            "formula": "",
+            "include_in_gross": true,
+            "payment_account": "Salary - E",
+            "is_active": true
+        },
+        {
+            "abbreviation": "LE",
+            "name": "Leave Encashment",
+            "type": "Earning",
+            "is_taxable": true,
+            "formula": "",
+            "include_in_gross": true,
+            "payment_account": "Salary - E",
+            "is_active": true
+        },
+        {
+            "abbreviation": "A",
+            "name": "Arrear",
+            "type": "Earning",
+            "is_taxable": true,
+            "formula": "",
+            "include_in_gross": true,
+            "payment_account": "Salary - E",
+            "is_active": true
+        },
+        {
+            "abbreviation": "PF",
+            "name": "Provident Fund",
+            "type": "Deduction",
+            "is_taxable": false,
+            "formula": "12% of Basic Pay",
+            "include_in_gross": false,
+            "payment_account": "PF Payable - L",
+            "is_active": true
+        },
+        {
+            "abbreviation": "ESI",
+            "name": "Employee State Insurance",
+            "type": "Deduction",
+            "is_taxable": false,
+            "formula": "1.75% of Gross Pay",
+            "include_in_gross": false,
+            "payment_account": "ESI Payable - L",
+            "is_active": true
+        },
+        {
+            "abbreviation": "PT",
+            "name": "Professional Tax",
+            "type": "Deduction",
+            "is_taxable": false,
+            "formula": "",
+            "include_in_gross": false,
+            "payment_account": "PT Payable - L",
+            "is_active": true
+        },
+        {
+            "abbreviation": "IT",
+            "name": "Income Tax",
+            "type": "Deduction",
+            "is_taxable": false,
+            "formula": "",
+            "include_in_gross": false,
+            "payment_account": "TDS Payable - L",
+            "is_active": true
+        },
+        {
+            "abbreviation": "LR",
+            "name": "Loan Repayment",
+            "type": "Deduction",
+            "is_taxable": false,
+            "formula": "",
+            "include_in_gross": false,
+            "payment_account": "Loans and Advances - A",
+            "is_active": true
+        },
+        {
+            "abbreviation": "SAD",
+            "name": "Salary Advance Deduction",
+            "type": "Deduction",
+            "is_taxable": false,
+            "formula": "",
+            "include_in_gross": false,
+            "payment_account": "Salary Advances - A",
+            "is_active": true
+        }
+    ],
+    "structures": [
+        {
+            "name": "Entry-Level Staff",
+            "description": "Monthly payroll structure for junior employees with minimal variable components",
+            "frequency": "Monthly",
+            "is_active": true,
+            "earnings": [
+                {
+                    "component": "Basic Pay",
+                    "abbr": "BP",
+                    "amount_based_on_formula": 1,
+                    "formula": "50% of base",
+                    "amount": 0
+                },
+                {
+                    "component": "House Rent Allowance",
+                    "abbr": "HRA",
+                    "amount_based_on_formula": 1,
+                    "formula": "40% of BP",
+                    "amount": 0
+                },
+                {
+                    "component": "Conveyance Allowance",
+                    "abbr": "CA",
+                    "amount_based_on_formula": 0,
+                    "formula": "",
+                    "amount": 1600
+                },
+                {
+                    "component": "Medical Allowance",
+                    "abbr": "MA",
+                    "amount_based_on_formula": 0,
+                    "formula": "",
+                    "amount": 1250
+                }
+            ],
+            "deductions": [
+                {
+                    "component": "Provident Fund",
+                    "abbr": "PF",
+                    "amount_based_on_formula": 1,
+                    "formula": "12% of BP",
+                    "amount": 0
+                },
+                {
+                    "component": "Employee State Insurance",
+                    "abbr": "ESI",
+                    "amount_based_on_formula": 1,
+                    "formula": "1.75% of Gross Pay",
+                    "amount": 0
+                },
+                {
+                    "component": "Professional Tax",
+                    "abbr": "PT",
+                    "amount_based_on_formula": 0,
+                    "formula": "",
+                    "amount": 200
+                }
+            ]
+        },
+        {
+            "name": "Mid-Level Staff",
+            "description": "Monthly payroll structure for employees with slightly more flexible compensation",
+            "frequency": "Monthly",
+            "is_active": true,
+            "earnings": [
+                {
+                    "component": "Basic Pay",
+                    "abbr": "BP",
+                    "amount_based_on_formula": 1,
+                    "formula": "45% of base",
+                    "amount": 0
+                },
+                {
+                    "component": "House Rent Allowance",
+                    "abbr": "HRA",
+                    "amount_based_on_formula": 1,
+                    "formula": "40% of BP",
+                    "amount": 0
+                },
+                {
+                    "component": "Dearness Allowance",
+                    "abbr": "DA",
+                    "amount_based_on_formula": 1,
+                    "formula": "10% of BP",
+                    "amount": 0
+                },
+                {
+                    "component": "Medical Allowance",
+                    "abbr": "MA",
+                    "amount_based_on_formula": 0,
+                    "formula": "",
+                    "amount": 1500
+                },
+                {
+                    "component": "Special Allowance",
+                    "abbr": "SA",
+                    "amount_based_on_formula": 1,
+                    "formula": "Gross-BP-HRA-DA-MA",
+                    "amount": 0
+                }
+            ],
+            "deductions": [
+                {
+                    "component": "Provident Fund",
+                    "abbr": "PF",
+                    "amount_based_on_formula": 1,
+                    "formula": "12% of BP",
+                    "amount": 0
+                },
+                {
+                    "component": "Employee State Insurance",
+                    "abbr": "ESI",
+                    "amount_based_on_formula": 1,
+                    "formula": "1.75% of Gross Pay",
+                    "amount": 0
+                },
+                {
+                    "component": "Professional Tax",
+                    "abbr": "PT",
+                    "amount_based_on_formula": 0,
+                    "formula": "",
+                    "amount": 200
+                },
+                {
+                    "component": "Income Tax",
+                    "abbr": "IT",
+                    "amount_based_on_formula": 0,
+                    "formula": "",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "name": "Sales/Target-Based Staff",
+            "description": "Monthly payroll structure with performance-based incentives for sales staff",
+            "frequency": "Monthly",
+            "is_active": true,
+            "earnings": [
+                {
+                    "component": "Basic Pay",
+                    "abbr": "BP",
+                    "amount_based_on_formula": 1,
+                    "formula": "40% of base",
+                    "amount": 0
+                },
+                {
+                    "component": "House Rent Allowance",
+                    "abbr": "HRA",
+                    "amount_based_on_formula": 1,
+                    "formula": "40% of BP",
+                    "amount": 0
+                },
+                {
+                    "component": "Conveyance Allowance",
+                    "abbr": "CA",
+                    "amount_based_on_formula": 0,
+                    "formula": "",
+                    "amount": 2000
+                },
+                {
+                    "component": "Special Allowance",
+                    "abbr": "SA",
+                    "amount_based_on_formula": 1,
+                    "formula": "Gross-BP-HRA-CA-PB-MC",
+                    "amount": 0
+                },
+                {
+                    "component": "Performance Bonus",
+                    "abbr": "PB",
+                    "amount_based_on_formula": 0,
+                    "formula": "",
+                    "amount": 0
+                },
+                {
+                    "component": "Meal Coupons",
+                    "abbr": "MC",
+                    "amount_based_on_formula": 0,
+                    "formula": "",
+                    "amount": 2000
+                }
+            ],
+            "deductions": [
+                {
+                    "component": "Provident Fund",
+                    "abbr": "PF",
+                    "amount_based_on_formula": 1,
+                    "formula": "12% of BP",
+                    "amount": 0
+                },
+                {
+                    "component": "Professional Tax",
+                    "abbr": "PT",
+                    "amount_based_on_formula": 0,
+                    "formula": "",
+                    "amount": 200
+                },
+                {
+                    "component": "Income Tax",
+                    "abbr": "IT",
+                    "amount_based_on_formula": 0,
+                    "formula": "",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "name": "Senior Management",
+            "description": "Monthly structure for high-income employees including perks and significant tax considerations",
+            "frequency": "Monthly",
+            "is_active": true,
+            "earnings": [
+                {
+                    "component": "Basic Pay",
+                    "abbr": "BP",
+                    "amount_based_on_formula": 1,
+                    "formula": "50% of base",
+                    "amount": 0
+                },
+                {
+                    "component": "House Rent Allowance",
+                    "abbr": "HRA",
+                    "amount_based_on_formula": 1,
+                    "formula": "40% of BP",
+                    "amount": 0
+                },
+                {
+                    "component": "Special Allowance",
+                    "abbr": "SA",
+                    "amount_based_on_formula": 1,
+                    "formula": "Gross-BP-HRA-PB-LE-A",
+                    "amount": 0
+                },
+                {
+                    "component": "Performance Bonus",
+                    "abbr": "PB",
+                    "amount_based_on_formula": 0,
+                    "formula": "",
+                    "amount": 0
+                },
+                {
+                    "component": "Leave Encashment",
+                    "abbr": "LE",
+                    "amount_based_on_formula": 0,
+                    "formula": "",
+                    "amount": 0
+                },
+                {
+                    "component": "Arrear",
+                    "abbr": "A",
+                    "amount_based_on_formula": 0,
+                    "formula": "",
+                    "amount": 0
+                }
+            ],
+            "deductions": [
+                {
+                    "component": "Provident Fund",
+                    "abbr": "PF",
+                    "amount_based_on_formula": 1,
+                    "formula": "12% of BP",
+                    "amount": 0
+                },
+                {
+                    "component": "Professional Tax",
+                    "abbr": "PT",
+                    "amount_based_on_formula": 0,
+                    "formula": "",
+                    "amount": 200
+                },
+                {
+                    "component": "Income Tax",
+                    "abbr": "IT",
+                    "amount_based_on_formula": 0,
+                    "formula": "",
+                    "amount": 0
+                },
+                {
+                    "component": "Loan Repayment",
+                    "abbr": "LR",
+                    "amount_based_on_formula": 0,
+                    "formula": "",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "name": "Contractual/Temporary Workers",
+            "description": "Flexible payout structure focused on deliverables for temporary workers",
+            "frequency": "Monthly",
+            "is_active": true,
+            "earnings": [
+                {
+                    "component": "Basic Pay",
+                    "abbr": "BP",
+                    "amount_based_on_formula": 1,
+                    "formula": "80% of base",
+                    "amount": 0
+                },
+                {
+                    "component": "Conveyance Allowance",
+                    "abbr": "CA",
+                    "amount_based_on_formula": 0,
+                    "formula": "",
+                    "amount": 1500
+                },
+                {
+                    "component": "Arrear",
+                    "abbr": "A",
+                    "amount_based_on_formula": 0,
+                    "formula": "",
+                    "amount": 0
+                }
+            ],
+            "deductions": [
+                {
+                    "component": "Professional Tax",
+                    "abbr": "PT",
+                    "amount_based_on_formula": 0,
+                    "formula": "",
+                    "amount": 200
+                },
+                {
+                    "component": "Salary Advance Deduction",
+                    "abbr": "SAD",
+                    "amount_based_on_formula": 0,
+                    "formula": "",
+                    "amount": 0
+                }
+            ]
+        }
+    ],
+    "cost_centers": [
+        {
+            "name": "Global Operations",
+            "parent_cost_center": null
+        },
+        {
+            "name": "US Operations",
+            "parent_cost_center": "Global Operations"
+        }
+    ]
+}

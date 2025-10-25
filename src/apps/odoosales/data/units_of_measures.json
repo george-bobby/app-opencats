@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Pack",
+        "uom_type": "smaller",
+        "factor": 0.25,
+        "active": true,
+        "rounding": 1.00000
+    },
+    {
+        "name": "Box",
+        "uom_type": "bigger",
+        "factor": 12.00,
+        "active": true,
+        "rounding": 1.00000
+    },
+    {
+        "name": "Pallet",
+        "uom_type": "bigger",
+        "factor": 480.00,
+        "active": true,
+        "rounding": 1.00000
+    }
+]

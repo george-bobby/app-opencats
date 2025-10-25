@@ -1,0 +1,2261 @@
+{
+  "table_name": "Task Templates",
+  "parent_workspace_name": "R&D",
+  "parent_base_name": "R&D",
+  "records": [
+    {
+      "fields": {
+        "Name": "Market Trend Analysis",
+        "Description": "Conduct a comprehensive study on emerging market trends to align marketing strategies effectively.",
+        "Suggested Duration (days)": 7,
+        "Category": "Research",
+        "Tags": [
+          "Research",
+          "Analysis"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-01-15",
+        "Last Updated": "2025-04-20"
+      }
+    },
+    {
+      "fields": {
+        "Name": "AI Tool Performance Experiment",
+        "Description": "Test and evaluate the latest AI marketing tools to measure performance improvements.",
+        "Suggested Duration (days)": 5,
+        "Category": "Experiment",
+        "Tags": [
+          "Technical",
+          "High Priority"
+        ],
+        "Default Priority": "Critical",
+        "Created Date": "2024-12-10",
+        "Last Updated": "2025-05-05"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Competitive Analysis",
+        "Description": "Analyze competitors' campaigns and strategies to identify opportunities and threats.",
+        "Suggested Duration (days)": 6,
+        "Category": "Analysis",
+        "Tags": [
+          "Analysis",
+          "Review Required"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-02-01",
+        "Last Updated": "2025-03-15"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Client Presentation Preparation",
+        "Description": "Prepare detailed presentation slides for client pitch with AI-driven insights.",
+        "Suggested Duration (days)": 3,
+        "Category": "Presentation",
+        "Tags": [
+          "Presentation",
+          "Documentation"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-05-10",
+        "Last Updated": "2025-06-01"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Content Effectiveness Research",
+        "Description": "Research on content types and their effectiveness across multiple platforms.",
+        "Suggested Duration (days)": 8,
+        "Category": "Research",
+        "Tags": [
+          "Research",
+          "Collaborative"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2024-11-20",
+        "Last Updated": "2025-06-10"
+      }
+    },
+    {
+      "fields": {
+        "Name": "A/B Testing Campaigns",
+        "Description": "Experiment with A/B testing to identify the most effective marketing messages.",
+        "Suggested Duration (days)": 4,
+        "Category": "Experiment",
+        "Tags": [
+          "Technical",
+          "High Priority"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-03-25",
+        "Last Updated": "2025-04-22"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Data Insights Report",
+        "Description": "Compile and analyze recent campaign data to provide actionable insights.",
+        "Suggested Duration (days)": 7,
+        "Category": "Analysis",
+        "Tags": [
+          "Analysis",
+          "Documentation"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-01-30",
+        "Last Updated": "2025-05-15"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Quarterly Client Review Presentation",
+        "Description": "Create and deliver presentations reviewing quarterly campaign results.",
+        "Suggested Duration (days)": 4,
+        "Category": "Presentation",
+        "Tags": [
+          "Presentation",
+          "Review Required"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-03-01",
+        "Last Updated": "2025-06-05"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Customer Behavior Research",
+        "Description": "Study customer behavior patterns using AI analytics tools.",
+        "Suggested Duration (days)": 9,
+        "Category": "Research",
+        "Tags": [
+          "Research",
+          "Technical"
+        ],
+        "Default Priority": "Critical",
+        "Created Date": "2024-12-05",
+        "Last Updated": "2025-02-28"
+      }
+    },
+    {
+      "fields": {
+        "Name": "New Feature Experimentation",
+        "Description": "Test the impact of newly developed AI features on campaign success rates.",
+        "Suggested Duration (days)": 6,
+        "Category": "Experiment",
+        "Tags": [
+          "Technical",
+          "Collaborative"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-02-10",
+        "Last Updated": "2025-04-12"
+      }
+    },
+    {
+      "fields": {
+        "Name": "SEO Performance Analysis",
+        "Description": "Analyze SEO metrics to improve website traffic and engagement.",
+        "Suggested Duration (days)": 5,
+        "Category": "Analysis",
+        "Tags": [
+          "Analysis",
+          "Technical"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-04-01",
+        "Last Updated": "2025-05-20"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Investor Pitch Presentation",
+        "Description": "Develop a compelling presentation to attract potential investors.",
+        "Suggested Duration (days)": 3,
+        "Category": "Presentation",
+        "Tags": [
+          "Presentation",
+          "High Priority"
+        ],
+        "Default Priority": "Critical",
+        "Created Date": "2025-05-15",
+        "Last Updated": "2025-06-20"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Social Media Trend Research",
+        "Description": "Investigate the latest trends in social media marketing.",
+        "Suggested Duration (days)": 7,
+        "Category": "Research",
+        "Tags": [
+          "Research",
+          "Collaborative"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2024-11-25",
+        "Last Updated": "2025-01-30"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Campaign Optimization Experiment",
+        "Description": "Experiment with campaign variables to maximize ROI using AI tools.",
+        "Suggested Duration (days)": 5,
+        "Category": "Experiment",
+        "Tags": [
+          "Technical",
+          "High Priority",
+          "Collaborative"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-03-15",
+        "Last Updated": "2025-04-25"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Marketing Funnel Analysis",
+        "Description": "Analyze the effectiveness of the marketing funnel stages.",
+        "Suggested Duration (days)": 8,
+        "Category": "Analysis",
+        "Tags": [
+          "Analysis",
+          "Review Required"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-01-10",
+        "Last Updated": "2025-05-01"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Annual Conference Presentation",
+        "Description": "Prepare the presentation for the annual marketing technology conference.",
+        "Suggested Duration (days)": 6,
+        "Category": "Presentation",
+        "Tags": [
+          "Presentation",
+          "Documentation"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-04-20",
+        "Last Updated": "2025-06-15"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Audience Segmentation Research",
+        "Description": "Research and define distinct customer segments for targeted marketing.",
+        "Suggested Duration (days)": 9,
+        "Category": "Research",
+        "Tags": [
+          "Research",
+          "Technical"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2024-12-15",
+        "Last Updated": "2025-03-10"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Algorithm Tuning Experiment",
+        "Description": "Experiment with AI algorithm parameters to improve prediction accuracy.",
+        "Suggested Duration (days)": 7,
+        "Category": "Experiment",
+        "Tags": [
+          "Technical"
+        ],
+        "Default Priority": "Critical",
+        "Created Date": "2025-02-20",
+        "Last Updated": "2025-05-05"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Campaign Data Analysis",
+        "Description": "Perform deep data analysis on recent campaigns to identify performance drivers.",
+        "Suggested Duration (days)": 6,
+        "Category": "Analysis",
+        "Tags": [
+          "Analysis",
+          "Documentation"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-03-05",
+        "Last Updated": "2025-05-22"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Webinar Presentation Preparation",
+        "Description": "Create engaging webinar content showcasing AI marketing solutions.",
+        "Suggested Duration (days)": 4,
+        "Category": "Presentation",
+        "Tags": [
+          "Presentation",
+          "Collaborative"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-05-05",
+        "Last Updated": "2025-06-10"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Brand Awareness Research",
+        "Description": "Study brand perception in the market to guide marketing efforts.",
+        "Suggested Duration (days)": 8,
+        "Category": "Research",
+        "Tags": [
+          "Research",
+          "High Priority"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2024-11-30",
+        "Last Updated": "2025-02-20"
+      }
+    },
+    {
+      "fields": {
+        "Name": "User Experience Experiment",
+        "Description": "Test new UX designs for better customer engagement across platforms.",
+        "Suggested Duration (days)": 6,
+        "Category": "Experiment",
+        "Tags": [
+          "Technical",
+          "Collaborative"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-01-25",
+        "Last Updated": "2025-04-03"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Sentiment Analysis",
+        "Description": "Analyze social media sentiment related to client campaigns.",
+        "Suggested Duration (days)": 7,
+        "Category": "Analysis",
+        "Tags": [
+          "Analysis",
+          "Technical"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-02-15",
+        "Last Updated": "2025-05-18"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Sales Pitch Presentation",
+        "Description": "Develop persuasive sales presentations integrating AI capabilities.",
+        "Suggested Duration (days)": 3,
+        "Category": "Presentation",
+        "Tags": [
+          "Presentation",
+          "High Priority"
+        ],
+        "Default Priority": "Critical",
+        "Created Date": "2025-05-12",
+        "Last Updated": "2025-06-18"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Persona Development Research",
+        "Description": "Research to create detailed buyer personas for targeted marketing.",
+        "Suggested Duration (days)": 7,
+        "Category": "Research",
+        "Tags": [
+          "Research",
+          "Documentation"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2024-12-01",
+        "Last Updated": "2025-03-25"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Behavioral Trigger Experiment",
+        "Description": "Test marketing triggers based on customer behavior patterns.",
+        "Suggested Duration (days)": 5,
+        "Category": "Experiment",
+        "Tags": [
+          "Technical",
+          "High Priority"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-03-22",
+        "Last Updated": "2025-04-28"
+      }
+    },
+    {
+      "fields": {
+        "Name": "ROI Analysis",
+        "Description": "Analyze return on investment for recent campaigns.",
+        "Suggested Duration (days)": 6,
+        "Category": "Analysis",
+        "Tags": [
+          "Analysis",
+          "Review Required"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-01-20",
+        "Last Updated": "2025-05-03"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Product Launch Presentation",
+        "Description": "Prepare engaging presentation materials for new product launches.",
+        "Suggested Duration (days)": 4,
+        "Category": "Presentation",
+        "Tags": [
+          "Presentation",
+          "Collaborative"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-04-15",
+        "Last Updated": "2025-06-12"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Content Gap Research",
+        "Description": "Identify gaps in current content to improve marketing strategy.",
+        "Suggested Duration (days)": 8,
+        "Category": "Research",
+        "Tags": [
+          "Research",
+          "Technical"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2024-11-18",
+        "Last Updated": "2025-02-15"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Conversion Rate Experiment",
+        "Description": "Experiment to enhance conversion rates using AI-driven tactics.",
+        "Suggested Duration (days)": 5,
+        "Category": "Experiment",
+        "Tags": [
+          "Technical",
+          "High Priority"
+        ],
+        "Default Priority": "Critical",
+        "Created Date": "2025-02-12",
+        "Last Updated": "2025-04-17"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Customer Journey Analysis",
+        "Description": "Analyze touchpoints in the customer journey to improve experience.",
+        "Suggested Duration (days)": 7,
+        "Category": "Analysis",
+        "Tags": [
+          "Analysis",
+          "Documentation"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-03-10",
+        "Last Updated": "2025-05-16"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Investor Update Presentation",
+        "Description": "Create presentations updating investors on growth and AI integration.",
+        "Suggested Duration (days)": 4,
+        "Category": "Presentation",
+        "Tags": [
+          "Presentation",
+          "Review Required"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-05-08",
+        "Last Updated": "2025-06-22"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Emerging Tech Research",
+        "Description": "Investigate new technologies relevant to marketing AI applications.",
+        "Suggested Duration (days)": 9,
+        "Category": "Research",
+        "Tags": [
+          "Research",
+          "Technical"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2024-12-10",
+        "Last Updated": "2025-03-05"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Email Campaign Experiment",
+        "Description": "Test different AI-generated email templates for engagement.",
+        "Suggested Duration (days)": 5,
+        "Category": "Experiment",
+        "Tags": [
+          "Technical",
+          "High Priority"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-02-25",
+        "Last Updated": "2025-04-30"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Performance Metrics Analysis",
+        "Description": "Analyze key performance indicators for recent campaigns.",
+        "Suggested Duration (days)": 6,
+        "Category": "Analysis",
+        "Tags": [
+          "Analysis",
+          "Documentation"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-01-15",
+        "Last Updated": "2025-05-10"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Conference Keynote Presentation",
+        "Description": "Develop keynote presentation focusing on AI marketing breakthroughs.",
+        "Suggested Duration (days)": 6,
+        "Category": "Presentation",
+        "Tags": [
+          "Presentation",
+          "High Priority"
+        ],
+        "Default Priority": "Critical",
+        "Created Date": "2025-04-01",
+        "Last Updated": "2025-06-18"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Voice Search Research",
+        "Description": "Research the impact of voice search on marketing strategies.",
+        "Suggested Duration (days)": 7,
+        "Category": "Research",
+        "Tags": [
+          "Research",
+          "Collaborative"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2024-11-22",
+        "Last Updated": "2025-01-28"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Personalization Experiment",
+        "Description": "Experiment with AI-driven personalization to boost customer engagement.",
+        "Suggested Duration (days)": 5,
+        "Category": "Experiment",
+        "Tags": [
+          "Technical",
+          "High Priority"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-03-18",
+        "Last Updated": "2025-05-01"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Marketing Attribution Analysis",
+        "Description": "Analyze attribution models to better allocate budget across channels.",
+        "Suggested Duration (days)": 8,
+        "Category": "Analysis",
+        "Tags": [
+          "Analysis",
+          "Review Required"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-02-05",
+        "Last Updated": "2025-05-12"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Client Quarterly Presentation",
+        "Description": "Prepare presentations summarizing quarterly results for clients.",
+        "Suggested Duration (days)": 4,
+        "Category": "Presentation",
+        "Tags": [
+          "Presentation",
+          "Documentation"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-05-20",
+        "Last Updated": "2025-06-24"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Social Listening Research",
+        "Description": "Research online conversations to gauge brand sentiment.",
+        "Suggested Duration (days)": 7,
+        "Category": "Research",
+        "Tags": [
+          "Research",
+          "Technical"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2024-12-20",
+        "Last Updated": "2025-03-15"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Landing Page Experiment",
+        "Description": "Test AI-generated landing pages for conversion improvements.",
+        "Suggested Duration (days)": 5,
+        "Category": "Experiment",
+        "Tags": [
+          "Technical",
+          "Collaborative"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-02-28",
+        "Last Updated": "2025-04-20"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Budget Utilization Analysis",
+        "Description": "Analyze how effectively marketing budgets are being spent.",
+        "Suggested Duration (days)": 6,
+        "Category": "Analysis",
+        "Tags": [
+          "Analysis",
+          "Review Required"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-01-05",
+        "Last Updated": "2025-05-08"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Product Demo Presentation",
+        "Description": "Create product demo presentations highlighting AI capabilities.",
+        "Suggested Duration (days)": 3,
+        "Category": "Presentation",
+        "Tags": [
+          "Presentation",
+          "High Priority"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-04-25",
+        "Last Updated": "2025-06-14"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Influencer Impact Research",
+        "Description": "Study the impact of influencer marketing on campaign success.",
+        "Suggested Duration (days)": 8,
+        "Category": "Research",
+        "Tags": [
+          "Research",
+          "Collaborative"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2024-11-15",
+        "Last Updated": "2025-02-10"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Creative Concept Experiment",
+        "Description": "Test new creative concepts generated with AI assistance.",
+        "Suggested Duration (days)": 5,
+        "Category": "Experiment",
+        "Tags": [
+          "Technical",
+          "High Priority",
+          "Collaborative"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-03-12",
+        "Last Updated": "2025-04-25"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Engagement Rate Analysis",
+        "Description": "Analyze engagement rates across channels for optimization.",
+        "Suggested Duration (days)": 7,
+        "Category": "Analysis",
+        "Tags": [
+          "Analysis",
+          "Documentation"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-02-18",
+        "Last Updated": "2025-05-20"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Team Presentation Workshop",
+        "Description": "Workshop to improve presentation skills and content quality.",
+        "Suggested Duration (days)": 4,
+        "Category": "Presentation",
+        "Tags": [
+          "Presentation",
+          "Collaborative"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-05-02",
+        "Last Updated": "2025-06-16"
+      }
+    },
+    {
+      "fields": {
+        "Name": "AI Ethics Research",
+        "Description": "Research ethical considerations in AI-driven marketing.",
+        "Suggested Duration (days)": 9,
+        "Category": "Research",
+        "Tags": [
+          "Research",
+          "Technical"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2024-12-05",
+        "Last Updated": "2025-03-12"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Chatbot Experiment",
+        "Description": "Experiment with AI chatbots to improve customer support.",
+        "Suggested Duration (days)": 6,
+        "Category": "Experiment",
+        "Tags": [
+          "Technical",
+          "High Priority"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-02-20",
+        "Last Updated": "2025-05-05"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Funnel Drop-off Analysis",
+        "Description": "Analyze where customers drop off in the funnel to improve flow.",
+        "Suggested Duration (days)": 7,
+        "Category": "Analysis",
+        "Tags": [
+          "Analysis",
+          "Review Required"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-01-12",
+        "Last Updated": "2025-05-10"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Investor Relations Presentation",
+        "Description": "Prepare periodic presentations for investor communications.",
+        "Suggested Duration (days)": 4,
+        "Category": "Presentation",
+        "Tags": [
+          "Presentation",
+          "Documentation"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-04-10",
+        "Last Updated": "2025-06-08"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Mobile Marketing Research",
+        "Description": "Research trends and effectiveness in mobile marketing.",
+        "Suggested Duration (days)": 8,
+        "Category": "Research",
+        "Tags": [
+          "Research",
+          "Collaborative"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2024-11-28",
+        "Last Updated": "2025-02-18"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Personalized Ads Experiment",
+        "Description": "Test AI-driven personalized advertisements.",
+        "Suggested Duration (days)": 5,
+        "Category": "Experiment",
+        "Tags": [
+          "Technical",
+          "High Priority"
+        ],
+        "Default Priority": "Critical",
+        "Created Date": "2025-03-22",
+        "Last Updated": "2025-04-27"
+      }
+    },
+    {
+      "fields": {
+        "Name": "KPI Tracking Analysis",
+        "Description": "Analyze tracking methods and results for key performance indicators.",
+        "Suggested Duration (days)": 6,
+        "Category": "Analysis",
+        "Tags": [
+          "Analysis",
+          "Documentation"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-01-22",
+        "Last Updated": "2025-05-14"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Product Roadmap Presentation",
+        "Description": "Create presentations outlining upcoming product features.",
+        "Suggested Duration (days)": 4,
+        "Category": "Presentation",
+        "Tags": [
+          "Presentation",
+          "Collaborative"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-05-18",
+        "Last Updated": "2025-06-20"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Voice AI Research",
+        "Description": "Research applications of voice AI in marketing strategies.",
+        "Suggested Duration (days)": 9,
+        "Category": "Research",
+        "Tags": [
+          "Research",
+          "Technical"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2024-12-12",
+        "Last Updated": "2025-03-08"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Customer Retention Experiment",
+        "Description": "Experiment with AI tactics to improve customer retention rates.",
+        "Suggested Duration (days)": 5,
+        "Category": "Experiment",
+        "Tags": [
+          "Technical",
+          "High Priority"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-02-14",
+        "Last Updated": "2025-04-22"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Sentiment Trend Analysis",
+        "Description": "Analyze sentiment trends over time for brand health insights.",
+        "Suggested Duration (days)": 7,
+        "Category": "Analysis",
+        "Tags": [
+          "Analysis",
+          "Review Required"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-03-08",
+        "Last Updated": "2025-05-19"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Sales Training Presentation",
+        "Description": "Create engaging training materials for sales teams on AI tools.",
+        "Suggested Duration (days)": 4,
+        "Category": "Presentation",
+        "Tags": [
+          "Presentation",
+          "Documentation"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-04-18",
+        "Last Updated": "2025-06-13"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Cross-channel Research",
+        "Description": "Research effectiveness of cross-channel marketing campaigns.",
+        "Suggested Duration (days)": 8,
+        "Category": "Research",
+        "Tags": [
+          "Research",
+          "Collaborative"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2024-11-20",
+        "Last Updated": "2025-02-14"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Conversion Funnel Experiment",
+        "Description": "Experiment with funnel optimizations to increase conversions.",
+        "Suggested Duration (days)": 5,
+        "Category": "Experiment",
+        "Tags": [
+          "Technical",
+          "High Priority"
+        ],
+        "Default Priority": "Critical",
+        "Created Date": "2025-03-16",
+        "Last Updated": "2025-04-29"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Marketing Spend Analysis",
+        "Description": "Analyze spending patterns and optimize budget allocation.",
+        "Suggested Duration (days)": 6,
+        "Category": "Analysis",
+        "Tags": [
+          "Analysis",
+          "Review Required"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-01-17",
+        "Last Updated": "2025-05-11"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Client Strategy Presentation",
+        "Description": "Prepare strategic presentations for client campaigns.",
+        "Suggested Duration (days)": 4,
+        "Category": "Presentation",
+        "Tags": [
+          "Presentation",
+          "Collaborative"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-05-10",
+        "Last Updated": "2025-06-21"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Influencer Engagement Research",
+        "Description": "Research on influencer engagement metrics for marketing.",
+        "Suggested Duration (days)": 7,
+        "Category": "Research",
+        "Tags": [
+          "Research",
+          "Technical"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2024-12-08",
+        "Last Updated": "2025-03-10"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Ad Copy Experiment",
+        "Description": "Test various AI-generated ad copies for effectiveness.",
+        "Suggested Duration (days)": 5,
+        "Category": "Experiment",
+        "Tags": [
+          "Technical",
+          "High Priority"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-02-26",
+        "Last Updated": "2025-04-18"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Customer Feedback Analysis",
+        "Description": "Analyze customer feedback for product and campaign improvements.",
+        "Suggested Duration (days)": 7,
+        "Category": "Analysis",
+        "Tags": [
+          "Analysis",
+          "Documentation"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-03-12",
+        "Last Updated": "2025-05-22"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Marketing Plan Presentation",
+        "Description": "Develop quarterly marketing plan presentations for stakeholders.",
+        "Suggested Duration (days)": 4,
+        "Category": "Presentation",
+        "Tags": [
+          "Presentation",
+          "Documentation"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-04-22",
+        "Last Updated": "2025-06-17"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Emerging Market Research",
+        "Description": "Research opportunities in emerging markets using AI data.",
+        "Suggested Duration (days)": 8,
+        "Category": "Research",
+        "Tags": [
+          "Research",
+          "Collaborative"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2024-11-23",
+        "Last Updated": "2025-02-19"
+      }
+    },
+    {
+      "fields": {
+        "Name": "UX Optimization Experiment",
+        "Description": "Test UX changes to increase user satisfaction and engagement.",
+        "Suggested Duration (days)": 5,
+        "Category": "Experiment",
+        "Tags": [
+          "Technical",
+          "High Priority"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-03-20",
+        "Last Updated": "2025-04-27"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Campaign Impact Analysis",
+        "Description": "Analyze the impact of recent campaigns on sales and visibility.",
+        "Suggested Duration (days)": 6,
+        "Category": "Analysis",
+        "Tags": [
+          "Analysis",
+          "Review Required"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-01-19",
+        "Last Updated": "2025-05-15"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Product Showcase Presentation",
+        "Description": "Create presentations for product showcases and demos.",
+        "Suggested Duration (days)": 4,
+        "Category": "Presentation",
+        "Tags": [
+          "Presentation",
+          "High Priority"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-05-12",
+        "Last Updated": "2025-06-19"
+      }
+    },
+    {
+      "fields": {
+        "Name": "AI Trend Research",
+        "Description": "Research latest trends in AI and their marketing applications.",
+        "Suggested Duration (days)": 9,
+        "Category": "Research",
+        "Tags": [
+          "Research",
+          "Technical"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2024-12-02",
+        "Last Updated": "2025-03-14"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Social Ads Experiment",
+        "Description": "Experiment with AI-optimized social media ads.",
+        "Suggested Duration (days)": 5,
+        "Category": "Experiment",
+        "Tags": [
+          "Technical",
+          "High Priority"
+        ],
+        "Default Priority": "Critical",
+        "Created Date": "2025-02-16",
+        "Last Updated": "2025-04-25"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Analytics Dashboard Analysis",
+        "Description": "Analyze data dashboards to improve reporting accuracy.",
+        "Suggested Duration (days)": 7,
+        "Category": "Analysis",
+        "Tags": [
+          "Analysis",
+          "Documentation"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-03-04",
+        "Last Updated": "2025-05-20"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Team Pitch Presentation",
+        "Description": "Create internal pitch presentations to drive project buy-in.",
+        "Suggested Duration (days)": 4,
+        "Category": "Presentation",
+        "Tags": [
+          "Presentation",
+          "Collaborative"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-05-01",
+        "Last Updated": "2025-06-15"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Customer Persona Research",
+        "Description": "Research detailed customer personas for AI targeting.",
+        "Suggested Duration (days)": 8,
+        "Category": "Research",
+        "Tags": [
+          "Research",
+          "Technical"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2024-11-27",
+        "Last Updated": "2025-02-13"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Retargeting Experiment",
+        "Description": "Test AI-driven retargeting campaigns for performance gains.",
+        "Suggested Duration (days)": 5,
+        "Category": "Experiment",
+        "Tags": [
+          "Technical",
+          "High Priority"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-03-14",
+        "Last Updated": "2025-04-28"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Channel Performance Analysis",
+        "Description": "Analyze performance across marketing channels for optimization.",
+        "Suggested Duration (days)": 6,
+        "Category": "Analysis",
+        "Tags": [
+          "Analysis",
+          "Review Required"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-01-11",
+        "Last Updated": "2025-05-09"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Client Onboarding Presentation",
+        "Description": "Create presentations to onboard new clients efficiently.",
+        "Suggested Duration (days)": 4,
+        "Category": "Presentation",
+        "Tags": [
+          "Presentation",
+          "Documentation"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-04-12",
+        "Last Updated": "2025-06-11"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Market Segmentation Research",
+        "Description": "Research market segmentation to improve targeting strategies.",
+        "Suggested Duration (days)": 7,
+        "Category": "Research",
+        "Tags": [
+          "Research",
+          "Collaborative"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2024-12-07",
+        "Last Updated": "2025-03-02"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Landing Page A/B Test Experiment",
+        "Description": "Test landing page designs using AI tools to improve conversion.",
+        "Suggested Duration (days)": 5,
+        "Category": "Experiment",
+        "Tags": [
+          "Technical",
+          "High Priority"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-02-22",
+        "Last Updated": "2025-04-21"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Lead Generation Analysis",
+        "Description": "Analyze lead generation tactics and effectiveness.",
+        "Suggested Duration (days)": 7,
+        "Category": "Analysis",
+        "Tags": [
+          "Analysis",
+          "Documentation"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-03-06",
+        "Last Updated": "2025-05-18"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Sales Enablement Presentation",
+        "Description": "Prepare presentations for sales enablement and training.",
+        "Suggested Duration (days)": 4,
+        "Category": "Presentation",
+        "Tags": [
+          "Presentation",
+          "Collaborative"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-05-14",
+        "Last Updated": "2025-06-23"
+      }
+    },
+    {
+      "fields": {
+        "Name": "AI Integration Research",
+        "Description": "Research best practices for integrating AI in marketing workflows.",
+        "Suggested Duration (days)": 8,
+        "Category": "Research",
+        "Tags": [
+          "Research",
+          "Technical"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2024-11-21",
+        "Last Updated": "2025-02-17"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Behavioral Targeting Experiment",
+        "Description": "Experiment with behavioral targeting using AI algorithms.",
+        "Suggested Duration (days)": 5,
+        "Category": "Experiment",
+        "Tags": [
+          "Technical",
+          "High Priority"
+        ],
+        "Default Priority": "Critical",
+        "Created Date": "2025-03-18",
+        "Last Updated": "2025-04-30"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Campaign Attribution Analysis",
+        "Description": "Analyze the attribution of campaigns to sales and leads.",
+        "Suggested Duration (days)": 6,
+        "Category": "Analysis",
+        "Tags": [
+          "Analysis",
+          "Review Required"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-01-16",
+        "Last Updated": "2025-05-13"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Executive Presentation",
+        "Description": "Develop executive-level presentations on marketing progress.",
+        "Suggested Duration (days)": 4,
+        "Category": "Presentation",
+        "Tags": [
+          "Presentation",
+          "High Priority"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-04-14",
+        "Last Updated": "2025-06-19"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Emerging Channels Research",
+        "Description": "Research new marketing channels and their potential.",
+        "Suggested Duration (days)": 7,
+        "Category": "Research",
+        "Tags": [
+          "Research",
+          "Collaborative"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2024-12-03",
+        "Last Updated": "2025-03-06"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Customer Satisfaction Experiment",
+        "Description": "Experiment with AI tools to increase customer satisfaction metrics.",
+        "Suggested Duration (days)": 5,
+        "Category": "Experiment",
+        "Tags": [
+          "Technical",
+          "High Priority"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-02-19",
+        "Last Updated": "2025-04-22"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Funnel Efficiency Analysis",
+        "Description": "Analyze funnel efficiency and identify bottlenecks.",
+        "Suggested Duration (days)": 7,
+        "Category": "Analysis",
+        "Tags": [
+          "Analysis",
+          "Documentation"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-03-11",
+        "Last Updated": "2025-05-21"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Product Update Presentation",
+        "Description": "Prepare presentations to announce product updates and features.",
+        "Suggested Duration (days)": 4,
+        "Category": "Presentation",
+        "Tags": [
+          "Presentation",
+          "Collaborative"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-05-09",
+        "Last Updated": "2025-06-18"
+      }
+    },
+    {
+      "fields": {
+        "Name": "AI Model Research",
+        "Description": "Research AI models applicable to marketing data analysis.",
+        "Suggested Duration (days)": 8,
+        "Category": "Research",
+        "Tags": [
+          "Research",
+          "Technical"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2024-11-26",
+        "Last Updated": "2025-02-12"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Ad Placement Experiment",
+        "Description": "Test AI-optimized ad placements for better performance.",
+        "Suggested Duration (days)": 5,
+        "Category": "Experiment",
+        "Tags": [
+          "Technical",
+          "High Priority"
+        ],
+        "Default Priority": "Critical",
+        "Created Date": "2025-03-14",
+        "Last Updated": "2025-04-26"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Engagement Metrics Analysis",
+        "Description": "Analyze engagement metrics to guide content strategy.",
+        "Suggested Duration (days)": 6,
+        "Category": "Analysis",
+        "Tags": [
+          "Analysis",
+          "Review Required"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-01-13",
+        "Last Updated": "2025-05-07"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Marketing Workshop Presentation",
+        "Description": "Create presentations for internal marketing workshops.",
+        "Suggested Duration (days)": 4,
+        "Category": "Presentation",
+        "Tags": [
+          "Presentation",
+          "Collaborative"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-04-16",
+        "Last Updated": "2025-06-14"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Voice Marketing Research",
+        "Description": "Research the impact of voice marketing on consumer behavior.",
+        "Suggested Duration (days)": 7,
+        "Category": "Research",
+        "Tags": [
+          "Research",
+          "Collaborative"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2024-12-09",
+        "Last Updated": "2025-03-09"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Email Subject Line Experiment",
+        "Description": "Experiment with AI-generated email subject lines for open rates.",
+        "Suggested Duration (days)": 5,
+        "Category": "Experiment",
+        "Tags": [
+          "Technical",
+          "High Priority"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-02-24",
+        "Last Updated": "2025-04-24"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Content Performance Analysis",
+        "Description": "Analyze content performance across platforms for improvements.",
+        "Suggested Duration (days)": 7,
+        "Category": "Analysis",
+        "Tags": [
+          "Analysis",
+          "Documentation"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-03-02",
+        "Last Updated": "2025-05-19"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Investor Presentation Update",
+        "Description": "Update investor presentations with latest data and forecasts.",
+        "Suggested Duration (days)": 4,
+        "Category": "Presentation",
+        "Tags": [
+          "Presentation",
+          "Review Required"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-05-06",
+        "Last Updated": "2025-06-21"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Market Expansion Research",
+        "Description": "Research potential markets for expansion using AI insights.",
+        "Suggested Duration (days)": 8,
+        "Category": "Research",
+        "Tags": [
+          "Research",
+          "Technical"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2024-11-24",
+        "Last Updated": "2025-02-22"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Social Media Ads Experiment",
+        "Description": "Test AI-optimized social media advertising campaigns.",
+        "Suggested Duration (days)": 5,
+        "Category": "Experiment",
+        "Tags": [
+          "Technical",
+          "High Priority"
+        ],
+        "Default Priority": "Critical",
+        "Created Date": "2025-03-17",
+        "Last Updated": "2025-04-29"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Lead Quality Analysis",
+        "Description": "Analyze quality of leads generated from different channels.",
+        "Suggested Duration (days)": 6,
+        "Category": "Analysis",
+        "Tags": [
+          "Analysis",
+          "Review Required"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-01-18",
+        "Last Updated": "2025-05-16"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Client Success Presentation",
+        "Description": "Prepare presentations showcasing client success stories.",
+        "Suggested Duration (days)": 4,
+        "Category": "Presentation",
+        "Tags": [
+          "Presentation",
+          "Documentation"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-04-20",
+        "Last Updated": "2025-06-20"
+      }
+    },
+    {
+      "fields": {
+        "Name": "AI Capability Research",
+        "Description": "Research new AI capabilities to enhance marketing services.",
+        "Suggested Duration (days)": 9,
+        "Category": "Research",
+        "Tags": [
+          "Research",
+          "Technical"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2024-11-19",
+        "Last Updated": "2025-03-11"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Targeting Strategy Experiment",
+        "Description": "Experiment with AI-driven targeting strategies.",
+        "Suggested Duration (days)": 5,
+        "Category": "Experiment",
+        "Tags": [
+          "Technical",
+          "High Priority"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-02-21",
+        "Last Updated": "2025-04-23"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Campaign ROI Analysis",
+        "Description": "Analyze campaign return on investment for optimization.",
+        "Suggested Duration (days)": 7,
+        "Category": "Analysis",
+        "Tags": [
+          "Analysis",
+          "Documentation"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-03-09",
+        "Last Updated": "2025-05-17"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Sales Presentation Development",
+        "Description": "Develop sales presentations highlighting AI marketing benefits.",
+        "Suggested Duration (days)": 4,
+        "Category": "Presentation",
+        "Tags": [
+          "Presentation",
+          "Collaborative"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-05-11",
+        "Last Updated": "2025-06-22"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Content Strategy Research",
+        "Description": "Research content strategies that leverage AI for engagement.",
+        "Suggested Duration (days)": 8,
+        "Category": "Research",
+        "Tags": [
+          "Research",
+          "Collaborative"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2024-11-29",
+        "Last Updated": "2025-02-21"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Ad Frequency Experiment",
+        "Description": "Test optimal ad frequency to avoid audience fatigue.",
+        "Suggested Duration (days)": 5,
+        "Category": "Experiment",
+        "Tags": [
+          "Technical",
+          "High Priority"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-03-19",
+        "Last Updated": "2025-04-27"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Customer Loyalty Analysis",
+        "Description": "Analyze factors contributing to customer loyalty.",
+        "Suggested Duration (days)": 6,
+        "Category": "Analysis",
+        "Tags": [
+          "Analysis",
+          "Review Required"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-01-14",
+        "Last Updated": "2025-05-12"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Internal Training Presentation",
+        "Description": "Create presentations for internal training on AI tools.",
+        "Suggested Duration (days)": 4,
+        "Category": "Presentation",
+        "Tags": [
+          "Presentation",
+          "Collaborative"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-04-13",
+        "Last Updated": "2025-06-16"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Market Trend Analysis",
+        "Description": "Conduct a comprehensive analysis on current market trends to identify opportunities for AI-driven marketing strategies.",
+        "Suggested Duration (days)": 7,
+        "Category": "Research",
+        "Tags": [
+          "Research",
+          "Analysis"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2024-08-15",
+        "Last Updated": "2025-05-20"
+      }
+    },
+    {
+      "fields": {
+        "Name": "User Behavior Experiment",
+        "Description": "Design and execute experiments to test user engagement with AI-powered marketing tools.",
+        "Suggested Duration (days)": 10,
+        "Category": "Experiment",
+        "Tags": [
+          "Technical",
+          "Collaborative"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-01-10",
+        "Last Updated": "2025-06-01"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Campaign Performance Review",
+        "Description": "Analyze data from recent marketing campaigns to assess performance and ROI.",
+        "Suggested Duration (days)": 5,
+        "Category": "Analysis",
+        "Tags": [
+          "Analysis",
+          "Review Required"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2024-12-05",
+        "Last Updated": "2025-04-22"
+      }
+    },
+    {
+      "fields": {
+        "Name": "AI Tool Presentation",
+        "Description": "Prepare and deliver a presentation highlighting the benefits of AI tools for client marketing growth.",
+        "Suggested Duration (days)": 3,
+        "Category": "Presentation",
+        "Tags": [
+          "Presentation",
+          "Documentation"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-03-12",
+        "Last Updated": "2025-06-10"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Competitor Research",
+        "Description": "Gather and evaluate competitor marketing strategies to inform AI solution customization.",
+        "Suggested Duration (days)": 6,
+        "Category": "Research",
+        "Tags": [
+          "High Priority",
+          "Research"
+        ],
+        "Default Priority": "Critical",
+        "Created Date": "2024-09-20",
+        "Last Updated": "2025-02-15"
+      }
+    },
+    {
+      "fields": {
+        "Name": "A/B Testing Setup",
+        "Description": "Implement A/B tests to compare different marketing messages using AI insights.",
+        "Suggested Duration (days)": 8,
+        "Category": "Experiment",
+        "Tags": [
+          "Technical",
+          "Research"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-02-25",
+        "Last Updated": "2025-05-30"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Data Visualization for Stakeholders",
+        "Description": "Create visual reports to communicate AI marketing analytics results to stakeholders.",
+        "Suggested Duration (days)": 4,
+        "Category": "Presentation",
+        "Tags": [
+          "Presentation",
+          "Documentation"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2024-11-11",
+        "Last Updated": "2025-05-01"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Sentiment Analysis Review",
+        "Description": "Analyze customer feedback using AI tools to gauge sentiment towards marketing campaigns.",
+        "Suggested Duration (days)": 7,
+        "Category": "Analysis",
+        "Tags": [
+          "Analysis",
+          "Technical"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2024-10-18",
+        "Last Updated": "2025-03-29"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Content Research for AI Models",
+        "Description": "Research content types that improve AI model marketing predictions.",
+        "Suggested Duration (days)": 9,
+        "Category": "Research",
+        "Tags": [
+          "Research",
+          "Collaborative"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-01-05",
+        "Last Updated": "2025-05-15"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Prototype Experimentation",
+        "Description": "Develop and test a prototype AI marketing tool with selected clients.",
+        "Suggested Duration (days)": 12,
+        "Category": "Experiment",
+        "Tags": [
+          "Technical",
+          "High Priority"
+        ],
+        "Default Priority": "Critical",
+        "Created Date": "2024-07-22",
+        "Last Updated": "2025-06-15"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Marketing Metrics Analysis",
+        "Description": "Evaluate key marketing metrics to identify AI-driven improvements.",
+        "Suggested Duration (days)": 6,
+        "Category": "Analysis",
+        "Tags": [
+          "Analysis",
+          "Review Required"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2024-09-01",
+        "Last Updated": "2025-04-10"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Client Pitch Presentation",
+        "Description": "Prepare a compelling presentation for prospective clients on AI marketing benefits.",
+        "Suggested Duration (days)": 4,
+        "Category": "Presentation",
+        "Tags": [
+          "Presentation",
+          "Collaborative"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-03-01",
+        "Last Updated": "2025-06-12"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Keyword Research",
+        "Description": "Identify trending keywords using AI to optimize marketing campaigns.",
+        "Suggested Duration (days)": 5,
+        "Category": "Research",
+        "Tags": [
+          "Research",
+          "Technical"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2024-12-15",
+        "Last Updated": "2025-05-05"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Customer Segmentation Experiment",
+        "Description": "Test AI-driven customer segmentation strategies for targeted marketing.",
+        "Suggested Duration (days)": 11,
+        "Category": "Experiment",
+        "Tags": [
+          "Technical",
+          "Collaborative"
+        ],
+        "Default Priority": "Critical",
+        "Created Date": "2024-08-30",
+        "Last Updated": "2025-06-08"
+      }
+    },
+    {
+      "fields": {
+        "Name": "ROI Data Analysis",
+        "Description": "Analyze return on investment from recent AI marketing initiatives.",
+        "Suggested Duration (days)": 7,
+        "Category": "Analysis",
+        "Tags": [
+          "Analysis",
+          "High Priority"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2024-10-05",
+        "Last Updated": "2025-04-25"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Webinar Presentation",
+        "Description": "Develop and host a webinar to educate clients on AI marketing solutions.",
+        "Suggested Duration (days)": 5,
+        "Category": "Presentation",
+        "Tags": [
+          "Presentation",
+          "Documentation"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-02-20",
+        "Last Updated": "2025-06-20"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Trend Forecast Research",
+        "Description": "Forecast upcoming marketing trends using AI predictive analytics.",
+        "Suggested Duration (days)": 8,
+        "Category": "Research",
+        "Tags": [
+          "Research",
+          "Technical"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2024-11-25",
+        "Last Updated": "2025-05-18"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Algorithm Testing",
+        "Description": "Experiment with different AI algorithms to optimize marketing outputs.",
+        "Suggested Duration (days)": 13,
+        "Category": "Experiment",
+        "Tags": [
+          "Technical",
+          "High Priority"
+        ],
+        "Default Priority": "Critical",
+        "Created Date": "2024-09-10",
+        "Last Updated": "2025-06-05"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Campaign Data Analysis",
+        "Description": "Perform detailed analysis of campaign data to refine AI models.",
+        "Suggested Duration (days)": 6,
+        "Category": "Analysis",
+        "Tags": [
+          "Analysis",
+          "Review Required"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2024-12-28",
+        "Last Updated": "2025-05-22"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Sales Pitch Presentation",
+        "Description": "Create and present sales pitches incorporating AI marketing advantages.",
+        "Suggested Duration (days)": 4,
+        "Category": "Presentation",
+        "Tags": [
+          "Presentation",
+          "Collaborative"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-01-15",
+        "Last Updated": "2025-06-14"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Industry Report Research",
+        "Description": "Compile research reports on AI usage in marketing industries.",
+        "Suggested Duration (days)": 7,
+        "Category": "Research",
+        "Tags": [
+          "Research",
+          "Documentation"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2024-10-12",
+        "Last Updated": "2025-04-30"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Feature Testing Experiment",
+        "Description": "Test new features in AI marketing tools with select user groups.",
+        "Suggested Duration (days)": 10,
+        "Category": "Experiment",
+        "Tags": [
+          "Technical",
+          "Collaborative"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2024-08-05",
+        "Last Updated": "2025-05-28"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Audience Analytics",
+        "Description": "Analyze audience data to improve AI-driven targeting strategies.",
+        "Suggested Duration (days)": 6,
+        "Category": "Analysis",
+        "Tags": [
+          "Analysis",
+          "Technical"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2025-02-02",
+        "Last Updated": "2025-05-19"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Investor Presentation",
+        "Description": "Prepare presentation materials to attract investors for AI marketing projects.",
+        "Suggested Duration (days)": 3,
+        "Category": "Presentation",
+        "Tags": [
+          "Presentation",
+          "Documentation"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-03-25",
+        "Last Updated": "2025-06-18"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Social Media Research",
+        "Description": "Research AI tools to optimize social media marketing campaigns.",
+        "Suggested Duration (days)": 5,
+        "Category": "Research",
+        "Tags": [
+          "Research",
+          "Technical"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2024-11-17",
+        "Last Updated": "2025-05-10"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Behavioral Experiment",
+        "Description": "Conduct experiments to assess user behavior in response to AI-generated content.",
+        "Suggested Duration (days)": 9,
+        "Category": "Experiment",
+        "Tags": [
+          "Collaborative",
+          "Research"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2024-07-29",
+        "Last Updated": "2025-06-07"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Performance Metrics Analysis",
+        "Description": "Analyze performance metrics to enhance AI marketing algorithms.",
+        "Suggested Duration (days)": 7,
+        "Category": "Analysis",
+        "Tags": [
+          "Analysis",
+          "High Priority"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2024-10-22",
+        "Last Updated": "2025-04-27"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Client Demo Presentation",
+        "Description": "Deliver live demos of AI marketing solutions to clients.",
+        "Suggested Duration (days)": 4,
+        "Category": "Presentation",
+        "Tags": [
+          "Presentation",
+          "Collaborative"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-02-28",
+        "Last Updated": "2025-06-21"
+      }
+    },
+    {
+      "fields": {
+        "Name": "SEO Research",
+        "Description": "Research AI-enhanced SEO techniques for marketing optimization.",
+        "Suggested Duration (days)": 6,
+        "Category": "Research",
+        "Tags": [
+          "Technical",
+          "Research"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2024-12-08",
+        "Last Updated": "2025-05-14"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Prototype Feedback Experiment",
+        "Description": "Test prototypes and gather user feedback to improve AI tools.",
+        "Suggested Duration (days)": 11,
+        "Category": "Experiment",
+        "Tags": [
+          "Collaborative",
+          "Review Required"
+        ],
+        "Default Priority": "Critical",
+        "Created Date": "2024-09-18",
+        "Last Updated": "2025-06-11"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Analytics Report Analysis",
+        "Description": "Analyze detailed analytics reports to guide marketing strategies.",
+        "Suggested Duration (days)": 5,
+        "Category": "Analysis",
+        "Tags": [
+          "Analysis",
+          "Documentation"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2024-11-02",
+        "Last Updated": "2025-05-02"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Marketing Strategy Presentation",
+        "Description": "Present AI-driven marketing strategies to internal teams and clients.",
+        "Suggested Duration (days)": 4,
+        "Category": "Presentation",
+        "Tags": [
+          "Presentation",
+          "Technical"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-01-30",
+        "Last Updated": "2025-06-16"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Emerging Tech Research",
+        "Description": "Research emerging technologies that can be integrated into AI marketing.",
+        "Suggested Duration (days)": 8,
+        "Category": "Research",
+        "Tags": [
+          "Research",
+          "High Priority"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2024-08-25",
+        "Last Updated": "2025-04-15"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Conversion Rate Experiment",
+        "Description": "Experiment with different AI tactics to improve conversion rates.",
+        "Suggested Duration (days)": 10,
+        "Category": "Experiment",
+        "Tags": [
+          "Technical",
+          "High Priority"
+        ],
+        "Default Priority": "Critical",
+        "Created Date": "2024-10-01",
+        "Last Updated": "2025-06-09"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Campaign Effectiveness Analysis",
+        "Description": "Analyze the effectiveness of AI-powered marketing campaigns.",
+        "Suggested Duration (days)": 6,
+        "Category": "Analysis",
+        "Tags": [
+          "Analysis",
+          "Review Required"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2024-12-20",
+        "Last Updated": "2025-05-24"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Market Trend Analysis",
+        "Description": "Comprehensive analysis of current market trends using AI-driven insights to guide campaign strategy.",
+        "Suggested Duration (days)": 7,
+        "Category": "Analysis",
+        "Tags": [
+          "Research",
+          "Analysis",
+          "Review Required"
+        ],
+        "Default Priority": "High",
+        "Created Date": "2024-12-15",
+        "Last Updated": "2025-05-20"
+      }
+    },
+    {
+      "fields": {
+        "Name": "AI-Powered Content Experiment",
+        "Description": "Testing various AI-generated content formats to determine effectiveness across different platforms.",
+        "Suggested Duration (days)": 10,
+        "Category": "Experiment",
+        "Tags": [
+          "Technical",
+          "Collaborative",
+          "High Priority"
+        ],
+        "Default Priority": "Critical",
+        "Created Date": "2025-01-10",
+        "Last Updated": "2025-06-10"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Quarterly Presentation Prep",
+        "Description": "Preparation of a comprehensive quarterly presentation highlighting AI impact on client growth and campaign success.",
+        "Suggested Duration (days)": 5,
+        "Category": "Presentation",
+        "Tags": [
+          "Presentation",
+          "Documentation",
+          "Collaborative"
+        ],
+        "Default Priority": "Medium",
+        "Created Date": "2025-04-01",
+        "Last Updated": "2025-06-18"
+      }
+    }
+  ]
+}

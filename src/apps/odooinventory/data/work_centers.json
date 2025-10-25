@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Cutting & Prep Station",
+        "code": "CUT_PREP",
+        "time_efficiency": 90.0,
+        "default_capacity": 2.0,
+        "oee_target": 85.0,
+        "costs_hour": 50.0,
+        "note": "Initial stage for cutting raw materials and prepping them for production."
+    },
+    {
+        "name": "Assembly Line A",
+        "code": "ASSY_A",
+        "time_efficiency": 85.0,
+        "default_capacity": 5.0,
+        "oee_target": 80.0,
+        "costs_hour": 75.0,
+        "note": "Main assembly line for consumer electronics, handling various products."
+    },
+    {
+        "name": "Quality Control",
+        "code": "QC",
+        "time_efficiency": 95.0,
+        "default_capacity": 3.0,
+        "oee_target": 90.0,
+        "costs_hour": 60.0,
+        "note": "Ensures all products meet quality standards before packaging."
+    },
+    {
+        "name": "Packaging Station",
+        "code": "PACK",
+        "time_efficiency": 88.0,
+        "default_capacity": 4.0,
+        "oee_target": 82.0,
+        "costs_hour": 55.0,
+        "note": "Packaging finished goods for shipment and retail distribution."
+    },
+    {
+        "name": "Warehouse & Inventory",
+        "code": "WH_INV",
+        "time_efficiency": 80.0,
+        "default_capacity": 10.0,
+        "oee_target": 75.0,
+        "costs_hour": 40.0,
+        "note": "Storage area for raw materials and finished goods management."
+    },
+    {
+        "name": "Final Inspection",
+        "code": "FIN_INS",
+        "time_efficiency": 92.0,
+        "default_capacity": 2.0,
+        "oee_target": 87.0,
+        "costs_hour": 65.0,
+        "note": "Final checks and inspections before products leave the facility."
+    },
+    {
+        "name": "Painting & Finishing",
+        "code": "PAINT_FIN",
+        "time_efficiency": 86.0,
+        "default_capacity": 3.0,
+        "oee_target": 83.0,
+        "costs_hour": 70.0,
+        "note": "Processes for painting and finishing products before assembly."
+    },
+    {
+        "name": "Logistics & Shipping",
+        "code": "LOG_SHIP",
+        "time_efficiency": 89.0,
+        "default_capacity": 4.0,
+        "oee_target": 80.0,
+        "costs_hour": 50.0,
+        "note": "Handles the logistics and shipping of finished products to retailers."
+    },
+    {
+        "name": "Research & Development",
+        "code": "R&D",
+        "time_efficiency": 75.0,
+        "default_capacity": 1.0,
+        "oee_target": 78.0,
+        "costs_hour": 100.0,
+        "note": "Focuses on developing new products and improving existing ones."
+    },
+    {
+        "name": "Maintenance Workshop",
+        "code": "MAINT",
+        "time_efficiency": 80.0,
+        "default_capacity": 1.0,
+        "oee_target": 70.0,
+        "costs_hour": 45.0,
+        "note": "Repairs and maintains machinery and equipment used in production."
+    },
+    {
+        "name": "Customer Service Area",
+        "code": "CUST_SVC",
+        "time_efficiency": 88.0,
+        "default_capacity": 3.0,
+        "oee_target": 85.0,
+        "costs_hour": 40.0,
+        "note": "Handles inquiries, complaints, and support for customers."
+    },
+    {
+        "name": "Training Facility",
+        "code": "TRAIN",
+        "time_efficiency": 80.0,
+        "default_capacity": 2.0,
+        "oee_target": 75.0,
+        "costs_hour": 30.0,
+        "note": "Dedicated space for employee training and skill development."
+    }
+]

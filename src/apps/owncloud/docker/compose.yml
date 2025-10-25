@@ -1,0 +1,31 @@
+services:
+  ocis:
+    image: owncloud/ocis:latest
+    environment:
+      # INSECURE: needed if oCIS is using self generated certificates
+      OCIS_INSECURE: "true"
+      
+      # OCIS_URL: the external domain / ip address of oCIS (with protocol, must always be https)
+      OCIS_URL: "https://localhost:9200"
+      
+      # OCIS_LOG_LEVEL: error / info / ... / debug
+      OCIS_LOG_LEVEL: info
+      
+      # Set admin password (overrides config file)
+      IDM_ADMIN_PASSWORD: "admin"
+
+      # Allowing basic auth for the proxy
+      PROXY_ENABLE_BASIC_AUTH: "true"
+    volumes:
+      # mount the ocis config file inside the container
+      - "./ocis.yaml:/etc/ocis/ocis.yaml"
+      # use a named volume for the ocis data directory
+      - "ocis-data:/var/lib/ocis"
+    ports:
+      - 9200:9200
+    restart: always
+    logging:
+      driver: local
+
+volumes:
+  ocis-data:

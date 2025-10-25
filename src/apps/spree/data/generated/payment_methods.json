@@ -1,0 +1,56 @@
+{
+  "payment_methods": [
+    {
+      "type": "Spree::Gateway::BogusSimple",
+      "name": "Credit & Debit Cards",
+      "description": "Pay securely with Visa, Mastercard, American Express, and Discover",
+      "active": true,
+      "display_on": "both",
+      "auto_capture": true,
+      "preferences": "{\"allowed_cards\": [\"visa\", \"mastercard\", \"amex\", \"discover\"]}",
+      "position": 0,
+      "public_metadata": "{\"accepted_cards\": [\"Visa\", \"Mastercard\", \"American Express\", \"Discover\"], \"card_logos\": true}",
+      "private_metadata": "{\"processor\": \"Stripe\", \"merchant_id\": \"fuzzloft_merchant_001\"}",
+      "settings": "{\"test_mode\": false, \"require_cvc\": true}"
+    },
+    {
+      "type": "Spree::PaymentMethod::Check",
+      "name": "Mail-In Check",
+      "description": "Pay by personal or business check, processed within 3-5 business days",
+      "active": true,
+      "display_on": "both",
+      "auto_capture": false,
+      "preferences": "{\"check_types\": [\"personal\", \"business\"], \"min_amount\": 10, \"max_amount\": 1000}",
+      "position": 1,
+      "public_metadata": "{\"processing_time\": \"3-5 business days\", \"mailing_address\": \"Fuzzloft Payments, PO Box 12345, Portland, OR 97211\"}",
+      "private_metadata": "{\"bank_verification_required\": true, \"default_hold_period\": 7}",
+      "settings": "{\"require_signature\": true}"
+    },
+    {
+      "type": "Spree::PaymentMethod::StoreCredit",
+      "name": "Fuzzloft Store Credit",
+      "description": "Use your store credit balance for instant purchases",
+      "active": true,
+      "display_on": "both",
+      "auto_capture": true,
+      "preferences": "{\"min_balance\": 5, \"expiration_months\": 24}",
+      "position": 2,
+      "public_metadata": "{\"loyalty_program\": true, \"credit_earning_rate\": \"5% of purchase\"}",
+      "private_metadata": "{\"program_start_date\": \"2023-01-01\", \"total_credits_issued\": 50000}",
+      "settings": "{\"allow_partial_use\": true}"
+    },
+    {
+      "type": "Spree::Gateway::BogusSimple",
+      "name": "PayPal Express",
+      "description": "Quick and secure checkout using your PayPal account",
+      "active": true,
+      "display_on": "both",
+      "auto_capture": true,
+      "preferences": "{\"payment_platform\": \"PayPal\", \"express_checkout\": true}",
+      "position": 3,
+      "public_metadata": "{\"supported_countries\": [\"US\", \"CA\"], \"instant_transfer\": true}",
+      "private_metadata": "{\"integration_version\": \"v2.0\", \"partner_id\": \"paypal_fuzzloft_001\"}",
+      "settings": "{\"require_billing_address\": false}"
+    }
+  ]
+}

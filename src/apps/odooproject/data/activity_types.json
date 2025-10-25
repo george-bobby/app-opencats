@@ -1,0 +1,52 @@
+[
+    {
+        "name": "To-Do",
+        "category": "default",
+        "delay_count": 0,
+        "default_note": "Complete the task",
+        "chaining_type": "suggest",
+        "suggested_activity_type": "Email",
+        "icon": "fa-check-square",
+        "summary": "Task to be completed"
+    },
+    {
+        "name": "Upload Document",
+        "category": "upload_file",
+        "delay_count": 0,
+        "default_note": "Upload relevant document",
+        "chaining_type": "suggest",
+        "suggested_activity_type": "To-Do",
+        "icon": "fa-upload",
+        "summary": "Document to be uploaded"
+    },
+    {
+        "name": "Email",
+        "category": "default",
+        "delay_count": 0,
+        "default_note": "Send follow-up email",
+        "chaining_type": "suggest",
+        "suggested_activity_type": "Call",
+        "icon": "fa-envelope",
+        "summary": "Email to be sent"
+    },
+    {
+        "name": "Call",
+        "category": "phonecall",
+        "delay_count": 2,
+        "default_note": "Make phone call",
+        "chaining_type": "suggest",
+        "suggested_activity_type": "Meeting",
+        "icon": "fa-phone",
+        "summary": "Call to be made"
+    },
+    {
+        "name": "Meeting",
+        "category": "default",
+        "delay_count": 0,
+        "default_note": "Schedule and attend meeting",
+        "chaining_type": "suggest",
+        "suggested_activity_type": "Upload Document",
+        "icon": "fa-laptop",
+        "summary": "Meeting to be scheduled"
+    }
+]

@@ -1,0 +1,55 @@
+version: '3.8'
+
+services:
+  gitlab:
+    image: gitlab/gitlab-ce:latest
+    container_name: gitlab-seeding
+    hostname: gitlab
+    restart: unless-stopped
+    ports:
+      - '80:80'
+      - '443:443'
+      - '22:22'
+    environment:
+      GITLAB_ROOT_PASSWORD: 'MyPassword@123'
+      GITLAB_OMNIBUS_CONFIG: |
+        external_url 'http://localhost'
+        gitlab_rails['gitlab_shell_ssh_port'] = 22
+        gitlab_rails['initial_root_password'] = 'MyPassword@123'
+        gitlab_rails['display_initial_root_password'] = true
+        gitlab_rails['store_initial_root_password'] = true
+    networks:
+      - gitlab_network
+
+  gitlab-importer:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    container_name: gitlab-importer
+    depends_on:
+      - gitlab
+    volumes:
+      - ../config:/app/config
+      - import_logs:/app/logs
+    environment:
+      - GITLAB_URL=http://gitlab:80
+      - GITLAB_TOKEN=${GITLAB_TOKEN}
+      - GITHUB_TOKEN=${GITHUB_TOKEN}
+      - DEBUG=${DEBUG:-false}
+      - IMPORT_MODE=${IMPORT_MODE:-single}
+      - REPO_NAME=${REPO_NAME:-}
+    networks:
+      - gitlab_network
+    restart: "no"
+    profiles:
+      - import
+
+volumes:
+  gitlab_config:
+  gitlab_logs:
+  gitlab_data:
+  import_logs:
+
+networks:
+  gitlab_network:
+    driver: bridge 

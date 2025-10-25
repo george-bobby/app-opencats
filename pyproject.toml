@@ -1,0 +1,37 @@
+[project]
+name = "seed"
+version = "0.1.0"
+requires-python = "==3.12.*"
+dependencies = [
+    "ruff>=0.12.0",
+    "pre-commit>=4.2.0",
+    "click>=8.2.1",
+    "aiohttp>=3.12.13",
+    "python-dotenv>=1.1.0",
+    "faker>=37.4.0",
+    "odoo-client-lib>=1.2.4",
+    "pydantic>=2.11.7",
+    "pydantic-settings>=2.9.1",
+    "rich>=14.0.0",
+    "frappe-client>=0.1.0.dev0",
+    "openai>=1.93.0",
+    "requests>=2.32.4",
+    "httpx>=0.28.1",
+    "ipython>=9.3.0",
+    "colorlog>=6.9.0",
+    "asyncpg==0.30.0",
+    "aiomysql>=0.2.0",
+    "bs4>=0.0.2",
+    "elasticsearch==7",
+    "google-genai>=1.24.0",
+    "pandas>=2.3.1",
+    "psycopg2-binary>=2.9.9",
+    "supabase>=2.16.0",
+    "gotrue>=2.12.3",
+    "asyncpg>=0.30.0",
+    "instructor>=1.10.0",
+    "anthropic>=0.64.0",
+    "aiofiles>=24.1.0",
+    "pillow>=11.3.0",
+    "tenacity>=8.5.0",
+] 

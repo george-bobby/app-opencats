@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Warehouse Receipts",
+        "code": "incoming",
+        "sequence_code": "IN-WH",
+        "return_type": "Customer Returns"
+    },
+    {
+        "name": "Warehouse Deliveries",
+        "code": "outgoing",
+        "sequence_code": "OUT-WH",
+        "return_type": "Warehouse Receipts"
+    },
+    {
+        "name": "Internal Transfers",
+        "code": "internal",
+        "sequence_code": "INT-WH",
+        "return_type": null
+    },
+    {
+        "name": "Customer Returns",
+        "code": "incoming",
+        "sequence_code": "RTN-CUST",
+        "return_type": null
+    }
+]

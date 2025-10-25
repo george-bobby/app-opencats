@@ -1,0 +1,369 @@
+[
+  {
+    "name": "John Lopez",
+    "email": "john.lopez@example.com",
+    "roles": [
+      { "category": "Lunch", "groups": ["Order your meal"] },
+      { "category": "Fleet", "groups": ["Administrator"] },
+      { "category": "Employees", "groups": ["Administrator"] },
+      { "category": "Time Off", "groups": ["Administrator"] },
+      { "category": "Recruitment", "groups": ["Administrator"] },
+      { "category": "Attendances", "groups": ["Administrator"] },
+      { "category": "Administration", "groups": ["Settings"] }
+    ]
+  },
+  {
+    "name": "Lisa Gray",
+    "email": "lisa.gray@example.com",
+    "roles": [
+      { "category": "Lunch", "groups": ["Order your meal"] },
+      { "category": "Fleet", "groups": ["Officer: Manage all vehicles"] },
+      { "category": "Employees", "groups": ["Officer: Manage all employees"] },
+      { "category": "Time Off", "groups": ["Officer: Manage all requests"] },
+      {
+        "category": "Recruitment",
+        "groups": ["Officer: Manage all applicants"]
+      },
+      { "category": "Attendances", "groups": ["Administrator"] },
+      { "category": "Administration", "groups": ["Access Rights"] }
+    ]
+  },
+  {
+    "name": "Matt Chen",
+    "email": "matt.chen@example.com",
+    "roles": [
+      { "category": "Lunch", "groups": ["Order your meal"] },
+      {
+        "category": "Recruitment",
+        "groups": ["Officer: Manage all applicants"]
+      }
+    ]
+  },
+  {
+    "name": "Priya Patel",
+    "email": "priya.patel@example.com",
+    "roles": [
+      { "category": "Lunch", "groups": ["Order your meal"] },
+      { "category": "Recruitment", "groups": ["Interviewer"] }
+    ]
+  },
+  {
+    "name": "Julia Novak",
+    "email": "julia.novak@example.com",
+    "roles": [
+      { "category": "Lunch", "groups": ["Order your meal"] },
+      { "category": "Fleet", "groups": ["Officer: Manage all vehicles"] },
+      { "category": "Employees", "groups": ["Officer: Manage all employees"] },
+      { "category": "Time Off", "groups": ["Officer: Manage all requests"] },
+      { "category": "Recruitment", "groups": ["Interviewer"] }
+    ]
+  },
+  {
+    "name": "Mark Irving",
+    "email": "mark.irving@example.com",
+    "roles": [
+      { "category": "Lunch", "groups": ["Order your meal"] },
+      { "category": "Fleet", "groups": ["Officer"] },
+      { "category": "Employees", "groups": ["Officer: Manage all employees"] },
+      { "category": "Time Off", "groups": ["Officer: Manage all requests"] },
+      { "category": "Recruitment", "groups": ["Interviewer"] }
+    ]
+  },
+  {
+    "name": "Emma Suarez",
+    "email": "emma.suarez@example.com",
+    "roles": [
+      { "category": "Lunch", "groups": ["Order your meal"] },
+      { "category": "Fleet", "groups": ["Officer: Manage all vehicles"] },
+      { "category": "Employees", "groups": ["Officer: Manage all employees"] },
+      { "category": "Time Off", "groups": ["Officer: Manage all requests"] },
+      { "category": "Recruitment", "groups": ["Interviewer"] }
+    ]
+  },
+  {
+    "name": "Nathan Brooks",
+    "email": "nathan.brooks@example.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Olivia Bennett",
+    "email": "olivia.bennett@example.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Aiden Clarke",
+    "email": "aiden.clarke@example.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Zoe Williams",
+    "email": "zoe.williams@example.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Marie Reynolds",
+    "email": "marie_reynolds@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Lindsey Fuentes",
+    "email": "lindsey_fuentes@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Heather Townsend",
+    "email": "heather_townsend@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Travis Walter",
+    "email": "travis_walter@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Kimberly Decker",
+    "email": "kimberly_decker@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Mallory Lee",
+    "email": "mallory_lee@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Joseph Murray",
+    "email": "joseph_murray@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Nicholas Byrd",
+    "email": "nicholas_byrd@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Daniel Clark",
+    "email": "daniel_clark@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Michael Vargas",
+    "email": "michael_vargas@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Allison Finley",
+    "email": "allison_finley@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "James Walker",
+    "email": "james_walker@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Jacob Wong",
+    "email": "jacob_wong@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Pamela Rodriguez",
+    "email": "pamela_rodriguez@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Michael Thornton",
+    "email": "michael_thornton@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "April Stewart",
+    "email": "april_stewart@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Sean Evans",
+    "email": "sean_evans@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Jillian Lewis",
+    "email": "jillian_lewis@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Andrew Kidd",
+    "email": "andrew_kidd@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Allison Valenzuela",
+    "email": "allison_valenzuela@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Sara Edwards",
+    "email": "sara_edwards@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "John Martinez",
+    "email": "john_martinez@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Carolyn Heath",
+    "email": "carolyn_heath@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  { "name": "Jon Ward", "email": "jon_ward@gmail.com", "groups_id": [1, 61] },
+  {
+    "name": "Brandon Brady",
+    "email": "brandon_brady@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Richard Flores",
+    "email": "richard_flores@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Daniel Dyer",
+    "email": "daniel_dyer@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Jasmine Gibson",
+    "email": "jasmine_gibson@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Paul Oconnor",
+    "email": "paul_oconnor@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Vanessa Jones",
+    "email": "vanessa_jones@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Maria Serrano",
+    "email": "maria_serrano@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Linda Fowler",
+    "email": "linda_fowler@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Christopher Cook",
+    "email": "christopher_cook@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Zachary Ayala",
+    "email": "zachary_ayala@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Melissa Anderson",
+    "email": "melissa_anderson@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Katherine Davis",
+    "email": "katherine_davis@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Stephanie Sandoval",
+    "email": "stephanie_sandoval@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Michele Martin",
+    "email": "michele_martin@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Thomas Evans",
+    "email": "thomas_evans@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Andrew Mendez",
+    "email": "andrew_mendez@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Theresa Harrington",
+    "email": "theresa_harrington@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Richard Jarvis",
+    "email": "richard_jarvis@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Michael Carrillo",
+    "email": "michael_carrillo@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Brianna Morris",
+    "email": "brianna_morris@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Ricky Miller",
+    "email": "ricky_miller@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Michael Wilson",
+    "email": "michael_wilson@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Susan Knox",
+    "email": "susan_knox@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Dawn Hanna",
+    "email": "dawn_hanna@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Reginald Curtis",
+    "email": "reginald_curtis@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Madeline Davis",
+    "email": "madeline_davis@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Troy Griffin",
+    "email": "troy_griffin@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Kenneth Burns",
+    "email": "kenneth_burns@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Kristy Robertson",
+    "email": "kristy_robertson@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  },
+  {
+    "name": "Allison Williams",
+    "email": "allison_williams@gmail.com",
+    "roles": [{ "category": "Lunch", "groups": ["Order your meal"] }]
+  }
+]

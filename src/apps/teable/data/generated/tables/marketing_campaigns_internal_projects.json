@@ -1,0 +1,2329 @@
+{
+  "table_name": "Marketing Campaigns",
+  "parent_workspace_name": "Internal Projects",
+  "parent_base_name": "Internal Projects",
+  "records": [
+    {
+      "fields": {
+        "Name": "AI-Driven Lead Gen Q3",
+        "Objective": "Increase qualified leads by 25%",
+        "Target Audience": "Tech startups in US",
+        "Start Date": "2024-07-10",
+        "End Date": "2025-07-15",
+        "Budget": 15200.75,
+        "Channels": [
+          "Email",
+          "Paid Ads"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Summer Social Buzz 2024",
+        "Objective": "Boost brand engagement on social media",
+        "Target Audience": "Millennials aged 25-35",
+        "Start Date": "2025-05-01",
+        "End Date": "2025-08-31",
+        "Budget": 9800.5,
+        "Channels": [
+          "Social",
+          "Content Marketing"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Product Launch Awareness",
+        "Objective": "Generate hype for new AI tool launch",
+        "Target Audience": "SMBs and Startups",
+        "Start Date": "2025-02-15",
+        "End Date": "2025-06-30",
+        "Budget": 24500,
+        "Channels": [
+          "Paid Ads",
+          "Email",
+          "Events"
+        ],
+        "Assigned Department": "Product",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Holiday Email Campaign 2024",
+        "Objective": "Drive holiday sales through targeted emails",
+        "Target Audience": "Existing customers",
+        "Start Date": "2024-11-01",
+        "End Date": "2024-12-31",
+        "Budget": 6000.99,
+        "Channels": [
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Q2 Content Marketing Push",
+        "Objective": "Enhance website traffic by 30%",
+        "Target Audience": "Marketing professionals",
+        "Start Date": "2025-03-01",
+        "End Date": "2025-06-25",
+        "Budget": 12000,
+        "Channels": [
+          "Content Marketing",
+          "Social"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Event Sponsorship AI Summit",
+        "Objective": "Showcase AI marketing solutions",
+        "Target Audience": "Industry leaders and partners",
+        "Start Date": "2024-09-20",
+        "End Date": "2024-10-05",
+        "Budget": 32000,
+        "Channels": [
+          "Events",
+          "Paid Ads"
+        ],
+        "Assigned Department": "Sales",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Retargeting Ad Blitz",
+        "Objective": "Increase conversions by retargeting visitors",
+        "Target Audience": "Website visitors last 60 days",
+        "Start Date": "2025-04-01",
+        "End Date": "2025-07-15",
+        "Budget": 14000.25,
+        "Channels": [
+          "Paid Ads"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design Thinking Awareness",
+        "Objective": "Promote design services",
+        "Target Audience": "Creative agencies",
+        "Start Date": "2024-12-01",
+        "End Date": "2025-02-28",
+        "Budget": 7500,
+        "Channels": [
+          "Content Marketing",
+          "Social"
+        ],
+        "Assigned Department": "Design",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "AI Webinar Series Q1",
+        "Objective": "Educate customers on AI benefits",
+        "Target Audience": "Small business owners",
+        "Start Date": "2025-01-10",
+        "End Date": "2025-03-30",
+        "Budget": 11000,
+        "Channels": [
+          "Events",
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Sales Enablement Campaign",
+        "Objective": "Equip sales with AI leads",
+        "Target Audience": "Sales teams",
+        "Start Date": "2025-05-05",
+        "End Date": "2025-07-25",
+        "Budget": 8500.4,
+        "Channels": [
+          "Email",
+          "Content Marketing"
+        ],
+        "Assigned Department": "Sales",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Customer Retention Drive",
+        "Objective": "Reduce churn by 10%",
+        "Target Audience": "Existing customers",
+        "Start Date": "2024-06-30",
+        "End Date": "2025-06-30",
+        "Budget": 19500.89,
+        "Channels": [
+          "Email",
+          "Social"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "AI Blog Series Expansion",
+        "Objective": "Increase blog readership",
+        "Target Audience": "Marketers and developers",
+        "Start Date": "2024-08-15",
+        "End Date": "2025-01-15",
+        "Budget": 7200,
+        "Channels": [
+          "Content Marketing"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Summer Event Circuit",
+        "Objective": "Network with potential clients",
+        "Target Audience": "Tech event attendees",
+        "Start Date": "2025-06-01",
+        "End Date": "2025-07-31",
+        "Budget": 28000,
+        "Channels": [
+          "Events",
+          "Social"
+        ],
+        "Assigned Department": "Sales",
+        "Status": "Planned"
+      }
+    },
+    {
+      "fields": {
+        "Name": "New Market Penetration",
+        "Objective": "Enter European markets",
+        "Target Audience": "Startups in EU",
+        "Start Date": "2024-09-01",
+        "End Date": "2025-05-31",
+        "Budget": 46000,
+        "Channels": [
+          "Paid Ads",
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Quarterly Paid Ads Boost",
+        "Objective": "Increase ad ROI by 15%",
+        "Target Audience": "All prospects",
+        "Start Date": "2025-04-15",
+        "End Date": "2025-07-31",
+        "Budget": 23000,
+        "Channels": [
+          "Paid Ads"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design Portfolio Revamp",
+        "Objective": "Highlight new projects",
+        "Target Audience": "Creative leads",
+        "Start Date": "2024-11-10",
+        "End Date": "2025-03-10",
+        "Budget": 9000.5,
+        "Channels": [
+          "Content Marketing",
+          "Social"
+        ],
+        "Assigned Department": "Design",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Email Nurture Campaign",
+        "Objective": "Warm up leads with AI tips",
+        "Target Audience": "Lead database",
+        "Start Date": "2025-05-15",
+        "End Date": "2025-08-15",
+        "Budget": 7800,
+        "Channels": [
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Planned"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Sales Conference Prep",
+        "Objective": "Prepare materials for sales conference",
+        "Target Audience": "Event attendees",
+        "Start Date": "2025-06-10",
+        "End Date": "2025-07-20",
+        "Budget": 12000,
+        "Channels": [
+          "Events"
+        ],
+        "Assigned Department": "Sales",
+        "Status": "Planned"
+      }
+    },
+    {
+      "fields": {
+        "Name": "AI Tool Tutorial Videos",
+        "Objective": "Educate users on features",
+        "Target Audience": "Current clients",
+        "Start Date": "2024-10-01",
+        "End Date": "2025-01-30",
+        "Budget": 6700,
+        "Channels": [
+          "Content Marketing",
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Winter Social Media Push",
+        "Objective": "Boost engagement during winter",
+        "Target Audience": "Young adults",
+        "Start Date": "2024-12-01",
+        "End Date": "2025-02-28",
+        "Budget": 8800.75,
+        "Channels": [
+          "Social",
+          "Paid Ads"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Customer Feedback Drive",
+        "Objective": "Collect testimonials and reviews",
+        "Target Audience": "Recent customers",
+        "Start Date": "2025-03-20",
+        "End Date": "2025-06-25",
+        "Budget": 5400,
+        "Channels": [
+          "Email",
+          "Social"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "AI Case Study Campaign",
+        "Objective": "Showcase success stories",
+        "Target Audience": "Potential clients",
+        "Start Date": "2024-08-05",
+        "End Date": "2024-12-05",
+        "Budget": 11500,
+        "Channels": [
+          "Content Marketing"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Q1 Paid Ads Refresh",
+        "Objective": "Update and optimize ads",
+        "Target Audience": "Website visitors",
+        "Start Date": "2025-01-05",
+        "End Date": "2025-04-05",
+        "Budget": 15000,
+        "Channels": [
+          "Paid Ads"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Lead Magnet Development",
+        "Objective": "Create AI marketing ebook",
+        "Target Audience": "Marketers and entrepreneurs",
+        "Start Date": "2024-07-01",
+        "End Date": "2024-10-15",
+        "Budget": 4800,
+        "Channels": [
+          "Content Marketing",
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Social Media Rebranding",
+        "Objective": "Update brand visuals on socials",
+        "Target Audience": "Followers and prospects",
+        "Start Date": "2025-05-10",
+        "End Date": "2025-07-30",
+        "Budget": 7100,
+        "Channels": [
+          "Social"
+        ],
+        "Assigned Department": "Design",
+        "Status": "Planned"
+      }
+    },
+    {
+      "fields": {
+        "Name": "AI Product Demo Events",
+        "Objective": "Live demos for prospects",
+        "Target Audience": "SMB owners",
+        "Start Date": "2024-11-15",
+        "End Date": "2025-02-15",
+        "Budget": 25000,
+        "Channels": [
+          "Events",
+          "Email"
+        ],
+        "Assigned Department": "Sales",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Email List Growth Sprint",
+        "Objective": "Grow subscriber base by 20%",
+        "Target Audience": "Tech enthusiasts",
+        "Start Date": "2025-03-01",
+        "End Date": "2025-06-30",
+        "Budget": 9300,
+        "Channels": [
+          "Email",
+          "Paid Ads"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Creative Asset Overhaul",
+        "Objective": "Refresh marketing visuals",
+        "Target Audience": "Internal teams",
+        "Start Date": "2024-09-10",
+        "End Date": "2025-01-15",
+        "Budget": 13500,
+        "Channels": [
+          "Design"
+        ],
+        "Assigned Department": "Design",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "AI Use Case Webinars",
+        "Objective": "Educate on diverse AI applications",
+        "Target Audience": "Enterprise clients",
+        "Start Date": "2025-04-01",
+        "End Date": "2025-07-10",
+        "Budget": 12800,
+        "Channels": [
+          "Events",
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Spring Sales Kickoff Campaign",
+        "Objective": "Boost Q2 sales",
+        "Target Audience": "Potential buyers",
+        "Start Date": "2025-03-20",
+        "End Date": "2025-06-20",
+        "Budget": 21000,
+        "Channels": [
+          "Paid Ads",
+          "Email"
+        ],
+        "Assigned Department": "Sales",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Content SEO Optimization",
+        "Objective": "Improve search rankings",
+        "Target Audience": "Online visitors",
+        "Start Date": "2024-06-25",
+        "End Date": "2024-09-25",
+        "Budget": 7000,
+        "Channels": [
+          "Content Marketing"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "AI Newsletter Launch",
+        "Objective": "Monthly AI insights",
+        "Target Audience": "Subscribers and prospects",
+        "Start Date": "2025-01-01",
+        "End Date": "2025-06-25",
+        "Budget": 4600,
+        "Channels": [
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Paid Ads Retargeting Push",
+        "Objective": "Re-engage website drop-offs",
+        "Target Audience": "Recent website visitors",
+        "Start Date": "2025-05-01",
+        "End Date": "2025-07-31",
+        "Budget": 14200,
+        "Channels": [
+          "Paid Ads"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Planned"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design Workshop Series",
+        "Objective": "Enhance design team skills",
+        "Target Audience": "Internal design team",
+        "Start Date": "2024-10-01",
+        "End Date": "2025-03-01",
+        "Budget": 8200,
+        "Channels": [
+          "Events"
+        ],
+        "Assigned Department": "Design",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Customer Referral Program",
+        "Objective": "Encourage referrals",
+        "Target Audience": "Satisfied customers",
+        "Start Date": "2025-02-01",
+        "End Date": "2025-06-01",
+        "Budget": 9000,
+        "Channels": [
+          "Email",
+          "Social"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "AI Onboarding Campaign",
+        "Objective": "Help new clients adopt AI tools",
+        "Target Audience": "New customers",
+        "Start Date": "2025-04-15",
+        "End Date": "2025-07-15",
+        "Budget": 10300,
+        "Channels": [
+          "Email",
+          "Content Marketing"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Planned"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Webinar Follow-up Nurture",
+        "Objective": "Convert attendees into customers",
+        "Target Audience": "Webinar registrants",
+        "Start Date": "2025-03-10",
+        "End Date": "2025-06-10",
+        "Budget": 7100,
+        "Channels": [
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "AI Analytics Campaign",
+        "Objective": "Promote data-driven marketing",
+        "Target Audience": "Marketing analysts",
+        "Start Date": "2024-08-20",
+        "End Date": "2025-01-20",
+        "Budget": 15400,
+        "Channels": [
+          "Content Marketing",
+          "Paid Ads"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Social Media Holiday Specials",
+        "Objective": "Holiday promotions on socials",
+        "Target Audience": "All followers",
+        "Start Date": "2024-12-01",
+        "End Date": "2025-01-15",
+        "Budget": 6800,
+        "Channels": [
+          "Social"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Lead Scoring Implementation",
+        "Objective": "Improve lead qualification",
+        "Target Audience": "Sales team",
+        "Start Date": "2025-01-15",
+        "End Date": "2025-05-15",
+        "Budget": 12300,
+        "Channels": [
+          "Email"
+        ],
+        "Assigned Department": "Sales",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Product Feature Launch Q2",
+        "Objective": "Highlight new AI features",
+        "Target Audience": "Current and potential clients",
+        "Start Date": "2025-04-01",
+        "End Date": "2025-07-01",
+        "Budget": 26000,
+        "Channels": [
+          "Paid Ads",
+          "Email",
+          "Content Marketing"
+        ],
+        "Assigned Department": "Product",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Customer Success Stories",
+        "Objective": "Build trust with prospects",
+        "Target Audience": "Prospective clients",
+        "Start Date": "2024-07-01",
+        "End Date": "2024-11-01",
+        "Budget": 9700,
+        "Channels": [
+          "Content Marketing",
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "AI Marketing Trends Report",
+        "Objective": "Establish thought leadership",
+        "Target Audience": "Industry professionals",
+        "Start Date": "2025-05-01",
+        "End Date": "2025-07-31",
+        "Budget": 7200,
+        "Channels": [
+          "Content Marketing",
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Planned"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Q3 Event Sponsorship",
+        "Objective": "Increase brand visibility",
+        "Target Audience": "Industry conferences",
+        "Start Date": "2024-09-15",
+        "End Date": "2024-11-30",
+        "Budget": 34500,
+        "Channels": [
+          "Events",
+          "Paid Ads"
+        ],
+        "Assigned Department": "Sales",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Email Drip Campaign",
+        "Objective": "Nurture leads post demo",
+        "Target Audience": "Demo attendees",
+        "Start Date": "2025-02-15",
+        "End Date": "2025-05-15",
+        "Budget": 8600,
+        "Channels": [
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Social Influencer Partnership",
+        "Objective": "Leverage influencer reach",
+        "Target Audience": "Millennials and Gen Z",
+        "Start Date": "2025-03-15",
+        "End Date": "2025-06-15",
+        "Budget": 15000,
+        "Channels": [
+          "Social",
+          "Paid Ads"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Product Feedback Collection",
+        "Objective": "Gather user insights",
+        "Target Audience": "Current users",
+        "Start Date": "2024-08-01",
+        "End Date": "2024-11-01",
+        "Budget": 5000,
+        "Channels": [
+          "Email"
+        ],
+        "Assigned Department": "Product",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "AI Training Bootcamp",
+        "Objective": "Upskill clients on AI tools",
+        "Target Audience": "Business owners",
+        "Start Date": "2025-04-10",
+        "End Date": "2025-07-10",
+        "Budget": 12500,
+        "Channels": [
+          "Events",
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Planned"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Retargeting Paid Ads",
+        "Objective": "Capture lost prospects",
+        "Target Audience": "Website abandoners",
+        "Start Date": "2025-05-10",
+        "End Date": "2025-07-31",
+        "Budget": 13800,
+        "Channels": [
+          "Paid Ads"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Planned"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design Sprint Campaign",
+        "Objective": "Promote design innovation",
+        "Target Audience": "Creative agencies",
+        "Start Date": "2024-10-15",
+        "End Date": "2025-02-15",
+        "Budget": 8400,
+        "Channels": [
+          "Content Marketing",
+          "Social"
+        ],
+        "Assigned Department": "Design",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Annual Marketing Review",
+        "Objective": "Analyze yearly campaign success",
+        "Target Audience": "Internal stakeholders",
+        "Start Date": "2025-06-01",
+        "End Date": "2025-06-25",
+        "Budget": 4000,
+        "Channels": [
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Planned"
+      }
+    },
+    {
+      "fields": {
+        "Name": "AI Chatbot Promotion",
+        "Objective": "Drive adoption of chatbot feature",
+        "Target Audience": "E-commerce businesses",
+        "Start Date": "2024-09-01",
+        "End Date": "2025-01-31",
+        "Budget": 17000,
+        "Channels": [
+          "Paid Ads",
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Customer Loyalty Program",
+        "Objective": "Increase repeat purchases",
+        "Target Audience": "Loyal customers",
+        "Start Date": "2025-01-01",
+        "End Date": "2025-06-30",
+        "Budget": 11000,
+        "Channels": [
+          "Email",
+          "Social"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Social Media Contest Q2",
+        "Objective": "Increase engagement rates",
+        "Target Audience": "Social followers",
+        "Start Date": "2025-04-01",
+        "End Date": "2025-06-15",
+        "Budget": 6200,
+        "Channels": [
+          "Social"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "New Feature Teaser Campaign",
+        "Objective": "Build anticipation for updates",
+        "Target Audience": "Existing users",
+        "Start Date": "2025-05-01",
+        "End Date": "2025-07-01",
+        "Budget": 9400,
+        "Channels": [
+          "Email",
+          "Social"
+        ],
+        "Assigned Department": "Product",
+        "Status": "Planned"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Product Demo Days",
+        "Objective": "Hands-on demos for prospects",
+        "Target Audience": "Potential clients",
+        "Start Date": "2024-11-10",
+        "End Date": "2025-02-10",
+        "Budget": 22000,
+        "Channels": [
+          "Events",
+          "Email"
+        ],
+        "Assigned Department": "Sales",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Blog SEO Revamp",
+        "Objective": "Improve organic traffic",
+        "Target Audience": "Online readers",
+        "Start Date": "2024-07-15",
+        "End Date": "2024-10-15",
+        "Budget": 8600,
+        "Channels": [
+          "Content Marketing"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Email Reactivation Campaign",
+        "Objective": "Re-engage inactive users",
+        "Target Audience": "Dormant subscribers",
+        "Start Date": "2025-03-01",
+        "End Date": "2025-06-01",
+        "Budget": 5800,
+        "Channels": [
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Paid Ads Budget Optimization",
+        "Objective": "Maximize budget efficiency",
+        "Target Audience": "Prospective buyers",
+        "Start Date": "2025-04-15",
+        "End Date": "2025-07-15",
+        "Budget": 20000,
+        "Channels": [
+          "Paid Ads"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design Showcase Event",
+        "Objective": "Display latest creative projects",
+        "Target Audience": "Clients and prospects",
+        "Start Date": "2024-12-10",
+        "End Date": "2025-02-25",
+        "Budget": 15000,
+        "Channels": [
+          "Events",
+          "Social"
+        ],
+        "Assigned Department": "Design",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "AI Success Webinar",
+        "Objective": "Highlight AI client wins",
+        "Target Audience": "Potential customers",
+        "Start Date": "2025-02-20",
+        "End Date": "2025-05-20",
+        "Budget": 9500,
+        "Channels": [
+          "Events",
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Summer Sales Campaign",
+        "Objective": "Increase sales in summer quarter",
+        "Target Audience": "Retail businesses",
+        "Start Date": "2025-06-01",
+        "End Date": "2025-08-31",
+        "Budget": 26000,
+        "Channels": [
+          "Paid Ads",
+          "Email"
+        ],
+        "Assigned Department": "Sales",
+        "Status": "Planned"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Content Calendar Q3",
+        "Objective": "Plan content marketing schedule",
+        "Target Audience": "Marketing team",
+        "Start Date": "2025-06-01",
+        "End Date": "2025-08-31",
+        "Budget": 4000,
+        "Channels": [
+          "Content Marketing"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Planned"
+      }
+    },
+    {
+      "fields": {
+        "Name": "AI Partnership Outreach",
+        "Objective": "Build strategic alliances",
+        "Target Audience": "Tech companies",
+        "Start Date": "2024-08-01",
+        "End Date": "2025-01-31",
+        "Budget": 17500,
+        "Channels": [
+          "Email",
+          "Events"
+        ],
+        "Assigned Department": "Sales",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Holiday Campaign Planning",
+        "Objective": "Strategy for winter holidays",
+        "Target Audience": "Marketing team",
+        "Start Date": "2025-06-01",
+        "End Date": "2025-08-31",
+        "Budget": 5000,
+        "Channels": [
+          "Marketing"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Planned"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Product Update Emails",
+        "Objective": "Inform clients of updates",
+        "Target Audience": "Current users",
+        "Start Date": "2025-01-05",
+        "End Date": "2025-06-25",
+        "Budget": 7000,
+        "Channels": [
+          "Email"
+        ],
+        "Assigned Department": "Product",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Social Media Awareness Q2",
+        "Objective": "Grow social followers by 15%",
+        "Target Audience": "Young professionals",
+        "Start Date": "2025-03-01",
+        "End Date": "2025-06-30",
+        "Budget": 8800,
+        "Channels": [
+          "Social"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Rebranding Announcement",
+        "Objective": "Communicate new brand identity",
+        "Target Audience": "Clients and partners",
+        "Start Date": "2024-10-01",
+        "End Date": "2024-12-31",
+        "Budget": 13000,
+        "Channels": [
+          "Email",
+          "Social"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Sales Funnel Optimization",
+        "Objective": "Improve lead to sale conversion",
+        "Target Audience": "Sales team",
+        "Start Date": "2025-04-01",
+        "End Date": "2025-07-01",
+        "Budget": 16000,
+        "Channels": [
+          "Email"
+        ],
+        "Assigned Department": "Sales",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "AI Case Study Video",
+        "Objective": "Visual success stories",
+        "Target Audience": "Marketing managers",
+        "Start Date": "2024-07-10",
+        "End Date": "2024-10-10",
+        "Budget": 9000,
+        "Channels": [
+          "Content Marketing"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "New Lead Magnet Launch",
+        "Objective": "Attract new leads",
+        "Target Audience": "Small business owners",
+        "Start Date": "2025-05-01",
+        "End Date": "2025-07-31",
+        "Budget": 7500,
+        "Channels": [
+          "Content Marketing",
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Planned"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Event Networking Q4",
+        "Objective": "Connect with industry peers",
+        "Target Audience": "Event participants",
+        "Start Date": "2024-11-20",
+        "End Date": "2025-01-31",
+        "Budget": 21000,
+        "Channels": [
+          "Events"
+        ],
+        "Assigned Department": "Sales",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Email Campaign A/B Test",
+        "Objective": "Optimize email open rates",
+        "Target Audience": "Subscribers",
+        "Start Date": "2025-04-10",
+        "End Date": "2025-07-10",
+        "Budget": 5500,
+        "Channels": [
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Brand Awareness Ads",
+        "Objective": "Increase brand recognition",
+        "Target Audience": "General public",
+        "Start Date": "2024-06-30",
+        "End Date": "2024-09-30",
+        "Budget": 30000,
+        "Channels": [
+          "Paid Ads",
+          "Social"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Customer Appreciation Month",
+        "Objective": "Reward loyal clients",
+        "Target Audience": "Existing customers",
+        "Start Date": "2025-06-01",
+        "End Date": "2025-06-30",
+        "Budget": 6800,
+        "Channels": [
+          "Email",
+          "Social"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Planned"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Q4 Sales Push",
+        "Objective": "Boost end-of-year sales",
+        "Target Audience": "Prospects and customers",
+        "Start Date": "2024-10-01",
+        "End Date": "2024-12-31",
+        "Budget": 27000,
+        "Channels": [
+          "Paid Ads",
+          "Email"
+        ],
+        "Assigned Department": "Sales",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "AI Workshop Series",
+        "Objective": "Train clients on AI tools",
+        "Target Audience": "Business professionals",
+        "Start Date": "2025-01-15",
+        "End Date": "2025-06-15",
+        "Budget": 14500,
+        "Channels": [
+          "Events",
+          "Content Marketing"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Content Syndication Campaign",
+        "Objective": "Expand content reach",
+        "Target Audience": "Industry professionals",
+        "Start Date": "2024-09-01",
+        "End Date": "2025-02-28",
+        "Budget": 11000,
+        "Channels": [
+          "Content Marketing",
+          "Paid Ads"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Social Media Analytics Drive",
+        "Objective": "Improve social strategy",
+        "Target Audience": "Marketing team",
+        "Start Date": "2025-03-01",
+        "End Date": "2025-06-25",
+        "Budget": 5800,
+        "Channels": [
+          "Social"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Email Subscription Drive",
+        "Objective": "Increase mailing list size",
+        "Target Audience": "Website visitors",
+        "Start Date": "2025-04-01",
+        "End Date": "2025-07-31",
+        "Budget": 6700,
+        "Channels": [
+          "Email",
+          "Paid Ads"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Planned"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Sales Strategy Meeting Prep",
+        "Objective": "Prepare sales campaign materials",
+        "Target Audience": "Sales team",
+        "Start Date": "2025-06-10",
+        "End Date": "2025-07-25",
+        "Budget": 5000,
+        "Channels": [
+          "Events"
+        ],
+        "Assigned Department": "Sales",
+        "Status": "Planned"
+      }
+    },
+    {
+      "fields": {
+        "Name": "AI Success Stories Blog",
+        "Objective": "Share client success",
+        "Target Audience": "Prospects and clients",
+        "Start Date": "2024-08-15",
+        "End Date": "2024-12-15",
+        "Budget": 7200,
+        "Channels": [
+          "Content Marketing"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design Innovation Campaign",
+        "Objective": "Showcase new design work",
+        "Target Audience": "Creative professionals",
+        "Start Date": "2024-11-01",
+        "End Date": "2025-03-01",
+        "Budget": 8200,
+        "Channels": [
+          "Social",
+          "Content Marketing"
+        ],
+        "Assigned Department": "Design",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Customer Onboarding Emails",
+        "Objective": "Guide new clients",
+        "Target Audience": "New customers",
+        "Start Date": "2025-05-01",
+        "End Date": "2025-07-30",
+        "Budget": 6400,
+        "Channels": [
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Planned"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Paid Ads Campaign Optimization",
+        "Objective": "Reduce CPC by 10%",
+        "Target Audience": "Target audience segments",
+        "Start Date": "2025-02-01",
+        "End Date": "2025-05-31",
+        "Budget": 20000,
+        "Channels": [
+          "Paid Ads"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Social Media Holiday Campaign",
+        "Objective": "Holiday themed posts and ads",
+        "Target Audience": "Social followers",
+        "Start Date": "2024-12-01",
+        "End Date": "2025-01-31",
+        "Budget": 8000,
+        "Channels": [
+          "Social",
+          "Paid Ads"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Q2 Newsletter Series",
+        "Objective": "Monthly updates and news",
+        "Target Audience": "Subscribers",
+        "Start Date": "2025-03-01",
+        "End Date": "2025-06-30",
+        "Budget": 4800,
+        "Channels": [
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Event Planning for AI Expo",
+        "Objective": "Organize AI booth and demos",
+        "Target Audience": "Expo attendees",
+        "Start Date": "2024-09-15",
+        "End Date": "2024-10-10",
+        "Budget": 30000,
+        "Channels": [
+          "Events"
+        ],
+        "Assigned Department": "Sales",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Content Repurposing Project",
+        "Objective": "Reuse content for multiple channels",
+        "Target Audience": "Content consumers",
+        "Start Date": "2025-01-10",
+        "End Date": "2025-05-10",
+        "Budget": 6700,
+        "Channels": [
+          "Content Marketing"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Email List Segmentation",
+        "Objective": "Improve targeting accuracy",
+        "Target Audience": "Email subscribers",
+        "Start Date": "2025-04-01",
+        "End Date": "2025-06-25",
+        "Budget": 5600,
+        "Channels": [
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design Team Collaboration Campaign",
+        "Objective": "Enhance interdepartmental projects",
+        "Target Audience": "Internal teams",
+        "Start Date": "2024-10-01",
+        "End Date": "2025-01-31",
+        "Budget": 7800,
+        "Channels": [
+          "Design"
+        ],
+        "Assigned Department": "Design",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Sales Funnel Email Series",
+        "Objective": "Guide leads through funnel",
+        "Target Audience": "Qualified leads",
+        "Start Date": "2025-03-15",
+        "End Date": "2025-06-15",
+        "Budget": 9200,
+        "Channels": [
+          "Email"
+        ],
+        "Assigned Department": "Sales",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "AI Product Video Launch",
+        "Objective": "Visualize product features",
+        "Target Audience": "Potential clients",
+        "Start Date": "2024-07-01",
+        "End Date": "2024-09-30",
+        "Budget": 18000,
+        "Channels": [
+          "Content Marketing",
+          "Paid Ads"
+        ],
+        "Assigned Department": "Product",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Social Campaign for Startups",
+        "Objective": "Attract startup clients",
+        "Target Audience": "Startup founders",
+        "Start Date": "2025-05-01",
+        "End Date": "2025-07-31",
+        "Budget": 12500,
+        "Channels": [
+          "Social",
+          "Paid Ads"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Planned"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Client Case Study Collection",
+        "Objective": "Gather impactful client stories",
+        "Target Audience": "Clients",
+        "Start Date": "2024-08-01",
+        "End Date": "2024-11-01",
+        "Budget": 9500,
+        "Channels": [
+          "Content Marketing"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Q1 Marketing Report",
+        "Objective": "Review Q1 campaign performance",
+        "Target Audience": "Internal stakeholders",
+        "Start Date": "2025-04-01",
+        "End Date": "2025-04-30",
+        "Budget": 3000,
+        "Channels": [
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Planned"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Paid Ads Seasonal Push",
+        "Objective": "Seasonal promotions",
+        "Target Audience": "All clients",
+        "Start Date": "2024-11-01",
+        "End Date": "2025-01-31",
+        "Budget": 22000,
+        "Channels": [
+          "Paid Ads",
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "AI Insights Webinar",
+        "Objective": "Share AI marketing trends",
+        "Target Audience": "Marketing professionals",
+        "Start Date": "2025-03-15",
+        "End Date": "2025-06-15",
+        "Budget": 11000,
+        "Channels": [
+          "Events",
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design Portfolio Launch",
+        "Objective": "Showcase latest projects",
+        "Target Audience": "Potential clients",
+        "Start Date": "2024-10-10",
+        "End Date": "2025-01-10",
+        "Budget": 9500,
+        "Channels": [
+          "Social",
+          "Content Marketing"
+        ],
+        "Assigned Department": "Design",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Email Campaign for New Features",
+        "Objective": "Announce product updates",
+        "Target Audience": "Current users",
+        "Start Date": "2025-05-01",
+        "End Date": "2025-07-31",
+        "Budget": 7800,
+        "Channels": [
+          "Email"
+        ],
+        "Assigned Department": "Product",
+        "Status": "Planned"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Retargeting Ads Q3",
+        "Objective": "Increase conversion rates",
+        "Target Audience": "Website visitors",
+        "Start Date": "2025-06-01",
+        "End Date": "2025-08-31",
+        "Budget": 14000,
+        "Channels": [
+          "Paid Ads"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Planned"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Customer Engagement Survey",
+        "Objective": "Improve service quality",
+        "Target Audience": "Active customers",
+        "Start Date": "2025-02-01",
+        "End Date": "2025-05-01",
+        "Budget": 5300,
+        "Channels": [
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Social Media Growth Campaign",
+        "Objective": "Expand social media presence",
+        "Target Audience": "Millennials",
+        "Start Date": "2024-07-15",
+        "End Date": "2024-10-15",
+        "Budget": 8400,
+        "Channels": [
+          "Social"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "AI Marketing Toolkit Launch",
+        "Objective": "Introduce new marketing tools",
+        "Target Audience": "Small businesses",
+        "Start Date": "2025-04-01",
+        "End Date": "2025-07-01",
+        "Budget": 23000,
+        "Channels": [
+          "Paid Ads",
+          "Content Marketing"
+        ],
+        "Assigned Department": "Product",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Email Re-engagement Series",
+        "Objective": "Reconnect with inactive leads",
+        "Target Audience": "Dormant subscribers",
+        "Start Date": "2025-03-01",
+        "End Date": "2025-06-01",
+        "Budget": 6200,
+        "Channels": [
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design Workshop Q2",
+        "Objective": "Skill building for design team",
+        "Target Audience": "Design department",
+        "Start Date": "2025-05-01",
+        "End Date": "2025-07-31",
+        "Budget": 8800,
+        "Channels": [
+          "Events"
+        ],
+        "Assigned Department": "Design",
+        "Status": "Planned"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Sales Training Program",
+        "Objective": "Improve sales techniques",
+        "Target Audience": "Sales team",
+        "Start Date": "2024-09-01",
+        "End Date": "2024-12-31",
+        "Budget": 15000,
+        "Channels": [
+          "Events"
+        ],
+        "Assigned Department": "Sales",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Content Marketing Revamp",
+        "Objective": "Update content strategy",
+        "Target Audience": "Marketing team",
+        "Start Date": "2025-01-15",
+        "End Date": "2025-06-15",
+        "Budget": 12500,
+        "Channels": [
+          "Content Marketing"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "AI Client Testimonials",
+        "Objective": "Build brand trust",
+        "Target Audience": "Prospective clients",
+        "Start Date": "2024-07-01",
+        "End Date": "2024-11-01",
+        "Budget": 7800,
+        "Channels": [
+          "Content Marketing",
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Holiday Sales Email Blast",
+        "Objective": "Drive holiday sales",
+        "Target Audience": "Customer base",
+        "Start Date": "2024-11-15",
+        "End Date": "2024-12-31",
+        "Budget": 6500,
+        "Channels": [
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Paid Ads Campaign Q1",
+        "Objective": "Launch new year ads",
+        "Target Audience": "Leads and prospects",
+        "Start Date": "2025-01-01",
+        "End Date": "2025-04-01",
+        "Budget": 18000,
+        "Channels": [
+          "Paid Ads"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Social Media Engagement Drive",
+        "Objective": "Increase interactions",
+        "Target Audience": "Social media followers",
+        "Start Date": "2025-03-15",
+        "End Date": "2025-06-15",
+        "Budget": 9400,
+        "Channels": [
+          "Social"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Product Feature Webinar",
+        "Objective": "Introduce new AI features",
+        "Target Audience": "Clients and prospects",
+        "Start Date": "2025-05-10",
+        "End Date": "2025-07-10",
+        "Budget": 10500,
+        "Channels": [
+          "Events",
+          "Email"
+        ],
+        "Assigned Department": "Product",
+        "Status": "Planned"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Content Repurposing Q3",
+        "Objective": "Maximize content usage",
+        "Target Audience": "Content consumers",
+        "Start Date": "2025-06-01",
+        "End Date": "2025-08-31",
+        "Budget": 7300,
+        "Channels": [
+          "Content Marketing"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Planned"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Lead Nurture Email Series",
+        "Objective": "Convert leads to customers",
+        "Target Audience": "Lead database",
+        "Start Date": "2024-08-01",
+        "End Date": "2024-11-01",
+        "Budget": 8700,
+        "Channels": [
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "AI Conference Sponsorship",
+        "Objective": "Increase brand presence",
+        "Target Audience": "Conference attendees",
+        "Start Date": "2024-09-15",
+        "End Date": "2024-10-10",
+        "Budget": 32000,
+        "Channels": [
+          "Events",
+          "Paid Ads"
+        ],
+        "Assigned Department": "Sales",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design Portfolio Update",
+        "Objective": "Showcase recent projects",
+        "Target Audience": "Prospective clients",
+        "Start Date": "2025-02-01",
+        "End Date": "2025-05-01",
+        "Budget": 7700,
+        "Channels": [
+          "Social",
+          "Content Marketing"
+        ],
+        "Assigned Department": "Design",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Customer Success Webinar",
+        "Objective": "Share client successes",
+        "Target Audience": "Potential clients",
+        "Start Date": "2025-03-20",
+        "End Date": "2025-06-20",
+        "Budget": 9400,
+        "Channels": [
+          "Events",
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Email List Cleaning",
+        "Objective": "Improve deliverability",
+        "Target Audience": "All subscribers",
+        "Start Date": "2024-07-01",
+        "End Date": "2024-09-01",
+        "Budget": 4200,
+        "Channels": [
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Paid Advertising Blitz",
+        "Objective": "Maximize ad reach",
+        "Target Audience": "Targeted demographics",
+        "Start Date": "2025-01-10",
+        "End Date": "2025-04-10",
+        "Budget": 21000,
+        "Channels": [
+          "Paid Ads",
+          "Social"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Social Media Holiday Campaign 2024",
+        "Objective": "Seasonal posts and ads",
+        "Target Audience": "Social followers",
+        "Start Date": "2024-11-15",
+        "End Date": "2025-01-15",
+        "Budget": 8500,
+        "Channels": [
+          "Social",
+          "Paid Ads"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Q2 Newsletter Outreach",
+        "Objective": "Share company news",
+        "Target Audience": "Subscribers",
+        "Start Date": "2025-04-01",
+        "End Date": "2025-06-30",
+        "Budget": 5200,
+        "Channels": [
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Event Marketing for AI Expo",
+        "Objective": "Promote presence at expo",
+        "Target Audience": "Expo attendees",
+        "Start Date": "2024-09-01",
+        "End Date": "2024-10-01",
+        "Budget": 28000,
+        "Channels": [
+          "Events"
+        ],
+        "Assigned Department": "Sales",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Content Syndication Q2",
+        "Objective": "Boost content exposure",
+        "Target Audience": "Industry readers",
+        "Start Date": "2025-02-01",
+        "End Date": "2025-06-01",
+        "Budget": 10000,
+        "Channels": [
+          "Content Marketing",
+          "Paid Ads"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Email Segmentation Strategy",
+        "Objective": "Target emails better",
+        "Target Audience": "Subscribers",
+        "Start Date": "2025-03-01",
+        "End Date": "2025-06-30",
+        "Budget": 6000,
+        "Channels": [
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design Collaboration Initiative",
+        "Objective": "Boost design team synergy",
+        "Target Audience": "Internal teams",
+        "Start Date": "2024-10-15",
+        "End Date": "2025-01-15",
+        "Budget": 8500,
+        "Channels": [
+          "Design"
+        ],
+        "Assigned Department": "Design",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Sales Funnel Email Campaign",
+        "Objective": "Nurture leads to close",
+        "Target Audience": "Qualified leads",
+        "Start Date": "2025-04-01",
+        "End Date": "2025-07-01",
+        "Budget": 9300,
+        "Channels": [
+          "Email"
+        ],
+        "Assigned Department": "Sales",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "AI Product Video Campaign",
+        "Objective": "Demonstrate product value",
+        "Target Audience": "Potential clients",
+        "Start Date": "2024-07-01",
+        "End Date": "2024-10-01",
+        "Budget": 17500,
+        "Channels": [
+          "Content Marketing",
+          "Paid Ads"
+        ],
+        "Assigned Department": "Product",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Startup Social Outreach",
+        "Objective": "Attract startup clients",
+        "Target Audience": "Startup founders",
+        "Start Date": "2025-05-01",
+        "End Date": "2025-07-30",
+        "Budget": 13000,
+        "Channels": [
+          "Social",
+          "Paid Ads"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Planned"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Client Case Studies Collection",
+        "Objective": "Gather stories for marketing",
+        "Target Audience": "Clients",
+        "Start Date": "2024-08-01",
+        "End Date": "2024-11-01",
+        "Budget": 9600,
+        "Channels": [
+          "Content Marketing"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Q1 Marketing Performance Report",
+        "Objective": "Analyze campaign results",
+        "Target Audience": "Internal",
+        "Start Date": "2025-04-01",
+        "End Date": "2025-04-30",
+        "Budget": 3100,
+        "Channels": [
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Planned"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Paid Ads Holiday Campaign",
+        "Objective": "Seasonal ad promotions",
+        "Target Audience": "All clients",
+        "Start Date": "2024-11-01",
+        "End Date": "2025-01-31",
+        "Budget": 22500,
+        "Channels": [
+          "Paid Ads",
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "AI Industry Webinar",
+        "Objective": "Discuss AI trends",
+        "Target Audience": "Marketing professionals",
+        "Start Date": "2025-03-15",
+        "End Date": "2025-06-15",
+        "Budget": 11500,
+        "Channels": [
+          "Events",
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design Portfolio Showcase",
+        "Objective": "Showcase creative work",
+        "Target Audience": "Potential clients",
+        "Start Date": "2024-10-01",
+        "End Date": "2025-01-01",
+        "Budget": 9800,
+        "Channels": [
+          "Social",
+          "Content Marketing"
+        ],
+        "Assigned Department": "Design",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Product Announcement Emails",
+        "Objective": "Inform customers of new features",
+        "Target Audience": "Current users",
+        "Start Date": "2025-05-01",
+        "End Date": "2025-07-31",
+        "Budget": 8000,
+        "Channels": [
+          "Email"
+        ],
+        "Assigned Department": "Product",
+        "Status": "Planned"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Retargeting Ads Summer",
+        "Objective": "Recover lost leads",
+        "Target Audience": "Website visitors",
+        "Start Date": "2025-06-01",
+        "End Date": "2025-08-31",
+        "Budget": 14500,
+        "Channels": [
+          "Paid Ads"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Planned"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Customer Engagement Survey 2025",
+        "Objective": "Get client feedback",
+        "Target Audience": "Active customers",
+        "Start Date": "2025-02-01",
+        "End Date": "2025-05-01",
+        "Budget": 5400,
+        "Channels": [
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Social Growth Campaign",
+        "Objective": "Increase followers",
+        "Target Audience": "Millennials",
+        "Start Date": "2024-07-15",
+        "End Date": "2024-10-15",
+        "Budget": 8600,
+        "Channels": [
+          "Social"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "AI Marketing Tool Launch",
+        "Objective": "Release new AI features",
+        "Target Audience": "Small businesses",
+        "Start Date": "2025-04-01",
+        "End Date": "2025-07-01",
+        "Budget": 23500,
+        "Channels": [
+          "Paid Ads",
+          "Content Marketing"
+        ],
+        "Assigned Department": "Product",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Email Reactivation Series",
+        "Objective": "Re-engage inactive leads",
+        "Target Audience": "Dormant subscribers",
+        "Start Date": "2025-03-01",
+        "End Date": "2025-06-01",
+        "Budget": 6300,
+        "Channels": [
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Design Workshop Summer",
+        "Objective": "Build design skills",
+        "Target Audience": "Design team",
+        "Start Date": "2025-05-01",
+        "End Date": "2025-07-31",
+        "Budget": 9000,
+        "Channels": [
+          "Events"
+        ],
+        "Assigned Department": "Design",
+        "Status": "Planned"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Sales Training 2024",
+        "Objective": "Improve sales skills",
+        "Target Audience": "Sales team",
+        "Start Date": "2024-09-01",
+        "End Date": "2024-12-31",
+        "Budget": 15200,
+        "Channels": [
+          "Events"
+        ],
+        "Assigned Department": "Sales",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Content Strategy Update",
+        "Objective": "Revise marketing content plan",
+        "Target Audience": "Marketing team",
+        "Start Date": "2025-01-15",
+        "End Date": "2025-06-15",
+        "Budget": 12800,
+        "Channels": [
+          "Content Marketing"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "AI Client Story Campaign",
+        "Objective": "Showcase AI benefits",
+        "Target Audience": "Prospective clients",
+        "Start Date": "2024-07-01",
+        "End Date": "2024-11-01",
+        "Budget": 8000,
+        "Channels": [
+          "Content Marketing",
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Holiday Email Blast 2024",
+        "Objective": "Drive seasonal sales",
+        "Target Audience": "Customers",
+        "Start Date": "2024-11-15",
+        "End Date": "2024-12-31",
+        "Budget": 6700,
+        "Channels": [
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "New Year Paid Ads",
+        "Objective": "Kick off new year ads",
+        "Target Audience": "Prospects",
+        "Start Date": "2025-01-01",
+        "End Date": "2025-04-01",
+        "Budget": 18500,
+        "Channels": [
+          "Paid Ads"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Social Engagement Q2",
+        "Objective": "Boost social interaction",
+        "Target Audience": "Social media followers",
+        "Start Date": "2025-03-15",
+        "End Date": "2025-06-15",
+        "Budget": 9500,
+        "Channels": [
+          "Social"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Product Webinar Series",
+        "Objective": "Educate about new features",
+        "Target Audience": "Clients and prospects",
+        "Start Date": "2025-05-10",
+        "End Date": "2025-07-10",
+        "Budget": 10700,
+        "Channels": [
+          "Events",
+          "Email"
+        ],
+        "Assigned Department": "Product",
+        "Status": "Planned"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Content Repurpose Q3",
+        "Objective": "Maximize content value",
+        "Target Audience": "Content consumers",
+        "Start Date": "2025-06-01",
+        "End Date": "2025-08-31",
+        "Budget": 7400,
+        "Channels": [
+          "Content Marketing"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Planned"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Lead Nurture Series",
+        "Objective": "Convert leads",
+        "Target Audience": "Lead database",
+        "Start Date": "2024-08-01",
+        "End Date": "2024-11-01",
+        "Budget": 8800,
+        "Channels": [
+          "Email"
+        ],
+        "Assigned Department": "Marketing",
+        "Status": "Completed"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1957 @@
+{
+  "table_name": "Research Initiatives",
+  "parent_workspace_name": "R&D",
+  "parent_base_name": "R&D",
+  "records": [
+    {
+      "fields": {
+        "Title": "AI-Driven Customer Segmentation",
+        "Objective": "Improve targeting accuracy with AI algorithms",
+        "Start Date": "2024-12-20",
+        "End Date": "2025-11-04",
+        "Status": "Active",
+        "Funding Source": "Internal Budget",
+        "Research Area": "AI",
+        "Budget Allocated": 723452.22,
+        "Progress %": 0.63
+      }
+    },
+    {
+      "fields": {
+        "Title": "User Experience Optimization for Mobile",
+        "Objective": "Enhance mobile user engagement",
+        "Start Date": "2025-01-15",
+        "End Date": "2025-12-10",
+        "Status": "Paused",
+        "Funding Source": "Client Funding",
+        "Research Area": "UX",
+        "Budget Allocated": 234765.5,
+        "Progress %": 0.45
+      }
+    },
+    {
+      "fields": {
+        "Title": "Product Feature Impact Analysis",
+        "Objective": "Assess new features' impact on sales",
+        "Start Date": "2025-03-20",
+        "End Date": "2025-08-30",
+        "Status": "Active",
+        "Funding Source": "Government Grant",
+        "Research Area": "Product",
+        "Budget Allocated": 512300.0,
+        "Progress %": 0.32
+      }
+    },
+    {
+      "fields": {
+        "Title": "Data Science for Market Prediction",
+        "Objective": "Use data science to forecast market trends",
+        "Start Date": "2024-11-10",
+        "End Date": "2025-09-25",
+        "Status": "Complete",
+        "Funding Source": "Private Investor",
+        "Research Area": "Data Science",
+        "Budget Allocated": 410000,
+        "Progress %": 0.100
+      }
+    },
+    {
+      "fields": {
+        "Title": "Security Enhancements for Client Data",
+        "Objective": "Implement advanced security protocols",
+        "Start Date": "2025-02-15",
+        "End Date": "2025-12-20",
+        "Status": "Active",
+        "Funding Source": "Internal Budget",
+        "Research Area": "Security",
+        "Budget Allocated": 198000,
+        "Progress %": 0.78
+      }
+    },
+    {
+      "fields": {
+        "Title": "Performance Optimization for Ad Delivery",
+        "Objective": "Reduce latency in ad serving",
+        "Start Date": "2024-12-01",
+        "End Date": "2025-10-15",
+        "Status": "Paused",
+        "Funding Source": "Client Funding",
+        "Research Area": "Performance",
+        "Budget Allocated": 287450.75,
+        "Progress %": 0.40
+      }
+    },
+    {
+      "fields": {
+        "Title": "Infrastructure Upgrade for Data Storage",
+        "Objective": "Expand and upgrade storage infrastructure",
+        "Start Date": "2025-04-01",
+        "End Date": "2025-11-30",
+        "Status": "Active",
+        "Funding Source": "Internal Budget",
+        "Research Area": "Infrastructure",
+        "Budget Allocated": 455000,
+        "Progress %": 0.55
+      }
+    },
+    {
+      "fields": {
+        "Title": "Exploratory Study on AI Ethics",
+        "Objective": "Evaluate ethical implications of AI use",
+        "Start Date": "2024-12-10",
+        "End Date": "2025-09-20",
+        "Status": "Complete",
+        "Funding Source": "University Collaboration",
+        "Research Area": "Other",
+        "Budget Allocated": 150000,
+        "Progress %": 0.100
+      }
+    },
+    {
+      "fields": {
+        "Title": "UX Research for New Market Segment",
+        "Objective": "Understand UX needs of younger demographics",
+        "Start Date": "2025-01-20",
+        "End Date": "2025-08-01",
+        "Status": "Active",
+        "Funding Source": "Client Funding",
+        "Research Area": "UX",
+        "Budget Allocated": 134000,
+        "Progress %": 0.61
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI Chatbot Enhancement",
+        "Objective": "Improve chatbot natural language processing",
+        "Start Date": "2025-03-25",
+        "End Date": "2025-11-15",
+        "Status": "Paused",
+        "Funding Source": "Internal Budget",
+        "Research Area": "AI",
+        "Budget Allocated": 340000,
+        "Progress %": 0.30
+      }
+    },
+    {
+      "fields": {
+        "Title": "Product Usability Testing",
+        "Objective": "Measure usability of latest product release",
+        "Start Date": "2025-02-10",
+        "End Date": "2025-09-30",
+        "Status": "Active",
+        "Funding Source": "Client Funding",
+        "Research Area": "Product",
+        "Budget Allocated": 78000,
+        "Progress %": 0.72
+      }
+    },
+    {
+      "fields": {
+        "Title": "Data Science Model Validation",
+        "Objective": "Validate predictive accuracy of models",
+        "Start Date": "2024-11-15",
+        "End Date": "2025-07-10",
+        "Status": "Complete",
+        "Funding Source": "Private Investor",
+        "Research Area": "Data Science",
+        "Budget Allocated": 295000,
+        "Progress %": 0.100
+      }
+    },
+    {
+      "fields": {
+        "Title": "Security Audit for API Services",
+        "Objective": "Identify vulnerabilities in APIs",
+        "Start Date": "2025-02-05",
+        "End Date": "2025-12-05",
+        "Status": "Active",
+        "Funding Source": "Internal Budget",
+        "Research Area": "Security",
+        "Budget Allocated": 120000,
+        "Progress %": 0.85
+      }
+    },
+    {
+      "fields": {
+        "Title": "Performance Benchmarking for Web Services",
+        "Objective": "Benchmark current web services' speed",
+        "Start Date": "2025-01-30",
+        "End Date": "2025-09-25",
+        "Status": "Paused",
+        "Funding Source": "Client Funding",
+        "Research Area": "Performance",
+        "Budget Allocated": 68000,
+        "Progress %": 0.38
+      }
+    },
+    {
+      "fields": {
+        "Title": "Cloud Infrastructure Migration",
+        "Objective": "Migrate services to cloud platform",
+        "Start Date": "2024-12-20",
+        "End Date": "2025-06-30",
+        "Status": "Complete",
+        "Funding Source": "Internal Budget",
+        "Research Area": "Infrastructure",
+        "Budget Allocated": 510000,
+        "Progress %": 0.100
+      }
+    },
+    {
+      "fields": {
+        "Title": "Study on User Behavioral Patterns",
+        "Objective": "Analyze user behavior for marketing insights",
+        "Start Date": "2025-03-15",
+        "End Date": "2025-12-20",
+        "Status": "Active",
+        "Funding Source": "University Collaboration",
+        "Research Area": "Other",
+        "Budget Allocated": 102000,
+        "Progress %": 0.50
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI-Powered Sentiment Analysis",
+        "Objective": "Improve sentiment analysis accuracy",
+        "Start Date": "2025-01-10",
+        "End Date": "2025-09-10",
+        "Status": "Active",
+        "Funding Source": "Client Funding",
+        "Research Area": "AI",
+        "Budget Allocated": 385000,
+        "Progress %": 0.69
+      }
+    },
+    {
+      "fields": {
+        "Title": "UX Accessibility Improvements",
+        "Objective": "Enhance accessibility features in apps",
+        "Start Date": "2025-04-10",
+        "End Date": "2025-11-20",
+        "Status": "Paused",
+        "Funding Source": "Internal Budget",
+        "Research Area": "UX",
+        "Budget Allocated": 90000,
+        "Progress %": 0.27
+      }
+    },
+    {
+      "fields": {
+        "Title": "Product Lifecycle Analysis",
+        "Objective": "Analyze product lifecycle for improvements",
+        "Start Date": "2024-12-05",
+        "End Date": "2025-10-05",
+        "Status": "Active",
+        "Funding Source": "Client Funding",
+        "Research Area": "Product",
+        "Budget Allocated": 140000,
+        "Progress %": 0.74
+      }
+    },
+    {
+      "fields": {
+        "Title": "Big Data Analytics Platform",
+        "Objective": "Build scalable analytics platform",
+        "Start Date": "2025-02-20",
+        "End Date": "2025-12-01",
+        "Status": "Active",
+        "Funding Source": "Government Grant",
+        "Research Area": "Data Science",
+        "Budget Allocated": 614000,
+        "Progress %": 0.58
+      }
+    },
+    {
+      "fields": {
+        "Title": "Security Training Program",
+        "Objective": "Train staff on latest security protocols",
+        "Start Date": "2025-01-25",
+        "End Date": "2025-08-20",
+        "Status": "Complete",
+        "Funding Source": "Internal Budget",
+        "Research Area": "Security",
+        "Budget Allocated": 45000,
+        "Progress %": 0.100
+      }
+    },
+    {
+      "fields": {
+        "Title": "Performance Tuning for Databases",
+        "Objective": "Optimize database query performance",
+        "Start Date": "2025-03-05",
+        "End Date": "2025-10-15",
+        "Status": "Paused",
+        "Funding Source": "Client Funding",
+        "Research Area": "Performance",
+        "Budget Allocated": 72000,
+        "Progress %": 0.33
+      }
+    },
+    {
+      "fields": {
+        "Title": "Infrastructure Scalability Study",
+        "Objective": "Assess scalability of current infrastructure",
+        "Start Date": "2024-11-25",
+        "End Date": "2025-09-05",
+        "Status": "Complete",
+        "Funding Source": "Private Investor",
+        "Research Area": "Infrastructure",
+        "Budget Allocated": 210000,
+        "Progress %": 0.100
+      }
+    },
+    {
+      "fields": {
+        "Title": "Innovative Marketing Strategies",
+        "Objective": "Research new marketing approaches",
+        "Start Date": "2025-02-10",
+        "End Date": "2025-11-30",
+        "Status": "Active",
+        "Funding Source": "Internal Budget",
+        "Research Area": "Other",
+        "Budget Allocated": 65000,
+        "Progress %": 0.62
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI-Enhanced Content Generation",
+        "Objective": "Develop AI tools for content creation",
+        "Start Date": "2025-01-15",
+        "End Date": "2025-09-15",
+        "Status": "Active",
+        "Funding Source": "Client Funding",
+        "Research Area": "AI",
+        "Budget Allocated": 299800,
+        "Progress %": 0.71
+      }
+    },
+    {
+      "fields": {
+        "Title": "UX Feedback Automation",
+        "Objective": "Automate collection of UX feedback",
+        "Start Date": "2025-04-05",
+        "End Date": "2025-12-20",
+        "Status": "Paused",
+        "Funding Source": "Internal Budget",
+        "Research Area": "UX",
+        "Budget Allocated": 122000,
+        "Progress %": 0.26
+      }
+    },
+    {
+      "fields": {
+        "Title": "Product Adoption Metrics Analysis",
+        "Objective": "Track and analyze product adoption",
+        "Start Date": "2024-12-15",
+        "End Date": "2025-08-30",
+        "Status": "Active",
+        "Funding Source": "Client Funding",
+        "Research Area": "Product",
+        "Budget Allocated": 178000,
+        "Progress %": 0.69
+      }
+    },
+    {
+      "fields": {
+        "Title": "Data Science Workflow Optimization",
+        "Objective": "Improve efficiency in data workflows",
+        "Start Date": "2025-03-01",
+        "End Date": "2025-11-10",
+        "Status": "Active",
+        "Funding Source": "Government Grant",
+        "Research Area": "Data Science",
+        "Budget Allocated": 280000,
+        "Progress %": 0.53
+      }
+    },
+    {
+      "fields": {
+        "Title": "Cybersecurity Risk Assessment",
+        "Objective": "Evaluate organization security risks",
+        "Start Date": "2025-01-05",
+        "End Date": "2025-10-05",
+        "Status": "Complete",
+        "Funding Source": "Internal Budget",
+        "Research Area": "Security",
+        "Budget Allocated": 134000,
+        "Progress %": 0.100
+      }
+    },
+    {
+      "fields": {
+        "Title": "Load Testing for Ads Platform",
+        "Objective": "Test system under heavy load",
+        "Start Date": "2025-02-28",
+        "End Date": "2025-08-28",
+        "Status": "Paused",
+        "Funding Source": "Client Funding",
+        "Research Area": "Performance",
+        "Budget Allocated": 49000,
+        "Progress %": 0.36
+      }
+    },
+    {
+      "fields": {
+        "Title": "Infrastructure Cost Reduction",
+        "Objective": "Reduce infrastructure expenses",
+        "Start Date": "2024-11-20",
+        "End Date": "2025-07-30",
+        "Status": "Complete",
+        "Funding Source": "Internal Budget",
+        "Research Area": "Infrastructure",
+        "Budget Allocated": 115000,
+        "Progress %": 0.100
+      }
+    },
+    {
+      "fields": {
+        "Title": "Market Trend Analysis Tools",
+        "Objective": "Create tools for market trend analysis",
+        "Start Date": "2025-03-10",
+        "End Date": "2025-12-15",
+        "Status": "Active",
+        "Funding Source": "University Collaboration",
+        "Research Area": "Other",
+        "Budget Allocated": 67000,
+        "Progress %": 0.44
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI Personalization Algorithms",
+        "Objective": "Develop personalized marketing AI",
+        "Start Date": "2025-01-12",
+        "End Date": "2025-11-12",
+        "Status": "Active",
+        "Funding Source": "Client Funding",
+        "Research Area": "AI",
+        "Budget Allocated": 345000,
+        "Progress %": 0.67
+      }
+    },
+    {
+      "fields": {
+        "Title": "UX Design System Revamp",
+        "Objective": "Update and unify UX design system",
+        "Start Date": "2025-04-01",
+        "End Date": "2025-09-25",
+        "Status": "Paused",
+        "Funding Source": "Internal Budget",
+        "Research Area": "UX",
+        "Budget Allocated": 98000,
+        "Progress %": 0.29
+      }
+    },
+    {
+      "fields": {
+        "Title": "Product Feature Prioritization",
+        "Objective": "Identify priority features for roadmap",
+        "Start Date": "2024-12-10",
+        "End Date": "2025-08-15",
+        "Status": "Active",
+        "Funding Source": "Client Funding",
+        "Research Area": "Product",
+        "Budget Allocated": 156000,
+        "Progress %": 0.71
+      }
+    },
+    {
+      "fields": {
+        "Title": "Data Science Model Interpretability",
+        "Objective": "Improve transparency of models",
+        "Start Date": "2025-02-18",
+        "End Date": "2025-11-25",
+        "Status": "Active",
+        "Funding Source": "Private Investor",
+        "Research Area": "Data Science",
+        "Budget Allocated": 265000,
+        "Progress %": 0.55
+      }
+    },
+    {
+      "fields": {
+        "Title": "Security Incident Response Plan",
+        "Objective": "Develop incident response procedures",
+        "Start Date": "2025-01-22",
+        "End Date": "2025-07-22",
+        "Status": "Complete",
+        "Funding Source": "Internal Budget",
+        "Research Area": "Security",
+        "Budget Allocated": 71000,
+        "Progress %": 0.100
+      }
+    },
+    {
+      "fields": {
+        "Title": "Performance Analytics Dashboard",
+        "Objective": "Create dashboard for performance metrics",
+        "Start Date": "2025-03-12",
+        "End Date": "2025-09-30",
+        "Status": "Paused",
+        "Funding Source": "Client Funding",
+        "Research Area": "Performance",
+        "Budget Allocated": 53000,
+        "Progress %": 0.34
+      }
+    },
+    {
+      "fields": {
+        "Title": "Infrastructure Disaster Recovery",
+        "Objective": "Plan disaster recovery processes",
+        "Start Date": "2024-11-30",
+        "End Date": "2025-07-15",
+        "Status": "Complete",
+        "Funding Source": "Internal Budget",
+        "Research Area": "Infrastructure",
+        "Budget Allocated": 225000,
+        "Progress %": 0.100
+      }
+    },
+    {
+      "fields": {
+        "Title": "Emerging Tech Research",
+        "Objective": "Study emerging marketing technologies",
+        "Start Date": "2025-02-25",
+        "End Date": "2025-11-15",
+        "Status": "Active",
+        "Funding Source": "University Collaboration",
+        "Research Area": "Other",
+        "Budget Allocated": 74000,
+        "Progress %": 0.48
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI for Social Media Analytics",
+        "Objective": "Use AI to analyze social media trends",
+        "Start Date": "2025-01-18",
+        "End Date": "2025-10-18",
+        "Status": "Active",
+        "Funding Source": "Client Funding",
+        "Research Area": "AI",
+        "Budget Allocated": 320000,
+        "Progress %": 0.66
+      }
+    },
+    {
+      "fields": {
+        "Title": "UX Interaction Testing",
+        "Objective": "Test user interactions for improvements",
+        "Start Date": "2025-04-08",
+        "End Date": "2025-11-28",
+        "Status": "Paused",
+        "Funding Source": "Internal Budget",
+        "Research Area": "UX",
+        "Budget Allocated": 104000,
+        "Progress %": 0.31
+      }
+    },
+    {
+      "fields": {
+        "Title": "Product Market Fit Analysis",
+        "Objective": "Identify product-market fit gaps",
+        "Start Date": "2024-12-04",
+        "End Date": "2025-08-29",
+        "Status": "Active",
+        "Funding Source": "Client Funding",
+        "Research Area": "Product",
+        "Budget Allocated": 149000,
+        "Progress %": 0.70
+      }
+    },
+    {
+      "fields": {
+        "Title": "Data Science Automation Tools",
+        "Objective": "Automate data processing workflows",
+        "Start Date": "2025-03-06",
+        "End Date": "2025-11-20",
+        "Status": "Active",
+        "Funding Source": "Government Grant",
+        "Research Area": "Data Science",
+        "Budget Allocated": 300000,
+        "Progress %": 0.59
+      }
+    },
+    {
+      "fields": {
+        "Title": "Security Compliance Upgrade",
+        "Objective": "Upgrade for compliance standards",
+        "Start Date": "2025-01-28",
+        "End Date": "2025-09-28",
+        "Status": "Complete",
+        "Funding Source": "Internal Budget",
+        "Research Area": "Security",
+        "Budget Allocated": 128000,
+        "Progress %": 0.100
+      }
+    },
+    {
+      "fields": {
+        "Title": "Performance Load Balancing",
+        "Objective": "Implement load balancing solutions",
+        "Start Date": "2025-02-15",
+        "End Date": "2025-08-25",
+        "Status": "Paused",
+        "Funding Source": "Client Funding",
+        "Research Area": "Performance",
+        "Budget Allocated": 61000,
+        "Progress %": 0.35
+      }
+    },
+    {
+      "fields": {
+        "Title": "Infrastructure Energy Efficiency",
+        "Objective": "Reduce energy consumption",
+        "Start Date": "2024-11-22",
+        "End Date": "2025-07-20",
+        "Status": "Complete",
+        "Funding Source": "Private Investor",
+        "Research Area": "Infrastructure",
+        "Budget Allocated": 148000,
+        "Progress %": 0.100
+      }
+    },
+    {
+      "fields": {
+        "Title": "Marketing AI Trend Analysis",
+        "Objective": "Analyze trends in marketing AI",
+        "Start Date": "2025-03-18",
+        "End Date": "2025-12-10",
+        "Status": "Active",
+        "Funding Source": "Internal Budget",
+        "Research Area": "Other",
+        "Budget Allocated": 58000,
+        "Progress %": 0.59
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI Content Personalization",
+        "Objective": "Personalize content with AI",
+        "Start Date": "2025-01-14",
+        "End Date": "2025-10-14",
+        "Status": "Active",
+        "Funding Source": "Client Funding",
+        "Research Area": "AI",
+        "Budget Allocated": 310000,
+        "Progress %": 0.68
+      }
+    },
+    {
+      "fields": {
+        "Title": "UX User Journey Mapping",
+        "Objective": "Map user journeys for insights",
+        "Start Date": "2025-04-12",
+        "End Date": "2025-11-25",
+        "Status": "Paused",
+        "Funding Source": "Internal Budget",
+        "Research Area": "UX",
+        "Budget Allocated": 87000,
+        "Progress %": 0.28
+      }
+    },
+    {
+      "fields": {
+        "Title": "Product Innovation Pipeline",
+        "Objective": "Develop new product ideas pipeline",
+        "Start Date": "2024-12-02",
+        "End Date": "2025-09-01",
+        "Status": "Active",
+        "Funding Source": "Client Funding",
+        "Research Area": "Product",
+        "Budget Allocated": 172000,
+        "Progress %": 0.73
+      }
+    },
+    {
+      "fields": {
+        "Title": "Advanced Data Science Models",
+        "Objective": "Build advanced predictive models",
+        "Start Date": "2025-02-22",
+        "End Date": "2025-11-30",
+        "Status": "Active",
+        "Funding Source": "Government Grant",
+        "Research Area": "Data Science",
+        "Budget Allocated": 345000,
+        "Progress %": 0.61
+      }
+    },
+    {
+      "fields": {
+        "Title": "Security Policy Review",
+        "Objective": "Review and update security policies",
+        "Start Date": "2025-01-20",
+        "End Date": "2025-08-20",
+        "Status": "Complete",
+        "Funding Source": "Internal Budget",
+        "Research Area": "Security",
+        "Budget Allocated": 62000,
+        "Progress %": 0.100
+      }
+    },
+    {
+      "fields": {
+        "Title": "Performance Monitoring Enhancements",
+        "Objective": "Enhance performance monitoring tools",
+        "Start Date": "2025-03-08",
+        "End Date": "2025-09-15",
+        "Status": "Paused",
+        "Funding Source": "Client Funding",
+        "Research Area": "Performance",
+        "Budget Allocated": 48000,
+        "Progress %": 0.37
+      }
+    },
+    {
+      "fields": {
+        "Title": "Infrastructure Modernization",
+        "Objective": "Modernize infrastructure components",
+        "Start Date": "2024-11-28",
+        "End Date": "2025-06-25",
+        "Status": "Complete",
+        "Funding Source": "Internal Budget",
+        "Research Area": "Infrastructure",
+        "Budget Allocated": 265000,
+        "Progress %": 0.100
+      }
+    },
+    {
+      "fields": {
+        "Title": "Cross-Channel Marketing Study",
+        "Objective": "Study effectiveness across channels",
+        "Start Date": "2025-02-12",
+        "End Date": "2025-11-20",
+        "Status": "Active",
+        "Funding Source": "University Collaboration",
+        "Research Area": "Other",
+        "Budget Allocated": 54000,
+        "Progress %": 0.46
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI-Based Lead Scoring",
+        "Objective": "Develop AI model for lead scoring",
+        "Start Date": "2025-01-17",
+        "End Date": "2025-09-30",
+        "Status": "Active",
+        "Funding Source": "Client Funding",
+        "Research Area": "AI",
+        "Budget Allocated": 290000,
+        "Progress %": 0.64
+      }
+    },
+    {
+      "fields": {
+        "Title": "UX Prototyping Automation",
+        "Objective": "Automate UX prototyping process",
+        "Start Date": "2025-04-03",
+        "End Date": "2025-11-18",
+        "Status": "Paused",
+        "Funding Source": "Internal Budget",
+        "Research Area": "UX",
+        "Budget Allocated": 96000,
+        "Progress %": 0.26
+      }
+    },
+    {
+      "fields": {
+        "Title": "Product Pricing Strategy Analysis",
+        "Objective": "Analyze pricing strategies",
+        "Start Date": "2024-12-08",
+        "End Date": "2025-08-10",
+        "Status": "Active",
+        "Funding Source": "Client Funding",
+        "Research Area": "Product",
+        "Budget Allocated": 130000,
+        "Progress %": 0.68
+      }
+    },
+    {
+      "fields": {
+        "Title": "Data Science Collaboration Platform",
+        "Objective": "Create platform for data collaboration",
+        "Start Date": "2025-03-02",
+        "End Date": "2025-12-12",
+        "Status": "Active",
+        "Funding Source": "Government Grant",
+        "Research Area": "Data Science",
+        "Budget Allocated": 270000,
+        "Progress %": 0.56
+      }
+    },
+    {
+      "fields": {
+        "Title": "Security Vulnerability Assessment",
+        "Objective": "Assess system vulnerabilities",
+        "Start Date": "2025-01-24",
+        "End Date": "2025-07-24",
+        "Status": "Complete",
+        "Funding Source": "Internal Budget",
+        "Research Area": "Security",
+        "Budget Allocated": 78000,
+        "Progress %": 0.100
+      }
+    },
+    {
+      "fields": {
+        "Title": "Performance Testing Automation",
+        "Objective": "Automate performance testing",
+        "Start Date": "2025-02-25",
+        "End Date": "2025-08-22",
+        "Status": "Paused",
+        "Funding Source": "Client Funding",
+        "Research Area": "Performance",
+        "Budget Allocated": 52000,
+        "Progress %": 0.39
+      }
+    },
+    {
+      "fields": {
+        "Title": "Infrastructure Capacity Planning",
+        "Objective": "Plan for future infrastructure needs",
+        "Start Date": "2024-11-18",
+        "End Date": "2025-07-28",
+        "Status": "Complete",
+        "Funding Source": "Internal Budget",
+        "Research Area": "Infrastructure",
+        "Budget Allocated": 210000,
+        "Progress %": 0.100
+      }
+    },
+    {
+      "fields": {
+        "Title": "Consumer Behavior Analysis",
+        "Objective": "Analyze consumer behavior with AI",
+        "Start Date": "2025-03-15",
+        "End Date": "2025-12-05",
+        "Status": "Active",
+        "Funding Source": "University Collaboration",
+        "Research Area": "Other",
+        "Budget Allocated": 63000,
+        "Progress %": 0.52
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI-Powered Email Campaigns",
+        "Objective": "Optimize email marketing with AI",
+        "Start Date": "2025-01-11",
+        "End Date": "2025-10-11",
+        "Status": "Active",
+        "Funding Source": "Client Funding",
+        "Research Area": "AI",
+        "Budget Allocated": 325000,
+        "Progress %": 0.70
+      }
+    },
+    {
+      "fields": {
+        "Title": "UX Mobile App Redesign",
+        "Objective": "Redesign mobile app for UX",
+        "Start Date": "2025-04-06",
+        "End Date": "2025-12-01",
+        "Status": "Paused",
+        "Funding Source": "Internal Budget",
+        "Research Area": "UX",
+        "Budget Allocated": 108000,
+        "Progress %": 0.27
+      }
+    },
+    {
+      "fields": {
+        "Title": "Product Customer Feedback Analysis",
+        "Objective": "Analyze customer feedback data",
+        "Start Date": "2024-12-06",
+        "End Date": "2025-09-05",
+        "Status": "Active",
+        "Funding Source": "Client Funding",
+        "Research Area": "Product",
+        "Budget Allocated": 160000,
+        "Progress %": 0.75
+      }
+    },
+    {
+      "fields": {
+        "Title": "Data Science Pipeline Automation",
+        "Objective": "Automate data pipeline processes",
+        "Start Date": "2025-02-28",
+        "End Date": "2025-11-28",
+        "Status": "Active",
+        "Funding Source": "Private Investor",
+        "Research Area": "Data Science",
+        "Budget Allocated": 285000,
+        "Progress %": 0.60
+      }
+    },
+    {
+      "fields": {
+        "Title": "Security Patch Management",
+        "Objective": "Implement patch management process",
+        "Start Date": "2025-01-19",
+        "End Date": "2025-08-19",
+        "Status": "Complete",
+        "Funding Source": "Internal Budget",
+        "Research Area": "Security",
+        "Budget Allocated": 67000,
+        "Progress %": 0.100
+      }
+    },
+    {
+      "fields": {
+        "Title": "Performance Optimization Strategies",
+        "Objective": "Develop performance improvement plans",
+        "Start Date": "2025-03-10",
+        "End Date": "2025-09-20",
+        "Status": "Paused",
+        "Funding Source": "Client Funding",
+        "Research Area": "Performance",
+        "Budget Allocated": 44000,
+        "Progress %": 0.33
+      }
+    },
+    {
+      "fields": {
+        "Title": "Infrastructure Monitoring Tools",
+        "Objective": "Introduce new monitoring tools",
+        "Start Date": "2024-11-24",
+        "End Date": "2025-07-30",
+        "Status": "Complete",
+        "Funding Source": "Internal Budget",
+        "Research Area": "Infrastructure",
+        "Budget Allocated": 230000,
+        "Progress %": 0.100
+      }
+    },
+    {
+      "fields": {
+        "Title": "Social Media Marketing Innovations",
+        "Objective": "Innovate social media marketing",
+        "Start Date": "2025-02-16",
+        "End Date": "2025-12-05",
+        "Status": "Active",
+        "Funding Source": "University Collaboration",
+        "Research Area": "Other",
+        "Budget Allocated": 71000,
+        "Progress %": 0.47
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI Customer Support Systems",
+        "Objective": "Develop AI for customer support",
+        "Start Date": "2025-01-13",
+        "End Date": "2025-09-25",
+        "Status": "Active",
+        "Funding Source": "Client Funding",
+        "Research Area": "AI",
+        "Budget Allocated": 310000,
+        "Progress %": 0.65
+      }
+    },
+    {
+      "fields": {
+        "Title": "UX Accessibility Compliance",
+        "Objective": "Ensure compliance with standards",
+        "Start Date": "2025-04-09",
+        "End Date": "2025-11-20",
+        "Status": "Paused",
+        "Funding Source": "Internal Budget",
+        "Research Area": "UX",
+        "Budget Allocated": 92000,
+        "Progress %": 0.28
+      }
+    },
+    {
+      "fields": {
+        "Title": "Product Feature A/B Testing",
+        "Objective": "Test product features effectiveness",
+        "Start Date": "2024-12-03",
+        "End Date": "2025-08-25",
+        "Status": "Active",
+        "Funding Source": "Client Funding",
+        "Research Area": "Product",
+        "Budget Allocated": 140000,
+        "Progress %": 0.73
+      }
+    },
+    {
+      "fields": {
+        "Title": "Advanced Data Science Techniques",
+        "Objective": "Explore new data science methods",
+        "Start Date": "2025-03-04",
+        "End Date": "2025-11-22",
+        "Status": "Active",
+        "Funding Source": "Government Grant",
+        "Research Area": "Data Science",
+        "Budget Allocated": 325000,
+        "Progress %": 0.57
+      }
+    },
+    {
+      "fields": {
+        "Title": "Security Awareness Campaign",
+        "Objective": "Raise security awareness",
+        "Start Date": "2025-01-21",
+        "End Date": "2025-07-21",
+        "Status": "Complete",
+        "Funding Source": "Internal Budget",
+        "Research Area": "Security",
+        "Budget Allocated": 48000,
+        "Progress %": 0.100
+      }
+    },
+    {
+      "fields": {
+        "Title": "Performance Testing Framework",
+        "Objective": "Create automated testing framework",
+        "Start Date": "2025-02-22",
+        "End Date": "2025-08-18",
+        "Status": "Paused",
+        "Funding Source": "Client Funding",
+        "Research Area": "Performance",
+        "Budget Allocated": 56000,
+        "Progress %": 0.40
+      }
+    },
+    {
+      "fields": {
+        "Title": "Infrastructure Automation",
+        "Objective": "Automate infrastructure processes",
+        "Start Date": "2024-11-21",
+        "End Date": "2025-07-25",
+        "Status": "Complete",
+        "Funding Source": "Internal Budget",
+        "Research Area": "Infrastructure",
+        "Budget Allocated": 260000,
+        "Progress %": 0.100
+      }
+    },
+    {
+      "fields": {
+        "Title": "Marketing Funnel Analysis",
+        "Objective": "Analyze marketing funnels with AI",
+        "Start Date": "2025-03-11",
+        "End Date": "2025-12-02",
+        "Status": "Active",
+        "Funding Source": "University Collaboration",
+        "Research Area": "Other",
+        "Budget Allocated": 59000,
+        "Progress %": 0.50
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI-Powered Ad Targeting",
+        "Objective": "Improve ad targeting using AI",
+        "Start Date": "2025-01-16",
+        "End Date": "2025-10-16",
+        "Status": "Active",
+        "Funding Source": "Client Funding",
+        "Research Area": "AI",
+        "Budget Allocated": 335000,
+        "Progress %": 0.69
+      }
+    },
+    {
+      "fields": {
+        "Title": "UX Design Guidelines Update",
+        "Objective": "Update UX guidelines",
+        "Start Date": "2025-04-07",
+        "End Date": "2025-11-23",
+        "Status": "Paused",
+        "Funding Source": "Internal Budget",
+        "Research Area": "UX",
+        "Budget Allocated": 97000,
+        "Progress %": 0.30
+      }
+    },
+    {
+      "fields": {
+        "Title": "Product Customer Journey Analysis",
+        "Objective": "Map customer journey for products",
+        "Start Date": "2024-12-09",
+        "End Date": "2025-08-20",
+        "Status": "Active",
+        "Funding Source": "Client Funding",
+        "Research Area": "Product",
+        "Budget Allocated": 158000,
+        "Progress %": 0.71
+      }
+    },
+    {
+      "fields": {
+        "Title": "Data Science Model Deployment",
+        "Objective": "Deploy models in production",
+        "Start Date": "2025-03-03",
+        "End Date": "2025-11-19",
+        "Status": "Active",
+        "Funding Source": "Private Investor",
+        "Research Area": "Data Science",
+        "Budget Allocated": 290000,
+        "Progress %": 0.58
+      }
+    },
+    {
+      "fields": {
+        "Title": "Security Infrastructure Upgrade",
+        "Objective": "Upgrade security infrastructure",
+        "Start Date": "2025-01-23",
+        "End Date": "2025-08-23",
+        "Status": "Complete",
+        "Funding Source": "Internal Budget",
+        "Research Area": "Security",
+        "Budget Allocated": 112000,
+        "Progress %": 0.100
+      }
+    },
+    {
+      "fields": {
+        "Title": "Performance Dashboard Development",
+        "Objective": "Develop performance dashboards",
+        "Start Date": "2025-02-24",
+        "End Date": "2025-09-10",
+        "Status": "Paused",
+        "Funding Source": "Client Funding",
+        "Research Area": "Performance",
+        "Budget Allocated": 47000,
+        "Progress %": 0.35
+      }
+    },
+    {
+      "fields": {
+        "Title": "Infrastructure Cost Analysis",
+        "Objective": "Analyze infrastructure costs",
+        "Start Date": "2024-11-23",
+        "End Date": "2025-07-29",
+        "Status": "Complete",
+        "Funding Source": "Internal Budget",
+        "Research Area": "Infrastructure",
+        "Budget Allocated": 195000,
+        "Progress %": 0.100
+      }
+    },
+    {
+      "fields": {
+        "Title": "Customer Insights Research",
+        "Objective": "Research customer insights",
+        "Start Date": "2025-03-13",
+        "End Date": "2025-12-14",
+        "Status": "Active",
+        "Funding Source": "University Collaboration",
+        "Research Area": "Other",
+        "Budget Allocated": 65000,
+        "Progress %": 0.53
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI-Driven Marketing Automation",
+        "Objective": "Automate marketing tasks via AI",
+        "Start Date": "2025-01-14",
+        "End Date": "2025-10-21",
+        "Status": "Active",
+        "Funding Source": "Client Funding",
+        "Research Area": "AI",
+        "Budget Allocated": 315000,
+        "Progress %": 0.66
+      }
+    },
+    {
+      "fields": {
+        "Title": "UX Testing Improvements",
+        "Objective": "Improve UX testing processes",
+        "Start Date": "2025-04-04",
+        "End Date": "2025-11-19",
+        "Status": "Paused",
+        "Funding Source": "Internal Budget",
+        "Research Area": "UX",
+        "Budget Allocated": 89000,
+        "Progress %": 0.25
+      }
+    },
+    {
+      "fields": {
+        "Title": "Product Feedback Loop Optimization",
+        "Objective": "Optimize feedback collection",
+        "Start Date": "2024-12-07",
+        "End Date": "2025-08-18",
+        "Status": "Active",
+        "Funding Source": "Client Funding",
+        "Research Area": "Product",
+        "Budget Allocated": 145000,
+        "Progress %": 0.70
+      }
+    },
+    {
+      "fields": {
+        "Title": "Data Science Ethics Study",
+        "Objective": "Study ethics in data science",
+        "Start Date": "2025-02-27",
+        "End Date": "2025-11-21",
+        "Status": "Active",
+        "Funding Source": "Government Grant",
+        "Research Area": "Data Science",
+        "Budget Allocated": 280000,
+        "Progress %": 0.55
+      }
+    },
+    {
+      "fields": {
+        "Title": "Security Incident Simulation",
+        "Objective": "Simulate security incidents",
+        "Start Date": "2025-01-18",
+        "End Date": "2025-08-15",
+        "Status": "Complete",
+        "Funding Source": "Internal Budget",
+        "Research Area": "Security",
+        "Budget Allocated": 54000,
+        "Progress %": 0.100
+      }
+    },
+    {
+      "fields": {
+        "Title": "Performance Scalability Testing",
+        "Objective": "Test scalability of systems",
+        "Start Date": "2025-02-20",
+        "End Date": "2025-08-20",
+        "Status": "Paused",
+        "Funding Source": "Client Funding",
+        "Research Area": "Performance",
+        "Budget Allocated": 50000,
+        "Progress %": 0.37
+      }
+    },
+    {
+      "fields": {
+        "Title": "Infrastructure Resilience Planning",
+        "Objective": "Plan for infrastructure resilience",
+        "Start Date": "2024-11-19",
+        "End Date": "2025-07-19",
+        "Status": "Complete",
+        "Funding Source": "Internal Budget",
+        "Research Area": "Infrastructure",
+        "Budget Allocated": 220000,
+        "Progress %": 0.100
+      }
+    },
+    {
+      "fields": {
+        "Title": "Multichannel Marketing Analytics",
+        "Objective": "Analyze multichannel marketing",
+        "Start Date": "2025-03-16",
+        "End Date": "2025-12-13",
+        "Status": "Active",
+        "Funding Source": "University Collaboration",
+        "Research Area": "Other",
+        "Budget Allocated": 68000,
+        "Progress %": 0.49
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI Content Moderation",
+        "Objective": "Develop AI for content moderation",
+        "Start Date": "2025-01-19",
+        "End Date": "2025-10-19",
+        "Status": "Active",
+        "Funding Source": "Client Funding",
+        "Research Area": "AI",
+        "Budget Allocated": 300000,
+        "Progress %": 0.67
+      }
+    },
+    {
+      "fields": {
+        "Title": "UX Rapid Prototyping",
+        "Objective": "Enable rapid UX prototyping",
+        "Start Date": "2025-04-11",
+        "End Date": "2025-11-22",
+        "Status": "Paused",
+        "Funding Source": "Internal Budget",
+        "Research Area": "UX",
+        "Budget Allocated": 94000,
+        "Progress %": 0.29
+      }
+    },
+    {
+      "fields": {
+        "Title": "Product Usage Analytics",
+        "Objective": "Analyze product usage metrics",
+        "Start Date": "2024-12-01",
+        "End Date": "2025-08-12",
+        "Status": "Active",
+        "Funding Source": "Client Funding",
+        "Research Area": "Product",
+        "Budget Allocated": 155000,
+        "Progress %": 0.74
+      }
+    },
+    {
+      "fields": {
+        "Title": "Data Science Collaboration Tools",
+        "Objective": "Develop tools for data collaboration",
+        "Start Date": "2025-03-07",
+        "End Date": "2025-11-16",
+        "Status": "Active",
+        "Funding Source": "Government Grant",
+        "Research Area": "Data Science",
+        "Budget Allocated": 275000,
+        "Progress %": 0.57
+      }
+    },
+    {
+      "fields": {
+        "Title": "Security Framework Implementation",
+        "Objective": "Implement new security framework",
+        "Start Date": "2025-01-26",
+        "End Date": "2025-08-26",
+        "Status": "Complete",
+        "Funding Source": "Internal Budget",
+        "Research Area": "Security",
+        "Budget Allocated": 98000,
+        "Progress %": 0.100
+      }
+    },
+    {
+      "fields": {
+        "Title": "Performance Metrics Reporting",
+        "Objective": "Improve metrics reporting",
+        "Start Date": "2025-02-19",
+        "End Date": "2025-09-05",
+        "Status": "Paused",
+        "Funding Source": "Client Funding",
+        "Research Area": "Performance",
+        "Budget Allocated": 46000,
+        "Progress %": 0.36
+      }
+    },
+    {
+      "fields": {
+        "Title": "Infrastructure Automation Strategy",
+        "Objective": "Develop automation strategies",
+        "Start Date": "2024-11-26",
+        "End Date": "2025-07-27",
+        "Status": "Complete",
+        "Funding Source": "Internal Budget",
+        "Research Area": "Infrastructure",
+        "Budget Allocated": 250000,
+        "Progress %": 0.100
+      }
+    },
+    {
+      "fields": {
+        "Title": "Customer Segmentation Optimization",
+        "Objective": "Optimize segmentation methods",
+        "Start Date": "2025-03-14",
+        "End Date": "2025-12-18",
+        "Status": "Active",
+        "Funding Source": "University Collaboration",
+        "Research Area": "Other",
+        "Budget Allocated": 60000,
+        "Progress %": 0.51
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI Campaign Performance Models",
+        "Objective": "Model campaign performance",
+        "Start Date": "2025-01-21",
+        "End Date": "2025-10-20",
+        "Status": "Active",
+        "Funding Source": "Client Funding",
+        "Research Area": "AI",
+        "Budget Allocated": 320000,
+        "Progress %": 0.68
+      }
+    },
+    {
+      "fields": {
+        "Title": "UX Accessibility Audits",
+        "Objective": "Conduct accessibility audits",
+        "Start Date": "2025-04-02",
+        "End Date": "2025-11-24",
+        "Status": "Paused",
+        "Funding Source": "Internal Budget",
+        "Research Area": "UX",
+        "Budget Allocated": 91000,
+        "Progress %": 0.27
+      }
+    },
+    {
+      "fields": {
+        "Title": "Product Roadmap Prioritization",
+        "Objective": "Prioritize product features",
+        "Start Date": "2024-12-12",
+        "End Date": "2025-08-22",
+        "Status": "Active",
+        "Funding Source": "Client Funding",
+        "Research Area": "Product",
+        "Budget Allocated": 162000,
+        "Progress %": 0.72
+      }
+    },
+    {
+      "fields": {
+        "Title": "Data Science Tool Integration",
+        "Objective": "Integrate new data tools",
+        "Start Date": "2025-03-09",
+        "End Date": "2025-11-17",
+        "Status": "Active",
+        "Funding Source": "Private Investor",
+        "Research Area": "Data Science",
+        "Budget Allocated": 295000,
+        "Progress %": 0.59
+      }
+    },
+    {
+      "fields": {
+        "Title": "Security Protocol Development",
+        "Objective": "Develop updated protocols",
+        "Start Date": "2025-01-27",
+        "End Date": "2025-08-27",
+        "Status": "Complete",
+        "Funding Source": "Internal Budget",
+        "Research Area": "Security",
+        "Budget Allocated": 87000,
+        "Progress %": 0.100
+      }
+    },
+    {
+      "fields": {
+        "Title": "Performance Optimization Framework",
+        "Objective": "Design optimization framework",
+        "Start Date": "2025-02-23",
+        "End Date": "2025-09-14",
+        "Status": "Paused",
+        "Funding Source": "Client Funding",
+        "Research Area": "Performance",
+        "Budget Allocated": 53000,
+        "Progress %": 0.38
+      }
+    },
+    {
+      "fields": {
+        "Title": "Infrastructure Upgrade Planning",
+        "Objective": "Plan infrastructure upgrades",
+        "Start Date": "2024-11-27",
+        "End Date": "2025-07-21",
+        "Status": "Complete",
+        "Funding Source": "Internal Budget",
+        "Research Area": "Infrastructure",
+        "Budget Allocated": 240000,
+        "Progress %": 0.100
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI-driven Customer Segmentation",
+        "Objective": "Improve targeted marketing",
+        "Start Date": "2024-12-04",
+        "End Date": "2025-10-15",
+        "Status": "Active",
+        "Funding Source": "Tech Growth Fund",
+        "Research Area": "AI",
+        "Budget Allocated": 485000.0,
+        "Progress %": 0.45
+      }
+    },
+    {
+      "fields": {
+        "Title": "User Experience Optimization",
+        "Objective": "Enhance website usability",
+        "Start Date": "2025-03-10",
+        "End Date": "2025-12-01",
+        "Status": "Active",
+        "Funding Source": "Innovation Grant",
+        "Research Area": "UX",
+        "Budget Allocated": 120000.0,
+        "Progress %": 0.30
+      }
+    },
+    {
+      "fields": {
+        "Title": "Product Feature Analysis",
+        "Objective": "Analyze feature impact on sales",
+        "Start Date": "2024-11-20",
+        "End Date": "2025-08-22",
+        "Status": "Paused",
+        "Funding Source": "Internal Funding",
+        "Research Area": "Product",
+        "Budget Allocated": 75000.0,
+        "Progress %": 0.55
+      }
+    },
+    {
+      "fields": {
+        "Title": "Predictive Analytics Model",
+        "Objective": "Forecast campaign success",
+        "Start Date": "2025-01-15",
+        "End Date": "2025-09-30",
+        "Status": "Active",
+        "Funding Source": "Data Science Excellence",
+        "Research Area": "Data Science",
+        "Budget Allocated": 210000.0,
+        "Progress %": 0.60
+      }
+    },
+    {
+      "fields": {
+        "Title": "Security Protocol Enhancement",
+        "Objective": "Strengthen data privacy",
+        "Start Date": "2025-02-01",
+        "End Date": "2025-11-05",
+        "Status": "Active",
+        "Funding Source": "Cybersecurity Fund",
+        "Research Area": "Security",
+        "Budget Allocated": 180000.0,
+        "Progress %": 0.40
+      }
+    },
+    {
+      "fields": {
+        "Title": "Performance Tuning for Ad Servers",
+        "Objective": "Reduce latency for ads",
+        "Start Date": "2024-12-30",
+        "End Date": "2025-07-20",
+        "Status": "Complete",
+        "Funding Source": "Performance Boost Grant",
+        "Research Area": "Performance",
+        "Budget Allocated": 95000.0,
+        "Progress %": 0.100
+      }
+    },
+    {
+      "fields": {
+        "Title": "Scalable Infrastructure Design",
+        "Objective": "Support growing user base",
+        "Start Date": "2025-04-12",
+        "End Date": "2026-03-01",
+        "Status": "Active",
+        "Funding Source": "Infrastructure Investment",
+        "Research Area": "Infrastructure",
+        "Budget Allocated": 420000.0,
+        "Progress %": 0.25
+      }
+    },
+    {
+      "fields": {
+        "Title": "Exploratory Social Media Trends",
+        "Objective": "Identify emerging trends",
+        "Start Date": "2025-05-05",
+        "End Date": "2025-12-15",
+        "Status": "Active",
+        "Funding Source": "Marketing Insights",
+        "Research Area": "Other",
+        "Budget Allocated": 30000.0,
+        "Progress %": 0.50
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI Chatbot Enhancement",
+        "Objective": "Improve client interaction",
+        "Start Date": "2025-01-25",
+        "End Date": "2025-11-10",
+        "Status": "Paused",
+        "Funding Source": "AI Innovation Fund",
+        "Research Area": "AI",
+        "Budget Allocated": 165000.0,
+        "Progress %": 0.35
+      }
+    },
+    {
+      "fields": {
+        "Title": "UX Study on Mobile Platforms",
+        "Objective": "Optimize mobile experience",
+        "Start Date": "2024-12-14",
+        "End Date": "2025-08-30",
+        "Status": "Complete",
+        "Funding Source": "Mobile UX Grant",
+        "Research Area": "UX",
+        "Budget Allocated": 88000.0,
+        "Progress %": 0.100
+      }
+    },
+    {
+      "fields": {
+        "Title": "Product Lifecycle Analysis",
+        "Objective": "Extend product viability",
+        "Start Date": "2025-03-18",
+        "End Date": "2025-12-25",
+        "Status": "Active",
+        "Funding Source": "Product Dev Fund",
+        "Research Area": "Product",
+        "Budget Allocated": 135000.0,
+        "Progress %": 0.20
+      }
+    },
+    {
+      "fields": {
+        "Title": "Data Science for Market Segmentation",
+        "Objective": "Improve customer targeting",
+        "Start Date": "2025-05-01",
+        "End Date": "2026-02-14",
+        "Status": "Active",
+        "Funding Source": "Analytics Grant",
+        "Research Area": "Data Science",
+        "Budget Allocated": 240000.0,
+        "Progress %": 0.15
+      }
+    },
+    {
+      "fields": {
+        "Title": "Enhanced Security Audits",
+        "Objective": "Audit and fix vulnerabilities",
+        "Start Date": "2024-11-29",
+        "End Date": "2025-09-15",
+        "Status": "Paused",
+        "Funding Source": "Security Improvement Fund",
+        "Research Area": "Security",
+        "Budget Allocated": 112000.0,
+        "Progress %": 0.45
+      }
+    },
+    {
+      "fields": {
+        "Title": "Website Load Performance",
+        "Objective": "Speed up page loads",
+        "Start Date": "2024-12-10",
+        "End Date": "2025-06-30",
+        "Status": "Complete",
+        "Funding Source": "Performance Grant",
+        "Research Area": "Performance",
+        "Budget Allocated": 67000.0,
+        "Progress %": 0.100
+      }
+    },
+    {
+      "fields": {
+        "Title": "Cloud Infrastructure Migration",
+        "Objective": "Migrate services to cloud",
+        "Start Date": "2025-02-20",
+        "End Date": "2025-11-30",
+        "Status": "Active",
+        "Funding Source": "Cloud Funding",
+        "Research Area": "Infrastructure",
+        "Budget Allocated": 380000.0,
+        "Progress %": 0.55
+      }
+    },
+    {
+      "fields": {
+        "Title": "Innovative Campaign Analysis",
+        "Objective": "Analyze campaign creativity",
+        "Start Date": "2025-04-28",
+        "End Date": "2026-01-10",
+        "Status": "Active",
+        "Funding Source": "Marketing Research Fund",
+        "Research Area": "Other",
+        "Budget Allocated": 29000.0,
+        "Progress %": 0.10
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI Content Generation",
+        "Objective": "Automate ad content",
+        "Start Date": "2024-12-02",
+        "End Date": "2025-10-05",
+        "Status": "Active",
+        "Funding Source": "AI Grant",
+        "Research Area": "AI",
+        "Budget Allocated": 195000.0,
+        "Progress %": 0.70
+      }
+    },
+    {
+      "fields": {
+        "Title": "UX Behavior Tracking",
+        "Objective": "Track user behavior patterns",
+        "Start Date": "2025-01-30",
+        "End Date": "2025-09-20",
+        "Status": "Complete",
+        "Funding Source": "User Experience Fund",
+        "Research Area": "UX",
+        "Budget Allocated": 105000.0,
+        "Progress %": 0.100
+      }
+    },
+    {
+      "fields": {
+        "Title": "Product Feature Prioritization",
+        "Objective": "Prioritize new features",
+        "Start Date": "2025-03-22",
+        "End Date": "2025-12-05",
+        "Status": "Active",
+        "Funding Source": "Product Innovation",
+        "Research Area": "Product",
+        "Budget Allocated": 98000.0,
+        "Progress %": 0.30
+      }
+    },
+    {
+      "fields": {
+        "Title": "Advanced Data Modeling",
+        "Objective": "Build better predictive models",
+        "Start Date": "2025-05-15",
+        "End Date": "2026-04-20",
+        "Status": "Active",
+        "Funding Source": "Data Science Fund",
+        "Research Area": "Data Science",
+        "Budget Allocated": 260000.0,
+        "Progress %": 0.5
+      }
+    },
+    {
+      "fields": {
+        "Title": "Security Incident Response",
+        "Objective": "Improve response time",
+        "Start Date": "2025-02-08",
+        "End Date": "2025-11-18",
+        "Status": "Paused",
+        "Funding Source": "Security Grant",
+        "Research Area": "Security",
+        "Budget Allocated": 140000.0,
+        "Progress %": 0.40
+      }
+    },
+    {
+      "fields": {
+        "Title": "Performance Benchmarking",
+        "Objective": "Benchmark ad delivery speed",
+        "Start Date": "2024-12-22",
+        "End Date": "2025-09-10",
+        "Status": "Complete",
+        "Funding Source": "Performance Fund",
+        "Research Area": "Performance",
+        "Budget Allocated": 88000.0,
+        "Progress %": 0.100
+      }
+    },
+    {
+      "fields": {
+        "Title": "Infrastructure Cost Reduction",
+        "Objective": "Cut infrastructure costs",
+        "Start Date": "2025-04-01",
+        "End Date": "2026-02-28",
+        "Status": "Active",
+        "Funding Source": "Infrastructure Fund",
+        "Research Area": "Infrastructure",
+        "Budget Allocated": 300000.0,
+        "Progress %": 0.20
+      }
+    },
+    {
+      "fields": {
+        "Title": "Emerging Market Research",
+        "Objective": "Research new market opportunities",
+        "Start Date": "2025-05-20",
+        "End Date": "2026-03-15",
+        "Status": "Active",
+        "Funding Source": "Market Expansion Fund",
+        "Research Area": "Other",
+        "Budget Allocated": 25000.0,
+        "Progress %": 0.8
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI Personalization",
+        "Objective": "Personalize marketing content",
+        "Start Date": "2024-12-18",
+        "End Date": "2025-10-25",
+        "Status": "Active",
+        "Funding Source": "AI Research Fund",
+        "Research Area": "AI",
+        "Budget Allocated": 205000.0,
+        "Progress %": 0.50
+      }
+    },
+    {
+      "fields": {
+        "Title": "UX Accessibility Improvements",
+        "Objective": "Improve accessibility",
+        "Start Date": "2025-01-12",
+        "End Date": "2025-08-05",
+        "Status": "Complete",
+        "Funding Source": "Accessibility Grant",
+        "Research Area": "UX",
+        "Budget Allocated": 90000.0,
+        "Progress %": 0.100
+      }
+    },
+    {
+      "fields": {
+        "Title": "Product Usability Testing",
+        "Objective": "Test product ease of use",
+        "Start Date": "2025-03-05",
+        "End Date": "2025-11-10",
+        "Status": "Active",
+        "Funding Source": "Product Fund",
+        "Research Area": "Product",
+        "Budget Allocated": 115000.0,
+        "Progress %": 0.25
+      }
+    },
+    {
+      "fields": {
+        "Title": "Data Science Pipeline Optimization",
+        "Objective": "Optimize data workflows",
+        "Start Date": "2025-05-10",
+        "End Date": "2026-01-20",
+        "Status": "Active",
+        "Funding Source": "Data Optimization Fund",
+        "Research Area": "Data Science",
+        "Budget Allocated": 230000.0,
+        "Progress %": 0.12
+      }
+    },
+    {
+      "fields": {
+        "Title": "Security Policy Development",
+        "Objective": "Develop improved policies",
+        "Start Date": "2025-02-25",
+        "End Date": "2025-12-15",
+        "Status": "Paused",
+        "Funding Source": "Security Policy Fund",
+        "Research Area": "Security",
+        "Budget Allocated": 130000.0,
+        "Progress %": 0.38
+      }
+    },
+    {
+      "fields": {
+        "Title": "Ad Performance Monitoring",
+        "Objective": "Monitor ad effectiveness",
+        "Start Date": "2024-12-06",
+        "End Date": "2025-07-10",
+        "Status": "Complete",
+        "Funding Source": "Performance Fund",
+        "Research Area": "Performance",
+        "Budget Allocated": 72000.0,
+        "Progress %": 0.100
+      }
+    },
+    {
+      "fields": {
+        "Title": "Infrastructure Automation",
+        "Objective": "Automate deployment",
+        "Start Date": "2025-04-18",
+        "End Date": "2026-01-30",
+        "Status": "Active",
+        "Funding Source": "Automation Fund",
+        "Research Area": "Infrastructure",
+        "Budget Allocated": 340000.0,
+        "Progress %": 0.28
+      }
+    },
+    {
+      "fields": {
+        "Title": "Brand Perception Study",
+        "Objective": "Study brand perception",
+        "Start Date": "2025-05-12",
+        "End Date": "2026-02-25",
+        "Status": "Active",
+        "Funding Source": "Brand Research Fund",
+        "Research Area": "Other",
+        "Budget Allocated": 27000.0,
+        "Progress %": 0.18
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI Sentiment Analysis",
+        "Objective": "Analyze customer sentiment",
+        "Start Date": "2024-12-28",
+        "End Date": "2025-10-30",
+        "Status": "Active",
+        "Funding Source": "AI Analytics Fund",
+        "Research Area": "AI",
+        "Budget Allocated": 180000.0,
+        "Progress %": 0.65
+      }
+    },
+    {
+      "fields": {
+        "Title": "UX Navigation Redesign",
+        "Objective": "Redesign site navigation",
+        "Start Date": "2025-01-20",
+        "End Date": "2025-09-10",
+        "Status": "Complete",
+        "Funding Source": "UX Grant",
+        "Research Area": "UX",
+        "Budget Allocated": 96000.0,
+        "Progress %": 0.100
+      }
+    },
+    {
+      "fields": {
+        "Title": "Product Market Fit Study",
+        "Objective": "Study market fit",
+        "Start Date": "2025-03-28",
+        "End Date": "2025-12-18",
+        "Status": "Active",
+        "Funding Source": "Product Fit Fund",
+        "Research Area": "Product",
+        "Budget Allocated": 108000.0,
+        "Progress %": 0.22
+      }
+    },
+    {
+      "fields": {
+        "Title": "Adaptive AI for Customer Segmentation",
+        "Objective": "Enhance targeting accuracy using adaptive AI models",
+        "Start Date": "2024-12-15",
+        "End Date": "2025-10-10",
+        "Status": "Active",
+        "Funding Source": "SummitTech Innovation Fund",
+        "Research Area": "AI",
+        "Budget Allocated": 725000,
+        "Progress %": 0.45
+      }
+    },
+    {
+      "fields": {
+        "Title": "UX Optimization via Behavioral Analytics",
+        "Objective": "Improve user engagement through data-driven UX changes",
+        "Start Date": "2025-01-20",
+        "End Date": "2025-12-01",
+        "Status": "Paused",
+        "Funding Source": "Client Sponsored Research",
+        "Research Area": "UX",
+        "Budget Allocated": 180000,
+        "Progress %": 0.30
+      }
+    },
+    {
+      "fields": {
+        "Title": "Real-time Campaign Performance Metrics",
+        "Objective": "Develop infrastructure for live campaign data reporting",
+        "Start Date": "2025-03-01",
+        "End Date": "2026-03-01",
+        "Status": "Active",
+        "Funding Source": "Internal R&D Budget",
+        "Research Area": "Infrastructure",
+        "Budget Allocated": 400000,
+        "Progress %": 0.60
+      }
+    },
+    {
+      "fields": {
+        "Title": "Security Protocols for Data Privacy",
+        "Objective": "Strengthen data protection mechanisms for client info",
+        "Start Date": "2025-02-10",
+        "End Date": "2025-11-15",
+        "Status": "Complete",
+        "Funding Source": "Government Security Grant",
+        "Research Area": "Security",
+        "Budget Allocated": 320000,
+        "Progress %": 0.100
+      }
+    }
+  ]
+}

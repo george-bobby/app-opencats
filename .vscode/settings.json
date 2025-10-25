@@ -1,0 +1,29 @@
+{
+    "python.defaultInterpreterPath": ".venv/bin/python",
+    "[python]": {
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.fixAll.ruff": "explicit",
+            "source.organizeImports.ruff": "explicit"
+        },
+        "editor.defaultFormatter": "charliermarsh.ruff"
+    },
+    "ruff.enable": true,
+    "ruff.organizeImports": true,
+    "ruff.fixAll": true,
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/*.pyc": true,
+        "**/.ruff_cache": true
+    },
+    "cSpell.words": [
+        "genai",
+        "odoo",
+        "odoohr",
+        "odooproject",
+        "odooinventory",
+        "odoosales"
+    ],
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.autoImportCompletions": true
+}

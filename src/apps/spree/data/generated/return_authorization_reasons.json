@@ -1,0 +1,64 @@
+{
+  "return_reasons": [
+    {
+      "id": 1,
+      "name": "Product Defective or Damaged Upon Arrival",
+      "active": true,
+      "mutable": true
+    },
+    {
+      "id": 2,
+      "name": "Incorrect Item Shipped",
+      "active": true,
+      "mutable": true
+    },
+    {
+      "id": 3,
+      "name": "Size/Fit Not Suitable for Pet",
+      "active": true,
+      "mutable": true
+    },
+    {
+      "id": 4,
+      "name": "Product Quality Does Not Meet Expectations",
+      "active": true,
+      "mutable": true
+    },
+    {
+      "id": 5,
+      "name": "Item Received Expired or Near Expiration",
+      "active": true,
+      "mutable": true
+    },
+    {
+      "id": 6,
+      "name": "Duplicate Order Received",
+      "active": true,
+      "mutable": true
+    },
+    {
+      "id": 7,
+      "name": "Pet Allergic or Adverse Reaction to Product",
+      "active": true,
+      "mutable": true
+    },
+    {
+      "id": 8,
+      "name": "Packaging Compromised During Shipping",
+      "active": true,
+      "mutable": true
+    },
+    {
+      "id": 9,
+      "name": "Product Description Misleading",
+      "active": true,
+      "mutable": true
+    },
+    {
+      "id": 10,
+      "name": "Changed Mind/No Longer Needed",
+      "active": true,
+      "mutable": true
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+    "settings": {
+        "user": {
+            "announcement_notification_enabled": true,
+            "compliance_country": null,
+            "currency_type": "usd",
+            "disable_comments_email": false,
+            "disable_reviews_email": false,
+            "email": "seller@gumroad.com",
+            "enable_free_downloads_email": true,
+            "enable_free_downloads_push_notification": true,
+            "enable_payment_email": true,
+            "enable_payment_push_notification": true,
+            "enable_recurring_subscription_charge_email": true,
+            "enable_recurring_subscription_charge_push_notification": true,
+            "has_unconfirmed_email": false,
+            "locale": "en",
+            "products": [],
+            "purchasing_power_parity_enabled": false,
+            "purchasing_power_parity_excluded_product_ids": [],
+            "purchasing_power_parity_limit": null,
+            "purchasing_power_parity_payment_verification_disabled": false,
+            "seller_refund_policy": {
+                "allowed_refund_periods_in_days": [
+                    {
+                        "key": 0,
+                        "value": "No refunds allowed"
+                    },
+                    {
+                        "key": 7,
+                        "value": "7-day money back guarantee"
+                    },
+                    {
+                        "key": 14,
+                        "value": "14-day money back guarantee"
+                    },
+                    {
+                        "key": 30,
+                        "value": "30-day money back guarantee"
+                    },
+                    {
+                        "key": 183,
+                        "value": "6-month money back guarantee"
+                    }
+                ],
+                "enabled": false,
+                "fine_print": null,
+                "fine_print_enabled": false,
+                "max_refund_period_in_days": 30
+            },
+            "show_nsfw_products": false,
+            "support_email": "support@neonshutter.com",
+            "tax_id": null,
+            "timezone": "Pacific Time (US & Canada)"
+        }
+    },
+    "profile": {
+        "user": {
+            "username": "seller",
+            "name": "Neon Shutter",
+            "bio": "Elevate your photography."
+        },
+        "seller_profile": {
+            "background_color": "#ffffff",
+            "highlight_color": "#3eb045",
+            "font": "ABC Favorit"
+        },
+        "profile_picture_blob_id": null,
+        "description": "A photography studio that sells photography assets like Lightroom presets, Photoshop actions, photography courses, etc."
+    }
+}

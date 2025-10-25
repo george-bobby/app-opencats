@@ -1,0 +1,76 @@
+[
+  {
+    "name": "Manufacturing Manager",
+    "inherits": [
+      "Administration / Settings",
+      "Technical / Access to export feature",
+      "Technical / Receive notifications in Odoo",
+      "Technical / Time Off Responsible"
+    ]
+  },
+  {
+    "name": "Warehouse Manager",
+    "inherits": [
+      "Fleet / Officer: Manage all vehicles",
+      "Technical / Receive notifications in Odoo",
+      "Administration / Access Rights"
+    ]
+  },
+  {
+    "name": "Logistics Manager",
+    "inherits": [
+      "Fleet / Administrator",
+      "Fleet / Officer: Manage all vehicles",
+      "Administration / Access Rights"
+    ]
+  },
+  {
+    "name": "Sales Manager",
+    "inherits": [
+      "Extra Rights / Contact Creation",
+      "Administration / Access Rights"
+    ]
+  },
+  {
+    "name": "Procurement Manager",
+    "inherits": [
+      "Extra Rights / Multi Companies",
+      "Extra Rights / Multi Currencies",
+      "Administration / Access Rights"
+    ]
+  },
+  {
+    "name": "Finance Manager",
+    "inherits": [
+      "Extra Rights / Multi Currencies",
+      "Technical / Mail Template Editor",
+      "Administration / Access Rights"
+    ]
+  },
+  {
+    "name": "HR Manager",
+    "inherits": [
+      "Employees / Officer: Manage all employees",
+      "Time Off / Officer: Manage all requests",
+      "Attendances / Administrator",
+      "Recruitment / Administrator"
+    ]
+  },
+  {
+    "name": "IT Manager",
+    "inherits": [
+      "Technical / Access to export feature",
+      "Technical / Mail Template Editor",
+      "Extra Rights / Technical Features",
+      "Administration / Settings"
+    ]
+  },
+  {
+    "name": "Customer Support Manager",
+    "inherits": [
+      "Canned Responses / Canned Response Administrator",
+      "User types / Internal User",
+      "Administration / Access Rights"
+    ]
+  }
+]

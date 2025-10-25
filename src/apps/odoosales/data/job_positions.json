@@ -1,0 +1,348 @@
+[
+    {
+        "name": "Chief Executive Officer (CEO)",
+        "description": "Lead the overall strategic direction and operations of the company, ensuring growth and profitability in the consumer goods and retail sector. Oversee all departments and represent the company to stakeholders.",
+        "department": "Executive",
+        "skills": [
+            "Leadership",
+            "Strategic Planning",
+            "Financial Acumen",
+            "Communication",
+            "Decision Making"
+        ],
+        "no_of_recruitment": 1
+    },
+    {
+        "name": "Chief Operating Officer (COO)",
+        "description": "Manage day-to-day operations, optimize business processes, and ensure operational efficiency across all departments. Collaborate with CEO to implement company strategies.",
+        "department": "Executive",
+        "skills": [
+            "Operations Management",
+            "Process Improvement",
+            "Leadership",
+            "Project Management",
+            "Communication"
+        ],
+        "no_of_recruitment": 1
+    },
+    {
+        "name": "Sales Manager",
+        "description": "Lead the sales team to achieve sales targets, develop sales strategies, and maintain customer relationships in the consumer goods market.",
+        "department": "Sales & Marketing",
+        "skills": [
+            "Sales Strategy",
+            "Team Leadership",
+            "Customer Relationship Management",
+            "Negotiation",
+            "Market Analysis"
+        ],
+        "no_of_recruitment": 3
+    },
+    {
+        "name": "Marketing Coordinator",
+        "description": "Assist in planning and executing marketing campaigns, manage social media presence, and coordinate promotional events to boost brand awareness.",
+        "department": "Sales & Marketing",
+        "skills": [
+            "Marketing Campaigns",
+            "Social Media Management",
+            "Content Creation",
+            "Event Coordination",
+            "Analytical Skills"
+        ],
+        "no_of_recruitment": 3
+    },
+    {
+        "name": "Digital Marketing Specialist",
+        "description": "Develop and implement digital marketing strategies including SEO, SEM, email marketing, and online advertising to increase online sales.",
+        "department": "Sales & Marketing",
+        "skills": [
+            "SEO",
+            "SEM",
+            "Google Analytics",
+            "Content Marketing",
+            "PPC Advertising"
+        ],
+        "no_of_recruitment": 2
+    },
+    {
+        "name": "Warehouse Supervisor",
+        "description": "Oversee warehouse operations including inventory management, shipping, receiving, and staff supervision to ensure efficient logistics.",
+        "department": "Warehouse & Inventory",
+        "skills": [
+            "Inventory Management",
+            "Team Leadership",
+            "Logistics",
+            "Safety Compliance",
+            "Problem Solving"
+        ],
+        "no_of_recruitment": 2
+    },
+    {
+        "name": "Inventory Analyst",
+        "description": "Monitor inventory levels, analyze stock data, and coordinate with procurement to maintain optimal stock for retail operations.",
+        "department": "Warehouse & Inventory",
+        "skills": [
+            "Data Analysis",
+            "Inventory Control",
+            "ERP Systems",
+            "Attention to Detail",
+            "Communication"
+        ],
+        "no_of_recruitment": 3
+    },
+    {
+        "name": "Forklift Operator",
+        "description": "Operate forklifts to move goods within the warehouse safely and efficiently, assist with loading and unloading shipments.",
+        "department": "Warehouse & Inventory",
+        "skills": [
+            "Forklift Operation",
+            "Safety Procedures",
+            "Physical Stamina",
+            "Teamwork"
+        ],
+        "no_of_recruitment": 4
+    },
+    {
+        "name": "Customer Service Representative",
+        "description": "Provide excellent customer support via phone, email, and chat, resolve complaints, and ensure customer satisfaction.",
+        "department": "Customer Service",
+        "skills": [
+            "Communication",
+            "Problem Solving",
+            "CRM Software",
+            "Patience",
+            "Multitasking"
+        ],
+        "no_of_recruitment": 4
+    },
+    {
+        "name": "Customer Service Manager",
+        "description": "Lead the customer service team, develop policies to improve service quality, and handle escalated customer issues.",
+        "department": "Customer Service",
+        "skills": [
+            "Leadership",
+            "Conflict Resolution",
+            "Customer Relationship Management",
+            "Training",
+            "Analytical Skills"
+        ],
+        "no_of_recruitment": 2
+    },
+    {
+        "name": "Procurement Specialist",
+        "description": "Manage purchasing of goods and services, negotiate with suppliers, and ensure timely delivery of materials for retail operations.",
+        "department": "Procurement",
+        "skills": [
+            "Negotiation",
+            "Supplier Management",
+            "Purchase Order Processing",
+            "Market Research",
+            "ERP Systems"
+        ],
+        "no_of_recruitment": 3
+    },
+    {
+        "name": "Procurement Manager",
+        "description": "Oversee procurement team, develop sourcing strategies, and maintain supplier relationships to optimize costs and quality.",
+        "department": "Procurement",
+        "skills": [
+            "Strategic Sourcing",
+            "Leadership",
+            "Contract Management",
+            "Budgeting",
+            "Analytical Skills"
+        ],
+        "no_of_recruitment": 2
+    },
+    {
+        "name": "Accountant",
+        "description": "Manage financial records, prepare reports, handle accounts payable and receivable, and ensure compliance with accounting standards.",
+        "department": "Finance & Accounting",
+        "skills": [
+            "Accounting",
+            "Financial Reporting",
+            "QuickBooks",
+            "Attention to Detail",
+            "Excel"
+        ],
+        "no_of_recruitment": 3
+    },
+    {
+        "name": "Financial Analyst",
+        "description": "Analyze financial data, prepare forecasts, and support budgeting processes to guide business decisions.",
+        "department": "Finance & Accounting",
+        "skills": [
+            "Financial Modeling",
+            "Data Analysis",
+            "Excel",
+            "ERP Systems",
+            "Critical Thinking"
+        ],
+        "no_of_recruitment": 2
+    },
+    {
+        "name": "Payroll Specialist",
+        "description": "Process payroll accurately and timely, manage employee benefits, and ensure compliance with tax regulations.",
+        "department": "Finance & Accounting",
+        "skills": [
+            "Payroll Processing",
+            "Tax Compliance",
+            "Attention to Detail",
+            "Confidentiality",
+            "HRIS"
+        ],
+        "no_of_recruitment": 2
+    },
+    {
+        "name": "HR Generalist",
+        "description": "Manage recruitment, employee relations, benefits administration, and compliance with labor laws.",
+        "department": "Human Resources",
+        "skills": [
+            "Recruitment",
+            "Employee Relations",
+            "HR Policies",
+            "Communication",
+            "Conflict Resolution"
+        ],
+        "no_of_recruitment": 3
+    },
+    {
+        "name": "Recruitment Coordinator",
+        "description": "Coordinate hiring processes, schedule interviews, and assist in onboarding new employees.",
+        "department": "Human Resources",
+        "skills": [
+            "Scheduling",
+            "Communication",
+            "Applicant Tracking Systems",
+            "Organization",
+            "Multitasking"
+        ],
+        "no_of_recruitment": 2
+    },
+    {
+        "name": "Logistics Coordinator",
+        "description": "Plan and coordinate transportation and delivery schedules to ensure timely distribution of goods.",
+        "department": "Logistics",
+        "skills": [
+            "Logistics Planning",
+            "Route Optimization",
+            "Communication",
+            "Problem Solving",
+            "ERP Systems"
+        ],
+        "no_of_recruitment": 3
+    },
+    {
+        "name": "Transportation Manager",
+        "description": "Manage transportation operations, oversee drivers, and ensure compliance with safety regulations.",
+        "department": "Logistics",
+        "skills": [
+            "Fleet Management",
+            "Leadership",
+            "Safety Compliance",
+            "Budgeting",
+            "Negotiation"
+        ],
+        "no_of_recruitment": 2
+    },
+    {
+        "name": "Sales Associate",
+        "description": "Assist customers in retail stores, manage product displays, and process sales transactions.",
+        "department": "Sales & Marketing",
+        "skills": [
+            "Customer Service",
+            "Sales",
+            "Product Knowledge",
+            "Communication",
+            "POS Systems"
+        ],
+        "no_of_recruitment": 4
+    },
+    {
+        "name": "Marketing Analyst",
+        "description": "Analyze market trends, customer data, and campaign performance to support marketing strategies.",
+        "department": "Sales & Marketing",
+        "skills": [
+            "Data Analysis",
+            "Market Research",
+            "Excel",
+            "Reporting",
+            "Critical Thinking"
+        ],
+        "no_of_recruitment": 2
+    },
+    {
+        "name": "Warehouse Associate",
+        "description": "Support warehouse operations by picking, packing, and preparing orders for shipment.",
+        "department": "Warehouse & Inventory",
+        "skills": [
+            "Order Fulfillment",
+            "Attention to Detail",
+            "Physical Stamina",
+            "Teamwork"
+        ],
+        "no_of_recruitment": 4
+    },
+    {
+        "name": "Customer Support Specialist",
+        "description": "Handle customer inquiries and provide product information to enhance customer experience.",
+        "department": "Customer Service",
+        "skills": [
+            "Communication",
+            "Product Knowledge",
+            "CRM",
+            "Problem Solving",
+            "Patience"
+        ],
+        "no_of_recruitment": 3
+    },
+    {
+        "name": "Procurement Assistant",
+        "description": "Support procurement team with order processing, supplier communication, and record keeping.",
+        "department": "Procurement",
+        "skills": [
+            "Organization",
+            "Communication",
+            "Data Entry",
+            "ERP Systems",
+            "Attention to Detail"
+        ],
+        "no_of_recruitment": 3
+    },
+    {
+        "name": "Junior Accountant",
+        "description": "Assist with bookkeeping, invoice processing, and financial data entry under supervision.",
+        "department": "Finance & Accounting",
+        "skills": [
+            "Accounting Basics",
+            "Excel",
+            "Attention to Detail",
+            "Time Management"
+        ],
+        "no_of_recruitment": 3
+    },
+    {
+        "name": "HR Assistant",
+        "description": "Provide administrative support to HR department including maintaining employee records and scheduling interviews.",
+        "department": "Human Resources",
+        "skills": [
+            "Organization",
+            "Communication",
+            "Data Entry",
+            "Confidentiality"
+        ],
+        "no_of_recruitment": 3
+    },
+    {
+        "name": "Logistics Assistant",
+        "description": "Assist in coordinating shipments, tracking deliveries, and maintaining logistics documentation.",
+        "department": "Logistics",
+        "skills": [
+            "Organization",
+            "Communication",
+            "Data Entry",
+            "Problem Solving"
+        ],
+        "no_of_recruitment": 3
+    }
+]

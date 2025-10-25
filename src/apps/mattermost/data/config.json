@@ -1,0 +1,111 @@
+{
+  "site_configuration": {
+    "site_url": "https://chat.vertexon.io",
+    "site_name": "Vertexon Solutions",
+    "site_description": "Internal collaboration platform for Vertexon Solutions",
+    "company_name": "Vertexon Solutions",
+    "company_description": "US-based Technology & Professional Services SMB",
+    "company_size": "45 employees",
+    "departments": [
+      "Product",
+      "Development",
+      "Marketing",
+      "Operations",
+      "HR"
+    ],
+    "use_case": "Internal collaboration, software development lifecycle management, product planning, and operational communication using Mattermost",
+    "max_users_per_team": 100
+  },
+  "email_settings": {
+    "smtp_server": "smtp.vertexon.io",
+    "smtp_port": 587,
+    "smtp_username": "noreply@vertexon.io",
+    "smtp_password": "your_smtp_password_here",
+    "smtp_security": "STARTTLS",
+    "feedback_email": "noreply@vertexon.io",
+    "feedback_name": "Vertexon Solutions"
+  },
+  "authentication": {
+    "method": "email_password",
+    "enable_signup": false,
+    "enable_open_server": false,
+    "enable_oauth": false,
+    "enable_saml": false,
+    "enable_ldap": false
+  },
+  "integrations": {
+    "incoming_webhooks": {
+      "enabled": true,
+      "description": "Allow incoming webhooks for external integrations"
+    },
+    "outgoing_webhooks": {
+      "enabled": true,
+      "description": "Allow outgoing webhooks for external integrations"
+    },
+    "bot_accounts": {
+      "enabled": true,
+      "description": "Allow bot accounts for automated interactions"
+    },
+    "slash_commands": {
+      "enabled": false,
+      "description": "Disable slash commands for security"
+    },
+    "oauth_applications": {
+      "enabled": false,
+      "description": "Disable OAuth applications for security"
+    }
+  },
+  "licensing": {
+    "plan_type": "Free",
+    "max_users": 50,
+    "file_storage_limit_gb": 10,
+    "advanced_features": false,
+    "company": "Vertexon Solutions",
+    "features": {
+      "advanced_permissions": false,
+      "advanced_compliance": false,
+      "advanced_analytics": false,
+      "advanced_integrations": false,
+      "custom_branding": false,
+      "priority_support": false
+    }
+  },
+  "file_settings": {
+    "max_file_size_mb": 50,
+    "allowed_file_types": [
+      "jpg",
+      "jpeg",
+      "png",
+      "gif",
+      "pdf",
+      "doc",
+      "docx",
+      "xls",
+      "xlsx",
+      "ppt",
+      "pptx",
+      "txt",
+      "zip",
+      "tar",
+      "gz"
+    ],
+    "enable_file_attachments": true,
+    "enable_mobile_upload": true,
+    "enable_mobile_download": true
+  },
+  "privacy_settings": {
+    "show_email_address": "true",
+    "show_full_name": "true",
+    "enable_public_channels": true,
+    "enable_private_channels": true,
+    "enable_direct_messages": true,
+    "enable_group_messages": true
+  },
+  "notification_settings": {
+    "enable_email_notifications": true,
+    "enable_push_notifications": true,
+    "enable_desktop_notifications": true,
+    "enable_sound_notifications": true,
+    "enable_mention_notifications": true
+  }
+}

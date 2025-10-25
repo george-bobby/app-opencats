@@ -1,0 +1,2128 @@
+{
+    "threads": [
+        {
+            "messages": [
+                {
+                    "from_user": 59,
+                    "content": "Hey team! I wanted to start a discussion about our company's professional development initiatives. What learning opportunities or skills would you all be interested in exploring in the coming year? I'm particularly curious about cross-functional training and how we can support each other's growth. 🌱📚",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1702293163673,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 31,
+                    "content": "Great topic, @jennifer.rogers! From a People Operations perspective, we've been looking into expanding our learning and development budget. I'd love to hear what specific areas the team is passionate about. Are there any emerging technologies or soft skills you're keen to develop?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1702321443097,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 5,
+                    "content": "As a developer, I'm really interested in expanding our cloud-native and serverless architecture skills. The tech landscape is evolving rapidly, and I think investing in **Kubernetes**, **serverless computing**, and advanced **containerization techniques** could be game-changers for our team's technical capabilities.",
+                    "is_pinned": true,
+                    "has_reactions": false,
+                    "timestamp": 1702335442062,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 23,
+                    "content": "Love the technical perspective, @anthony.rodgers! From a UX design standpoint, I'm advocating for more cross-functional workshops. Understanding developer workflows can help designers create more intuitive interfaces. Maybe we could organize some internal knowledge-sharing sessions?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1702349597391,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 35,
+                    "content": "### Professional Development Proposal\n\nInspired by this conversation, I'm drafting a comprehensive professional development framework. Key proposed initiatives:\n- Quarterly technical workshops\n- Cross-team mentorship program\n- Individual learning stipends\n- Conference and certification support\n\nWould love feedback from everyone before presenting to leadership!",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1702360665462,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 2,
+                    "content": "As HR, I fully support these initiatives! @justin.clark's proposal looks comprehensive. We should also consider how these development opportunities align with our diversity and inclusion goals. Ensuring equitable access to learning resources is crucial.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1702367621903,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 28,
+                    "content": "From a financial perspective, these investments make sense. Upskilling our team reduces long-term recruitment costs and boosts retention. @justin.clark, can you provide a rough budget estimate for these proposed initiatives?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1702379247735,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 72,
+                    "content": "Great thread! In customer onboarding, we see direct benefits from continuous learning. Teams with robust professional development tend to deliver more innovative solutions and have higher client satisfaction rates. Count me in as a strong supporter of this initiative! 💡🚀",
+                    "is_pinned": true,
+                    "has_reactions": true,
+                    "timestamp": 1702387993360,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 31,
+                    "content": "Wow, the engagement on this thread is fantastic! Based on everyone's input, I'll compile a comprehensive proposal for our leadership team. We'll aim to launch the first phase of our professional development program in Q1 2024. Stay tuned for more details, and thank you all for your thoughtful contributions! 🎉",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1702393963673,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 59,
+                    "content": "Hey team! Quick question - we're thinking about doing a company-wide hackathon in early 2024. What are everyone's thoughts on potential themes or formats? I'm open to suggestions and want to get some initial feedback before we start planning.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1702715405820,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 5,
+                    "content": "Love the idea, @jennifer.rogers! As a developer, I think we could do something really interesting around **AI integration** or maybe a project that tackles one of our internal efficiency challenges. We could form cross-functional teams to make it more collaborative.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1702730084587,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 23,
+                    "content": "### Hackathon Brainstorming 🚀\n\nBuilding on @anthony.rodgers' point, what if we structured it around solving real user experience problems? We could have teams prototype innovative solutions that could actually improve our product's UX. Maybe even invite a few customers to be judges?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1702733385364,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 31,
+                    "content": "Great suggestions so far! From a People Operations perspective, I'm thinking this could be an excellent team-building opportunity. @jennifer.rogers, have you considered making cross-departmental collaboration a key evaluation criterion?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1702737437104,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 3,
+                    "content": "I'm supportive of the initiative, but we'll need to carefully budget for any potential prizes or resources. @jennifer.rogers, can you draft a preliminary budget proposal? I'd like to review the potential financial implications before we fully commit.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1702745417385,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 35,
+                    "content": "Quick thought - we could potentially use this hackathon as a talent assessment and recruitment tool. Invite some of our top recent candidates to participate and see how they collaborate and innovate in real-time. Might be a unique way to evaluate potential hires!",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1702746270450,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 59,
+                    "content": "Wow, these are all fantastic suggestions! 🎉 Looks like we have a solid framework emerging. I'll consolidate everyone's input and draft a formal proposal. @robert.williamson, I'll include a detailed budget breakdown. @justin.clark, love the recruitment angle. Let's sync up next week to refine the details.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1702747805820,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 59,
+                    "content": "Hey team! I'm curious about everyone's professional development goals for 2024. What skills are you planning to learn or improve this year? I'm thinking of diving deeper into product management methodologies and maybe getting a new certification. Would love to hear your thoughts! 🚀",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1703226805513,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 5,
+                    "content": "Great topic @jennifer.rogers! As a full stack developer, I'm focusing on mastering Kubernetes and exploring some advanced cloud-native architectures. Thinking about pursuing the **Certified Kubernetes Administrator (CKA)** certification to level up my skills.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1703247436829,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 23,
+                    "content": "Love this thread! For UX design, I'm planning to enhance my AI/UX interaction design skills. Specifically looking into how generative AI can improve user experience design workflows. @anthony.rodgers, any recommendations on good resources for learning about AI design integration?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1703262393455,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 31,
+                    "content": "Professional development is crucial! I'm encouraging our team to think about both technical and soft skills. @jennifer.rogers, great initiative to start this discussion. We're actually planning to introduce a quarterly learning stipend to support individual growth initiatives.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1703271799413,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 35,
+                    "content": "From a talent acquisition perspective, I'm seeing more candidates highlight continuous learning. @frank.weaver's idea about a learning stipend is fantastic - it'll definitely help with recruiting and retention. I'm personally working on advanced recruitment marketing strategies and data-driven hiring techniques.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1703273910306,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 3,
+                    "content": "Interesting discussion. While professional growth is important, we also need to ensure these learning initiatives align with our strategic business objectives. @justin.clark, can you share how these development plans connect with our overall company goals?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1703283293028,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 2,
+                    "content": "Great point, @robert.williamson. At HR, we're developing a comprehensive skills mapping framework that will help align individual learning goals with organizational needs. We'll be rolling out a new professional development tracking system in Q1 2024.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1703290377703,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 5,
+                    "content": "Just to add some technical perspective to @misty.mack's point - having a skills mapping system would be incredibly helpful for cross-functional collaboration and identifying potential internal mobility opportunities. Count me in as a supporter!",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1703299177009,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 59,
+                    "content": "Wow, this thread has been incredibly insightful! Looks like we're all committed to continuous learning and growth. @frank.weaver, @misty.mack - let's schedule a quick sync to discuss how we can formalize some of these great ideas into a comprehensive professional development strategy. 💡",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1703302405513,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": true,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 59,
+                    "content": "Hey team! I'm curious - what's everyone's favorite productivity hack or tool that helps you stay organized and efficient? I'm always looking to optimize my workflow and would love to hear some personal recommendations from the group.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1703714381450,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 5,
+                    "content": "Great question @jennifer.rogers! For me, it's definitely **Notion**. I use it to track everything from personal project roadmaps to quick code snippets. The ability to create interconnected databases and kanban boards has been a game-changer for my development workflow.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1703724582741,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 15,
+                    "content": "I'm a big fan of `tmux` for terminal productivity. Being able to manage multiple terminal sessions simultaneously saves me tons of time when working on complex machine learning experiments. @anthony.rodgers, do you use similar terminal multiplexers?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1703730696548,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 23,
+                    "content": "As a UX designer, I swear by **Figma** and its collaboration features. But beyond design tools, I've recently started using the Pomodoro technique with a simple web timer. Breaking work into focused 25-minute intervals has dramatically improved my concentration and reduced burnout.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1703732381450,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 35,
+                    "content": "From a talent acquisition perspective, I've found **Calendly** to be incredibly helpful. It eliminates the back-and-forth of scheduling interviews and allows candidates to self-schedule within our predefined time slots. Huge time-saver!",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1703732381450,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 28,
+                    "content": "Interesting thread! From a financial management standpoint, I recommend `Trello` integrated with our accounting software. It helps track project budgets and expenses in real-time. @jennifer.rogers, have you explored similar financial tracking tools?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1703732381450,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 70,
+                    "content": "Backend engineering perspective here - I'm all about `Docker` and containerization. Not just a productivity tool, but a complete workflow optimization strategy. Consistent development environments across our entire engineering team have reduced 'it works on my machine' issues significantly.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1703732381450,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 2,
+                    "content": "As an HR professional, I appreciate tools that enhance team communication and well-being. I've recently started recommending **Headspace** for quick meditation breaks. Taking 10-minute mindfulness sessions between complex tasks can really boost overall productivity and mental clarity.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1703732381450,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 31,
+                    "content": "Love seeing everyone's productivity strategies! @jennifer.rogers, this was an excellent prompt. It's fascinating how different roles leverage unique tools. Maybe we could do a quick lightning talk in our next all-hands about personal productivity approaches?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1703732381450,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 59,
+                    "content": "@frank.weaver That's an awesome suggestion! I'll chat with our operations team about incorporating a 'Productivity Toolbox' segment in our next meeting. Thanks everyone for sharing - I've already bookmarked several tools to try out!",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1703732381450,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 1,
+                    "content": "Hey team! I'm curious about everyone's thoughts on AI integration in our current product roadmap. How do you see AI potentially transforming our service delivery in the next 1-2 years? Would love to hear perspectives from different departments.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1706709485624,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 15,
+                    "content": "Great question @john.appleseed! From a machine learning perspective, I see huge potential in predictive analytics and automated workflow optimization. We could potentially reduce manual intervention by 30-40% in our current service integration processes.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1706721414529,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 23,
+                    "content": "Adding a UX lens here - AI integration needs to be seamless and intuitive. We can't just throw complex algorithms at users without considering their actual experience and cognitive load.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1706726573074,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 13,
+                    "content": "From Sales, I'm seeing increasing client interest in AI-powered solutions. Our competitors are already showcasing machine learning capabilities, so this isn't just a technical discussion - it's a competitive necessity.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1706732937339,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 3,
+                    "content": "Important financial consideration: While AI sounds promising, we need a clear ROI model. What are the estimated development costs versus potential efficiency gains? @john.appleseed, can we schedule a deeper strategy session on this?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1706739963749,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 5,
+                    "content": "Technical perspective here - implementing AI isn't just about the algorithm. We'll need robust data pipelines, significant compute resources, and careful architectural design. It's not a simple plug-and-play solution.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1706745294170,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 31,
+                    "content": "Great thread! From a talent perspective, this also means we'll need to upskill our current teams or potentially recruit specialized AI talent. Our learning & development strategy will be crucial in this transition.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1706746726046,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 59,
+                    "content": "As Product Owner, I'm seeing this as an opportunity to reimagine our product features. AI could help us create more personalized, adaptive user experiences that anticipate customer needs before they even articulate them.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1706750372790,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 44,
+                    "content": "Customer Experience lens: We must ensure any AI implementation genuinely solves customer problems, not just adds complexity. User testing and continuous feedback will be critical.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1706757861169,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 15,
+                    "content": "Quick follow-up to @anthony.rodgers - totally agree on architectural complexity. We might want to consider a phased approach: start with narrow, well-defined AI use cases and gradually expand complexity.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1706759037349,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 1,
+                    "content": "Wow, this is exactly why I love our cross-functional discussions! @robert.williamson @susan.singh Let's set up a strategic planning workshop to dive deeper into these insights and create a comprehensive AI integration roadmap.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1706763485624,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 3,
+                    "content": "Sounds like a plan. I'll work with @john.appleseed to draft initial financial projections. This collaborative approach gives me confidence we can make a smart, strategic move into AI capabilities.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1706763485624,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 50,
+                    "content": "Hey team! I'm curious about everyone's thoughts on the latest AI productivity tools. Have any of you been experimenting with ChatGPT, Claude, or other AI assistants in your daily work? I'm particularly interested in how we might integrate these into our workflow more strategically.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1709524913599,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 15,
+                    "content": "Great question, @morgan.wu! As a machine learning engineer, I've been testing Claude extensively. It's impressive for code generation and technical documentation drafting. I've found it particularly useful for quickly prototyping complex algorithm explanations.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1709536878272,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 41,
+                    "content": "I'm a bit more cautious. While AI tools are powerful, we need robust guidelines to ensure data privacy and prevent potential code hallucinations. @susan.singh Do you have recommendations for responsible AI integration?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1709543374501,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 22,
+                    "content": "From a DevOps perspective, I'm seeing both opportunities and challenges. We're exploring AI-assisted code review processes, but we're implementing strict validation layers to mitigate risks.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1709552296934,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 30,
+                    "content": "Interesting discussion! From a marketing standpoint, we're looking at AI for content personalization and customer journey mapping. The potential for efficiency is significant.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1709556923554,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 15,
+                    "content": "**Excellent point about validation, @andrew.rodriguez.** Machine learning models require careful oversight. I recommend establishing a framework that includes:\n- Continuous model evaluation\n- Human-in-the-loop verification\n- Transparent AI usage protocols",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1709559471970,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 97,
+                    "content": "### AI Integration Strategy\n\nI think we should form a cross-functional team to develop our AI adoption guidelines. Interested volunteers?",
+                    "is_pinned": true,
+                    "has_reactions": false,
+                    "timestamp": 1709565404324,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 23,
+                    "content": "As a UX designer, I'm excited about AI's potential to enhance user experience design. Rapid prototyping and user journey analysis could be game-changers.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1709569118941,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 3,
+                    "content": "While innovative, we must carefully consider the financial implications. AI tools represent both an investment and potential cost-saving opportunity. @morgan.wu Can we discuss a preliminary ROI analysis?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1709573169388,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 50,
+                    "content": "@robert.williamson Great suggestion! I'll draft an initial ROI proposal focusing on productivity gains across departments.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1709577870000,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 15,
+                    "content": "Pro tip: GitHub Copilot and AWS CodeWhisperer are showing promising results in developer productivity. Might be worth a pilot program.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1709582221438,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 22,
+                    "content": "I've been tracking open-source AI governance frameworks. Happy to share some resources that could help us develop our internal guidelines.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1709582513599,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 30,
+                    "content": "Love the collaborative energy here! Let's schedule a cross-departmental workshop to deep dive into AI integration strategies.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1709582513599,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 50,
+                    "content": "Awesome thread, everyone! @paul.carr Let's set up that workshop. I'll coordinate with HR to find a suitable time. Thanks for all the insightful perspectives!",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1709582513599,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": true,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 50,
+                    "content": "Hey team! I'm curious - what's everyone's favorite productivity hack or tool that helps you stay focused and efficient? I've been experimenting with some new techniques and would love to hear what works for others in the company. 🚀",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1710530088722,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 41,
+                    "content": "Great question @morgan.wu! For me, it's the Pomodoro Technique combined with `RescueTime`. I break my work into 25-minute focused intervals and track my digital productivity. Helps me stay laser-focused on coding and minimize distractions.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1710552055681,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 15,
+                    "content": "Interesting approaches! As a machine learning engineer, I find **time blocking** in my calendar super effective. I dedicate specific chunks of time for deep work, research, and collaborative tasks. It helps me context-switch more efficiently between complex algorithmic problems and team meetings.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1710566368675,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 92,
+                    "content": "Love hearing these strategies! From an HR perspective, I always recommend our team explores tools that support **work-life balance**. @michael.clements and @susan.singh, your techniques sound like great examples of intentional productivity without burnout.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1710575203513,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 23,
+                    "content": "As a UX designer, I'm all about visual productivity tools. I use Notion for project tracking and mind mapping, and I've recently started using a digital kanban board that syncs across all my devices. The visual progress tracking keeps me motivated and helps me break down complex design projects into manageable steps.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1710581356898,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 22,
+                    "content": "DevOps perspective here - automation is my ultimate productivity hack! I've scripted most of my repetitive tasks and use `bash` and `Python` to create workflows that save me hours every week. Pro tip: invest time in creating robust scripts upfront, and it pays dividends in long-term efficiency. 💻",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1710587688722,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 46,
+                    "content": "Hey team! I'm curious about everyone's thoughts on the latest tech conference trends. With AI and cloud technologies evolving so rapidly, what innovations or emerging technologies are catching your attention right now? Would love to hear perspectives from different teams and roles.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1712948379652,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 15,
+                    "content": "Great question, @taylor.thompson! From a machine learning perspective, I'm fascinated by the recent advancements in generative AI and how it's transforming predictive modeling. The quantum machine learning approaches we're seeing are particularly exciting - they're pushing the boundaries of what we thought was possible just a few years ago.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1712958001579,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 8,
+                    "content": "As a DevOps lead, I'm really interested in the intersection of AI and infrastructure automation. @susan.singh's point about quantum ML is intriguing. We're exploring how these technologies can help us create more resilient and self-healing infrastructure architectures.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1712964389721,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 23,
+                    "content": "From a UX design standpoint, I'm watching how AI is reshaping user experience design. We're seeing incredible opportunities to create more personalized, adaptive interfaces that can anticipate user needs in real-time. It's not just about aesthetics anymore, but creating truly intelligent interaction models.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1712972043272,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 12,
+                    "content": "Fantastic thread, everyone! What's particularly exciting is how these technological innovations are converging. Our product strategy needs to be agile enough to incorporate these emerging technologies. @michael.briggs, @michelle.ortiz - your insights about infrastructure and user experience are critical as we plan our next product roadmap.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1712973579652,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 50,
+                    "content": "Building on @matthew.solomon's point, I believe the key is maintaining a balance between cutting-edge innovation and practical implementation. We want to be forward-thinking but also ensure our solutions provide tangible value to our clients. These emerging technologies are tools, not just buzzwords.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1712973579652,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": true,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 46,
+                    "content": "Hey team! I'm curious about how everyone approaches continuous learning and skill development. What resources, courses, or methods have you found most valuable for staying current in our fast-evolving tech landscape? 🚀 Looking to spark some knowledge sharing!",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1713697576660,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 15,
+                    "content": "Great question @taylor.thompson! For machine learning, I've been loving the advanced courses on Coursera and DataCamp. Particularly recommend their deep learning specializations which cover cutting-edge neural network architectures.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1713718972558,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 41,
+                    "content": "As a software engineer, I'm a big fan of Udemy and LinkedIn Learning. They offer practical, project-based courses that help translate theoretical knowledge into real-world coding skills. Plus, the instructor quality is generally excellent.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1713733235190,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 23,
+                    "content": "UX perspective here - I've found design thinking workshops and conferences like UXPA to be incredibly valuable. They provide not just technical skills, but also strategic insights into user experience design trends.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1713737210799,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 30,
+                    "content": "From a marketing standpoint, I recommend HubSpot Academy and Google's digital marketing certifications. They're free and provide comprehensive, up-to-date digital marketing strategies.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1713746962075,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 5,
+                    "content": "For full-stack development, I'm a huge proponent of hands-on GitHub projects and contributing to open-source. Nothing beats real-world coding experience. Anyone else actively contributing to open-source projects?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1713756045981,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 7,
+                    "content": "@anthony.rodgers Totally agree! I've found that open-source contributions not only improve technical skills but also enhance collaboration and communication abilities. Great for UX research methodologies too.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1713765422516,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 48,
+                    "content": "HR perspective: We should consider creating an internal learning budget or quarterly learning stipend. Encouraging continuous professional development can significantly boost team morale and retention.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1713771012189,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 12,
+                    "content": "Brilliant suggestion @melanie.gonzalez! As a product management leader, I've seen how structured learning opportunities can drive innovation. Maybe we could also host internal knowledge-sharing sessions?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1713781700594,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 8,
+                    "content": "DevOps angle: I recommend Linux Foundation and Cloud Native Computing Foundation (CNCF) certifications. They're rigorous and highly respected in our industry. Anyone here working on cloud-native certifications?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1713788888777,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 46,
+                    "content": "Wow, these are fantastic insights! Looks like we have a team passionate about continuous learning. @matthew.solomon's idea of internal knowledge sharing is gold. Perhaps we could start a monthly 'Tech Talk' series?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1713790803382,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 31,
+                    "content": "Love the energy in this thread! From a People Operations standpoint, I'm taking notes. This kind of cross-functional learning dialogue is exactly what drives our company's innovative culture. Keep sharing, team! 💡",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1713794776660,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 46,
+                    "content": "Hey team! I'm curious about everyone's favorite productivity hack or tool that helps you stay efficient. What's something you've discovered recently that's been a game-changer in your daily workflow? 🚀 Looking to learn from our collective wisdom here.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1716290020981,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 54,
+                    "content": "Great question @taylor.thompson! For me, it's been `Raycast` on Mac - it's like Alfred on steroids. Quick app launching, clipboard history, and custom scripts have saved me hours of manual work. Highly recommend checking it out for developers.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1716319621895,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 23,
+                    "content": "I'm a big fan of the Pomodoro technique combined with `Focus@Will` for background music. Breaking work into 25-minute focused sprints has dramatically improved my design workflow and reduced context switching.",
+                    "is_pinned": true,
+                    "has_reactions": false,
+                    "timestamp": 1716336571372,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 1,
+                    "content": "These are great suggestions! @michael.clements, any tools you've found useful in your software engineering workflow? Always looking to improve team productivity.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1716350759962,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 41,
+                    "content": "For code-related productivity, I swear by `Fig` for autocomplete in the terminal and `Notion` for project documentation and personal knowledge management. The integration between tools is a real time-saver.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1716368611423,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 24,
+                    "content": "**Product management perspective here!** I've been loving `Todoist` for task management and `Miro` for collaborative brainstorming. Being able to visualize workflows and quickly capture ideas has been transformative.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1716375820638,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 15,
+                    "content": "In the ML world, `Weights & Biases` has been a game-changer for experiment tracking. It's like a version control system for machine learning projects, making collaboration and reproducibility so much easier.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1716385934652,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 8,
+                    "content": "DevOps perspective: `k9s` for Kubernetes management and `Terraform Cloud` for infrastructure as code. These tools have streamlined our deployment and infrastructure management significantly.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1716397230943,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 46,
+                    "content": "Wow, this thread is gold! 🏆 So many amazing tools. I'm definitely going to explore `Fig`, `Raycast`, and `Weights & Biases`. Love how we can learn from each other across different teams and disciplines.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1716409104386,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 92,
+                    "content": "Loving this knowledge sharing! From an HR perspective, I recommend `Clockwise` for smart calendar management and `Slack's` built-in workflow builder for automating repetitive HR processes. Productivity isn't just about individual tools, but how we integrate them into our work ecosystem.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1716416020981,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 46,
+                    "content": "Hey team! 🚀 We're launching our first internal hackathon for 2025. Looking for initial thoughts and potential team compositions. Who's interested in participating and what innovative ideas are brewing? @john.appleseed @michael.briggs @anthony.rodgers",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1716611121334,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 51,
+                    "content": "Sounds exciting! I'm definitely interested. As an Engineering Team Lead, I'm thinking we could form cross-functional teams that mix developers, UX designers, and product managers to create something truly innovative.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1716626890112,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 23,
+                    "content": "Love @caleb.fields' suggestion! From a UX perspective, I'm eager to collaborate on a project that solves real user pain points. Maybe we could prototype a tool that streamlines our customer feedback integration?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1716633010211,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 12,
+                    "content": "Great initial ideas! As Director of Product Management, I'm particularly interested in seeing solutions that could potentially become actual product features. @michelle.ortiz's user-centric approach is exactly what we need.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1716635324866,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 5,
+                    "content": "I'm thinking we could leverage some machine learning techniques to create a predictive analytics tool for our service delivery. @susan.singh, want to collaborate on something like this?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1716642103827,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 63,
+                    "content": "@anthony.rodgers Interesting proposal! I'd be happy to contribute some ML expertise. We could potentially develop a model that predicts customer support ticket complexity and recommends optimal resolution strategies.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1716643149640,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 8,
+                    "content": "DevOps perspective here - whatever we build, let's ensure it has a robust, scalable infrastructure. I'm available to help teams think through deployment and performance considerations.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1716645368424,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 24,
+                    "content": "Question for @michael.briggs and @matthew.solomon - are there any specific strategic objectives we should keep in mind while forming hackathon teams? Want to ensure our innovation aligns with company goals.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1716652450788,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 46,
+                    "content": "Great question, @valerie.byrd! We're looking for projects that demonstrate:\n1. Cross-team collaboration\n2. Potential business impact\n3. Creative problem-solving\n\nNo strict limitations - creativity is key!",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1716653554994,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 7,
+                    "content": "From a UX research standpoint, I'm excited to see how different teams will approach user-centric innovation. We could have a mini showcase where teams present their prototypes and user insights.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1716656908112,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 30,
+                    "content": "Marketing is fully supportive! This is an excellent opportunity to highlight our internal innovation culture. @heather.morris @michael.briggs - shall we discuss potential external communication about the hackathon?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1716661521334,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 1,
+                    "content": "Incredible energy from everyone! This hackathon embodies our company's commitment to innovation and cross-functional collaboration. Looking forward to seeing the amazing solutions our teams will develop. Let's make this an annual tradition! 💡🏆",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1716661521334,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 46,
+                    "content": "Hey team! I'm curious about everyone's favorite productivity hack or tool that helps you stay focused and efficient. What's something you've discovered recently that's been a game-changer for your workflow? 🚀 Looking forward to hearing some creative strategies!",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1718117552832,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 15,
+                    "content": "Great question @taylor.thompson! For me, it's been the Pomodoro Technique combined with a tool called Focus@Will. I set 25-minute deep work intervals with background music scientifically designed to enhance concentration. It's dramatically improved my machine learning model development productivity.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1718134079716,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 41,
+                    "content": "I'm a big fan of the **Todoist** app with its natural language processing for task entry. Being able to type `every Tuesday at 2pm` and have it automatically schedule recurring tasks is a huge time-saver for software development planning.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1718144594029,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 23,
+                    "content": "As a UX designer, I've been loving `Figma's` new AI-assisted design features. They're helping me generate design variations and prototype concepts much faster than traditional methods. Has anyone else explored these new generative design tools?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1718157146183,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 8,
+                    "content": "For DevOps, I swear by `tmux` and custom shell scripts. Automating repetitive infrastructure setup and having persistent terminal sessions across SSH connections saves me hours every week. Pro tip: invest time in creating your personal toolkit!",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1718163986956,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 50,
+                    "content": "Really interesting thread! @michael.briggs Your DevOps automation tip resonates with me. As a Product Team Lead, I'm always looking for ways to streamline cross-functional workflows. Anyone want to share their favorite collaboration or project management tools?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1718169752339,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 60,
+                    "content": "For marketing team coordination, we've recently started using `Asana` with custom workflow automations. It's helped us track campaign progress, align content strategies, and reduce those endless status update meetings. Highly recommend checking it out!",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1718172197345,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 2,
+                    "content": "From an HR perspective, I'm loving tools that support remote work collaboration and team engagement. @samantha.lynn Your Asana workflow sounds fascinating - would love to hear more about how you've customized those automations!",
+                    "is_pinned": true,
+                    "has_reactions": false,
+                    "timestamp": 1718183277466,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 33,
+                    "content": "Productivity hack from a sales strategy perspective: I use `Otter.ai` to transcribe and summarize client calls automatically. It helps me capture key insights without manual note-taking and ensures our team has comprehensive meeting records.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1718187135718,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 46,
+                    "content": "Wow, what an incredible thread! 🎉 It's amazing to see how diverse our productivity approaches are across different roles. Looks like we're all finding innovative ways to work smarter, not harder. Keep experimenting and sharing your discoveries!",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1718189552832,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 50,
+                    "content": "Hey team! 🚀 We're launching our first-ever internal Innovation Hackathon next month. Who's interested in forming cross-functional teams and building something awesome? I'm thinking we could tackle some of our product's most interesting challenges. Any initial ideas or excitement brewing?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1718799639665,
+                    "attachment_filenames": [
+                        "hackathon_draft_guidelines.pdf"
+                    ]
+                },
+                {
+                    "from_user": 37,
+                    "content": "@morgan.wu Great initiative! I love that we're encouraging creative problem-solving. From a technical perspective, I'd be interested in seeing solutions that could improve our microservices architecture or enhance our current CI/CD pipelines.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1718850171668,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 23,
+                    "content": "As a UX designer, I'm totally on board! 🎨 I'm thinking we could use this hackathon to prototype some innovative user interaction models we've been discussing. @morgan.wu, would it be possible to have a mix of technical and design-focused team compositions?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1718876155219,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 80,
+                    "content": "This sounds like an incredible opportunity to develop solutions that could be attractive to our enterprise clients. @morgan.wu I'm curious about the potential for creating demos or prototypes that our sales team could potentially showcase to potential customers.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1718901521953,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 31,
+                    "content": "Fantastic idea! From a People Operations standpoint, this is an excellent way to boost cross-departmental collaboration and employee engagement. We could potentially tie participation into our professional development tracking.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1718928751107,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 50,
+                    "content": "Wow, the energy and ideas are amazing! Based on the feedback, I'll update the hackathon guidelines to emphasize cross-functional teams and potential business impact. We'll aim to have balanced teams with technical, design, sales, and operations perspectives. Stay tuned for more details soon! 💡",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1718943639665,
+                    "attachment_filenames": [
+                        "hackathon_updated_guidelines.pdf"
+                    ]
+                }
+            ],
+            "has_root_message": true,
+            "should_have_attachments": true
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 50,
+                    "content": "Hey team! Quick question - we're planning our annual team building event for next quarter. I'm curious what everyone thinks would be fun and engaging. Any creative ideas for an offsite that could bring our different departments together? @anne.king @michael.briggs @robert.williamson",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1722563969811,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 8,
+                    "content": "Great initiative, @morgan.wu! Last year's escape room was pretty awesome, but I'm thinking we might want something more collaborative this time. Maybe a hackathon-style event where cross-functional teams solve real business challenges?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1722603158297,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 4,
+                    "content": "I love @michael.briggs's hackathon idea! We could structure it around solving an actual product innovation challenge. This could be a great way to tap into collective creativity and potentially generate some real strategic insights for our next quarter roadmap.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1722623065595,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 3,
+                    "content": "From a budget perspective, I'm supportive. These team events aren't just fun - they're an investment in collaboration and team synergy. @morgan.wu, could you draft a preliminary proposal with estimated costs and potential ROI?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1722640754894,
+                    "attachment_filenames": [
+                        "team_building_preliminary_proposal.docx"
+                    ]
+                },
+                {
+                    "from_user": 50,
+                    "content": "On it, @robert.williamson! I'll put together a draft proposal this week. Thinking we could do a one-day event, maybe split between strategic problem-solving in the morning and some fun team challenges in the afternoon. Thoughts?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1722651270594,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 31,
+                    "content": "Great discussion, everyone! From an HR perspective, I recommend we also include some team communication and trust-building exercises. @morgan.wu's hybrid approach sounds perfect - strategic work balanced with team bonding.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1722664769811,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": true
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 37,
+                    "content": "Hey team! Quick question - we're planning our annual team building event for next quarter. I'd love to hear some creative ideas that could be fun and meaningful for our growing tech company. What activities or experiences have you all enjoyed in past team events?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1723652478194,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 4,
+                    "content": "Great initiative, @sarah.villegas! I'm thinking something that combines team bonding with skill development. Maybe a hackathon-style workshop where we form cross-functional teams and solve an interesting challenge together?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1723663025942,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 31,
+                    "content": "Love the hackathon idea, @anne.king! We could make it focused on innovation and potentially develop some internal tools or solutions that could actually benefit our workflows. Plus, it gives everyone a chance to collaborate outside their usual teams.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1723663709668,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 5,
+                    "content": "As a developer, I'm totally on board with the hackathon concept. We could have different tracks - like internal tools, process improvement, or even a charitable tech solution project. Keeps it interesting and gives everyone a chance to contribute.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1723666251602,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 23,
+                    "content": "From a UX perspective, I'd suggest we include some design thinking workshops as part of the event. Could be a great way to cross-pollinate ideas and help teams understand different perspectives in product development.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1723667688510,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 60,
+                    "content": "Great suggestions everyone! We could potentially partner this with a mini-conference style morning where we have lightning talks from different team members about recent projects or innovations. Keeps it professional but also engaging.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1723675081172,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 1,
+                    "content": "These are fantastic ideas. I'm impressed by how collaborative you all are being. @frank.weaver, what's your take on budget and logistics for something like this?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1723677447920,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 31,
+                    "content": "@john.appleseed We're looking at potentially allocating budget from our professional development funds. Estimated cost would be around $5-7k, which would cover venue, catering, and some basic materials. The potential team alignment and morale boost seems worth the investment.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1723677678194,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 3,
+                    "content": "Budget looks reasonable. I'd like to see a more detailed proposal, but the cross-functional learning and team engagement potential is compelling. @sarah.villegas, could you draft a formal recommendation?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1723677678194,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 37,
+                    "content": "Absolutely, @robert.williamson! I'll put together a comprehensive proposal by next week detailing the event structure, potential tracks, learning objectives, and a detailed budget breakdown. Looking forward to making this happen!",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1723677678194,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 1,
+                    "content": "Hey team! I wanted to start a discussion about professional development opportunities. What skills or areas are you all interested in growing this year? I'm really curious to hear everyone's perspectives on continuous learning and career growth.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1724406896745,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 37,
+                    "content": "Great initiative, @john.appleseed! As our CTO, I'm always encouraging our tech team to explore emerging technologies. Personally, I'm diving deeper into AI/ML integration strategies and cloud-native architecture this year.",
+                    "is_pinned": true,
+                    "has_reactions": false,
+                    "timestamp": 1724425211351,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 4,
+                    "content": "Building on @john.appleseed's point, our product team is looking at upskilling in design thinking and user experience research. @malik.lopez has been leading some fantastic workshops on empathy mapping and user journey analysis.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1724437796855,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 5,
+                    "content": "From a developer perspective, I'm really interested in expanding my skills in serverless architectures and microservices. We've been doing some interesting work with containerization, and I want to get more advanced certifications in Kubernetes and Docker.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1724450969914,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 31,
+                    "content": "Love seeing this organic skill development discussion! Our People Operations team is actually working on a new **Learning & Development Budget** program. We're planning to provide **$2,500 per employee annually** for courses, certifications, and professional development resources.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1724457295733,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 92,
+                    "content": "Confirming what @frank.weaver mentioned. We want to make professional growth a core part of our company culture. We'll be rolling out this program next quarter and are open to feedback on how we can make it most effective.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1724461772454,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 23,
+                    "content": "As a UX designer, I'm excited about the learning budget! I'm planning to take advanced design system courses and explore some emerging UI/UX tools. Would love to hear what certifications or courses others are considering.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1724471406654,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 15,
+                    "content": "Machine learning is evolving so quickly. I'm looking at advanced TensorFlow and PyTorch certifications, plus some specialized courses in ethical AI development. Really appreciate the company supporting continuous learning!",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1724481688516,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 3,
+                    "content": "From a financial perspective, I see this as a strategic investment. Continuous learning directly correlates with innovation and team retention. Great to see such enthusiasm across different departments!",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1724482796324,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 60,
+                    "content": "Marketing is changing rapidly with digital transformation. I'm planning to dive deeper into advanced digital marketing analytics, marketing automation, and AI-driven content strategies.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1724491935551,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 1,
+                    "content": "Wow, this thread is incredible! It's inspiring to see the diverse learning paths across our organization. @frank.weaver and @wayne.kirk, let's schedule a meeting to finalize the details of this learning budget program.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1724499317754,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 31,
+                    "content": "@john.appleseed Absolutely! I'll send a calendar invite for next week to discuss implementation details and potential tracking mechanisms for the professional development initiative.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1724500496745,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 1,
+                    "content": "Hey team! I wanted to start a discussion about professional development opportunities we could explore for our organization. What skills or training programs do you think would be most beneficial for our team's growth in the next year?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1728869317494,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 37,
+                    "content": "Great initiative, @john.appleseed! From a tech perspective, I think we should consider investing in advanced cloud certification programs. With our growing infrastructure complexity, having team members certified in AWS, Azure, and Google Cloud would be strategic.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1728903960486,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 4,
+                    "content": "Adding to @sarah.villegas's point, I'm also seeing a need for more cross-functional product management training. Courses that help our product teams understand deeper technical implementation would bridge some critical communication gaps.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1728917076268,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 5,
+                    "content": "As a developer, I'm really interested in emerging technologies. Machine learning, serverless architectures, and advanced containerization strategies would be incredible skill boosters for our engineering team.",
+                    "is_pinned": true,
+                    "has_reactions": true,
+                    "timestamp": 1728937124523,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 92,
+                    "content": "Excellent suggestions! I'll start working with department heads to create a comprehensive professional development framework. We want to ensure we're not just offering training, but creating clear career progression pathways.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1728949137748,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 6,
+                    "content": "From a sales perspective, I'd love to see more advanced negotiation and strategic account management training. The market is getting more complex, and our team needs cutting-edge skills to stay competitive.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1728958370170,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 48,
+                    "content": "I recommend we also include soft skills training - things like emotional intelligence, communication, and leadership development. Technical skills are crucial, but our people's interpersonal abilities truly differentiate us.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1728969052810,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 30,
+                    "content": "Great thread, everyone! I'm thinking we could explore a mix of external certifications and internal mentorship programs. Creating a culture of continuous learning is key to our innovation strategy.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1728980554889,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 14,
+                    "content": "For data teams, I'm advocating for advanced data engineering and analytics certifications. Particularly around machine learning ops (MLOps) and next-gen data infrastructure technologies.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1728992045992,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 1,
+                    "content": "Wow, these are fantastic insights! @wayne.kirk, can you help compile these suggestions into a draft professional development roadmap we can discuss in our next leadership meeting?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1729007295487,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 92,
+                    "content": "Absolutely, @john.appleseed! I'll draft a comprehensive proposal that captures the cross-functional training needs we've discussed here. Expect a detailed document in our next strategy session.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1729017820960,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 37,
+                    "content": "This collaborative approach is exactly why I love our team. By sharing perspectives across different roles, we're creating a holistic approach to our professional growth. Looking forward to seeing how this develops!",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1729020517494,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": true,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 1,
+                    "content": "Hey team! I wanted to start a discussion about professional development opportunities. With our company growing rapidly, what skills or training would you all be interested in exploring to help advance our collective capabilities? 🚀 Looking forward to hearing your thoughts!",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1729009534463,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 37,
+                    "content": "Great initiative, @john.appleseed! As CTO, I've been thinking we should invest more in emerging tech skills. Machine learning, cloud-native architectures, and advanced cybersecurity training could be game-changers for our technical teams.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1729017442852,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 4,
+                    "content": "Building on @sarah.villegas's point, I'm particularly interested in product management certifications and design thinking workshops. These could help us create more innovative solutions for our clients.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1729022628541,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 15,
+                    "content": "Machine learning is definitely a hot area! I'd be happy to put together some potential curriculum recommendations for anyone interested in AI and data science skill development.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1729028508733,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 6,
+                    "content": "From a sales perspective, I think advanced negotiation and consultative selling techniques would be valuable. Our team could benefit from more strategic client engagement training.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1729029889960,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 2,
+                    "content": "Great suggestions everyone! HR is fully supportive of professional development. We could potentially create a quarterly learning stipend or organize internal knowledge-sharing sessions to help everyone grow.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1729033325887,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 41,
+                    "content": "As a senior software engineer, I'm curious about emerging programming languages and cloud technologies. Maybe we could organize some internal tech talks or bring in external experts for specialized workshops?",
+                    "is_pinned": true,
+                    "has_reactions": false,
+                    "timestamp": 1729038509876,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 7,
+                    "content": "UX perspective here - design thinking and user research methodologies would be fantastic. We could improve our product development process by investing in advanced UX training.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1729044883952,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 30,
+                    "content": "Marketing is always evolving. Digital marketing certifications, especially in AI-driven marketing analytics and content strategy, would be incredibly valuable for our team.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1729045534463,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 81,
+                    "content": "These are all excellent suggestions. I propose we create a cross-functional committee to develop a comprehensive professional development strategy that aligns with our company's strategic goals.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1729045534463,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 1,
+                    "content": "Wow, incredible feedback! @misty.mack and @karen.lowe, let's schedule a meeting to discuss how we can turn these ideas into a structured professional development program. @sarah.villegas, would you be interested in helping lead this initiative?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1729045534463,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 37,
+                    "content": "Absolutely! Count me in. Let's create a framework that supports continuous learning and helps our team stay at the cutting edge of technology and business innovation. 💡",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1729045534463,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": true,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 1,
+                    "content": "Hey team! I wanted to float an idea for our upcoming company hackathon. We're thinking about doing a 24-hour innovation sprint where cross-functional teams can develop creative solutions to some of our internal challenges. Who's interested in participating or has suggestions?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1732139429676,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 4,
+                    "content": "Love this idea, @john.appleseed! As VP of Product, I see huge potential for breakthrough innovations. We could structure teams with mixed roles - developers, designers, sales, and support - to ensure diverse perspectives.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1732145378991,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 37,
+                    "content": "Great concept. From a technical standpoint, we'll need to define clear project parameters. I recommend creating challenge tracks like 'Customer Experience Enhancement' and 'Operational Efficiency' to guide team focus.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1732151210591,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 23,
+                    "content": "As a UX designer, I'm totally on board! We could create interdisciplinary teams that break down traditional departmental silos. Maybe include some design thinking workshops as part of the preparation?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1732152207922,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 6,
+                    "content": "Interesting approach. From a sales perspective, I'd be curious how we can align hackathon projects with potential market opportunities. Could we have a judging criteria that includes commercial viability?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1732153829676,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 31,
+                    "content": "Fantastic initiative! This could be an excellent team-building and talent development opportunity. We might want to consider prizes or recognition for top teams to boost motivation.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1732153829676,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 5,
+                    "content": "I can help with technical infrastructure and mentoring. We'll need robust project management tools and potentially some cloud resources for teams to prototype quickly.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1732153829676,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 50,
+                    "content": "### Potential Hackathon Structure Proposal\n\n- 24-hour event\n- Cross-functional teams of 4-6 people\n- Clear challenge tracks\n- Mentorship from senior team members\n- Pitch/demo session at the end",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1732153829676,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 92,
+                    "content": "From an HR perspective, this looks like an excellent employee engagement initiative. We should ensure inclusive team formation and provide clear guidelines to make everyone feel comfortable participating.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1732153829676,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 12,
+                    "content": "Great discussion! We'll need to define specific challenge areas that align with our strategic objectives. @john.appleseed, shall we schedule a planning meeting to refine the concept?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1732153829676,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 8,
+                    "content": "DevOps can help set up the technical environment. We'll ensure teams have consistent access to development resources and can quickly spin up test infrastructure.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1732153829676,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 60,
+                    "content": "Marketing can help with documentation and potentially creating content about the innovative solutions we develop. This could be great for our employer branding too!",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1732153829676,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 1,
+                    "content": "Wow, the enthusiasm is incredible! It looks like we have broad support. @matthew.solomon, let's sync up and draft a formal proposal. We'll circulate a detailed plan next week.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1732153829676,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 97,
+                    "content": "Count me in! This is exactly the kind of innovative thinking that keeps our team dynamic and exciting. Can't wait to see what creative solutions emerge!",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1732153829676,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 37,
+                    "content": "Hey team! Quick question - we're exploring some innovative team-building ideas for our upcoming quarterly all-hands. **What creative activities have you all experienced that actually boosted team morale and collaboration?** Looking for suggestions that go beyond the typical happy hour or standard team lunch.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1740681026242,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 92,
+                    "content": "Great initiative, @sarah.villegas! At my previous company, we did a virtual escape room that was surprisingly engaging. It really helped cross-functional teams communicate and problem-solve together in a fun context.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1740697330248,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 4,
+                    "content": "Love the idea of interactive team building. We could potentially do something tech-themed that showcases our team's skills. Maybe a collaborative hackathon or a technical challenge that mixes different departments?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1740704552564,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 5,
+                    "content": "A tech-themed team building sounds awesome! We could design a mini-project that requires input from different teams - like building a prototype solution for a hypothetical client challenge. Would engage devs, product, sales, and UX in a meaningful way.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1740709319409,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 7,
+                    "content": "As a UX researcher, I'm totally on board with @anthony.rodgers' suggestion. Cross-functional challenges help us understand each other's perspectives and workflows. We could structure it like a design sprint but with interdepartmental teams.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1740711058520,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 30,
+                    "content": "From a marketing perspective, this could be an excellent opportunity to showcase our internal innovation capabilities. Imagine if we recorded the process and used it for employer branding content!",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1740713569524,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 6,
+                    "content": "I see potential sales training in this too. A collaborative challenge could help our sales team understand product capabilities more deeply. @sarah.villegas, count me in for supporting this initiative.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1740719135374,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 37,
+                    "content": "These are fantastic suggestions! Looks like we're converging on a cross-functional tech challenge. I'll draft a preliminary framework and share it in our next leadership meeting. @wayne.kirk, thoughts on budget and logistics?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1740721710191,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 92,
+                    "content": "Budget-wise, this seems more cost-effective than traditional team-building events. We could allocate resources from our professional development fund. I recommend we set a half-day aside and provide some light catering or virtual event support.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1740726679632,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 12,
+                    "content": "### Potential Challenge Framework\n\n- 3-4 person cross-functional teams\n- 4-hour time block\n- Solve a simulated client integration problem\n- Judging criteria: Innovation, Feasibility, Presentation\n\nWhat do folks think about this initial structure?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1740733477618,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 5,
+                    "content": "The framework looks solid! We could have our senior engineers serve as mentors/advisors to each team to provide technical guidance without directly solving the challenge.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1740734165548,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 4,
+                    "content": "Great add, @anthony.rodgers. This mentorship component adds a learning dimension and helps junior team members get exposure to senior expertise.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1740740440265,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 37,
+                    "content": "Looks like we have a winning concept! I'll work with HR and department heads to finalize the details. Thanks everyone for the collaborative brainstorming!",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1740742226242,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 30,
+                    "content": "Kudos to @sarah.villegas for initiating this. Can't wait to see how it turns out - this feels like exactly the kind of innovative approach that sets our company culture apart. 🚀",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1740742226242,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 17,
+                    "content": "Hey team! I'm curious about everyone's favorite productivity tools or apps that help you stay organized and efficient. What are some must-have tools you've discovered that make your work life easier? Excited to hear some recommendations! 💻🚀",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1743082373594,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 8,
+                    "content": "Great question @robert.garcia! I'm a huge fan of **Notion** for project tracking and personal knowledge management. It's basically replaced my scattered spreadsheets and notes. The ability to create interconnected workspaces is a game-changer for our DevOps team's documentation.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1743112286178,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 24,
+                    "content": "For product management, I swear by `Trello` and `Asana`. They help me keep our roadmap super organized. @robert.garcia I love how flexible these tools are for different project styles. **Pro tip:** Integration is key - make sure whatever tool you choose plays nice with our existing tech stack!",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1743122208180,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 41,
+                    "content": "As a Senior Software Engineer, I've been loving **VS Code** extensions that boost productivity. The GitHub Copilot AI assistant has been incredible for quick code suggestions and reducing repetitive typing. Anyone else experimenting with AI coding tools?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1743132488204,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 15,
+                    "content": "Speaking of AI tools, in machine learning, we're seeing incredible productivity gains with `Jupyter Lab` and `Google Colab`. @michael.clements The collaborative notebook environments are transforming how we prototype and share research. **Highly recommend** checking them out if you're doing any data-driven work!",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1743144149741,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 60,
+                    "content": "From a marketing perspective, I can't live without `Hootsuite` for social media management and `Canva` for quick design work. These tools save me hours every week. @robert.garcia It's fascinating how different teams leverage unique productivity tools!",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1743160027726,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 4,
+                    "content": "Love this thread! As VP of Product, I'm always looking to optimize our team's workflow. Has anyone tried any project management tools that truly improve cross-functional collaboration? @robert.garcia We might want to standardize some of these recommendations across departments.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1743164755698,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 17,
+                    "content": "Wow, what an incredible range of tools! @anne.king That's a great point about cross-functional standardization. Maybe we should schedule a quick workshop to compare notes and see where we can create more unified workflows. Thanks everyone for sharing - this is exactly why I love our off-topic channel! 🙌",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1743172373594,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": true,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 1,
+                    "content": "Hey team! 👋 I'm proposing we start a monthly 'Tech & Talent Showcase' where team members can share interesting side projects, personal innovations, or cool skills they're developing outside of work. Who's interested in participating?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1744454862717,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 17,
+                    "content": "Love this idea, @john.appleseed! It's a great way to learn more about our colleagues' hidden talents and passions. I've been working on a machine learning project for home automation that I'd be excited to share.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1744480934022,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 23,
+                    "content": "As a UX designer, I think this could really help build team cohesion. I've been learning digital illustration in my spare time and would be happy to demonstrate my creative process.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1744487837754,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 5,
+                    "content": "Count me in! I've been developing an open-source contribution tracking app in React Native that helps developers manage their GitHub contributions more efficiently.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1744499220979,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 60,
+                    "content": "This sounds fantastic! From a marketing perspective, showcasing our team's diverse talents could be great for employer branding. @john.appleseed, do you want me to help document and potentially share some highlights externally?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1744511755801,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 1,
+                    "content": "Great suggestion, @samantha.lynn! We could create some internal content to highlight team creativity. @michael.garrett, would you be interested in helping design some visual assets for the showcase?",
+                    "is_pinned": true,
+                    "has_reactions": false,
+                    "timestamp": 1744517621141,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 87,
+                    "content": "Absolutely! I'd love to help create some engaging visuals. Maybe we could design a template or digital badge that participants can use when presenting their projects?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1744522345063,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 31,
+                    "content": "This initiative aligns perfectly with our culture of continuous learning and innovation. I recommend we also consider how these showcases might inform our professional development strategies.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1744530534755,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 15,
+                    "content": "As a machine learning engineer, I'm thrilled about this! It's an excellent opportunity to see how team members apply technical skills in creative, personal contexts. **Data point:** These kinds of internal knowledge exchanges can significantly boost team morale and cross-functional understanding.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1744539081902,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 66,
+                    "content": "Brilliant idea! This could also help with team bonding and potentially uncover innovative approaches we could apply to our professional work. @john.appleseed, shall we set a date for the first showcase?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1744548919374,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 12,
+                    "content": "### Potential Showcase Structure\n\n- 15-minute individual presentations\n- Q&A session after each talk\n- Optional demo or walkthrough of the project\n- Collaborative feedback and discussion\n\nWhat does everyone think about this format?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1744555859355,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 8,
+                    "content": "As a DevOps lead, I appreciate structured events. We could even livestream these internally for team members who can't attend in person, making it more inclusive.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1744564144043,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 1,
+                    "content": "Incredible feedback, everyone! Let's aim to host our first 'Tech & Talent Showcase' next month. @susan.riley and @matthew.solomon, can you help coordinate the logistics and schedule?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1744566319072,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 66,
+                    "content": "On it! We'll send out a sign-up sheet and start planning the event details. This is going to be an awesome team-building initiative! 🚀",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1744570062717,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 50,
+                    "content": "Hey team! 🚀 We're planning our annual Innovation Hackathon for next month, and I wanted to get some initial thoughts and excitement brewing. Who's interested in participating, and what kind of innovative projects are you thinking about exploring?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1745598544453,
+                    "attachment_filenames": [
+                        "hackathon_2025_initial_brief.pdf"
+                    ]
+                },
+                {
+                    "from_user": 5,
+                    "content": "@morgan.wu Great idea! I've been working on a microservice architecture optimization concept that could be perfect for the hackathon. Thinking about demonstrating how we can reduce our cloud infrastructure costs by at least 20%.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1745608260239,
+                    "attachment_filenames": [
+                        "microservice_optimization_draft.pptx"
+                    ]
+                },
+                {
+                    "from_user": 23,
+                    "content": "Love the energy! From a UX perspective, I'm considering a project that enhances our user onboarding flow. Preliminary research shows we could improve first-time user engagement by creating more intuitive initial interactions.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1745610633755,
+                    "attachment_filenames": [
+                        "user_journey_current_state.sketch"
+                    ]
+                },
+                {
+                    "from_user": 37,
+                    "content": "Exciting proposals so far! @anthony.rodgers and @michelle.ortiz, your ideas align perfectly with our strategic goals. We should definitely encourage cross-functional team collaboration for the hackathon.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1745619708969,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 41,
+                    "content": "I'm thinking of proposing an AI-assisted code review tool that could significantly speed up our development workflow. Preliminary research shows potential for reducing code review times by 30-40%.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1745624316421,
+                    "attachment_filenames": [
+                        "code_review_ai_concept.md"
+                    ]
+                },
+                {
+                    "from_user": 15,
+                    "content": "@michael.clements That's an intriguing ML application! I'd be happy to collaborate and provide some machine learning insights to make the code review AI more intelligent and context-aware.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1745625990720,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 24,
+                    "content": "### Hackathon Project Coordination\n\nGreat ideas everyone! I suggest we set up a preliminary meeting to align our concepts and ensure we're not duplicating efforts. @morgan.wu, can you help coordinate an initial planning session?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1745630944453,
+                    "attachment_filenames": [
+                        "hackathon_preliminary_agenda.docx"
+                    ]
+                },
+                {
+                    "from_user": 8,
+                    "content": "From a DevOps perspective, I recommend we also consider a project that improves our continuous deployment pipeline. Maybe something that enhances our automated testing or reduces deployment complexity?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1745630944453,
+                    "attachment_filenames": [
+                        "current_ci_cd_workflow.yml"
+                    ]
+                },
+                {
+                    "from_user": 50,
+                    "content": "Awesome suggestions, team! I'll draft a formal hackathon brief and share it soon. We'll aim to have team formation and initial project scoping done within the next two weeks. **Stay innovative!** 💡",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1745630944453,
+                    "attachment_filenames": [
+                        "hackathon_2025_full_guidelines.pdf"
+                    ]
+                },
+                {
+                    "from_user": 5,
+                    "content": "Quick follow-up: @sarah.villegas, will leadership be providing any specific guidance or judging criteria for the hackathon projects?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1745630944453,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": true,
+            "should_have_attachments": true
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 30,
+                    "content": "Hey team! I'm curious about everyone's favorite productivity hack or tool that helps you stay organized and efficient. What's something you've discovered recently that's been a game-changer for your workflow? 🚀 Let's share some insights!",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1751782922500,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 5,
+                    "content": "Great question, @paul.carr! For me, it's been **Notion**. I've created custom templates for tracking my development sprints and project dependencies. The ability to link databases and create kanban views has seriously improved how our dev team tracks complex tasks.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1751802768674,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 23,
+                    "content": "As a UX designer, I'm all about `Figma` for collaboration. The real-time editing and comment features make remote design reviews so much smoother. @anthony.rodgers, have you used their new AI design assistant features?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1751814899821,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 8,
+                    "content": "Nice tools! In DevOps, we've been loving **Terraform** for infrastructure-as-code. It's transformed how we manage our cloud deployments. Consistent, reproducible environments are a game-changer.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1751824380927,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 14,
+                    "content": "Data engineering perspective here - I'm a big fan of **Apache Airflow** for workflow orchestration. Being able to visually map out complex data pipelines and handle dependencies programmatically has been incredible for our team's efficiency.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1751836676475,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 1,
+                    "content": "This is a fantastic thread! It's great to see how different teams are leveraging tools to boost productivity. @paul.carr, looks like your prompt sparked some really interesting insights about our internal workflows.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1751842917626,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 66,
+                    "content": "From a sales perspective, I've found `Gong.io` to be transformative. It records and analyzes sales calls, providing AI-driven insights into our communication strategies. Highly recommend for anyone in customer-facing roles!",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1751847148902,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 37,
+                    "content": "Loving the tool showcase! As CTO, I'm always interested in how teams are innovating their workflows. Quick question for everyone: How are you balancing tool adoption with avoiding 'tool fatigue'? It's a fine line between productivity and complexity.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1751853443742,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 12,
+                    "content": "@sarah.villegas Great point about tool fatigue. We try to have quarterly reviews of our product management toolkit, sunsetting tools that aren't providing clear value. It's about quality over quantity.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1751860162619,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 30,
+                    "content": "Wow, what an incredible thread! Looks like we have some serious productivity ninjas in our team. Thanks everyone for sharing - I've already bookmarked several of these tools to explore further. Keep innovating! 💡🔧",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1751865722500,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": false
+        }
+    ]
+}

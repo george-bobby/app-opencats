@@ -1,0 +1,1019 @@
+{
+  "user_data": {
+    "HR-EMP-00001": {
+      "email": "bobby.greene@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "slJQY6chSt",
+      "first_name": "Bobby",
+      "last_name": "Greene",
+      "designation": "Accounts Executive"
+    },
+    "HR-EMP-00002": {
+      "email": "samuel.ayala@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "hssSDrDZSE",
+      "first_name": "Samuel",
+      "last_name": "Ayala",
+      "designation": "Backend Developer"
+    },
+    "HR-EMP-00005": {
+      "email": "gregory.benton@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "GJdna1Ws9P",
+      "first_name": "Gregory",
+      "last_name": "Benton",
+      "designation": "Associate"
+    },
+    "HR-EMP-00006": {
+      "email": "tiffany.jimenez@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "bVQzZoTeJk",
+      "first_name": "Tiffany",
+      "last_name": "Jimenez",
+      "designation": "Business Analyst"
+    },
+    "HR-EMP-00007": {
+      "email": "jillian.le@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "kkbny8Ekeh",
+      "first_name": "Jillian",
+      "last_name": "Le",
+      "designation": "BD Executive"
+    },
+    "HR-EMP-00008": {
+      "email": "kimberly.christensen@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "1HhDlf9FGr",
+      "first_name": "Kimberly",
+      "last_name": "Christensen",
+      "designation": "BD Executive"
+    },
+    "HR-EMP-00012": {
+      "email": "kelly.rodriguez@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "FNDrmkkJo9",
+      "first_name": "Kelly",
+      "last_name": "Rodriguez",
+      "designation": "Administrative Assistant"
+    },
+    "HR-EMP-00013": {
+      "email": "kathleen.haynes@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "CFIbcrBMtM",
+      "first_name": "Kathleen",
+      "last_name": "Haynes",
+      "designation": "BD Executive"
+    },
+    "HR-EMP-00014": {
+      "email": "robert.hoover@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "dKNFKUkBou",
+      "first_name": "Robert",
+      "last_name": "Hoover",
+      "designation": "Analyst"
+    },
+    "HR-EMP-00015": {
+      "email": "elizabeth.morton@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "OzUXoQZLVy",
+      "first_name": "Elizabeth",
+      "last_name": "Morton",
+      "designation": "Accountant"
+    },
+    "HR-EMP-00016": {
+      "email": "jared.miller@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "Rzr0hHVvKA",
+      "first_name": "Jared",
+      "last_name": "Miller",
+      "designation": "Associate"
+    },
+    "HR-EMP-00017": {
+      "email": "leroy.pacheco@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "24fc3v6ozT",
+      "first_name": "Leroy",
+      "last_name": "Pacheco",
+      "designation": "Backend Developer"
+    },
+    "HR-EMP-00019": {
+      "email": "charles.rose@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "nQN0tUsgaS",
+      "first_name": "Charles",
+      "last_name": "Rose",
+      "designation": "Accounts Assistant"
+    },
+    "HR-EMP-00020": {
+      "email": "jessica.mendez@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "rCzLtiKT5H",
+      "first_name": "Jessica",
+      "last_name": "Mendez",
+      "designation": "Analyst"
+    },
+    "HR-EMP-00021": {
+      "email": "eric.dean@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "tjqDlzrgfv",
+      "first_name": "Eric",
+      "last_name": "Dean",
+      "designation": "Backend Developer"
+    },
+    "HR-EMP-00022": {
+      "email": "anthony.mcintyre@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "re1l8rg7Nh",
+      "first_name": "Anthony",
+      "last_name": "Mcintyre",
+      "designation": "Accounts Payable Clerk"
+    },
+    "HR-EMP-00025": {
+      "email": "tammy.humphrey@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "Dhmm2pZPy1",
+      "first_name": "Tammy",
+      "last_name": "Humphrey",
+      "designation": "BD Executive"
+    },
+    "HR-EMP-00026": {
+      "email": "john.gould@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "WtTBfIH6iG",
+      "first_name": "John",
+      "last_name": "Gould",
+      "designation": "Analyst"
+    },
+    "HR-EMP-00027": {
+      "email": "jennifer.bryant@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "TBSNXyhuNT",
+      "first_name": "Jennifer",
+      "last_name": "Bryant",
+      "designation": "Associate"
+    },
+    "HR-EMP-00031": {
+      "email": "curtis.hall@acmeinc.com",
+      "roles": [
+        "HR Manager",
+        "Employee",
+        "Expense Approver",
+        "Leave Approver"
+      ],
+      "password": "0vN9NhDZYq",
+      "first_name": "Curtis",
+      "last_name": "Hall",
+      "designation": "Chief Financial Officer"
+    },
+    "HR-EMP-00033": {
+      "email": "alex.le@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "YErDHuI89Y",
+      "first_name": "Alex",
+      "last_name": "Le",
+      "designation": "Cloud Engineer"
+    },
+    "HR-EMP-00035": {
+      "email": "angela.moyer@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "v568tNYEzB",
+      "first_name": "Angela",
+      "last_name": "Moyer",
+      "designation": "Cloud Consultant"
+    },
+    "HR-EMP-00038": {
+      "email": "kathleen.greer@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "EXoqeph81d",
+      "first_name": "Kathleen",
+      "last_name": "Greer",
+      "designation": "Cloud Consultant"
+    },
+    "HR-EMP-00039": {
+      "email": "nancy.smith@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "UMLOh1KRyG",
+      "first_name": "Nancy",
+      "last_name": "Smith",
+      "designation": "Accounts Assistant"
+    },
+    "HR-EMP-00040": {
+      "email": "john.cisneros@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "4XBNnBEnEo",
+      "first_name": "John",
+      "last_name": "Cisneros",
+      "designation": "Backend Developer"
+    },
+    "HR-EMP-00041": {
+      "email": "james.garza@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "yPgmnbUe1f",
+      "first_name": "James",
+      "last_name": "Garza",
+      "designation": "Accountant"
+    },
+    "HR-EMP-00044": {
+      "email": "michael.hendrix@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "LfNelnqfmT",
+      "first_name": "Michael",
+      "last_name": "Hendrix",
+      "designation": "Cloud Architect"
+    },
+    "HR-EMP-00045": {
+      "email": "jamie.daniels@acmeinc.com",
+      "roles": [
+        "HR Manager",
+        "Employee",
+        "Expense Approver",
+        "Leave Approver"
+      ],
+      "password": "szrlp8RmcA",
+      "first_name": "Jamie",
+      "last_name": "Daniels",
+      "designation": "Chief Technology Officer"
+    },
+    "HR-EMP-00046": {
+      "email": "lisa.johnson@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "V47zVOJMZh",
+      "first_name": "Lisa",
+      "last_name": "Johnson",
+      "designation": "Accounts Payable Clerk"
+    },
+    "HR-EMP-00047": {
+      "email": "anne.clark@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "uirF3OoB6F",
+      "first_name": "Anne",
+      "last_name": "Clark",
+      "designation": "Accounts Assistant"
+    },
+    "HR-EMP-00048": {
+      "email": "andrew.reyes@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "zfUzo2S7Tt",
+      "first_name": "Andrew",
+      "last_name": "Reyes",
+      "designation": "BD Executive"
+    },
+    "HR-EMP-00049": {
+      "email": "scott.michael@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "n4LW7aC61e",
+      "first_name": "Scott",
+      "last_name": "Michael",
+      "designation": "Accounts Assistant"
+    },
+    "HR-EMP-00053": {
+      "email": "shane.fox@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "TFNknUoF92",
+      "first_name": "Shane",
+      "last_name": "Fox",
+      "designation": "Associate"
+    },
+    "HR-EMP-00054": {
+      "email": "nicholas.hodges@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "eHYbni0f9n",
+      "first_name": "Nicholas",
+      "last_name": "Hodges",
+      "designation": "BD Executive"
+    },
+    "HR-EMP-00055": {
+      "email": "susan.parker@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "aQldPrZgTe",
+      "first_name": "Susan",
+      "last_name": "Parker",
+      "designation": "BD Executive"
+    },
+    "HR-EMP-00056": {
+      "email": "stephanie.thompson@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "mWOV00txTO",
+      "first_name": "Stephanie",
+      "last_name": "Thompson",
+      "designation": "Business Analyst"
+    },
+    "HR-EMP-00057": {
+      "email": "joseph.davis@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "Z22a3lP7jU",
+      "first_name": "Joseph",
+      "last_name": "Davis",
+      "designation": "Accounts Executive"
+    },
+    "HR-EMP-00060": {
+      "email": "samantha.boone@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "xWcHjreXG9",
+      "first_name": "Samantha",
+      "last_name": "Boone",
+      "designation": "Business Analyst"
+    },
+    "HR-EMP-00061": {
+      "email": "emily.chan@acmeinc.com",
+      "roles": [
+        "HR User",
+        "Employee",
+        "Expense Approver",
+        "Leave Approver"
+      ],
+      "password": "YjhRrcG3XL",
+      "first_name": "Emily",
+      "last_name": "Chan",
+      "designation": "Business Development Manager"
+    },
+    "HR-EMP-00063": {
+      "email": "nicole.edwards@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "k3uGlPpmkU",
+      "first_name": "Nicole",
+      "last_name": "Edwards",
+      "designation": "Cloud Engineer"
+    },
+    "HR-EMP-00064": {
+      "email": "sandra.tate@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "zuZIjeez5L",
+      "first_name": "Sandra",
+      "last_name": "Tate",
+      "designation": "Accounts Payable Clerk"
+    },
+    "HR-EMP-00065": {
+      "email": "laura.duarte@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "QG8mhzLUE5",
+      "first_name": "Laura",
+      "last_name": "Duarte",
+      "designation": "Accountant"
+    },
+    "HR-EMP-00066": {
+      "email": "james.chapman@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "FaHvCPD5jh",
+      "first_name": "James",
+      "last_name": "Chapman",
+      "designation": "Analyst"
+    },
+    "HR-EMP-00067": {
+      "email": "edward.lamb@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "ZkAjT7dwkt",
+      "first_name": "Edward",
+      "last_name": "Lamb",
+      "designation": "Associate"
+    },
+    "HR-EMP-00068": {
+      "email": "sarah.lopez@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "FVJgWLsrjt",
+      "first_name": "Sarah",
+      "last_name": "Lopez",
+      "designation": "Accounts Executive"
+    },
+    "HR-EMP-00069": {
+      "email": "nicole.scott@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "cijv55aNts",
+      "first_name": "Nicole",
+      "last_name": "Scott",
+      "designation": "Accounts Payable Clerk"
+    },
+    "HR-EMP-00071": {
+      "email": "kendra.white@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "AfHPVGSm2d",
+      "first_name": "Kendra",
+      "last_name": "White",
+      "designation": "Cloud Consultant"
+    },
+    "HR-EMP-00074": {
+      "email": "john.hardin@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "I48otPJRqT",
+      "first_name": "John",
+      "last_name": "Hardin",
+      "designation": "Accounts Executive"
+    },
+    "HR-EMP-00075": {
+      "email": "cody.cooper@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "61j8Dl7522",
+      "first_name": "Cody",
+      "last_name": "Cooper",
+      "designation": "Cloud Consultant"
+    },
+    "HR-EMP-00077": {
+      "email": "lynn.perry@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "ZQE9KSXe3Z",
+      "first_name": "Lynn",
+      "last_name": "Perry",
+      "designation": "Associate"
+    },
+    "HR-EMP-00078": {
+      "email": "alexandra.marshall@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "N0ECm0fVZf",
+      "first_name": "Alexandra",
+      "last_name": "Marshall",
+      "designation": "Cloud Architect"
+    },
+    "HR-EMP-00081": {
+      "email": "mary.hinton@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "3zRNUVHLaW",
+      "first_name": "Mary",
+      "last_name": "Hinton",
+      "designation": "Backend Developer"
+    },
+    "HR-EMP-00082": {
+      "email": "david.bender@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "gZ9W7n4ElG",
+      "first_name": "David",
+      "last_name": "Bender",
+      "designation": "Backend Developer"
+    },
+    "HR-EMP-00083": {
+      "email": "rodney.foster@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "c617fZkkzX",
+      "first_name": "Rodney",
+      "last_name": "Foster",
+      "designation": "Accounts Executive"
+    },
+    "HR-EMP-00085": {
+      "email": "jamie.gould@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "Wk5A1GCCwZ",
+      "first_name": "Jamie",
+      "last_name": "Gould",
+      "designation": "BD Executive"
+    },
+    "HR-EMP-00088": {
+      "email": "elizabeth.bass@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "LNsFhTCCuV",
+      "first_name": "Elizabeth",
+      "last_name": "Bass",
+      "designation": "Accounts Executive"
+    },
+    "HR-EMP-00093": {
+      "email": "janice.martinez@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "niVWkS47hS",
+      "first_name": "Janice",
+      "last_name": "Martinez",
+      "designation": "Business Analyst"
+    },
+    "HR-EMP-00094": {
+      "email": "kelly.smith@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "dhLwLhiApJ",
+      "first_name": "Kelly",
+      "last_name": "Smith",
+      "designation": "Accounts Assistant"
+    },
+    "HR-EMP-00095": {
+      "email": "michael.nguyen@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "MfpEUhZe7K",
+      "first_name": "Michael",
+      "last_name": "Nguyen",
+      "designation": "Business Analyst"
+    },
+    "HR-EMP-00097": {
+      "email": "jeffrey.clark@acmeinc.com",
+      "roles": [
+        "HR Manager",
+        "Employee",
+        "Expense Approver",
+        "Leave Approver"
+      ],
+      "password": "8vkeVvzblm",
+      "first_name": "Jeffrey",
+      "last_name": "Clark",
+      "designation": "Chief Operating Officer"
+    },
+    "HR-EMP-00098": {
+      "email": "alicia.williams@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "x05rT7dcvN",
+      "first_name": "Alicia",
+      "last_name": "Williams",
+      "designation": "Accounts Executive"
+    },
+    "HR-EMP-00100": {
+      "email": "ryan.garcia@acmeinc.com",
+      "roles": [
+        "HR Manager",
+        "Employee",
+        "Expense Approver",
+        "Leave Approver"
+      ],
+      "password": "I4SLr3Yzt0",
+      "first_name": "Ryan",
+      "last_name": "Garcia",
+      "designation": "Administrative Officer"
+    },
+    "HR-EMP-00101": {
+      "email": "shannon.miller@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "VZt2GVap9w",
+      "first_name": "Shannon",
+      "last_name": "Miller",
+      "designation": "Cloud Architect"
+    },
+    "HR-EMP-00102": {
+      "email": "michael.benson@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "3h1lNMBMok",
+      "first_name": "Michael",
+      "last_name": "Benson",
+      "designation": "Accounts Payable Clerk"
+    },
+    "HR-EMP-00103": {
+      "email": "amy.brooks@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "HQYFJvqlnI",
+      "first_name": "Amy",
+      "last_name": "Brooks",
+      "designation": "BD Executive"
+    },
+    "HR-EMP-00105": {
+      "email": "summer.griffin@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "3JaWuGDEU4",
+      "first_name": "Summer",
+      "last_name": "Griffin",
+      "designation": "Accounts Payable Clerk"
+    },
+    "HR-EMP-00106": {
+      "email": "brittany.ferguson@acmeinc.com",
+      "roles": [
+        "HR Manager",
+        "Employee",
+        "Expense Approver",
+        "Leave Approver"
+      ],
+      "password": "LPegeSbtzs",
+      "first_name": "Brittany",
+      "last_name": "Ferguson",
+      "designation": "Chief Executive Officer"
+    },
+    "HR-EMP-00111": {
+      "email": "michael.simmons@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "eBY8Y7MHA2",
+      "first_name": "Michael",
+      "last_name": "Simmons",
+      "designation": "Accounts Assistant"
+    },
+    "HR-EMP-00112": {
+      "email": "robert.walker@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "DiGrUB2tPr",
+      "first_name": "Robert",
+      "last_name": "Walker",
+      "designation": "Accounts Assistant"
+    },
+    "HR-EMP-00113": {
+      "email": "bethany.williams@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "WoB8t96wvO",
+      "first_name": "Bethany",
+      "last_name": "Williams",
+      "designation": "Associate"
+    },
+    "HR-EMP-00115": {
+      "email": "charles.welch@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "3qN9WzgRcS",
+      "first_name": "Charles",
+      "last_name": "Welch",
+      "designation": "Analyst"
+    },
+    "HR-EMP-00119": {
+      "email": "brian.kelly@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "Hqk0dIHXZX",
+      "first_name": "Brian",
+      "last_name": "Kelly",
+      "designation": "Cloud Engineer"
+    },
+    "HR-EMP-00122": {
+      "email": "cheryl.arroyo@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "wZOMFWiH74",
+      "first_name": "Cheryl",
+      "last_name": "Arroyo",
+      "designation": "Accounts Assistant"
+    },
+    "HR-EMP-00126": {
+      "email": "jack.rodgers@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "LROCJ1gD7n",
+      "first_name": "Jack",
+      "last_name": "Rodgers",
+      "designation": "Accounts Executive"
+    },
+    "HR-EMP-00128": {
+      "email": "terry.sullivan@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "IeyuS3Kc2L",
+      "first_name": "Terry",
+      "last_name": "Sullivan",
+      "designation": "Cloud Consultant"
+    },
+    "HR-EMP-00130": {
+      "email": "william.wiggins@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "i11tGowNCC",
+      "first_name": "William",
+      "last_name": "Wiggins",
+      "designation": "Accounts Assistant"
+    },
+    "HR-EMP-00131": {
+      "email": "melody.lee@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "dZJsUZQpsf",
+      "first_name": "Melody",
+      "last_name": "Lee",
+      "designation": "Business Analyst"
+    },
+    "HR-EMP-00134": {
+      "email": "amy.peters@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "s2ZkIiPz2C",
+      "first_name": "Amy",
+      "last_name": "Peters",
+      "designation": "Business Analyst"
+    },
+    "HR-EMP-00137": {
+      "email": "adam.cobb@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "hGFS16dTLk",
+      "first_name": "Adam",
+      "last_name": "Cobb",
+      "designation": "Accounts Executive"
+    },
+    "HR-EMP-00138": {
+      "email": "james.ford@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "x28RHH9cGG",
+      "first_name": "James",
+      "last_name": "Ford",
+      "designation": "Accounts Assistant"
+    },
+    "HR-EMP-00139": {
+      "email": "wendy.chung@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "uM2oFhDjck",
+      "first_name": "Wendy",
+      "last_name": "Chung",
+      "designation": "Cloud Architect"
+    },
+    "HR-EMP-00140": {
+      "email": "taylor.mejia@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "ON6422ltna",
+      "first_name": "Taylor",
+      "last_name": "Mejia",
+      "designation": "Associate"
+    },
+    "HR-EMP-00144": {
+      "email": "brian.nash@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "QUZIq3yu23",
+      "first_name": "Brian",
+      "last_name": "Nash",
+      "designation": "Backend Developer"
+    },
+    "HR-EMP-00146": {
+      "email": "evan.cervantes@acmeinc.com",
+      "roles": [
+        "HR User",
+        "Employee",
+        "Expense Approver",
+        "Leave Approver"
+      ],
+      "password": "lNUgDXnh0X",
+      "first_name": "Evan",
+      "last_name": "Cervantes",
+      "designation": "Accounts Manager"
+    },
+    "HR-EMP-00147": {
+      "email": "amanda.snyder@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "g1xwlNB5dd",
+      "first_name": "Amanda",
+      "last_name": "Snyder",
+      "designation": "Accounts Executive"
+    },
+    "HR-EMP-00148": {
+      "email": "julian.pugh@acmeinc.com",
+      "roles": [
+        "Employee"
+      ],
+      "password": "bj3864h51L",
+      "first_name": "Julian",
+      "last_name": "Pugh",
+      "designation": "Accounts Payable Clerk"
+    },
+    "HR-EMP-00091": {
+      "email": "matthew.reed@acmeinc.com",
+      "roles": [
+        "HR User",
+        "Employee",
+        "Expense Approver",
+        "Leave Approver"
+      ],
+      "password": "4D8K2Zs32k",
+      "first_name": "Matthew",
+      "last_name": "Reed",
+      "designation": "Accounts Manager"
+    },
+    "HR-EMP-00108": {
+      "email": "roger.kim@acmeinc.com",
+      "roles": [
+        "HR Manager",
+        "Employee",
+        "Expense Approver",
+        "Leave Approver"
+      ],
+      "password": "buvTlDNmeG",
+      "first_name": "Roger",
+      "last_name": "Kim",
+      "designation": "Chief Executive Officer"
+    },
+    "HR-EMP-00136": {
+      "email": "karen.ortiz@acmeinc.com",
+      "roles": [
+        "HR Manager",
+        "Employee",
+        "Expense Approver",
+        "Leave Approver"
+      ],
+      "password": "qoiaX7VwA3",
+      "first_name": "Karen",
+      "last_name": "Ortiz",
+      "designation": "Administrative Officer"
+    },
+    "HR-EMP-00058": {
+      "email": "juan.james@acmeinc.com",
+      "roles": [
+        "HR Manager",
+        "Employee",
+        "Expense Approver",
+        "Leave Approver"
+      ],
+      "password": "ndtntb9b6P",
+      "first_name": "Juan",
+      "last_name": "James",
+      "designation": "Chief Executive Officer"
+    },
+    "HR-EMP-00120": {
+      "email": "dennis.franklin@acmeinc.com",
+      "roles": [
+        "HR Manager",
+        "Employee",
+        "Expense Approver",
+        "Leave Approver"
+      ],
+      "password": "G4OZHCxgi0",
+      "first_name": "Dennis",
+      "last_name": "Franklin",
+      "designation": "Chief Financial Officer"
+    },
+    "HR-EMP-00135": {
+      "email": "mitchell.wiley@acmeinc.com",
+      "roles": [
+        "HR User",
+        "Employee",
+        "Expense Approver",
+        "Leave Approver"
+      ],
+      "password": "ieZDKwqJfu",
+      "first_name": "Mitchell",
+      "last_name": "Wiley",
+      "designation": "Business Development Manager"
+    },
+    "HR-EMP-00150": {
+      "email": "timothy.castro@acmeinc.com",
+      "roles": [
+        "HR User",
+        "Employee",
+        "Expense Approver",
+        "Leave Approver"
+      ],
+      "password": "3N87z7rEpr",
+      "first_name": "Timothy",
+      "last_name": "Castro",
+      "designation": "Accounts Manager"
+    },
+    "HR-EMP-00034": {
+      "email": "nicole.rodriguez@acmeinc.com",
+      "roles": [
+        "HR Manager",
+        "Employee",
+        "Expense Approver",
+        "Leave Approver"
+      ],
+      "password": "zDawCzqthV",
+      "first_name": "Nicole",
+      "last_name": "Rodriguez",
+      "designation": "Chief Technology Officer"
+    },
+    "HR-EMP-00087": {
+      "email": "jane.russell@acmeinc.com",
+      "roles": [
+        "HR User",
+        "Employee",
+        "Expense Approver",
+        "Leave Approver"
+      ],
+      "password": "vglgbYMmi6",
+      "first_name": "Jane",
+      "last_name": "Russell",
+      "designation": "Accounts Manager"
+    },
+    "HR-EMP-00099": {
+      "email": "terry.johnson@acmeinc.com",
+      "roles": [
+        "HR User",
+        "Employee",
+        "Expense Approver",
+        "Leave Approver"
+      ],
+      "password": "FsmDMNB4g7",
+      "first_name": "Terry",
+      "last_name": "Johnson",
+      "designation": "Business Development Manager"
+    }
+  },
+  "company_name": "Acme Inc.",
+  "theme_subject": "a IT outsourcing company",
+  "last_updated": "2025-06-04T17:15:52.436928",
+  "total_cached_employees": 96
+}

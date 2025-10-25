@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Saturday morning",
+    "hour_from": 10,
+    "hour_to": 12.5,
+    "dayofweek": "5",
+    "day_period": "morning"
+  },
+  {
+    "name": "Saturday break time",
+    "hour_from": 12.5,
+    "hour_to": 13,
+    "dayofweek": "5",
+    "day_period": "lunch",
+    "duration_days": 0
+  },
+  {
+    "name": "Saturday afternoon",
+    "hour_from": 13,
+    "hour_to": 16,
+    "dayofweek": "5",
+    "day_period": "afternoon"
+  },
+  {
+    "name": "Sunday morning",
+    "hour_from": 10,
+    "hour_to": 12.5,
+    "dayofweek": "6",
+    "day_period": "morning"
+  },
+  {
+    "name": "Sunday break time",
+    "hour_from": 12.5,
+    "hour_to": 13,
+    "dayofweek": "6",
+    "day_period": "lunch",
+    "duration_days": 0
+  },
+  {
+    "name": "Sunday afternoon",
+    "hour_from": 13,
+    "hour_to": 16,
+    "dayofweek": "6",
+    "day_period": "afternoon"
+  }
+]

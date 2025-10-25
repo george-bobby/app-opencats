@@ -1,0 +1,2534 @@
+{
+  "table_name": "Members",
+  "parent_workspace_name": "Internal Projects",
+  "parent_base_name": "Internal Projects",
+  "records": [
+    {
+      "fields": {
+        "Full Name": "Samantha Lee",
+        "Email": "samantha.lee@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2023-11-09",
+        "Total Logged Hours": 423.8,
+        "Availability": "Yes",
+        "Skills": [
+          "Content Strategy",
+          "SEO/SEM",
+          "Copywriting"
+        ],
+        "Location": "New York"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Jonathan Myers",
+        "Email": "jonathan.myers@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2020-07-16",
+        "Total Logged Hours": 2438.6,
+        "Availability": "No",
+        "Skills": [
+          "Marketing Automation",
+          "Customer Analytics",
+          "A/B Testing"
+        ],
+        "Location": "Los Angeles"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Emily Rodriguez",
+        "Email": "emily.rodriguez@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2022-01-24",
+        "Total Logged Hours": 1176.3,
+        "Availability": "Yes",
+        "Skills": [
+          "Social Media Marketing",
+          "SEO/SEM",
+          "Content Strategy"
+        ],
+        "Location": "Chicago"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Michael Nguyen",
+        "Email": "michael.nguyen@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Joined Date": "2019-09-05",
+        "Total Logged Hours": 5240.5,
+        "Availability": "Yes",
+        "Skills": [
+          "AI/Machine Learning",
+          "Data Analytics",
+          "Chatbot Development"
+        ],
+        "Location": "Seattle"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Laura Chen",
+        "Email": "laura.chen@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Joined Date": "2021-03-12",
+        "Total Logged Hours": 876.9,
+        "Availability": "No",
+        "Skills": [
+          "Email Marketing",
+          "Conversion Optimization",
+          "Creative Design"
+        ],
+        "Location": "Austin"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "David Patel",
+        "Email": "david.patel@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2020-11-30",
+        "Total Logged Hours": 3268.4,
+        "Availability": "Yes",
+        "Skills": [
+          "Programmatic Advertising",
+          "A/B Testing",
+          "Marketing Automation"
+        ],
+        "Location": "San Francisco"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Jessica Kim",
+        "Email": "jessica.kim@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2023-05-19",
+        "Total Logged Hours": 312.7,
+        "Availability": "Yes",
+        "Skills": [
+          "Content Strategy",
+          "Copywriting",
+          "SEO/SEM"
+        ],
+        "Location": "Denver"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Brian Thompson",
+        "Email": "brian.thompson@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2021-12-08",
+        "Total Logged Hours": 1420.2,
+        "Availability": "No",
+        "Skills": [
+          "Customer Analytics",
+          "Social Media Marketing",
+          "Email Marketing"
+        ],
+        "Location": "Boston"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Olivia Martinez",
+        "Email": "olivia.martinez@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2019-06-27",
+        "Total Logged Hours": 4985.7,
+        "Availability": "Yes",
+        "Skills": [
+          "Creative Design",
+          "Video Production",
+          "Conversion Optimization"
+        ],
+        "Location": "Miami"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Kevin Garcia",
+        "Email": "kevin.garcia@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Joined Date": "2022-09-15",
+        "Total Logged Hours": 1123.1,
+        "Availability": "No",
+        "Skills": [
+          "SEO/SEM",
+          "Social Media Marketing",
+          "Content Strategy"
+        ],
+        "Location": "Atlanta"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Elizabeth Wilson",
+        "Email": "elizabeth.wilson@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2021-07-03",
+        "Total Logged Hours": 2680.4,
+        "Availability": "Yes",
+        "Skills": [
+          "AI/Machine Learning",
+          "Data Analytics",
+          "Chatbot Development"
+        ],
+        "Location": "Philadelphia"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Christopher Brown",
+        "Email": "christopher.brown@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2023-04-22",
+        "Total Logged Hours": 589.2,
+        "Availability": "Yes",
+        "Skills": [
+          "Copywriting",
+          "Email Marketing",
+          "SEO/SEM"
+        ],
+        "Location": "Portland"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Amanda Scott",
+        "Email": "amanda.scott@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2019-12-14",
+        "Total Logged Hours": 4372.5,
+        "Availability": "No",
+        "Skills": [
+          "Marketing Automation",
+          "Programmatic Advertising",
+          "A/B Testing"
+        ],
+        "Location": "Houston"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Mark Davis",
+        "Email": "mark.davis@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2020-04-18",
+        "Total Logged Hours": 1345.7,
+        "Availability": "Yes",
+        "Skills": [
+          "Creative Design",
+          "Video Production",
+          "Conversion Optimization"
+        ],
+        "Location": "San Diego"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Rachel Evans",
+        "Email": "rachel.evans@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2023-01-30",
+        "Total Logged Hours": 472.3,
+        "Availability": "Yes",
+        "Skills": [
+          "Content Strategy",
+          "Social Media Marketing",
+          "Email Marketing"
+        ],
+        "Location": "Minneapolis"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Daniel Wright",
+        "Email": "daniel.wright@summittech.com",
+        "Role": "Manager",
+        "Status": "Suspended",
+        "Joined Date": "2018-08-09",
+        "Total Logged Hours": 6021.9,
+        "Availability": "No",
+        "Skills": [
+          "AI/Machine Learning",
+          "Data Analytics",
+          "Chatbot Development"
+        ],
+        "Location": "Detroit"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Jessica Turner",
+        "Email": "jessica.turner@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2022-05-04",
+        "Total Logged Hours": 958.4,
+        "Availability": "Yes",
+        "Skills": [
+          "Copywriting",
+          "SEO/SEM",
+          "Email Marketing"
+        ],
+        "Location": "Charlotte"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Matthew Harris",
+        "Email": "matthew.harris@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Joined Date": "2019-11-11",
+        "Total Logged Hours": 5824.7,
+        "Availability": "Yes",
+        "Skills": [
+          "Marketing Automation",
+          "Programmatic Advertising",
+          "A/B Testing"
+        ],
+        "Location": "Washington DC"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Hannah Collins",
+        "Email": "hannah.collins@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2021-09-29",
+        "Total Logged Hours": 1234.5,
+        "Availability": "Yes",
+        "Skills": [
+          "Creative Design",
+          "Video Production",
+          "Conversion Optimization"
+        ],
+        "Location": "Nashville"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Joshua Mitchell",
+        "Email": "joshua.mitchell@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2020-06-20",
+        "Total Logged Hours": 3418.1,
+        "Availability": "No",
+        "Skills": [
+          "Content Strategy",
+          "Social Media Marketing",
+          "Email Marketing"
+        ],
+        "Location": "Orlando"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Natalie Perez",
+        "Email": "natalie.perez@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2023-03-17",
+        "Total Logged Hours": 786.6,
+        "Availability": "Yes",
+        "Skills": [
+          "AI/Machine Learning",
+          "Data Analytics",
+          "Chatbot Development"
+        ],
+        "Location": "Sacramento"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ryan Carter",
+        "Email": "ryan.carter@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Joined Date": "2022-10-28",
+        "Total Logged Hours": 1107.8,
+        "Availability": "No",
+        "Skills": [
+          "SEO/SEM",
+          "Social Media Marketing",
+          "Content Strategy"
+        ],
+        "Location": "Columbus"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Megan Stewart",
+        "Email": "megan.stewart@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2019-04-01",
+        "Total Logged Hours": 4907.3,
+        "Availability": "Yes",
+        "Skills": [
+          "Creative Design",
+          "Video Production",
+          "Conversion Optimization"
+        ],
+        "Location": "Pittsburgh"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Brandon Lopez",
+        "Email": "brandon.lopez@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2021-11-25",
+        "Total Logged Hours": 1350.9,
+        "Availability": "Yes",
+        "Skills": [
+          "Content Strategy",
+          "Copywriting",
+          "SEO/SEM"
+        ],
+        "Location": "Las Vegas"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Sophia Reed",
+        "Email": "sophia.reed@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2023-02-08",
+        "Total Logged Hours": 668.4,
+        "Availability": "Yes",
+        "Skills": [
+          "Email Marketing",
+          "Marketing Automation",
+          "Programmatic Advertising"
+        ],
+        "Location": "Memphis"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Tyler Bell",
+        "Email": "tyler.bell@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2020-08-13",
+        "Total Logged Hours": 3642.7,
+        "Availability": "No",
+        "Skills": [
+          "AI/Machine Learning",
+          "Data Analytics",
+          "Customer Analytics"
+        ],
+        "Location": "Cleveland"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Victoria Murphy",
+        "Email": "victoria.murphy@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2021-05-21",
+        "Total Logged Hours": 1427.6,
+        "Availability": "Yes",
+        "Skills": [
+          "Social Media Marketing",
+          "SEO/SEM",
+          "Content Strategy"
+        ],
+        "Location": "Raleigh"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Kevin Hernandez",
+        "Email": "kevin.hernandez@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Joined Date": "2022-12-03",
+        "Total Logged Hours": 997.2,
+        "Availability": "No",
+        "Skills": [
+          "Customer Analytics",
+          "Chatbot Development",
+          "A/B Testing"
+        ],
+        "Location": "Salt Lake City"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Amber Foster",
+        "Email": "amber.foster@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2019-07-19",
+        "Total Logged Hours": 5162.4,
+        "Availability": "Yes",
+        "Skills": [
+          "Creative Design",
+          "Video Production",
+          "Conversion Optimization"
+        ],
+        "Location": "Indianapolis"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Eric Simmons",
+        "Email": "eric.simmons@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2020-03-22",
+        "Total Logged Hours": 1298.3,
+        "Availability": "Yes",
+        "Skills": [
+          "Content Strategy",
+          "Copywriting",
+          "SEO/SEM"
+        ],
+        "Location": "Milwaukee"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Linda Ward",
+        "Email": "linda.ward@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2023-06-09",
+        "Total Logged Hours": 354.7,
+        "Availability": "Yes",
+        "Skills": [
+          "Email Marketing",
+          "Marketing Automation",
+          "Programmatic Advertising"
+        ],
+        "Location": "Tulsa"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "James Russell",
+        "Email": "james.russell@summittech.com",
+        "Role": "Manager",
+        "Status": "Suspended",
+        "Joined Date": "2018-10-15",
+        "Total Logged Hours": 5723.1,
+        "Availability": "No",
+        "Skills": [
+          "AI/Machine Learning",
+          "Data Analytics",
+          "Chatbot Development"
+        ],
+        "Location": "Kansas City"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Emily Foster",
+        "Email": "emily.foster@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2022-06-01",
+        "Total Logged Hours": 1045.9,
+        "Availability": "Yes",
+        "Skills": [
+          "SEO/SEM",
+          "Social Media Marketing",
+          "Content Strategy"
+        ],
+        "Location": "Omaha"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Benjamin Bailey",
+        "Email": "benjamin.bailey@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Joined Date": "2019-08-23",
+        "Total Logged Hours": 5837.2,
+        "Availability": "Yes",
+        "Skills": [
+          "Marketing Automation",
+          "Programmatic Advertising",
+          "A/B Testing"
+        ],
+        "Location": "Virginia Beach"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Sophie Brooks",
+        "Email": "sophie.brooks@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2021-02-14",
+        "Total Logged Hours": 1189.7,
+        "Availability": "Yes",
+        "Skills": [
+          "Creative Design",
+          "Video Production",
+          "Conversion Optimization"
+        ],
+        "Location": "Atlanta"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ryan Edwards",
+        "Email": "ryan.edwards@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2020-12-05",
+        "Total Logged Hours": 3591.5,
+        "Availability": "No",
+        "Skills": [
+          "Content Strategy",
+          "Social Media Marketing",
+          "Email Marketing"
+        ],
+        "Location": "Orlando"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Isabella Coleman",
+        "Email": "isabella.coleman@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2023-07-18",
+        "Total Logged Hours": 705.4,
+        "Availability": "Yes",
+        "Skills": [
+          "AI/Machine Learning",
+          "Data Analytics",
+          "Chatbot Development"
+        ],
+        "Location": "Sacramento"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Nathan Price",
+        "Email": "nathan.price@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Joined Date": "2022-11-22",
+        "Total Logged Hours": 1203.6,
+        "Availability": "No",
+        "Skills": [
+          "SEO/SEM",
+          "Social Media Marketing",
+          "Content Strategy"
+        ],
+        "Location": "Columbus"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Mia Bailey",
+        "Email": "mia.bailey@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2019-05-06",
+        "Total Logged Hours": 4873.3,
+        "Availability": "Yes",
+        "Skills": [
+          "Creative Design",
+          "Video Production",
+          "Conversion Optimization"
+        ],
+        "Location": "Pittsburgh"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Jason Morris",
+        "Email": "jason.morris@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2022-01-13",
+        "Total Logged Hours": 1329.8,
+        "Availability": "Yes",
+        "Skills": [
+          "Content Strategy",
+          "Copywriting",
+          "SEO/SEM"
+        ],
+        "Location": "Las Vegas"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Natalie Jenkins",
+        "Email": "natalie.jenkins@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2023-04-27",
+        "Total Logged Hours": 652.9,
+        "Availability": "Yes",
+        "Skills": [
+          "Email Marketing",
+          "Marketing Automation",
+          "Programmatic Advertising"
+        ],
+        "Location": "Memphis"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ethan Perry",
+        "Email": "ethan.perry@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2020-09-08",
+        "Total Logged Hours": 3675.7,
+        "Availability": "No",
+        "Skills": [
+          "AI/Machine Learning",
+          "Data Analytics",
+          "Customer Analytics"
+        ],
+        "Location": "Cleveland"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Grace Barnes",
+        "Email": "grace.barnes@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2021-07-26",
+        "Total Logged Hours": 1415.2,
+        "Availability": "Yes",
+        "Skills": [
+          "Social Media Marketing",
+          "SEO/SEM",
+          "Content Strategy"
+        ],
+        "Location": "Raleigh"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Joshua Long",
+        "Email": "joshua.long@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Joined Date": "2022-12-12",
+        "Total Logged Hours": 1010.5,
+        "Availability": "No",
+        "Skills": [
+          "Customer Analytics",
+          "Chatbot Development",
+          "A/B Testing"
+        ],
+        "Location": "Salt Lake City"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Olivia Ross",
+        "Email": "olivia.ross@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2019-06-24",
+        "Total Logged Hours": 5150.7,
+        "Availability": "Yes",
+        "Skills": [
+          "Creative Design",
+          "Video Production",
+          "Conversion Optimization"
+        ],
+        "Location": "Indianapolis"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Aaron Hughes",
+        "Email": "aaron.hughes@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2020-04-11",
+        "Total Logged Hours": 1258.4,
+        "Availability": "Yes",
+        "Skills": [
+          "Content Strategy",
+          "Copywriting",
+          "SEO/SEM"
+        ],
+        "Location": "Milwaukee"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Chloe Howard",
+        "Email": "chloe.howard@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2023-06-05",
+        "Total Logged Hours": 367.9,
+        "Availability": "Yes",
+        "Skills": [
+          "Email Marketing",
+          "Marketing Automation",
+          "Programmatic Advertising"
+        ],
+        "Location": "Tulsa"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Brandon Kelley",
+        "Email": "brandon.kelley@summittech.com",
+        "Role": "Manager",
+        "Status": "Suspended",
+        "Joined Date": "2018-10-19",
+        "Total Logged Hours": 5741.8,
+        "Availability": "No",
+        "Skills": [
+          "AI/Machine Learning",
+          "Data Analytics",
+          "Chatbot Development"
+        ],
+        "Location": "Kansas City"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Madison Diaz",
+        "Email": "madison.diaz@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2022-06-07",
+        "Total Logged Hours": 1017.5,
+        "Availability": "Yes",
+        "Skills": [
+          "SEO/SEM",
+          "Social Media Marketing",
+          "Content Strategy"
+        ],
+        "Location": "Omaha"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Anthony Cooper",
+        "Email": "anthony.cooper@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Joined Date": "2019-08-29",
+        "Total Logged Hours": 5859.1,
+        "Availability": "Yes",
+        "Skills": [
+          "Marketing Automation",
+          "Programmatic Advertising",
+          "A/B Testing"
+        ],
+        "Location": "Virginia Beach"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Natalie Simmons",
+        "Email": "natalie.simmons@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2021-02-10",
+        "Total Logged Hours": 1193.9,
+        "Availability": "Yes",
+        "Skills": [
+          "Creative Design",
+          "Video Production",
+          "Conversion Optimization"
+        ],
+        "Location": "Atlanta"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Zachary Stewart",
+        "Email": "zachary.stewart@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2020-12-11",
+        "Total Logged Hours": 3579.3,
+        "Availability": "No",
+        "Skills": [
+          "Content Strategy",
+          "Social Media Marketing",
+          "Email Marketing"
+        ],
+        "Location": "Orlando"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Kaitlyn Flores",
+        "Email": "kaitlyn.flores@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2023-07-13",
+        "Total Logged Hours": 700.3,
+        "Availability": "Yes",
+        "Skills": [
+          "AI/Machine Learning",
+          "Data Analytics",
+          "Chatbot Development"
+        ],
+        "Location": "Sacramento"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Justin Ramirez",
+        "Email": "justin.ramirez@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Joined Date": "2022-11-29",
+        "Total Logged Hours": 1200.8,
+        "Availability": "No",
+        "Skills": [
+          "SEO/SEM",
+          "Social Media Marketing",
+          "Content Strategy"
+        ],
+        "Location": "Columbus"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Megan Howard",
+        "Email": "megan.howard@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2019-05-11",
+        "Total Logged Hours": 4846.7,
+        "Availability": "Yes",
+        "Skills": [
+          "Creative Design",
+          "Video Production",
+          "Conversion Optimization"
+        ],
+        "Location": "Pittsburgh"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Timothy Morgan",
+        "Email": "timothy.morgan@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2022-01-18",
+        "Total Logged Hours": 1315.6,
+        "Availability": "Yes",
+        "Skills": [
+          "Content Strategy",
+          "Copywriting",
+          "SEO/SEM"
+        ],
+        "Location": "Las Vegas"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Stephanie Jenkins",
+        "Email": "stephanie.jenkins@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2023-04-23",
+        "Total Logged Hours": 654.1,
+        "Availability": "Yes",
+        "Skills": [
+          "Email Marketing",
+          "Marketing Automation",
+          "Programmatic Advertising"
+        ],
+        "Location": "Memphis"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Brandon Ross",
+        "Email": "brandon.ross@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2020-09-04",
+        "Total Logged Hours": 3681.2,
+        "Availability": "No",
+        "Skills": [
+          "AI/Machine Learning",
+          "Data Analytics",
+          "Customer Analytics"
+        ],
+        "Location": "Cleveland"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Victoria Diaz",
+        "Email": "victoria.diaz@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2021-07-22",
+        "Total Logged Hours": 1430.9,
+        "Availability": "Yes",
+        "Skills": [
+          "Social Media Marketing",
+          "SEO/SEM",
+          "Content Strategy"
+        ],
+        "Location": "Raleigh"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Dylan Peterson",
+        "Email": "dylan.peterson@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Joined Date": "2022-12-09",
+        "Total Logged Hours": 1005.4,
+        "Availability": "No",
+        "Skills": [
+          "Customer Analytics",
+          "Chatbot Development",
+          "A/B Testing"
+        ],
+        "Location": "Salt Lake City"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Rachel Coleman",
+        "Email": "rachel.coleman@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2019-06-29",
+        "Total Logged Hours": 5171.5,
+        "Availability": "Yes",
+        "Skills": [
+          "Creative Design",
+          "Video Production",
+          "Conversion Optimization"
+        ],
+        "Location": "Indianapolis"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Mark Evans",
+        "Email": "mark.evans@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2020-04-15",
+        "Total Logged Hours": 1263.8,
+        "Availability": "Yes",
+        "Skills": [
+          "Content Strategy",
+          "Copywriting",
+          "SEO/SEM"
+        ],
+        "Location": "Milwaukee"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Emily Torres",
+        "Email": "emily.torres@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2023-06-07",
+        "Total Logged Hours": 370.9,
+        "Availability": "Yes",
+        "Skills": [
+          "Email Marketing",
+          "Marketing Automation",
+          "Programmatic Advertising"
+        ],
+        "Location": "Tulsa"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "James Bryant",
+        "Email": "james.bryant@summittech.com",
+        "Role": "Manager",
+        "Status": "Suspended",
+        "Joined Date": "2018-10-21",
+        "Total Logged Hours": 5735.2,
+        "Availability": "No",
+        "Skills": [
+          "AI/Machine Learning",
+          "Data Analytics",
+          "Chatbot Development"
+        ],
+        "Location": "Kansas City"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Sophia Hughes",
+        "Email": "sophia.hughes@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2022-06-05",
+        "Total Logged Hours": 1020.7,
+        "Availability": "Yes",
+        "Skills": [
+          "SEO/SEM",
+          "Social Media Marketing",
+          "Content Strategy"
+        ],
+        "Location": "Omaha"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "David Sanders",
+        "Email": "david.sanders@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Joined Date": "2019-08-27",
+        "Total Logged Hours": 5846.8,
+        "Availability": "Yes",
+        "Skills": [
+          "Marketing Automation",
+          "Programmatic Advertising",
+          "A/B Testing"
+        ],
+        "Location": "Virginia Beach"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Olivia Diaz",
+        "Email": "olivia.diaz@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2021-02-12",
+        "Total Logged Hours": 1190.3,
+        "Availability": "Yes",
+        "Skills": [
+          "Creative Design",
+          "Video Production",
+          "Conversion Optimization"
+        ],
+        "Location": "Atlanta"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Brian Price",
+        "Email": "brian.price@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2020-12-09",
+        "Total Logged Hours": 3584.9,
+        "Availability": "No",
+        "Skills": [
+          "Content Strategy",
+          "Social Media Marketing",
+          "Email Marketing"
+        ],
+        "Location": "Orlando"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Julia Perry",
+        "Email": "julia.perry@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2023-07-16",
+        "Total Logged Hours": 699.1,
+        "Availability": "Yes",
+        "Skills": [
+          "AI/Machine Learning",
+          "Data Analytics",
+          "Chatbot Development"
+        ],
+        "Location": "Sacramento"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ethan Phillips",
+        "Email": "ethan.phillips@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Joined Date": "2022-11-27",
+        "Total Logged Hours": 1205.3,
+        "Availability": "No",
+        "Skills": [
+          "SEO/SEM",
+          "Social Media Marketing",
+          "Content Strategy"
+        ],
+        "Location": "Columbus"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Madison Cooper",
+        "Email": "madison.cooper@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2019-05-09",
+        "Total Logged Hours": 4854.1,
+        "Availability": "Yes",
+        "Skills": [
+          "Creative Design",
+          "Video Production",
+          "Conversion Optimization"
+        ],
+        "Location": "Pittsburgh"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ryan Howard",
+        "Email": "ryan.howard@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2022-01-16",
+        "Total Logged Hours": 1320.4,
+        "Availability": "Yes",
+        "Skills": [
+          "Content Strategy",
+          "Copywriting",
+          "SEO/SEM"
+        ],
+        "Location": "Las Vegas"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Samantha Stewart",
+        "Email": "samantha.stewart@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2023-04-25",
+        "Total Logged Hours": 656.7,
+        "Availability": "Yes",
+        "Skills": [
+          "Email Marketing",
+          "Marketing Automation",
+          "Programmatic Advertising"
+        ],
+        "Location": "Memphis"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Kyle Peterson",
+        "Email": "kyle.peterson@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2020-09-10",
+        "Total Logged Hours": 3678.3,
+        "Availability": "No",
+        "Skills": [
+          "AI/Machine Learning",
+          "Data Analytics",
+          "Customer Analytics"
+        ],
+        "Location": "Cleveland"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Emma Richardson",
+        "Email": "emma.richardson@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2021-07-24",
+        "Total Logged Hours": 1432.8,
+        "Availability": "Yes",
+        "Skills": [
+          "Social Media Marketing",
+          "SEO/SEM",
+          "Content Strategy"
+        ],
+        "Location": "Raleigh"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Benjamin Cox",
+        "Email": "benjamin.cox@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Joined Date": "2022-12-07",
+        "Total Logged Hours": 1008.1,
+        "Availability": "No",
+        "Skills": [
+          "Customer Analytics",
+          "Chatbot Development",
+          "A/B Testing"
+        ],
+        "Location": "Salt Lake City"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Isabella Howard",
+        "Email": "isabella.howard@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2019-06-27",
+        "Total Logged Hours": 5167.9,
+        "Availability": "Yes",
+        "Skills": [
+          "Creative Design",
+          "Video Production",
+          "Conversion Optimization"
+        ],
+        "Location": "Indianapolis"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Jacob Ward",
+        "Email": "jacob.ward@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2020-04-13",
+        "Total Logged Hours": 1260.6,
+        "Availability": "Yes",
+        "Skills": [
+          "Content Strategy",
+          "Copywriting",
+          "SEO/SEM"
+        ],
+        "Location": "Milwaukee"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ella Torres",
+        "Email": "ella.torres@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2023-06-08",
+        "Total Logged Hours": 368.5,
+        "Availability": "Yes",
+        "Skills": [
+          "Email Marketing",
+          "Marketing Automation",
+          "Programmatic Advertising"
+        ],
+        "Location": "Tulsa"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Nathan Price",
+        "Email": "nathan.price@summittech.com",
+        "Role": "Manager",
+        "Status": "Suspended",
+        "Joined Date": "2018-10-17",
+        "Total Logged Hours": 5746.4,
+        "Availability": "No",
+        "Skills": [
+          "AI/Machine Learning",
+          "Data Analytics",
+          "Chatbot Development"
+        ],
+        "Location": "Kansas City"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Grace Brooks",
+        "Email": "grace.brooks@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2022-06-09",
+        "Total Logged Hours": 1019.3,
+        "Availability": "Yes",
+        "Skills": [
+          "SEO/SEM",
+          "Social Media Marketing",
+          "Content Strategy"
+        ],
+        "Location": "Omaha"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Adam Perez",
+        "Email": "adam.perez@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Joined Date": "2019-08-25",
+        "Total Logged Hours": 5863.7,
+        "Availability": "Yes",
+        "Skills": [
+          "Marketing Automation",
+          "Programmatic Advertising",
+          "A/B Testing"
+        ],
+        "Location": "Virginia Beach"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Jessica Ross",
+        "Email": "jessica.ross@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2021-02-15",
+        "Total Logged Hours": 1196.4,
+        "Availability": "Yes",
+        "Skills": [
+          "Creative Design",
+          "Video Production",
+          "Conversion Optimization"
+        ],
+        "Location": "Atlanta"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Kevin Young",
+        "Email": "kevin.young@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2020-12-07",
+        "Total Logged Hours": 3587.6,
+        "Availability": "No",
+        "Skills": [
+          "Content Strategy",
+          "Social Media Marketing",
+          "Email Marketing"
+        ],
+        "Location": "Orlando"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Mia Evans",
+        "Email": "mia.evans@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2023-07-15",
+        "Total Logged Hours": 701.7,
+        "Availability": "Yes",
+        "Skills": [
+          "AI/Machine Learning",
+          "Data Analytics",
+          "Chatbot Development"
+        ],
+        "Location": "Sacramento"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Jacob Martinez",
+        "Email": "jacob.martinez@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Joined Date": "2022-11-25",
+        "Total Logged Hours": 1206.9,
+        "Availability": "No",
+        "Skills": [
+          "SEO/SEM",
+          "Social Media Marketing",
+          "Content Strategy"
+        ],
+        "Location": "Columbus"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Emma Collins",
+        "Email": "emma.collins@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2019-05-07",
+        "Total Logged Hours": 4860.3,
+        "Availability": "Yes",
+        "Skills": [
+          "Creative Design",
+          "Video Production",
+          "Conversion Optimization"
+        ],
+        "Location": "Pittsburgh"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Liam Reed",
+        "Email": "liam.reed@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2022-01-14",
+        "Total Logged Hours": 1316.7,
+        "Availability": "Yes",
+        "Skills": [
+          "Content Strategy",
+          "Copywriting",
+          "SEO/SEM"
+        ],
+        "Location": "Las Vegas"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Sophia Rivera",
+        "Email": "sophia.rivera@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2023-04-21",
+        "Total Logged Hours": 657.9,
+        "Availability": "Yes",
+        "Skills": [
+          "Email Marketing",
+          "Marketing Automation",
+          "Programmatic Advertising"
+        ],
+        "Location": "Memphis"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Michael Howard",
+        "Email": "michael.howard@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2020-09-12",
+        "Total Logged Hours": 3683.1,
+        "Availability": "No",
+        "Skills": [
+          "AI/Machine Learning",
+          "Data Analytics",
+          "Customer Analytics"
+        ],
+        "Location": "Cleveland"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ava Thompson",
+        "Email": "ava.thompson@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2021-07-20",
+        "Total Logged Hours": 1434.5,
+        "Availability": "Yes",
+        "Skills": [
+          "Social Media Marketing",
+          "SEO/SEM",
+          "Content Strategy"
+        ],
+        "Location": "Raleigh"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "William Hughes",
+        "Email": "william.hughes@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Joined Date": "2022-12-05",
+        "Total Logged Hours": 1009.7,
+        "Availability": "No",
+        "Skills": [
+          "Customer Analytics",
+          "Chatbot Development",
+          "A/B Testing"
+        ],
+        "Location": "Salt Lake City"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Emily Richardson",
+        "Email": "emily.richardson@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2019-06-25",
+        "Total Logged Hours": 5169.2,
+        "Availability": "Yes",
+        "Skills": [
+          "Creative Design",
+          "Video Production",
+          "Conversion Optimization"
+        ],
+        "Location": "Indianapolis"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "David Jenkins",
+        "Email": "david.jenkins@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2020-04-17",
+        "Total Logged Hours": 1262.2,
+        "Availability": "Yes",
+        "Skills": [
+          "Content Strategy",
+          "Copywriting",
+          "SEO/SEM"
+        ],
+        "Location": "Milwaukee"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Sophia Price",
+        "Email": "sophia.price@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2023-06-10",
+        "Total Logged Hours": 369.7,
+        "Availability": "Yes",
+        "Skills": [
+          "Email Marketing",
+          "Marketing Automation",
+          "Programmatic Advertising"
+        ],
+        "Location": "Tulsa"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Daniel Bailey",
+        "Email": "daniel.bailey@summittech.com",
+        "Role": "Manager",
+        "Status": "Suspended",
+        "Joined Date": "2018-10-20",
+        "Total Logged Hours": 5737.6,
+        "Availability": "No",
+        "Skills": [
+          "AI/Machine Learning",
+          "Data Analytics",
+          "Chatbot Development"
+        ],
+        "Location": "Kansas City"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Elena Martinez",
+        "Email": "elena.martinez@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2023-08-14",
+        "Total Logged Hours": 1897.4,
+        "Availability": "Yes",
+        "Skills": [
+          "SEO/SEM",
+          "Content Strategy",
+          "Email Marketing"
+        ],
+        "Location": "Austin, TX"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Marcus Lee",
+        "Email": "marcus.lee@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2020-02-20",
+        "Total Logged Hours": 7325.8,
+        "Availability": "No",
+        "Skills": [
+          "AI/Machine Learning",
+          "Data Analytics",
+          "A/B Testing"
+        ],
+        "Location": "San Francisco, CA"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Sophia Kim",
+        "Email": "sophia.kim@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2022-11-07",
+        "Total Logged Hours": 1450.3,
+        "Availability": "Yes",
+        "Skills": [
+          "Social Media Marketing",
+          "Copywriting",
+          "Creative Design"
+        ],
+        "Location": "Seattle, WA"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "David Johnson",
+        "Email": "david.johnson@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Joined Date": "2019-12-01",
+        "Total Logged Hours": 8450.1,
+        "Availability": "Yes",
+        "Skills": [
+          "Marketing Automation",
+          "Programmatic Advertising",
+          "Customer Analytics"
+        ],
+        "Location": "New York, NY"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Nina Patel",
+        "Email": "nina.patel@summittech.com",
+        "Role": "Manager",
+        "Status": "Suspended",
+        "Joined Date": "2021-05-15",
+        "Total Logged Hours": 3240.0,
+        "Availability": "No",
+        "Skills": [
+          "SEO/SEM",
+          "Conversion Optimization",
+          "Email Marketing"
+        ],
+        "Location": "Chicago, IL"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Liam O'Connor",
+        "Email": "liam.oconnor@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2024-01-30",
+        "Total Logged Hours": 520.6,
+        "Availability": "Yes",
+        "Skills": [
+          "Chatbot Development",
+          "AI/Machine Learning"
+        ],
+        "Location": "Boston, MA"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Isabella Garcia",
+        "Email": "isabella.garcia@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2023-03-11",
+        "Total Logged Hours": 1320.2,
+        "Availability": "Yes",
+        "Skills": [
+          "Content Strategy",
+          "Social Media Marketing",
+          "Copywriting"
+        ],
+        "Location": "Denver, CO"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ethan Wright",
+        "Email": "ethan.wright@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2020-09-25",
+        "Total Logged Hours": 6789.5,
+        "Availability": "No",
+        "Skills": [
+          "Data Analytics",
+          "AI/Machine Learning",
+          "A/B Testing"
+        ],
+        "Location": "Atlanta, GA"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Maya Chen",
+        "Email": "maya.chen@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2022-07-18",
+        "Total Logged Hours": 1780.0,
+        "Availability": "Yes",
+        "Skills": [
+          "Creative Design",
+          "Video Production",
+          "Copywriting"
+        ],
+        "Location": "Portland, OR"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Oliver Smith",
+        "Email": "oliver.smith@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Joined Date": "2018-11-05",
+        "Total Logged Hours": 9800.9,
+        "Availability": "Yes",
+        "Skills": [
+          "Marketing Automation",
+          "Programmatic Advertising",
+          "Customer Analytics"
+        ],
+        "Location": "New York, NY"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ava Brown",
+        "Email": "ava.brown@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2023-06-15",
+        "Total Logged Hours": 1020.7,
+        "Availability": "Yes",
+        "Skills": [
+          "SEO/SEM",
+          "Content Strategy"
+        ],
+        "Location": "Miami, FL"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Noah Wilson",
+        "Email": "noah.wilson@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2019-01-22",
+        "Total Logged Hours": 7550.4,
+        "Availability": "No",
+        "Skills": [
+          "A/B Testing",
+          "Conversion Optimization",
+          "Data Analytics"
+        ],
+        "Location": "Dallas, TX"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Emma Davis",
+        "Email": "emma.davis@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Joined Date": "2021-10-10",
+        "Total Logged Hours": 2950.1,
+        "Availability": "No",
+        "Skills": [
+          "Social Media Marketing",
+          "Email Marketing"
+        ],
+        "Location": "San Diego, CA"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "James Thompson",
+        "Email": "james.thompson@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2022-04-27",
+        "Total Logged Hours": 1625.0,
+        "Availability": "Yes",
+        "Skills": [
+          "Chatbot Development",
+          "AI/Machine Learning"
+        ],
+        "Location": "Philadelphia, PA"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Amelia Robinson",
+        "Email": "amelia.robinson@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2019-07-09",
+        "Total Logged Hours": 6050.7,
+        "Availability": "No",
+        "Skills": [
+          "Marketing Automation",
+          "Customer Analytics",
+          "Programmatic Advertising"
+        ],
+        "Location": "Houston, TX"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Lucas Martinez",
+        "Email": "lucas.martinez@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2024-03-21",
+        "Total Logged Hours": 870.3,
+        "Availability": "Yes",
+        "Skills": [
+          "Copywriting",
+          "Creative Design",
+          "Video Production"
+        ],
+        "Location": "Austin, TX"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Mila Evans",
+        "Email": "mila.evans@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2023-12-04",
+        "Total Logged Hours": 640.0,
+        "Availability": "Yes",
+        "Skills": [
+          "Content Strategy",
+          "SEO/SEM"
+        ],
+        "Location": "Raleigh, NC"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Benjamin Scott",
+        "Email": "benjamin.scott@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Joined Date": "2017-08-13",
+        "Total Logged Hours": 9975.6,
+        "Availability": "Yes",
+        "Skills": [
+          "Data Analytics",
+          "A/B Testing",
+          "Conversion Optimization"
+        ],
+        "Location": "New York, NY"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Chloe Walker",
+        "Email": "chloe.walker@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2021-11-30",
+        "Total Logged Hours": 4321.5,
+        "Availability": "No",
+        "Skills": [
+          "Social Media Marketing",
+          "Email Marketing",
+          "Conversion Optimization"
+        ],
+        "Location": "Orlando, FL"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Jack Young",
+        "Email": "jack.young@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2022-05-17",
+        "Total Logged Hours": 1500.8,
+        "Availability": "Yes",
+        "Skills": [
+          "Chatbot Development",
+          "AI/Machine Learning",
+          "Programmatic Advertising"
+        ],
+        "Location": "Salt Lake City, UT"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Grace Hernandez",
+        "Email": "grace.hernandez@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2023-02-28",
+        "Total Logged Hours": 1250.0,
+        "Availability": "Yes",
+        "Skills": [
+          "Content Strategy",
+          "Creative Design",
+          "Copywriting"
+        ],
+        "Location": "Sacramento, CA"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Henry King",
+        "Email": "henry.king@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2020-08-08",
+        "Total Logged Hours": 6850.9,
+        "Availability": "No",
+        "Skills": [
+          "Marketing Automation",
+          "Customer Analytics"
+        ],
+        "Location": "Nashville, TN"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ella Martinez",
+        "Email": "ella.martinez2@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Joined Date": "2022-10-19",
+        "Total Logged Hours": 1100.5,
+        "Availability": "No",
+        "Skills": [
+          "SEO/SEM",
+          "Email Marketing"
+        ],
+        "Location": "Columbus, OH"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Michael Perez",
+        "Email": "michael.perez@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2023-04-13",
+        "Total Logged Hours": 1430.7,
+        "Availability": "Yes",
+        "Skills": [
+          "AI/Machine Learning",
+          "Data Analytics"
+        ],
+        "Location": "Las Vegas, NV"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Lily Bennett",
+        "Email": "lily.bennett@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2019-03-25",
+        "Total Logged Hours": 7505.3,
+        "Availability": "No",
+        "Skills": [
+          "A/B Testing",
+          "Conversion Optimization",
+          "Marketing Automation"
+        ],
+        "Location": "Detroit, MI"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Jacob Morris",
+        "Email": "jacob.morris@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2024-06-01",
+        "Total Logged Hours": 470.2,
+        "Availability": "Yes",
+        "Skills": [
+          "Chatbot Development",
+          "Programmatic Advertising"
+        ],
+        "Location": "Minneapolis, MN"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Zoe Carter",
+        "Email": "zoe.carter@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2021-09-14",
+        "Total Logged Hours": 2100.4,
+        "Availability": "Yes",
+        "Skills": [
+          "Creative Design",
+          "Video Production",
+          "Copywriting"
+        ],
+        "Location": "Portland, ME"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Samuel Green",
+        "Email": "samuel.green@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Joined Date": "2018-05-29",
+        "Total Logged Hours": 9000.0,
+        "Availability": "Yes",
+        "Skills": [
+          "Marketing Automation",
+          "Customer Analytics"
+        ],
+        "Location": "New York, NY"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Victoria Adams",
+        "Email": "victoria.adams@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2020-12-02",
+        "Total Logged Hours": 5600.9,
+        "Availability": "No",
+        "Skills": [
+          "SEO/SEM",
+          "Social Media Marketing",
+          "Email Marketing"
+        ],
+        "Location": "San Jose, CA"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Eli Turner",
+        "Email": "eli.turner@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2023-07-22",
+        "Total Logged Hours": 980.0,
+        "Availability": "Yes",
+        "Skills": [
+          "AI/Machine Learning",
+          "Data Analytics"
+        ],
+        "Location": "Memphis, TN"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Natalie Collins",
+        "Email": "natalie.collins@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2022-01-11",
+        "Total Logged Hours": 1765.9,
+        "Availability": "Yes",
+        "Skills": [
+          "Content Strategy",
+          "Copywriting",
+          "SEO/SEM"
+        ],
+        "Location": "Charlotte, NC"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Owen Scott",
+        "Email": "owen.scott@summittech.com",
+        "Role": "Manager",
+        "Status": "Suspended",
+        "Joined Date": "2019-06-17",
+        "Total Logged Hours": 6000.7,
+        "Availability": "No",
+        "Skills": [
+          "Marketing Automation",
+          "Customer Analytics"
+        ],
+        "Location": "Indianapolis, IN"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Madison Hughes",
+        "Email": "madison.hughes@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2024-04-10",
+        "Total Logged Hours": 765.3,
+        "Availability": "Yes",
+        "Skills": [
+          "Creative Design",
+          "Video Production"
+        ],
+        "Location": "Columbia, SC"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Leo Ramirez",
+        "Email": "leo.ramirez@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2023-09-25",
+        "Total Logged Hours": 1190.8,
+        "Availability": "Yes",
+        "Skills": [
+          "Content Strategy",
+          "Social Media Marketing"
+        ],
+        "Location": "San Antonio, TX"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Hannah Foster",
+        "Email": "hannah.foster@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2021-03-03",
+        "Total Logged Hours": 5200.1,
+        "Availability": "No",
+        "Skills": [
+          "A/B Testing",
+          "Conversion Optimization",
+          "Marketing Automation"
+        ],
+        "Location": "Milwaukee, WI"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Alexander Brooks",
+        "Email": "alexander.brooks@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2022-08-20",
+        "Total Logged Hours": 1490.0,
+        "Availability": "Yes",
+        "Skills": [
+          "Chatbot Development",
+          "AI/Machine Learning"
+        ],
+        "Location": "Louisville, KY"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Scarlett Bell",
+        "Email": "scarlett.bell@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2024-02-14",
+        "Total Logged Hours": 580.5,
+        "Availability": "Yes",
+        "Skills": [
+          "Copywriting",
+          "Creative Design"
+        ],
+        "Location": "Tampa, FL"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Daniel Richardson",
+        "Email": "daniel.richardson@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2020-11-28",
+        "Total Logged Hours": 6845.6,
+        "Availability": "No",
+        "Skills": [
+          "Marketing Automation",
+          "Programmatic Advertising",
+          "Customer Analytics"
+        ],
+        "Location": "Cleveland, OH"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Victoria Simmons",
+        "Email": "victoria.simmons@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2023-01-06",
+        "Total Logged Hours": 1300.3,
+        "Availability": "Yes",
+        "Skills": [
+          "SEO/SEM",
+          "Email Marketing",
+          "Social Media Marketing"
+        ],
+        "Location": "Reno, NV"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Gabriel Torres",
+        "Email": "gabriel.torres@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Joined Date": "2017-10-21",
+        "Total Logged Hours": 9870.2,
+        "Availability": "Yes",
+        "Skills": [
+          "AI/Machine Learning",
+          "Data Analytics",
+          "A/B Testing"
+        ],
+        "Location": "New York, NY"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Luna Murphy",
+        "Email": "luna.murphy@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Joined Date": "2022-06-30",
+        "Total Logged Hours": 1180.7,
+        "Availability": "No",
+        "Skills": [
+          "Content Strategy",
+          "Creative Design"
+        ],
+        "Location": "Nashville, TN"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "William Clark",
+        "Email": "william.clark@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2023-10-12",
+        "Total Logged Hours": 980.4,
+        "Availability": "Yes",
+        "Skills": [
+          "Programmatic Advertising",
+          "Chatbot Development"
+        ],
+        "Location": "Phoenix, AZ"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Zara Evans",
+        "Email": "zara.evans@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2019-04-18",
+        "Total Logged Hours": 6700.0,
+        "Availability": "No",
+        "Skills": [
+          "Marketing Automation",
+          "Customer Analytics",
+          "Conversion Optimization"
+        ],
+        "Location": "Seattle, WA"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Leo Ward",
+        "Email": "leo.ward@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2024-05-05",
+        "Total Logged Hours": 499.1,
+        "Availability": "Yes",
+        "Skills": [
+          "Copywriting",
+          "SEO/SEM"
+        ],
+        "Location": "Portland, OR"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Emily Foster",
+        "Email": "emily.foster@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2023-07-29",
+        "Total Logged Hours": 1120.8,
+        "Availability": "Yes",
+        "Skills": [
+          "Content Strategy",
+          "Social Media Marketing",
+          "Email Marketing"
+        ],
+        "Location": "Orlando, FL"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Lucas Rivera",
+        "Email": "lucas.rivera@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2020-01-16",
+        "Total Logged Hours": 7200.4,
+        "Availability": "No",
+        "Skills": [
+          "A/B Testing",
+          "Data Analytics",
+          "Marketing Automation"
+        ],
+        "Location": "Detroit, MI"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Sofia Wood",
+        "Email": "sofia.wood@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2022-09-09",
+        "Total Logged Hours": 1590.0,
+        "Availability": "Yes",
+        "Skills": [
+          "Creative Design",
+          "Video Production"
+        ],
+        "Location": "Columbus, OH"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Mason Bell",
+        "Email": "mason.bell@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2023-11-20",
+        "Total Logged Hours": 740.6,
+        "Availability": "Yes",
+        "Skills": [
+          "Chatbot Development",
+          "AI/Machine Learning"
+        ],
+        "Location": "Austin, TX"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ella King",
+        "Email": "ella.king2@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2019-02-10",
+        "Total Logged Hours": 6050.2,
+        "Availability": "No",
+        "Skills": [
+          "Marketing Automation",
+          "Programmatic Advertising"
+        ],
+        "Location": "Chicago, IL"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Jacob Lee",
+        "Email": "jacob.lee@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2024-03-13",
+        "Total Logged Hours": 510.3,
+        "Availability": "Yes",
+        "Skills": [
+          "SEO/SEM",
+          "Email Marketing",
+          "Content Strategy"
+        ],
+        "Location": "San Francisco, CA"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Isabella Parker",
+        "Email": "isabella.parker@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Joined Date": "2022-12-25",
+        "Total Logged Hours": 1400.0,
+        "Availability": "Yes",
+        "Skills": [
+          "Copywriting",
+          "Creative Design",
+          "Social Media Marketing"
+        ],
+        "Location": "Denver, CO"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ethan Carter",
+        "Email": "ethan.carter@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Joined Date": "2018-09-07",
+        "Total Logged Hours": 9200.8,
+        "Availability": "Yes",
+        "Skills": [
+          "Marketing Automation",
+          "Customer Analytics",
+          "AI/Machine Learning"
+        ],
+        "Location": "New York, NY"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Lily Mitchell",
+        "Email": "lily.mitchell@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Joined Date": "2021-08-23",
+        "Total Logged Hours": 4800.4,
+        "Availability": "No",
+        "Skills": [
+          "Data Analytics",
+          "SEO/SEM",
+          "Conversion Optimization"
+        ],
+        "Location": "Boston, MA"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Daniel Evans",
+        "Email": "daniel.evans@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Joined Date": "2023-05-01",
+        "Total Logged Hours": 1000.2,
+        "Availability": "No",
+        "Skills": [
+          "Chatbot Development",
+          "Programmatic Advertising"
+        ],
+        "Location": "Las Vegas, NV"
+      }
+    }
+  ]
+}

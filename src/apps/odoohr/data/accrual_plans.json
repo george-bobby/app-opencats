@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Annual PTO - Monthly Accrual",
+    "milestones": [
+      {
+        "added_value_type": "day",
+        "added_value": 1.67,
+        "frequency": "monthly",
+        "first_day": 1,
+        "start_type": "day",
+        "start_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Sick Leave Accrual",
+    "milestones": [
+      {
+        "added_value_type": "day",
+        "added_value": 0.5,
+        "frequency": "monthly",
+        "cap_accrued_time_yearly": true,
+        "maximum_leave_yearly": 6
+      }
+    ]
+  },
+  {
+    "name": "Senior Employee PTO",
+    "milestones": [
+      {
+        "added_value_type": "day",
+        "added_value": 1.67,
+        "frequency": "monthly",
+        "cap_accrued_time": true,
+        "maximum_leave": 730,
+        "start_type": "day",
+        "start_count": 0
+      },
+      {
+        "added_value_type": "day",
+        "added_value": 2.08,
+        "frequency": "monthly",
+        "start_type": "day",
+        "start_count": 730
+      }
+    ]
+  }
+]

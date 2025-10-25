@@ -1,0 +1,52 @@
+{
+    "income_tax_slabs": [
+        {
+            "name": "US Federal Tab Slabs - FY 2024",
+            "effective_date": "2024-01-01",
+            "slabs": [
+                {
+                    "from_amount": 0,
+                    "to_amount": 11600,
+                    "percent_deduction": 10,
+                    "condition": "base <= 11600 and tax_filing_status == 'Single'"
+                },
+                {
+                    "from_amount": 11600,
+                    "to_amount": 47150,
+                    "percent_deduction": 12,
+                    "condition": "base > 11600 and base <= 47150 and tax_filing_status == 'Single'"
+                },
+                {
+                    "from_amount": 47150,
+                    "to_amount": 100525,
+                    "percent_deduction": 22,
+                    "condition": "base > 47150 and base <= 100525 and tax_filing_status == 'Single'"
+                },
+                {
+                    "from_amount": 100525,
+                    "to_amount": 191950,
+                    "percent_deduction": 24,
+                    "condition": "base > 100525 and base <= 191950 and tax_filing_status == 'Single'"
+                },
+                {
+                    "from_amount": 191950,
+                    "to_amount": 243725,
+                    "percent_deduction": 32,
+                    "condition": "base > 191950 and base <= 243725 and tax_filing_status == 'Single'"
+                },
+                {
+                    "from_amount": 243725,
+                    "to_amount": 609350,
+                    "percent_deduction": 35,
+                    "condition": "base > 243725 and base <= 609350 and tax_filing_status == 'Single'"
+                },
+                {
+                    "from_amount": 609350,
+                    "to_amount": null,
+                    "percent_deduction": 37,
+                    "condition": "base > 609350 and tax_filing_status == 'Single'"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+[
+    {
+        "name": "Lead Qualification Flow",
+        "activity_plan_lines": [
+            {
+                "activity_type_name": "Call",
+                "summary": "Intro Call",
+                "delay_count": 0,
+                "interval_type": "days"
+            },
+            {
+                "activity_type_name": "Email",
+                "summary": "Follow-up Email",
+                "delay_count": 2,
+                "interval_type": "days"
+            },
+            {
+                "activity_type_name": "Meeting",
+                "summary": "Discovery Meeting",
+                "delay_count": 3,
+                "interval_type": "days"
+            },
+            {
+                "activity_type_name": "Contract Review",
+                "summary": "Send Proposal",
+                "delay_count": 2,
+                "interval_type": "days"
+            }
+        ]
+    },
+    {
+        "name": "Onboarding Sequence",
+        "model_name": "crm.lead",
+        "activity_plan_lines": [
+            {
+                "activity_type_name": "Email",
+                "summary": "Welcome Email",
+                "delay_count": 0,
+                "interval_type": "days"
+            },
+            {
+                "activity_type_name": "Call",
+                "summary": "Kickoff Call",
+                "delay_count": 1,
+                "interval_type": "days"
+            },
+            {
+                "activity_type_name": "To-Do",
+                "summary": "Verify Setup Complete",
+                "delay_count": 3,
+                "interval_type": "days"
+            },
+            {
+                "activity_type_name": "Meeting",
+                "summary": "Training Session",
+                "delay_count": 5,
+                "interval_type": "days"
+            }
+        ]
+    }
+]

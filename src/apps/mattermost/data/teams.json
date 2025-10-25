@@ -1,0 +1,246 @@
+[
+    {
+        "name": "product",
+        "display_name": "Product Development Team",
+        "channels": [
+            {
+                "name": "product-roadmap",
+                "display_name": "Product Roadmap",
+                "description": "Strategic planning and long-term product vision discussions",
+                "channel_type": "P",
+                "created_at": 1731197444947
+            },
+            {
+                "name": "feature-specs",
+                "display_name": "Feature Specifications",
+                "description": "Detailed technical specifications and requirements for new product features",
+                "channel_type": "P",
+                "created_at": 1727970064082
+            },
+            {
+                "name": "design-reviews",
+                "display_name": "Design Reviews",
+                "description": "UX/UI design feedback and collaborative design iterations",
+                "channel_type": "O",
+                "created_at": 1741580183411
+            },
+            {
+                "name": "customer-insights",
+                "display_name": "Customer Insights",
+                "description": "Sharing and discussing customer feedback, user research, and pain points",
+                "channel_type": "O",
+                "created_at": 1716232377295
+            },
+            {
+                "name": "sprint-planning",
+                "display_name": "Sprint Planning",
+                "description": "Agile sprint coordination, backlog grooming, and iteration tracking",
+                "channel_type": "P",
+                "created_at": 1716968518789
+            },
+            {
+                "name": "tech-architecture",
+                "display_name": "Tech Architecture",
+                "description": "System design, architectural decisions, and technical strategy discussions",
+                "channel_type": "P",
+                "created_at": 1720776952749
+            },
+            {
+                "name": "integration-updates",
+                "display_name": "Integration Updates",
+                "description": "Discussions about new integrations, API developments, and third-party connections",
+                "channel_type": "O",
+                "created_at": 1729696249037
+            },
+            {
+                "name": "product-analytics",
+                "display_name": "Product Analytics",
+                "description": "Performance metrics, usage data, and product performance insights",
+                "channel_type": "O",
+                "created_at": 1741572500085
+            },
+            {
+                "name": "release-management",
+                "display_name": "Release Management",
+                "description": "Release schedules, deployment coordination, and version tracking",
+                "channel_type": "P",
+                "created_at": 1735137175402
+            },
+            {
+                "name": "innovation-lab",
+                "display_name": "Innovation Lab",
+                "description": "Experimental features, emerging technologies, and creative problem-solving",
+                "channel_type": "O",
+                "created_at": 1721276235775
+            },
+            {
+                "name": "compliance-security",
+                "display_name": "Compliance & Security",
+                "description": "Security protocols, compliance requirements, and risk management discussions",
+                "channel_type": "P",
+                "created_at": 1734767240838
+            },
+            {
+                "name": "product-community",
+                "display_name": "Product Community",
+                "description": "Open forum for cross-team collaboration and product development discussions",
+                "channel_type": "O",
+                "created_at": 1722408180367
+            },
+            {
+                "name": "off-topic",
+                "display_name": "Off-Topic",
+                "description": "General discussions and casual conversations",
+                "channel_type": "O",
+                "is_default": true,
+                "created_at": 1715383587560
+            },
+            {
+                "name": "town-square",
+                "display_name": "Town Square",
+                "description": "Team-wide announcements and general communication",
+                "channel_type": "O",
+                "is_default": true,
+                "created_at": 1715383587560
+            }
+        ],
+        "created_at": 1715383587560
+    },
+    {
+        "name": "engineering",
+        "display_name": "Software Engineering Team",
+        "channels": [
+            {
+                "name": "architecture-design",
+                "display_name": "System Architecture",
+                "description": "Technical discussions and design reviews for our software system architecture",
+                "channel_type": "P",
+                "created_at": 1741362191345
+            },
+            {
+                "name": "code-reviews",
+                "display_name": "Code Review Forum",
+                "description": "Collaborative space for peer code reviews and quality assurance",
+                "channel_type": "O",
+                "created_at": 1727986801783
+            },
+            {
+                "name": "devops-updates",
+                "display_name": "DevOps & Infrastructure",
+                "description": "Continuous integration, deployment, and infrastructure management discussions",
+                "channel_type": "O",
+                "created_at": 1723384750495
+            },
+            {
+                "name": "backend-team",
+                "display_name": "Backend Engineering",
+                "description": "Dedicated channel for backend developers to coordinate and discuss server-side development",
+                "channel_type": "P",
+                "created_at": 1728210566614
+            },
+            {
+                "name": "tech-innovations",
+                "display_name": "Technology Innovation",
+                "description": "Exploring emerging technologies, research, and potential strategic tech adoptions",
+                "channel_type": "O",
+                "created_at": 1740905368351
+            },
+            {
+                "name": "security-protocols",
+                "display_name": "Security & Compliance",
+                "description": "Private channel for discussing security best practices, vulnerabilities, and compliance strategies",
+                "channel_type": "P",
+                "created_at": 1740482569950
+            },
+            {
+                "name": "off-topic",
+                "display_name": "Off-Topic",
+                "description": "General discussions and casual conversations",
+                "channel_type": "O",
+                "is_default": true,
+                "created_at": 1720120063270
+            },
+            {
+                "name": "town-square",
+                "display_name": "Town Square",
+                "description": "Team-wide announcements and general communication",
+                "channel_type": "O",
+                "is_default": true,
+                "created_at": 1720120063270
+            }
+        ],
+        "created_at": 1720120063270
+    },
+    {
+        "name": "customer-success",
+        "display_name": "Customer Success Team",
+        "channels": [
+            {
+                "name": "customer-onboarding",
+                "display_name": "Customer Onboarding",
+                "description": "Strategic discussions and tracking of new customer implementation and initial success milestones",
+                "channel_type": "O",
+                "created_at": 1714379098950
+            },
+            {
+                "name": "retention-strategies",
+                "display_name": "Retention Strategies",
+                "description": "Private channel for developing and discussing customer retention initiatives and at-risk account management",
+                "channel_type": "P",
+                "created_at": 1704447607493
+            },
+            {
+                "name": "success-metrics",
+                "display_name": "Success Metrics",
+                "description": "Tracking and analyzing customer health scores, usage metrics, and performance indicators",
+                "channel_type": "O",
+                "created_at": 1717331268756
+            },
+            {
+                "name": "escalations",
+                "display_name": "Customer Escalations",
+                "description": "Confidential channel for managing and resolving high-priority customer issues and critical support cases",
+                "channel_type": "P",
+                "created_at": 1713006628056
+            },
+            {
+                "name": "product-feedback",
+                "display_name": "Product Feedback",
+                "description": "Collecting, documenting, and prioritizing customer feedback for product improvement",
+                "channel_type": "O",
+                "created_at": 1722200554079
+            },
+            {
+                "name": "renewal-pipeline",
+                "display_name": "Renewal Pipeline",
+                "description": "Tracking upcoming contract renewals, preparing renewal strategies, and managing account expansion opportunities",
+                "channel_type": "P",
+                "created_at": 1715855986223
+            },
+            {
+                "name": "customer-stories",
+                "display_name": "Customer Success Stories",
+                "description": "Sharing and documenting customer wins, case studies, and notable implementation successes",
+                "channel_type": "O",
+                "created_at": 1706490819765
+            },
+            {
+                "name": "off-topic",
+                "display_name": "Off-Topic",
+                "description": "General discussions and casual conversations",
+                "channel_type": "O",
+                "is_default": true,
+                "created_at": 1701863676699
+            },
+            {
+                "name": "town-square",
+                "display_name": "Town Square",
+                "description": "Team-wide announcements and general communication",
+                "channel_type": "O",
+                "is_default": true,
+                "created_at": 1701863676699
+            }
+        ],
+        "created_at": 1701863676699
+    }
+]

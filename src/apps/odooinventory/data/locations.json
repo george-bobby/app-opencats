@@ -1,0 +1,443 @@
+[
+    {
+        "name": "MAIN/Bulk Storage",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "MAIN"
+    },
+    {
+        "name": "MAIN/Damaged Returns",
+        "usage": "inventory",
+        "scrap_location": true,
+        "replenish_location": false,
+        "wh_code": "MAIN"
+    },
+    {
+        "name": "MAIN/Outbound Staging",
+        "usage": "transit",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "MAIN"
+    },
+    {
+        "name": "MAIN/Picking Zone",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "MAIN"
+    },
+    {
+        "name": "MAIN/Fast Movers",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "MAIN"
+    },
+    {
+        "name": "MAIN/Cold Storage",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "MAIN"
+    },
+    {
+        "name": "MAIN/Small Parts Bin",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "MAIN"
+    },
+    {
+        "name": "MAIN/Oversize Storage",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "MAIN"
+    },
+    {
+        "name": "MAIN/Value Added Area",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "MAIN"
+    },
+    {
+        "name": "MAIN/Packing Station 1",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "MAIN"
+    },
+    {
+        "name": "MAIN/Packing Station 2",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "MAIN"
+    },
+    {
+        "name": "MAIN/Returns Inspection",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "MAIN"
+    },
+    {
+        "name": "MAIN/Pallet Racking A",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "MAIN"
+    },
+    {
+        "name": "MAIN/Pallet Racking B",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "MAIN"
+    },
+    {
+        "name": "WCWH/Inventory Aisle 1",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "WCWH"
+    },
+    {
+        "name": "WCWH/Defect Hold",
+        "usage": "inventory",
+        "scrap_location": true,
+        "replenish_location": false,
+        "wh_code": "WCWH"
+    },
+    {
+        "name": "WCWH/Inbound Dock",
+        "usage": "transit",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "WCWH"
+    },
+    {
+        "name": "WCWH/Inventory Aisle 2",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "WCWH"
+    },
+    {
+        "name": "WCWH/Inventory Aisle 3",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "WCWH"
+    },
+    {
+        "name": "WCWH/Mezzanine",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "WCWH"
+    },
+    {
+        "name": "WCWH/Packing Zone",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "WCWH"
+    },
+    {
+        "name": "WCWH/Returns Area",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "WCWH"
+    },
+    {
+        "name": "WCWH/Pallet Storage",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "WCWH"
+    },
+    {
+        "name": "WCWH/Small Items Bin",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "WCWH"
+    },
+    {
+        "name": "WCWH/Bulk Storage",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "WCWH"
+    },
+    {
+        "name": "WCWH/Value Added Services",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "WCWH"
+    },
+    {
+        "name": "WCWH/Outbound Prep",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "WCWH"
+    },
+    {
+        "name": "MWST/Primary Inventory",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "MWST"
+    },
+    {
+        "name": "MWST/QC Rejects",
+        "usage": "inventory",
+        "scrap_location": true,
+        "replenish_location": false,
+        "wh_code": "MWST"
+    },
+    {
+        "name": "MWST/Transfer Bay",
+        "usage": "transit",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "MWST"
+    },
+    {
+        "name": "MWST/Overflow Storage",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "MWST"
+    },
+    {
+        "name": "MWST/Value Added Services",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "MWST"
+    },
+    {
+        "name": "MWST/Packing Station 1",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "MWST"
+    },
+    {
+        "name": "MWST/Packing Station 2",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "MWST"
+    },
+    {
+        "name": "MWST/Returns Inspection",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "MWST"
+    },
+    {
+        "name": "MWST/Pallet Racking A",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "MWST"
+    },
+    {
+        "name": "MWST/Pallet Racking B",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "MWST"
+    },
+    {
+        "name": "MWST/Small Parts Bin",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "MWST"
+    },
+    {
+        "name": "MWST/Fast Movers",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "MWST"
+    },
+    {
+        "name": "RNRF - Refurbished Stock",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "RNRF"
+    },
+    {
+        "name": "RNRF - Unusable Returns",
+        "usage": "inventory",
+        "scrap_location": true,
+        "replenish_location": false,
+        "wh_code": "RNRF"
+    },
+    {
+        "name": "RNRF - Internal Movement",
+        "usage": "transit",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "RNRF"
+    },
+    {
+        "name": "RNRF/Returns Processing",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "RNRF"
+    },
+    {
+        "name": "RNRF/Packing Zone",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "RNRF"
+    },
+    {
+        "name": "RNRF/Inspection Area",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "RNRF"
+    },
+    {
+        "name": "RNRF/Value Added Area",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "RNRF"
+    },
+    {
+        "name": "RNRF/Pallet Storage",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "RNRF"
+    },
+    {
+        "name": "RNRF/Small Items Bin",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "RNRF"
+    },
+    {
+        "name": "RNRF/Bulk Storage",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "RNRF"
+    },
+    {
+        "name": "RNRF/Outbound Prep",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "RNRF"
+    },
+    {
+        "name": "RNRF/Returns Staging",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "RNRF"
+    },
+    {
+        "name": "PDEP - Event Inventory",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "PDEP"
+    },
+    {
+        "name": "PDEP - Damaged Goods",
+        "usage": "inventory",
+        "scrap_location": true,
+        "replenish_location": false,
+        "wh_code": "PDEP"
+    },
+    {
+        "name": "PDEP - Load Prep Area",
+        "usage": "transit",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "PDEP"
+    },
+    {
+        "name": "PDEP/Staging Area",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "PDEP"
+    },
+    {
+        "name": "PDEP/Packing Station",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "PDEP"
+    },
+    {
+        "name": "PDEP/Value Added Services",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "PDEP"
+    },
+    {
+        "name": "PDEP/Inspection Area",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "PDEP"
+    },
+    {
+        "name": "PDEP/Pallet Storage",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "PDEP"
+    },
+    {
+        "name": "PDEP/Small Items Bin",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "PDEP"
+    },
+    {
+        "name": "PDEP/Bulk Storage",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "PDEP"
+    },
+    {
+        "name": "PDEP/Outbound Prep",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "PDEP"
+    },
+    {
+        "name": "PDEP/Event Staging",
+        "usage": "internal",
+        "scrap_location": false,
+        "replenish_location": false,
+        "wh_code": "PDEP"
+    }
+]

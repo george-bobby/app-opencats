@@ -1,0 +1,212 @@
+[
+    {
+        "name": "New Client Onboarding",
+        "model": "project.project",
+        "activity_lines": [
+            {
+                "activity_type": "Email",
+                "summary": "Send welcome email to new client with onboarding details.",
+                "assignment": "default_user",
+                "interval": 0,
+                "delay_unit": "days",
+                "trigger": "after_plan_date"
+            },
+            {
+                "activity_type": "To-Do",
+                "summary": "Set up client account in system and verify contact information.",
+                "assignment": "ask_at_launch",
+                "interval": 1,
+                "delay_unit": "days",
+                "trigger": "after_plan_date"
+            },
+            {
+                "activity_type": "Call",
+                "summary": "Follow up call with client to answer initial questions.",
+                "assignment": "default_user",
+                "interval": 3,
+                "delay_unit": "days",
+                "trigger": "after_plan_date"
+            }
+        ]
+    },
+    {
+        "name": "Retail Store Opening Project",
+        "model": "project.project",
+        "activity_lines": [
+            {
+                "activity_type": "Meeting",
+                "summary": "Kickoff meeting with project stakeholders.",
+                "assignment": "default_user",
+                "interval": 0,
+                "delay_unit": "days",
+                "trigger": "after_plan_date"
+            },
+            {
+                "activity_type": "To-Do",
+                "summary": "Finalize vendor list and send out requests for proposals.",
+                "assignment": "ask_at_launch",
+                "interval": 2,
+                "delay_unit": "days",
+                "trigger": "after_plan_date"
+            },
+            {
+                "activity_type": "Upload Document",
+                "summary": "Upload signed lease agreement and required permits.",
+                "assignment": "default_user",
+                "interval": 4,
+                "delay_unit": "days",
+                "trigger": "after_plan_date"
+            }
+        ]
+    },
+    {
+        "name": "Supplier Onboarding",
+        "model": "project.task",
+        "activity_lines": [
+            {
+                "activity_type": "Email",
+                "summary": "Send supplier onboarding packet and agreement.",
+                "assignment": "default_user",
+                "interval": 0,
+                "delay_unit": "days",
+                "trigger": "after_plan_date"
+            },
+            {
+                "activity_type": "Upload Document",
+                "summary": "Receive and upload signed supplier agreement.",
+                "assignment": "ask_at_launch",
+                "interval": 2,
+                "delay_unit": "days",
+                "trigger": "after_plan_date"
+            },
+            {
+                "activity_type": "Call",
+                "summary": "Call supplier to confirm onboarding completion and answer questions.",
+                "assignment": "default_user",
+                "interval": 4,
+                "delay_unit": "days",
+                "trigger": "after_plan_date"
+            }
+        ]
+    },
+    {
+        "name": "Product Launch Preparation",
+        "model": "project.task",
+        "activity_lines": [
+            {
+                "activity_type": "To-Do",
+                "summary": "Finalize product specs and pricing.",
+                "assignment": "ask_at_launch",
+                "interval": 1,
+                "delay_unit": "days",
+                "trigger": "after_plan_date"
+            },
+            {
+                "activity_type": "Upload Document",
+                "summary": "Upload marketing collateral for review.",
+                "assignment": "default_user",
+                "interval": 3,
+                "delay_unit": "days",
+                "trigger": "after_plan_date"
+            },
+            {
+                "activity_type": "Meeting",
+                "summary": "Review marketing plan and launch calendar with team.",
+                "assignment": "default_user",
+                "interval": 5,
+                "delay_unit": "days",
+                "trigger": "after_plan_date"
+            }
+        ]
+    },
+    {
+        "name": "Quarterly Inventory Audit",
+        "model": "project.task",
+        "activity_lines": [
+            {
+                "activity_type": "To-Do",
+                "summary": "Schedule physical inventory count.",
+                "assignment": "default_user",
+                "interval": 0,
+                "delay_unit": "days",
+                "trigger": "before_plan_date"
+            },
+            {
+                "activity_type": "Upload Document",
+                "summary": "Upload completed inventory sheets.",
+                "assignment": "ask_at_launch",
+                "interval": 1,
+                "delay_unit": "days",
+                "trigger": "after_plan_date"
+            },
+            {
+                "activity_type": "Email",
+                "summary": "Send summary report to management.",
+                "assignment": "default_user",
+                "interval": 2,
+                "delay_unit": "days",
+                "trigger": "after_plan_date"
+            }
+        ]
+    },
+    {
+        "name": "Customer Complaint Resolution",
+        "model": "project.task",
+        "activity_lines": [
+            {
+                "activity_type": "Call",
+                "summary": "Contact customer to acknowledge complaint and gather details.",
+                "assignment": "default_user",
+                "interval": 0,
+                "delay_unit": "days",
+                "trigger": "after_plan_date"
+            },
+            {
+                "activity_type": "To-Do",
+                "summary": "Investigate issue and propose resolution.",
+                "assignment": "ask_at_launch",
+                "interval": 2,
+                "delay_unit": "days",
+                "trigger": "after_plan_date"
+            },
+            {
+                "activity_type": "Email",
+                "summary": "Email customer with resolution and next steps.",
+                "assignment": "default_user",
+                "interval": 4,
+                "delay_unit": "days",
+                "trigger": "after_plan_date"
+            }
+        ]
+    },
+    {
+        "name": "Seasonal Promotion Planning",
+        "model": "project.project",
+        "activity_lines": [
+            {
+                "activity_type": "Meeting",
+                "summary": "Initial planning meeting for seasonal promotion.",
+                "assignment": "default_user",
+                "interval": 0,
+                "delay_unit": "days",
+                "trigger": "before_plan_date"
+            },
+            {
+                "activity_type": "To-Do",
+                "summary": "Coordinate with suppliers for promotional inventory.",
+                "assignment": "ask_at_launch",
+                "interval": 2,
+                "delay_unit": "days",
+                "trigger": "after_plan_date"
+            },
+            {
+                "activity_type": "Upload Document",
+                "summary": "Upload finalized promotional materials and offers.",
+                "assignment": "default_user",
+                "interval": 5,
+                "delay_unit": "days",
+                "trigger": "after_plan_date"
+            }
+        ]
+    }
+]

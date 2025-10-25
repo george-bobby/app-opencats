@@ -1,0 +1,2257 @@
+{
+  "table_name": "Tags / Labels",
+  "parent_workspace_name": "Client Projects",
+  "parent_base_name": "Client Projects",
+  "records": [
+    {
+      "fields": {
+        "Tag Name": "Urgent",
+        "Type": "Priority",
+        "Color Code": "#FF0000",
+        "Created Date": "2024-07-14",
+        "Visibility": "Public",
+        "Tag Group": "Priority",
+        "Last Used Date": "2025-04-02",
+        "Active": "Yes",
+        "Notes": "Marks tasks that require immediate attention.",
+        "Suggested Usage Context": "Use for high-impact tasks that must be completed within 24 hours.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "In Progress",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-12-01",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-20",
+        "Active": "Yes",
+        "Notes": "Tasks currently being worked on by the team.",
+        "Suggested Usage Context": "Indicates active development or marketing campaigns.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "SEO Optimization",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2025-02-15",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-25",
+        "Active": "Yes",
+        "Notes": "Tags related to improving search engine rankings.",
+        "Suggested Usage Context": "Use for projects focused on organic traffic growth.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "High Priority",
+        "Type": "Priority",
+        "Color Code": "#E60000",
+        "Created Date": "2024-08-22",
+        "Visibility": "Public",
+        "Tag Group": "Priority",
+        "Last Used Date": "2025-05-10",
+        "Active": "Yes",
+        "Notes": "Tasks that impact client deliverables significantly.",
+        "Suggested Usage Context": "Assign to campaigns requiring fast delivery and high quality.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Content Creation",
+        "Type": "Function",
+        "Color Code": "#1E90FF",
+        "Created Date": "2024-09-10",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-01",
+        "Active": "Yes",
+        "Notes": "Tasks involving writing, video, or graphic content creation.",
+        "Suggested Usage Context": "Use for creative team assignments and content planning.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Completed",
+        "Type": "Status",
+        "Color Code": "#FFFF00",
+        "Created Date": "2024-11-05",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-15",
+        "Active": "Yes",
+        "Notes": "Tasks that have been finished and approved.",
+        "Suggested Usage Context": "Tag projects or tasks after final client approval.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Social Media",
+        "Type": "Category",
+        "Color Code": "#800080",
+        "Created Date": "2025-01-18",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-22",
+        "Active": "Yes",
+        "Notes": "Tags for social media marketing campaigns.",
+        "Suggested Usage Context": "Use for managing posts, ads, and engagement tracking.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Low Priority",
+        "Type": "Priority",
+        "Color Code": "#FF6347",
+        "Created Date": "2025-03-09",
+        "Visibility": "Private",
+        "Tag Group": "Priority",
+        "Last Used Date": "2025-05-30",
+        "Active": "Yes",
+        "Notes": "Tasks that can be deferred if needed.",
+        "Suggested Usage Context": "Apply to non-critical assignments or ideas for later review.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Review Needed",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-10-25",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-18",
+        "Active": "Yes",
+        "Notes": "Tasks awaiting feedback or approval.",
+        "Suggested Usage Context": "Mark items that require client or manager review.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Email Campaign",
+        "Type": "Category",
+        "Color Code": "#800080",
+        "Created Date": "2024-07-29",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-23",
+        "Active": "Yes",
+        "Notes": "Tags for email marketing initiatives.",
+        "Suggested Usage Context": "Use for tracking newsletters, promotions, and drip campaigns.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Analytics",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2025-04-11",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-24",
+        "Active": "Yes",
+        "Notes": "Tasks related to data analysis and reporting.",
+        "Suggested Usage Context": "Assign to team members handling performance metrics.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "On Hold",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-09-15",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-03-05",
+        "Active": "No",
+        "Notes": "Tasks paused due to external dependencies or priorities.",
+        "Suggested Usage Context": "Use when awaiting resources or client input.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Branding",
+        "Type": "Category",
+        "Color Code": "#800080",
+        "Created Date": "2024-08-05",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-11",
+        "Active": "Yes",
+        "Notes": "Tasks related to brand identity and assets.",
+        "Suggested Usage Context": "Assign to design and strategy projects for consistent branding.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Medium Priority",
+        "Type": "Priority",
+        "Color Code": "#FF4500",
+        "Created Date": "2024-10-30",
+        "Visibility": "Public",
+        "Tag Group": "Priority",
+        "Last Used Date": "2025-06-10",
+        "Active": "Yes",
+        "Notes": "Tasks with moderate urgency and impact.",
+        "Suggested Usage Context": "Use for standard project milestones and deliverables.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Testing",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-12-12",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-21",
+        "Active": "Yes",
+        "Notes": "Tasks involving QA and user testing phases.",
+        "Suggested Usage Context": "Assign to pre-launch product or campaign testing.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Paid Ads",
+        "Type": "Category",
+        "Color Code": "#800080",
+        "Created Date": "2024-09-20",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-19",
+        "Active": "Yes",
+        "Notes": "Tags for paid advertising campaigns.",
+        "Suggested Usage Context": "Use for managing PPC, social ads, and sponsored content.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Strategy",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2024-11-22",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-14",
+        "Active": "Yes",
+        "Notes": "Tasks related to planning and market analysis.",
+        "Suggested Usage Context": "Assign to marketing strategists and project planning.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Draft",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2025-01-05",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-17",
+        "Active": "Yes",
+        "Notes": "Initial versions of content or project plans.",
+        "Suggested Usage Context": "Use for unfinalized work in progress.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Graphic Design",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2024-07-18",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-12",
+        "Active": "Yes",
+        "Notes": "Tasks related to visual asset creation.",
+        "Suggested Usage Context": "Assign to creative team for design deliverables.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Client Review",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-08-28",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-09",
+        "Active": "Yes",
+        "Notes": "Tasks waiting for client feedback or approval.",
+        "Suggested Usage Context": "Mark items pending client confirmation.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Backlog",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-07-23",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-03-22",
+        "Active": "No",
+        "Notes": "Tasks postponed for future consideration.",
+        "Suggested Usage Context": "Use for ideas or low priority work not yet scheduled.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Copywriting",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2024-12-30",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-22",
+        "Active": "Yes",
+        "Notes": "Writing marketing and promotional content.",
+        "Suggested Usage Context": "Assign to content writers and editors.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Research",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2025-01-28",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-20",
+        "Active": "Yes",
+        "Notes": "Market and competitor research tasks.",
+        "Suggested Usage Context": "Use for data gathering and analysis phases.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Approved",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-11-10",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-18",
+        "Active": "Yes",
+        "Notes": "Finalized and signed off tasks.",
+        "Suggested Usage Context": "Mark completed approvals from stakeholders.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Website",
+        "Type": "Category",
+        "Color Code": "#800080",
+        "Created Date": "2024-07-31",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-23",
+        "Active": "Yes",
+        "Notes": "Tags related to website development and updates.",
+        "Suggested Usage Context": "Use for web projects and maintenance tasks.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Idea",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-08-14",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-05-25",
+        "Active": "Yes",
+        "Notes": "Concepts and brainstorming items.",
+        "Suggested Usage Context": "Tag ideas to be developed or reviewed.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Internal",
+        "Type": "Category",
+        "Color Code": "#800080",
+        "Created Date": "2025-03-15",
+        "Visibility": "Private",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-16",
+        "Active": "Yes",
+        "Notes": "Tasks for internal team use only.",
+        "Suggested Usage Context": "Use for non-client facing projects and communications.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Urgent Follow-up",
+        "Type": "Priority",
+        "Color Code": "#FF0000",
+        "Created Date": "2025-01-12",
+        "Visibility": "Public",
+        "Tag Group": "Priority",
+        "Last Used Date": "2025-06-24",
+        "Active": "Yes",
+        "Notes": "Requires quick response or action post initial contact.",
+        "Suggested Usage Context": "Use for client or team follow-ups with time sensitivity.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Design Review",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-10-08",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-19",
+        "Active": "Yes",
+        "Notes": "Designs pending review by creative director.",
+        "Suggested Usage Context": "Mark when creative assets need approval.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Partnership",
+        "Type": "Category",
+        "Color Code": "#800080",
+        "Created Date": "2024-12-18",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-21",
+        "Active": "Yes",
+        "Notes": "Collaborations and partnerships with other brands.",
+        "Suggested Usage Context": "Use for joint marketing initiatives.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Blocked",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-09-03",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-03-10",
+        "Active": "No",
+        "Notes": "Tasks impeded by external issues or dependencies.",
+        "Suggested Usage Context": "Flag tasks requiring intervention to proceed.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Customer Support",
+        "Type": "Category",
+        "Color Code": "#800080",
+        "Created Date": "2024-08-09",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-15",
+        "Active": "Yes",
+        "Notes": "Support and helpdesk related tasks.",
+        "Suggested Usage Context": "Use for tracking client service issues and tickets.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Feedback",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2025-02-02",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-25",
+        "Active": "Yes",
+        "Notes": "Collecting and analyzing user or client feedback.",
+        "Suggested Usage Context": "Assign for post-campaign analysis.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Final Review",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-11-19",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-22",
+        "Active": "Yes",
+        "Notes": "Last check before project closure or delivery.",
+        "Suggested Usage Context": "Use to ensure quality and completeness.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Budget",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2024-07-21",
+        "Visibility": "Private",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-14",
+        "Active": "Yes",
+        "Notes": "Financial planning and budget tracking tasks.",
+        "Suggested Usage Context": "Assign to finance and project managers.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Campaign Planning",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2024-09-13",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-18",
+        "Active": "Yes",
+        "Notes": "Strategies and scheduling for marketing campaigns.",
+        "Suggested Usage Context": "Use for advance preparation of promotions.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Deprecated",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-08-26",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-02-15",
+        "Active": "No",
+        "Notes": "Old tags or tasks no longer in use.",
+        "Suggested Usage Context": "Mark obsolete items for archival.",
+        "Archived": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Video Production",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2025-04-07",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-25",
+        "Active": "Yes",
+        "Notes": "Tasks involving video creation and editing.",
+        "Suggested Usage Context": "Assign to media and content teams.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Client Meeting",
+        "Type": "Category",
+        "Color Code": "#800080",
+        "Created Date": "2024-07-26",
+        "Visibility": "Private",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-20",
+        "Active": "Yes",
+        "Notes": "Scheduled discussions and presentations with clients.",
+        "Suggested Usage Context": "Use to track engagement and follow-ups.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Needs Clarification",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-10-29",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-05-19",
+        "Active": "Yes",
+        "Notes": "Tasks or requirements that require more details.",
+        "Suggested Usage Context": "Flag unclear items for further discussion.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Innovation",
+        "Type": "Category",
+        "Color Code": "#800080",
+        "Created Date": "2025-01-21",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-24",
+        "Active": "Yes",
+        "Notes": "Creative ideas and experimental projects.",
+        "Suggested Usage Context": "Use for pilot campaigns or new tech exploration.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "QA Testing",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2024-11-27",
+        "Visibility": "Private",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-23",
+        "Active": "Yes",
+        "Notes": "Quality assurance and validation tasks.",
+        "Suggested Usage Context": "Assign to testers and quality teams.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Waiting Approval",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-08-17",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-23",
+        "Active": "Yes",
+        "Notes": "Pending approvals from managers or clients.",
+        "Suggested Usage Context": "Use to highlight items needing sign-off.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Localization",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2024-09-18",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-10",
+        "Active": "Yes",
+        "Notes": "Tasks related to adapting content for local markets.",
+        "Suggested Usage Context": "Assign to translation and cultural adaptation projects.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Draft Review",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-12-06",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-20",
+        "Active": "Yes",
+        "Notes": "Reviewing draft versions before final edits.",
+        "Suggested Usage Context": "Use to collect feedback on early stage work.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Event Marketing",
+        "Type": "Category",
+        "Color Code": "#800080",
+        "Created Date": "2024-07-17",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-21",
+        "Active": "Yes",
+        "Notes": "Promotions and marketing for events and webinars.",
+        "Suggested Usage Context": "Use for scheduling and follow-up tasks.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Needs Testing",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-10-04",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-05-28",
+        "Active": "Yes",
+        "Notes": "Items requiring quality checks before launch.",
+        "Suggested Usage Context": "Assign to testing team before deployment.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Referral",
+        "Type": "Category",
+        "Color Code": "#800080",
+        "Created Date": "2025-03-01",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-22",
+        "Active": "Yes",
+        "Notes": "Referrals and affiliate marketing tasks.",
+        "Suggested Usage Context": "Track tasks related to partnership acquisition.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Documentation",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2024-09-02",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-19",
+        "Active": "Yes",
+        "Notes": "Preparing manuals, guides, and process documents.",
+        "Suggested Usage Context": "Assign to knowledge management tasks.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Paused",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-07-28",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-02-27",
+        "Active": "No",
+        "Notes": "Tasks temporarily stopped pending decisions.",
+        "Suggested Usage Context": "Mark for review and resumption planning.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Outreach",
+        "Type": "Category",
+        "Color Code": "#800080",
+        "Created Date": "2025-02-05",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-24",
+        "Active": "Yes",
+        "Notes": "Tasks related to community and influencer outreach.",
+        "Suggested Usage Context": "Use for networking and engagement campaigns.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Needs Update",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-12-22",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-18",
+        "Active": "Yes",
+        "Notes": "Items requiring revision to remain current.",
+        "Suggested Usage Context": "Use for content or strategy updates.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Training",
+        "Type": "Category",
+        "Color Code": "#800080",
+        "Created Date": "2024-08-15",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-16",
+        "Active": "Yes",
+        "Notes": "Training sessions and educational content.",
+        "Suggested Usage Context": "Assign for onboarding and skill development.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Maintenance",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2024-07-09",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-14",
+        "Active": "Yes",
+        "Notes": "Ongoing upkeep of systems and processes.",
+        "Suggested Usage Context": "Use for scheduled updates and fixes.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Waiting Feedback",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-09-28",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-16",
+        "Active": "Yes",
+        "Notes": "Awaiting input from clients or stakeholders.",
+        "Suggested Usage Context": "Tag to remind for follow-up.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Mobile Marketing",
+        "Type": "Category",
+        "Color Code": "#800080",
+        "Created Date": "2025-01-31",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-24",
+        "Active": "Yes",
+        "Notes": "Campaigns targeting mobile users.",
+        "Suggested Usage Context": "Use for app promotions and mobile ads.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Idea Validation",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-08-11",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-05-08",
+        "Active": "Yes",
+        "Notes": "Checking feasibility and potential of new ideas.",
+        "Suggested Usage Context": "Use early in project concept phases.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Lead Generation",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2024-10-02",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-23",
+        "Active": "Yes",
+        "Notes": "Tasks aimed at attracting potential clients.",
+        "Suggested Usage Context": "Use for marketing campaigns focused on leads.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Canceled",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-11-15",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-04-12",
+        "Active": "No",
+        "Notes": "Tasks or projects that have been aborted.",
+        "Suggested Usage Context": "Mark to avoid further efforts.",
+        "Archived": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Press Release",
+        "Type": "Category",
+        "Color Code": "#800080",
+        "Created Date": "2024-07-04",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-20",
+        "Active": "Yes",
+        "Notes": "Media announcements and PR campaigns.",
+        "Suggested Usage Context": "Use for managing public communications.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Bug Fix",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2024-12-26",
+        "Visibility": "Private",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-21",
+        "Active": "Yes",
+        "Notes": "Tasks related to software or campaign error correction.",
+        "Suggested Usage Context": "Assign to development and QA teams.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Scheduled",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-08-30",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-17",
+        "Active": "Yes",
+        "Notes": "Tasks planned to occur at a future date.",
+        "Suggested Usage Context": "Use for calendar and timeline management.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Affiliate",
+        "Type": "Category",
+        "Color Code": "#800080",
+        "Created Date": "2025-03-07",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-25",
+        "Active": "Yes",
+        "Notes": "Affiliate marketing and partner-related tasks.",
+        "Suggested Usage Context": "Track affiliate campaigns and commissions.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Onboarding",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2024-09-25",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-22",
+        "Active": "Yes",
+        "Notes": "New client or employee onboarding processes.",
+        "Suggested Usage Context": "Use to guide initial setup and training.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Archived",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-07-05",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-01-30",
+        "Active": "No",
+        "Notes": "Items moved to archive storage.",
+        "Suggested Usage Context": "Mark completed or inactive projects.",
+        "Archived": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Customer Journey",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2024-11-01",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-23",
+        "Active": "Yes",
+        "Notes": "Mapping and optimizing client experiences.",
+        "Suggested Usage Context": "Use for UX and marketing flow improvement.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Needs Approval",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-12-20",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-19",
+        "Active": "Yes",
+        "Notes": "Pending approval from relevant parties.",
+        "Suggested Usage Context": "Flag items for sign-off before proceeding.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Retargeting",
+        "Type": "Category",
+        "Color Code": "#800080",
+        "Created Date": "2024-08-07",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-20",
+        "Active": "Yes",
+        "Notes": "Campaigns aimed at re-engaging past visitors.",
+        "Suggested Usage Context": "Assign to digital marketing and ads teams.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Content Review",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-09-17",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-21",
+        "Active": "Yes",
+        "Notes": "Reviewing content for quality and consistency.",
+        "Suggested Usage Context": "Use before publishing or client submission.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Localization Review",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2025-01-09",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-18",
+        "Active": "Yes",
+        "Notes": "Checking localized content for accuracy.",
+        "Suggested Usage Context": "Assign to linguistic or cultural experts.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Client Presentation",
+        "Type": "Category",
+        "Color Code": "#800080",
+        "Created Date": "2024-07-20",
+        "Visibility": "Private",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-12",
+        "Active": "Yes",
+        "Notes": "Materials and sessions for client demos.",
+        "Suggested Usage Context": "Use for sales and reporting meetings.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Concept Development",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2024-10-12",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-22",
+        "Active": "Yes",
+        "Notes": "Developing initial ideas and concepts.",
+        "Suggested Usage Context": "Assign to creative and strategy teams.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Expired",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-07-15",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-01-15",
+        "Active": "No",
+        "Notes": "Items past their valid date or deadline.",
+        "Suggested Usage Context": "Mark for removal or archiving.",
+        "Archived": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Partially Completed",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-08-12",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-18",
+        "Active": "Yes",
+        "Notes": "Tasks that are not fully finished.",
+        "Suggested Usage Context": "Use to track progress and pending work.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Event Planning",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2024-09-06",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-20",
+        "Active": "Yes",
+        "Notes": "Organizing events and webinars.",
+        "Suggested Usage Context": "Assign to logistics and marketing teams.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Urgent Client Request",
+        "Type": "Priority",
+        "Color Code": "#FF0000",
+        "Created Date": "2025-03-12",
+        "Visibility": "Public",
+        "Tag Group": "Priority",
+        "Last Used Date": "2025-06-24",
+        "Active": "Yes",
+        "Notes": "Client demands requiring immediate action.",
+        "Suggested Usage Context": "Use to escalate client tasks.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "SEO Audit",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2024-11-17",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-22",
+        "Active": "Yes",
+        "Notes": "Assessing SEO performance and issues.",
+        "Suggested Usage Context": "Assign for periodic website reviews.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Design Completed",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-12-03",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-19",
+        "Active": "Yes",
+        "Notes": "Design phase finished and approved.",
+        "Suggested Usage Context": "Mark completion of creative work.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Drafting",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2025-02-25",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-25",
+        "Active": "Yes",
+        "Notes": "Currently writing or creating initial versions.",
+        "Suggested Usage Context": "Use for work in early content stages.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Product Launch",
+        "Type": "Category",
+        "Color Code": "#800080",
+        "Created Date": "2024-07-13",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-22",
+        "Active": "Yes",
+        "Notes": "Campaigns related to new product releases.",
+        "Suggested Usage Context": "Use for launch planning and execution.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Content Approved",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-10-19",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-20",
+        "Active": "Yes",
+        "Notes": "Content approved for publishing or distribution.",
+        "Suggested Usage Context": "Mark final content deliverables.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Needs Review",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-08-23",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-15",
+        "Active": "Yes",
+        "Notes": "Tasks pending review by team leads or clients.",
+        "Suggested Usage Context": "Use for quality control processes.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Collaboration",
+        "Type": "Category",
+        "Color Code": "#800080",
+        "Created Date": "2025-02-20",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-25",
+        "Active": "Yes",
+        "Notes": "Working jointly with partners or other teams.",
+        "Suggested Usage Context": "Assign to multi-team projects.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Prototype",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-09-21",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-18",
+        "Active": "Yes",
+        "Notes": "Early model or version for testing.",
+        "Suggested Usage Context": "Use for initial concept evaluation.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Webinar",
+        "Type": "Category",
+        "Color Code": "#800080",
+        "Created Date": "2024-07-07",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-20",
+        "Active": "Yes",
+        "Notes": "Online seminars and training sessions.",
+        "Suggested Usage Context": "Use for planning and promotion.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Optimization",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2024-11-25",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-23",
+        "Active": "Yes",
+        "Notes": "Improvement of campaigns or processes.",
+        "Suggested Usage Context": "Assign for performance enhancement.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Waiting Response",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-08-19",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-14",
+        "Active": "Yes",
+        "Notes": "Awaiting replies from clients or vendors.",
+        "Suggested Usage Context": "Tag to prompt follow-up actions.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Market Research",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2024-10-21",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-21",
+        "Active": "Yes",
+        "Notes": "Analyzing market trends and customer behavior.",
+        "Suggested Usage Context": "Use for strategic insights and reports.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Client Feedback",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2025-01-27",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-25",
+        "Active": "Yes",
+        "Notes": "Collecting input directly from clients.",
+        "Suggested Usage Context": "Assign to account managers and analysts.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Finalized",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-12-09",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-22",
+        "Active": "Yes",
+        "Notes": "Concluded and signed off projects or tasks.",
+        "Suggested Usage Context": "Mark project completion stages.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Pre-Launch",
+        "Type": "Phase",
+        "Color Code": "#008000",
+        "Created Date": "2024-09-14",
+        "Visibility": "Public",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-20",
+        "Active": "Yes",
+        "Notes": "Tasks before official campaign or product release.",
+        "Suggested Usage Context": "Use for final preparations and checks.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Client Acquisition",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2024-07-21",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-15",
+        "Active": "Yes",
+        "Notes": "Efforts to attract new clients.",
+        "Suggested Usage Context": "Assign to sales and marketing teams.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Legal Review",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-10-13",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-16",
+        "Active": "Yes",
+        "Notes": "Checking compliance and legal issues.",
+        "Suggested Usage Context": "Use before publishing contracts or materials.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Social Listening",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2025-02-08",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-25",
+        "Active": "Yes",
+        "Notes": "Monitoring social media for brand mentions.",
+        "Suggested Usage Context": "Assign for reputation management.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Quality Check",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-11-11",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-20",
+        "Active": "Yes",
+        "Notes": "Ensuring standards are met before delivery.",
+        "Suggested Usage Context": "Use for final evaluation steps.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Prototype Testing",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-08-28",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-18",
+        "Active": "Yes",
+        "Notes": "Testing early versions for feedback.",
+        "Suggested Usage Context": "Assign to QA and user testing teams.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Launch Ready",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-09-19",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-22",
+        "Active": "Yes",
+        "Notes": "Prepared for official release.",
+        "Suggested Usage Context": "Mark tasks ready for go-live.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Creative Brief",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2024-07-12",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-19",
+        "Active": "Yes",
+        "Notes": "Outline and guidelines for creative work.",
+        "Suggested Usage Context": "Use for initial project setups.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Post-Launch",
+        "Type": "Phase",
+        "Color Code": "#008000",
+        "Created Date": "2024-10-05",
+        "Visibility": "Public",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-23",
+        "Active": "Yes",
+        "Notes": "Activities following launch to monitor success.",
+        "Suggested Usage Context": "Assign to analysis and adjustments.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Customer Retention",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2025-03-18",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-25",
+        "Active": "Yes",
+        "Notes": "Tasks to keep existing customers engaged.",
+        "Suggested Usage Context": "Use in loyalty and support programs.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Budget Approved",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-08-16",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-16",
+        "Active": "Yes",
+        "Notes": "Financial plans authorized for use.",
+        "Suggested Usage Context": "Mark before project expenditure.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Cross-Channel",
+        "Type": "Category",
+        "Color Code": "#800080",
+        "Created Date": "2024-09-30",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-24",
+        "Active": "Yes",
+        "Notes": "Campaigns spanning multiple marketing channels.",
+        "Suggested Usage Context": "Use for integrated marketing efforts.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Follow-up Needed",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-07-24",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-15",
+        "Active": "Yes",
+        "Notes": "Tasks requiring additional contact or action.",
+        "Suggested Usage Context": "Tag for reminders and next steps.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "User Testing",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2024-11-29",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-21",
+        "Active": "Yes",
+        "Notes": "Testing campaigns or products with users.",
+        "Suggested Usage Context": "Assign to UX and QA teams.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Needs Revision",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-12-16",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-19",
+        "Active": "Yes",
+        "Notes": "Work requiring changes based on feedback.",
+        "Suggested Usage Context": "Mark drafts or tasks needing edits.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Growth Hacking",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2025-01-30",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-24",
+        "Active": "Yes",
+        "Notes": "Creative, low-cost strategies to grow clients.",
+        "Suggested Usage Context": "Assign to experimental marketing initiatives.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Internal Review",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-08-22",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-17",
+        "Active": "Yes",
+        "Notes": "Review by internal stakeholders before release.",
+        "Suggested Usage Context": "Use for quality and compliance checks.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Press Coverage",
+        "Type": "Category",
+        "Color Code": "#800080",
+        "Created Date": "2024-07-10",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-19",
+        "Active": "Yes",
+        "Notes": "Media mentions and news articles.",
+        "Suggested Usage Context": "Track publicity and media relations.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Pending Payment",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-09-11",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-05-20",
+        "Active": "Yes",
+        "Notes": "Awaiting client or vendor payments.",
+        "Suggested Usage Context": "Use for financial follow-up.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Brand Awareness",
+        "Type": "Category",
+        "Color Code": "#800080",
+        "Created Date": "2025-03-22",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-25",
+        "Active": "Yes",
+        "Notes": "Tasks to increase brand visibility.",
+        "Suggested Usage Context": "Assign to outreach and advertising efforts.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Script Writing",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2024-10-27",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-23",
+        "Active": "Yes",
+        "Notes": "Creating scripts for videos and presentations.",
+        "Suggested Usage Context": "Assign to content creators and editors.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "On Track",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-08-13",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-16",
+        "Active": "Yes",
+        "Notes": "Tasks progressing as planned.",
+        "Suggested Usage Context": "Monitor project milestones and timelines.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Partnership Outreach",
+        "Type": "Category",
+        "Color Code": "#800080",
+        "Created Date": "2024-09-09",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-22",
+        "Active": "Yes",
+        "Notes": "Engagement with potential partners.",
+        "Suggested Usage Context": "Use for business development initiatives.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Needs Confirmation",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-07-19",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-05-29",
+        "Active": "Yes",
+        "Notes": "Awaiting confirmation from clients or teams.",
+        "Suggested Usage Context": "Tag items for verification and approval.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Multimedia",
+        "Type": "Category",
+        "Color Code": "#800080",
+        "Created Date": "2024-11-16",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-24",
+        "Active": "Yes",
+        "Notes": "Use of various media types in campaigns.",
+        "Suggested Usage Context": "Assign to projects involving video, audio, images.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Content Strategy",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2024-08-04",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-22",
+        "Active": "Yes",
+        "Notes": "Planning content distribution and messaging.",
+        "Suggested Usage Context": "Use for editorial and marketing planning.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Closed",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-07-02",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-14",
+        "Active": "Yes",
+        "Notes": "Tasks or projects that have been finalized.",
+        "Suggested Usage Context": "Mark completed and archived work.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Analytics Review",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2024-12-28",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-23",
+        "Active": "Yes",
+        "Notes": "Evaluating campaign data and impact.",
+        "Suggested Usage Context": "Assign for regular performance checks.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "High Impact",
+        "Type": "Priority",
+        "Color Code": "#FF0000",
+        "Created Date": "2025-03-05",
+        "Visibility": "Public",
+        "Tag Group": "Priority",
+        "Last Used Date": "2025-06-25",
+        "Active": "Yes",
+        "Notes": "Tasks that significantly affect project outcomes.",
+        "Suggested Usage Context": "Use to prioritize critical work.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Preliminary",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-08-01",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-12",
+        "Active": "Yes",
+        "Notes": "Initial phase tasks and concepts.",
+        "Suggested Usage Context": "Use for early project stages.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Media Buying",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2024-10-14",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-20",
+        "Active": "Yes",
+        "Notes": "Purchasing advertising space and time.",
+        "Suggested Usage Context": "Assign to campaign budget management.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "In Review",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-11-23",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-22",
+        "Active": "Yes",
+        "Notes": "Currently being evaluated or analyzed.",
+        "Suggested Usage Context": "Use to track ongoing reviews.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Client Success",
+        "Type": "Category",
+        "Color Code": "#800080",
+        "Created Date": "2024-07-27",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-19",
+        "Active": "Yes",
+        "Notes": "Tasks focused on client satisfaction and results.",
+        "Suggested Usage Context": "Assign to account management teams.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Press Kit",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2025-02-28",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-25",
+        "Active": "Yes",
+        "Notes": "Media materials for press distribution.",
+        "Suggested Usage Context": "Use for PR and communications.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Rejected",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-12-07",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-04-10",
+        "Active": "No",
+        "Notes": "Tasks or proposals that were declined.",
+        "Suggested Usage Context": "Mark items to exclude from workflow.",
+        "Archived": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Ad Hoc",
+        "Type": "Category",
+        "Color Code": "#800080",
+        "Created Date": "2024-08-18",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-17",
+        "Active": "Yes",
+        "Notes": "Unplanned or one-off tasks.",
+        "Suggested Usage Context": "Use for unexpected or special requests.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Customer Insights",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2024-09-27",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-22",
+        "Active": "Yes",
+        "Notes": "Understanding customer behavior and preferences.",
+        "Suggested Usage Context": "Assign to market research and analysis.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Waiting Resources",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-07-16",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-05-13",
+        "Active": "No",
+        "Notes": "Tasks stalled due to lack of resources.",
+        "Suggested Usage Context": "Flag for resource allocation.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Social Campaign",
+        "Type": "Category",
+        "Color Code": "#800080",
+        "Created Date": "2025-01-05",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-21",
+        "Active": "Yes",
+        "Notes": "Marketing efforts on social media platforms.",
+        "Suggested Usage Context": "Use for Facebook, Instagram, LinkedIn ads.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Wireframe",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2024-10-10",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-18",
+        "Active": "Yes",
+        "Notes": "Basic layout designs for websites or apps.",
+        "Suggested Usage Context": "Assign to UX/UI designers.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Pending Review",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-08-10",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-15",
+        "Active": "Yes",
+        "Notes": "Tasks waiting for approval or feedback.",
+        "Suggested Usage Context": "Use to track review status.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Community Engagement",
+        "Type": "Category",
+        "Color Code": "#800080",
+        "Created Date": "2024-07-29",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-20",
+        "Active": "Yes",
+        "Notes": "Building and nurturing online communities.",
+        "Suggested Usage Context": "Use for forums, groups, and social channels.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Content Scheduling",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2024-11-20",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-22",
+        "Active": "Yes",
+        "Notes": "Planning publication dates for content.",
+        "Suggested Usage Context": "Assign to editorial calendars.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "In Testing",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-09-07",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-19",
+        "Active": "Yes",
+        "Notes": "Currently undergoing testing and validation.",
+        "Suggested Usage Context": "Use during QA phases.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Brand Partnership",
+        "Type": "Category",
+        "Color Code": "#800080",
+        "Created Date": "2025-03-13",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-25",
+        "Active": "Yes",
+        "Notes": "Collaborations with other brands.",
+        "Suggested Usage Context": "Use for co-marketing initiatives.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Technical Support",
+        "Type": "Category",
+        "Color Code": "#800080",
+        "Created Date": "2024-08-06",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-14",
+        "Active": "Yes",
+        "Notes": "Support related to technical issues.",
+        "Suggested Usage Context": "Assign to IT and customer support teams.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Waiting Internal Approval",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-12-25",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-17",
+        "Active": "Yes",
+        "Notes": "Awaiting sign-off from internal managers.",
+        "Suggested Usage Context": "Flag to speed internal processes.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Event Follow-up",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2024-07-08",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-15",
+        "Active": "Yes",
+        "Notes": "Post-event communication and actions.",
+        "Suggested Usage Context": "Assign for relationship management.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Needs Budget",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-10-23",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-11",
+        "Active": "Yes",
+        "Notes": "Tasks lacking allocated budget.",
+        "Suggested Usage Context": "Use to prioritize funding requests.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Press Event",
+        "Type": "Category",
+        "Color Code": "#800080",
+        "Created Date": "2025-02-12",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-24",
+        "Active": "Yes",
+        "Notes": "Events specifically for media coverage.",
+        "Suggested Usage Context": "Use for press conferences and launches.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "SEO Content",
+        "Type": "Category",
+        "Color Code": "#800080",
+        "Created Date": "2024-09-12",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-23",
+        "Active": "Yes",
+        "Notes": "Content optimized for search engines.",
+        "Suggested Usage Context": "Assign to content and SEO teams.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Pending Client Approval",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-11-18",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-18",
+        "Active": "Yes",
+        "Notes": "Waiting for final client approval.",
+        "Suggested Usage Context": "Use to track deliverables needing sign-off.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Campaign Analysis",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2024-08-27",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-24",
+        "Active": "Yes",
+        "Notes": "Reviewing campaign success and KPIs.",
+        "Suggested Usage Context": "Assign for post-campaign reports.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Urgent Fix",
+        "Type": "Priority",
+        "Color Code": "#FF0000",
+        "Created Date": "2025-04-02",
+        "Visibility": "Public",
+        "Tag Group": "Priority",
+        "Last Used Date": "2025-06-25",
+        "Active": "Yes",
+        "Notes": "Critical bugs or issues that must be fixed immediately.",
+        "Suggested Usage Context": "Use to escalate urgent technical problems.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Lead Nurturing",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2024-07-16",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-19",
+        "Active": "Yes",
+        "Notes": "Building relationships with potential clients.",
+        "Suggested Usage Context": "Assign to marketing automation tasks.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Client Training",
+        "Type": "Category",
+        "Color Code": "#800080",
+        "Created Date": "2024-10-09",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-21",
+        "Active": "Yes",
+        "Notes": "Educational sessions for clients.",
+        "Suggested Usage Context": "Use for onboarding and workshops.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Waiting Client Feedback",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-08-03",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-15",
+        "Active": "Yes",
+        "Notes": "Awaiting client input before proceeding.",
+        "Suggested Usage Context": "Tag to remind for follow-up.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Conversion Rate Optimization",
+        "Type": "Function",
+        "Color Code": "#0000FF",
+        "Created Date": "2024-11-21",
+        "Visibility": "Public",
+        "Tag Group": "Department",
+        "Last Used Date": "2025-06-24",
+        "Active": "Yes",
+        "Notes": "Improving website and campaign conversions.",
+        "Suggested Usage Context": "Assign for testing and analytics.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "Customer Acquisition",
+        "Type": "Priority",
+        "Color Code": "#FF0000",
+        "Created Date": "2025-03-28",
+        "Visibility": "Public",
+        "Tag Group": "Priority",
+        "Last Used Date": "2025-06-24",
+        "Active": "Yes",
+        "Notes": "High priority tasks focused on gaining new customers.",
+        "Suggested Usage Context": "Use for sales and marketing efforts.",
+        "Archived": "No"
+      }
+    },
+    {
+      "fields": {
+        "Tag Name": "In Design",
+        "Type": "Status",
+        "Color Code": "#FFD700",
+        "Created Date": "2024-08-20",
+        "Visibility": "Private",
+        "Tag Group": "Phase",
+        "Last Used Date": "2025-06-23",
+        "Active": "Yes",
+        "Notes": "Currently in the design development phase.",
+        "Suggested Usage Context": "Track creative progress stages.",
+        "Archived": "No"
+      }
+    }
+  ]
+}

@@ -1,0 +1,842 @@
+[
+    {
+        "name": "CEO",
+        "description": "Provide overall leadership and direction for the company. Responsible for setting strategic goals, making major corporate decisions, and managing the company's overall resources and operations.",
+        "department": "",
+        "skills": [
+            "Strategic Planning",
+            "Corporate Governance",
+            "Financial Acumen",
+            "Visionary Leadership"
+        ],
+        "no_of_recruitment": 1
+    },
+    {
+        "name": "COO",
+        "description": "Oversee the company's day-to-day administrative and operational functions. Responsible for executing the company's business plan, managing internal affairs, and ensuring operational efficiency across all departments.",
+        "department": "",
+        "skills": [
+            "Operations Management",
+            "Process Improvement",
+            "Leadership",
+            "Strategic Execution"
+        ],
+        "no_of_recruitment": 1
+    },
+    {
+        "name": "Production Supervisor",
+        "description": "Oversee daily manufacturing operations, ensuring production targets are met while maintaining quality standards. Manage a team of production workers, schedule shifts, and coordinate with other departments to optimize workflow.",
+        "department": "Manufacturing",
+        "skills": [
+            "Leadership",
+            "Time Management",
+            "Problem Solving"
+        ],
+        "no_of_recruitment": 2
+    },
+    {
+        "name": "Warehouse Manager",
+        "description": "Manage warehouse operations including inventory control, shipping and receiving, and staff supervision. Ensure compliance with safety regulations and optimize storage solutions to improve efficiency.",
+        "department": "Warehouse & Inventory",
+        "skills": [
+            "Inventory Management",
+            "Logistics Coordination",
+            "Team Leadership"
+        ],
+        "no_of_recruitment": 2
+    },
+    {
+        "name": "Logistics Coordinator",
+        "description": "Coordinate and monitor supply chain operations, ensuring timely delivery of goods. Communicate with suppliers and customers to resolve issues and improve logistics processes.",
+        "department": "Logistics",
+        "skills": [
+            "Communication",
+            "Analytical Skills",
+            "Attention to Detail"
+        ],
+        "no_of_recruitment": 3
+    },
+    {
+        "name": "Sales Associate",
+        "description": "Assist customers in selecting products, provide product information, and handle transactions. Maintain store appearance and assist in inventory management.",
+        "department": "Sales & Marketing",
+        "skills": [
+            "Customer Service",
+            "Sales Techniques",
+            "Product Knowledge"
+        ],
+        "no_of_recruitment": 5
+    },
+    {
+        "name": "Marketing Specialist",
+        "description": "Develop and implement marketing strategies to promote products. Analyze market trends and customer feedback to optimize campaigns and increase brand awareness.",
+        "department": "Sales & Marketing",
+        "skills": [
+            "Digital Marketing",
+            "Content Creation",
+            "Market Research"
+        ],
+        "no_of_recruitment": 3
+    },
+    {
+        "name": "Procurement Specialist",
+        "description": "Manage purchasing processes, negotiate with suppliers, and ensure timely delivery of materials. Monitor inventory levels and collaborate with other departments to forecast needs.",
+        "department": "Procurement",
+        "skills": [
+            "Negotiation",
+            "Analytical Skills",
+            "Vendor Management"
+        ],
+        "no_of_recruitment": 2
+    },
+    {
+        "name": "Accountant",
+        "description": "Prepare financial statements, manage budgets, and ensure compliance with tax regulations. Analyze financial data to provide insights for decision-making.",
+        "department": "Finance & Accounting",
+        "skills": [
+            "Financial Analysis",
+            "Attention to Detail",
+            "Accounting Software"
+        ],
+        "no_of_recruitment": 2
+    },
+    {
+        "name": "HR Generalist",
+        "description": "Support HR functions including recruitment, employee relations, and performance management. Assist in developing HR policies and ensure compliance with labor laws.",
+        "department": "Human Resources",
+        "skills": [
+            "Interpersonal Skills",
+            "Conflict Resolution",
+            "Organizational Skills"
+        ],
+        "no_of_recruitment": 3
+    },
+    {
+        "name": "IT Support Specialist",
+        "description": "Provide technical support to employees, troubleshoot hardware and software issues, and maintain IT systems. Assist in implementing new technologies and training staff.",
+        "department": "IT",
+        "skills": [
+            "Technical Support",
+            "Problem Solving",
+            "Communication"
+        ],
+        "no_of_recruitment": 2
+    },
+    {
+        "name": "Customer Service Representative",
+        "no_of_recruitment": 2,
+        "department": "Customer Support",
+        "skills": [
+            "Communication",
+            "Empathy",
+            "Data analysis",
+            "Adaptability"
+        ],
+        "description": "Focus on enhancing the overall customer journey, gathering valuable feedback, and implementing improvements across all customer touchpoints. Analyze customer data to identify trends, pain points, and opportunities for service excellence and innovation."
+    },
+    {
+        "name": "Customer Support Lead",
+        "department": "Customer Support",
+        "no_of_recruitment": 1,
+        "alias_email": "customersupportlead@domain.com",
+        "skills": [
+            "Coaching and mentoring",
+            "Conflict Resolution",
+            "Leadership",
+            "Performance management software",
+            "Communication tools"
+        ],
+        "description": "Provide guidance and support to the customer service representatives, handle escalated customer issues, and assist in the training and onboarding of new team members. Ensure the consistent delivery of high-quality customer support and foster a positive team environment."
+    },
+    {
+        "name": "Marketing Manager",
+        "department": "Sales & Marketing",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Digital marketing tools (Google Analytics, SEO)",
+            "Brand management",
+            "Market research",
+            "Strategic planning",
+            "Leadership"
+        ],
+        "description": "Lead marketing initiatives and develop comprehensive marketing strategies to drive brand awareness and customer acquisition. Oversee marketing campaigns, analyze market trends, and manage marketing budgets to achieve business objectives."
+    },
+    {
+        "name": "Software Engineer",
+        "department": "Technology",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Attention to Detail",
+            "Analytical Skills",
+            "Problem Solving"
+        ],
+        "description": "Design, develop, and maintain software applications and systems. Write clean, efficient code, participate in code reviews, and collaborate with cross-functional teams to deliver high-quality software solutions."
+    },
+    {
+        "name": "Data Analyst",
+        "department": "Technology",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Data analysis software (Excel, Tableau)",
+            "Data analysis",
+            "Reporting tools",
+            "Analytical thinking",
+            "Attention to Detail"
+        ],
+        "description": "Analyze complex data sets to identify trends, patterns, and insights that drive business decisions. Create reports, dashboards, and visualizations to communicate findings to stakeholders and support data-driven decision making."
+    },
+    {
+        "name": "Project Manager",
+        "department": "Operations",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Analytical Skills",
+            "Problem Solving",
+            "Communication"
+        ],
+        "description": "Lead and manage projects from initiation to completion, ensuring they meet business requirements and are delivered on time and within budget. Coordinate with cross-functional teams to ensure project success."
+    },
+    {
+        "name": "Cyber Security Analyst",
+        "department": "Technology",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Risk management",
+            "Regulatory compliance",
+            "Crisis management",
+            "Analytical thinking",
+            "Attention to Detail"
+        ],
+        "description": "Monitor and protect organizational systems and networks from cyber threats. Implement security measures, conduct vulnerability assessments, and respond to security incidents to maintain data integrity and system security."
+    },
+    {
+        "name": "Product Manager",
+        "department": "Product",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Product lifecycle management",
+            "Market research",
+            "Strategic planning",
+            "Cross-functional collaboration",
+            "Customer-centric mindset"
+        ],
+        "description": "Define product strategy, roadmap, and requirements based on market research and customer needs. Collaborate with engineering, design, and marketing teams to deliver products that meet business objectives and user expectations."
+    },
+    {
+        "name": "Graphic Designer",
+        "department": "Marketing",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Content management systems",
+            "Brand management",
+            "Digital marketing tools (Google Analytics, SEO)",
+            "Attention to Detail",
+            "Innovative thinking"
+        ],
+        "description": "Create visual content for marketing materials, websites, and digital platforms. Develop design concepts that align with brand guidelines and effectively communicate marketing messages to target audiences."
+    },
+    {
+        "name": "Database Administrator",
+        "department": "Technology",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "ERP systems (SAP, Oracle, etc.)",
+            "Data analysis",
+            "Risk management",
+            "Attention to Detail",
+            "Analytical thinking"
+        ],
+        "description": "Manage and maintain database systems to ensure optimal performance, security, and availability. Implement backup and recovery procedures, monitor database performance, and troubleshoot technical issues."
+    },
+    {
+        "name": "Customer Support Manager",
+        "department": "Customer Support",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Leadership",
+            "Performance management software",
+            "Coaching and mentoring",
+            "Customer-centric mindset"
+        ],
+        "description": "Lead and manage the customer support team to ensure exceptional service delivery. Develop support processes, monitor team performance, and implement strategies to improve customer satisfaction and retention."
+    },
+    {
+        "name": "Network Engineer",
+        "department": "Technology",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Supply chain software",
+            "Communication tools",
+            "Troubleshooting techniques",
+            "Analytical thinking",
+            "Attention to Detail"
+        ],
+        "description": "Design, implement, and maintain network infrastructure to ensure reliable connectivity and optimal performance. Monitor network systems, troubleshoot issues, and implement security measures to protect network resources."
+    },
+    {
+        "name": "Legal Counsel",
+        "department": "Legal",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Negotiation",
+            "Leadership",
+            "Market Analysis"
+        ],
+        "description": "Provide legal advice and support to the organization on various matters including contracts, compliance, and regulatory issues. Review legal documents, manage litigation, and ensure adherence to applicable laws and regulations."
+    },
+    {
+        "name": "DevOps Engineer",
+        "department": "Technology",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Project management (Agile, PMP, etc.)",
+            "Digital transformation",
+            "Change management",
+            "Analytical thinking",
+            "Self-Motivation"
+        ],
+        "description": "Implement and manage development and deployment processes to improve software delivery efficiency. Automate infrastructure, monitor system performance, and collaborate with development teams to ensure reliable software releases."
+    },
+    {
+        "name": "QA Engineer",
+        "department": "Technology",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Attention to Detail",
+            "Time Management",
+            "Accounting Software"
+        ],
+        "description": "Design and execute test plans to ensure software quality and functionality. Identify defects, document test results, and work with development teams to resolve issues and improve product quality."
+    },
+    {
+        "name": "Systems Administrator",
+        "department": "Technology",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "ERP systems (SAP, Oracle, etc.)",
+            "Risk management",
+            "Troubleshooting techniques",
+            "Attention to Detail",
+            "Self-Motivation"
+        ],
+        "description": "Manage and maintain IT systems and infrastructure to ensure optimal performance and security. Install and configure software, monitor system performance, and provide technical support to users."
+    },
+    {
+        "name": "UI/UX Designer",
+        "department": "Design",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Customer experience (CX) management",
+            "Market research",
+            "Customer-centric mindset",
+            "Innovative thinking",
+            "Attention to Detail"
+        ],
+        "description": "Design user interfaces and experiences for digital products and applications. Conduct user research, create wireframes and prototypes, and collaborate with development teams to create intuitive and engaging user experiences."
+    },
+    {
+        "name": "Business Analyst",
+        "department": "Operations",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Data analysis software (Excel, Tableau)",
+            "Business development",
+            "Strategic planning",
+            "Analytical thinking",
+            "Communication tools"
+        ],
+        "description": "Analyze business processes and requirements to identify opportunities for improvement. Gather and document business requirements, facilitate stakeholder meetings, and recommend solutions to enhance operational efficiency."
+    },
+    {
+        "name": "Content Strategist",
+        "department": "Marketing",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Content management systems",
+            "Digital marketing tools (Google Analytics, SEO)",
+            "Brand management",
+            "Market research",
+            "Strategic planning"
+        ],
+        "description": "Develop and execute content strategies that align with business objectives and engage target audiences. Create content calendars, oversee content production, and analyze content performance to optimize marketing efforts."
+    },
+    {
+        "name": "Cloud Architect",
+        "department": "Technology",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Digital transformation",
+            "Strategic planning",
+            "Risk management",
+            "Analytical thinking",
+            "Innovative thinking"
+        ],
+        "description": "Design and implement cloud infrastructure solutions that meet business requirements for scalability, security, and performance. Develop cloud migration strategies and ensure optimal cloud resource utilization."
+    },
+    {
+        "name": "Executive Assistant",
+        "department": "Administration",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "MS Office (Excel, Word, PowerPoint)",
+            "Communication tools",
+            "Time management",
+            "Attention to Detail",
+            "Multitasking"
+        ],
+        "description": "Provide high-level administrative support to executives including calendar management, travel coordination, and meeting preparation. Handle confidential information and serve as a liaison between executives and stakeholders."
+    },
+    {
+        "name": "Operations Manager",
+        "department": "Operations",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Leadership",
+            "Performance management software",
+            "Change management",
+            "Cross-functional collaboration"
+        ],
+        "description": "Oversee daily operations and ensure efficient workflow across departments. Implement operational improvements, manage resources, and coordinate with various teams to achieve organizational goals and objectives."
+    },
+    {
+        "name": "Recruiter",
+        "department": "Human Resources",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Recruitment tools",
+            "Applicant tracking systems (ATS)",
+            "Interviewing techniques",
+            "Recruitment marketing tools",
+            "Communication tools"
+        ],
+        "description": "Source, screen, and recruit qualified candidates for open positions. Manage the recruitment process from job posting to offer negotiation, and build relationships with candidates and hiring managers to ensure successful placements."
+    },
+    {
+        "name": "Machine Learning Engineer",
+        "department": "Technology",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Data analysis software (Excel, Tableau)",
+            "Data analysis",
+            "Analytical thinking",
+            "Innovative thinking",
+            "Self-Motivation"
+        ],
+        "description": "Design and implement machine learning models and algorithms to solve business problems. Work with large datasets, develop predictive models, and deploy ML solutions to production environments."
+    },
+    {
+        "name": "Sales Representative",
+        "department": "Sales & Marketing",
+        "no_of_recruitment": 1,
+        "skills": [
+            "Brand Strategy",
+            "Market Research",
+            "Communication"
+        ],
+        "description": "Develop and implement sales strategies to increase market share and drive revenue growth. Build relationships with clients, negotiate deals, and ensure customer satisfaction while meeting sales targets."
+    },
+    {
+        "name": "Mobile Developer",
+        "department": "Technology",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Project management (Agile, PMP, etc.)",
+            "Data analysis",
+            "Analytical thinking",
+            "Innovative thinking",
+            "Attention to Detail"
+        ],
+        "description": "Develop mobile applications for iOS and Android platforms. Design user interfaces, implement functionality, and ensure optimal performance and user experience across different mobile devices."
+    },
+    {
+        "name": "Paralegal",
+        "department": "Legal",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Attention to Detail",
+            "Communication tools"
+        ],
+        "description": "Assist legal counsel with research, document preparation, and case management. Maintain legal files, prepare legal documents, and support litigation processes while ensuring compliance with legal procedures."
+    },
+    {
+        "name": "Web Developer",
+        "department": "Technology",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Content management systems",
+            "Digital marketing tools (Google Analytics, SEO)",
+            "Data analysis",
+            "Analytical thinking",
+            "Attention to Detail"
+        ],
+        "description": "Design and develop websites and web applications. Write code, implement functionality, and ensure responsive design and optimal performance across different browsers and devices."
+    },
+    {
+        "name": "Social Media Manager",
+        "department": "Marketing",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Social media platforms",
+            "Digital marketing tools (Google Analytics, SEO)",
+            "Content management systems",
+            "Brand management",
+            "Customer-centric mindset"
+        ],
+        "description": "Manage and execute social media strategies across various platforms. Create engaging content, monitor social media metrics, and build online communities to enhance brand presence and customer engagement."
+    },
+    {
+        "name": "Data Scientist",
+        "department": "Technology",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Data analysis software (Excel, Tableau)",
+            "Data analysis",
+            "Financial modeling",
+            "Analytical thinking",
+            "Innovative thinking"
+        ],
+        "description": "Apply statistical and machine learning techniques to analyze complex datasets and extract actionable insights. Develop predictive models, conduct experiments, and communicate findings to support data-driven business decisions."
+    },
+    {
+        "name": "Office Manager",
+        "department": "Administration",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "MS Office (Excel, Word, PowerPoint)",
+            "Communication tools",
+            "Staff scheduling software",
+            "Time management",
+            "Multitasking"
+        ],
+        "description": "Oversee daily office operations and administrative functions. Manage office supplies, coordinate meetings, supervise administrative staff, and ensure smooth office operations to support organizational productivity."
+    },
+    {
+        "name": "Business Development Manager",
+        "department": "Business Development",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Business development",
+            "Strategic planning",
+            "Market research",
+            "Negotiation",
+            "Leadership"
+        ],
+        "description": "Identify and pursue new business opportunities to drive company growth. Develop strategic partnerships, negotiate deals, and create business development strategies to expand market presence and revenue."
+    },
+    {
+        "name": "Help Desk Technician",
+        "department": "Technology",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Troubleshooting techniques",
+            "Customer service software (e.g., Zendesk)",
+            "Communication tools",
+            "Patience",
+            "Active Listening"
+        ],
+        "description": "Provide first-level technical support to end users via phone, email, and chat. Resolve basic technical issues, escalate complex problems, and maintain help desk tickets to ensure timely resolution of user requests."
+    },
+    {
+        "name": "Supply Chain Analyst",
+        "department": "Supply Chain",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Supply chain software",
+            "Data analysis software (Excel, Tableau)",
+            "Demand forecasting",
+            "Analytical thinking",
+            "Attention to Detail"
+        ],
+        "description": "Analyze supply chain processes and performance to identify optimization opportunities. Monitor inventory levels, forecast demand, and collaborate with suppliers to ensure efficient supply chain operations."
+    },
+    {
+        "name": "Information Security Officer",
+        "department": "Technology",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Risk management",
+            "Regulatory compliance",
+            "Crisis management",
+            "Strategic planning",
+            "Leadership"
+        ],
+        "description": "Develop and implement information security policies and procedures to protect organizational data and systems. Conduct security assessments, manage security incidents, and ensure compliance with security regulations."
+    },
+    {
+        "name": "Technical Writer",
+        "department": "Documentation",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Content management systems",
+            "Communication tools",
+            "MS Office (Excel, Word, PowerPoint)",
+            "Attention to Detail",
+            "Analytical thinking"
+        ],
+        "description": "Create and maintain technical documentation, user manuals, and help guides. Collaborate with development teams to document software features and processes, ensuring clear and accurate information for end users."
+    },
+    {
+        "name": "Solutions Architect",
+        "department": "Technology",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Strategic planning",
+            "Digital transformation",
+            "ERP systems (SAP, Oracle, etc.)",
+            "Analytical thinking",
+            "Leadership"
+        ],
+        "description": "Design and implement comprehensive technology solutions that meet business requirements. Evaluate technical options, create architecture blueprints, and guide development teams in building scalable and efficient systems."
+    },
+    {
+        "name": "Payroll Specialist",
+        "department": "Human Resources",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Payroll systems",
+            "HRIS software",
+            "Tax regulations",
+            "Data entry and reporting",
+            "Attention to Detail"
+        ],
+        "description": "Process payroll for employees, ensuring accurate calculation of wages, deductions, and benefits. Maintain payroll records, handle tax compliance, and resolve payroll-related inquiries from employees."
+    },
+    {
+        "name": "Chief Financial Officer (CFO)",
+        "department": "Executive",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Leadership",
+            "Corporate governance",
+            "Risk management"
+        ],
+        "description": "Lead the financial strategy and operations of the organization. Oversee financial planning, budgeting, and reporting while ensuring compliance with financial regulations and supporting strategic business decisions."
+    },
+    {
+        "name": "UX Researcher",
+        "department": "Design",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Market research",
+            "Customer experience (CX) management",
+            "Data analysis",
+            "Customer-centric mindset",
+            "Analytical thinking"
+        ],
+        "description": "Conduct user research to understand customer needs and behaviors. Design and execute research studies, analyze findings, and provide insights to inform product design and user experience decisions."
+    },
+    {
+        "name": "Systems Engineer",
+        "department": "Technology",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "ERP systems (SAP, Oracle, etc.)",
+            "Project management (Agile, PMP, etc.)",
+            "Risk management",
+            "Analytical thinking",
+            "Self-Motivation"
+        ],
+        "description": "Design, implement, and maintain complex systems and infrastructure. Ensure system reliability, performance, and security while collaborating with various teams to meet technical requirements."
+    },
+    {
+        "name": "Inside Sales Representative",
+        "department": "Sales & Marketing",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Sales techniques",
+            "CRM software proficiency",
+            "Communication tools",
+            "Customer-centric mindset",
+            "Self-Motivation"
+        ],
+        "description": "Generate leads and close sales through phone and online channels. Build relationships with prospects, present products and services, and achieve sales targets while maintaining excellent customer service."
+    },
+    {
+        "name": "Data Engineer",
+        "department": "Technology",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Data analysis software (Excel, Tableau)",
+            "ERP systems (SAP, Oracle, etc.)",
+            "Data analysis",
+            "Analytical thinking",
+            "Self-Motivation"
+        ],
+        "description": "Design and build data pipelines and infrastructure to support data analytics and business intelligence. Ensure data quality, availability, and performance while collaborating with data scientists and analysts."
+    },
+    {
+        "name": "Public Relations Manager",
+        "department": "Marketing",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Communication tools",
+            "Brand management",
+            "Market research",
+            "Strategic planning",
+            "Leadership"
+        ],
+        "description": "Manage public relations activities and communications strategy. Build relationships with media, create press releases, and manage the organization's public image and reputation."
+    },
+    {
+        "name": "Facilities Manager",
+        "department": "Administration",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Leadership",
+            "Customer Service",
+            "Problem Solving"
+        ],
+        "description": "Oversee facility operations, maintenance, and security. Manage vendor relationships, ensure compliance with safety regulations, and optimize facility usage to support business operations."
+    },
+    {
+        "name": "Digital Marketing Specialist",
+        "department": "Marketing",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Digital marketing tools (Google Analytics, SEO)",
+            "Social media platforms",
+            "Email marketing software",
+            "Content management systems",
+            "Data analysis"
+        ],
+        "description": "Execute digital marketing campaigns across various online channels. Manage social media, email marketing, and online advertising while analyzing performance metrics to optimize campaign effectiveness."
+    },
+    {
+        "name": "Chief Technology Officer (CTO)",
+        "department": "Executive",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Financial Management",
+            "Leadership",
+            "Innovation thinking",
+            "Risk management"
+        ],
+        "description": "Lead technology strategy and innovation initiatives. Oversee technology development, evaluate emerging technologies, and ensure technology solutions align with business objectives and drive competitive advantage."
+    },
+    {
+        "name": "Senior Software Engineer",
+        "department": "Technology",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Project management (Agile, PMP, etc.)",
+            "Leadership",
+            "Coaching and mentoring",
+            "Analytical thinking",
+            "Self-Motivation"
+        ],
+        "description": "Lead software development projects and mentor junior developers. Design complex software solutions, conduct code reviews, and ensure high-quality software delivery while following best practices."
+    },
+    {
+        "name": "HR Manager",
+        "no_of_recruitment": 1,
+        "department": "Human Resources",
+        "skills": [
+            "Leadership",
+            "Performance management software",
+            "Employment law knowledge",
+            "Strategic planning"
+        ],
+        "description": "Lead human resources operations and strategy. Oversee recruitment, employee relations, performance management, and policy development while ensuring compliance with employment laws and regulations."
+    },
+    {
+        "name": "Security Analyst",
+        "department": "Technology",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Risk management",
+            "Regulatory compliance",
+            "Crisis management",
+            "Analytical thinking",
+            "Attention to Detail"
+        ],
+        "description": "Monitor and analyze security threats and vulnerabilities. Implement security measures, conduct risk assessments, and respond to security incidents to protect organizational assets and data."
+    },
+    {
+        "name": "Network Administrator",
+        "department": "Technology",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Supply chain software",
+            "Troubleshooting techniques",
+            "Risk management",
+            "Attention to Detail",
+            "Self-Motivation"
+        ],
+        "description": "Manage and maintain network infrastructure and systems. Monitor network performance, troubleshoot connectivity issues, and ensure network security and reliability for organizational operations."
+    },
+    {
+        "name": "Human Resources Manager",
+        "department": "Human Resources",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "HRIS software",
+            "Leadership",
+            "Strategic planning",
+            "Employment law knowledge",
+            "Performance management software"
+        ],
+        "description": "Lead comprehensive human resources functions including talent acquisition, employee development, and organizational culture initiatives. Develop HR policies and ensure compliance with employment regulations."
+    },
+    {
+        "name": "Cybersecurity Analyst",
+        "department": "Technology",
+        "no_of_recruitment": 1,
+        "alias_email": "",
+        "skills": [
+            "Risk management",
+            "Regulatory compliance",
+            "Crisis management",
+            "Analytical thinking",
+            "Attention to Detail"
+        ],
+        "description": "Protect organizational systems and data from cyber threats. Monitor security systems, investigate security incidents, and implement cybersecurity measures to maintain data integrity and system security."
+    }
+]

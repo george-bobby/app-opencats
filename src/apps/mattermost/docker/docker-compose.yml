@@ -1,0 +1,98 @@
+name: mattermost
+
+services:
+  postgres:
+    image: postgres:13-alpine
+    restart: ${RESTART_POLICY:-unless-stopped}
+    security_opt:
+      - no-new-privileges:true
+    pids_limit: 100
+    read_only: true
+    ports:
+      - 5432:5432
+    tmpfs:
+      - /tmp
+      - /var/run/postgresql
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    env_file:
+      - .env.docker
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER} -d ${POSTGRES_DB}"]
+      interval: 5s
+      timeout: 2s
+      retries: 20
+      start_period: 10s
+
+  mattermost:
+    depends_on:
+      postgres:
+        condition: service_healthy
+    image: mattermost/${MATTERMOST_IMAGE}:${MATTERMOST_IMAGE_TAG}
+    restart: ${RESTART_POLICY:-unless-stopped}
+    security_opt:
+      - no-new-privileges:true
+    pids_limit: 200
+    read_only: ${MATTERMOST_CONTAINER_READONLY:-false}
+    ports:
+      - 8065:8065
+    tmpfs:
+      - /tmp
+    volumes:
+      - mattermost_config:/mattermost/config:rw
+      - mattermost_data:/mattermost/data:rw
+      - mattermost_logs:/mattermost/logs:rw
+      - mattermost_plugins:/mattermost/plugins:rw
+      - mattermost_client_plugins:/mattermost/client/plugins:rw
+      - mattermost_bleve_indexes:/mattermost/bleve-indexes:rw
+      # When you want to use SSO with GitLab, you have to add the cert pki chain of GitLab inside Alpine
+      # to avoid Token request failed: certificate signed by unknown authority 
+      # (link: https://github.com/mattermost/mattermost-server/issues/13059 and https://github.com/mattermost/docker/issues/34)
+      # - ${GITLAB_PKI_CHAIN_PATH}:/etc/ssl/certs/pki_chain.pem:ro
+
+    # environment:
+
+    #   # necessary Mattermost options/variables (see env.example)
+    #   - MM_SQLSETTINGS_DRIVERNAME
+    #   - MM_SQLSETTINGS_DATASOURCE
+
+    #   # necessary for bleve
+    #   - MM_BLEVESETTINGS_INDEXDIR
+
+    #   # additional settings
+    #   - MM_SERVICESETTINGS_SITEURL
+    env_file:
+      - .env.docker
+
+  mattermost-ready:
+    image: busybox:latest
+    depends_on:
+      mattermost:
+        condition: service_healthy
+    command: echo "Mattermost is ready!"
+    healthcheck:
+      test: ["CMD", "wget", "--no-verbose", "--tries=1", "--spider", "http://mattermost:8065/api/v4/system/ping"]
+      interval: 2s
+      timeout: 1s
+      retries: 20
+      start_period: 2s
+
+volumes:
+  postgres_data:
+  mattermost_config:
+  mattermost_data:
+  mattermost_logs:
+  mattermost_plugins:
+  mattermost_client_plugins:
+  mattermost_bleve_indexes:
+
+# If you use rolling image tags and feel lucky watchtower can automatically pull new images and
+# instantiate containers from it. https://containrrr.dev/watchtower/
+# Please keep in mind watchtower will have access on the docker socket. This can be a security risk.
+#
+#  watchtower:
+#    container_name: watchtower
+#    image: containrrr/watchtower:latest
+#    restart: unless-stopped
+#    volumes:
+#      - /var/run/docker.sock:/var/run/docker.sock

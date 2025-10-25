@@ -1,0 +1,37 @@
+version: "3.7"
+name: crm
+services:
+  mariadb:
+    image: mariadb:10.8
+    command:
+      - --character-set-server=utf8mb4
+      - --collation-server=utf8mb4_unicode_ci
+      - --skip-character-set-client-handshake
+      - --skip-innodb-read-only-compressed # Temporary fix for MariaDB 10.6
+    environment:
+      MYSQL_ROOT_PASSWORD: 123
+    volumes:
+      - mariadb-data:/var/lib/mysql
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-u", "root", "-p123"]
+      timeout: 5s
+      retries: 50
+
+  redis:
+    image: redis:alpine
+
+  frappe:
+    build: .
+    environment:
+      - SHELL=/bin/bash
+      - MYSQL_PASSWORD=${MYSQL_PASSWORD}
+      - ADMIN_PASSWORD=${ADMIN_PASSWORD}
+    ports:
+      - 8000:8000
+      - 9000:9000
+    depends_on:
+      mariadb:
+        condition: service_healthy
+
+volumes:
+  mariadb-data:

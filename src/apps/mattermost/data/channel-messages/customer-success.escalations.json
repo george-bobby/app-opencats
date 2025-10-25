@@ -1,0 +1,820 @@
+{
+    "threads": [
+        {
+            "messages": [
+                {
+                    "from_user": 44,
+                    "content": "Team, we have an urgent escalation from our largest enterprise client, TechGlobal Solutions. They're experiencing widespread integration failures with our latest API update. @daniel.smith Can you provide an immediate status on the reported issues and impact assessment?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1716335199607,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 85,
+                    "content": "I've reviewed the incident logs. It appears the integration failures are concentrated in their authentication microservices. Preliminary analysis suggests a compatibility issue with our recent JWT token implementation. I'm assembling a detailed technical breakdown and will have a comprehensive report within the next 2 hours.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1716371131209,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 36,
+                    "content": "@michael.wilson @daniel.smith This sounds serious. What's our immediate communication plan with the client? We need to proactively manage their expectations and demonstrate we're treating this with top priority.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1716392378760,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 1,
+                    "content": "**Escalation Protocol Activated**\n\n1. Immediate technical investigation underway\n2. Client communication to be drafted within the hour\n3. Potential rollback of recent API changes being evaluated\n\nI want hourly updates from the team until we have a resolution strategy.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1716410061147,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 44,
+                    "content": "@john.appleseed @valerie.byrd Confirmed: Emergency response team is mobilized. We're preparing a comprehensive mitigation strategy that includes:\n- Immediate technical diagnosis\n- Temporary workaround development\n- Full root cause analysis\n\nTarget resolution: Within next 6-8 business hours.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1716421599607,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": true,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 44,
+                    "content": "Team, we have an urgent escalation from TechCorp regarding a critical integration failure in their enterprise deployment. **Key Impact:** Complete system downtime affecting 250 users. @daniel.smith Can you provide initial assessment details?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1717337835858,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 85,
+                    "content": "Just completed initial investigation. The integration breakdown appears to stem from a recent API version update in our middleware. Preliminary root cause suggests a compatibility issue between our latest software release and TechCorp's existing infrastructure.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1717364896710,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 1,
+                    "content": "This is unacceptable. @michael.wilson We need a comprehensive recovery plan within the next 4 hours. TechCorp is a strategic enterprise client, and this outage could severely damage our relationship.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1717381810015,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 36,
+                    "content": "I've already reached out to the TechCorp CTO. They're requesting hourly updates and want a detailed incident report by end of day. @daniel.smith, please coordinate with our technical team to prepare a comprehensive timeline of the issue.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1717397348311,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 16,
+                    "content": "From a sales perspective, we need to proactively manage client communication. I recommend preparing a compensation package or service credits to mitigate potential contract risks. @michael.wilson, can we draft a preliminary goodwill proposal?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1717410339093,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 44,
+                    "content": "**Immediate Action Items:**\n- Complete root cause analysis within 2 hours\n- Develop emergency patch\n- Prepare comprehensive incident report\n- Draft client communication and compensation strategy\n\nAll hands on deck until this is resolved.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1717419364442,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 85,
+                    "content": "Emergency patch is now in development. Estimated deployment window is within the next 90 minutes. We're coordinating with the infrastructure team to ensure minimal additional disruption during implementation.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1717427835858,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 44,
+                    "content": "### Urgent: Major Customer Escalation - Enterprise Client XYZ Tech Solutions\n\nTeam, we have a critical situation with our largest enterprise client that requires immediate attention. XYZ Tech Solutions is experiencing significant service disruptions that are impacting their entire infrastructure. @daniel.smith, can you provide an initial assessment of the reported issues?",
+                    "is_pinned": true,
+                    "has_reactions": true,
+                    "timestamp": 1717609296731,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 85,
+                    "content": "Initial investigation reveals multiple service interruptions in their cloud integration stack. Preliminary data suggests a potential systemic issue with our latest API release. I've pulled the recent deployment logs and noticed some anomalous error rates that might be causing the widespread problems.",
+                    "is_pinned": true,
+                    "has_reactions": false,
+                    "timestamp": 1717654476831,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 36,
+                    "content": "@michael.wilson @daniel.smith This could seriously impact our Q3 renewal. XYZ Tech Solutions represents nearly 40% of our enterprise segment revenue. We need a comprehensive mitigation strategy ASAP to prevent potential contract cancellation.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1717683150371,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 1,
+                    "content": "I'm scheduling an emergency meeting with our CTO and the technical team. @terri.shelton, please coordinate with the account management team to prepare a comprehensive communication plan for the client. We need transparency and a clear resolution roadmap.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1717703740042,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 16,
+                    "content": "Communication draft prepared. We'll outline the following key points:\n- Acknowledgment of service disruptions\n- Preliminary root cause analysis\n- Immediate mitigation steps\n- Proposed compensation framework\n\nShould we draft this as a formal communication or have a direct executive call?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1717721560244,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 44,
+                    "content": "Immediate actions:\n1. Implement emergency rollback of recent API deployment\n2. Establish 24/7 direct support channel for XYZ Tech\n3. Prepare detailed incident report within next 6 hours\n\n@daniel.smith, I need you to lead the technical investigation and provide hourly updates.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1717740721093,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 85,
+                    "content": "Technical team is fully engaged. We've identified the root cause in our latest API gateway configuration. Rollback is in progress, and we're developing a patch that will not only resolve the current issues but also prevent similar incidents in future deployments.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1717756896731,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 44,
+                    "content": "Team, we need to discuss an urgent escalation from our key enterprise client, TechNova Solutions. They're experiencing significant performance degradation with our latest integration platform release. @william.mejia @barbara.bradley Can we assemble an immediate response team to diagnose and mitigate?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1719997574464,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 18,
+                    "content": "I've already spoken with the TechNova account lead this morning. Their primary concern is the 40% latency increase in their API gateway after our last deployment. @michael.wilson I recommend we pull in our senior engineering team to conduct an emergency performance audit.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1720018502127,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 43,
+                    "content": "I've reviewed the initial diagnostic logs from their infrastructure team. There seems to be a potential conflict between our new authentication middleware and their existing security layer. We should schedule an emergency troubleshooting session with their technical team to map out the precise interaction points causing the performance bottleneck.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1720025675698,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 80,
+                    "content": "Agreed. I'm drafting a detailed communication plan for TechNova. We'll need to commit to a 24-hour turnaround on a comprehensive root cause analysis. @william.mejia @barbara.bradley Shall we propose a joint troubleshooting workshop tomorrow morning to demonstrate our commitment to resolving this quickly?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1720033574464,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 44,
+                    "content": "Team, we have an urgent escalation from our largest enterprise client, GlobalTech Solutions. They're experiencing significant performance degradation with our latest API integration. @william.mejia @barbara.bradley Can we assemble an immediate response team to diagnose and mitigate this issue?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1724281499319,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 18,
+                    "content": "I've already spoken with the client's CTO this morning. Their primary bottleneck appears to be in our data synchronization module. We're seeing latency spikes of over 500ms during peak transaction periods. @michael.wilson, I recommend we pull in our senior engineering team for a deep technical review.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1724314523895,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 85,
+                    "content": "I'll schedule an emergency customer success check-in with GlobalTech. We need to demonstrate proactive communication and reassure them that we're treating this as our top priority. @jonathan.alexander, can you help me draft a preliminary incident report to share with their team?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1724330687458,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 38,
+                    "content": "Preliminary investigation suggests a potential race condition in our latest API release. I've isolated the problematic code segments and will prepare a comprehensive breakdown for the engineering team to review. Our initial estimate is that we can deploy a hotfix within the next 4-6 hours.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1724340919645,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 44,
+                    "content": "Excellent cross-team collaboration. Let's ensure we have a full post-mortem prepared and schedule a debrief with GlobalTech's leadership. Our goal is not just to resolve the issue, but to rebuild confidence in our service delivery. @william.mejia, please coordinate the final communication strategy.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1724349899319,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 44,
+                    "content": "Urgent: We need an immediate action plan for the GlobalTech Systems integration failure. Their production environment went down at 10:45 AM, and we're facing potential SLA breach. @daniel.smith @jonathan.alexander, can you provide an initial assessment of the impact?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1727411961086,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 85,
+                    "content": "Initial diagnostics show a critical API compatibility issue between our latest software update and their existing infrastructure. Preliminary root cause analysis suggests a versioning conflict in our middleware layer. We're seeing complete service disruption for their three primary data centers.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1727421719896,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 38,
+                    "content": "I've already opened a high-priority ticket and escalated this to our engineering team. We need to prepare a comprehensive incident report and mitigation strategy before our emergency call with the client at 2 PM today.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1727429109047,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 18,
+                    "content": "This is a potential $2.4M contract risk. @michael.wilson, we need to ensure our response is not just technically sound but also demonstrates our commitment to customer success. Can we draft a preliminary communication strategy?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1727439139017,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 44,
+                    "content": "### Immediate Action Items\n\n- Assemble emergency response team\n- Prepare detailed technical root cause analysis\n- Draft client communication plan\n- Develop immediate rollback/remediation strategy\n\nEveryone, this is our top priority right now.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1727440125897,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 85,
+                    "content": "Update: Our engineering team has identified the exact version mismatch. We can implement a hotfix within the next 90 minutes that should restore 70% of their system functionality immediately.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1727445621730,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 36,
+                    "content": "@daniel.smith Excellent work on the quick diagnosis. Can you coordinate with the client's technical team to validate our proposed hotfix approach before we implement?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1727449031643,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 38,
+                    "content": "Client's CTO has been notified. They're requesting a full technical walkthrough of our remediation plan before we proceed. Scheduling an emergency technical deep-dive call in the next 30 minutes.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1727453877152,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 1,
+                    "content": "This is a critical moment for our company's reputation. Ensure we're transparent, swift, and demonstrate our commitment to resolving this with minimal further disruption. Keep executive leadership informed of every development.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1727457140328,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 80,
+                    "content": "From a sales perspective, we need to prepare a comprehensive retention and goodwill package. Thinking about offering 3 months of premium support and a significant service credit to help maintain our relationship with GlobalTech.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1727462361086,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 44,
+                    "content": "**Approved Incident Response Strategy:**\n\n1. Immediate hotfix deployment\n2. Full technical debrief with client\n3. Comprehensive root cause analysis\n4. Long-term architectural recommendations\n\nTeam, let's execute with precision.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1727462361086,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 85,
+                    "content": "Hotfix successfully deployed. Initial tests show full system restoration. Preparing detailed incident report for client review. We've mitigated the immediate crisis, but our follow-up will be critical in maintaining trust.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1727462361086,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 44,
+                    "content": "Urgent: We need an immediate action plan for the CyberTech Global enterprise customer. Their production systems have been experiencing intermittent connectivity issues for the past 48 hours, and we're at risk of breaching our SLA. @william.mejia @jonathan.alexander Can we assemble a rapid response team?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1729419243564,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 18,
+                    "content": "I've already spoken with the client's CTO. They're experiencing packet loss and latency spikes across their primary and backup network paths. Our initial diagnostics suggest a potential routing configuration issue in their core infrastructure.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1729437163302,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 38,
+                    "content": "I've pulled the last 72 hours of support tickets and network logs. There's a consistent pattern of intermittent packet drops originating from their network edge. @william.mejia's assessment about routing looks accurate.",
+                    "is_pinned": true,
+                    "has_reactions": false,
+                    "timestamp": 1729453062965,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 85,
+                    "content": "### Proposed Escalation Strategy\n\n- Immediate technical audit of CyberTech's network configuration\n- Schedule emergency video conference with their network engineering team\n- Prepare detailed root cause analysis report\n\nShould we draft a preliminary communication to their leadership?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1729458337958,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 44,
+                    "content": "Excellent breakdown, @daniel.smith. @terri.shelton, please prepare a draft communication that acknowledges the issue and outlines our commitment to resolution. We need to demonstrate proactive management.",
+                    "is_pinned": true,
+                    "has_reactions": true,
+                    "timestamp": 1729469771114,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 16,
+                    "content": "Draft communication prepared. Emphasizing our technical expertise and commitment to minimizing their operational disruption. Highlighting our dedicated escalation team and 24/7 support model.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1729477082510,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 18,
+                    "content": "Technical team is ready. We'll need `traceroute` and `netstat` data from their network to complete our diagnostic. @jonathan.alexander, can you coordinate with their IT team to obtain these logs?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1729483298461,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 38,
+                    "content": "Already in progress. Their network engineer is preparing a comprehensive log package. Estimated delivery in the next 2 hours.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1729488571563,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 43,
+                    "content": "Risk assessment completed. Potential financial impact if unresolved: estimated $150,000 in potential service credits and potential contract review. We must resolve this quickly and comprehensively.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1729494129675,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 80,
+                    "content": "I've reviewed the account history. This is our largest enterprise contract for Q4. @michael.wilson, we need to ensure this doesn't escalate beyond technical resolution.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1729498604183,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 44,
+                    "content": "Agreed. This is more than a technical issue - it's a strategic customer relationship. @william.mejia, I want hourly updates until we have a full resolution.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1729509578573,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 1,
+                    "content": "Escalation team, this has my full attention. Keep the communication transparent, technical, and solution-oriented. Our reputation is on the line.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1729514084218,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 18,
+                    "content": "Update: Initial diagnostic confirms a BGP routing misconfiguration in their network. We've identified the exact configuration error and have a proposed remediation plan ready to present.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1729520043564,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 38,
+                    "content": "Resolution confirmed. Network stability restored. Full technical report being compiled for client review. Estimated total resolution time: 27 hours from initial escalation.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1729520043564,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 44,
+                    "content": "**Urgent: Enterprise Customer Escalation - GlobalTech Solutions Integration Failure**\n\nTeam, we have a critical situation with our key enterprise client GlobalTech Solutions. Their entire cloud integration went offline at 3 AM this morning, causing significant operational disruption. @william.mejia @daniel.smith - we need an immediate assessment and action plan. Can someone provide a preliminary root cause analysis within the next hour?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1732902672441,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 18,
+                    "content": "I've already spoken with the GlobalTech technical team. Initial diagnostics suggest a potential API compatibility issue between our latest software update and their legacy system architecture. @michael.wilson, the client's CTO is requesting an emergency meeting today to discuss immediate mitigation strategies.\n\n- Estimated downtime: 6-8 hours\n- Potential revenue impact: ~$250,000\n- Recommended next steps: Assemble a cross-functional response team",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1732911042260,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 85,
+                    "content": "@william.mejia Confirming customer communication status. I've drafted an initial incident report and preliminary communication for the client. They're understandably frustrated but appreciate our proactive approach. We'll need technical details to provide a comprehensive update.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1732917304271,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 38,
+                    "content": "Technical investigation update: Our engineering team has identified a specific middleware compatibility issue in the latest patch release. We're developing a hotfix and expect to have a preliminary patch ready within the next 2 hours. @michael.wilson, shall I coordinate with the engineering lead to expedite the resolution?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1732918703862,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 44,
+                    "content": "**Resolution Plan Confirmed**\n\nTeam, based on our collaborative efforts, here's our action plan:\n\n1. Immediate hotfix development\n2. Emergency client meeting at 2 PM today\n3. Comprehensive post-mortem analysis\n\nExcellent cross-team collaboration. @john.appleseed has been briefed and supports our response strategy. Let's maintain our commitment to customer success.",
+                    "is_pinned": true,
+                    "has_reactions": false,
+                    "timestamp": 1732920672441,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 44,
+                    "content": "Team, we need immediate attention on the ongoing service disruption for our largest enterprise client, MegaCorp Technologies. Their critical infrastructure integration has been experiencing intermittent connectivity issues since early this morning. @william.mejia @paula.reese can you provide an initial assessment of the impact and root cause?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1741859480331,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 26,
+                    "content": "I've reviewed the incident logs, and it appears we're experiencing a network connectivity problem specifically with our cloud proxy service. Initial diagnostics suggest a potential routing issue between our primary and backup data centers. **Estimated customer impact: 35% service degradation**.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1741886097878,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 18,
+                    "content": "@paula.reese Thanks for the quick update. @michael.wilson I've already reached out to the MegaCorp technical team to provide transparency. They're expecting a comprehensive incident report by end of day. We need to minimize potential contract risks and demonstrate our commitment to resolving this promptly.",
+                    "is_pinned": true,
+                    "has_reactions": false,
+                    "timestamp": 1741904077179,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 43,
+                    "content": "### Proposed Resolution Strategy\n\n- Immediate failover to secondary network infrastructure\n- Conduct comprehensive root cause analysis\n- Prepare detailed incident report for client\n- Schedule emergency review meeting with MegaCorp leadership\n\nShould we escalate this to our network engineering team for immediate intervention?",
+                    "is_pinned": true,
+                    "has_reactions": true,
+                    "timestamp": 1741918531984,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 38,
+                    "content": "Network engineering confirms a BGP routing configuration error in our redundancy setup. We've identified the specific misconfiguration and are implementing an emergency patch. Estimated resolution time: 45-60 minutes. @william.mejia I recommend proactively communicating this technical detail to the client.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1741933835392,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 44,
+                    "content": "**Incident Resolved.** Full service restoration confirmed. @william.mejia @paula.reese prepare a comprehensive post-incident report detailing root cause, resolution steps, and preventative measures. Our commitment to transparency and rapid response is critical for maintaining client trust.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1741938680331,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 44,
+                    "content": "Team, we have an urgent escalation from our enterprise client TechNova regarding persistent performance issues with their recent software integration. @william.mejia and @paula.reese, can you provide immediate context on the current status of their support ticket?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1742011098605,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 26,
+                    "content": "I've reviewed the ticket extensively. TechNova is experiencing 45% slower query response times in their custom dashboard after our last system update. Initial diagnostics suggest a potential indexing problem in our database layer that might be causing the performance degradation.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1742038552254,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 18,
+                    "content": "@michael.wilson Our sales team has been in direct communication with TechNova's CTO. They're expecting a comprehensive resolution plan by end of day tomorrow. Can we confirm a timeline for root cause analysis and potential patch deployment?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1742054982503,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 85,
+                    "content": "After consulting with our engineering team, we can commit to the following action items:\n\n1. Complete root cause analysis within 6 hours\n2. Develop targeted patch within 12 hours\n3. Provide full system performance report to TechNova\n\nI recommend we schedule an emergency sync-up to align on the detailed remediation strategy.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1742062017254,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 44,
+                    "content": "Excellent work, @daniel.smith. @jonathan.alexander, please prepare a draft communication for TechNova's technical team outlining our immediate response and proposed resolution timeline. We need to demonstrate proactive problem management.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1742079034581,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 38,
+                    "content": "Draft communication prepared. I've emphasized our commitment to service quality and included technical specifics about our investigation approach. Pending final review before sending to the client.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1742083098605,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 44,
+                    "content": "**Urgent: Enterprise Client Escalation** \n\nWe have a critical situation with Quantum Dynamics regarding their recent system integration. Their CTO just called expressing significant performance bottlenecks that are impacting their entire operations. @william.mejia @paula.reese - we need an immediate cross-functional response and action plan.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1747431525284,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 18,
+                    "content": "I've reviewed the initial client communication. Their primary concern seems to be latency in our API gateway during peak transaction loads. @paula.reese, can you pull the last 72 hours of performance metrics from our monitoring dashboard?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1747468744659,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 26,
+                    "content": "Performance metrics retrieved. We're seeing consistent response time spikes above 500ms during high-concurrency periods, which definitely explains the client's frustration. Recommended immediate actions:\n- Temporary horizontal scaling\n- Review current load balancing configuration\n- Conduct immediate performance profiling",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1747486115045,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 38,
+                    "content": "@william.mejia Our initial diagnostics suggest this isn't just a simple configuration issue. We might need to engage our backend engineering team for a deeper architectural review.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1747507637595,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 43,
+                    "content": "I'm scheduling an emergency technical deep-dive with Quantum Dynamics' engineering team for tomorrow morning. @michael.wilson, would you be available to join the initial call to provide executive context?",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1747519413861,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 44,
+                    "content": "Confirmed. I'll clear my morning schedule. @barbara.bradley, please prepare a comprehensive briefing document outlining our proposed resolution strategy.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1747536830703,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 80,
+                    "content": "From a sales perspective, Quantum Dynamics represents a $2.7M annual contract. We cannot afford any perception of technical instability. @jonathan.alexander, what's our estimated time to initial mitigation?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1747548366531,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 38,
+                    "content": "Based on our current analysis, we can implement an immediate caching layer and load balancer reconfiguration within 4-6 hours. This should provide an immediate 40-60% performance improvement while we develop a long-term solution.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1747561049076,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 85,
+                    "content": "I'll draft a preliminary communication to their CTO explaining our immediate and long-term remediation strategy. @trevor.kline, can you review from a client relationship perspective?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1747570671046,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 18,
+                    "content": "Our proposed solution looks solid. Let's ensure we're not just fixing symptoms but addressing root cause. @paula.reese, can you coordinate with our backend team to run comprehensive performance testing?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1747582228130,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 26,
+                    "content": "Performance testing protocol is already being prepared. We'll simulate their exact transaction patterns and stress test our proposed architecture modifications.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1747598249702,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 1,
+                    "content": "Excellent collaborative response, team. Keep me updated on resolution progress. Our reputation and significant revenue are at stake here.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1747604325284,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": false,
+            "should_have_attachments": false
+        },
+        {
+            "messages": [
+                {
+                    "from_user": 44,
+                    "content": "**Urgent: Enterprise Client Escalation - GlobalTech Solutions Reporting Major Service Disruption**\n\nTeam, we have a critical situation with our largest enterprise client, GlobalTech Solutions. They're experiencing widespread service interruptions affecting their entire operations. @william.mejia @barbara.bradley, we need an immediate cross-functional response and status update.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1750625503688,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 18,
+                    "content": "I've already reached out to our technical team. Initial diagnostics suggest a potential backend infrastructure issue in our cloud integration layer. @jonathan.alexander, can you pull the latest system logs and confirm the root cause?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1750645076224,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 38,
+                    "content": "Logs indicate a cascading failure in our middleware services. Specific symptoms:\n- 72% service unavailability\n- Intermittent database connection errors\n- Potential memory leak in authentication microservice\n\nRecommending immediate emergency maintenance protocol.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1750656054703,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 43,
+                    "content": "@michael.wilson I've initiated our customer communication protocol. Prepared a draft communication for GlobalTech's leadership explaining the situation and our immediate mitigation steps. Would you like me to review the messaging before sending?",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1750659244676,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 26,
+                    "content": "Just got off a call with the client's CTO. They're experiencing significant business impact and need hourly updates. **Urgency level: Critical**\n\nThey want a comprehensive incident report by end of day today.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1750666236947,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 80,
+                    "content": "I'm coordinating with our account management team to draft potential service credits and compensation package. @barbara.bradley, we'll need your input on acceptable terms given the severity of the outage.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1750677421854,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 85,
+                    "content": "### Proposed Immediate Actions\n\n1. Implement emergency rollback to last stable service configuration\n2. Activate redundant infrastructure clusters\n3. Prepare detailed root cause analysis report\n4. Schedule post-mortem review with full engineering team",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1750680864586,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 44,
+                    "content": "Excellent work, team. @william.mejia and @jonathan.alexander, I want a comprehensive incident report by 6 PM today. @barbara.bradley, please draft client communication. Our priority is service restoration and maintaining client trust.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1750686426235,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 18,
+                    "content": "Update: Technical team has stabilized primary services. Estimated full recovery in next 2 hours. Conducting final system integrity checks before full reactivation.",
+                    "is_pinned": false,
+                    "has_reactions": true,
+                    "timestamp": 1750693903688,
+                    "attachment_filenames": []
+                },
+                {
+                    "from_user": 44,
+                    "content": "**Resolution Confirmed**: Services fully restored. Comprehensive incident report to be distributed internally by tomorrow morning. Outstanding teamwork in managing this critical escalation.",
+                    "is_pinned": false,
+                    "has_reactions": false,
+                    "timestamp": 1750693903688,
+                    "attachment_filenames": []
+                }
+            ],
+            "has_root_message": true,
+            "should_have_attachments": false
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+name: gumroad
+
+services:
+  # Database Services
+  db:
+    image: mysql:8.0.32
+    # volumes:
+    #   - mysql_data:/var/lib/mysql
+    ports:
+      - "3306:3306"
+    environment:
+      - MYSQL_ROOT_PASSWORD=password
+    command:
+      - "mysqld"
+      - "--default-authentication-plugin=mysql_native_password"
+      - "--collation-server=utf8mb4_unicode_ci"
+      - "--character-set-server=utf8mb4"
+      - "--bind-address=0.0.0.0"
+    healthcheck:
+      test: [ "CMD", "mysqladmin", "ping", "-h", "localhost" ]
+      timeout: 5s
+      retries: 30
+
+  redis:
+    image: redis:7.0.7
+    command: [ "redis-server", "--appendonly", "yes" ]
+    # ports:
+    #   - "6379:6379"
+    # volumes:
+    #   - redis_data:/data
+    #   - ./tmp/redis:/data
+    healthcheck:
+      test: [ "CMD", "redis-cli", "ping" ]
+      timeout: 5s
+      retries: 30
+
+  mongo:
+    image: mongo:3.6.16
+    # ports:
+    #   - "27017:27017"
+    # volumes:
+    #   - mongo_data:/data/db
+    #   - ./tmp/mongo:/data/db
+    command: "mongod --smallfiles"
+    healthcheck:
+      test: echo 'db.runCommand("ping").ok' | mongo localhost:27017/test --quiet
+      timeout: 5s
+      retries: 30
+
+  elasticsearch:
+    image: elasticsearch:7.9.3
+    ports:
+      - "9200:9200"
+    environment:
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+      - "discovery.type=single-node"
+    # volumes:
+    #   - elasticsearch_data:/usr/share/elasticsearch/data
+    healthcheck:
+      test: [ "CMD-SHELL", "curl --silent --fail localhost:9200/_cluster/health || exit 1" ]
+      timeout: 5s
+      retries: 30
+
+  # Web Application
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "80:3000"
+    env_file:
+      - .env.docker
+    environment:
+      - CUSTOM_DOMAIN=${CUSTOM_DOMAIN:-gumroad.dev}
+      - PROTOCOL=${PROTOCOL:-https}
+    depends_on:
+      db:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+      mongo:
+        condition: service_healthy
+      elasticsearch:
+        condition: service_healthy
+    command: >
+      bash -c '
+        bin/rails db:prepare;
+        foreman start -f Procfile;
+      '
+
+volumes:
+  mysql_data:
+  redis_data:
+  mongo_data:
+  elasticsearch_data:

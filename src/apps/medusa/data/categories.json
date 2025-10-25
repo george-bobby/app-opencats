@@ -1,0 +1,212 @@
+[
+    {
+        "name": "Men's Shirts",
+        "is_active": true,
+        "is_internal": false,
+        "description": "Formal and casual shirts for men in various fits and patterns.",
+        "handle": "mens-shirts"
+    },
+    {
+        "name": "Women's Kurtis",
+        "is_active": true,
+        "is_internal": false,
+        "description": "Traditional and contemporary kurtis for everyday and festive wear.",
+        "handle": "womens-kurtis"
+    },
+    {
+        "name": "Kids T-Shirts",
+        "is_active": true,
+        "is_internal": false,
+        "description": "Comfortable and playful t-shirts for boys and girls.",
+        "handle": "kids-tshirts"
+    },
+    {
+        "name": "Men's Jeans",
+        "is_active": true,
+        "is_internal": false,
+        "description": "Stylish denim jeans in slim, regular, and relaxed fits for men.",
+        "handle": "mens-jeans"
+    },
+    {
+        "name": "Women's Leggings",
+        "is_active": true,
+        "is_internal": false,
+        "description": "Stretchable and comfortable leggings for casual and active wear.",
+        "handle": "womens-leggings"
+    },
+    {
+        "name": "Baby Rompers",
+        "is_active": true,
+        "is_internal": false,
+        "description": "Adorable and soft rompers for infants and toddlers.",
+        "handle": "baby-rompers"
+    },
+    {
+        "name": "Men's Hoodies",
+        "is_active": true,
+        "is_internal": false,
+        "description": "Cozy hoodies and sweatshirts for casual and loungewear.",
+        "handle": "mens-hoodies"
+    },
+    {
+        "name": "Women's Sarees",
+        "is_active": true,
+        "is_internal": false,
+        "description": "Elegant traditional sarees for weddings, parties, and festivals.",
+        "handle": "womens-sarees"
+    },
+    {
+        "name": "Kids Ethnic Wear",
+        "is_active": false,
+        "is_internal": false,
+        "description": "Traditional clothing for children including kurtas, lehengas, and sherwanis.",
+        "handle": "kids-ethnic-wear"
+    },
+    {
+        "name": "Women's Jackets",
+        "is_active": true,
+        "is_internal": false,
+        "description": "Trendy jackets and outerwear for women in all seasons.",
+        "handle": "womens-jackets"
+    },
+    {
+        "name": "Men's Sweaters",
+        "is_active": true,
+        "is_internal": false,
+        "description": "Cozy knit sweaters and pullovers for men in various styles and fabrics.",
+        "handle": "mens-sweaters"
+    },
+    {
+        "name": "Women's Tops",
+        "is_active": true,
+        "is_internal": false,
+        "description": "Trendy tops and blouses for everyday wear and special occasions.",
+        "handle": "womens-tops"
+    },
+    {
+        "name": "Kids Dresses",
+        "is_active": true,
+        "is_internal": false,
+        "description": "Adorable dresses for girls in playful prints and comfortable fabrics.",
+        "handle": "kids-dresses"
+    },
+    {
+        "name": "Men's Trousers",
+        "is_active": true,
+        "is_internal": false,
+        "description": "Formal and casual trousers for men in classic and modern fits.",
+        "handle": "mens-trousers"
+    },
+    {
+        "name": "Women's Skirts",
+        "is_active": true,
+        "is_internal": false,
+        "description": "Stylish skirts in various lengths and designs for all occasions.",
+        "handle": "womens-skirts"
+    },
+    {
+        "name": "Baby Onesies",
+        "is_active": true,
+        "is_internal": false,
+        "description": "Soft and comfortable onesies for infants in cute patterns.",
+        "handle": "baby-onesies"
+    },
+    {
+        "name": "Men's Shorts",
+        "is_active": true,
+        "is_internal": false,
+        "description": "Casual and athletic shorts for men perfect for warm weather.",
+        "handle": "mens-shorts"
+    },
+    {
+        "name": "Women's Palazzo Pants",
+        "is_active": true,
+        "is_internal": false,
+        "description": "Flowy and comfortable palazzo pants for relaxed and ethnic styling.",
+        "handle": "womens-palazzo-pants"
+    },
+    {
+        "name": "Kids Sleepwear",
+        "is_active": true,
+        "is_internal": false,
+        "description": "Cozy pajamas and nightwear for children in fun designs.",
+        "handle": "kids-sleepwear"
+    },
+    {
+        "name": "Men's Ethnic Wear",
+        "is_active": false,
+        "is_internal": false,
+        "description": "Traditional kurtas, sherwanis, and ethnic outfits for men.",
+        "handle": "mens-ethnic-wear"
+    },
+    {
+        "name": "Women's Jumpsuits",
+        "is_active": true,
+        "is_internal": false,
+        "description": "Stylish one-piece jumpsuits and playsuits for women in casual and formal styles.",
+        "handle": "womens-jumpsuits"
+    },
+    {
+        "name": "Men's Activewear",
+        "is_active": true,
+        "is_internal": false,
+        "description": "Performance-focused gym wear and sports clothing for men.",
+        "handle": "mens-activewear"
+    },
+    {
+        "name": "Baby Bodysuits",
+        "is_active": true,
+        "is_internal": false,
+        "description": "Soft and comfortable bodysuits for infants and newborns.",
+        "handle": "baby-bodysuits"
+    },
+    {
+        "name": "Women's Cardigans",
+        "is_active": true,
+        "is_internal": false,
+        "description": "Cozy and versatile cardigans and shrugs for layering.",
+        "handle": "womens-cardigans"
+    },
+    {
+        "name": "Kids Shorts",
+        "is_active": true,
+        "is_internal": false,
+        "description": "Comfortable shorts for boys and girls perfect for play and casual wear.",
+        "handle": "kids-shorts"
+    },
+    {
+        "name": "Men's Polo Shirts",
+        "is_active": true,
+        "is_internal": false,
+        "description": "Classic polo shirts for men in casual and semi-formal styles.",
+        "handle": "mens-polo-shirts"
+    },
+    {
+        "name": "Women's Loungewear",
+        "is_active": true,
+        "is_internal": false,
+        "description": "Relaxed and comfortable clothing for home and leisure.",
+        "handle": "womens-loungewear"
+    },
+    {
+        "name": "Toddler Dungarees",
+        "is_active": true,
+        "is_internal": false,
+        "description": "Adorable dungarees and overalls for toddlers aged 1-4 years.",
+        "handle": "toddler-dungarees"
+    },
+    {
+        "name": "Men's Blazers",
+        "is_active": true,
+        "is_internal": false,
+        "description": "Formal and semi-formal blazers for professional and special occasions.",
+        "handle": "mens-blazers"
+    },
+    {
+        "name": "Women's Nightwear",
+        "is_active": true,
+        "is_internal": false,
+        "description": "Comfortable nightgowns, pajamas, and sleepwear sets for women.",
+        "handle": "womens-nightwear"
+    }
+]

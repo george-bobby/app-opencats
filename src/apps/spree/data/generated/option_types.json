@@ -1,0 +1,303 @@
+{
+  "option_types": [
+    {
+      "id": 1,
+      "name": "pet_size",
+      "presentation": "Pet Size",
+      "position": 1,
+      "filterable": true,
+      "public_metadata": "{\"description\":\"Size categories for pet products\",\"applicable_categories\":[\"Dogs\",\"Cats\",\"Pet Apparel\"]}",
+      "private_metadata": "{\"usage_notes\":\"Critical for sizing pet accessories and clothing\"}",
+      "option_values": [
+        {
+          "id": 1,
+          "name": "small",
+          "presentation": "Small",
+          "position": 1
+        },
+        {
+          "id": 2,
+          "name": "medium",
+          "presentation": "Medium",
+          "position": 2
+        },
+        {
+          "id": 3,
+          "name": "large",
+          "presentation": "Large",
+          "position": 3
+        },
+        {
+          "id": 4,
+          "name": "x_large",
+          "presentation": "X-Large",
+          "position": 4
+        },
+        {
+          "id": 5,
+          "name": "puppy",
+          "presentation": "Puppy",
+          "position": 5
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "product_flavor",
+      "presentation": "Flavor",
+      "position": 2,
+      "filterable": true,
+      "public_metadata": "{\"description\":\"Flavor options for pet food and treats\",\"applicable_categories\":[\"Treats\",\"Dog Food\",\"Cat Food\"]}",
+      "private_metadata": "{\"usage_notes\":\"Important for pet food selection\"}",
+      "option_values": [
+        {
+          "id": 6,
+          "name": "chicken",
+          "presentation": "Chicken",
+          "position": 1
+        },
+        {
+          "id": 7,
+          "name": "beef",
+          "presentation": "Beef",
+          "position": 2
+        },
+        {
+          "id": 8,
+          "name": "salmon",
+          "presentation": "Salmon",
+          "position": 3
+        },
+        {
+          "id": 9,
+          "name": "turkey",
+          "presentation": "Turkey",
+          "position": 4
+        },
+        {
+          "id": 10,
+          "name": "lamb",
+          "presentation": "Lamb",
+          "position": 5
+        },
+        {
+          "id": 11,
+          "name": "peanut_butter",
+          "presentation": "Peanut Butter",
+          "position": 6
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "product_color",
+      "presentation": "Color",
+      "position": 3,
+      "filterable": true,
+      "public_metadata": "{\"description\":\"Color variants for pet accessories\",\"applicable_categories\":[\"Toys\",\"Collars\",\"Leashes\"]}",
+      "private_metadata": "{\"usage_notes\":\"Aesthetic preference for pet owners\"}",
+      "option_values": [
+        {
+          "id": 12,
+          "name": "red",
+          "presentation": "Red",
+          "position": 1
+        },
+        {
+          "id": 13,
+          "name": "blue",
+          "presentation": "Blue",
+          "position": 2
+        },
+        {
+          "id": 14,
+          "name": "green",
+          "presentation": "Green",
+          "position": 3
+        },
+        {
+          "id": 15,
+          "name": "black",
+          "presentation": "Black",
+          "position": 4
+        },
+        {
+          "id": 16,
+          "name": "pink",
+          "presentation": "Pink",
+          "position": 5
+        },
+        {
+          "id": 17,
+          "name": "purple",
+          "presentation": "Purple",
+          "position": 6
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "product_material",
+      "presentation": "Material",
+      "position": 4,
+      "filterable": true,
+      "public_metadata": "{\"description\":\"Construction materials for pet products\",\"applicable_categories\":[\"Toys\",\"Beds\",\"Accessories\"]}",
+      "private_metadata": "{\"usage_notes\":\"Durability and pet safety considerations\"}",
+      "option_values": [
+        {
+          "id": 18,
+          "name": "cotton",
+          "presentation": "Cotton",
+          "position": 1
+        },
+        {
+          "id": 19,
+          "name": "nylon",
+          "presentation": "Nylon",
+          "position": 2
+        },
+        {
+          "id": 20,
+          "name": "leather",
+          "presentation": "Leather",
+          "position": 3
+        },
+        {
+          "id": 21,
+          "name": "rubber",
+          "presentation": "Rubber",
+          "position": 4
+        },
+        {
+          "id": 22,
+          "name": "plush",
+          "presentation": "Plush",
+          "position": 5
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "weight_volume",
+      "presentation": "Weight/Volume",
+      "position": 5,
+      "filterable": true,
+      "public_metadata": "{\"description\":\"Product weight and volume options\",\"applicable_categories\":[\"Food\",\"Treats\",\"Supplements\"]}",
+      "private_metadata": "{\"usage_notes\":\"Packaging and quantity selection\"}",
+      "option_values": [
+        {
+          "id": 23,
+          "name": "8_oz",
+          "presentation": "8 oz",
+          "position": 1
+        },
+        {
+          "id": 24,
+          "name": "16_oz",
+          "presentation": "16 oz",
+          "position": 2
+        },
+        {
+          "id": 25,
+          "name": "32_oz",
+          "presentation": "32 oz",
+          "position": 3
+        },
+        {
+          "id": 26,
+          "name": "5_lb",
+          "presentation": "5 lb",
+          "position": 4
+        },
+        {
+          "id": 27,
+          "name": "10_lb",
+          "presentation": "10 lb",
+          "position": 5
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "health_condition",
+      "presentation": "Health Condition",
+      "position": 6,
+      "filterable": true,
+      "public_metadata": "{\"description\":\"Specialized health product variants\",\"applicable_categories\":[\"Health & Wellness\",\"Special Needs\"]}",
+      "private_metadata": "{\"usage_notes\":\"Targeting specific pet health requirements\"}",
+      "option_values": [
+        {
+          "id": 28,
+          "name": "senior",
+          "presentation": "Senior",
+          "position": 1
+        },
+        {
+          "id": 29,
+          "name": "weight_management",
+          "presentation": "Weight Management",
+          "position": 2
+        },
+        {
+          "id": 30,
+          "name": "joint_health",
+          "presentation": "Joint Health",
+          "position": 3
+        },
+        {
+          "id": 31,
+          "name": "sensitive_stomach",
+          "presentation": "Sensitive Stomach",
+          "position": 4
+        },
+        {
+          "id": 32,
+          "name": "skin_coat",
+          "presentation": "Skin & Coat",
+          "position": 5
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "activity_level",
+      "presentation": "Activity Level",
+      "position": 7,
+      "filterable": true,
+      "public_metadata": "{\"description\":\"Pet activity and energy level products\",\"applicable_categories\":[\"Food\",\"Supplements\",\"Toys\"]}",
+      "private_metadata": "{\"usage_notes\":\"Matching products to pet energy requirements\"}",
+      "option_values": [
+        {
+          "id": 33,
+          "name": "low_energy",
+          "presentation": "Low Energy",
+          "position": 1
+        },
+        {
+          "id": 34,
+          "name": "moderate_energy",
+          "presentation": "Moderate Energy",
+          "position": 2
+        },
+        {
+          "id": 35,
+          "name": "high_energy",
+          "presentation": "High Energy",
+          "position": 3
+        },
+        {
+          "id": 36,
+          "name": "working_dog",
+          "presentation": "Working Dog",
+          "position": 4
+        },
+        {
+          "id": 37,
+          "name": "puppy",
+          "presentation": "Puppy",
+          "position": 5
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Call",
+        "category": "phonecall",
+        "summary": "Introductory Call",
+        "delay_count": 2,
+        "default_note": "Call to qualify the lead and gather requirements",
+        "chaining_type": "suggest",
+        "suggested_activity_type": "Email"
+    },
+    {
+        "name": "Email",
+        "category": "default",
+        "summary": "Follow-up Email",
+        "delay_count": 1,
+        "default_note": "Send case study and next steps",
+        "chaining_type": "suggest",
+        "suggested_activity_type": "Meeting"
+    },
+    {
+        "name": "Meeting",
+        "category": "meeting",
+        "summary": "Discovery Meeting",
+        "delay_count": 3,
+        "default_note": "Book a calendar slot and prepare agenda",
+        "chaining_type": "suggest",
+        "suggested_activity_type": "Demo"
+    },
+    {
+        "name": "Demo",
+        "category": "default",
+        "summary": "Product Demo",
+        "delay_count": 2,
+        "default_note": "Walk the customer through key features",
+        "chaining_type": "suggest",
+        "suggested_activity_type": "Contract Review"
+    },
+    {
+        "name": "Follow-up",
+        "category": "default",
+        "summary": "Follow-up",
+        "delay_count": 5,
+        "default_note": "Remind them to review proposal",
+        "chaining_type": "suggest",
+        "suggested_activity_type": "Call"
+    },
+    {
+        "name": "Contract Review",
+        "category": "upload_file",
+        "summary": "Contract Sent",
+        "delay_count": 1,
+        "default_note": "Ensure contract terms match discussion",
+        "chaining_type": "suggest",
+        "suggested_activity_type": "To-Do"
+    }
+]

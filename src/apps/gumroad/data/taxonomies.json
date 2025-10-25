@@ -1,0 +1,1717 @@
+[
+    {
+        "id": 1,
+        "parent_id": null,
+        "slug": "3d"
+    },
+    {
+        "id": 2,
+        "parent_id": 1,
+        "slug": "3d-modeling"
+    },
+    {
+        "id": 3,
+        "parent_id": 1,
+        "slug": "character-design"
+    },
+    {
+        "id": 4,
+        "parent_id": 1,
+        "slug": "rigging"
+    },
+    {
+        "id": 5,
+        "parent_id": 1,
+        "slug": "animating"
+    },
+    {
+        "id": 6,
+        "parent_id": 1,
+        "slug": "arvr"
+    },
+    {
+        "id": 7,
+        "parent_id": 6,
+        "slug": "spark-ar-studio"
+    },
+    {
+        "id": 8,
+        "parent_id": 1,
+        "slug": "3d-assets"
+    },
+    {
+        "id": 9,
+        "parent_id": 8,
+        "slug": "blender"
+    },
+    {
+        "id": 10,
+        "parent_id": 8,
+        "slug": "maya"
+    },
+    {
+        "id": 11,
+        "parent_id": 8,
+        "slug": "modo"
+    },
+    {
+        "id": 12,
+        "parent_id": 8,
+        "slug": "cinema-4d"
+    },
+    {
+        "id": 13,
+        "parent_id": 8,
+        "slug": "unity"
+    },
+    {
+        "id": 14,
+        "parent_id": 8,
+        "slug": "sketchup"
+    },
+    {
+        "id": 15,
+        "parent_id": 8,
+        "slug": "unreal-engine"
+    },
+    {
+        "id": 16,
+        "parent_id": 8,
+        "slug": "3dsmax"
+    },
+    {
+        "id": 17,
+        "parent_id": 8,
+        "slug": "zbrush"
+    },
+    {
+        "id": 18,
+        "parent_id": null,
+        "slug": "design"
+    },
+    {
+        "id": 19,
+        "parent_id": 18,
+        "slug": "industrial-design"
+    },
+    {
+        "id": 20,
+        "parent_id": 18,
+        "slug": "entertainment-design"
+    },
+    {
+        "id": 21,
+        "parent_id": 18,
+        "slug": "architecture"
+    },
+    {
+        "id": 22,
+        "parent_id": 18,
+        "slug": "fashion-design"
+    },
+    {
+        "id": 23,
+        "parent_id": 18,
+        "slug": "interior-design"
+    },
+    {
+        "id": 24,
+        "parent_id": 18,
+        "slug": "ui-and-web"
+    },
+    {
+        "id": 25,
+        "parent_id": 24,
+        "slug": "figma"
+    },
+    {
+        "id": 26,
+        "parent_id": 24,
+        "slug": "xd"
+    },
+    {
+        "id": 27,
+        "parent_id": 24,
+        "slug": "adobe"
+    },
+    {
+        "id": 28,
+        "parent_id": 24,
+        "slug": "html"
+    },
+    {
+        "id": 29,
+        "parent_id": 18,
+        "slug": "print-and-packaging"
+    },
+    {
+        "id": 30,
+        "parent_id": 29,
+        "slug": "canva"
+    },
+    {
+        "id": 31,
+        "parent_id": 29,
+        "slug": "illustrator"
+    },
+    {
+        "id": 32,
+        "parent_id": 29,
+        "slug": "powerpoint"
+    },
+    {
+        "id": 33,
+        "parent_id": 29,
+        "slug": "indesign"
+    },
+    {
+        "id": 34,
+        "parent_id": 18,
+        "slug": "graphics"
+    },
+    {
+        "id": 35,
+        "parent_id": 34,
+        "slug": "textures-and-patterns-2d"
+    },
+    {
+        "id": 36,
+        "parent_id": 34,
+        "slug": "vector-graphics"
+    },
+    {
+        "id": 37,
+        "parent_id": 34,
+        "slug": "marketing-and-social"
+    },
+    {
+        "id": 38,
+        "parent_id": 34,
+        "slug": "assets-and-templates"
+    },
+    {
+        "id": 39,
+        "parent_id": 34,
+        "slug": "mockups"
+    },
+    {
+        "id": 40,
+        "parent_id": 39,
+        "slug": "photoshop"
+    },
+    {
+        "id": 41,
+        "parent_id": 39,
+        "slug": "illustrator"
+    },
+    {
+        "id": 42,
+        "parent_id": 39,
+        "slug": "canva"
+    },
+    {
+        "id": 43,
+        "parent_id": 39,
+        "slug": "indesign"
+    },
+    {
+        "id": 44,
+        "parent_id": 18,
+        "slug": "fonts"
+    },
+    {
+        "id": 45,
+        "parent_id": 18,
+        "slug": "branding"
+    },
+    {
+        "id": 46,
+        "parent_id": 45,
+        "slug": "logos"
+    },
+    {
+        "id": 47,
+        "parent_id": 45,
+        "slug": "business-cards"
+    },
+    {
+        "id": 48,
+        "parent_id": 45,
+        "slug": "social-media"
+    },
+    {
+        "id": 49,
+        "parent_id": 18,
+        "slug": "wallpapers"
+    },
+    {
+        "id": 50,
+        "parent_id": 18,
+        "slug": "icons"
+    },
+    {
+        "id": 51,
+        "parent_id": 50,
+        "slug": "3d-icons"
+    },
+    {
+        "id": 52,
+        "parent_id": 50,
+        "slug": "vector-icons"
+    },
+    {
+        "id": 53,
+        "parent_id": 50,
+        "slug": "ios-customization"
+    },
+    {
+        "id": 54,
+        "parent_id": null,
+        "slug": "drawing-and-painting"
+    },
+    {
+        "id": 55,
+        "parent_id": 54,
+        "slug": "digital-illustration"
+    },
+    {
+        "id": 56,
+        "parent_id": 55,
+        "slug": "courses"
+    },
+    {
+        "id": 57,
+        "parent_id": 55,
+        "slug": "illustration-textures-and-patterns"
+    },
+    {
+        "id": 58,
+        "parent_id": 55,
+        "slug": "illustration-kits"
+    },
+    {
+        "id": 59,
+        "parent_id": 55,
+        "slug": "illustration-brushes"
+    },
+    {
+        "id": 60,
+        "parent_id": 59,
+        "slug": "photoshop"
+    },
+    {
+        "id": 61,
+        "parent_id": 59,
+        "slug": "procreate"
+    },
+    {
+        "id": 62,
+        "parent_id": 59,
+        "slug": "blender"
+    },
+    {
+        "id": 63,
+        "parent_id": 54,
+        "slug": "traditional-art"
+    },
+    {
+        "id": 64,
+        "parent_id": 54,
+        "slug": "artwork-and-commissions"
+    },
+    {
+        "id": 65,
+        "parent_id": null,
+        "slug": "software-development"
+    },
+    {
+        "id": 66,
+        "parent_id": 65,
+        "slug": "programming"
+    },
+    {
+        "id": 67,
+        "parent_id": 66,
+        "slug": "c-sharp"
+    },
+    {
+        "id": 68,
+        "parent_id": 66,
+        "slug": "python"
+    },
+    {
+        "id": 69,
+        "parent_id": 65,
+        "slug": "web-development"
+    },
+    {
+        "id": 70,
+        "parent_id": 69,
+        "slug": "aws"
+    },
+    {
+        "id": 71,
+        "parent_id": 69,
+        "slug": "ruby"
+    },
+    {
+        "id": 72,
+        "parent_id": 69,
+        "slug": "javascript"
+    },
+    {
+        "id": 73,
+        "parent_id": 72,
+        "slug": "react-js"
+    },
+    {
+        "id": 74,
+        "parent_id": 65,
+        "slug": "app-development"
+    },
+    {
+        "id": 75,
+        "parent_id": 74,
+        "slug": "swift"
+    },
+    {
+        "id": 76,
+        "parent_id": 74,
+        "slug": "react-native"
+    },
+    {
+        "id": 77,
+        "parent_id": 65,
+        "slug": "software-and-plugins"
+    },
+    {
+        "id": 78,
+        "parent_id": 77,
+        "slug": "wordpress"
+    },
+    {
+        "id": 79,
+        "parent_id": 77,
+        "slug": "vscode"
+    },
+    {
+        "id": 80,
+        "parent_id": 65,
+        "slug": "hardware"
+    },
+    {
+        "id": 81,
+        "parent_id": 80,
+        "slug": "raspberry-pi"
+    },
+    {
+        "id": 82,
+        "parent_id": null,
+        "slug": "self-improvement"
+    },
+    {
+        "id": 83,
+        "parent_id": 82,
+        "slug": "psychology"
+    },
+    {
+        "id": 84,
+        "parent_id": 82,
+        "slug": "productivity"
+    },
+    {
+        "id": 85,
+        "parent_id": 82,
+        "slug": "dating-and-relationships"
+    },
+    {
+        "id": 86,
+        "parent_id": 82,
+        "slug": "philosophy"
+    },
+    {
+        "id": 87,
+        "parent_id": 82,
+        "slug": "spirituality"
+    },
+    {
+        "id": 88,
+        "parent_id": 87,
+        "slug": "astrology"
+    },
+    {
+        "id": 89,
+        "parent_id": 87,
+        "slug": "meditation"
+    },
+    {
+        "id": 90,
+        "parent_id": 87,
+        "slug": "magic"
+    },
+    {
+        "id": 91,
+        "parent_id": 87,
+        "slug": "mysticism"
+    },
+    {
+        "id": 92,
+        "parent_id": 91,
+        "slug": "tarot"
+    },
+    {
+        "id": 93,
+        "parent_id": 87,
+        "slug": "wicca-witchcraft-and-paganism"
+    },
+    {
+        "id": 94,
+        "parent_id": 82,
+        "slug": "cooking"
+    },
+    {
+        "id": 95,
+        "parent_id": 94,
+        "slug": "nutrition"
+    },
+    {
+        "id": 96,
+        "parent_id": 94,
+        "slug": "vegan"
+    },
+    {
+        "id": 97,
+        "parent_id": 94,
+        "slug": "recipes"
+    },
+    {
+        "id": 98,
+        "parent_id": 82,
+        "slug": "crafts-and-dyi"
+    },
+    {
+        "id": 99,
+        "parent_id": 98,
+        "slug": "papercrafts"
+    },
+    {
+        "id": 100,
+        "parent_id": 98,
+        "slug": "crafts-for-children"
+    },
+    {
+        "id": 101,
+        "parent_id": 98,
+        "slug": "jewelry"
+    },
+    {
+        "id": 102,
+        "parent_id": 98,
+        "slug": "lego"
+    },
+    {
+        "id": 103,
+        "parent_id": 98,
+        "slug": "3d-printing"
+    },
+    {
+        "id": 104,
+        "parent_id": 98,
+        "slug": "board-games"
+    },
+    {
+        "id": 105,
+        "parent_id": 98,
+        "slug": "sewing"
+    },
+    {
+        "id": 106,
+        "parent_id": 105,
+        "slug": "courses"
+    },
+    {
+        "id": 107,
+        "parent_id": 105,
+        "slug": "kits"
+    },
+    {
+        "id": 108,
+        "parent_id": 98,
+        "slug": "woodworking"
+    },
+    {
+        "id": 109,
+        "parent_id": 108,
+        "slug": "courses"
+    },
+    {
+        "id": 110,
+        "parent_id": 108,
+        "slug": "kits"
+    },
+    {
+        "id": 111,
+        "parent_id": 98,
+        "slug": "automotive"
+    },
+    {
+        "id": 112,
+        "parent_id": 82,
+        "slug": "wellness"
+    },
+    {
+        "id": 113,
+        "parent_id": 82,
+        "slug": "weddings"
+    },
+    {
+        "id": 114,
+        "parent_id": 82,
+        "slug": "travel"
+    },
+    {
+        "id": 115,
+        "parent_id": 82,
+        "slug": "outdoors"
+    },
+    {
+        "id": 116,
+        "parent_id": 115,
+        "slug": "trekking"
+    },
+    {
+        "id": 117,
+        "parent_id": 115,
+        "slug": "hunting"
+    },
+    {
+        "id": 118,
+        "parent_id": 115,
+        "slug": "boating-and-fishing"
+    },
+    {
+        "id": 119,
+        "parent_id": null,
+        "slug": "fitness-and-health"
+    },
+    {
+        "id": 120,
+        "parent_id": 119,
+        "slug": "sports"
+    },
+    {
+        "id": 121,
+        "parent_id": 119,
+        "slug": "exercise-and-workout"
+    },
+    {
+        "id": 122,
+        "parent_id": 119,
+        "slug": "running"
+    },
+    {
+        "id": 123,
+        "parent_id": 119,
+        "slug": "weight-loss-and-dieting"
+    },
+    {
+        "id": 124,
+        "parent_id": 119,
+        "slug": "yoga"
+    },
+    {
+        "id": 125,
+        "parent_id": null,
+        "slug": "music-and-sound-design"
+    },
+    {
+        "id": 126,
+        "parent_id": 125,
+        "slug": "instruments"
+    },
+    {
+        "id": 127,
+        "parent_id": 126,
+        "slug": "guitar"
+    },
+    {
+        "id": 128,
+        "parent_id": 126,
+        "slug": "piano"
+    },
+    {
+        "id": 129,
+        "parent_id": 125,
+        "slug": "vocal"
+    },
+    {
+        "id": 130,
+        "parent_id": 125,
+        "slug": "dance-and-theater"
+    },
+    {
+        "id": 131,
+        "parent_id": 130,
+        "slug": "dance"
+    },
+    {
+        "id": 132,
+        "parent_id": 130,
+        "slug": "theater"
+    },
+    {
+        "id": 133,
+        "parent_id": 125,
+        "slug": "sound-design"
+    },
+    {
+        "id": 134,
+        "parent_id": 133,
+        "slug": "courses"
+    },
+    {
+        "id": 135,
+        "parent_id": 133,
+        "slug": "samples"
+    },
+    {
+        "id": 136,
+        "parent_id": 133,
+        "slug": "sheet-music"
+    },
+    {
+        "id": 137,
+        "parent_id": 133,
+        "slug": "plugins"
+    },
+    {
+        "id": 138,
+        "parent_id": 137,
+        "slug": "ableton-live"
+    },
+    {
+        "id": 139,
+        "parent_id": 137,
+        "slug": "fl-studio"
+    },
+    {
+        "id": 140,
+        "parent_id": 137,
+        "slug": "logic-pro"
+    },
+    {
+        "id": 141,
+        "parent_id": null,
+        "slug": "photography"
+    },
+    {
+        "id": 142,
+        "parent_id": 141,
+        "slug": "photo-presets-and-actions"
+    },
+    {
+        "id": 143,
+        "parent_id": 141,
+        "slug": "reference-photos"
+    },
+    {
+        "id": 144,
+        "parent_id": 141,
+        "slug": "stock-photos"
+    },
+    {
+        "id": 145,
+        "parent_id": 141,
+        "slug": "photo-courses"
+    },
+    {
+        "id": 146,
+        "parent_id": 141,
+        "slug": "cosplay"
+    },
+    {
+        "id": 147,
+        "parent_id": null,
+        "slug": "writing-and-publishing"
+    },
+    {
+        "id": 148,
+        "parent_id": 147,
+        "slug": "courses"
+    },
+    {
+        "id": 149,
+        "parent_id": 147,
+        "slug": "resources"
+    },
+    {
+        "id": 150,
+        "parent_id": null,
+        "slug": "business-and-money"
+    },
+    {
+        "id": 151,
+        "parent_id": 150,
+        "slug": "accounting"
+    },
+    {
+        "id": 152,
+        "parent_id": 150,
+        "slug": "investing"
+    },
+    {
+        "id": 153,
+        "parent_id": 150,
+        "slug": "personal-finance"
+    },
+    {
+        "id": 154,
+        "parent_id": 150,
+        "slug": "marketing-and-sales"
+    },
+    {
+        "id": 155,
+        "parent_id": 154,
+        "slug": "email"
+    },
+    {
+        "id": 156,
+        "parent_id": 154,
+        "slug": "social-media"
+    },
+    {
+        "id": 157,
+        "parent_id": 154,
+        "slug": "analytics"
+    },
+    {
+        "id": 158,
+        "parent_id": 150,
+        "slug": "networking-careers-and-jobs"
+    },
+    {
+        "id": 159,
+        "parent_id": 150,
+        "slug": "management-and-leadership"
+    },
+    {
+        "id": 160,
+        "parent_id": 150,
+        "slug": "real-estate"
+    },
+    {
+        "id": 161,
+        "parent_id": 150,
+        "slug": "gigs-and-side-projects"
+    },
+    {
+        "id": 162,
+        "parent_id": 150,
+        "slug": "entrepreneurship"
+    },
+    {
+        "id": 163,
+        "parent_id": 162,
+        "slug": "resources"
+    },
+    {
+        "id": 164,
+        "parent_id": 162,
+        "slug": "courses"
+    },
+    {
+        "id": 165,
+        "parent_id": 162,
+        "slug": "podcasts"
+    },
+    {
+        "id": 166,
+        "parent_id": null,
+        "slug": "education"
+    },
+    {
+        "id": 167,
+        "parent_id": 166,
+        "slug": "classroom"
+    },
+    {
+        "id": 168,
+        "parent_id": 166,
+        "slug": "test-prep"
+    },
+    {
+        "id": 169,
+        "parent_id": 166,
+        "slug": "social-studies"
+    },
+    {
+        "id": 170,
+        "parent_id": 169,
+        "slug": "history"
+    },
+    {
+        "id": 171,
+        "parent_id": 169,
+        "slug": "politics"
+    },
+    {
+        "id": 172,
+        "parent_id": 169,
+        "slug": "law"
+    },
+    {
+        "id": 173,
+        "parent_id": 166,
+        "slug": "english"
+    },
+    {
+        "id": 174,
+        "parent_id": 166,
+        "slug": "history"
+    },
+    {
+        "id": 175,
+        "parent_id": 166,
+        "slug": "math"
+    },
+    {
+        "id": 176,
+        "parent_id": 166,
+        "slug": "science"
+    },
+    {
+        "id": 177,
+        "parent_id": 176,
+        "slug": "medicine"
+    },
+    {
+        "id": 178,
+        "parent_id": 166,
+        "slug": "specialties"
+    },
+    {
+        "id": 179,
+        "parent_id": null,
+        "slug": "comics-and-graphic-novels"
+    },
+    {
+        "id": 180,
+        "parent_id": null,
+        "slug": "fiction-books"
+    },
+    {
+        "id": 181,
+        "parent_id": 180,
+        "slug": "childrens-books"
+    },
+    {
+        "id": 182,
+        "parent_id": 180,
+        "slug": "teen-and-young-adult"
+    },
+    {
+        "id": 183,
+        "parent_id": 180,
+        "slug": "fantasy"
+    },
+    {
+        "id": 184,
+        "parent_id": 180,
+        "slug": "science-fiction"
+    },
+    {
+        "id": 185,
+        "parent_id": 180,
+        "slug": "romance"
+    },
+    {
+        "id": 186,
+        "parent_id": 180,
+        "slug": "mystery"
+    },
+    {
+        "id": 187,
+        "parent_id": null,
+        "slug": "audio"
+    },
+    {
+        "id": 188,
+        "parent_id": 187,
+        "slug": "hypnosis"
+    },
+    {
+        "id": 189,
+        "parent_id": 187,
+        "slug": "subliminal-messages"
+    },
+    {
+        "id": 190,
+        "parent_id": 187,
+        "slug": "healing"
+    },
+    {
+        "id": 191,
+        "parent_id": 187,
+        "slug": "sleep-and-meditation"
+    },
+    {
+        "id": 192,
+        "parent_id": 187,
+        "slug": "asmr"
+    },
+    {
+        "id": 193,
+        "parent_id": 187,
+        "slug": "voiceover"
+    },
+    {
+        "id": 194,
+        "parent_id": null,
+        "slug": "recorded-music"
+    },
+    {
+        "id": 195,
+        "parent_id": 194,
+        "slug": "albums"
+    },
+    {
+        "id": 196,
+        "parent_id": 194,
+        "slug": "singles"
+    },
+    {
+        "id": 197,
+        "parent_id": 196,
+        "slug": "alternative-and-indie"
+    },
+    {
+        "id": 198,
+        "parent_id": 196,
+        "slug": "rock"
+    },
+    {
+        "id": 199,
+        "parent_id": 196,
+        "slug": "blues"
+    },
+    {
+        "id": 200,
+        "parent_id": 196,
+        "slug": "broadway-and-vocalists"
+    },
+    {
+        "id": 201,
+        "parent_id": 196,
+        "slug": "childrens-music"
+    },
+    {
+        "id": 202,
+        "parent_id": 196,
+        "slug": "christian"
+    },
+    {
+        "id": 203,
+        "parent_id": 196,
+        "slug": "classical"
+    },
+    {
+        "id": 204,
+        "parent_id": 196,
+        "slug": "classic-rock"
+    },
+    {
+        "id": 205,
+        "parent_id": 196,
+        "slug": "comedy-and-miscellaneous"
+    },
+    {
+        "id": 206,
+        "parent_id": 196,
+        "slug": "country"
+    },
+    {
+        "id": 207,
+        "parent_id": 196,
+        "slug": "dance-and-electronic"
+    },
+    {
+        "id": 208,
+        "parent_id": 196,
+        "slug": "folk"
+    },
+    {
+        "id": 209,
+        "parent_id": 196,
+        "slug": "gospel"
+    },
+    {
+        "id": 210,
+        "parent_id": 196,
+        "slug": "hard-rock-and-metal"
+    },
+    {
+        "id": 211,
+        "parent_id": 196,
+        "slug": "holiday-music"
+    },
+    {
+        "id": 212,
+        "parent_id": 196,
+        "slug": "jazz"
+    },
+    {
+        "id": 213,
+        "parent_id": 196,
+        "slug": "latin-music"
+    },
+    {
+        "id": 214,
+        "parent_id": 196,
+        "slug": "new-age"
+    },
+    {
+        "id": 215,
+        "parent_id": 196,
+        "slug": "opera-and-vocal"
+    },
+    {
+        "id": 216,
+        "parent_id": 196,
+        "slug": "pop"
+    },
+    {
+        "id": 217,
+        "parent_id": 196,
+        "slug": "rhythm-and-blues"
+    },
+    {
+        "id": 218,
+        "parent_id": 196,
+        "slug": "rap-and-hip-hop"
+    },
+    {
+        "id": 219,
+        "parent_id": 196,
+        "slug": "soundtracks"
+    },
+    {
+        "id": 220,
+        "parent_id": 196,
+        "slug": "world-music"
+    },
+    {
+        "id": 221,
+        "parent_id": null,
+        "slug": "films"
+    },
+    {
+        "id": 222,
+        "parent_id": 221,
+        "slug": "short-film"
+    },
+    {
+        "id": 223,
+        "parent_id": 221,
+        "slug": "documentary"
+    },
+    {
+        "id": 224,
+        "parent_id": 221,
+        "slug": "movie"
+    },
+    {
+        "id": 225,
+        "parent_id": 224,
+        "slug": "action-and-adventure"
+    },
+    {
+        "id": 226,
+        "parent_id": 224,
+        "slug": "animation"
+    },
+    {
+        "id": 227,
+        "parent_id": 224,
+        "slug": "anime"
+    },
+    {
+        "id": 228,
+        "parent_id": 224,
+        "slug": "black-voices"
+    },
+    {
+        "id": 229,
+        "parent_id": 224,
+        "slug": "classics"
+    },
+    {
+        "id": 230,
+        "parent_id": 224,
+        "slug": "comedy"
+    },
+    {
+        "id": 231,
+        "parent_id": 224,
+        "slug": "drama"
+    },
+    {
+        "id": 232,
+        "parent_id": 224,
+        "slug": "faith-and-spirituality"
+    },
+    {
+        "id": 233,
+        "parent_id": 224,
+        "slug": "foreign-language-and-international"
+    },
+    {
+        "id": 234,
+        "parent_id": 224,
+        "slug": "horror"
+    },
+    {
+        "id": 235,
+        "parent_id": 224,
+        "slug": "indian-cinema-and-bollywood"
+    },
+    {
+        "id": 236,
+        "parent_id": 224,
+        "slug": "indie-and-art-house"
+    },
+    {
+        "id": 237,
+        "parent_id": 224,
+        "slug": "kids-and-family"
+    },
+    {
+        "id": 238,
+        "parent_id": 224,
+        "slug": "lgbtq"
+    },
+    {
+        "id": 239,
+        "parent_id": 224,
+        "slug": "music-videos-and-concerts"
+    },
+    {
+        "id": 240,
+        "parent_id": 224,
+        "slug": "romance"
+    },
+    {
+        "id": 241,
+        "parent_id": 224,
+        "slug": "science-fiction"
+    },
+    {
+        "id": 242,
+        "parent_id": 224,
+        "slug": "western"
+    },
+    {
+        "id": 243,
+        "parent_id": 221,
+        "slug": "dance"
+    },
+    {
+        "id": 244,
+        "parent_id": 221,
+        "slug": "performance"
+    },
+    {
+        "id": 245,
+        "parent_id": 221,
+        "slug": "theater"
+    },
+    {
+        "id": 246,
+        "parent_id": 221,
+        "slug": "comedy"
+    },
+    {
+        "id": 247,
+        "parent_id": 246,
+        "slug": "standup"
+    },
+    {
+        "id": 248,
+        "parent_id": 246,
+        "slug": "sketch"
+    },
+    {
+        "id": 249,
+        "parent_id": 221,
+        "slug": "sports-events"
+    },
+    {
+        "id": 250,
+        "parent_id": 221,
+        "slug": "videography"
+    },
+    {
+        "id": 251,
+        "parent_id": 221,
+        "slug": "video-production-and-editing"
+    },
+    {
+        "id": 252,
+        "parent_id": 251,
+        "slug": "luts"
+    },
+    {
+        "id": 253,
+        "parent_id": 251,
+        "slug": "video-assets-and-loops"
+    },
+    {
+        "id": 254,
+        "parent_id": 253,
+        "slug": "premiere-pro"
+    },
+    {
+        "id": 255,
+        "parent_id": 253,
+        "slug": "after-effects"
+    },
+    {
+        "id": 256,
+        "parent_id": 253,
+        "slug": "cinema-4d"
+    },
+    {
+        "id": 257,
+        "parent_id": 251,
+        "slug": "stock"
+    },
+    {
+        "id": 258,
+        "parent_id": 251,
+        "slug": "courses"
+    },
+    {
+        "id": 259,
+        "parent_id": null,
+        "slug": "gaming"
+    },
+    {
+        "id": 260,
+        "parent_id": 259,
+        "slug": "streaming"
+    },
+    {
+        "id": 261,
+        "parent_id": 1,
+        "slug": "vrchat"
+    },
+    {
+        "id": 262,
+        "parent_id": 1,
+        "slug": "avatars"
+    },
+    {
+        "id": 263,
+        "parent_id": 262,
+        "slug": "female"
+    },
+    {
+        "id": 264,
+        "parent_id": 262,
+        "slug": "male"
+    },
+    {
+        "id": 265,
+        "parent_id": 262,
+        "slug": "non-binary"
+    },
+    {
+        "id": 266,
+        "parent_id": 262,
+        "slug": "optimized"
+    },
+    {
+        "id": 267,
+        "parent_id": 262,
+        "slug": "quest"
+    },
+    {
+        "id": 268,
+        "parent_id": 262,
+        "slug": "species"
+    },
+    {
+        "id": 269,
+        "parent_id": 8,
+        "slug": "avatar-components"
+    },
+    {
+        "id": 270,
+        "parent_id": 269,
+        "slug": "bases"
+    },
+    {
+        "id": 271,
+        "parent_id": 269,
+        "slug": "ears"
+    },
+    {
+        "id": 272,
+        "parent_id": 269,
+        "slug": "feet"
+    },
+    {
+        "id": 273,
+        "parent_id": 269,
+        "slug": "hair"
+    },
+    {
+        "id": 274,
+        "parent_id": 269,
+        "slug": "heads"
+    },
+    {
+        "id": 275,
+        "parent_id": 269,
+        "slug": "horns"
+    },
+    {
+        "id": 276,
+        "parent_id": 269,
+        "slug": "tails"
+    },
+    {
+        "id": 277,
+        "parent_id": 8,
+        "slug": "accessories"
+    },
+    {
+        "id": 278,
+        "parent_id": 277,
+        "slug": "bags"
+    },
+    {
+        "id": 279,
+        "parent_id": 277,
+        "slug": "belts"
+    },
+    {
+        "id": 280,
+        "parent_id": 277,
+        "slug": "chokers"
+    },
+    {
+        "id": 281,
+        "parent_id": 277,
+        "slug": "gloves"
+    },
+    {
+        "id": 282,
+        "parent_id": 277,
+        "slug": "harnesses"
+    },
+    {
+        "id": 283,
+        "parent_id": 277,
+        "slug": "jewelry"
+    },
+    {
+        "id": 284,
+        "parent_id": 277,
+        "slug": "masks"
+    },
+    {
+        "id": 285,
+        "parent_id": 277,
+        "slug": "wings"
+    },
+    {
+        "id": 286,
+        "parent_id": 8,
+        "slug": "clothing"
+    },
+    {
+        "id": 287,
+        "parent_id": 286,
+        "slug": "bodysuits"
+    },
+    {
+        "id": 288,
+        "parent_id": 286,
+        "slug": "bottoms"
+    },
+    {
+        "id": 289,
+        "parent_id": 286,
+        "slug": "bras"
+    },
+    {
+        "id": 290,
+        "parent_id": 286,
+        "slug": "dresses"
+    },
+    {
+        "id": 291,
+        "parent_id": 286,
+        "slug": "jackets"
+    },
+    {
+        "id": 292,
+        "parent_id": 286,
+        "slug": "lingerie"
+    },
+    {
+        "id": 293,
+        "parent_id": 286,
+        "slug": "outfits"
+    },
+    {
+        "id": 294,
+        "parent_id": 286,
+        "slug": "pants"
+    },
+    {
+        "id": 295,
+        "parent_id": 286,
+        "slug": "shirts"
+    },
+    {
+        "id": 296,
+        "parent_id": 286,
+        "slug": "shorts"
+    },
+    {
+        "id": 297,
+        "parent_id": 286,
+        "slug": "skirts"
+    },
+    {
+        "id": 298,
+        "parent_id": 286,
+        "slug": "sweaters"
+    },
+    {
+        "id": 299,
+        "parent_id": 286,
+        "slug": "swimsuits"
+    },
+    {
+        "id": 300,
+        "parent_id": 286,
+        "slug": "tops"
+    },
+    {
+        "id": 301,
+        "parent_id": 286,
+        "slug": "underwear"
+    },
+    {
+        "id": 302,
+        "parent_id": 8,
+        "slug": "footwear"
+    },
+    {
+        "id": 303,
+        "parent_id": 302,
+        "slug": "boots"
+    },
+    {
+        "id": 304,
+        "parent_id": 302,
+        "slug": "leggings"
+    },
+    {
+        "id": 305,
+        "parent_id": 302,
+        "slug": "shoes"
+    },
+    {
+        "id": 306,
+        "parent_id": 302,
+        "slug": "socks"
+    },
+    {
+        "id": 307,
+        "parent_id": 302,
+        "slug": "stockings"
+    },
+    {
+        "id": 308,
+        "parent_id": 8,
+        "slug": "headwear"
+    },
+    {
+        "id": 309,
+        "parent_id": 308,
+        "slug": "hats"
+    },
+    {
+        "id": 310,
+        "parent_id": 8,
+        "slug": "props"
+    },
+    {
+        "id": 311,
+        "parent_id": 310,
+        "slug": "companions"
+    },
+    {
+        "id": 312,
+        "parent_id": 310,
+        "slug": "handheld"
+    },
+    {
+        "id": 313,
+        "parent_id": 310,
+        "slug": "plushies"
+    },
+    {
+        "id": 314,
+        "parent_id": 310,
+        "slug": "prefabs"
+    },
+    {
+        "id": 315,
+        "parent_id": 310,
+        "slug": "weapons"
+    },
+    {
+        "id": 316,
+        "parent_id": 13,
+        "slug": "animations"
+    },
+    {
+        "id": 317,
+        "parent_id": 13,
+        "slug": "particle-systems"
+    },
+    {
+        "id": 318,
+        "parent_id": 13,
+        "slug": "shaders"
+    },
+    {
+        "id": 319,
+        "parent_id": 261,
+        "slug": "avatar-systems"
+    },
+    {
+        "id": 320,
+        "parent_id": 261,
+        "slug": "followers"
+    },
+    {
+        "id": 321,
+        "parent_id": 261,
+        "slug": "osc"
+    },
+    {
+        "id": 322,
+        "parent_id": 261,
+        "slug": "setup-scripts"
+    },
+    {
+        "id": 323,
+        "parent_id": 261,
+        "slug": "spring-joints"
+    },
+    {
+        "id": 324,
+        "parent_id": 261,
+        "slug": "tools"
+    },
+    {
+        "id": 325,
+        "parent_id": 261,
+        "slug": "world-constraints"
+    },
+    {
+        "id": 326,
+        "parent_id": 261,
+        "slug": "worlds"
+    },
+    {
+        "id": 327,
+        "parent_id": 326,
+        "slug": "assets"
+    },
+    {
+        "id": 328,
+        "parent_id": 326,
+        "slug": "midi"
+    },
+    {
+        "id": 329,
+        "parent_id": 326,
+        "slug": "quest"
+    },
+    {
+        "id": 330,
+        "parent_id": 326,
+        "slug": "tools"
+    },
+    {
+        "id": 331,
+        "parent_id": 326,
+        "slug": "udon"
+    },
+    {
+        "id": 332,
+        "parent_id": 326,
+        "slug": "udon-system"
+    },
+    {
+        "id": 333,
+        "parent_id": 326,
+        "slug": "udon2"
+    },
+    {
+        "id": 334,
+        "parent_id": 261,
+        "slug": "tutorials-guides"
+    },
+    {
+        "id": 335,
+        "parent_id": 1,
+        "slug": "textures"
+    },
+    {
+        "id": 336,
+        "parent_id": 335,
+        "slug": "base"
+    },
+    {
+        "id": 337,
+        "parent_id": 335,
+        "slug": "eyes"
+    },
+    {
+        "id": 338,
+        "parent_id": 335,
+        "slug": "face"
+    },
+    {
+        "id": 339,
+        "parent_id": 335,
+        "slug": "icons"
+    },
+    {
+        "id": 340,
+        "parent_id": 335,
+        "slug": "matcap"
+    },
+    {
+        "id": 341,
+        "parent_id": 335,
+        "slug": "pbr"
+    },
+    {
+        "id": 342,
+        "parent_id": 335,
+        "slug": "tattoos"
+    },
+    {
+        "id": 343,
+        "parent_id": null,
+        "slug": "other"
+    }
+]

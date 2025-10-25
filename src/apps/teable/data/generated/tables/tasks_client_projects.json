@@ -1,0 +1,2257 @@
+{
+  "table_name": "Tasks",
+  "parent_workspace_name": "Client Projects",
+  "parent_base_name": "Client Projects",
+  "records": [
+    {
+      "fields": {
+        "Task Name": "Develop AI content calendar",
+        "Status": "In Progress",
+        "Priority": "High",
+        "Due Date": "2025-07-15",
+        "Estimated Hours": 35.5,
+        "Logged Hours": 12.3,
+        "Created Date": "2025-01-10",
+        "Task Type": "Feature",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Conduct keyword research",
+        "Status": "Done",
+        "Priority": "Medium",
+        "Due Date": "2025-06-22",
+        "Estimated Hours": 12.0,
+        "Logged Hours": 13.5,
+        "Created Date": "2025-03-05",
+        "Task Type": "Research",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Setup social media ad campaign",
+        "Status": "Review",
+        "Priority": "Critical",
+        "Due Date": "2025-06-30",
+        "Estimated Hours": 20.0,
+        "Logged Hours": 18.0,
+        "Created Date": "2025-05-20",
+        "Task Type": "Feature",
+        "Complexity": "High",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Automate email drip sequences",
+        "Status": "In Progress",
+        "Priority": "High",
+        "Due Date": "2025-07-05",
+        "Estimated Hours": 25.0,
+        "Logged Hours": 10.8,
+        "Created Date": "2025-04-15",
+        "Task Type": "Enhancement",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Analyze market segmentation",
+        "Status": "To Do",
+        "Priority": "Medium",
+        "Due Date": "2025-08-01",
+        "Estimated Hours": 30.0,
+        "Logged Hours": 0.0,
+        "Created Date": "2024-10-10",
+        "Task Type": "Research",
+        "Complexity": "High",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Redesign homepage layout",
+        "Status": "In Progress",
+        "Priority": "High",
+        "Due Date": "2025-07-20",
+        "Estimated Hours": 50.0,
+        "Logged Hours": 22.7,
+        "Created Date": "2025-02-25",
+        "Task Type": "Feature",
+        "Complexity": "High",
+        "Blocked": "Yes",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Improve client onboarding flow",
+        "Status": "Review",
+        "Priority": "Medium",
+        "Due Date": "2025-07-10",
+        "Estimated Hours": 18.0,
+        "Logged Hours": 15.0,
+        "Created Date": "2025-03-18",
+        "Task Type": "Enhancement",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "QA email automation sequences",
+        "Status": "To Do",
+        "Priority": "Low",
+        "Due Date": "2025-07-02",
+        "Estimated Hours": 10.0,
+        "Logged Hours": 0.0,
+        "Created Date": "2025-05-01",
+        "Task Type": "QA",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Document SEO best practices",
+        "Status": "Done",
+        "Priority": "Low",
+        "Due Date": "2025-06-15",
+        "Estimated Hours": 8.0,
+        "Logged Hours": 9.0,
+        "Created Date": "2025-01-30",
+        "Task Type": "Documentation",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Research AI-driven marketing trends",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Due Date": "2025-07-25",
+        "Estimated Hours": 22.5,
+        "Logged Hours": 9.4,
+        "Created Date": "2024-12-15",
+        "Task Type": "Research",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Maintain social media content calendar",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Due Date": "2025-07-12",
+        "Estimated Hours": 15.0,
+        "Logged Hours": 11.2,
+        "Created Date": "2025-04-10",
+        "Task Type": "Maintenance",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Enhance video marketing scripts",
+        "Status": "To Do",
+        "Priority": "High",
+        "Due Date": "2025-07-18",
+        "Estimated Hours": 28.0,
+        "Logged Hours": 0.0,
+        "Created Date": "2025-05-21",
+        "Task Type": "Enhancement",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Bug fix in chatbot integration",
+        "Status": "In Progress",
+        "Priority": "Critical",
+        "Due Date": "2025-06-28",
+        "Estimated Hours": 14.0,
+        "Logged Hours": 5.0,
+        "Created Date": "2025-06-01",
+        "Task Type": "Bug",
+        "Complexity": "High",
+        "Blocked": "Yes",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Create brand awareness report",
+        "Status": "Review",
+        "Priority": "Medium",
+        "Due Date": "2025-07-01",
+        "Estimated Hours": 12.0,
+        "Logged Hours": 11.5,
+        "Created Date": "2025-04-25",
+        "Task Type": "Documentation",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Optimize PPC campaign structure",
+        "Status": "To Do",
+        "Priority": "High",
+        "Due Date": "2025-07-08",
+        "Estimated Hours": 22.0,
+        "Logged Hours": 0.0,
+        "Created Date": "2025-05-12",
+        "Task Type": "Feature",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Customer experience feedback analysis",
+        "Status": "Done",
+        "Priority": "Medium",
+        "Due Date": "2025-06-20",
+        "Estimated Hours": 16.0,
+        "Logged Hours": 16.7,
+        "Created Date": "2025-02-15",
+        "Task Type": "Research",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Develop influencer collaboration tool",
+        "Status": "In Progress",
+        "Priority": "High",
+        "Due Date": "2025-08-05",
+        "Estimated Hours": 40.0,
+        "Logged Hours": 20.0,
+        "Created Date": "2025-03-30",
+        "Task Type": "Feature",
+        "Complexity": "High",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Fix email list segmentation bug",
+        "Status": "To Do",
+        "Priority": "Critical",
+        "Due Date": "2025-07-03",
+        "Estimated Hours": 10.0,
+        "Logged Hours": 0.0,
+        "Created Date": "2025-06-10",
+        "Task Type": "Bug",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Update analytics dashboard widgets",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Due Date": "2025-07-15",
+        "Estimated Hours": 20.5,
+        "Logged Hours": 7.8,
+        "Created Date": "2025-04-08",
+        "Task Type": "Enhancement",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Write client satisfaction survey questions",
+        "Status": "Done",
+        "Priority": "Low",
+        "Due Date": "2025-06-18",
+        "Estimated Hours": 6.5,
+        "Logged Hours": 7.0,
+        "Created Date": "2025-01-20",
+        "Task Type": "Documentation",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Research sustainability campaign impact",
+        "Status": "Review",
+        "Priority": "Medium",
+        "Due Date": "2025-07-10",
+        "Estimated Hours": 25.0,
+        "Logged Hours": 24.5,
+        "Created Date": "2024-11-30",
+        "Task Type": "Research",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Improve client referral program UI",
+        "Status": "In Progress",
+        "Priority": "High",
+        "Due Date": "2025-07-22",
+        "Estimated Hours": 30.0,
+        "Logged Hours": 11.0,
+        "Created Date": "2025-03-01",
+        "Task Type": "Enhancement",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "QA for AI chatbot dialogue flows",
+        "Status": "To Do",
+        "Priority": "Medium",
+        "Due Date": "2025-07-01",
+        "Estimated Hours": 12.0,
+        "Logged Hours": 0.0,
+        "Created Date": "2025-05-05",
+        "Task Type": "QA",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Document marketing automation workflow",
+        "Status": "Done",
+        "Priority": "Low",
+        "Due Date": "2025-06-26",
+        "Estimated Hours": 8.0,
+        "Logged Hours": 8.5,
+        "Created Date": "2025-02-10",
+        "Task Type": "Documentation",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Research lead generation best tactics",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Due Date": "2025-07-28",
+        "Estimated Hours": 24.0,
+        "Logged Hours": 10.0,
+        "Created Date": "2024-12-05",
+        "Task Type": "Research",
+        "Complexity": "High",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Maintain client onboarding documentation",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Due Date": "2025-07-12",
+        "Estimated Hours": 15.0,
+        "Logged Hours": 6.0,
+        "Created Date": "2025-04-20",
+        "Task Type": "Maintenance",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Enhance webinar series content",
+        "Status": "To Do",
+        "Priority": "High",
+        "Due Date": "2025-07-20",
+        "Estimated Hours": 28.0,
+        "Logged Hours": 0.0,
+        "Created Date": "2025-05-15",
+        "Task Type": "Enhancement",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Fix bugs in social media management tool",
+        "Status": "In Progress",
+        "Priority": "Critical",
+        "Due Date": "2025-06-29",
+        "Estimated Hours": 15.0,
+        "Logged Hours": 5.5,
+        "Created Date": "2025-06-02",
+        "Task Type": "Bug",
+        "Complexity": "High",
+        "Blocked": "Yes",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Create branding guidelines update",
+        "Status": "Review",
+        "Priority": "Medium",
+        "Due Date": "2025-07-06",
+        "Estimated Hours": 14.0,
+        "Logged Hours": 14.0,
+        "Created Date": "2025-03-25",
+        "Task Type": "Documentation",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Optimize local SEO campaign keywords",
+        "Status": "To Do",
+        "Priority": "High",
+        "Due Date": "2025-07-10",
+        "Estimated Hours": 20.0,
+        "Logged Hours": 0.0,
+        "Created Date": "2025-05-10",
+        "Task Type": "Feature",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Analyze customer journey mapping",
+        "Status": "Done",
+        "Priority": "Medium",
+        "Due Date": "2025-06-21",
+        "Estimated Hours": 18.0,
+        "Logged Hours": 19.0,
+        "Created Date": "2025-02-20",
+        "Task Type": "Research",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Develop AI-driven market trends tool",
+        "Status": "In Progress",
+        "Priority": "High",
+        "Due Date": "2025-08-01",
+        "Estimated Hours": 38.0,
+        "Logged Hours": 15.0,
+        "Created Date": "2025-03-10",
+        "Task Type": "Feature",
+        "Complexity": "High",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Bug fix in PPC advertising revamp",
+        "Status": "To Do",
+        "Priority": "Critical",
+        "Due Date": "2025-07-05",
+        "Estimated Hours": 12.0,
+        "Logged Hours": 0.0,
+        "Created Date": "2025-06-12",
+        "Task Type": "Bug",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Document content marketing strategy",
+        "Status": "Done",
+        "Priority": "Low",
+        "Due Date": "2025-06-24",
+        "Estimated Hours": 9.0,
+        "Logged Hours": 9.5,
+        "Created Date": "2025-01-25",
+        "Task Type": "Documentation",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Research predictive analytics implementation",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Due Date": "2025-07-30",
+        "Estimated Hours": 26.0,
+        "Logged Hours": 12.0,
+        "Created Date": "2024-11-20",
+        "Task Type": "Research",
+        "Complexity": "High",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Maintain client portal development",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Due Date": "2025-07-15",
+        "Estimated Hours": 18.0,
+        "Logged Hours": 9.0,
+        "Created Date": "2025-04-18",
+        "Task Type": "Maintenance",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Enhance AI content generation tool",
+        "Status": "To Do",
+        "Priority": "High",
+        "Due Date": "2025-07-19",
+        "Estimated Hours": 30.0,
+        "Logged Hours": 0.0,
+        "Created Date": "2025-05-18",
+        "Task Type": "Enhancement",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Fix bugs in webinar series production",
+        "Status": "In Progress",
+        "Priority": "Critical",
+        "Due Date": "2025-06-27",
+        "Estimated Hours": 14.0,
+        "Logged Hours": 6.0,
+        "Created Date": "2025-06-04",
+        "Task Type": "Bug",
+        "Complexity": "High",
+        "Blocked": "Yes",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Update CRM system integration",
+        "Status": "Review",
+        "Priority": "Medium",
+        "Due Date": "2025-07-07",
+        "Estimated Hours": 16.0,
+        "Logged Hours": 16.0,
+        "Created Date": "2025-03-28",
+        "Task Type": "Documentation",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Analyze brand revitalization impact",
+        "Status": "Done",
+        "Priority": "Medium",
+        "Due Date": "2025-06-19",
+        "Estimated Hours": 20.0,
+        "Logged Hours": 20.5,
+        "Created Date": "2025-02-28",
+        "Task Type": "Research",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Develop AI chatbot integration",
+        "Status": "In Progress",
+        "Priority": "High",
+        "Due Date": "2025-07-25",
+        "Estimated Hours": 35.0,
+        "Logged Hours": 14.0,
+        "Created Date": "2025-04-01",
+        "Task Type": "Feature",
+        "Complexity": "High",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Bug fix in email marketing automation",
+        "Status": "To Do",
+        "Priority": "Critical",
+        "Due Date": "2025-07-02",
+        "Estimated Hours": 11.0,
+        "Logged Hours": 0.0,
+        "Created Date": "2025-06-15",
+        "Task Type": "Bug",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Document client retention strategy",
+        "Status": "Done",
+        "Priority": "Low",
+        "Due Date": "2025-06-25",
+        "Estimated Hours": 7.5,
+        "Logged Hours": 8.0,
+        "Created Date": "2025-01-15",
+        "Task Type": "Documentation",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Research digital marketing workshops",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Due Date": "2025-07-27",
+        "Estimated Hours": 25.0,
+        "Logged Hours": 10.5,
+        "Created Date": "2024-12-10",
+        "Task Type": "Research",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Maintain referral program launch",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Due Date": "2025-07-13",
+        "Estimated Hours": 15.0,
+        "Logged Hours": 8.0,
+        "Created Date": "2025-04-16",
+        "Task Type": "Maintenance",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Enhance social media audit report",
+        "Status": "To Do",
+        "Priority": "High",
+        "Due Date": "2025-07-17",
+        "Estimated Hours": 28.0,
+        "Logged Hours": 0.0,
+        "Created Date": "2025-05-11",
+        "Task Type": "Enhancement",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Fix bug in client feedback tool",
+        "Status": "In Progress",
+        "Priority": "Critical",
+        "Due Date": "2025-06-29",
+        "Estimated Hours": 14.5,
+        "Logged Hours": 5.5,
+        "Created Date": "2025-06-06",
+        "Task Type": "Bug",
+        "Complexity": "High",
+        "Blocked": "Yes",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Create marketing strategy review document",
+        "Status": "Review",
+        "Priority": "Medium",
+        "Due Date": "2025-07-09",
+        "Estimated Hours": 15.0,
+        "Logged Hours": 15.0,
+        "Created Date": "2025-03-22",
+        "Task Type": "Documentation",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Optimize AI-powered PPC campaigns",
+        "Status": "To Do",
+        "Priority": "High",
+        "Due Date": "2025-07-11",
+        "Estimated Hours": 22.0,
+        "Logged Hours": 0.0,
+        "Created Date": "2025-05-14",
+        "Task Type": "Feature",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Analyze customer journey mapping data",
+        "Status": "Done",
+        "Priority": "Medium",
+        "Due Date": "2025-06-23",
+        "Estimated Hours": 18.0,
+        "Logged Hours": 18.5,
+        "Created Date": "2025-02-12",
+        "Task Type": "Research",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Develop mobile marketing strategy",
+        "Status": "In Progress",
+        "Priority": "High",
+        "Due Date": "2025-07-24",
+        "Estimated Hours": 35.0,
+        "Logged Hours": 15.0,
+        "Created Date": "2025-04-02",
+        "Task Type": "Feature",
+        "Complexity": "High",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Bug fix in content calendar development",
+        "Status": "To Do",
+        "Priority": "Critical",
+        "Due Date": "2025-07-04",
+        "Estimated Hours": 10.0,
+        "Logged Hours": 0.0,
+        "Created Date": "2025-06-11",
+        "Task Type": "Bug",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Document AI ethics policy",
+        "Status": "Done",
+        "Priority": "Low",
+        "Due Date": "2025-06-21",
+        "Estimated Hours": 7.0,
+        "Logged Hours": 7.5,
+        "Created Date": "2025-01-28",
+        "Task Type": "Documentation",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Research community engagement program",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Due Date": "2025-07-29",
+        "Estimated Hours": 25.0,
+        "Logged Hours": 11.0,
+        "Created Date": "2024-11-18",
+        "Task Type": "Research",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Maintain digital advertising workflows",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Due Date": "2025-07-14",
+        "Estimated Hours": 16.0,
+        "Logged Hours": 6.5,
+        "Created Date": "2025-04-22",
+        "Task Type": "Maintenance",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Enhance CRM system implementation",
+        "Status": "To Do",
+        "Priority": "High",
+        "Due Date": "2025-07-16",
+        "Estimated Hours": 30.0,
+        "Logged Hours": 0.0,
+        "Created Date": "2025-05-17",
+        "Task Type": "Enhancement",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Fix bug in lead scoring system",
+        "Status": "In Progress",
+        "Priority": "Critical",
+        "Due Date": "2025-06-28",
+        "Estimated Hours": 12.0,
+        "Logged Hours": 4.5,
+        "Created Date": "2025-06-07",
+        "Task Type": "Bug",
+        "Complexity": "High",
+        "Blocked": "Yes",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Create referral program launch plan",
+        "Status": "Review",
+        "Priority": "Medium",
+        "Due Date": "2025-07-08",
+        "Estimated Hours": 14.0,
+        "Logged Hours": 14.0,
+        "Created Date": "2025-03-27",
+        "Task Type": "Documentation",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Analyze brand revitalization project",
+        "Status": "Done",
+        "Priority": "Medium",
+        "Due Date": "2025-06-16",
+        "Estimated Hours": 20.0,
+        "Logged Hours": 20.0,
+        "Created Date": "2025-02-25",
+        "Task Type": "Research",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Develop content distribution strategy",
+        "Status": "In Progress",
+        "Priority": "High",
+        "Due Date": "2025-07-21",
+        "Estimated Hours": 40.0,
+        "Logged Hours": 18.0,
+        "Created Date": "2025-03-05",
+        "Task Type": "Feature",
+        "Complexity": "High",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Bug fix in social media campaign",
+        "Status": "To Do",
+        "Priority": "Critical",
+        "Due Date": "2025-07-06",
+        "Estimated Hours": 15.0,
+        "Logged Hours": 0.0,
+        "Created Date": "2025-06-09",
+        "Task Type": "Bug",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Document marketing automation system",
+        "Status": "Done",
+        "Priority": "Low",
+        "Due Date": "2025-06-20",
+        "Estimated Hours": 9.0,
+        "Logged Hours": 9.0,
+        "Created Date": "2025-01-18",
+        "Task Type": "Documentation",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Research AI marketing strategy",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Due Date": "2025-07-28",
+        "Estimated Hours": 26.0,
+        "Logged Hours": 13.0,
+        "Created Date": "2024-11-22",
+        "Task Type": "Research",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Maintain client loyalty program",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Due Date": "2025-07-13",
+        "Estimated Hours": 15.0,
+        "Logged Hours": 7.5,
+        "Created Date": "2025-04-17",
+        "Task Type": "Maintenance",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Enhance content marketing strategy",
+        "Status": "To Do",
+        "Priority": "High",
+        "Due Date": "2025-07-19",
+        "Estimated Hours": 28.0,
+        "Logged Hours": 0.0,
+        "Created Date": "2025-05-13",
+        "Task Type": "Enhancement",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Fix bugs in data privacy initiative",
+        "Status": "In Progress",
+        "Priority": "Critical",
+        "Due Date": "2025-06-27",
+        "Estimated Hours": 14.0,
+        "Logged Hours": 6.2,
+        "Created Date": "2025-06-03",
+        "Task Type": "Bug",
+        "Complexity": "High",
+        "Blocked": "Yes",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Create AI-driven brand monitoring report",
+        "Status": "Review",
+        "Priority": "Medium",
+        "Due Date": "2025-07-07",
+        "Estimated Hours": 15.0,
+        "Logged Hours": 15.0,
+        "Created Date": "2025-03-23",
+        "Task Type": "Documentation",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Optimize content creation tool features",
+        "Status": "To Do",
+        "Priority": "High",
+        "Due Date": "2025-07-11",
+        "Estimated Hours": 22.0,
+        "Logged Hours": 0.0,
+        "Created Date": "2025-05-16",
+        "Task Type": "Feature",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Analyze PPC advertising revamp results",
+        "Status": "Done",
+        "Priority": "Medium",
+        "Due Date": "2025-06-22",
+        "Estimated Hours": 18.0,
+        "Logged Hours": 19.0,
+        "Created Date": "2025-02-18",
+        "Task Type": "Research",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Develop virtual reality marketing demo",
+        "Status": "In Progress",
+        "Priority": "High",
+        "Due Date": "2025-07-25",
+        "Estimated Hours": 38.0,
+        "Logged Hours": 17.0,
+        "Created Date": "2025-04-09",
+        "Task Type": "Feature",
+        "Complexity": "High",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Bug fix in client workshops module",
+        "Status": "To Do",
+        "Priority": "Critical",
+        "Due Date": "2025-07-05",
+        "Estimated Hours": 13.0,
+        "Logged Hours": 0.0,
+        "Created Date": "2025-06-14",
+        "Task Type": "Bug",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Document corporate identity revamp",
+        "Status": "Done",
+        "Priority": "Low",
+        "Due Date": "2025-06-17",
+        "Estimated Hours": 7.5,
+        "Logged Hours": 8.0,
+        "Created Date": "2025-01-29",
+        "Task Type": "Documentation",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Research lead nurturing campaign tactics",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Due Date": "2025-07-30",
+        "Estimated Hours": 26.0,
+        "Logged Hours": 11.5,
+        "Created Date": "2024-11-14",
+        "Task Type": "Research",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Maintain blog management system",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Due Date": "2025-07-14",
+        "Estimated Hours": 17.0,
+        "Logged Hours": 7.0,
+        "Created Date": "2025-04-21",
+        "Task Type": "Maintenance",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Enhance webinar series production quality",
+        "Status": "To Do",
+        "Priority": "High",
+        "Due Date": "2025-07-18",
+        "Estimated Hours": 30.0,
+        "Logged Hours": 0.0,
+        "Created Date": "2025-05-19",
+        "Task Type": "Enhancement",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Fix bug in analytics dashboard widgets",
+        "Status": "In Progress",
+        "Priority": "Critical",
+        "Due Date": "2025-06-26",
+        "Estimated Hours": 15.0,
+        "Logged Hours": 6.0,
+        "Created Date": "2025-06-05",
+        "Task Type": "Bug",
+        "Complexity": "High",
+        "Blocked": "Yes",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Create text analytics for marketing doc",
+        "Status": "Review",
+        "Priority": "Medium",
+        "Due Date": "2025-07-04",
+        "Estimated Hours": 14.0,
+        "Logged Hours": 14.0,
+        "Created Date": "2025-03-29",
+        "Task Type": "Documentation",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Optimize omni-channel marketing project",
+        "Status": "To Do",
+        "Priority": "High",
+        "Due Date": "2025-07-12",
+        "Estimated Hours": 22.0,
+        "Logged Hours": 0.0,
+        "Created Date": "2025-05-20",
+        "Task Type": "Feature",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Analyze event marketing strategy results",
+        "Status": "Done",
+        "Priority": "Medium",
+        "Due Date": "2025-06-20",
+        "Estimated Hours": 18.0,
+        "Logged Hours": 18.0,
+        "Created Date": "2025-02-26",
+        "Task Type": "Research",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Develop AI-enhanced PPC campaigns",
+        "Status": "In Progress",
+        "Priority": "High",
+        "Due Date": "2025-07-22",
+        "Estimated Hours": 37.0,
+        "Logged Hours": 16.0,
+        "Created Date": "2025-04-04",
+        "Task Type": "Feature",
+        "Complexity": "High",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Bug fix in customer journey mapping",
+        "Status": "To Do",
+        "Priority": "Critical",
+        "Due Date": "2025-07-03",
+        "Estimated Hours": 12.0,
+        "Logged Hours": 0.0,
+        "Created Date": "2025-06-13",
+        "Task Type": "Bug",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Document brand revitalization project",
+        "Status": "Done",
+        "Priority": "Low",
+        "Due Date": "2025-06-18",
+        "Estimated Hours": 8.0,
+        "Logged Hours": 8.5,
+        "Created Date": "2025-02-05",
+        "Task Type": "Documentation",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Research AI chatbot integration benefits",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Due Date": "2025-07-29",
+        "Estimated Hours": 25.0,
+        "Logged Hours": 11.0,
+        "Created Date": "2024-12-01",
+        "Task Type": "Research",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Maintain digital advertising campaigns",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Due Date": "2025-07-11",
+        "Estimated Hours": 15.0,
+        "Logged Hours": 7.0,
+        "Created Date": "2025-04-19",
+        "Task Type": "Maintenance",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Enhance email campaign redesign",
+        "Status": "To Do",
+        "Priority": "High",
+        "Due Date": "2025-07-17",
+        "Estimated Hours": 28.0,
+        "Logged Hours": 0.0,
+        "Created Date": "2025-05-14",
+        "Task Type": "Enhancement",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Fix bug in client feedback survey",
+        "Status": "In Progress",
+        "Priority": "Critical",
+        "Due Date": "2025-06-25",
+        "Estimated Hours": 14.0,
+        "Logged Hours": 6.0,
+        "Created Date": "2025-06-08",
+        "Task Type": "Bug",
+        "Complexity": "High",
+        "Blocked": "Yes",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Create webinar series schedule",
+        "Status": "Review",
+        "Priority": "Medium",
+        "Due Date": "2025-07-06",
+        "Estimated Hours": 14.0,
+        "Logged Hours": 14.0,
+        "Created Date": "2025-03-20",
+        "Task Type": "Documentation",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Optimize client retention strategy",
+        "Status": "To Do",
+        "Priority": "High",
+        "Due Date": "2025-07-13",
+        "Estimated Hours": 22.0,
+        "Logged Hours": 0.0,
+        "Created Date": "2025-05-18",
+        "Task Type": "Feature",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Analyze marketing performance review",
+        "Status": "Done",
+        "Priority": "Medium",
+        "Due Date": "2025-06-24",
+        "Estimated Hours": 18.0,
+        "Logged Hours": 18.5,
+        "Created Date": "2025-02-22",
+        "Task Type": "Research",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Develop AI-driven brand monitoring",
+        "Status": "In Progress",
+        "Priority": "High",
+        "Due Date": "2025-07-23",
+        "Estimated Hours": 35.0,
+        "Logged Hours": 14.5,
+        "Created Date": "2025-04-06",
+        "Task Type": "Feature",
+        "Complexity": "High",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Bug fix in lead generation tactics",
+        "Status": "To Do",
+        "Priority": "Critical",
+        "Due Date": "2025-07-04",
+        "Estimated Hours": 13.0,
+        "Logged Hours": 0.0,
+        "Created Date": "2025-06-14",
+        "Task Type": "Bug",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Document crisis management plan",
+        "Status": "Done",
+        "Priority": "Low",
+        "Due Date": "2025-06-19",
+        "Estimated Hours": 8.0,
+        "Logged Hours": 8.0,
+        "Created Date": "2025-01-25",
+        "Task Type": "Documentation",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Research community engagement impact",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Due Date": "2025-07-27",
+        "Estimated Hours": 24.0,
+        "Logged Hours": 11.0,
+        "Created Date": "2024-11-25",
+        "Task Type": "Research",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Maintain automated reporting tool",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Due Date": "2025-07-12",
+        "Estimated Hours": 16.0,
+        "Logged Hours": 7.0,
+        "Created Date": "2025-04-23",
+        "Task Type": "Maintenance",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Enhance lead nurturing campaign content",
+        "Status": "To Do",
+        "Priority": "High",
+        "Due Date": "2025-07-18",
+        "Estimated Hours": 30.0,
+        "Logged Hours": 0.0,
+        "Created Date": "2025-05-12",
+        "Task Type": "Enhancement",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Fix bugs in client satisfaction survey",
+        "Status": "In Progress",
+        "Priority": "Critical",
+        "Due Date": "2025-06-26",
+        "Estimated Hours": 15.0,
+        "Logged Hours": 6.0,
+        "Created Date": "2025-06-07",
+        "Task Type": "Bug",
+        "Complexity": "High",
+        "Blocked": "Yes",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Create content calendar development guide",
+        "Status": "Review",
+        "Priority": "Medium",
+        "Due Date": "2025-07-05",
+        "Estimated Hours": 15.0,
+        "Logged Hours": 15.0,
+        "Created Date": "2025-03-26",
+        "Task Type": "Documentation",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Optimize SEO audit process",
+        "Status": "To Do",
+        "Priority": "High",
+        "Due Date": "2025-07-10",
+        "Estimated Hours": 22.0,
+        "Logged Hours": 0.0,
+        "Created Date": "2025-05-21",
+        "Task Type": "Feature",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Analyze client loyalty program metrics",
+        "Status": "Done",
+        "Priority": "Medium",
+        "Due Date": "2025-06-21",
+        "Estimated Hours": 18.0,
+        "Logged Hours": 18.0,
+        "Created Date": "2025-02-19",
+        "Task Type": "Research",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Develop AI chatbot development plan",
+        "Status": "In Progress",
+        "Priority": "High",
+        "Due Date": "2025-07-24",
+        "Estimated Hours": 35.0,
+        "Logged Hours": 15.0,
+        "Created Date": "2025-04-03",
+        "Task Type": "Feature",
+        "Complexity": "High",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Bug fix in AI marketing automation",
+        "Status": "To Do",
+        "Priority": "Critical",
+        "Due Date": "2025-07-06",
+        "Estimated Hours": 13.0,
+        "Logged Hours": 0.0,
+        "Created Date": "2025-06-13",
+        "Task Type": "Bug",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Document AI ethics policy updates",
+        "Status": "Done",
+        "Priority": "Low",
+        "Due Date": "2025-06-20",
+        "Estimated Hours": 7.0,
+        "Logged Hours": 7.0,
+        "Created Date": "2025-01-22",
+        "Task Type": "Documentation",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Research AI-driven market analysis",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Due Date": "2025-07-28",
+        "Estimated Hours": 25.0,
+        "Logged Hours": 12.0,
+        "Created Date": "2024-11-23",
+        "Task Type": "Research",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Maintain digital marketing bootcamp",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Due Date": "2025-07-13",
+        "Estimated Hours": 15.0,
+        "Logged Hours": 7.0,
+        "Created Date": "2025-04-20",
+        "Task Type": "Maintenance",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Enhance lead scoring system",
+        "Status": "To Do",
+        "Priority": "High",
+        "Due Date": "2025-07-19",
+        "Estimated Hours": 30.0,
+        "Logged Hours": 0.0,
+        "Created Date": "2025-05-15",
+        "Task Type": "Enhancement",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Fix bug in brand awareness campaign",
+        "Status": "In Progress",
+        "Priority": "Critical",
+        "Due Date": "2025-06-27",
+        "Estimated Hours": 14.0,
+        "Logged Hours": 6.5,
+        "Created Date": "2025-06-09",
+        "Task Type": "Bug",
+        "Complexity": "High",
+        "Blocked": "Yes",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Create performance review system document",
+        "Status": "Review",
+        "Priority": "Medium",
+        "Due Date": "2025-07-08",
+        "Estimated Hours": 14.0,
+        "Logged Hours": 14.0,
+        "Created Date": "2025-03-24",
+        "Task Type": "Documentation",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Optimize social media strategy tasks",
+        "Status": "To Do",
+        "Priority": "High",
+        "Due Date": "2025-07-11",
+        "Estimated Hours": 22.0,
+        "Logged Hours": 0.0,
+        "Created Date": "2025-05-19",
+        "Task Type": "Feature",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Analyze client feedback analysis results",
+        "Status": "Done",
+        "Priority": "Medium",
+        "Due Date": "2025-06-23",
+        "Estimated Hours": 18.0,
+        "Logged Hours": 18.5,
+        "Created Date": "2025-02-17",
+        "Task Type": "Research",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Develop content marketing strategy",
+        "Status": "In Progress",
+        "Priority": "High",
+        "Due Date": "2025-07-22",
+        "Estimated Hours": 36.0,
+        "Logged Hours": 15.0,
+        "Created Date": "2025-04-07",
+        "Task Type": "Feature",
+        "Complexity": "High",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Bug fix in digital advertising",
+        "Status": "To Do",
+        "Priority": "Critical",
+        "Due Date": "2025-07-05",
+        "Estimated Hours": 13.0,
+        "Logged Hours": 0.0,
+        "Created Date": "2025-06-13",
+        "Task Type": "Bug",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Document client portal development",
+        "Status": "Done",
+        "Priority": "Low",
+        "Due Date": "2025-06-19",
+        "Estimated Hours": 7.0,
+        "Logged Hours": 7.0,
+        "Created Date": "2025-01-30",
+        "Task Type": "Documentation",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Research marketing automation system",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Due Date": "2025-07-29",
+        "Estimated Hours": 25.0,
+        "Logged Hours": 11.5,
+        "Created Date": "2024-12-02",
+        "Task Type": "Research",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Maintain e-commerce strategy implementation",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Due Date": "2025-07-12",
+        "Estimated Hours": 17.0,
+        "Logged Hours": 6.5,
+        "Created Date": "2025-04-24",
+        "Task Type": "Maintenance",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Enhance client onboarding process",
+        "Status": "To Do",
+        "Priority": "High",
+        "Due Date": "2025-07-18",
+        "Estimated Hours": 29.0,
+        "Logged Hours": 0.0,
+        "Created Date": "2025-05-13",
+        "Task Type": "Enhancement",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Fix bugs in lead generation campaign",
+        "Status": "In Progress",
+        "Priority": "Critical",
+        "Due Date": "2025-06-26",
+        "Estimated Hours": 15.0,
+        "Logged Hours": 7.0,
+        "Created Date": "2025-06-10",
+        "Task Type": "Bug",
+        "Complexity": "High",
+        "Blocked": "Yes",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Create annual marketing review report",
+        "Status": "Review",
+        "Priority": "Medium",
+        "Due Date": "2025-07-07",
+        "Estimated Hours": 16.0,
+        "Logged Hours": 16.0,
+        "Created Date": "2025-03-21",
+        "Task Type": "Documentation",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Optimize AI content generation tool",
+        "Status": "To Do",
+        "Priority": "High",
+        "Due Date": "2025-07-12",
+        "Estimated Hours": 22.0,
+        "Logged Hours": 0.0,
+        "Created Date": "2025-05-20",
+        "Task Type": "Feature",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Analyze client retention program data",
+        "Status": "Done",
+        "Priority": "Medium",
+        "Due Date": "2025-06-22",
+        "Estimated Hours": 18.0,
+        "Logged Hours": 19.0,
+        "Created Date": "2025-02-21",
+        "Task Type": "Research",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Develop marketing strategy review presentation",
+        "Status": "In Progress",
+        "Priority": "High",
+        "Due Date": "2025-07-23",
+        "Estimated Hours": 33.0,
+        "Logged Hours": 14.0,
+        "Created Date": "2025-04-05",
+        "Task Type": "Feature",
+        "Complexity": "High",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Bug fix in webinar series production",
+        "Status": "To Do",
+        "Priority": "Critical",
+        "Due Date": "2025-07-06",
+        "Estimated Hours": 13.0,
+        "Logged Hours": 0.0,
+        "Created Date": "2025-06-14",
+        "Task Type": "Bug",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Document client referral program",
+        "Status": "Done",
+        "Priority": "Low",
+        "Due Date": "2025-06-18",
+        "Estimated Hours": 8.0,
+        "Logged Hours": 8.0,
+        "Created Date": "2025-01-26",
+        "Task Type": "Documentation",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Research brand awareness campaign impact",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Due Date": "2025-07-28",
+        "Estimated Hours": 24.0,
+        "Logged Hours": 12.0,
+        "Created Date": "2024-11-26",
+        "Task Type": "Research",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Develop AI content templates",
+        "Status": "In Progress",
+        "Priority": "High",
+        "Due Date": "2025-07-15",
+        "Estimated Hours": 45.5,
+        "Logged Hours": 10.3,
+        "Created Date": "2024-11-22",
+        "Task Type": "Feature",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Fix keyword ranking bug",
+        "Status": "To Do",
+        "Priority": "Critical",
+        "Due Date": "2025-07-05",
+        "Estimated Hours": 12.0,
+        "Logged Hours": 0,
+        "Created Date": "2025-01-10",
+        "Task Type": "Bug",
+        "Complexity": "High",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Social media campaign QA testing",
+        "Status": "Review",
+        "Priority": "Medium",
+        "Due Date": "2025-06-30",
+        "Estimated Hours": 18.0,
+        "Logged Hours": 17.5,
+        "Created Date": "2025-05-12",
+        "Task Type": "QA",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Write documentation for automation workflows",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Due Date": "2025-08-01",
+        "Estimated Hours": 25.0,
+        "Logged Hours": 6.0,
+        "Created Date": "2024-12-05",
+        "Task Type": "Documentation",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Research AI-driven SEO tools",
+        "Status": "To Do",
+        "Priority": "Medium",
+        "Due Date": "2025-07-20",
+        "Estimated Hours": 30.5,
+        "Logged Hours": 0,
+        "Created Date": "2025-02-15",
+        "Task Type": "Research",
+        "Complexity": "High",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Maintain client database",
+        "Status": "In Progress",
+        "Priority": "Low",
+        "Due Date": "2025-09-10",
+        "Estimated Hours": 35.0,
+        "Logged Hours": 12.5,
+        "Created Date": "2024-10-02",
+        "Task Type": "Maintenance",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Enhance email marketing templates",
+        "Status": "Done",
+        "Priority": "High",
+        "Due Date": "2025-06-20",
+        "Estimated Hours": 15.0,
+        "Logged Hours": 16.0,
+        "Created Date": "2024-08-18",
+        "Task Type": "Enhancement",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Optimize chatbot conversation flows",
+        "Status": "In Progress",
+        "Priority": "Critical",
+        "Due Date": "2025-07-12",
+        "Estimated Hours": 40.0,
+        "Logged Hours": 25.0,
+        "Created Date": "2025-03-23",
+        "Task Type": "Feature",
+        "Complexity": "High",
+        "Blocked": "Yes",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Fix UI bug in analytics dashboard",
+        "Status": "Review",
+        "Priority": "High",
+        "Due Date": "2025-06-29",
+        "Estimated Hours": 10.0,
+        "Logged Hours": 9.5,
+        "Created Date": "2025-05-30",
+        "Task Type": "Bug",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "QA for new social media posts",
+        "Status": "To Do",
+        "Priority": "Medium",
+        "Due Date": "2025-07-03",
+        "Estimated Hours": 8.0,
+        "Logged Hours": 0,
+        "Created Date": "2025-04-20",
+        "Task Type": "QA",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Document brand guidelines update",
+        "Status": "Done",
+        "Priority": "Low",
+        "Due Date": "2025-06-18",
+        "Estimated Hours": 5.5,
+        "Logged Hours": 6.0,
+        "Created Date": "2024-06-30",
+        "Task Type": "Documentation",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Research influencer marketing trends",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Due Date": "2025-07-25",
+        "Estimated Hours": 28.0,
+        "Logged Hours": 14.0,
+        "Created Date": "2024-11-05",
+        "Task Type": "Research",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Maintain email list hygiene",
+        "Status": "To Do",
+        "Priority": "Low",
+        "Due Date": "2025-08-15",
+        "Estimated Hours": 20.0,
+        "Logged Hours": 0,
+        "Created Date": "2025-01-17",
+        "Task Type": "Maintenance",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Enhance PPC ad targeting algorithms",
+        "Status": "In Progress",
+        "Priority": "Critical",
+        "Due Date": "2025-07-08",
+        "Estimated Hours": 50.0,
+        "Logged Hours": 30.5,
+        "Created Date": "2025-03-01",
+        "Task Type": "Enhancement",
+        "Complexity": "High",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Create feature for client dashboard",
+        "Status": "To Do",
+        "Priority": "High",
+        "Due Date": "2025-07-30",
+        "Estimated Hours": 60.0,
+        "Logged Hours": 0,
+        "Created Date": "2024-12-25",
+        "Task Type": "Feature",
+        "Complexity": "High",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Fix data sync bug",
+        "Status": "In Progress",
+        "Priority": "Critical",
+        "Due Date": "2025-06-28",
+        "Estimated Hours": 14.0,
+        "Logged Hours": 10.0,
+        "Created Date": "2025-05-22",
+        "Task Type": "Bug",
+        "Complexity": "High",
+        "Blocked": "Yes",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "QA new email templates",
+        "Status": "Review",
+        "Priority": "Medium",
+        "Due Date": "2025-06-27",
+        "Estimated Hours": 7.5,
+        "Logged Hours": 7.0,
+        "Created Date": "2025-05-15",
+        "Task Type": "QA",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Update documentation for marketing automation",
+        "Status": "To Do",
+        "Priority": "Medium",
+        "Due Date": "2025-07-18",
+        "Estimated Hours": 13.0,
+        "Logged Hours": 0,
+        "Created Date": "2025-02-02",
+        "Task Type": "Documentation",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Research AI ethics policies",
+        "Status": "In Progress",
+        "Priority": "Low",
+        "Due Date": "2025-08-05",
+        "Estimated Hours": 22.0,
+        "Logged Hours": 15.0,
+        "Created Date": "2024-10-20",
+        "Task Type": "Research",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Routine server maintenance",
+        "Status": "Done",
+        "Priority": "Low",
+        "Due Date": "2025-06-20",
+        "Estimated Hours": 10.0,
+        "Logged Hours": 10.0,
+        "Created Date": "2024-06-10",
+        "Task Type": "Maintenance",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Enhance client onboarding UI",
+        "Status": "In Progress",
+        "Priority": "High",
+        "Due Date": "2025-07-17",
+        "Estimated Hours": 35.0,
+        "Logged Hours": 12.0,
+        "Created Date": "2025-03-28",
+        "Task Type": "Enhancement",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Launch brand awareness campaign",
+        "Status": "To Do",
+        "Priority": "High",
+        "Due Date": "2025-08-01",
+        "Estimated Hours": 55.0,
+        "Logged Hours": 0,
+        "Created Date": "2024-12-15",
+        "Task Type": "Feature",
+        "Complexity": "High",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Fix integration bug with CRM",
+        "Status": "In Progress",
+        "Priority": "Critical",
+        "Due Date": "2025-06-29",
+        "Estimated Hours": 18.0,
+        "Logged Hours": 15.0,
+        "Created Date": "2025-05-10",
+        "Task Type": "Bug",
+        "Complexity": "High",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "QA final review for webinar series",
+        "Status": "Review",
+        "Priority": "Medium",
+        "Due Date": "2025-06-28",
+        "Estimated Hours": 9.0,
+        "Logged Hours": 8.5,
+        "Created Date": "2025-05-20",
+        "Task Type": "QA",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Document new client portal features",
+        "Status": "Done",
+        "Priority": "Medium",
+        "Due Date": "2025-06-22",
+        "Estimated Hours": 11.0,
+        "Logged Hours": 11.5,
+        "Created Date": "2024-09-25",
+        "Task Type": "Documentation",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Research market segmentation techniques",
+        "Status": "In Progress",
+        "Priority": "Medium",
+        "Due Date": "2025-07-22",
+        "Estimated Hours": 30.0,
+        "Logged Hours": 17.0,
+        "Created Date": "2024-11-11",
+        "Task Type": "Research",
+        "Complexity": "Medium",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    },
+    {
+      "fields": {
+        "Task Name": "Routine data backups",
+        "Status": "Done",
+        "Priority": "Low",
+        "Due Date": "2025-06-25",
+        "Estimated Hours": 6.0,
+        "Logged Hours": 6.0,
+        "Created Date": "2024-07-14",
+        "Task Type": "Maintenance",
+        "Complexity": "Low",
+        "Blocked": "No",
+        "Client Visible": "No"
+      }
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "leave_types": [
+    {
+      "name": "Casual Leave",
+      "max_days": 10,
+      "description": "For  matters and emergencies",
+      "reasons": [
+        "Need to attend to important personal errands and appointments",
+        "Attending important family events, celebrations or gatherings",
+        "Addressing urgent home repairs or scheduled maintenance work",
+        "Taking vehicle for scheduled service or unexpected repairs",
+        "Visiting government offices or banks for essential paperwork",
+        "Participating in important religious ceremonies or festivals",
+        "Taking short family trips for special occasions or events",
+        "Attending scheduled medical appointments or health checkups",
+        "Participating in children's school events or college functions",
+        "Handling unexpected emergency situations requiring immediate attention"
+      ]
+    },
+    {
+      "name": "Sick Leave",
+      "max_days": 15,
+      "description": "For health-related absences",
+      "reasons": [
+        "Recovery from illness, injury or medical condition",
+        "Doctor-recommended bed rest and recuperation",
+        "Hospitalization or medical procedures",
+        "Managing chronic health conditions",
+        "Mental health and stress-related issues",
+        "Dental procedures and recovery",
+        "Physical therapy and rehabilitation sessions",
+        "Medical tests and diagnostic procedures",
+        "Post-surgery recovery period",
+        "Quarantine due to infectious illness"
+      ]
+    },
+    {
+      "name": "Annual Leave",
+      "max_days": 20,
+      "description": "Planned vacation time",
+      "reasons": [
+        "Taking extended family vacations",
+        "International travel and tourism",
+        "Personal rejuvenation and relaxation time",
+        "Visiting hometown or relatives",
+        "Attending destination weddings or events",
+        "Adventure trips and recreational activities",
+        "Cultural exploration and sightseeing",
+        "Holiday season celebrations",
+        "Anniversary or birthday celebrations",
+        "Pursuing personal hobbies and interests"
+      ]
+    },
+    {
+      "name": "Maternity Leave",
+      "max_days": 90,
+      "description": "For expectant and new mothers",
+      "reasons": [
+        "Pre-natal care and doctor appointments",
+        "Childbirth and immediate recovery",
+        "Post-natal care and recovery",
+        "Newborn care and bonding",
+        "Establishing breastfeeding routine",
+        "Baby immunizations and check-ups",
+        "Physical recovery from delivery",
+        "Managing post-partum health",
+        "Setting up childcare arrangements",
+        "Adjusting to new parenting responsibilities"
+      ]
+    },
+    {
+      "name": "Paternity Leave",
+      "max_days": 10,
+      "description": "For new fathers",
+      "reasons": [
+        "Supporting partner during childbirth",
+        "Bonding with newborn child",
+        "Helping with initial childcare duties",
+        "Attending baby's medical check-ups",
+        "Assisting partner's recovery",
+        "Setting up nursery and baby essentials",
+        "Learning baby care techniques",
+        "Managing household responsibilities",
+        "Attending parenting classes",
+        "Adjusting to new family dynamics"
+      ]
+    },
+    {
+      "name": "Bereavement Leave",
+      "max_days": 5,
+      "description": "For family loss and funeral attendance",
+      "reasons": [
+        "Attending funeral services",
+        "Making funeral arrangements",
+        "Supporting grieving family members",
+        "Handling estate matters",
+        "Travel for memorial services",
+        "Managing deceased's affairs",
+        "Emotional recovery time",
+        "Religious or cultural mourning rituals",
+        "Meeting with family lawyers",
+        "Organizing memorial gatherings"
+      ]
+    },
+    {
+      "name": "Unpaid Leave",
+      "max_days": 30,
+      "description": "Leave without pay",
+      "reasons": [
+        "Extended personal projects",
+        "Career development sabbatical",
+        "Family care responsibilities",
+        "Personal emergency situations",
+        "Extended medical recovery",
+        "Educational pursuits",
+        "Religious pilgrimages",
+        "Volunteer work",
+        "Personal business ventures",
+        "Extended family obligations"
+      ]
+    },
+    {
+      "name": "Work From Home",
+      "max_days": 15,
+      "description": "Remote work arrangement",
+      "reasons": [
+        "Home repairs or maintenance visits",
+        "Mild illness or recovery",
+        "Caring for sick family member",
+        "Weather-related travel difficulties",
+        "Personal appointment scheduling",
+        "Child's school closure days",
+        "Temporary relocation",
+        "Internet installation or repairs",
+        "Avoiding commute during events",
+        "Focus work requiring quiet environment"
+      ]
+    }
+  ],
+  "holiday_lists": [
+    {
+      "name": "US Holidays 2025",
+      "from_date": "2025-01-01",
+      "to_date": "2025-12-31",
+      "color": "#ECAD4B",
+      "holidays": [
+        {
+          "holiday_date": "2025-01-01",
+          "description": "New Year's Day"
+        },
+        {
+          "holiday_date": "2025-01-20",
+          "description": "Martin Luther King Jr. Day"
+        },
+        {
+          "holiday_date": "2025-02-17",
+          "description": "Presidents' Day"
+        },
+        {
+          "holiday_date": "2025-05-26",
+          "description": "Memorial Day"
+        },
+        {
+          "holiday_date": "2025-07-04",
+          "description": "Independence Day"
+        },
+        {
+          "holiday_date": "2025-09-01",
+          "description": "Labor Day"
+        },
+        {
+          "holiday_date": "2025-10-13",
+          "description": "Columbus Day"
+        },
+        {
+          "holiday_date": "2025-11-11",
+          "description": "Veterans Day"
+        },
+        {
+          "holiday_date": "2025-11-27",
+          "description": "Thanksgiving Day"
+        },
+        {
+          "holiday_date": "2025-11-28",
+          "description": "Day after Thanksgiving"
+        },
+        {
+          "holiday_date": "2025-12-25",
+          "description": "Christmas Day"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1454 @@
+[
+    {
+        "name": "GreenLeaf Organics",
+        "email": "info@greenleaforganics.com",
+        "primary_address": {
+            "contact_name": "Emily Johnson",
+            "email": "emily.johnson@greenleaforganics.com",
+            "street": "123 Greenway Blvd",
+            "city": "Portland",
+            "state": "Oregon",
+            "zip_code": "97201",
+            "note": "Located in the eco-friendly district"
+        },
+        "industry": "Agriculture",
+        "category": "Customer",
+        "is_vendor": true,
+        "vat": "93-1234567",
+        "website": "https://www.greenleaforganics.com",
+        "note": "Specializes in organic produce",
+        "delivery_address": {
+            "contact_name": "Emily Johnson",
+            "email": "emily.johnson@greenleaforganics.com",
+            "street": "123 Greenway Blvd",
+            "city": "Portland",
+            "state": "Oregon",
+            "zip_code": "97201",
+            "note": "Use loading dock for deliveries"
+        },
+        "invoice_address": {
+            "contact_name": "Emily Johnson",
+            "email": "emily.johnson@greenleaforganics.com",
+            "street": "123 Greenway Blvd",
+            "city": "Portland",
+            "state": "Oregon",
+            "zip_code": "97201",
+            "note": "Billing department on 2nd floor"
+        },
+        "linked_contact": {
+            "name": "Emily Johnson",
+            "title": "Madam",
+            "job_position": "CEO",
+            "email": "emily.johnson@greenleaforganics.com",
+            "note": "Founder of the company"
+        }
+    },
+    {
+        "name": "TechWave Solutions",
+        "email": "contact@techwavesolutions.com",
+        "primary_address": {
+            "contact_name": "Michael Smith",
+            "email": "michael.smith@techwavesolutions.com",
+            "street": "456 Innovation Drive",
+            "city": "San Francisco",
+            "state": "California",
+            "zip_code": "94103",
+            "note": "Near the tech park"
+        },
+        "industry": "Technology",
+        "category": "Partner",
+        "is_vendor": false,
+        "vat": "94-2345678",
+        "website": "https://www.techwavesolutions.com",
+        "note": "Provides cutting-edge software solutions",
+        "delivery_address": {
+            "contact_name": "Michael Smith",
+            "email": "michael.smith@techwavesolutions.com",
+            "street": "456 Innovation Drive",
+            "city": "San Francisco",
+            "state": "California",
+            "zip_code": "94103",
+            "note": "Deliver to reception"
+        },
+        "invoice_address": {
+            "contact_name": "Michael Smith",
+            "email": "michael.smith@techwavesolutions.com",
+            "street": "456 Innovation Drive",
+            "city": "San Francisco",
+            "state": "California",
+            "zip_code": "94103",
+            "note": "Accounts payable on 3rd floor"
+        },
+        "linked_contact": {
+            "name": "Michael Smith",
+            "title": "Mister",
+            "job_position": "CTO",
+            "email": "michael.smith@techwavesolutions.com",
+            "note": "Expert in AI technologies"
+        }
+    },
+    {
+        "name": "HealthFirst Pharmaceuticals",
+        "email": "support@healthfirstpharma.com",
+        "primary_address": {
+            "contact_name": "Dr. Sarah Lee",
+            "email": "sarah.lee@healthfirstpharma.com",
+            "street": "789 Wellness Ave",
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip_code": "02118",
+            "note": "Adjacent to the medical center"
+        },
+        "industry": "Pharmaceutical",
+        "category": "Investor",
+        "is_vendor": true,
+        "vat": "95-3456789",
+        "website": "https://www.healthfirstpharma.com",
+        "note": "Leading provider of generic medications",
+        "delivery_address": {
+            "contact_name": "Dr. Sarah Lee",
+            "email": "sarah.lee@healthfirstpharma.com",
+            "street": "789 Wellness Ave",
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip_code": "02118",
+            "note": "Use rear entrance for deliveries"
+        },
+        "invoice_address": {
+            "contact_name": "Dr. Sarah Lee",
+            "email": "sarah.lee@healthfirstpharma.com",
+            "street": "789 Wellness Ave",
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip_code": "02118",
+            "note": "Finance department on 4th floor"
+        },
+        "linked_contact": {
+            "name": "Dr. Sarah Lee",
+            "title": "Madam",
+            "job_position": "Chief Medical Officer",
+            "email": "sarah.lee@healthfirstpharma.com",
+            "note": "Renowned researcher in pharmacology"
+        }
+    },
+    {
+        "name": "EcoBuild Construction",
+        "email": "info@ecobuildconstruction.com",
+        "primary_address": {
+            "contact_name": "James Anderson",
+            "email": "james.anderson@ecobuildconstruction.com",
+            "street": "101 Sustainable Way",
+            "city": "Seattle",
+            "state": "Washington",
+            "zip_code": "98101",
+            "note": "Located in the green building district"
+        },
+        "industry": "Construction",
+        "category": "Sponsor",
+        "is_vendor": true,
+        "vat": "96-4567890",
+        "website": "https://www.ecobuildconstruction.com",
+        "note": "Specializes in eco-friendly building solutions",
+        "delivery_address": {
+            "contact_name": "James Anderson",
+            "email": "james.anderson@ecobuildconstruction.com",
+            "street": "101 Sustainable Way",
+            "city": "Seattle",
+            "state": "Washington",
+            "zip_code": "98101",
+            "note": "Deliver to site office"
+        },
+        "invoice_address": {
+            "contact_name": "James Anderson",
+            "email": "james.anderson@ecobuildconstruction.com",
+            "street": "101 Sustainable Way",
+            "city": "Seattle",
+            "state": "Washington",
+            "zip_code": "98101",
+            "note": "Billing department on 5th floor"
+        },
+        "linked_contact": {
+            "name": "James Anderson",
+            "title": "Mister",
+            "job_position": "Project Manager",
+            "email": "james.anderson@ecobuildconstruction.com",
+            "note": "Expert in sustainable architecture"
+        }
+    },
+    {
+        "name": "FreshBite Foods",
+        "email": "hello@freshbitefoods.com",
+        "primary_address": {
+            "contact_name": "Laura Martinez",
+            "email": "laura.martinez@freshbitefoods.com",
+            "street": "202 Culinary Lane",
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip_code": "60601",
+            "note": "Located in the food innovation hub"
+        },
+        "industry": "Retail",
+        "category": "Customer",
+        "is_vendor": true,
+        "vat": "97-5678901",
+        "website": "https://www.freshbitefoods.com",
+        "note": "Offers a wide range of organic snacks",
+        "delivery_address": {
+            "contact_name": "Laura Martinez",
+            "email": "laura.martinez@freshbitefoods.com",
+            "street": "202 Culinary Lane",
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip_code": "60601",
+            "note": "Use service entrance for deliveries"
+        },
+        "invoice_address": {
+            "contact_name": "Laura Martinez",
+            "email": "laura.martinez@freshbitefoods.com",
+            "street": "202 Culinary Lane",
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip_code": "60601",
+            "note": "Accounts department on 6th floor"
+        },
+        "linked_contact": {
+            "name": "Laura Martinez",
+            "title": "Madam",
+            "job_position": "Head of Procurement",
+            "email": "laura.martinez@freshbitefoods.com",
+            "note": "Focuses on sustainable sourcing"
+        }
+    },
+    {
+        "name": "UrbanStyle Apparel",
+        "email": "contact@urbanstyleapparel.com",
+        "primary_address": {
+            "contact_name": "David Brown",
+            "email": "david.brown@urbanstyleapparel.com",
+            "street": "303 Fashion Ave",
+            "city": "New York",
+            "state": "New York",
+            "zip_code": "10001",
+            "note": "In the heart of the fashion district"
+        },
+        "industry": "Retail",
+        "category": "Partner",
+        "is_vendor": true,
+        "vat": "98-6789012",
+        "website": "https://www.urbanstyleapparel.com",
+        "note": "Trendy urban clothing brand",
+        "delivery_address": {
+            "contact_name": "David Brown",
+            "email": "david.brown@urbanstyleapparel.com",
+            "street": "303 Fashion Ave",
+            "city": "New York",
+            "state": "New York",
+            "zip_code": "10001",
+            "note": "Deliver to loading dock"
+        },
+        "invoice_address": {
+            "contact_name": "David Brown",
+            "email": "david.brown@urbanstyleapparel.com",
+            "street": "303 Fashion Ave",
+            "city": "New York",
+            "state": "New York",
+            "zip_code": "10001",
+            "note": "Finance office on 7th floor"
+        },
+        "linked_contact": {
+            "name": "David Brown",
+            "title": "Mister",
+            "job_position": "Creative Director",
+            "email": "david.brown@urbanstyleapparel.com",
+            "note": "Leads the design team"
+        }
+    },
+    {
+        "name": "BrightFuture Education",
+        "email": "info@brightfutureedu.com",
+        "primary_address": {
+            "contact_name": "Nancy Wilson",
+            "email": "nancy.wilson@brightfutureedu.com",
+            "street": "404 Learning St",
+            "city": "Austin",
+            "state": "Texas",
+            "zip_code": "78701",
+            "note": "Near the university campus"
+        },
+        "industry": "Education",
+        "category": "Consultant",
+        "is_vendor": false,
+        "vat": "99-7890123",
+        "website": "https://www.brightfutureedu.com",
+        "note": "Provides educational consulting services",
+        "delivery_address": {
+            "contact_name": "Nancy Wilson",
+            "email": "nancy.wilson@brightfutureedu.com",
+            "street": "404 Learning St",
+            "city": "Austin",
+            "state": "Texas",
+            "zip_code": "78701",
+            "note": "Deliver to main office"
+        },
+        "invoice_address": {
+            "contact_name": "Nancy Wilson",
+            "email": "nancy.wilson@brightfutureedu.com",
+            "street": "404 Learning St",
+            "city": "Austin",
+            "state": "Texas",
+            "zip_code": "78701",
+            "note": "Billing on 8th floor"
+        },
+        "linked_contact": {
+            "name": "Nancy Wilson",
+            "title": "Madam",
+            "job_position": "Director of Education",
+            "email": "nancy.wilson@brightfutureedu.com",
+            "note": "Expert in curriculum development"
+        }
+    },
+    {
+        "name": "SolarTech Innovations",
+        "email": "support@solartechinnovations.com",
+        "primary_address": {
+            "contact_name": "Robert Green",
+            "email": "robert.green@solartechinnovations.com",
+            "street": "505 Solar Blvd",
+            "city": "Phoenix",
+            "state": "Arizona",
+            "zip_code": "85001",
+            "note": "Located in the renewable energy zone"
+        },
+        "industry": "Energy",
+        "category": "Industry Expert",
+        "is_vendor": true,
+        "vat": "00-8901234",
+        "website": "https://www.solartechinnovations.com",
+        "note": "Pioneers in solar technology",
+        "delivery_address": {
+            "contact_name": "Robert Green",
+            "email": "robert.green@solartechinnovations.com",
+            "street": "505 Solar Blvd",
+            "city": "Phoenix",
+            "state": "Arizona",
+            "zip_code": "85001",
+            "note": "Use side entrance for deliveries"
+        },
+        "invoice_address": {
+            "contact_name": "Robert Green",
+            "email": "robert.green@solartechinnovations.com",
+            "street": "505 Solar Blvd",
+            "city": "Phoenix",
+            "state": "Arizona",
+            "zip_code": "85001",
+            "note": "Accounts on 9th floor"
+        },
+        "linked_contact": {
+            "name": "Robert Green",
+            "title": "Mister",
+            "job_position": "Chief Engineer",
+            "email": "robert.green@solartechinnovations.com",
+            "note": "Specializes in photovoltaic systems"
+        }
+    },
+    {
+        "name": "CityTransport Services",
+        "email": "info@citytransportservices.com",
+        "primary_address": {
+            "contact_name": "Linda Harris",
+            "email": "linda.harris@citytransportservices.com",
+            "street": "606 Transit Rd",
+            "city": "Los Angeles",
+            "state": "California",
+            "zip_code": "90001",
+            "note": "Near the central bus station"
+        },
+        "industry": "Transportation",
+        "category": "Sponsor",
+        "is_vendor": true,
+        "vat": "01-9012345",
+        "website": "https://www.citytransportservices.com",
+        "note": "Provides urban transportation solutions",
+        "delivery_address": {
+            "contact_name": "Linda Harris",
+            "email": "linda.harris@citytransportservices.com",
+            "street": "606 Transit Rd",
+            "city": "Los Angeles",
+            "state": "California",
+            "zip_code": "90001",
+            "note": "Deliver to dispatch center"
+        },
+        "invoice_address": {
+            "contact_name": "Linda Harris",
+            "email": "linda.harris@citytransportservices.com",
+            "street": "606 Transit Rd",
+            "city": "Los Angeles",
+            "state": "California",
+            "zip_code": "90001",
+            "note": "Finance on 10th floor"
+        },
+        "linked_contact": {
+            "name": "Linda Harris",
+            "title": "Madam",
+            "job_position": "Operations Manager",
+            "email": "linda.harris@citytransportservices.com",
+            "note": "Oversees daily operations"
+        }
+    },
+    {
+        "name": "MediaPulse Networks",
+        "email": "contact@mediapulsenetworks.com",
+        "primary_address": {
+            "contact_name": "Kevin White",
+            "email": "kevin.white@mediapulsenetworks.com",
+            "street": "707 Broadcast Ln",
+            "city": "Atlanta",
+            "state": "Georgia",
+            "zip_code": "30301",
+            "note": "Located in the media district"
+        },
+        "industry": "Media",
+        "category": "Influencer",
+        "is_vendor": false,
+        "vat": "02-0123456",
+        "website": "https://www.mediapulsenetworks.com",
+        "note": "Leading media and broadcasting company",
+        "delivery_address": {
+            "contact_name": "Kevin White",
+            "email": "kevin.white@mediapulsenetworks.com",
+            "street": "707 Broadcast Ln",
+            "city": "Atlanta",
+            "state": "Georgia",
+            "zip_code": "30301",
+            "note": "Deliver to studio entrance"
+        },
+        "invoice_address": {
+            "contact_name": "Kevin White",
+            "email": "kevin.white@mediapulsenetworks.com",
+            "street": "707 Broadcast Ln",
+            "city": "Atlanta",
+            "state": "Georgia",
+            "zip_code": "30301",
+            "note": "Billing on 11th floor"
+        },
+        "linked_contact": {
+            "name": "Kevin White",
+            "title": "Mister",
+            "job_position": "Head of Content",
+            "email": "kevin.white@mediapulsenetworks.com",
+            "note": "Focuses on digital media strategy"
+        }
+    },
+    {
+        "name": "BioLife Sciences",
+        "email": "info@biolifesciences.com",
+        "primary_address": {
+            "contact_name": "Jessica Taylor",
+            "email": "jessica.taylor@biolifesciences.com",
+            "street": "808 Research Blvd",
+            "city": "San Diego",
+            "state": "California",
+            "zip_code": "92101",
+            "note": "Adjacent to the biotech park"
+        },
+        "industry": "Biotechnology",
+        "category": "Investor",
+        "is_vendor": true,
+        "vat": "03-1234567",
+        "website": "https://www.biolifesciences.com",
+        "note": "Innovators in genetic research",
+        "delivery_address": {
+            "contact_name": "Jessica Taylor",
+            "email": "jessica.taylor@biolifesciences.com",
+            "street": "808 Research Blvd",
+            "city": "San Diego",
+            "state": "California",
+            "zip_code": "92101",
+            "note": "Use lab entrance for deliveries"
+        },
+        "invoice_address": {
+            "contact_name": "Jessica Taylor",
+            "email": "jessica.taylor@biolifesciences.com",
+            "street": "808 Research Blvd",
+            "city": "San Diego",
+            "state": "California",
+            "zip_code": "92101",
+            "note": "Finance on 12th floor"
+        },
+        "linked_contact": {
+            "name": "Jessica Taylor",
+            "title": "Madam",
+            "job_position": "Chief Scientist",
+            "email": "jessica.taylor@biolifesciences.com",
+            "note": "Leads the research team"
+        }
+    },
+    {
+        "name": "SmartHome Innovations",
+        "email": "support@smarthomeinnovations.com",
+        "primary_address": {
+            "contact_name": "Mark Thompson",
+            "email": "mark.thompson@smarthomeinnovations.com",
+            "street": "909 Tech Park",
+            "city": "Denver",
+            "state": "Colorado",
+            "zip_code": "80201",
+            "note": "Located in the tech innovation hub"
+        },
+        "industry": "Technology",
+        "category": "Prospect",
+        "is_vendor": true,
+        "vat": "04-2345678",
+        "website": "https://www.smarthomeinnovations.com",
+        "note": "Develops smart home devices",
+        "delivery_address": {
+            "contact_name": "Mark Thompson",
+            "email": "mark.thompson@smarthomeinnovations.com",
+            "street": "909 Tech Park",
+            "city": "Denver",
+            "state": "Colorado",
+            "zip_code": "80201",
+            "note": "Deliver to main entrance"
+        },
+        "invoice_address": {
+            "contact_name": "Mark Thompson",
+            "email": "mark.thompson@smarthomeinnovations.com",
+            "street": "909 Tech Park",
+            "city": "Denver",
+            "state": "Colorado",
+            "zip_code": "80201",
+            "note": "Accounts on 13th floor"
+        },
+        "linked_contact": {
+            "name": "Mark Thompson",
+            "title": "Mister",
+            "job_position": "Product Manager",
+            "email": "mark.thompson@smarthomeinnovations.com",
+            "note": "Focuses on IoT solutions"
+        }
+    },
+    {
+        "name": "GreenEnergy Solutions",
+        "email": "info@greenenergysolutions.com",
+        "primary_address": {
+            "contact_name": "Anna Clark",
+            "email": "anna.clark@greenenergysolutions.com",
+            "street": "1010 Eco Blvd",
+            "city": "Miami",
+            "state": "Florida",
+            "zip_code": "33101",
+            "note": "Near the environmental research center"
+        },
+        "industry": "Energy",
+        "category": "Advocate",
+        "is_vendor": true,
+        "vat": "05-3456789",
+        "website": "https://www.greenenergysolutions.com",
+        "note": "Leaders in renewable energy solutions",
+        "delivery_address": {
+            "contact_name": "Anna Clark",
+            "email": "anna.clark@greenenergysolutions.com",
+            "street": "1010 Eco Blvd",
+            "city": "Miami",
+            "state": "Florida",
+            "zip_code": "33101",
+            "note": "Use service entrance for deliveries"
+        },
+        "invoice_address": {
+            "contact_name": "Anna Clark",
+            "email": "anna.clark@greenenergysolutions.com",
+            "street": "1010 Eco Blvd",
+            "city": "Miami",
+            "state": "Florida",
+            "zip_code": "33101",
+            "note": "Finance on 14th floor"
+        },
+        "linked_contact": {
+            "name": "Anna Clark",
+            "title": "Madam",
+            "job_position": "Director of Sustainability",
+            "email": "anna.clark@greenenergysolutions.com",
+            "note": "Expert in environmental policy"
+        }
+    },
+    {
+        "name": "NextGen Automotive",
+        "email": "contact@nextgenautomotive.com",
+        "primary_address": {
+            "contact_name": "Tom Walker",
+            "email": "tom.walker@nextgenautomotive.com",
+            "street": "1111 Auto Dr",
+            "city": "Detroit",
+            "state": "Michigan",
+            "zip_code": "48201",
+            "note": "Located in the automotive innovation district"
+        },
+        "industry": "Automotive",
+        "category": "Partner",
+        "is_vendor": true,
+        "vat": "06-4567890",
+        "website": "https://www.nextgenautomotive.com",
+        "note": "Pioneers in electric vehicle technology",
+        "delivery_address": {
+            "contact_name": "Tom Walker",
+            "email": "tom.walker@nextgenautomotive.com",
+            "street": "1111 Auto Dr",
+            "city": "Detroit",
+            "state": "Michigan",
+            "zip_code": "48201",
+            "note": "Deliver to manufacturing plant"
+        },
+        "invoice_address": {
+            "contact_name": "Tom Walker",
+            "email": "tom.walker@nextgenautomotive.com",
+            "street": "1111 Auto Dr",
+            "city": "Detroit",
+            "state": "Michigan",
+            "zip_code": "48201",
+            "note": "Accounts on 15th floor"
+        },
+        "linked_contact": {
+            "name": "Tom Walker",
+            "title": "Mister",
+            "job_position": "Head of Engineering",
+            "email": "tom.walker@nextgenautomotive.com",
+            "note": "Focuses on sustainable transportation"
+        }
+    },
+    {
+        "name": "PureWater Technologies",
+        "email": "support@purewatertech.com",
+        "primary_address": {
+            "contact_name": "Rachel Adams",
+            "email": "rachel.adams@purewatertech.com",
+            "street": "1212 Aqua Ln",
+            "city": "Houston",
+            "state": "Texas",
+            "zip_code": "77001",
+            "note": "Near the water treatment facility"
+        },
+        "industry": "Chemical",
+        "category": "Consultant",
+        "is_vendor": true,
+        "vat": "07-5678901",
+        "website": "https://www.purewatertech.com",
+        "note": "Specializes in water purification systems",
+        "delivery_address": {
+            "contact_name": "Rachel Adams",
+            "email": "rachel.adams@purewatertech.com",
+            "street": "1212 Aqua Ln",
+            "city": "Houston",
+            "state": "Texas",
+            "zip_code": "77001",
+            "note": "Use rear entrance for deliveries"
+        },
+        "invoice_address": {
+            "contact_name": "Rachel Adams",
+            "email": "rachel.adams@purewatertech.com",
+            "street": "1212 Aqua Ln",
+            "city": "Houston",
+            "state": "Texas",
+            "zip_code": "77001",
+            "note": "Finance on 16th floor"
+        },
+        "linked_contact": {
+            "name": "Rachel Adams",
+            "title": "Madam",
+            "job_position": "Chief Chemist",
+            "email": "rachel.adams@purewatertech.com",
+            "note": "Expert in chemical engineering"
+        }
+    },
+    {
+        "name": "SkyHigh Aerospace",
+        "email": "info@skyhighaerospace.com",
+        "primary_address": {
+            "contact_name": "Peter Johnson",
+            "email": "peter.johnson@skyhighaerospace.com",
+            "street": "1313 Flight Rd",
+            "city": "Seattle",
+            "state": "Washington",
+            "zip_code": "98101",
+            "note": "Located near the aerospace park"
+        },
+        "industry": "Aerospace",
+        "category": "VIP",
+        "is_vendor": true,
+        "vat": "08-6789012",
+        "website": "https://www.skyhighaerospace.com",
+        "note": "Innovators in aviation technology",
+        "delivery_address": {
+            "contact_name": "Peter Johnson",
+            "email": "peter.johnson@skyhighaerospace.com",
+            "street": "1313 Flight Rd",
+            "city": "Seattle",
+            "state": "Washington",
+            "zip_code": "98101",
+            "note": "Deliver to hangar entrance"
+        },
+        "invoice_address": {
+            "contact_name": "Peter Johnson",
+            "email": "peter.johnson@skyhighaerospace.com",
+            "street": "1313 Flight Rd",
+            "city": "Seattle",
+            "state": "Washington",
+            "zip_code": "98101",
+            "note": "Accounts on 17th floor"
+        },
+        "linked_contact": {
+            "name": "Peter Johnson",
+            "title": "Mister",
+            "job_position": "Chief Pilot",
+            "email": "peter.johnson@skyhighaerospace.com",
+            "note": "Focuses on flight innovation"
+        }
+    },
+    {
+        "name": "UrbanHarvest Farms",
+        "email": "contact@urbanharvestfarms.com",
+        "primary_address": {
+            "contact_name": "Sophia Brown",
+            "email": "sophia.brown@urbanharvestfarms.com",
+            "street": "1414 Harvest Ln",
+            "city": "San Francisco",
+            "state": "California",
+            "zip_code": "94103",
+            "note": "Located in the urban farming district"
+        },
+        "industry": "Agriculture",
+        "category": "Community Member",
+        "is_vendor": true,
+        "vat": "09-7890123",
+        "website": "https://www.urbanharvestfarms.com",
+        "note": "Leaders in urban agriculture",
+        "delivery_address": {
+            "contact_name": "Sophia Brown",
+            "email": "sophia.brown@urbanharvestfarms.com",
+            "street": "1414 Harvest Ln",
+            "city": "San Francisco",
+            "state": "California",
+            "zip_code": "94103",
+            "note": "Use farm entrance for deliveries"
+        },
+        "invoice_address": {
+            "contact_name": "Sophia Brown",
+            "email": "sophia.brown@urbanharvestfarms.com",
+            "street": "1414 Harvest Ln",
+            "city": "San Francisco",
+            "state": "California",
+            "zip_code": "94103",
+            "note": "Finance on 18th floor"
+        },
+        "linked_contact": {
+            "name": "Sophia Brown",
+            "title": "Miss",
+            "job_position": "Farm Manager",
+            "email": "sophia.brown@urbanharvestfarms.com",
+            "note": "Focuses on sustainable farming"
+        }
+    },
+    {
+        "name": "TechSavvy Consulting",
+        "email": "info@techsavvyconsulting.com",
+        "primary_address": {
+            "contact_name": "Chris Evans",
+            "email": "chris.evans@techsavvyconsulting.com",
+            "street": "1515 Innovation Dr",
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip_code": "02118",
+            "note": "Near the tech innovation center"
+        },
+        "industry": "Consulting",
+        "category": "Consultant",
+        "is_vendor": false,
+        "vat": "10-8901234",
+        "website": "https://www.techsavvyconsulting.com",
+        "note": "Provides IT consulting services",
+        "delivery_address": {
+            "contact_name": "Chris Evans",
+            "email": "chris.evans@techsavvyconsulting.com",
+            "street": "1515 Innovation Dr",
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip_code": "02118",
+            "note": "Deliver to main office"
+        },
+        "invoice_address": {
+            "contact_name": "Chris Evans",
+            "email": "chris.evans@techsavvyconsulting.com",
+            "street": "1515 Innovation Dr",
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip_code": "02118",
+            "note": "Billing on 19th floor"
+        },
+        "linked_contact": {
+            "name": "Chris Evans",
+            "title": "Mister",
+            "job_position": "Lead Consultant",
+            "email": "chris.evans@techsavvyconsulting.com",
+            "note": "Expert in digital transformation"
+        }
+    },
+    {
+        "name": "EcoFriendly Packaging",
+        "email": "contact@ecofriendlypackaging.com",
+        "primary_address": {
+            "contact_name": "Olivia Green",
+            "email": "olivia.green@ecofriendlypackaging.com",
+            "street": "1616 Recycle Rd",
+            "city": "Portland",
+            "state": "Oregon",
+            "zip_code": "97201",
+            "note": "Located in the sustainable business district"
+        },
+        "industry": "Manufacturing",
+        "category": "Partner",
+        "is_vendor": true,
+        "vat": "11-9012345",
+        "website": "https://www.ecofriendlypackaging.com",
+        "note": "Specializes in biodegradable packaging",
+        "delivery_address": {
+            "contact_name": "Olivia Green",
+            "email": "olivia.green@ecofriendlypackaging.com",
+            "street": "1616 Recycle Rd",
+            "city": "Portland",
+            "state": "Oregon",
+            "zip_code": "97201",
+            "note": "Use loading dock for deliveries"
+        },
+        "invoice_address": {
+            "contact_name": "Olivia Green",
+            "email": "olivia.green@ecofriendlypackaging.com",
+            "street": "1616 Recycle Rd",
+            "city": "Portland",
+            "state": "Oregon",
+            "zip_code": "97201",
+            "note": "Finance on 20th floor"
+        },
+        "linked_contact": {
+            "name": "Olivia Green",
+            "title": "Miss",
+            "job_position": "Production Manager",
+            "email": "olivia.green@ecofriendlypackaging.com",
+            "note": "Focuses on sustainable materials"
+        }
+    },
+    {
+        "name": "HealthyLiving Foods",
+        "email": "info@healthylivingfoods.com",
+        "primary_address": {
+            "contact_name": "Daniel White",
+            "email": "daniel.white@healthylivingfoods.com",
+            "street": "1717 Nutrition Blvd",
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip_code": "60601",
+            "note": "Located in the health food district"
+        },
+        "industry": "Retail",
+        "category": "Customer",
+        "is_vendor": true,
+        "vat": "12-0123456",
+        "website": "https://www.healthylivingfoods.com",
+        "note": "Offers a variety of health foods",
+        "delivery_address": {
+            "contact_name": "Daniel White",
+            "email": "daniel.white@healthylivingfoods.com",
+            "street": "1717 Nutrition Blvd",
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip_code": "60601",
+            "note": "Use service entrance for deliveries"
+        },
+        "invoice_address": {
+            "contact_name": "Daniel White",
+            "email": "daniel.white@healthylivingfoods.com",
+            "street": "1717 Nutrition Blvd",
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip_code": "60601",
+            "note": "Accounts on 21st floor"
+        },
+        "linked_contact": {
+            "name": "Daniel White",
+            "title": "Mister",
+            "job_position": "Head of Sales",
+            "email": "daniel.white@healthylivingfoods.com",
+            "note": "Focuses on market expansion"
+        }
+    },
+    {
+        "name": "CityLights Media",
+        "email": "contact@citylightsmedia.com",
+        "primary_address": {
+            "contact_name": "Emma Davis",
+            "email": "emma.davis@citylightsmedia.com",
+            "street": "1818 Media St",
+            "city": "Los Angeles",
+            "state": "California",
+            "zip_code": "90001",
+            "note": "Located in the media hub"
+        },
+        "industry": "Media",
+        "category": "Influencer",
+        "is_vendor": false,
+        "vat": "13-1234567",
+        "website": "https://www.citylightsmedia.com",
+        "note": "Leading media production company",
+        "delivery_address": {
+            "contact_name": "Emma Davis",
+            "email": "emma.davis@citylightsmedia.com",
+            "street": "1818 Media St",
+            "city": "Los Angeles",
+            "state": "California",
+            "zip_code": "90001",
+            "note": "Deliver to studio entrance"
+        },
+        "invoice_address": {
+            "contact_name": "Emma Davis",
+            "email": "emma.davis@citylightsmedia.com",
+            "street": "1818 Media St",
+            "city": "Los Angeles",
+            "state": "California",
+            "zip_code": "90001",
+            "note": "Billing on 22nd floor"
+        },
+        "linked_contact": {
+            "name": "Emma Davis",
+            "title": "Miss",
+            "job_position": "Creative Director",
+            "email": "emma.davis@citylightsmedia.com",
+            "note": "Focuses on film production"
+        }
+    },
+    {
+        "name": "GreenTech Solutions",
+        "email": "info@greentechsolutions.com",
+        "primary_address": {
+            "contact_name": "John Miller",
+            "email": "john.miller@greentechsolutions.com",
+            "street": "1919 Innovation Blvd",
+            "city": "San Jose",
+            "state": "California",
+            "zip_code": "95101",
+            "note": "Near the tech innovation center"
+        },
+        "industry": "Technology",
+        "category": "Prospect",
+        "is_vendor": true,
+        "vat": "14-2345678",
+        "website": "https://www.greentechsolutions.com",
+        "note": "Develops eco-friendly tech solutions",
+        "delivery_address": {
+            "contact_name": "John Miller",
+            "email": "john.miller@greentechsolutions.com",
+            "street": "1919 Innovation Blvd",
+            "city": "San Jose",
+            "state": "California",
+            "zip_code": "95101",
+            "note": "Deliver to main entrance"
+        },
+        "invoice_address": {
+            "contact_name": "John Miller",
+            "email": "john.miller@greentechsolutions.com",
+            "street": "1919 Innovation Blvd",
+            "city": "San Jose",
+            "state": "California",
+            "zip_code": "95101",
+            "note": "Accounts on 23rd floor"
+        },
+        "linked_contact": {
+            "name": "John Miller",
+            "title": "Mister",
+            "job_position": "Product Manager",
+            "email": "john.miller@greentechsolutions.com",
+            "note": "Focuses on sustainable technology"
+        }
+    },
+    {
+        "name": "UrbanEats Catering",
+        "email": "contact@urbaneatscatering.com",
+        "primary_address": {
+            "contact_name": "Lisa Brown",
+            "email": "lisa.brown@urbaneatscatering.com",
+            "street": "2020 Culinary Ave",
+            "city": "New York",
+            "state": "New York",
+            "zip_code": "10001",
+            "note": "Located in the culinary district"
+        },
+        "industry": "Hospitality",
+        "category": "Event Attendee",
+        "is_vendor": true,
+        "vat": "15-3456789",
+        "website": "https://www.urbaneatscatering.com",
+        "note": "Provides gourmet catering services",
+        "delivery_address": {
+            "contact_name": "Lisa Brown",
+            "email": "lisa.brown@urbaneatscatering.com",
+            "street": "2020 Culinary Ave",
+            "city": "New York",
+            "state": "New York",
+            "zip_code": "10001",
+            "note": "Use kitchen entrance for deliveries"
+        },
+        "invoice_address": {
+            "contact_name": "Lisa Brown",
+            "email": "lisa.brown@urbaneatscatering.com",
+            "street": "2020 Culinary Ave",
+            "city": "New York",
+            "state": "New York",
+            "zip_code": "10001",
+            "note": "Finance on 24th floor"
+        },
+        "linked_contact": {
+            "name": "Lisa Brown",
+            "title": "Miss",
+            "job_position": "Head Chef",
+            "email": "lisa.brown@urbaneatscatering.com",
+            "note": "Focuses on menu innovation"
+        }
+    },
+    {
+        "name": "BrightFuture Investments",
+        "email": "info@brightfutureinvestments.com",
+        "primary_address": {
+            "contact_name": "George Wilson",
+            "email": "george.wilson@brightfutureinvestments.com",
+            "street": "2121 Finance St",
+            "city": "Charlotte",
+            "state": "North Carolina",
+            "zip_code": "28201",
+            "note": "Located in the financial district"
+        },
+        "industry": "Finance",
+        "category": "Investor",
+        "is_vendor": false,
+        "vat": "16-4567890",
+        "website": "https://www.brightfutureinvestments.com",
+        "note": "Provides investment advisory services",
+        "delivery_address": {
+            "contact_name": "George Wilson",
+            "email": "george.wilson@brightfutureinvestments.com",
+            "street": "2121 Finance St",
+            "city": "Charlotte",
+            "state": "North Carolina",
+            "zip_code": "28201",
+            "note": "Deliver to main office"
+        },
+        "invoice_address": {
+            "contact_name": "George Wilson",
+            "email": "george.wilson@brightfutureinvestments.com",
+            "street": "2121 Finance St",
+            "city": "Charlotte",
+            "state": "North Carolina",
+            "zip_code": "28201",
+            "note": "Billing on 25th floor"
+        },
+        "linked_contact": {
+            "name": "George Wilson",
+            "title": "Mister",
+            "job_position": "Chief Investment Officer",
+            "email": "george.wilson@brightfutureinvestments.com",
+            "note": "Focuses on portfolio management"
+        }
+    },
+    {
+        "name": "EcoFashion Designs",
+        "email": "contact@ecofashiondesigns.com",
+        "primary_address": {
+            "contact_name": "Sophia Martinez",
+            "email": "sophia.martinez@ecofashiondesigns.com",
+            "street": "2222 Fashion Blvd",
+            "city": "Los Angeles",
+            "state": "California",
+            "zip_code": "90001",
+            "note": "Located in the fashion district"
+        },
+        "industry": "Retail",
+        "category": "Brand Ambassador",
+        "is_vendor": true,
+        "vat": "17-5678901",
+        "website": "https://www.ecofashiondesigns.com",
+        "note": "Specializes in sustainable fashion",
+        "delivery_address": {
+            "contact_name": "Sophia Martinez",
+            "email": "sophia.martinez@ecofashiondesigns.com",
+            "street": "2222 Fashion Blvd",
+            "city": "Los Angeles",
+            "state": "California",
+            "zip_code": "90001",
+            "note": "Deliver to showroom entrance"
+        },
+        "invoice_address": {
+            "contact_name": "Sophia Martinez",
+            "email": "sophia.martinez@ecofashiondesigns.com",
+            "street": "2222 Fashion Blvd",
+            "city": "Los Angeles",
+            "state": "California",
+            "zip_code": "90001",
+            "note": "Finance on 26th floor"
+        },
+        "linked_contact": {
+            "name": "Sophia Martinez",
+            "title": "Miss",
+            "job_position": "Creative Director",
+            "email": "sophia.martinez@ecofashiondesigns.com",
+            "note": "Focuses on eco-friendly materials"
+        }
+    },
+    {
+        "name": "TechInnovate Labs",
+        "email": "info@techinnovatelabs.com",
+        "primary_address": {
+            "contact_name": "Michael Johnson",
+            "email": "michael.johnson@techinnovatelabs.com",
+            "street": "2323 Innovation Dr",
+            "city": "San Francisco",
+            "state": "California",
+            "zip_code": "94103",
+            "note": "Near the tech innovation center"
+        },
+        "industry": "Technology",
+        "category": "Prospect",
+        "is_vendor": true,
+        "vat": "18-6789012",
+        "website": "https://www.techinnovatelabs.com",
+        "note": "Develops innovative tech solutions",
+        "delivery_address": {
+            "contact_name": "Michael Johnson",
+            "email": "michael.johnson@techinnovatelabs.com",
+            "street": "2323 Innovation Dr",
+            "city": "San Francisco",
+            "state": "California",
+            "zip_code": "94103",
+            "note": "Deliver to main entrance"
+        },
+        "invoice_address": {
+            "contact_name": "Michael Johnson",
+            "email": "michael.johnson@techinnovatelabs.com",
+            "street": "2323 Innovation Dr",
+            "city": "San Francisco",
+            "state": "California",
+            "zip_code": "94103",
+            "note": "Accounts on 27th floor"
+        },
+        "linked_contact": {
+            "name": "Michael Johnson",
+            "title": "Mister",
+            "job_position": "Lead Developer",
+            "email": "michael.johnson@techinnovatelabs.com",
+            "note": "Focuses on software development"
+        }
+    },
+    {
+        "name": "UrbanGardens Landscaping",
+        "email": "contact@urbangardenslandscaping.com",
+        "primary_address": {
+            "contact_name": "Emily Clark",
+            "email": "emily.clark@urbangardenslandscaping.com",
+            "street": "2424 Greenway Blvd",
+            "city": "Portland",
+            "state": "Oregon",
+            "zip_code": "97201",
+            "note": "Located in the green business district"
+        },
+        "industry": "Construction",
+        "category": "Community Member",
+        "is_vendor": true,
+        "vat": "19-7890123",
+        "website": "https://www.urbangardenslandscaping.com",
+        "note": "Specializes in sustainable landscaping",
+        "delivery_address": {
+            "contact_name": "Emily Clark",
+            "email": "emily.clark@urbangardenslandscaping.com",
+            "street": "2424 Greenway Blvd",
+            "city": "Portland",
+            "state": "Oregon",
+            "zip_code": "97201",
+            "note": "Use service entrance for deliveries"
+        },
+        "invoice_address": {
+            "contact_name": "Emily Clark",
+            "email": "emily.clark@urbangardenslandscaping.com",
+            "street": "2424 Greenway Blvd",
+            "city": "Portland",
+            "state": "Oregon",
+            "zip_code": "97201",
+            "note": "Finance on 28th floor"
+        },
+        "linked_contact": {
+            "name": "Emily Clark",
+            "title": "Miss",
+            "job_position": "Landscape Architect",
+            "email": "emily.clark@urbangardenslandscaping.com",
+            "note": "Focuses on eco-friendly designs"
+        }
+    },
+    {
+        "name": "HealthyHabits Wellness",
+        "email": "info@healthyhabitswellness.com",
+        "primary_address": {
+            "contact_name": "James Brown",
+            "email": "james.brown@healthyhabitswellness.com",
+            "street": "2525 Wellness Ave",
+            "city": "Miami",
+            "state": "Florida",
+            "zip_code": "33101",
+            "note": "Located in the wellness district"
+        },
+        "industry": "Healthcare",
+        "category": "Customer",
+        "is_vendor": true,
+        "vat": "20-8901234",
+        "website": "https://www.healthyhabitswellness.com",
+        "note": "Offers wellness and health services",
+        "delivery_address": {
+            "contact_name": "James Brown",
+            "email": "james.brown@healthyhabitswellness.com",
+            "street": "2525 Wellness Ave",
+            "city": "Miami",
+            "state": "Florida",
+            "zip_code": "33101",
+            "note": "Use main entrance for deliveries"
+        },
+        "invoice_address": {
+            "contact_name": "James Brown",
+            "email": "james.brown@healthyhabitswellness.com",
+            "street": "2525 Wellness Ave",
+            "city": "Miami",
+            "state": "Florida",
+            "zip_code": "33101",
+            "note": "Accounts on 29th floor"
+        },
+        "linked_contact": {
+            "name": "James Brown",
+            "title": "Mister",
+            "job_position": "Wellness Coach",
+            "email": "james.brown@healthyhabitswellness.com",
+            "note": "Focuses on holistic health"
+        }
+    },
+    {
+        "name": "BrightIdeas Lighting",
+        "email": "contact@brightideaslighting.com",
+        "primary_address": {
+            "contact_name": "Olivia White",
+            "email": "olivia.white@brightideaslighting.com",
+            "street": "2626 Light St",
+            "city": "Austin",
+            "state": "Texas",
+            "zip_code": "78701",
+            "note": "Located in the lighting district"
+        },
+        "industry": "Manufacturing",
+        "category": "Sponsor",
+        "is_vendor": true,
+        "vat": "21-9012345",
+        "website": "https://www.brightideaslighting.com",
+        "note": "Specializes in LED lighting solutions",
+        "delivery_address": {
+            "contact_name": "Olivia White",
+            "email": "olivia.white@brightideaslighting.com",
+            "street": "2626 Light St",
+            "city": "Austin",
+            "state": "Texas",
+            "zip_code": "78701",
+            "note": "Use loading dock for deliveries"
+        },
+        "invoice_address": {
+            "contact_name": "Olivia White",
+            "email": "olivia.white@brightideaslighting.com",
+            "street": "2626 Light St",
+            "city": "Austin",
+            "state": "Texas",
+            "zip_code": "78701",
+            "note": "Finance on 30th floor"
+        },
+        "linked_contact": {
+            "name": "Olivia White",
+            "title": "Miss",
+            "job_position": "Lighting Designer",
+            "email": "olivia.white@brightideaslighting.com",
+            "note": "Focuses on energy-efficient designs"
+        }
+    },
+    {
+        "name": "CityVibe Entertainment",
+        "email": "info@cityvibeentertainment.com",
+        "primary_address": {
+            "contact_name": "David Green",
+            "email": "david.green@cityvibeentertainment.com",
+            "street": "2727 Music Ave",
+            "city": "Nashville",
+            "state": "Tennessee",
+            "zip_code": "37201",
+            "note": "Located in the entertainment district"
+        },
+        "industry": "Media",
+        "category": "Event Attendee",
+        "is_vendor": false,
+        "vat": "22-0123456",
+        "website": "https://www.cityvibeentertainment.com",
+        "note": "Leading entertainment company",
+        "delivery_address": {
+            "contact_name": "David Green",
+            "email": "david.green@cityvibeentertainment.com",
+            "street": "2727 Music Ave",
+            "city": "Nashville",
+            "state": "Tennessee",
+            "zip_code": "37201",
+            "note": "Deliver to studio entrance"
+        },
+        "invoice_address": {
+            "contact_name": "David Green",
+            "email": "david.green@cityvibeentertainment.com",
+            "street": "2727 Music Ave",
+            "city": "Nashville",
+            "state": "Tennessee",
+            "zip_code": "37201",
+            "note": "Billing on 31st floor"
+        },
+        "linked_contact": {
+            "name": "David Green",
+            "title": "Mister",
+            "job_position": "Music Producer",
+            "email": "david.green@cityvibeentertainment.com",
+            "note": "Focuses on artist development"
+        }
+    },
+    {
+        "name": "EcoHome Solutions",
+        "email": "contact@ecohomesolutions.com",
+        "primary_address": {
+            "contact_name": "Sophia Johnson",
+            "email": "sophia.johnson@ecohomesolutions.com",
+            "street": "2828 Eco Blvd",
+            "city": "Seattle",
+            "state": "Washington",
+            "zip_code": "98101",
+            "note": "Located in the eco-friendly district"
+        },
+        "industry": "Construction",
+        "category": "Advocate",
+        "is_vendor": true,
+        "vat": "23-1234567",
+        "website": "https://www.ecohomesolutions.com",
+        "note": "Specializes in sustainable home solutions",
+        "delivery_address": {
+            "contact_name": "Sophia Johnson",
+            "email": "sophia.johnson@ecohomesolutions.com",
+            "street": "2828 Eco Blvd",
+            "city": "Seattle",
+            "state": "Washington",
+            "zip_code": "98101",
+            "note": "Use service entrance for deliveries"
+        },
+        "invoice_address": {
+            "contact_name": "Sophia Johnson",
+            "email": "sophia.johnson@ecohomesolutions.com",
+            "street": "2828 Eco Blvd",
+            "city": "Seattle",
+            "state": "Washington",
+            "zip_code": "98101",
+            "note": "Finance on 32nd floor"
+        },
+        "linked_contact": {
+            "name": "Sophia Johnson",
+            "title": "Miss",
+            "job_position": "Project Manager",
+            "email": "sophia.johnson@ecohomesolutions.com",
+            "note": "Focuses on green building"
+        }
+    },
+    {
+        "name": "TechConnect Solutions",
+        "email": "info@techconnectsolutions.com",
+        "primary_address": {
+            "contact_name": "Michael Brown",
+            "email": "michael.brown@techconnectsolutions.com",
+            "street": "2929 Tech Park",
+            "city": "San Jose",
+            "state": "California",
+            "zip_code": "95101",
+            "note": "Near the tech innovation center"
+        },
+        "industry": "Technology",
+        "category": "Prospect",
+        "is_vendor": true,
+        "vat": "24-2345678",
+        "website": "https://www.techconnectsolutions.com",
+        "note": "Provides IT solutions and services",
+        "delivery_address": {
+            "contact_name": "Michael Brown",
+            "email": "michael.brown@techconnectsolutions.com",
+            "street": "2929 Tech Park",
+            "city": "San Jose",
+            "state": "California",
+            "zip_code": "95101",
+            "note": "Deliver to main entrance"
+        },
+        "invoice_address": {
+            "contact_name": "Michael Brown",
+            "email": "michael.brown@techconnectsolutions.com",
+            "street": "2929 Tech Park",
+            "city": "San Jose",
+            "state": "California",
+            "zip_code": "95101",
+            "note": "Accounts on 33rd floor"
+        },
+        "linked_contact": {
+            "name": "Michael Brown",
+            "title": "Mister",
+            "job_position": "IT Manager",
+            "email": "michael.brown@techconnectsolutions.com",
+            "note": "Focuses on network solutions"
+        }
+    },
+    {
+        "name": "UrbanArt Gallery",
+        "email": "contact@urbanartgallery.com",
+        "primary_address": {
+            "contact_name": "Emily White",
+            "email": "emily.white@urbanartgallery.com",
+            "street": "3030 Art St",
+            "city": "New York",
+            "state": "New York",
+            "zip_code": "10001",
+            "note": "Located in the art district"
+        },
+        "industry": "Media",
+        "category": "Community Member",
+        "is_vendor": false,
+        "vat": "25-3456789",
+        "website": "https://www.urbanartgallery.com",
+        "note": "Showcases contemporary art",
+        "delivery_address": {
+            "contact_name": "Emily White",
+            "email": "emily.white@urbanartgallery.com",
+            "street": "3030 Art St",
+            "city": "New York",
+            "state": "New York",
+            "zip_code": "10001",
+            "note": "Deliver to gallery entrance"
+        },
+        "invoice_address": {
+            "contact_name": "Emily White",
+            "email": "emily.white@urbanartgallery.com",
+            "street": "3030 Art St",
+            "city": "New York",
+            "state": "New York",
+            "zip_code": "10001",
+            "note": "Billing on 34th floor"
+        },
+        "linked_contact": {
+            "name": "Emily White",
+            "title": "Miss",
+            "job_position": "Gallery Curator",
+            "email": "emily.white@urbanartgallery.com",
+            "note": "Focuses on emerging artists"
+        }
+    }
+]

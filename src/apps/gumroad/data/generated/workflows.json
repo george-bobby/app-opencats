@@ -1,0 +1,177 @@
+{
+  "workflows": [
+    {
+      "name": "Neon Shutter Seller Post-Purchase Engagement",
+      "workflow_type": "seller",
+      "workflow_trigger": null,
+      "bought_products": [],
+      "not_bought_products": [],
+      "paid_more_than": null,
+      "paid_less_than": null,
+      "send_to_past_customers": true,
+      "steps": [
+        {
+          "delay": 0,
+          "action": "send_email",
+          "subject": "📸 Welcome to Neon Shutter! Your Photography Journey Begins Now!",
+          "content": "<h1 style=\"color:#3eb045;font-family:ABC Favorit;\">Hello from Neon Shutter! 👋</h1><p>Thank you for your purchase! We're thrilled to have you join our photography community. Whether you grabbed a Lightroom preset, a Photoshop action, or one of our amazing courses, you're on your way to elevating your photography to new heights!</p><p style=\"font-style:italic;\">\"Photography is the story I fail to put into words.\" – Destin Sparks</p><p>Stay tuned for tips, tricks, and exclusive insights right in your inbox. Let's make stunning photos together!</p><p style=\"color:#3eb045;font-weight:bold;\">Cheers,<br>Neon Shutter Team</p>",
+          "tag": null
+        },
+        {
+          "delay": 2,
+          "action": "send_email",
+          "subject": "🎨 Unlock Pro Tips To Master Your New Photography Assets!",
+          "content": "<h1 style=\"color:#3eb045;font-family:ABC Favorit;\">Ready to create magic? ✨</h1><p>You’ve got the tools, now let’s make the most of them! Here are some expert tips to help you use your new Lightroom presets and Photoshop actions like a pro.</p><ul><li><strong>Tip 1:</strong> Start with a clean edit – adjust exposure and white balance first.</li><li><strong>Tip 2:</strong> Customize presets to fit your unique style.</li><li><strong>Tip 3:</strong> Layer actions for creative effects.</li></ul><p>Check out our <a href=\"https://neonshutter.com/tutorials\" style=\"color:#3eb045;\">free tutorials</a> to get hands-on guidance!</p><p>Keep snapping,<br><strong>Neon Shutter Crew 📷</strong></p>",
+          "tag": null
+        },
+        {
+          "delay": 5,
+          "action": "send_email",
+          "subject": "💡 Don't Miss Out! Exclusive Discounts on Advanced Photography Courses",
+          "content": "<h1 style=\"color:#3eb045;font-family:ABC Favorit;\">Level Up Your Craft! 🚀</h1><p>As a valued member of Neon Shutter, you qualify for an exclusive discount on our premium photography courses. Whether you're into portrait, landscape, or editing mastery, we've got you covered.</p><p><strong>Use code: SHUTTER15</strong> at checkout for 15% off!</p><p><a href=\"https://neonshutter.com/courses\" style=\"color:#3eb045; font-weight:bold;\">Explore Courses Now &rarr;</a></p><p>Let's capture brilliance together!</p><p style=\"color:#3eb045;\">— The Neon Shutter Team</p>",
+          "tag": null
+        }
+      ]
+    },
+    {
+      "name": "Neon Shutter Follower Welcome & Nurture Sequence",
+      "workflow_type": "follower",
+      "workflow_trigger": "new_follower",
+      "bought_products": [],
+      "not_bought_products": [],
+      "paid_more_than": null,
+      "paid_less_than": null,
+      "send_to_past_customers": false,
+      "steps": [
+        {
+          "delay": 0,
+          "action": "send_email",
+          "subject": "🌟 Welcome to Neon Shutter: Let's Elevate Your Photography!",
+          "content": "<html><body style=\"font-family: 'ABC Favorit', sans-serif; background-color: #ffffff; color: #333333; padding: 20px;\">\n  <h1 style=\"color: #3eb045;\">Welcome to Neon Shutter!</h1>\n  <p>Hi there,</p>\n  <p>Thank you for following Neon Shutter — where we <strong>elevate your photography</strong> one click at a time.</p>\n  <p>Whether you're just starting out or looking to refine your craft, we’re here to support you with our curated <em>Lightroom presets, Photoshop actions, and photography courses</em>.</p>\n  <p>Stay tuned for tips, free resources, and exclusive offers sent directly to your inbox.</p>\n  <p>Ready to dive in? <a href=\"https://neonshutter.gumroad.com/\" style=\"color:#3eb045;\">Explore our latest products here</a> and start crafting your signature style.</p>\n  <hr style=\"border:none; border-top: 2px solid #3eb045; margin: 20px 0;\"/>\n  <p style=\"font-size: 0.9em; color: #777;\">With passion,<br><strong>Neon Shutter Team</strong></p>\n</body></html>",
+          "tag": null
+        },
+        {
+          "delay": 2,
+          "action": "send_email",
+          "subject": "📸 Unlock Your First Free Lightroom Preset!",
+          "content": "<html><body style=\"font-family: 'ABC Favorit', sans-serif; background-color: #ffffff; color: #333333; padding: 20px;\">\n  <h2 style=\"color: #3eb045;\">Start Editing Like a Pro — On Us!</h2>\n  <p>Hello again,</p>\n  <p>As a token of gratitude for joining our creative community, here's a <strong>free Lightroom preset</strong> crafted by our expert photographers. Perfect to add that vibrant pop to your shots.</p>\n  <p><a href=\"https://neonshutter.gumroad.com/l/free-preset\" style=\"display:inline-block; background-color:#3eb045; color:#fff; padding:10px 20px; text-decoration:none; border-radius:5px;\">Download Your Free Preset</a></p>\n  <p>Use it, experiment with it, and tell us how it transforms your photos — we love hearing your stories!</p>\n  <hr style=\"border:none; border-top: 2px solid #3eb045; margin: 20px 0;\"/>\n  <p>Keep creating,<br><strong>Neon Shutter</strong></p>\n</body></html>",
+          "tag": null
+        },
+        {
+          "delay": 4,
+          "action": "send_email",
+          "subject": "🎥 Masterclass Invitation — Elevate Your Photography Skills",
+          "content": "<html><body style=\"font-family: 'ABC Favorit', sans-serif; background-color: #ffffff; color: #333333; padding: 20px;\">\n  <h2 style=\"color: #3eb045;\">Ready for the Next Step?</h2>\n  <p>You're already on your way to mastering stunning photography. Now, why not take a deep dive with our exclusive online courses designed to boost your confidence and skillset.</p>\n  <p><strong>Special offer:</strong> Get 20% off our flagship courses, from lighting to post-processing tricks, just for you — our follower.</p>\n  <p><a href=\"https://neonshutter.gumroad.com/l/photography-masterclass\" style=\"display:inline-block; background-color:#3eb045; color:#fff; padding:10px 20px; text-decoration:none; border-radius:5px;\">Claim Your Discount & Enroll Now</a></p>\n  <p>Join a community of passionate photographers all striving to <em>elevate their craft</em>.</p>\n  <hr style=\"border:none; border-top: 2px solid #3eb045; margin: 20px 0;\"/>\n  <p>Wishing you clarity and creativity,<br><strong>Neon Shutter Team</strong></p>\n</body></html>",
+          "tag": null
+        },
+        {
+          "delay": 7,
+          "action": "send_email",
+          "subject": "✨ Your Photography Journey Awaits — Let’s Stay Connected",
+          "content": "<html><body style=\"font-family: 'ABC Favorit', sans-serif; background-color: #ffffff; color: #333333; padding: 20px;\">\n  <h2 style=\"color: #3eb045;\">Keep the Momentum Going</h2>\n  <p>Hi friend, your passion for photography inspires us! Remember, every great photograph tells a story — and we're here to help you tell yours.</p>\n  <p>Don't miss out on upcoming <strong>free tutorials, exclusive product launches, and community highlights.</strong></p>\n  <p>Follow us across social media and join our community forums to share your work and get feedback.</p>\n  <p>\n    <a href=\"https://instagram.com/neonshutter\" style=\"color:#3eb045; margin-right: 15px;\">Instagram</a> |\n    <a href=\"https://facebook.com/neonshutter\" style=\"color:#3eb045; margin-left: 15px;\">Facebook</a>\n  </p>\n  <hr style=\"border:none; border-top: 2px solid #3eb045; margin: 20px 0;\"/>\n  <p>Thanks for being a valued member of the Neon Shutter family.<br><strong>Keep shooting stunning moments!</strong></p>\n</body></html>",
+          "tag": null
+        }
+      ]
+    },
+    {
+      "name": "Audience Engagement Sequence for Neon Shutter",
+      "workflow_type": "audience",
+      "workflow_trigger": null,
+      "bought_products": [],
+      "not_bought_products": [],
+      "paid_more_than": null,
+      "paid_less_than": null,
+      "send_to_past_customers": true,
+      "steps": [
+        {
+          "delay": 0,
+          "action": "send_email",
+          "subject": "📸 Welcome to Neon Shutter – Elevate Your Photography Journey!",
+          "content": "<html><body style=\"font-family: ABC Favorit, sans-serif; background-color: #ffffff; color: #333;\"><h2 style=\"color: #3eb045;\">Hello from Neon Shutter!</h2><p>We're thrilled to have you here. At <strong>Neon Shutter</strong>, we believe that every photographer deserves to capture stunning moments with ease and creativity. Whether you're just starting out or looking to refine your skills, we're here to help you <em>elevate your photography</em>.</p><p>Explore our exclusive Lightroom presets, Photoshop actions, and comprehensive photography courses – crafted to bring your vision to life.</p><p><a href=\"https://gumroad.com/neonshutter\" style=\"background-color:#3eb045; color:#ffffff; padding:10px 20px; text-decoration:none; border-radius:5px;\">Browse Our Collection</a></p><p>Stay tuned for tips, tutorials, and special offers delivered straight to your inbox!</p><p>Happy shooting,<br><strong>Neon Shutter Team</strong></p></body></html>",
+          "tag": null
+        },
+        {
+          "delay": 3,
+          "action": "send_email",
+          "subject": "✨ Unlock Creative Potential – Free Lightroom Preset Inside",
+          "content": "<html><body style=\"font-family: ABC Favorit, sans-serif; background-color: #ffffff; color: #333;\"><h2 style=\"color:#3eb045;\">Your Complimentary Lightroom Preset Awaits!</h2><p>As a thank you for joining our community, here’s a free Lightroom preset designed to add a fresh, vibrant look to your photos instantly.</p><p><strong><a href=\"https://gumroad.com/l/neonshutter-freepreset\" style=\"color:#3eb045; text-decoration:none;\">Download Your Free Preset Now</a></strong></p><p>Use it to <em>enhance your photography</em> and get inspired. Plus, watch your inbox for upcoming tutorials on how to maximize your editing workflow!</p><p>Elevate your craft,<br><strong>Neon Shutter Team</strong></p></body></html>",
+          "tag": null
+        },
+        {
+          "delay": 7,
+          "action": "send_email",
+          "subject": "🎓 Ready to Master Photography? Discover Our Top Courses",
+          "content": "<html><body style=\"font-family: ABC Favorit, sans-serif; background-color: #ffffff; color: #333;\"><h2 style=\"color:#3eb045;\">Take The Next Step With Neon Shutter Courses</h2><p>Looking to sharpen your skills and gain professional insights? Check out our focused photography courses that guide you through everything from basics to advanced techniques.</p><ul><li>Lightroom Mastery</li><li>Photoshop for Photographers</li><li>Creative Photography Composition</li></ul><p><a href=\"https://gumroad.com/neonshutter-courses\" style=\"background-color:#3eb045; color:#ffffff; padding:10px 20px; text-decoration:none; border-radius:5px;\">Explore Courses &amp; Enroll Today</a></p><p>Join thousands of photographers who have elevated their craft with Neon Shutter.</p><p>Cheers,<br><strong>Neon Shutter Team</strong></p></body></html>",
+          "tag": null
+        }
+      ]
+    },
+    {
+      "name": "Affiliate Onboarding and Support Sequence",
+      "workflow_type": "affiliate",
+      "workflow_trigger": null,
+      "bought_products": [],
+      "not_bought_products": [],
+      "paid_more_than": null,
+      "paid_less_than": null,
+      "send_to_past_customers": true,
+      "steps": [
+        {
+          "delay": 0,
+          "action": "send_email",
+          "subject": "🚀 Welcome to Neon Shutter's Affiliate Team! Let's Shine Together",
+          "content": "<html><body style=\"font-family: 'ABC Favorit', sans-serif; background-color: #ffffff; color: #333333; margin: 0; padding: 20px;\"><h1 style=\"color: #3eb045;\">Welcome to the Neon Shutter Family!</h1><p>Hi there!</p><p>We're thrilled to have you join our affiliate program at <strong>Neon Shutter</strong>, where we <em>elevate your photography</em> with top-tier Lightroom presets, Photoshop actions, and expert courses.</p><p>As an affiliate, you get exclusive access to resources designed to help you succeed. 🎯</p><ul><li>Personalized affiliate dashboard</li><li>High-converting promotional materials</li><li>Dedicated support from our team</li></ul><p>Ready to light up your earnings? <a href=\"https://neonshutter.gumroad.com/affiliate-dashboard\" style=\"color:#3eb045; font-weight: bold;\">Access your dashboard now</a> and start sharing!</p><p>Let's create stunning results together!</p><p>Cheers,<br/>The Neon Shutter Team</p></body></html>",
+          "tag": null
+        },
+        {
+          "delay": 2,
+          "action": "send_email",
+          "subject": "🔥 Hot Tips to Boost Your Neon Shutter Affiliate Sales",
+          "content": "<html><body style=\"font-family: 'ABC Favorit', sans-serif; background-color: #ffffff; color: #333333; margin: 0; padding: 20px;\"><h1 style=\"color: #3eb045;\">Maximize Your Affiliate Impact!</h1><p>Hey there,</p><p>Want to shine brighter as a Neon Shutter affiliate? Here are powerful strategies to help you increase clicks and conversions:</p><ul><li><strong>Create engaging content:</strong> Share your authentic experience with our Lightroom presets and courses.</li><li><strong>Leverage social media:</strong> Use Instagram and YouTube to showcase stunning before-and-after shots using our products.</li><li><strong>Exclusive promos:</strong> Announce special offers or bundles to entice your audience.</li></ul><p>Need inspiration? Check out our <a href=\"https://neonshutter.gumroad.com/resources\" style=\"color:#3eb045; font-weight: bold;\">affiliate resource center</a> packed with banners, sample posts, and more.</p><p>Keep shining and earning!</p><p>Best,<br/>The Neon Shutter Crew</p></body></html>",
+          "tag": null
+        },
+        {
+          "delay": 5,
+          "action": "send_email",
+          "subject": "💡 Unlock Your Affiliate Potential with Neon Shutter Support",
+          "content": "<html><body style=\"font-family: 'ABC Favorit', sans-serif; background-color: #ffffff; color: #333333; margin: 0; padding: 20px;\"><h1 style=\"color: #3eb045;\">Need Assistance? We're Here for You!</h1><p>Hello Affiliate Star,</p><p>We believe in your success and want to make sure you have all the support you need to thrive.</p><p>Whether it's technical help, marketing tips, or product insights, our dedicated team is just an email away.</p><p><a href=\"mailto:affiliate.support@neonshutter.com\" style=\"color:#3eb045; font-weight: bold;\">Contact our Affiliate Support</a> anytime—you’re never alone on this journey.</p><p>Let’s continue to elevate photography and grow together!</p><p>Warm regards,<br/>Neon Shutter Affiliate Team</p></body></html>",
+          "tag": null
+        }
+      ]
+    },
+    {
+      "name": "Abandoned Cart Recovery Sequence",
+      "workflow_type": "abandoned_cart",
+      "workflow_trigger": null,
+      "bought_products": [],
+      "not_bought_products": [],
+      "paid_more_than": null,
+      "paid_less_than": null,
+      "send_to_past_customers": false,
+      "steps": [
+        {
+          "delay": 60,
+          "action": "send_email",
+          "subject": "Still Thinking It Over? Complete Your Purchase Today!",
+          "content": "<html><body style=\"font-family: 'ABC Favorit', sans-serif; background-color: #ffffff; color: #333333; margin: 0; padding: 20px;\"><h1 style=\"color: #3eb045;\">Hi there,</h1><p>We noticed you left some amazing photography assets in your cart at <strong>Neon Shutter</strong>. Elevate your photography with our premium Lightroom presets and Photoshop actions designed to bring your images to life.</p><p>Don't miss out! <a href=\"{{cart_url}}\" style=\"color: #3eb045; text-decoration: none; font-weight: bold;\">Click here to complete your purchase</a> and take your creative projects to the next level.</p><p>Need any help? Reply to this email — we're here for you.</p><p>Best,<br/>The Neon Shutter Team</p></body></html>",
+          "tag": null
+        },
+        {
+          "delay": 1440,
+          "action": "send_email",
+          "subject": "Your Cart Awaits: Unlock Stunning Photography Results",
+          "content": "<html><body style=\"font-family: 'ABC Favorit', sans-serif; background-color: #ffffff; color: #333333; margin: 0; padding: 20px;\"><h1 style=\"color: #3eb045;\">Hey there,</h1><p>Just a friendly reminder that your selected photography assets are still waiting for you. Whether it's our expertly crafted Lightroom presets or professional Photoshop actions, they're ready to help you capture breathtaking visuals.</p><p><a href=\"{{cart_url}}\" style=\"background-color: #3eb045; color: #ffffff; padding: 10px 20px; text-decoration: none; border-radius: 5px;\">Complete Your Purchase</a></p><p>Capture your moments with Neon Shutter — where creativity meets quality.</p><p>Cheers,<br/>Neon Shutter Team</p></body></html>",
+          "tag": null
+        },
+        {
+          "delay": 2880,
+          "action": "send_email",
+          "subject": "Last Chance: Special Offer Inside to Complete Your Cart",
+          "content": "<html><body style=\"font-family: 'ABC Favorit', sans-serif; background-color: #ffffff; color: #333333; margin: 0; padding: 20px;\"><h1 style=\"color: #3eb045;\">Hello,</h1><p>We hate to see you miss out on enhancing your photography skills. To help you finalize your purchase, we're excited to offer a <strong>10% discount</strong> on your cart items.</p><p>Use code <strong>NEON10</strong> at checkout.</p><p><a href=\"{{cart_url}}\" style=\"background-color: #3eb045; color: #ffffff; padding: 10px 20px; text-decoration: none; border-radius: 5px;\">Redeem Your Discount & Finish Your Purchase</a></p><p>This is your last chance to grab these exclusive photography assets and elevate your craft.</p><p>Warm regards,<br/>Team Neon Shutter</p></body></html>",
+          "tag": null
+        }
+      ]
+    }
+  ],
+  "count": 5
+}

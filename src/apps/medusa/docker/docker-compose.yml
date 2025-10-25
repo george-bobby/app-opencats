@@ -1,0 +1,46 @@
+version: "3.8"
+
+services:
+  postgres:
+    image: postgres:15-alpine
+    environment:
+      POSTGRES_DB: medusa-store
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - medusa_network
+    ports:
+      - "5432:5432"
+
+  redis:
+    image: redis:7-alpine
+    networks:
+      - medusa_network
+
+  medusa:
+    build: .
+    ports:
+      - "9000:9000"
+    depends_on:
+      - postgres
+      - redis
+    environment:
+      - NODE_ENV=development
+      - DATABASE_URL=postgres://postgres:postgres@postgres:5432/medusa-store
+      - REDIS_URL=redis://redis:6379
+      - JWT_SECRET=supersecret-change-in-production
+      - COOKIE_SECRET=supersecret-change-in-production
+      - ADMIN_EMAIL=admin@example.com
+      - ADMIN_PASSWORD=supersecret
+    volumes:
+      - /app/node_modules
+    networks:
+      - medusa_network
+
+volumes:
+  postgres_data:
+
+networks:
+  medusa_network:

@@ -1,0 +1,72 @@
+{
+  "stock_locations": [
+    {
+      "id": 1,
+      "name": "Fuzzloft Main Warehouse",
+      "default": true,
+      "address1": "05626 Laura Mills Suite 453",
+      "address2": "Unit 125",
+      "city": "Meriden",
+      "state_id": 488,
+      "state_name": "Connecticut",
+      "country_id": 49,
+      "zipcode": "45572",
+      "phone": "724-493-6172",
+      "active": true,
+      "backorderable_default": true,
+      "propagate_all_variants": true,
+      "admin_name": "main"
+    },
+    {
+      "id": 2,
+      "name": "Fuzzloft Local Depot - Gulfport",
+      "default": false,
+      "address1": "304 Carlos Pike Apt. 663",
+      "address2": null,
+      "city": "Gulfport",
+      "state_id": 507,
+      "state_name": "Mississippi",
+      "country_id": 49,
+      "zipcode": "23312",
+      "phone": "166-770-8139",
+      "active": true,
+      "backorderable_default": false,
+      "propagate_all_variants": false,
+      "admin_name": "depot"
+    },
+    {
+      "id": 3,
+      "name": "Fuzzloft Fulfillment Center - Portland",
+      "default": false,
+      "address1": "9566 Sarah Forges",
+      "address2": null,
+      "city": "Portland",
+      "state_id": 503,
+      "state_name": "Maine",
+      "country_id": 49,
+      "zipcode": "26578",
+      "phone": "498-231-9440",
+      "active": true,
+      "backorderable_default": true,
+      "propagate_all_variants": false,
+      "admin_name": "fulfillment_por"
+    },
+    {
+      "id": 4,
+      "name": "Fuzzloft Distribution Center - Rapid City",
+      "default": false,
+      "address1": "8834 Mcintosh Field Suite 393",
+      "address2": null,
+      "city": "Rapid City",
+      "state_id": 523,
+      "state_name": "South Dakota",
+      "country_id": 49,
+      "zipcode": "22342",
+      "phone": "306-255-3677",
+      "active": true,
+      "backorderable_default": true,
+      "propagate_all_variants": true,
+      "admin_name": "distribution_rap"
+    }
+  ]
+}

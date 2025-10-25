@@ -1,0 +1,76 @@
+{
+  "properties": [
+    {
+      "name": "material",
+      "presentation": "Material",
+      "filterable": true,
+      "filter_param": "material",
+      "public_metadata": "{\"description\":\"Composition of the product\",\"categories\":[\"Toys\",\"Accessories\",\"Bedding\"]}",
+      "private_metadata": "{\"source\":\"Manufacturer Specs\",\"validation_rules\":\"Non-toxic materials only\"}"
+    },
+    {
+      "name": "breed_size",
+      "presentation": "Breed Size",
+      "filterable": true,
+      "filter_param": "breed_size",
+      "public_metadata": "{\"description\":\"Recommended product size based on pet breed\",\"categories\":[\"Food\",\"Accessories\",\"Clothing\"]}",
+      "private_metadata": "{\"source\":\"Product Recommendations\",\"validation_rules\":\"Must match standard breed classifications\"}"
+    },
+    {
+      "name": "age_range",
+      "presentation": "Pet Life Stage",
+      "filterable": true,
+      "filter_param": "age_range",
+      "public_metadata": "{\"description\":\"Appropriate product for specific pet life stages\",\"categories\":[\"Food\",\"Supplements\",\"Training\"]}",
+      "private_metadata": "{\"source\":\"Veterinary Guidelines\",\"validation_rules\":\"Must align with standard pet life stages\"}"
+    },
+    {
+      "name": "nutritional_focus",
+      "presentation": "Nutritional Focus",
+      "filterable": true,
+      "filter_param": "nutritional_focus",
+      "public_metadata": "{\"description\":\"Specific dietary or health emphasis of product\",\"categories\":[\"Food\",\"Treats\",\"Supplements\"]}",
+      "private_metadata": "{\"source\":\"Nutritional Research\",\"validation_rules\":\"Must be scientifically substantiated\"}"
+    },
+    {
+      "name": "durability_level",
+      "presentation": "Durability Rating",
+      "filterable": true,
+      "filter_param": "durability_level",
+      "public_metadata": "{\"description\":\"Expected product longevity and resistance to wear\",\"categories\":[\"Toys\",\"Accessories\",\"Bedding\"]}",
+      "private_metadata": "{\"source\":\"Product Testing\",\"validation_rules\":\"Standardized testing required\"}"
+    },
+    {
+      "name": "care_instructions",
+      "presentation": "Care & Maintenance",
+      "filterable": false,
+      "filter_param": null,
+      "public_metadata": "{\"description\":\"Recommended cleaning and maintenance procedures\",\"categories\":[\"All Products\"]}",
+      "private_metadata": "{\"source\":\"Manufacturer Guidelines\",\"validation_rules\":\"Must be clear and comprehensive\"}"
+    },
+    {
+      "name": "safety_rating",
+      "presentation": "Safety Certification",
+      "filterable": true,
+      "filter_param": "safety_rating",
+      "public_metadata": "{\"description\":\"Product safety standards and certifications\",\"categories\":[\"Toys\",\"Accessories\",\"Health Products\"]}",
+      "private_metadata": "{\"source\":\"Regulatory Compliance\",\"validation_rules\":\"Must meet industry safety standards\"}"
+    },
+    {
+      "name": "country_of_origin",
+      "presentation": "Country of Manufacture",
+      "filterable": true,
+      "filter_param": "country_of_origin",
+      "public_metadata": "{\"description\":\"Manufacturing location of the product\",\"categories\":[\"All Products\"]}",
+      "private_metadata": "{\"source\":\"Supply Chain Data\",\"validation_rules\":\"Must be verifiable\"}"
+    },
+    {
+      "name": "special_features",
+      "presentation": "Special Product Features",
+      "filterable": true,
+      "filter_param": "special_features",
+      "public_metadata": "{\"description\":\"Unique or innovative product characteristics\",\"categories\":[\"Toys\",\"Accessories\",\"Technology\"]}",
+      "private_metadata": "{\"source\":\"Product Innovation Team\",\"validation_rules\":\"Must provide clear customer value\"}"
+    }
+  ]
+}

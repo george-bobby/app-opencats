@@ -1,0 +1,1441 @@
+[
+    {
+        "name": "Ergonomic Office Chair",
+        "description": "Comfortable ergonomic office chair with adjustable height and lumbar support for long working hours.",
+        "description_picking": "Pick ergonomic office chair from storage for internal transfer.",
+        "description_pickingin": "Receive ergonomic office chair shipment and verify quantity and quality.",
+        "description_pickingout": "Prepare ergonomic office chair for customer order fulfillment.",
+        "description_purchase": "Purchase ergonomic office chair from supplier with quality assurance.",
+        "description_sale": "Sell ergonomic office chair suitable for office and home use.",
+        "product_type": "consu",
+        "list_price": 199.99,
+        "cost": 120.0,
+        "category": "Office Supplies",
+        "variants": [
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "Black",
+                    "Gray",
+                    "Blue"
+                ]
+            },
+            {
+                "name": "Material",
+                "display_type": "select",
+                "values": [
+                    "Mesh",
+                    "Leather"
+                ]
+            }
+        ],
+        "tags": [
+            "office",
+            "chair",
+            "ergonomic"
+        ],
+        "uom": "Units",
+        "weight": 15.0,
+        "volume": 0.3
+    },
+    {
+        "name": "Wireless Bluetooth Headphones",
+        "description": "High-quality wireless Bluetooth headphones with noise cancellation and long battery life.",
+        "description_picking": "Pick wireless Bluetooth headphones for internal transfer.",
+        "description_pickingin": "Receive wireless Bluetooth headphones shipment and check for defects.",
+        "description_pickingout": "Prepare wireless Bluetooth headphones for customer shipment.",
+        "description_purchase": "Purchase wireless Bluetooth headphones from authorized supplier.",
+        "description_sale": "Sell wireless Bluetooth headphones with superior sound quality.",
+        "product_type": "consu",
+        "list_price": 89.99,
+        "cost": 50.0,
+        "category": "Electronics",
+        "variants": [
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "Black",
+                    "White",
+                    "Red"
+                ]
+            }
+        ],
+        "tags": [
+            "audio",
+            "wireless",
+            "headphones"
+        ],
+        "uom": "Units",
+        "weight": 0.3,
+        "volume": 0.002
+    },
+    {
+        "name": "Cotton Crew Neck T-Shirt",
+        "description": "Soft cotton crew neck t-shirt available in multiple colors and sizes for everyday wear.",
+        "description_picking": "Pick cotton crew neck t-shirt for internal transfer.",
+        "description_pickingin": "Receive cotton crew neck t-shirt shipment and verify sizes and colors.",
+        "description_pickingout": "Prepare cotton crew neck t-shirt for customer order.",
+        "description_purchase": "Purchase cotton crew neck t-shirts from textile supplier.",
+        "description_sale": "Sell comfortable cotton crew neck t-shirts in various colors.",
+        "product_type": "consu",
+        "list_price": 15.99,
+        "cost": 7.0,
+        "category": "Apparel",
+        "variants": [
+            {
+                "name": "Size",
+                "display_type": "select",
+                "values": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL"
+                ]
+            },
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "White",
+                    "Black",
+                    "Navy",
+                    "Gray"
+                ]
+            }
+        ],
+        "tags": [
+            "clothing",
+            "tshirt",
+            "cotton"
+        ],
+        "uom": "Units",
+        "weight": 0.2,
+        "volume": 0.001
+    },
+    {
+        "name": "Organic Aloe Vera Gel",
+        "description": "Pure organic aloe vera gel for skin soothing and moisturizing, suitable for all skin types.",
+        "description_picking": "Pick organic aloe vera gel for internal transfer.",
+        "description_pickingin": "Receive organic aloe vera gel shipment and check packaging integrity.",
+        "description_pickingout": "Prepare organic aloe vera gel for customer delivery.",
+        "description_purchase": "Purchase organic aloe vera gel from certified organic supplier.",
+        "description_sale": "Sell organic aloe vera gel for skin care and hydration.",
+        "product_type": "consu",
+        "list_price": 12.5,
+        "cost": 6.0,
+        "category": "Health & Beauty",
+        "variants": [
+            {
+                "name": "Size",
+                "display_type": "select",
+                "values": [
+                    "100ml",
+                    "250ml"
+                ]
+            }
+        ],
+        "tags": [
+            "skincare",
+            "aloe vera",
+            "organic"
+        ],
+        "uom": "Units",
+        "weight": 0.15,
+        "volume": 0.0002
+    },
+    {
+        "name": "LED Desk Lamp with USB Charging Port",
+        "description": "Energy-efficient LED desk lamp featuring adjustable brightness and built-in USB charging port.",
+        "description_picking": "Pick LED desk lamp for internal transfer.",
+        "description_pickingin": "Receive LED desk lamp shipment and verify functionality.",
+        "description_pickingout": "Prepare LED desk lamp for customer shipment.",
+        "description_purchase": "Purchase LED desk lamp from electronics supplier.",
+        "description_sale": "Sell LED desk lamp suitable for office and study use.",
+        "product_type": "consu",
+        "list_price": 39.99,
+        "cost": 22.0,
+        "category": "Electronics",
+        "variants": [
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "Black",
+                    "White"
+                ]
+            }
+        ],
+        "tags": [
+            "lighting",
+            "LED",
+            "desk lamp"
+        ],
+        "uom": "Units",
+        "weight": 1.2,
+        "volume": 0.005
+    },
+    {
+        "name": "Stainless Steel Water Bottle",
+        "description": "Durable stainless steel water bottle with double-wall insulation to keep drinks hot or cold.",
+        "description_picking": "Pick stainless steel water bottle for internal transfer.",
+        "description_pickingin": "Receive stainless steel water bottle shipment and check for damages.",
+        "description_pickingout": "Prepare stainless steel water bottle for customer order.",
+        "description_purchase": "Purchase stainless steel water bottles from manufacturer.",
+        "description_sale": "Sell insulated stainless steel water bottles for hydration.",
+        "product_type": "consu",
+        "list_price": 24.99,
+        "cost": 12.0,
+        "category": "Home Essentials",
+        "variants": [
+            {
+                "name": "Capacity",
+                "display_type": "select",
+                "values": [
+                    "500ml",
+                    "750ml"
+                ]
+            },
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "Silver",
+                    "Blue",
+                    "Black"
+                ]
+            }
+        ],
+        "tags": [
+            "water bottle",
+            "insulated",
+            "stainless steel"
+        ],
+        "uom": "Units",
+        "weight": 0.5,
+        "volume": 0.001
+    },
+    {
+        "name": "Ballpoint Pen Set",
+        "description": "Set of smooth-writing ballpoint pens with comfortable grip, ideal for office and school use.",
+        "description_picking": "Pick ballpoint pen set for internal transfer.",
+        "description_pickingin": "Receive ballpoint pen set shipment and verify quantity.",
+        "description_pickingout": "Prepare ballpoint pen set for customer shipment.",
+        "description_purchase": "Purchase ballpoint pen sets from stationery supplier.",
+        "description_sale": "Sell ballpoint pen sets for writing and office use.",
+        "product_type": "consu",
+        "list_price": 9.99,
+        "cost": 4.0,
+        "category": "Office Supplies",
+        "variants": [
+            {
+                "name": "Ink Color",
+                "display_type": "select",
+                "values": [
+                    "Blue",
+                    "Black",
+                    "Red"
+                ]
+            }
+        ],
+        "tags": [
+            "pen",
+            "writing",
+            "office"
+        ],
+        "uom": "Pack",
+        "weight": 0.1,
+        "volume": 0.0001
+    },
+    {
+        "name": "Men's Running Shoes",
+        "description": "Lightweight and breathable men's running shoes designed for comfort and performance.",
+        "description_picking": "Pick men's running shoes for internal transfer.",
+        "description_pickingin": "Receive men's running shoes shipment and check sizes.",
+        "description_pickingout": "Prepare men's running shoes for customer order.",
+        "description_purchase": "Purchase men's running shoes from footwear supplier.",
+        "description_sale": "Sell men's running shoes suitable for sports and casual wear.",
+        "product_type": "consu",
+        "list_price": 75.0,
+        "cost": 40.0,
+        "category": "Apparel",
+        "variants": [
+            {
+                "name": "Size",
+                "display_type": "select",
+                "values": [
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12"
+                ]
+            },
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "Black",
+                    "Gray",
+                    "Blue"
+                ]
+            }
+        ],
+        "tags": [
+            "shoes",
+            "running",
+            "men"
+        ],
+        "uom": "Units",
+        "weight": 0.8,
+        "volume": 0.002
+    },
+    {
+        "name": "Herbal Shampoo 500ml",
+        "description": "Natural herbal shampoo formulated to nourish hair and promote scalp health.",
+        "description_picking": "Pick herbal shampoo 500ml for internal transfer.",
+        "description_pickingin": "Receive herbal shampoo shipment and verify packaging.",
+        "description_pickingout": "Prepare herbal shampoo for customer shipment.",
+        "description_purchase": "Purchase herbal shampoo from cosmetic supplier.",
+        "description_sale": "Sell herbal shampoo for healthy hair care.",
+        "product_type": "consu",
+        "list_price": 14.99,
+        "cost": 7.5,
+        "category": "Health & Beauty",
+        "variants": [
+            {
+                "name": "Fragrance",
+                "display_type": "select",
+                "values": [
+                    "Lavender",
+                    "Mint"
+                ]
+            }
+        ],
+        "tags": [
+            "shampoo",
+            "herbal",
+            "hair care"
+        ],
+        "uom": "Units",
+        "weight": 0.55,
+        "volume": 0.0006
+    },
+    {
+        "name": "Wireless Computer Mouse",
+        "description": "Ergonomic wireless computer mouse with adjustable DPI and long battery life.",
+        "description_picking": "Pick wireless computer mouse for internal transfer.",
+        "description_pickingin": "Receive wireless computer mouse shipment and check functionality.",
+        "description_pickingout": "Prepare wireless computer mouse for customer order.",
+        "description_purchase": "Purchase wireless computer mouse from electronics supplier.",
+        "description_sale": "Sell wireless computer mouse for office and gaming use.",
+        "product_type": "consu",
+        "list_price": 29.99,
+        "cost": 15.0,
+        "category": "Electronics",
+        "variants": [
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "Black",
+                    "White",
+                    "Red"
+                ]
+            }
+        ],
+        "tags": [
+            "mouse",
+            "wireless",
+            "computer"
+        ],
+        "uom": "Units",
+        "weight": 0.1,
+        "volume": 0.0003
+    },
+    {
+        "name": "Ceramic Coffee Mug 12oz",
+        "description": "Durable ceramic coffee mug with 12oz capacity, suitable for hot and cold beverages.",
+        "description_picking": "Pick ceramic coffee mug for internal transfer.",
+        "description_pickingin": "Receive ceramic coffee mug shipment and check for cracks.",
+        "description_pickingout": "Prepare ceramic coffee mug for customer shipment.",
+        "description_purchase": "Purchase ceramic coffee mugs from kitchenware supplier.",
+        "description_sale": "Sell ceramic coffee mugs for everyday use.",
+        "product_type": "consu",
+        "list_price": 8.99,
+        "cost": 3.5,
+        "category": "Home Essentials",
+        "variants": [
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "White",
+                    "Blue",
+                    "Green"
+                ]
+            }
+        ],
+        "tags": [
+            "mug",
+            "ceramic",
+            "coffee"
+        ],
+        "uom": "Units",
+        "weight": 0.4,
+        "volume": 0.0008
+    },
+    {
+        "name": "Women's Casual Hoodie",
+        "description": "Comfortable women's casual hoodie made from soft cotton blend fabric, perfect for everyday wear.",
+        "description_picking": "Pick women's casual hoodie for internal transfer.",
+        "description_pickingin": "Receive women's casual hoodie shipment and verify sizes and colors.",
+        "description_pickingout": "Prepare women's casual hoodie for customer order.",
+        "description_purchase": "Purchase women's casual hoodies from apparel supplier.",
+        "description_sale": "Sell women's casual hoodies in various colors and sizes.",
+        "product_type": "consu",
+        "list_price": 35.0,
+        "cost": 18.0,
+        "category": "Apparel",
+        "variants": [
+            {
+                "name": "Size",
+                "display_type": "select",
+                "values": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL"
+                ]
+            },
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "Gray",
+                    "Black",
+                    "Pink"
+                ]
+            }
+        ],
+        "tags": [
+            "hoodie",
+            "women",
+            "casual"
+        ],
+        "uom": "Units",
+        "weight": 0.6,
+        "volume": 0.0012
+    },
+    {
+        "name": "Desk Organizer Set",
+        "description": "Multi-compartment desk organizer set to keep office supplies neat and accessible.",
+        "description_picking": "Pick desk organizer set for internal transfer.",
+        "description_pickingin": "Receive desk organizer set shipment and verify components.",
+        "description_pickingout": "Prepare desk organizer set for customer shipment.",
+        "description_purchase": "Purchase desk organizer sets from office supplies supplier.",
+        "description_sale": "Sell desk organizer sets for office and home use.",
+        "product_type": "consu",
+        "list_price": 22.5,
+        "cost": 10.0,
+        "category": "Office Supplies",
+        "variants": [
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "Black",
+                    "Brown",
+                    "White"
+                ]
+            }
+        ],
+        "tags": [
+            "desk",
+            "organizer",
+            "office"
+        ],
+        "uom": "Units",
+        "weight": 1.0,
+        "volume": 0.0025
+    },
+    {
+        "name": "Scented Soy Candle 8oz",
+        "description": "Eco-friendly scented soy candle with natural fragrances, burns cleanly for up to 40 hours.",
+        "description_picking": "Pick scented soy candle for internal transfer.",
+        "description_pickingin": "Receive scented soy candle shipment and check packaging.",
+        "description_pickingout": "Prepare scented soy candle for customer order.",
+        "description_purchase": "Purchase scented soy candles from candle supplier.",
+        "description_sale": "Sell scented soy candles for home ambiance.",
+        "product_type": "consu",
+        "list_price": 18.0,
+        "cost": 8.0,
+        "category": "Home Essentials",
+        "variants": [
+            {
+                "name": "Fragrance",
+                "display_type": "select",
+                "values": [
+                    "Lavender",
+                    "Vanilla",
+                    "Citrus"
+                ]
+            }
+        ],
+        "tags": [
+            "candle",
+            "soy",
+            "scented"
+        ],
+        "uom": "Units",
+        "weight": 0.3,
+        "volume": 0.0004
+    },
+    {
+        "name": "Children's Backpack 15L",
+        "description": "Durable children's backpack with 15-liter capacity, multiple compartments, and adjustable straps.",
+        "description_picking": "Pick children's backpack for internal transfer.",
+        "description_pickingin": "Receive children's backpack shipment and verify quality.",
+        "description_pickingout": "Prepare children's backpack for customer shipment.",
+        "description_purchase": "Purchase children's backpacks from supplier.",
+        "description_sale": "Sell children's backpacks suitable for school and travel.",
+        "product_type": "consu",
+        "list_price": 29.99,
+        "cost": 15.0,
+        "category": "Home Essentials",
+        "variants": [
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "Red",
+                    "Blue",
+                    "Green"
+                ]
+            }
+        ],
+        "tags": [
+            "backpack",
+            "children",
+            "school"
+        ],
+        "uom": "Units",
+        "weight": 0.7,
+        "volume": 0.003
+    },
+    {
+        "name": "Facial Moisturizer SPF 30",
+        "description": "Lightweight facial moisturizer with SPF 30 protection, suitable for daily use on all skin types.",
+        "description_picking": "Pick facial moisturizer SPF 30 for internal transfer.",
+        "description_pickingin": "Receive facial moisturizer shipment and verify seals.",
+        "description_pickingout": "Prepare facial moisturizer for customer order.",
+        "description_purchase": "Purchase facial moisturizer from cosmetic supplier.",
+        "description_sale": "Sell facial moisturizer with sun protection for skincare.",
+        "product_type": "consu",
+        "list_price": 25.0,
+        "cost": 12.0,
+        "category": "Health & Beauty",
+        "variants": [
+            {
+                "name": "Size",
+                "display_type": "select",
+                "values": [
+                    "50ml",
+                    "100ml"
+                ]
+            }
+        ],
+        "tags": [
+            "moisturizer",
+            "SPF",
+            "skincare"
+        ],
+        "uom": "Units",
+        "weight": 0.1,
+        "volume": 0.0001
+    },
+    {
+        "name": "USB-C Charging Cable 1m",
+        "description": "Durable USB-C charging cable with fast charging support and 1-meter length.",
+        "description_picking": "Pick USB-C charging cable for internal transfer.",
+        "description_pickingin": "Receive USB-C charging cable shipment and check quality.",
+        "description_pickingout": "Prepare USB-C charging cable for customer shipment.",
+        "description_purchase": "Purchase USB-C charging cables from electronics supplier.",
+        "description_sale": "Sell USB-C charging cables compatible with multiple devices.",
+        "product_type": "consu",
+        "list_price": 9.99,
+        "cost": 4.0,
+        "category": "Electronics",
+        "variants": [
+            {
+                "name": "Length",
+                "display_type": "select",
+                "values": [
+                    "1m",
+                    "2m"
+                ]
+            }
+        ],
+        "tags": [
+            "cable",
+            "USB-C",
+            "charging"
+        ],
+        "uom": "Units",
+        "weight": 0.05,
+        "volume": 5e-05
+    },
+    {
+        "name": "Pack of 12 Colored Pencils",
+        "description": "Set of 12 vibrant colored pencils ideal for drawing and coloring activities.",
+        "description_picking": "Pick pack of 12 colored pencils for internal transfer.",
+        "description_pickingin": "Receive colored pencils shipment and verify count.",
+        "description_pickingout": "Prepare colored pencils for customer order.",
+        "description_purchase": "Purchase colored pencils from art supplies supplier.",
+        "description_sale": "Sell colored pencils for art and school use.",
+        "product_type": "consu",
+        "list_price": 7.99,
+        "cost": 3.0,
+        "category": "Office Supplies",
+        "variants": [
+            {
+                "name": "Set Size",
+                "display_type": "select",
+                "values": [
+                    "12 colors"
+                ]
+            }
+        ],
+        "tags": [
+            "colored pencils",
+            "art",
+            "school"
+        ],
+        "uom": "Pack",
+        "weight": 0.2,
+        "volume": 0.0003
+    },
+    {
+        "name": "Men's Leather Wallet",
+        "description": "Classic men's leather wallet with multiple card slots and a bill compartment.",
+        "description_picking": "Pick men's leather wallet for internal transfer.",
+        "description_pickingin": "Receive men's leather wallet shipment and check quality.",
+        "description_pickingout": "Prepare men's leather wallet for customer shipment.",
+        "description_purchase": "Purchase men's leather wallets from leather goods supplier.",
+        "description_sale": "Sell men's leather wallets for everyday use.",
+        "product_type": "consu",
+        "list_price": 45.0,
+        "cost": 20.0,
+        "category": "Apparel",
+        "variants": [
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "Brown",
+                    "Black"
+                ]
+            }
+        ],
+        "tags": [
+            "wallet",
+            "leather",
+            "men"
+        ],
+        "uom": "Units",
+        "weight": 0.15,
+        "volume": 0.0002
+    },
+    {
+        "name": "Electric Toothbrush with Timer",
+        "description": "Rechargeable electric toothbrush featuring a built-in timer and multiple brushing modes.",
+        "description_picking": "Pick electric toothbrush for internal transfer.",
+        "description_pickingin": "Receive electric toothbrush shipment and verify functionality.",
+        "description_pickingout": "Prepare electric toothbrush for customer order.",
+        "description_purchase": "Purchase electric toothbrushes from health supplier.",
+        "description_sale": "Sell electric toothbrushes for improved oral hygiene.",
+        "product_type": "consu",
+        "list_price": 59.99,
+        "cost": 30.0,
+        "category": "Health & Beauty",
+        "variants": [
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "White",
+                    "Blue"
+                ]
+            }
+        ],
+        "tags": [
+            "toothbrush",
+            "electric",
+            "oral care"
+        ],
+        "uom": "Units",
+        "weight": 0.3,
+        "volume": 0.0005
+    },
+    {
+        "name": "Adjustable Laptop Stand",
+        "description": "Portable adjustable laptop stand to improve ergonomics and cooling during use.",
+        "description_picking": "Pick adjustable laptop stand for internal transfer.",
+        "description_pickingin": "Receive adjustable laptop stand shipment and check parts.",
+        "description_pickingout": "Prepare adjustable laptop stand for customer shipment.",
+        "description_purchase": "Purchase adjustable laptop stands from electronics supplier.",
+        "description_sale": "Sell adjustable laptop stands for office and home use.",
+        "product_type": "consu",
+        "list_price": 34.99,
+        "cost": 18.0,
+        "category": "Office Supplies",
+        "variants": [
+            {
+                "name": "Material",
+                "display_type": "select",
+                "values": [
+                    "Aluminum",
+                    "Plastic"
+                ]
+            }
+        ],
+        "tags": [
+            "laptop stand",
+            "adjustable",
+            "ergonomic"
+        ],
+        "uom": "Units",
+        "weight": 0.7,
+        "volume": 0.002
+    },
+    {
+        "name": "Pack of 6 Bath Towels",
+        "description": "Soft and absorbent pack of 6 bath towels made from 100% cotton.",
+        "description_picking": "Pick pack of 6 bath towels for internal transfer.",
+        "description_pickingin": "Receive bath towels shipment and verify quantity and quality.",
+        "description_pickingout": "Prepare bath towels for customer shipment.",
+        "description_purchase": "Purchase bath towels from textile supplier.",
+        "description_sale": "Sell pack of 6 cotton bath towels for home use.",
+        "product_type": "consu",
+        "list_price": 49.99,
+        "cost": 25.0,
+        "category": "Home Essentials",
+        "variants": [
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "White",
+                    "Beige",
+                    "Gray"
+                ]
+            }
+        ],
+        "tags": [
+            "bath towels",
+            "cotton",
+            "home"
+        ],
+        "uom": "Pack",
+        "weight": 3.0,
+        "volume": 0.01
+    },
+    {
+        "name": "Kids' Cotton Socks 5-Pack",
+        "description": "Comfortable and breathable cotton socks for kids, sold in packs of five pairs.",
+        "description_picking": "Pick kids' cotton socks 5-pack for internal transfer.",
+        "description_pickingin": "Receive kids' socks shipment and verify sizes and colors.",
+        "description_pickingout": "Prepare kids' socks for customer order.",
+        "description_purchase": "Purchase kids' cotton socks from apparel supplier.",
+        "description_sale": "Sell kids' cotton socks in multi-packs for everyday wear.",
+        "product_type": "consu",
+        "list_price": 12.99,
+        "cost": 6.0,
+        "category": "Apparel",
+        "variants": [
+            {
+                "name": "Size",
+                "display_type": "select",
+                "values": [
+                    "Small",
+                    "Medium",
+                    "Large"
+                ]
+            },
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "White",
+                    "Pink",
+                    "Blue"
+                ]
+            }
+        ],
+        "tags": [
+            "socks",
+            "kids",
+            "cotton"
+        ],
+        "uom": "Pack",
+        "weight": 0.15,
+        "volume": 0.0005
+    },
+    {
+        "name": "Rechargeable Handheld Vacuum Cleaner",
+        "description": "Compact rechargeable handheld vacuum cleaner ideal for quick cleanups and car interiors.",
+        "description_picking": "Pick handheld vacuum cleaner for internal transfer.",
+        "description_pickingin": "Receive handheld vacuum cleaner shipment and check battery.",
+        "description_pickingout": "Prepare handheld vacuum cleaner for customer shipment.",
+        "description_purchase": "Purchase handheld vacuum cleaners from electronics supplier.",
+        "description_sale": "Sell handheld vacuum cleaners for home and car use.",
+        "product_type": "consu",
+        "list_price": 79.99,
+        "cost": 45.0,
+        "category": "Home Essentials",
+        "variants": [
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "Red",
+                    "Black"
+                ]
+            }
+        ],
+        "tags": [
+            "vacuum",
+            "handheld",
+            "cleaning"
+        ],
+        "uom": "Units",
+        "weight": 1.5,
+        "volume": 0.004
+    },
+    {
+        "name": "Classic Ball Cap",
+        "description": "Adjustable classic ball cap made from breathable cotton fabric, suitable for casual wear.",
+        "description_picking": "Pick classic ball cap for internal transfer.",
+        "description_pickingin": "Receive ball cap shipment and verify colors and sizes.",
+        "description_pickingout": "Prepare ball cap for customer order.",
+        "description_purchase": "Purchase ball caps from apparel supplier.",
+        "description_sale": "Sell classic ball caps for outdoor and casual use.",
+        "product_type": "consu",
+        "list_price": 14.99,
+        "cost": 6.0,
+        "category": "Apparel",
+        "variants": [
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "Black",
+                    "Navy",
+                    "White"
+                ]
+            }
+        ],
+        "tags": [
+            "cap",
+            "ball cap",
+            "casual"
+        ],
+        "uom": "Units",
+        "weight": 0.1,
+        "volume": 0.0003
+    },
+    {
+        "name": "Digital Alarm Clock with LED Display",
+        "description": "Compact digital alarm clock featuring a bright LED display and snooze function.",
+        "description_picking": "Pick digital alarm clock for internal transfer.",
+        "description_pickingin": "Receive digital alarm clock shipment and check display.",
+        "description_pickingout": "Prepare digital alarm clock for customer shipment.",
+        "description_purchase": "Purchase digital alarm clocks from electronics supplier.",
+        "description_sale": "Sell digital alarm clocks for bedroom and office use.",
+        "product_type": "consu",
+        "list_price": 19.99,
+        "cost": 9.0,
+        "category": "Electronics",
+        "variants": [
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "Black",
+                    "White"
+                ]
+            }
+        ],
+        "tags": [
+            "alarm clock",
+            "digital",
+            "LED"
+        ],
+        "uom": "Units",
+        "weight": 0.4,
+        "volume": 0.001
+    },
+    {
+        "name": "Reusable Grocery Tote Bag",
+        "description": "Eco-friendly reusable grocery tote bag made from durable and washable fabric.",
+        "description_picking": "Pick reusable grocery tote bag for internal transfer.",
+        "description_pickingin": "Receive grocery tote bag shipment and verify quality.",
+        "description_pickingout": "Prepare grocery tote bag for customer shipment.",
+        "description_purchase": "Purchase reusable tote bags from supplier.",
+        "description_sale": "Sell reusable grocery tote bags for sustainable shopping.",
+        "product_type": "consu",
+        "list_price": 5.99,
+        "cost": 2.5,
+        "category": "Home Essentials",
+        "variants": [
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "Green",
+                    "Beige",
+                    "Blue"
+                ]
+            }
+        ],
+        "tags": [
+            "tote bag",
+            "reusable",
+            "eco-friendly"
+        ],
+        "uom": "Units",
+        "weight": 0.1,
+        "volume": 0.0002
+    },
+    {
+        "name": "Men's Cotton Boxer Briefs 3-Pack",
+        "description": "Comfortable men's cotton boxer briefs sold in packs of three, available in multiple sizes.",
+        "description_picking": "Pick men's cotton boxer briefs 3-pack for internal transfer.",
+        "description_pickingin": "Receive boxer briefs shipment and verify sizes.",
+        "description_pickingout": "Prepare boxer briefs for customer order.",
+        "description_purchase": "Purchase men's boxer briefs from apparel supplier.",
+        "description_sale": "Sell men's cotton boxer briefs in multi-packs.",
+        "product_type": "consu",
+        "list_price": 24.99,
+        "cost": 12.0,
+        "category": "Apparel",
+        "variants": [
+            {
+                "name": "Size",
+                "display_type": "select",
+                "values": [
+                    "M",
+                    "L",
+                    "XL"
+                ]
+            },
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "Black",
+                    "Gray",
+                    "White"
+                ]
+            }
+        ],
+        "tags": [
+            "boxer briefs",
+            "men",
+            "cotton"
+        ],
+        "uom": "Pack",
+        "weight": 0.3,
+        "volume": 0.0008
+    },
+    {
+        "name": "Multi-Purpose Cleaning Spray 32oz",
+        "description": "Effective multi-purpose cleaning spray suitable for various surfaces and easy to use.",
+        "description_picking": "Pick multi-purpose cleaning spray for internal transfer.",
+        "description_pickingin": "Receive cleaning spray shipment and check seals.",
+        "description_pickingout": "Prepare cleaning spray for customer shipment.",
+        "description_purchase": "Purchase cleaning sprays from cleaning supplies supplier.",
+        "description_sale": "Sell multi-purpose cleaning sprays for home cleaning.",
+        "product_type": "consu",
+        "list_price": 7.99,
+        "cost": 3.5,
+        "category": "Home Essentials",
+        "variants": [
+            {
+                "name": "Scent",
+                "display_type": "select",
+                "values": [
+                    "Lemon",
+                    "Fresh"
+                ]
+            }
+        ],
+        "tags": [
+            "cleaning",
+            "spray",
+            "multi-purpose"
+        ],
+        "uom": "Units",
+        "weight": 0.4,
+        "volume": 0.0007
+    },
+    {
+        "name": "Wireless Earbuds with Charging Case",
+        "description": "Compact wireless earbuds with charging case, offering clear sound and hands-free calls.",
+        "description_picking": "Pick wireless earbuds for internal transfer.",
+        "description_pickingin": "Receive wireless earbuds shipment and verify accessories.",
+        "description_pickingout": "Prepare wireless earbuds for customer shipment.",
+        "description_purchase": "Purchase wireless earbuds from electronics supplier.",
+        "description_sale": "Sell wireless earbuds for music and calls.",
+        "product_type": "consu",
+        "list_price": 59.99,
+        "cost": 30.0,
+        "category": "Electronics",
+        "variants": [
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "Black",
+                    "White"
+                ]
+            }
+        ],
+        "tags": [
+            "earbuds",
+            "wireless",
+            "audio"
+        ],
+        "uom": "Units",
+        "weight": 0.05,
+        "volume": 0.0001
+    },
+    {
+        "name": "Women's Fitness Leggings",
+        "description": "Stretchy and breathable women's fitness leggings designed for comfort during workouts.",
+        "description_picking": "Pick women's fitness leggings for internal transfer.",
+        "description_pickingin": "Receive fitness leggings shipment and verify sizes and colors.",
+        "description_pickingout": "Prepare fitness leggings for customer order.",
+        "description_purchase": "Purchase women's fitness leggings from apparel supplier.",
+        "description_sale": "Sell women's fitness leggings for exercise and casual wear.",
+        "product_type": "consu",
+        "list_price": 29.99,
+        "cost": 15.0,
+        "category": "Apparel",
+        "variants": [
+            {
+                "name": "Size",
+                "display_type": "select",
+                "values": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL"
+                ]
+            },
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "Black",
+                    "Gray",
+                    "Navy"
+                ]
+            }
+        ],
+        "tags": [
+            "leggings",
+            "fitness",
+            "women"
+        ],
+        "uom": "Units",
+        "weight": 0.3,
+        "volume": 0.0007
+    },
+    {
+        "name": "Portable Power Bank 10000mAh",
+        "description": "Compact portable power bank with 10000mAh capacity for charging devices on the go.",
+        "description_picking": "Pick portable power bank for internal transfer.",
+        "description_pickingin": "Receive power bank shipment and verify battery capacity.",
+        "description_pickingout": "Prepare power bank for customer shipment.",
+        "description_purchase": "Purchase portable power banks from electronics supplier.",
+        "description_sale": "Sell portable power banks for mobile device charging.",
+        "product_type": "consu",
+        "list_price": 39.99,
+        "cost": 20.0,
+        "category": "Electronics",
+        "variants": [
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "Black",
+                    "Silver"
+                ]
+            }
+        ],
+        "tags": [
+            "power bank",
+            "portable",
+            "charging"
+        ],
+        "uom": "Units",
+        "weight": 0.25,
+        "volume": 0.0004
+    },
+    {
+        "name": "Kids' Watercolor Paint Set",
+        "description": "Complete watercolor paint set for kids including brushes and 12 vibrant colors.",
+        "description_picking": "Pick kids' watercolor paint set for internal transfer.",
+        "description_pickingin": "Receive watercolor paint set shipment and verify contents.",
+        "description_pickingout": "Prepare watercolor paint set for customer shipment.",
+        "description_purchase": "Purchase watercolor paint sets from art supplies supplier.",
+        "description_sale": "Sell watercolor paint sets for children's art projects.",
+        "product_type": "consu",
+        "list_price": 14.99,
+        "cost": 7.0,
+        "category": "Office Supplies",
+        "variants": [
+            {
+                "name": "Set Size",
+                "display_type": "select",
+                "values": [
+                    "12 colors"
+                ]
+            }
+        ],
+        "tags": [
+            "paint",
+            "watercolor",
+            "kids"
+        ],
+        "uom": "Units",
+        "weight": 0.3,
+        "volume": 0.0005
+    },
+    {
+        "name": "Men's Waterproof Jacket",
+        "description": "Lightweight men's waterproof jacket with breathable fabric and adjustable hood.",
+        "description_picking": "Pick men's waterproof jacket for internal transfer.",
+        "description_pickingin": "Receive waterproof jacket shipment and verify sizes and colors.",
+        "description_pickingout": "Prepare waterproof jacket for customer order.",
+        "description_purchase": "Purchase men's waterproof jackets from apparel supplier.",
+        "description_sale": "Sell men's waterproof jackets for outdoor activities.",
+        "product_type": "consu",
+        "list_price": 89.99,
+        "cost": 50.0,
+        "category": "Apparel",
+        "variants": [
+            {
+                "name": "Size",
+                "display_type": "select",
+                "values": [
+                    "M",
+                    "L",
+                    "XL",
+                    "XXL"
+                ]
+            },
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "Black",
+                    "Navy"
+                ]
+            }
+        ],
+        "tags": [
+            "jacket",
+            "waterproof",
+            "men"
+        ],
+        "uom": "Units",
+        "weight": 0.7,
+        "volume": 0.002
+    },
+    {
+        "name": "Electric Kettle 1.7L",
+        "description": "Fast-boiling electric kettle with 1.7-liter capacity and automatic shut-off feature.",
+        "description_picking": "Pick electric kettle for internal transfer.",
+        "description_pickingin": "Receive electric kettle shipment and check functionality.",
+        "description_pickingout": "Prepare electric kettle for customer shipment.",
+        "description_purchase": "Purchase electric kettles from kitchen appliance supplier.",
+        "description_sale": "Sell electric kettles for quick boiling water.",
+        "product_type": "consu",
+        "list_price": 34.99,
+        "cost": 18.0,
+        "category": "Home Essentials",
+        "variants": [
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "Silver",
+                    "Black"
+                ]
+            }
+        ],
+        "tags": [
+            "kettle",
+            "electric",
+            "kitchen"
+        ],
+        "uom": "Units",
+        "weight": 1.2,
+        "volume": 0.004
+    },
+    {
+        "name": "Pack of 3 Ceramic Dinner Plates",
+        "description": "Set of 3 durable ceramic dinner plates with classic design, dishwasher safe.",
+        "description_picking": "Pick pack of 3 ceramic dinner plates for internal transfer.",
+        "description_pickingin": "Receive dinner plates shipment and check for chips.",
+        "description_pickingout": "Prepare dinner plates for customer shipment.",
+        "description_purchase": "Purchase ceramic dinner plates from kitchenware supplier.",
+        "description_sale": "Sell ceramic dinner plates for everyday dining.",
+        "product_type": "consu",
+        "list_price": 27.99,
+        "cost": 14.0,
+        "category": "Home Essentials",
+        "variants": [
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "White",
+                    "Beige"
+                ]
+            }
+        ],
+        "tags": [
+            "plates",
+            "ceramic",
+            "dinnerware"
+        ],
+        "uom": "Pack",
+        "weight": 3.5,
+        "volume": 0.008
+    },
+    {
+        "name": "Children's Insulated Lunch Box",
+        "description": "Insulated lunch box for children with easy-to-clean compartments and durable design.",
+        "description_picking": "Pick children's insulated lunch box for internal transfer.",
+        "description_pickingin": "Receive lunch box shipment and verify insulation quality.",
+        "description_pickingout": "Prepare lunch box for customer shipment.",
+        "description_purchase": "Purchase insulated lunch boxes from supplier.",
+        "description_sale": "Sell insulated lunch boxes for kids' meals.",
+        "product_type": "consu",
+        "list_price": 19.99,
+        "cost": 10.0,
+        "category": "Home Essentials",
+        "variants": [
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "Pink",
+                    "Blue",
+                    "Green"
+                ]
+            }
+        ],
+        "tags": [
+            "lunch box",
+            "insulated",
+            "children"
+        ],
+        "uom": "Units",
+        "weight": 0.5,
+        "volume": 0.001
+    },
+    {
+        "name": "Anti-Fog Safety Glasses",
+        "description": "Lightweight anti-fog safety glasses suitable for industrial and laboratory use.",
+        "description_picking": "Pick anti-fog safety glasses for internal transfer.",
+        "description_pickingin": "Receive safety glasses shipment and check lenses.",
+        "description_pickingout": "Prepare safety glasses for customer shipment.",
+        "description_purchase": "Purchase safety glasses from safety equipment supplier.",
+        "description_sale": "Sell anti-fog safety glasses for eye protection.",
+        "product_type": "consu",
+        "list_price": 12.99,
+        "cost": 5.0,
+        "category": "Health & Beauty",
+        "variants": [
+            {
+                "name": "Frame Color",
+                "display_type": "color",
+                "values": [
+                    "Clear",
+                    "Black"
+                ]
+            }
+        ],
+        "tags": [
+            "safety glasses",
+            "anti-fog",
+            "protection"
+        ],
+        "uom": "Units",
+        "weight": 0.1,
+        "volume": 0.0002
+    },
+    {
+        "name": "Wireless Charging Pad",
+        "description": "Slim wireless charging pad compatible with Qi-enabled devices for convenient charging.",
+        "description_picking": "Pick wireless charging pad for internal transfer.",
+        "description_pickingin": "Receive wireless charging pad shipment and verify compatibility.",
+        "description_pickingout": "Prepare wireless charging pad for customer shipment.",
+        "description_purchase": "Purchase wireless charging pads from electronics supplier.",
+        "description_sale": "Sell wireless charging pads for smartphones and accessories.",
+        "product_type": "consu",
+        "list_price": 29.99,
+        "cost": 15.0,
+        "category": "Electronics",
+        "variants": [
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "Black",
+                    "White"
+                ]
+            }
+        ],
+        "tags": [
+            "wireless charging",
+            "pad",
+            "electronics"
+        ],
+        "uom": "Units",
+        "weight": 0.2,
+        "volume": 0.0003
+    },
+    {
+        "name": "Pack of 4 Reusable Silicone Food Bags",
+        "description": "Set of 4 reusable silicone food storage bags, eco-friendly and dishwasher safe.",
+        "description_picking": "Pick reusable silicone food bags for internal transfer.",
+        "description_pickingin": "Receive silicone food bags shipment and verify quality.",
+        "description_pickingout": "Prepare silicone food bags for customer shipment.",
+        "description_purchase": "Purchase reusable silicone bags from kitchen supplier.",
+        "description_sale": "Sell reusable silicone food bags for food storage.",
+        "product_type": "consu",
+        "list_price": 19.99,
+        "cost": 9.0,
+        "category": "Home Essentials",
+        "variants": [
+            {
+                "name": "Size",
+                "display_type": "select",
+                "values": [
+                    "Small",
+                    "Medium",
+                    "Large"
+                ]
+            }
+        ],
+        "tags": [
+            "food storage",
+            "silicone",
+            "reusable"
+        ],
+        "uom": "Pack",
+        "weight": 0.4,
+        "volume": 0.001
+    },
+    {
+        "name": "Women's Sunglasses with UV Protection",
+        "description": "Stylish women's sunglasses offering 100% UV protection and comfortable fit.",
+        "description_picking": "Pick women's sunglasses for internal transfer.",
+        "description_pickingin": "Receive sunglasses shipment and check lenses.",
+        "description_pickingout": "Prepare sunglasses for customer shipment.",
+        "description_purchase": "Purchase women's sunglasses from eyewear supplier.",
+        "description_sale": "Sell women's sunglasses for sun protection and style.",
+        "product_type": "consu",
+        "list_price": 24.99,
+        "cost": 12.0,
+        "category": "Apparel",
+        "variants": [
+            {
+                "name": "Frame Color",
+                "display_type": "color",
+                "values": [
+                    "Black",
+                    "Brown",
+                    "Tortoise"
+                ]
+            }
+        ],
+        "tags": [
+            "sunglasses",
+            "women",
+            "UV protection"
+        ],
+        "uom": "Units",
+        "weight": 0.1,
+        "volume": 0.0002
+    },
+    {
+        "name": "Electric Hair Dryer 1875W",
+        "description": "Powerful electric hair dryer with multiple heat settings and cool shot button.",
+        "description_picking": "Pick electric hair dryer for internal transfer.",
+        "description_pickingin": "Receive hair dryer shipment and verify power and settings.",
+        "description_pickingout": "Prepare hair dryer for customer shipment.",
+        "description_purchase": "Purchase electric hair dryers from beauty supplier.",
+        "description_sale": "Sell electric hair dryers for home and salon use.",
+        "product_type": "consu",
+        "list_price": 49.99,
+        "cost": 25.0,
+        "category": "Health & Beauty",
+        "variants": [
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "Black",
+                    "Pink"
+                ]
+            }
+        ],
+        "tags": [
+            "hair dryer",
+            "electric",
+            "beauty"
+        ],
+        "uom": "Units",
+        "weight": 0.8,
+        "volume": 0.003
+    },
+    {
+        "name": "Pack of 3 Notebooks",
+        "description": "Set of 3 ruled notebooks with durable covers, ideal for school and office use.",
+        "description_picking": "Pick pack of 3 notebooks for internal transfer.",
+        "description_pickingin": "Receive notebooks shipment and verify quantity and quality.",
+        "description_pickingout": "Prepare notebooks for customer shipment.",
+        "description_purchase": "Purchase notebooks from stationery supplier.",
+        "description_sale": "Sell notebooks for writing and note-taking.",
+        "product_type": "consu",
+        "list_price": 12.99,
+        "cost": 5.0,
+        "category": "Office Supplies",
+        "variants": [
+            {
+                "name": "Cover Color",
+                "display_type": "color",
+                "values": [
+                    "Blue",
+                    "Red",
+                    "Green"
+                ]
+            }
+        ],
+        "tags": [
+            "notebooks",
+            "stationery",
+            "writing"
+        ],
+        "uom": "Pack",
+        "weight": 0.6,
+        "volume": 0.0015
+    }
+]

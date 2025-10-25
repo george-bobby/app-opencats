@@ -1,0 +1,146 @@
+[
+  {
+    "attribute_display_name": "Account Manager",
+    "attribute_description": "Primary account manager assigned to the customer.",
+    "attribute_model": 0,
+    "attribute_display_type": 6,
+    "attribute_key": "account_manager",
+    "attribute_values": [
+      "Alex Turner",
+      "Priya Mehta",
+      "Luis Garcia",
+      "Emily Chen"
+    ],
+    "regex_pattern": null,
+    "regex_cue": null,
+    "created_at": "2025-01-13T23:54:06.572548",
+    "updated_at": "2025-03-15T12:22:28.413414"
+  },
+  {
+    "attribute_display_name": "Onboarding Status",
+    "attribute_description": "Current onboarding phase for the customer.",
+    "attribute_model": 0,
+    "attribute_display_type": 6,
+    "attribute_key": "onboarding_status",
+    "attribute_values": [
+      "Not Started",
+      "In Progress",
+      "Completed",
+      "Stalled"
+    ],
+    "regex_pattern": null,
+    "regex_cue": null,
+    "created_at": "2025-07-17T10:46:24.362789",
+    "updated_at": "2025-07-28T21:56:09.263954"
+  },
+  {
+    "attribute_display_name": "Annual Spend ($)",
+    "attribute_description": "Total amount spent by the customer annually.",
+    "attribute_model": 0,
+    "attribute_display_type": 1,
+    "attribute_key": "annual_spend",
+    "attribute_values": [],
+    "regex_pattern": null,
+    "regex_cue": null,
+    "created_at": "2025-06-27T13:00:22.477382",
+    "updated_at": "2025-07-28T07:35:50.913253"
+  },
+  {
+    "attribute_display_name": "Primary Use Case",
+    "attribute_description": "Main business use case for using the SaaS product.",
+    "attribute_model": 0,
+    "attribute_display_type": 6,
+    "attribute_key": "primary_use_case",
+    "attribute_values": [
+      "Team Collaboration",
+      "Customer Support",
+      "Project Management",
+      "Analytics"
+    ],
+    "regex_pattern": null,
+    "regex_cue": null,
+    "created_at": "2025-07-20T17:37:13.684370",
+    "updated_at": "2025-07-24T20:44:17.250225"
+  },
+  {
+    "attribute_display_name": "Contract Expiry Date",
+    "attribute_description": "Expiration date for the customer's current contract.",
+    "attribute_model": 0,
+    "attribute_display_type": 5,
+    "attribute_key": "contract_expiry_date",
+    "attribute_values": [],
+    "regex_pattern": null,
+    "regex_cue": null,
+    "created_at": "2024-10-01T21:31:46.827363",
+    "updated_at": "2025-03-25T17:46:53.678679"
+  },
+  {
+    "attribute_display_name": "Priority Level",
+    "attribute_description": "Support priority assigned to this conversation.",
+    "attribute_model": 1,
+    "attribute_display_type": 6,
+    "attribute_key": "priority_level",
+    "attribute_values": [
+      "Low",
+      "Medium",
+      "High",
+      "Urgent"
+    ],
+    "regex_pattern": null,
+    "regex_cue": null,
+    "created_at": "2024-10-24T03:18:48.860489",
+    "updated_at": "2025-06-24T23:09:37.164834"
+  },
+  {
+    "attribute_display_name": "Requires Technical Review",
+    "attribute_description": "Indicates if this conversation needs assistance from the technical team.",
+    "attribute_model": 1,
+    "attribute_display_type": 7,
+    "attribute_key": "requires_technical_review",
+    "attribute_values": [],
+    "regex_pattern": null,
+    "regex_cue": null,
+    "created_at": "2025-07-23T21:59:37.333170",
+    "updated_at": "2025-07-30T12:34:31.902048"
+  },
+  {
+    "attribute_display_name": "Product Version",
+    "attribute_description": "Product version currently used by the customer.",
+    "attribute_model": 0,
+    "attribute_display_type": 6,
+    "attribute_key": "product_version",
+    "attribute_values": [
+      "Standard",
+      "Professional",
+      "Enterprise"
+    ],
+    "regex_pattern": null,
+    "regex_cue": null,
+    "created_at": "2024-11-07T15:15:18.434103",
+    "updated_at": "2024-11-08T18:35:14.884459"
+  },
+  {
+    "attribute_display_name": "Knowledgebase Link",
+    "attribute_description": "URL to the relevant documentation or knowledge base article for this conversation.",
+    "attribute_model": 1,
+    "attribute_display_type": 4,
+    "attribute_key": "knowledgebase_link",
+    "attribute_values": [],
+    "regex_pattern": null,
+    "regex_cue": null,
+    "created_at": "2025-02-06T16:32:01.881893",
+    "updated_at": "2025-07-26T03:17:33.155996"
+  },
+  {
+    "attribute_display_name": "Feature Request ID",
+    "attribute_description": "Unique identifier for any feature request associated with this conversation.",
+    "attribute_model": 1,
+    "attribute_display_type": 1,
+    "attribute_key": "feature_request_id",
+    "attribute_values": [],
+    "regex_pattern": null,
+    "regex_cue": null,
+    "created_at": "2024-10-11T04:38:32.141888",
+    "updated_at": "2025-06-15T11:22:27.026298"
+  }
+]

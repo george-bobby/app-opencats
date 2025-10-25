@@ -1,0 +1,79 @@
+[
+  {
+    "number": "101",
+    "currency_code": "USD",
+    "opening_balance": 20000,
+    "bank_name": "First National Bank",
+    "bank_phone": "555-101-2020",
+    "bank_address": "123 Checking St, Moneytown, USA",
+    "enabled": 1,
+    "type": "bank",
+    "name": "Checking"
+  },
+  {
+    "number": "102",
+    "currency_code": "USD",
+    "opening_balance": 50000,
+    "bank_name": "First National Bank",
+    "bank_phone": "555-102-2020",
+    "bank_address": "456 Savings Ave, Moneytown, USA",
+    "enabled": 1,
+    "type": "bank",
+    "name": "Savings"
+  },
+  {
+    "number": "103",
+    "currency_code": "USD",
+    "opening_balance": 7000,
+    "bank_name": "PayPal Holdings",
+    "bank_phone": "",
+    "bank_address": "Online Payments",
+    "enabled": 1,
+    "type": "bank",
+    "name": "PayPal"
+  },
+  {
+    "number": "104",
+    "currency_code": "USD",
+    "opening_balance": 6000,
+    "bank_name": "Stripe Inc",
+    "bank_phone": "",
+    "bank_address": "Online Processing",
+    "enabled": 1,
+    "type": "bank",
+    "name": "Stripe"
+  },
+  {
+    "number": "105",
+    "currency_code": "USD",
+    "opening_balance": 500,
+    "bank_name": "",
+    "bank_phone": "",
+    "bank_address": "",
+    "enabled": 1,
+    "type": "cash",
+    "name": "Petty Cash"
+  },
+  {
+    "number": "201",
+    "currency_code": "USD",
+    "opening_balance": 2000,
+    "bank_name": "Card Services Inc.",
+    "bank_phone": "",
+    "bank_address": "",
+    "enabled": 1,
+    "type": "credit_card",
+    "name": "Company Credit Card - Visa"
+  },
+  {
+    "number": "202",
+    "currency_code": "USD",
+    "opening_balance": 0,
+    "bank_name": "Card Services Inc.",
+    "bank_phone": "",
+    "bank_address": "",
+    "enabled": 1,
+    "type": "credit_card",
+    "name": "Company Credit Card - Mastercard"
+  }
+]

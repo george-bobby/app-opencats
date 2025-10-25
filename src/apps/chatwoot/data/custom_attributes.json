@@ -1,0 +1,119 @@
+[
+    {
+        "attribute_display_name": "Subscription Plan",
+        "attribute_description": "Plan associated with the contact",
+        "attribute_model": 0,
+        "attribute_display_type": 6,
+        "attribute_key": "subscription_plan",
+        "attribute_values": [
+            "Free",
+            "Basic",
+            "Pro",
+            "Enterprise"
+        ],
+        "regex_pattern": null,
+        "regex_cue": null
+    },
+    {
+        "attribute_display_name": "Customer Since",
+        "attribute_description": "Customer Since",
+        "attribute_model": 0,
+        "attribute_display_type": 5,
+        "attribute_key": "customer_since",
+        "attribute_values": [],
+        "regex_pattern": null,
+        "regex_cue": null
+    },
+    {
+        "attribute_display_name": "Lifetime Value ($)",
+        "attribute_description": "Total revenue associated with the contact",
+        "attribute_model": 0,
+        "attribute_display_type": 1,
+        "attribute_key": "lifetime_value",
+        "attribute_values": [],
+        "regex_pattern": null,
+        "regex_cue": null
+    },
+    {
+        "attribute_display_name": "Most Ordered Item",
+        "attribute_description": "Product the customer most frequently orders",
+        "attribute_model": 0,
+        "attribute_display_type": 1,
+        "attribute_key": "most_ordered_item",
+        "attribute_values": [],
+        "regex_pattern": null,
+        "regex_cue": null
+    },
+    {
+        "attribute_display_name": "Order History Link",
+        "attribute_description": "URL to the customer's most recent order",
+        "attribute_model": 1,
+        "attribute_display_type": 4,
+        "attribute_key": "order_link",
+        "attribute_values": [],
+        "regex_pattern": null,
+        "regex_cue": null
+    },
+    {
+        "attribute_display_name": "Requires Follow-Up",
+        "attribute_description": "Flag for whether the issue needs a future follow-up",
+        "attribute_model": 1,
+        "attribute_display_type": 7,
+        "attribute_key": "requires_follow_up",
+        "attribute_values": [],
+        "regex_pattern": null,
+        "regex_cue": null
+    },
+    {
+        "attribute_display_name": "Preferred Channel",
+        "attribute_description": "Channel preferred by customer for communication",
+        "attribute_model": 0,
+        "attribute_display_type": 6,
+        "attribute_key": "preferred_channel",
+        "attribute_values": [
+            "Email",
+            "WhatsApp"
+        ],
+        "regex_pattern": null,
+        "regex_cue": null
+    },
+    {
+        "attribute_display_name": "Customer Tier",
+        "attribute_description": "Categorizes customers by value or engagement",
+        "attribute_model": 0,
+        "attribute_display_type": 6,
+        "attribute_key": "customer_tier",
+        "attribute_values": [
+            "Bronze",
+            "Silver",
+            "Gold",
+            "Platinum"
+        ],
+        "regex_pattern": null,
+        "regex_cue": null
+    },
+    {
+        "attribute_display_name": "Engagement Level",
+        "attribute_description": "Measures how actively a customer uses the product or service",
+        "attribute_model": 0,
+        "attribute_display_type": 6,
+        "attribute_key": "engagement_level",
+        "attribute_values": [
+            "Low",
+            "Medium",
+            "High"
+        ],
+        "regex_pattern": null,
+        "regex_cue": null
+    },
+    {
+        "attribute_display_name": "Feedback Sentiment",
+        "attribute_description": "Text-based sentiment classification from recent feedback",
+        "attribute_model": 1,
+        "attribute_display_type": 1,
+        "attribute_key": "feedback_sentiment",
+        "attribute_values": [],
+        "regex_pattern": null,
+        "regex_cue": null
+    }
+]

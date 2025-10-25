@@ -1,0 +1,282 @@
+[
+  {
+    "doctype": "User",
+    "email": "wayne.george@acmeinc.com",
+    "first_name": "Wayne",
+    "last_name": "George",
+    "send_welcome_email": 0,
+    "user_type": "System User",
+    "roles": [
+      {
+        "role": "Sales User"
+      }
+    ],
+    "new_password": "acmeincuser"
+  },
+  {
+    "doctype": "User",
+    "email": "lori.wang@acmeinc.com",
+    "first_name": "Lori",
+    "last_name": "Wang",
+    "send_welcome_email": 0,
+    "user_type": "System User",
+    "roles": [
+      {
+        "role": "Sales User"
+      }
+    ],
+    "new_password": "acmeincuser"
+  },
+  {
+    "doctype": "User",
+    "email": "sheila.davenport@acmeinc.com",
+    "first_name": "Sheila",
+    "last_name": "Davenport",
+    "send_welcome_email": 0,
+    "user_type": "System User",
+    "roles": [
+      {
+        "role": "Sales User"
+      }
+    ],
+    "new_password": "acmeincuser"
+  },
+  {
+    "doctype": "User",
+    "email": "christopher.welch@acmeinc.com",
+    "first_name": "Christopher",
+    "last_name": "Welch",
+    "send_welcome_email": 0,
+    "user_type": "System User",
+    "roles": [
+      {
+        "role": "Sales User"
+      }
+    ],
+    "new_password": "acmeincuser"
+  },
+  {
+    "doctype": "User",
+    "email": "alison.cummings@acmeinc.com",
+    "first_name": "Alison",
+    "last_name": "Cummings",
+    "send_welcome_email": 0,
+    "user_type": "System User",
+    "roles": [
+      {
+        "role": "Sales User"
+      }
+    ],
+    "new_password": "acmeincuser"
+  },
+  {
+    "doctype": "User",
+    "email": "john.montgomery@acmeinc.com",
+    "first_name": "John",
+    "last_name": "Montgomery",
+    "send_welcome_email": 0,
+    "user_type": "System User",
+    "roles": [
+      {
+        "role": "Sales User"
+      }
+    ],
+    "new_password": "acmeincuser"
+  },
+  {
+    "doctype": "User",
+    "email": "erica.holloway@acmeinc.com",
+    "first_name": "Erica",
+    "last_name": "Holloway",
+    "send_welcome_email": 0,
+    "user_type": "System User",
+    "roles": [
+      {
+        "role": "Sales User"
+      }
+    ],
+    "new_password": "acmeincuser"
+  },
+  {
+    "doctype": "User",
+    "email": "benjamin.morris@acmeinc.com",
+    "first_name": "Benjamin",
+    "last_name": "Morris",
+    "send_welcome_email": 0,
+    "user_type": "System User",
+    "roles": [
+      {
+        "role": "Sales User"
+      }
+    ],
+    "new_password": "acmeincuser"
+  },
+  {
+    "doctype": "User",
+    "email": "cathy.nelson@acmeinc.com",
+    "first_name": "Cathy",
+    "last_name": "Nelson",
+    "send_welcome_email": 0,
+    "user_type": "System User",
+    "roles": [
+      {
+        "role": "Sales User"
+      }
+    ],
+    "new_password": "acmeincuser"
+  },
+  {
+    "doctype": "User",
+    "email": "william.martinez@acmeinc.com",
+    "first_name": "William",
+    "last_name": "Martinez",
+    "send_welcome_email": 0,
+    "user_type": "System User",
+    "roles": [
+      {
+        "role": "Sales User"
+      }
+    ],
+    "new_password": "acmeincuser"
+  },
+  {
+    "doctype": "User",
+    "email": "jennifer.mosley@acmeinc.com",
+    "first_name": "Jennifer",
+    "last_name": "Mosley",
+    "send_welcome_email": 0,
+    "user_type": "System User",
+    "roles": [
+      {
+        "role": "Sales User"
+      }
+    ],
+    "new_password": "acmeincuser"
+  },
+  {
+    "doctype": "User",
+    "email": "christopher.powell@acmeinc.com",
+    "first_name": "Christopher",
+    "last_name": "Powell",
+    "send_welcome_email": 0,
+    "user_type": "System User",
+    "roles": [
+      {
+        "role": "Sales User"
+      }
+    ],
+    "new_password": "acmeincuser"
+  },
+  {
+    "doctype": "User",
+    "email": "dawn.greene@acmeinc.com",
+    "first_name": "Dawn",
+    "last_name": "Greene",
+    "send_welcome_email": 0,
+    "user_type": "System User",
+    "roles": [
+      {
+        "role": "Sales User"
+      }
+    ],
+    "new_password": "acmeincuser"
+  },
+  {
+    "doctype": "User",
+    "email": "sandra.thomas@acmeinc.com",
+    "first_name": "Sandra",
+    "last_name": "Thomas",
+    "send_welcome_email": 0,
+    "user_type": "System User",
+    "roles": [
+      {
+        "role": "Sales User"
+      }
+    ],
+    "new_password": "acmeincuser"
+  },
+  {
+    "doctype": "User",
+    "email": "brenda.thompson@acmeinc.com",
+    "first_name": "Brenda",
+    "last_name": "Thompson",
+    "send_welcome_email": 0,
+    "user_type": "System User",
+    "roles": [
+      {
+        "role": "Sales User"
+      }
+    ],
+    "new_password": "acmeincuser"
+  },
+  {
+    "doctype": "User",
+    "email": "william.golden@acmeinc.com",
+    "first_name": "William",
+    "last_name": "Golden",
+    "send_welcome_email": 0,
+    "user_type": "System User",
+    "roles": [
+      {
+        "role": "Sales User"
+      }
+    ],
+    "new_password": "acmeincuser"
+  },
+  {
+    "doctype": "User",
+    "email": "joshua.jones@acmeinc.com",
+    "first_name": "Joshua",
+    "last_name": "Jones",
+    "send_welcome_email": 0,
+    "user_type": "System User",
+    "roles": [
+      {
+        "role": "Sales User"
+      }
+    ],
+    "new_password": "acmeincuser"
+  },
+  {
+    "doctype": "User",
+    "email": "gregory.sullivan@acmeinc.com",
+    "first_name": "Gregory",
+    "last_name": "Sullivan",
+    "send_welcome_email": 0,
+    "user_type": "System User",
+    "roles": [
+      {
+        "role": "Sales User"
+      }
+    ],
+    "new_password": "acmeincuser"
+  },
+  {
+    "doctype": "User",
+    "email": "sara.moreno@acmeinc.com",
+    "first_name": "Sara",
+    "last_name": "Moreno",
+    "send_welcome_email": 0,
+    "user_type": "System User",
+    "roles": [
+      {
+        "role": "Sales User"
+      }
+    ],
+    "new_password": "acmeincuser"
+  },
+  {
+    "doctype": "User",
+    "email": "margaret.morton@acmeinc.com",
+    "first_name": "Margaret",
+    "last_name": "Morton",
+    "send_welcome_email": 0,
+    "user_type": "System User",
+    "roles": [
+      {
+        "role": "Sales User"
+      }
+    ],
+    "new_password": "acmeincuser"
+  }
+]

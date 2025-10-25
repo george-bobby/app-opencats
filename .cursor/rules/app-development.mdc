@@ -1,0 +1,9 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+- Always use src/apps/medusa structure and coding pattern as ground truth, do not deviate while creating a new app.
+- Always write a similar cli for each app just like [medusa_cli.py](mdc:src/apps/medusa/medusa_cli.py) and plug it into [cli.py](mdc:src/cli.py) : up, down, geenrate and seed will be four only and mandatory functions.
+- Always make sure to update the [pyproject.toml](mdc:pyproject.toml) dependencies whenever a new package is installed.
+

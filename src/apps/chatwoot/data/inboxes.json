@@ -1,0 +1,411 @@
+[
+    {
+        "name": "Live Chat - Support Team",
+        "greeting_enabled": true,
+        "greeting_message": "Welcome to our support team! How can we help you today?",
+        "channel": {
+            "type": "web_widget",
+            "website_url": "https://acme.inc/support",
+            "widget_color": "#009CE0",
+            "welcome_title": "Support Team",
+            "welcome_tagline": "We're here to help!"
+        }
+    },
+    {
+        "name": "Live Chat - Sales Team",
+        "greeting_enabled": true,
+        "greeting_message": "Welcome! Ready to explore our solutions?",
+        "channel": {
+            "type": "web_widget",
+            "website_url": "https://acme.inc/sales",
+            "widget_color": "#00A86B",
+            "welcome_title": "Sales Team",
+            "welcome_tagline": "Let's discuss your needs"
+        }
+    },
+    {
+        "name": "Website Onboarding Help",
+        "greeting_enabled": true,
+        "greeting_message": "Welcome! Need help getting started?",
+        "channel": {
+            "type": "web_widget",
+            "website_url": "https://acme.inc/onboarding",
+            "widget_color": "#FF6B6B",
+            "welcome_title": "Onboarding Support",
+            "welcome_tagline": "Let's get you set up"
+        }
+    },
+    {
+        "name": "Website Feedback Bot",
+        "greeting_enabled": true,
+        "greeting_message": "Hi! I'm here to collect your feedback.",
+        "channel": {
+            "type": "web_widget",
+            "website_url": "https://acme.inc/feedback",
+            "widget_color": "#6B66FF",
+            "welcome_title": "Feedback Bot",
+            "welcome_tagline": "Share your thoughts"
+        }
+    },
+    {
+        "name": "Pre-Sales Chat",
+        "greeting_enabled": true,
+        "greeting_message": "Welcome! Have questions about our products?",
+        "channel": {
+            "type": "web_widget",
+            "website_url": "https://acme.inc/pre-sales",
+            "widget_color": "#FFB347",
+            "welcome_title": "Pre-Sales Support",
+            "welcome_tagline": "Let's find the right solution"
+        }
+    },
+    {
+        "name": "Post-Purchase Follow-up",
+        "greeting_enabled": true,
+        "greeting_message": "Thanks for your purchase! How can we help?",
+        "channel": {
+            "type": "web_widget",
+            "website_url": "https://acme.inc/post-purchase",
+            "widget_color": "#47B3FF",
+            "welcome_title": "Post-Purchase Support",
+            "welcome_tagline": "We're here to assist"
+        }
+    },
+    {
+        "name": "Help Center Widget",
+        "greeting_enabled": true,
+        "greeting_message": "Welcome to our Help Center!",
+        "channel": {
+            "type": "web_widget",
+            "website_url": "https://acme.inc/help",
+            "widget_color": "#4CAF50",
+            "welcome_title": "Help Center",
+            "welcome_tagline": "Find answers and support"
+        }
+    },
+    {
+        "name": "Chatbot Escalations",
+        "greeting_enabled": true,
+        "greeting_message": "I'll connect you with a human agent.",
+        "channel": {
+            "type": "web_widget",
+            "website_url": "https://acme.inc/chatbot",
+            "widget_color": "#9C27B0",
+            "welcome_title": "Human Support",
+            "welcome_tagline": "Connecting you to an agent"
+        }
+    },
+    {
+        "name": "Technical Support",
+        "greeting_enabled": true,
+        "greeting_message": "Technical Support at your service!",
+        "channel": {
+            "type": "web_widget",
+            "website_url": "https://acme.inc/tech-support",
+            "widget_color": "#2196F3",
+            "welcome_title": "Technical Support",
+            "welcome_tagline": "Let's solve technical issues"
+        }
+    },
+    {
+        "name": "Billing Queries",
+        "greeting_enabled": true,
+        "greeting_message": "Welcome to Billing Support!",
+        "channel": {
+            "type": "web_widget",
+            "website_url": "https://acme.inc/billing",
+            "widget_color": "#FF9800",
+            "welcome_title": "Billing Support",
+            "welcome_tagline": "Let's resolve your billing questions"
+        }
+    },
+    {
+        "name": "API - Webhook Orders",
+        "channel": {
+            "type": "api",
+            "webhook_url": "https://webhook.site/86afe1a2-379b-40d5-8be2-6efbf9cf40d8"
+        }
+    },
+    {
+        "name": "API - CRM Integrations",
+        "channel": {
+            "type": "api",
+            "webhook_url": "https://webhook.site/86afe1a2-379b-40d5-8be2-6efbf9cf40d9"
+        }
+    },
+    {
+        "name": "API - Billing Events",
+        "channel": {
+            "type": "api",
+            "webhook_url": "https://webhook.site/86afe1a2-379b-40d5-8be2-6efbf9cf40da"
+        }
+    },
+    {
+        "name": "API - Third-Party Alerts",
+        "channel": {
+            "type": "api",
+            "webhook_url": "https://webhook.site/86afe1a2-379b-40d5-8be2-6efbf9cf40db"
+        }
+    },
+    {
+        "name": "Customer SMS Notifications",
+        "channel": {
+            "type": "sms",
+            "phone_number": "+123456789",
+            "provider_config": {
+                "api_key": "123456789",
+                "api_secret": "123456789",
+                "application_id": "123456789",
+                "account_id": "123456789"
+            }
+        }
+    },
+    {
+        "name": "SMS - Order Updates",
+        "channel": {
+            "type": "sms",
+            "phone_number": "+123456790",
+            "provider_config": {
+                "api_key": "123456790",
+                "api_secret": "123456790",
+                "application_id": "123456790",
+                "account_id": "123456790"
+            }
+        }
+    },
+    {
+        "name": "SMS - Promotions",
+        "channel": {
+            "type": "sms",
+            "phone_number": "+123456791",
+            "provider_config": {
+                "api_key": "123456791",
+                "api_secret": "123456791",
+                "application_id": "123456791",
+                "account_id": "123456791"
+            }
+        }
+    },
+    {
+        "name": "SMS - Account Alerts",
+        "channel": {
+            "type": "sms",
+            "phone_number": "+123456792",
+            "provider_config": {
+                "api_key": "123456792",
+                "api_secret": "123456792",
+                "application_id": "123456792",
+                "account_id": "123456792"
+            }
+        }
+    },
+    {
+        "name": "SMS - Onboarding Tips",
+        "channel": {
+            "type": "sms",
+            "phone_number": "+123456793",
+            "provider_config": {
+                "api_key": "123456793",
+                "api_secret": "123456793",
+                "application_id": "123456793",
+                "account_id": "123456793"
+            }
+        }
+    },
+    {
+        "name": "SMS - Feedback Collection",
+        "channel": {
+            "type": "sms",
+            "phone_number": "+123456794",
+            "provider_config": {
+                "api_key": "123456794",
+                "api_secret": "123456794",
+                "application_id": "123456794",
+                "account_id": "123456794"
+            }
+        }
+    },
+    {
+        "name": "SMS - Renewal Reminders",
+        "channel": {
+            "type": "sms",
+            "phone_number": "+123456795",
+            "provider_config": {
+                "api_key": "123456795",
+                "api_secret": "123456795",
+                "application_id": "123456795",
+                "account_id": "123456795"
+            }
+        }
+    },
+    {
+        "name": "SMS - Support Callback Request",
+        "channel": {
+            "type": "sms",
+            "phone_number": "+123456796",
+            "provider_config": {
+                "api_key": "123456796",
+                "api_secret": "123456796",
+                "application_id": "123456796",
+                "account_id": "123456796"
+            }
+        }
+    },
+    {
+        "name": "SMS - Survey Distribution",
+        "channel": {
+            "type": "sms",
+            "phone_number": "+123456797",
+            "provider_config": {
+                "api_key": "123456797",
+                "api_secret": "123456797",
+                "application_id": "123456797",
+                "account_id": "123456797"
+            }
+        }
+    },
+    {
+        "name": "Support Inbox",
+        "channel": {
+            "type": "email",
+            "email": "support@acme.inc",
+            "imap_enabled": true,
+            "imap_address": "imap.acme.inc",
+            "imap_port": 993,
+            "imap_login": "support@acme.inc",
+            "imap_password": "password123"
+        }
+    },
+    {
+        "name": "Sales Leads",
+        "channel": {
+            "type": "email",
+            "email": "sales@acme.inc",
+            "imap_enabled": true,
+            "imap_address": "imap.acme.inc",
+            "imap_port": 993,
+            "imap_login": "sales@acme.inc",
+            "imap_password": "password123"
+        }
+    },
+    {
+        "name": "Account Management",
+        "channel": {
+            "type": "email",
+            "email": "accounts@acme.inc",
+            "imap_enabled": true,
+            "imap_address": "imap.acme.inc",
+            "imap_port": 993,
+            "imap_login": "accounts@acme.inc",
+            "imap_password": "password123"
+        }
+    },
+    {
+        "name": "Customer Success",
+        "channel": {
+            "type": "email",
+            "email": "success@acme.inc",
+            "imap_enabled": true,
+            "imap_address": "imap.acme.inc",
+            "imap_port": 993,
+            "imap_login": "success@acme.inc",
+            "imap_password": "password123"
+        }
+    },
+    {
+        "name": "Technical Escalations",
+        "channel": {
+            "type": "email",
+            "email": "tech-escalations@acme.inc",
+            "imap_enabled": true,
+            "imap_address": "imap.acme.inc",
+            "imap_port": 993,
+            "imap_login": "tech-escalations@acme.inc",
+            "imap_password": "password123"
+        }
+    },
+    {
+        "name": "Feedback & Suggestions",
+        "channel": {
+            "type": "email",
+            "email": "feedback@acme.inc",
+            "imap_enabled": true,
+            "imap_address": "imap.acme.inc",
+            "imap_port": 993,
+            "imap_login": "feedback@acme.inc",
+            "imap_password": "password123"
+        }
+    },
+    {
+        "name": "Billing Support",
+        "channel": {
+            "type": "email",
+            "email": "billing@acme.inc",
+            "imap_enabled": true,
+            "imap_address": "imap.acme.inc",
+            "imap_port": 993,
+            "imap_login": "billing@acme.inc",
+            "imap_password": "password123"
+        }
+    },
+    {
+        "name": "Marketing Outreach",
+        "channel": {
+            "type": "email",
+            "email": "marketing@acme.inc",
+            "imap_enabled": true,
+            "imap_address": "imap.acme.inc",
+            "imap_port": 993,
+            "imap_login": "marketing@acme.inc",
+            "imap_password": "password123"
+        }
+    },
+    {
+        "name": "Recruitment Inbox",
+        "channel": {
+            "type": "email",
+            "email": "recruitment@acme.inc",
+            "imap_enabled": true,
+            "imap_address": "imap.acme.inc",
+            "imap_port": 993,
+            "imap_login": "recruitment@acme.inc",
+            "imap_password": "password123"
+        }
+    },
+    {
+        "name": "Events and Partnerships",
+        "channel": {
+            "type": "email",
+            "email": "events@acme.inc",
+            "imap_enabled": true,
+            "imap_address": "imap.acme.inc",
+            "imap_port": 993,
+            "imap_login": "events@acme.inc",
+            "imap_password": "password123"
+        }
+    },
+    {
+        "name": "Press & Media",
+        "channel": {
+            "type": "email",
+            "email": "press@acme.inc",
+            "imap_enabled": true,
+            "imap_address": "imap.acme.inc",
+            "imap_port": 993,
+            "imap_login": "press@acme.inc",
+            "imap_password": "password123"
+        }
+    },
+    {
+        "name": "Executive Queries",
+        "channel": {
+            "type": "email",
+            "email": "executive@acme.inc",
+            "imap_enabled": true,
+            "imap_address": "imap.acme.inc",
+            "imap_port": 993,
+            "imap_login": "executive@acme.inc",
+            "imap_password": "password123"
+        }
+    }
+]

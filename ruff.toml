@@ -1,0 +1,17 @@
+# Ruff configuration
+line-length = 188
+target-version = "py312"
+
+[lint]
+select = ["E", "F", "I", "N", "UP", "B", "A", "C4", "SIM", "ARG", "PTH", "RUF"]
+ignore = ["SIM116", "RUF001", "B904"]  # Allow consecutive if statements and intentional unicode characters
+fixable = ["ALL"]
+
+[lint.isort]
+lines-after-imports = 2
+force-single-line = false
+known-first-party = ["apps", "common"]
+
+[format]
+quote-style = "double"
+indent-style = "space" 

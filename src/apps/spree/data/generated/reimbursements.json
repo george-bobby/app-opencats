@@ -1,0 +1,301 @@
+{
+  "reimbursements": [
+    {
+      "id": 1,
+      "customer_return_id": 1,
+      "order_id": 47,
+      "total": 313,
+      "reimbursement_status": "reimbursed",
+      "created_at": "2025-08-17 16:42:22",
+      "updated_at": "2025-08-19 16:42:22"
+    },
+    {
+      "id": 2,
+      "customer_return_id": 2,
+      "order_id": 54,
+      "total": 74,
+      "reimbursement_status": "pending",
+      "created_at": "2025-08-21 16:42:22",
+      "updated_at": "2025-08-21 16:42:22"
+    },
+    {
+      "id": 3,
+      "customer_return_id": 3,
+      "order_id": 76,
+      "total": 232,
+      "reimbursement_status": "reimbursed",
+      "created_at": "2025-08-20 16:42:22",
+      "updated_at": "2025-08-23 16:42:22"
+    },
+    {
+      "id": 4,
+      "customer_return_id": 4,
+      "order_id": 73,
+      "total": 255,
+      "reimbursement_status": "pending",
+      "created_at": "2025-08-29 16:42:22",
+      "updated_at": "2025-08-29 16:42:22"
+    },
+    {
+      "id": 5,
+      "customer_return_id": 5,
+      "order_id": 42,
+      "total": 243,
+      "reimbursement_status": "pending",
+      "created_at": "2025-08-19 16:42:22",
+      "updated_at": "2025-08-19 16:42:22"
+    },
+    {
+      "id": 6,
+      "customer_return_id": 6,
+      "order_id": 13,
+      "total": 123,
+      "reimbursement_status": "errored",
+      "created_at": "2025-09-03 16:42:22",
+      "updated_at": "2025-09-05 16:42:22"
+    },
+    {
+      "id": 7,
+      "customer_return_id": 7,
+      "order_id": 70,
+      "total": 354,
+      "reimbursement_status": "errored",
+      "created_at": "2025-08-10 16:42:22",
+      "updated_at": "2025-08-11 16:42:22"
+    },
+    {
+      "id": 8,
+      "customer_return_id": 8,
+      "order_id": 37,
+      "total": 319,
+      "reimbursement_status": "pending",
+      "created_at": "2025-08-20 16:42:22",
+      "updated_at": "2025-08-20 16:42:22"
+    },
+    {
+      "id": 9,
+      "customer_return_id": 9,
+      "order_id": 70,
+      "total": 78,
+      "reimbursement_status": "pending",
+      "created_at": "2025-08-31 16:42:22",
+      "updated_at": "2025-08-31 16:42:22"
+    },
+    {
+      "id": 10,
+      "customer_return_id": 10,
+      "order_id": 38,
+      "total": 198,
+      "reimbursement_status": "reimbursed",
+      "created_at": "2025-08-08 16:42:22",
+      "updated_at": "2025-08-11 16:42:22"
+    },
+    {
+      "id": 11,
+      "customer_return_id": 11,
+      "order_id": 64,
+      "total": 100,
+      "reimbursement_status": "reimbursed",
+      "created_at": "2025-08-13 16:42:22",
+      "updated_at": "2025-08-15 16:42:22"
+    },
+    {
+      "id": 12,
+      "customer_return_id": 12,
+      "order_id": 41,
+      "total": 46,
+      "reimbursement_status": "pending",
+      "created_at": "2025-08-21 16:42:22",
+      "updated_at": "2025-08-21 16:42:22"
+    },
+    {
+      "id": 13,
+      "customer_return_id": 13,
+      "order_id": 82,
+      "total": 199,
+      "reimbursement_status": "reimbursed",
+      "created_at": "2025-08-06 16:42:22",
+      "updated_at": "2025-08-11 16:42:22"
+    },
+    {
+      "id": 14,
+      "customer_return_id": 14,
+      "order_id": 60,
+      "total": 281,
+      "reimbursement_status": "reimbursed",
+      "created_at": "2025-08-14 16:42:22",
+      "updated_at": "2025-08-17 16:42:22"
+    },
+    {
+      "id": 15,
+      "customer_return_id": 15,
+      "order_id": 24,
+      "total": 247,
+      "reimbursement_status": "pending",
+      "created_at": "2025-08-26 16:42:22",
+      "updated_at": "2025-08-26 16:42:22"
+    },
+    {
+      "id": 16,
+      "customer_return_id": 16,
+      "order_id": 3,
+      "total": 25,
+      "reimbursement_status": "reimbursed",
+      "created_at": "2025-08-09 16:42:22",
+      "updated_at": "2025-08-10 16:42:22"
+    },
+    {
+      "id": 17,
+      "customer_return_id": 17,
+      "order_id": 87,
+      "total": 179,
+      "reimbursement_status": "reimbursed",
+      "created_at": "2025-08-09 16:42:22",
+      "updated_at": "2025-08-12 16:42:22"
+    },
+    {
+      "id": 18,
+      "customer_return_id": 18,
+      "order_id": 16,
+      "total": 111,
+      "reimbursement_status": "pending",
+      "created_at": "2025-08-10 16:42:22",
+      "updated_at": "2025-08-10 16:42:22"
+    },
+    {
+      "id": 19,
+      "customer_return_id": 19,
+      "order_id": 60,
+      "total": 111,
+      "reimbursement_status": "pending",
+      "created_at": "2025-08-23 16:42:22",
+      "updated_at": "2025-08-23 16:42:22"
+    },
+    {
+      "id": 20,
+      "customer_return_id": 20,
+      "order_id": 16,
+      "total": 345,
+      "reimbursement_status": "reimbursed",
+      "created_at": "2025-08-26 16:42:22",
+      "updated_at": "2025-08-27 16:42:22"
+    },
+    {
+      "id": 21,
+      "customer_return_id": 21,
+      "order_id": 82,
+      "total": 312,
+      "reimbursement_status": "reimbursed",
+      "created_at": "2025-08-12 16:42:22",
+      "updated_at": "2025-08-13 16:42:22"
+    },
+    {
+      "id": 22,
+      "customer_return_id": 22,
+      "order_id": 80,
+      "total": 121,
+      "reimbursement_status": "reimbursed",
+      "created_at": "2025-08-27 16:42:22",
+      "updated_at": "2025-09-01 16:42:22"
+    },
+    {
+      "id": 23,
+      "customer_return_id": 23,
+      "order_id": 42,
+      "total": 52,
+      "reimbursement_status": "reimbursed",
+      "created_at": "2025-08-07 16:42:22",
+      "updated_at": "2025-08-12 16:42:22"
+    },
+    {
+      "id": 24,
+      "customer_return_id": 24,
+      "order_id": 33,
+      "total": 236,
+      "reimbursement_status": "pending",
+      "created_at": "2025-08-27 16:42:22",
+      "updated_at": "2025-08-27 16:42:22"
+    },
+    {
+      "id": 25,
+      "customer_return_id": 25,
+      "order_id": 32,
+      "total": 264,
+      "reimbursement_status": "pending",
+      "created_at": "2025-08-24 16:42:22",
+      "updated_at": "2025-08-24 16:42:22"
+    },
+    {
+      "id": 26,
+      "customer_return_id": 26,
+      "order_id": 1,
+      "total": 86,
+      "reimbursement_status": "errored",
+      "created_at": "2025-08-07 16:42:22",
+      "updated_at": "2025-08-10 16:42:22"
+    },
+    {
+      "id": 27,
+      "customer_return_id": 27,
+      "order_id": 38,
+      "total": 92,
+      "reimbursement_status": "reimbursed",
+      "created_at": "2025-08-08 16:42:22",
+      "updated_at": "2025-08-12 16:42:22"
+    },
+    {
+      "id": 28,
+      "customer_return_id": 28,
+      "order_id": 45,
+      "total": 152,
+      "reimbursement_status": "pending",
+      "created_at": "2025-08-25 16:42:22",
+      "updated_at": "2025-08-25 16:42:22"
+    },
+    {
+      "id": 29,
+      "customer_return_id": 29,
+      "order_id": 60,
+      "total": 157,
+      "reimbursement_status": "reimbursed",
+      "created_at": "2025-09-01 16:42:22",
+      "updated_at": "2025-09-04 16:42:22"
+    },
+    {
+      "id": 30,
+      "customer_return_id": 30,
+      "order_id": 3,
+      "total": 151,
+      "reimbursement_status": "pending",
+      "created_at": "2025-08-27 16:42:22",
+      "updated_at": "2025-08-27 16:42:22"
+    },
+    {
+      "id": 31,
+      "customer_return_id": 31,
+      "order_id": 47,
+      "total": 389,
+      "reimbursement_status": "pending",
+      "created_at": "2025-08-25 16:42:22",
+      "updated_at": "2025-08-25 16:42:22"
+    },
+    {
+      "id": 32,
+      "customer_return_id": 32,
+      "order_id": 16,
+      "total": 105,
+      "reimbursement_status": "pending",
+      "created_at": "2025-08-23 16:42:22",
+      "updated_at": "2025-08-23 16:42:22"
+    },
+    {
+      "id": 33,
+      "customer_return_id": 33,
+      "order_id": 58,
+      "total": 358,
+      "reimbursement_status": "reimbursed",
+      "created_at": "2025-08-17 16:42:22",
+      "updated_at": "2025-08-21 16:42:22"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+name: spree
+services:
+  web:
+    build:
+      context: https://github.com/spree/spree_starter.git#5fcd8cccb34f4b4922226d0516f9c5b2a3900e8d
+    user: root
+    ports:
+      - "3000:3000"
+    environment:
+      - DATABASE_URL=postgres://${POSTGRES_USER}:${POSTGRES_PASSWORD}@postgres:5432/${POSTGRES_DB}
+      - REDIS_URL=redis://redis:6379/0
+      - SECRET_KEY_BASE=${SECRET_KEY_BASE}
+      - RAILS_ENV=development
+      - ADMIN_EMAIL=${SPREE_ADMIN_EMAIL}
+      - ADMIN_PASSWORD=${SPREE_ADMIN_PASSWORD}
+      - RAILS_SERVE_STATIC_FILES=true
+      - RAILS_DEVELOPMENT_HOSTS=${RAILS_DEVELOPMENT_HOSTS}
+    command: >
+      sh -c "
+        if [ ! -f /tmp/first_boot_complete ]; then \
+          bin/rails db:prepare && \
+          bin/rails db:migrate && \
+          touch /tmp/first_boot_complete; \
+        fi && \
+        bin/rails server -b 0.0.0.0
+      "
+    volumes:
+      - ./storage:/rails/storage
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    networks:
+      - spree_network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3000"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+      start_period: 5s
+
+  postgres:
+    image: postgres:15
+    environment:
+      - POSTGRES_USER=${POSTGRES_USER}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+      - POSTGRES_DB=${POSTGRES_DB}
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - spree_network
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER} -d ${POSTGRES_DB}"]
+      interval: 5s
+      timeout: 1s
+      retries: 10
+
+  redis:
+    image: redis:7
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    networks:
+      - spree_network
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  ready:
+    image: busybox:latest
+    command: echo "Spree is ready!"
+    depends_on:
+      web:
+        condition: service_healthy
+
+networks:
+  spree_network:
+    name: spree_network
+
+volumes:
+  postgres_data:
+  redis_data:

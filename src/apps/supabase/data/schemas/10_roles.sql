@@ -1,0 +1,1 @@
+ALTER ROLE supabase_realtime_admin WITH LOGIN;

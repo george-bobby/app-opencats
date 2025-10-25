@@ -1,0 +1,488 @@
+[
+    {
+        "product": "Cordless Electric Kettle",
+        "components": [
+            {
+                "name": "Heating Element",
+                "category": "Components - Hardware"
+            },
+            {
+                "name": "Plastic Body",
+                "category": "Raw Materials - Plastics"
+            }
+        ],
+        "operations": [
+            {
+                "name": "Assemble Heating Element",
+                "work_center": "Assembly Line A",
+                "description": "Assemble the heating element into the kettle body.",
+                "duration": 15
+            },
+            {
+                "name": "Quality Check",
+                "work_center": "Quality Control",
+                "description": "Ensure the kettle meets safety and quality standards.",
+                "duration": 10
+            }
+        ]
+    },
+    {
+        "product": "Bluetooth Noise-Cancelling Headphones",
+        "components": [
+            {
+                "name": "Ear Cups",
+                "category": "Components - Electronics"
+            },
+            {
+                "name": "Noise-Cancellation Chip",
+                "category": "Subassemblies - Electronics"
+            }
+        ],
+        "operations": [
+            {
+                "name": "Install Ear Cups",
+                "work_center": "Assembly Line A",
+                "description": "Attach the ear cups to the headband.",
+                "duration": 20
+            },
+            {
+                "name": "Final Inspection",
+                "work_center": "Final Inspection",
+                "description": "Check for sound quality and functionality.",
+                "duration": 15
+            }
+        ]
+    },
+    {
+        "product": "Men's Casual T-Shirt",
+        "components": [
+            {
+                "name": "Cotton Fabric - Blue",
+                "category": "Raw Materials - Textiles"
+            },
+            {
+                "name": "Label",
+                "category": "Components - Hardware"
+            }
+        ],
+        "operations": [
+            {
+                "name": "Cut Fabric",
+                "work_center": "Cutting & Prep Station",
+                "description": "Cut the fabric to the required dimensions.",
+                "duration": 30
+            },
+            {
+                "name": "Sewing",
+                "work_center": "Assembly Line A",
+                "description": "Sew the pieces together to form a t-shirt.",
+                "duration": 40
+            }
+        ]
+    },
+    {
+        "product": "Aloe Vera Moisturizing Lotion",
+        "components": [
+            {
+                "name": "Aloe Vera Extract",
+                "category": "Raw Materials - Chemicals"
+            },
+            {
+                "name": "Bottle",
+                "category": "Packaging & Shipping Materials"
+            }
+        ],
+        "operations": [
+            {
+                "name": "Mix Ingredients",
+                "work_center": "Assembly Line A",
+                "description": "Combine aloe vera extract with other ingredients.",
+                "duration": 25
+            },
+            {
+                "name": "Packaging",
+                "work_center": "Packaging Station",
+                "description": "Fill and seal the bottles with lotion.",
+                "duration": 15
+            }
+        ]
+    },
+    {
+        "product": "Office Desk Organizer",
+        "components": [
+            {
+                "name": "Wooden Base",
+                "category": "Raw Materials - Wood"
+            },
+            {
+                "name": "Plastic Compartments",
+                "category": "Raw Materials - Plastics"
+            }
+        ],
+        "operations": [
+            {
+                "name": "Assemble Compartments",
+                "work_center": "Assembly Line A",
+                "description": "Attach plastic compartments to the wooden base.",
+                "duration": 20
+            },
+            {
+                "name": "Quality Check",
+                "work_center": "Quality Control",
+                "description": "Inspect the organizer for defects.",
+                "duration": 10
+            }
+        ]
+    },
+    {
+        "product": "Gourmet Gift Basket",
+        "components": [
+            {
+                "name": "Wicker Basket",
+                "category": "Packaging & Shipping Materials"
+            },
+            {
+                "name": "Gourmet Snacks",
+                "category": "Raw Materials - Food"
+            }
+        ],
+        "operations": [
+            {
+                "name": "Assemble Basket",
+                "work_center": "Assembly Line A",
+                "description": "Put together the basket with snacks and items.",
+                "duration": 15
+            },
+            {
+                "name": "Final Inspection",
+                "work_center": "Final Inspection",
+                "description": "Ensure the basket is visually appealing and complete.",
+                "duration": 10
+            }
+        ]
+    },
+    {
+        "product": "Portable Phone Charger",
+        "components": [
+            {
+                "name": "Lithium Battery",
+                "category": "Components - Electronics"
+            },
+            {
+                "name": "Plastic Case",
+                "category": "Raw Materials - Plastics"
+            }
+        ],
+        "operations": [
+            {
+                "name": "Assemble Battery and Case",
+                "work_center": "Assembly Line A",
+                "description": "Combine the battery with the plastic case.",
+                "duration": 20
+            },
+            {
+                "name": "Quality Check",
+                "work_center": "Quality Control",
+                "description": "Test the charger for functionality.",
+                "duration": 15
+            }
+        ]
+    },
+    {
+        "product": "Women's Running Shoes",
+        "components": [
+            {
+                "name": "Shoe Upper",
+                "category": "Raw Materials - Textiles"
+            },
+            {
+                "name": "Rubber Sole",
+                "category": "Raw Materials - Rubber"
+            }
+        ],
+        "operations": [
+            {
+                "name": "Cut Shoe Upper",
+                "work_center": "Cutting & Prep Station",
+                "description": "Cut the upper part of the shoe from fabric.",
+                "duration": 30
+            },
+            {
+                "name": "Sew Sole",
+                "work_center": "Assembly Line A",
+                "description": "Attach the rubber sole to the shoe upper.",
+                "duration": 40
+            }
+        ]
+    },
+    {
+        "product": "Organic Shampoo",
+        "components": [
+            {
+                "name": "Organic Ingredients",
+                "category": "Raw Materials - Chemicals"
+            },
+            {
+                "name": "Bottle",
+                "category": "Packaging & Shipping Materials"
+            }
+        ],
+        "operations": [
+            {
+                "name": "Mix Ingredients",
+                "work_center": "Assembly Line A",
+                "description": "Combine organic ingredients to create shampoo.",
+                "duration": 25
+            },
+            {
+                "name": "Packaging",
+                "work_center": "Packaging Station",
+                "description": "Fill and seal the bottles with shampoo.",
+                "duration": 15
+            }
+        ]
+    },
+    {
+        "product": "LED Desk Lamp",
+        "components": [
+            {
+                "name": "LED Bulb",
+                "category": "Components - Electrical"
+            },
+            {
+                "name": "Lamp Shade",
+                "category": "Raw Materials - Plastics"
+            }
+        ],
+        "operations": [
+            {
+                "name": "Assemble Lamp Components",
+                "work_center": "Assembly Line A",
+                "description": "Put together the LED bulb and shade.",
+                "duration": 20
+            },
+            {
+                "name": "Quality Check",
+                "work_center": "Quality Control",
+                "description": "Inspect the lamp for functionality.",
+                "duration": 10
+            }
+        ]
+    },
+    {
+        "product": "Luxury Scented Candle",
+        "components": [
+            {
+                "name": "Wax",
+                "category": "Raw Materials - Chemicals"
+            },
+            {
+                "name": "Wick",
+                "category": "Components - Hardware"
+            }
+        ],
+        "operations": [
+            {
+                "name": "Melt Wax",
+                "work_center": "Cutting & Prep Station",
+                "description": "Melt the wax for candle making.",
+                "duration": 15
+            },
+            {
+                "name": "Pour Wax into Mold",
+                "work_center": "Assembly Line A",
+                "description": "Pour melted wax into candle molds.",
+                "duration": 20
+            }
+        ]
+    },
+    {
+        "product": "Wireless Gaming Mouse",
+        "components": [
+            {
+                "name": "Optical Sensor",
+                "category": "Components - Electronics"
+            },
+            {
+                "name": "Plastic Housing",
+                "category": "Raw Materials - Plastics"
+            }
+        ],
+        "operations": [
+            {
+                "name": "Assemble Mouse Components",
+                "work_center": "Assembly Line A",
+                "description": "Combine the optical sensor and housing.",
+                "duration": 20
+            },
+            {
+                "name": "Quality Check",
+                "work_center": "Quality Control",
+                "description": "Test the mouse for responsiveness and quality.",
+                "duration": 15
+            }
+        ]
+    },
+    {
+        "product": "Men's Dress Shirt",
+        "components": [
+            {
+                "name": "Cotton Fabric - White",
+                "category": "Raw Materials - Textiles"
+            },
+            {
+                "name": "Buttons",
+                "category": "Components - Hardware"
+            }
+        ],
+        "operations": [
+            {
+                "name": "Cut Fabric",
+                "work_center": "Cutting & Prep Station",
+                "description": "Cut the fabric to the required dimensions.",
+                "duration": 30
+            },
+            {
+                "name": "Sew Buttons",
+                "work_center": "Assembly Line A",
+                "description": "Attach buttons to the shirt.",
+                "duration": 15
+            }
+        ]
+    },
+    {
+        "product": "Herbal Face Mask",
+        "components": [
+            {
+                "name": "Herbal Ingredients",
+                "category": "Raw Materials - Chemicals"
+            },
+            {
+                "name": "Packaging",
+                "category": "Packaging & Shipping Materials"
+            }
+        ],
+        "operations": [
+            {
+                "name": "Mix Ingredients",
+                "work_center": "Assembly Line A",
+                "description": "Combine herbal ingredients to create face mask.",
+                "duration": 25
+            },
+            {
+                "name": "Packaging",
+                "work_center": "Packaging Station",
+                "description": "Fill and seal the jars with face mask.",
+                "duration": 15
+            }
+        ]
+    },
+    {
+        "product": "Folding Storage Bin",
+        "components": [
+            {
+                "name": "Fabric Material",
+                "category": "Raw Materials - Textiles"
+            },
+            {
+                "name": "Cardboard Base",
+                "category": "Raw Materials - Paper & Cardboard"
+            }
+        ],
+        "operations": [
+            {
+                "name": "Cut Fabric and Cardboard",
+                "work_center": "Cutting & Prep Station",
+                "description": "Cut fabric and cardboard to size.",
+                "duration": 30
+            },
+            {
+                "name": "Assemble Bin",
+                "work_center": "Assembly Line A",
+                "description": "Combine fabric and cardboard to create the bin.",
+                "duration": 20
+            }
+        ]
+    },
+    {
+        "product": "Gift Card",
+        "components": [
+            {
+                "name": "Cardstock",
+                "category": "Raw Materials - Paper & Cardboard"
+            },
+            {
+                "name": "Printing Ink",
+                "category": "Raw Materials - Chemicals"
+            }
+        ],
+        "operations": [
+            {
+                "name": "Print Design",
+                "work_center": "Assembly Line A",
+                "description": "Print the design on the cardstock.",
+                "duration": 15
+            },
+            {
+                "name": "Cut Cards",
+                "work_center": "Cutting & Prep Station",
+                "description": "Cut the printed cardstock into gift cards.",
+                "duration": 10
+            }
+        ]
+    },
+    {
+        "product": "Adjustable Ergonomic Chair",
+        "components": [
+            {
+                "name": "Chair Frame",
+                "category": "Components - Hardware"
+            },
+            {
+                "name": "Cushioning Material",
+                "category": "Raw Materials - Textiles"
+            }
+        ],
+        "operations": [
+            {
+                "name": "Assemble Frame and Cushion",
+                "work_center": "Assembly Line A",
+                "description": "Combine the frame with cushioning material.",
+                "duration": 20
+            },
+            {
+                "name": "Quality Check",
+                "work_center": "Quality Control",
+                "description": "Inspect the chair for comfort and functionality.",
+                "duration": 15
+            }
+        ]
+    },
+    {
+        "product": "Rechargeable Hand Warmer",
+        "components": [
+            {
+                "name": "Heating Element",
+                "category": "Components - Electronics"
+            },
+            {
+                "name": "Plastic Shell",
+                "category": "Raw Materials - Plastics"
+            }
+        ],
+        "operations": [
+            {
+                "name": "Assemble Heating Element",
+                "work_center": "Assembly Line A",
+                "description": "Combine the heating element with the plastic shell.",
+                "duration": 20
+            },
+            {
+                "name": "Quality Check",
+                "work_center": "Quality Control",
+                "description": "Test the hand warmer for heating efficiency.",
+                "duration": 15
+            }
+        ]
+    }
+]

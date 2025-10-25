@@ -1,0 +1,34 @@
+{
+  "reimbursement_types": [
+    {
+      "name": "Original Payment Method Refund",
+      "active": true,
+      "mutable": true,
+      "type": "Spree::ReimbursementType::OriginalPayment"
+    },
+    {
+      "name": "Product Exchange Credit",
+      "active": true,
+      "mutable": true,
+      "type": "Spree::ReimbursementType::Exchange"
+    },
+    {
+      "name": "Instant Store Credit",
+      "active": true,
+      "mutable": true,
+      "type": "Spree::ReimbursementType::StoreCredit"
+    },
+    {
+      "name": "Account Balance Credit",
+      "active": true,
+      "mutable": true,
+      "type": "Spree::ReimbursementType::Credit"
+    },
+    {
+      "name": "Pet Supply Store Credit",
+      "active": true,
+      "mutable": true,
+      "type": "Spree::ReimbursementType::StoreCredit"
+    }
+  ]
+}

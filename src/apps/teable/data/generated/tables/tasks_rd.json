@@ -1,0 +1,2331 @@
+{
+  "table_name": "Tasks",
+  "parent_workspace_name": "R&D",
+  "parent_base_name": "R&D",
+  "records": [
+    {
+      "fields": {
+        "Name": "Revise AI-driven campaign strategy",
+        "Due Date": "2025-07-12",
+        "Priority": "High",
+        "Estimated Hours": 12.5,
+        "Logged Hours": 3.8,
+        "Task Type": "Research",
+        "Tags": [
+          "Research",
+          "Urgent"
+        ],
+        "Created Date": "2025-02-11",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Experiment with predictive customer segmentation",
+        "Due Date": "2025-08-01",
+        "Priority": "Medium",
+        "Estimated Hours": 9.0,
+        "Logged Hours": 2.0,
+        "Task Type": "Experiment Setup",
+        "Tags": [
+          "Technical"
+        ],
+        "Created Date": "2024-11-22",
+        "Status": "To Do"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Document chatbot user experience findings",
+        "Due Date": "2025-07-05",
+        "Priority": "Low",
+        "Estimated Hours": 6.0,
+        "Logged Hours": 6.0,
+        "Task Type": "Documentation",
+        "Tags": [
+          "Documentation",
+          "Review Required"
+        ],
+        "Created Date": "2025-01-17",
+        "Status": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Analyze social media ad placement data",
+        "Due Date": "2025-07-20",
+        "Priority": "High",
+        "Estimated Hours": 15.0,
+        "Logged Hours": 7.5,
+        "Task Type": "Analysis",
+        "Tags": [
+          "Research",
+          "Technical"
+        ],
+        "Created Date": "2024-12-05",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop automated email personalization scripts",
+        "Due Date": "2025-07-30",
+        "Priority": "High",
+        "Estimated Hours": 20.0,
+        "Logged Hours": 12.0,
+        "Task Type": "Development",
+        "Tags": [
+          "Technical"
+        ],
+        "Created Date": "2025-03-15",
+        "Status": "To Do"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Review AI-powered SEO strategy implementation",
+        "Due Date": "2025-07-15",
+        "Priority": "Medium",
+        "Estimated Hours": 7.0,
+        "Logged Hours": 7.0,
+        "Task Type": "Review",
+        "Tags": [
+          "Review Required"
+        ],
+        "Created Date": "2025-06-01",
+        "Status": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Setup experiment for dynamic pricing AI models",
+        "Due Date": "2025-08-10",
+        "Priority": "High",
+        "Estimated Hours": 18.0,
+        "Logged Hours": 5.0,
+        "Task Type": "Experiment Setup",
+        "Tags": [
+          "Urgent",
+          "Research"
+        ],
+        "Created Date": "2024-10-29",
+        "Status": "To Do"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Document AI-driven social media growth case study",
+        "Due Date": "2025-07-22",
+        "Priority": "Low",
+        "Estimated Hours": 8.0,
+        "Logged Hours": 8.0,
+        "Task Type": "Documentation",
+        "Tags": [
+          "Documentation"
+        ],
+        "Created Date": "2024-09-30",
+        "Status": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Analyze customer sentiment dashboard metrics",
+        "Due Date": "2025-07-18",
+        "Priority": "High",
+        "Estimated Hours": 13.5,
+        "Logged Hours": 11.0,
+        "Task Type": "Analysis",
+        "Tags": [
+          "Research",
+          "Technical",
+          "Urgent"
+        ],
+        "Created Date": "2025-04-04",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop AI chatbot multilingual support features",
+        "Due Date": "2025-08-05",
+        "Priority": "Medium",
+        "Estimated Hours": 17.0,
+        "Logged Hours": 9.0,
+        "Task Type": "Development",
+        "Tags": [
+          "Technical"
+        ],
+        "Created Date": "2025-01-28",
+        "Status": "To Do"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Research behavioral pattern recognition improvements",
+        "Due Date": "2025-07-27",
+        "Priority": "Medium",
+        "Estimated Hours": 10.0,
+        "Logged Hours": 4.5,
+        "Task Type": "Research",
+        "Tags": [
+          "Research"
+        ],
+        "Created Date": "2025-05-05",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Experiment with automated influencer content creation",
+        "Due Date": "2025-08-12",
+        "Priority": "High",
+        "Estimated Hours": 21.0,
+        "Logged Hours": 8.0,
+        "Task Type": "Experiment Setup",
+        "Tags": [
+          "Technical",
+          "Urgent"
+        ],
+        "Created Date": "2024-12-19",
+        "Status": "To Do"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Document personalized marketing automation workflows",
+        "Due Date": "2025-07-25",
+        "Priority": "Low",
+        "Estimated Hours": 5.5,
+        "Logged Hours": 5.5,
+        "Task Type": "Documentation",
+        "Tags": [
+          "Documentation",
+          "Review Required"
+        ],
+        "Created Date": "2025-03-10",
+        "Status": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Analyze real-time audience segmentation data",
+        "Due Date": "2025-07-17",
+        "Priority": "High",
+        "Estimated Hours": 14.0,
+        "Logged Hours": 14.0,
+        "Task Type": "Analysis",
+        "Tags": [
+          "Research",
+          "Technical"
+        ],
+        "Created Date": "2025-04-26",
+        "Status": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop AI-powered brand monitoring tool",
+        "Due Date": "2025-07-29",
+        "Priority": "Medium",
+        "Estimated Hours": 16.0,
+        "Logged Hours": 8.0,
+        "Task Type": "Development",
+        "Tags": [
+          "Technical"
+        ],
+        "Created Date": "2025-02-03",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Review automated social media posting schedule",
+        "Due Date": "2025-07-19",
+        "Priority": "Low",
+        "Estimated Hours": 6.0,
+        "Logged Hours": 6.0,
+        "Task Type": "Review",
+        "Tags": [
+          "Review Required"
+        ],
+        "Created Date": "2025-01-14",
+        "Status": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Setup experiment for AI prediction of ad fatigue",
+        "Due Date": "2025-08-02",
+        "Priority": "High",
+        "Estimated Hours": 19.0,
+        "Logged Hours": 10.0,
+        "Task Type": "Experiment Setup",
+        "Tags": [
+          "Urgent",
+          "Research"
+        ],
+        "Created Date": "2025-03-22",
+        "Status": "To Do"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Document customer profiling automation methods",
+        "Due Date": "2025-07-23",
+        "Priority": "Low",
+        "Estimated Hours": 7.0,
+        "Logged Hours": 7.0,
+        "Task Type": "Documentation",
+        "Tags": [
+          "Documentation"
+        ],
+        "Created Date": "2025-04-10",
+        "Status": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Analyze campaign budget allocation AI outcomes",
+        "Due Date": "2025-07-28",
+        "Priority": "Medium",
+        "Estimated Hours": 12.0,
+        "Logged Hours": 6.0,
+        "Task Type": "Analysis",
+        "Tags": [
+          "Technical"
+        ],
+        "Created Date": "2024-11-18",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop AI chatbot training enhancement features",
+        "Due Date": "2025-07-31",
+        "Priority": "High",
+        "Estimated Hours": 18.5,
+        "Logged Hours": 15.0,
+        "Task Type": "Development",
+        "Tags": [
+          "Technical",
+          "Urgent"
+        ],
+        "Created Date": "2025-05-12",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Research AI-based market segmentation techniques",
+        "Due Date": "2025-07-21",
+        "Priority": "Medium",
+        "Estimated Hours": 11.0,
+        "Logged Hours": 3.0,
+        "Task Type": "Research",
+        "Tags": [
+          "Research"
+        ],
+        "Created Date": "2024-10-25",
+        "Status": "To Do"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Experiment with automated content repurposing",
+        "Due Date": "2025-08-08",
+        "Priority": "High",
+        "Estimated Hours": 20.0,
+        "Logged Hours": 19.0,
+        "Task Type": "Experiment Setup",
+        "Tags": [
+          "Urgent",
+          "Technical"
+        ],
+        "Created Date": "2025-02-20",
+        "Status": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Document AI-powered video ad testing results",
+        "Due Date": "2025-07-24",
+        "Priority": "Low",
+        "Estimated Hours": 5.0,
+        "Logged Hours": 5.0,
+        "Task Type": "Documentation",
+        "Tags": [
+          "Documentation",
+          "Review Required"
+        ],
+        "Created Date": "2024-12-10",
+        "Status": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Analyze AI-enabled display ad targeting performance",
+        "Due Date": "2025-07-16",
+        "Priority": "High",
+        "Estimated Hours": 13.0,
+        "Logged Hours": 7.0,
+        "Task Type": "Analysis",
+        "Tags": [
+          "Research",
+          "Technical"
+        ],
+        "Created Date": "2024-11-02",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop automated lead nurturing sequences",
+        "Due Date": "2025-08-06",
+        "Priority": "Medium",
+        "Estimated Hours": 16.5,
+        "Logged Hours": 9.5,
+        "Task Type": "Development",
+        "Tags": [
+          "Technical"
+        ],
+        "Created Date": "2025-04-14",
+        "Status": "To Do"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Review real-time competitor analysis dashboard",
+        "Due Date": "2025-07-26",
+        "Priority": "Low",
+        "Estimated Hours": 5.5,
+        "Logged Hours": 5.5,
+        "Task Type": "Review",
+        "Tags": [
+          "Review Required"
+        ],
+        "Created Date": "2025-01-23",
+        "Status": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Setup experiment for voice assistant marketing expansion",
+        "Due Date": "2025-08-11",
+        "Priority": "High",
+        "Estimated Hours": 18.0,
+        "Logged Hours": 12.0,
+        "Task Type": "Experiment Setup",
+        "Tags": [
+          "Urgent",
+          "Research"
+        ],
+        "Created Date": "2025-03-01",
+        "Status": "To Do"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Document campaign effectiveness AI insights",
+        "Due Date": "2025-07-13",
+        "Priority": "Low",
+        "Estimated Hours": 7.0,
+        "Logged Hours": 7.0,
+        "Task Type": "Documentation",
+        "Tags": [
+          "Documentation"
+        ],
+        "Created Date": "2024-10-21",
+        "Status": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Analyze automated email list segmentation results",
+        "Due Date": "2025-07-14",
+        "Priority": "Medium",
+        "Estimated Hours": 9.0,
+        "Logged Hours": 4.0,
+        "Task Type": "Analysis",
+        "Tags": [
+          "Research"
+        ],
+        "Created Date": "2025-05-20",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop AI-based competitor benchmarking tools",
+        "Due Date": "2025-07-30",
+        "Priority": "High",
+        "Estimated Hours": 19.5,
+        "Logged Hours": 18.0,
+        "Task Type": "Development",
+        "Tags": [
+          "Technical",
+          "Urgent"
+        ],
+        "Created Date": "2025-04-18",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Research AI-driven campaign ROI analysis methods",
+        "Due Date": "2025-08-04",
+        "Priority": "Medium",
+        "Estimated Hours": 10.0,
+        "Logged Hours": 5.0,
+        "Task Type": "Research",
+        "Tags": [
+          "Research"
+        ],
+        "Created Date": "2024-12-26",
+        "Status": "To Do"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Experiment with AI-powered customer segmentation",
+        "Due Date": "2025-07-20",
+        "Priority": "High",
+        "Estimated Hours": 14.0,
+        "Logged Hours": 9.0,
+        "Task Type": "Experiment Setup",
+        "Tags": [
+          "Urgent",
+          "Technical"
+        ],
+        "Created Date": "2025-02-15",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Document automated customer feedback analysis workflow",
+        "Due Date": "2025-07-22",
+        "Priority": "Low",
+        "Estimated Hours": 6.0,
+        "Logged Hours": 6.0,
+        "Task Type": "Documentation",
+        "Tags": [
+          "Documentation",
+          "Review Required"
+        ],
+        "Created Date": "2025-03-29",
+        "Status": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Analyze sentiment monitoring expansion metrics",
+        "Due Date": "2025-07-18",
+        "Priority": "High",
+        "Estimated Hours": 15.0,
+        "Logged Hours": 11.0,
+        "Task Type": "Analysis",
+        "Tags": [
+          "Research",
+          "Technical"
+        ],
+        "Created Date": "2025-01-05",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop real-time campaign optimization algorithms",
+        "Due Date": "2025-08-09",
+        "Priority": "Medium",
+        "Estimated Hours": 17.5,
+        "Logged Hours": 2.5,
+        "Task Type": "Development",
+        "Tags": [
+          "Technical"
+        ],
+        "Created Date": "2024-11-13",
+        "Status": "To Do"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Review AI chatbot ROI analysis findings",
+        "Due Date": "2025-07-17",
+        "Priority": "Low",
+        "Estimated Hours": 5.0,
+        "Logged Hours": 5.0,
+        "Task Type": "Review",
+        "Tags": [
+          "Review Required"
+        ],
+        "Created Date": "2025-01-30",
+        "Status": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Setup experiment for voice search optimization improvements",
+        "Due Date": "2025-08-03",
+        "Priority": "High",
+        "Estimated Hours": 16.0,
+        "Logged Hours": 15.5,
+        "Task Type": "Experiment Setup",
+        "Tags": [
+          "Urgent",
+          "Research"
+        ],
+        "Created Date": "2025-04-07",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Document AI-driven UX testing results",
+        "Due Date": "2025-07-25",
+        "Priority": "Low",
+        "Estimated Hours": 7.0,
+        "Logged Hours": 6.5,
+        "Task Type": "Documentation",
+        "Tags": [
+          "Documentation"
+        ],
+        "Created Date": "2024-12-03",
+        "Status": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Analyze automated brand monitoring effectiveness",
+        "Due Date": "2025-07-21",
+        "Priority": "Medium",
+        "Estimated Hours": 13.0,
+        "Logged Hours": 4.0,
+        "Task Type": "Analysis",
+        "Tags": [
+          "Research",
+          "Technical"
+        ],
+        "Created Date": "2025-03-30",
+        "Status": "To Do"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop predictive social media scheduling tool",
+        "Due Date": "2025-08-07",
+        "Priority": "High",
+        "Estimated Hours": 18.0,
+        "Logged Hours": 10.0,
+        "Task Type": "Development",
+        "Tags": [
+          "Technical",
+          "Urgent"
+        ],
+        "Created Date": "2025-05-08",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Review AI content gap analysis report",
+        "Due Date": "2025-07-28",
+        "Priority": "Low",
+        "Estimated Hours": 6.0,
+        "Logged Hours": 6.0,
+        "Task Type": "Review",
+        "Tags": [
+          "Review Required"
+        ],
+        "Created Date": "2025-02-25",
+        "Status": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Experiment with automated webinar promotions",
+        "Due Date": "2025-07-23",
+        "Priority": "High",
+        "Estimated Hours": 15.0,
+        "Logged Hours": 13.0,
+        "Task Type": "Experiment Setup",
+        "Tags": [
+          "Urgent",
+          "Research"
+        ],
+        "Created Date": "2024-11-07",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Document customer journey AI mapping techniques",
+        "Due Date": "2025-07-26",
+        "Priority": "Low",
+        "Estimated Hours": 8.0,
+        "Logged Hours": 7.5,
+        "Task Type": "Documentation",
+        "Tags": [
+          "Documentation"
+        ],
+        "Created Date": "2025-01-07",
+        "Status": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Analyze chatbot multilingual support usage data",
+        "Due Date": "2025-07-19",
+        "Priority": "Medium",
+        "Estimated Hours": 10.5,
+        "Logged Hours": 5.0,
+        "Task Type": "Analysis",
+        "Tags": [
+          "Technical"
+        ],
+        "Created Date": "2025-04-17",
+        "Status": "To Do"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop AI-powered customer segmentation features",
+        "Due Date": "2025-08-01",
+        "Priority": "High",
+        "Estimated Hours": 19.0,
+        "Logged Hours": 9.0,
+        "Task Type": "Development",
+        "Tags": [
+          "Technical",
+          "Urgent"
+        ],
+        "Created Date": "2025-03-05",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Review automated content scheduling workflow",
+        "Due Date": "2025-07-15",
+        "Priority": "Low",
+        "Estimated Hours": 5.5,
+        "Logged Hours": 5.5,
+        "Task Type": "Review",
+        "Tags": [
+          "Review Required"
+        ],
+        "Created Date": "2024-10-16",
+        "Status": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Setup experiment for AI-driven ad placement optimization",
+        "Due Date": "2025-08-13",
+        "Priority": "High",
+        "Estimated Hours": 20.0,
+        "Logged Hours": 18.0,
+        "Task Type": "Experiment Setup",
+        "Tags": [
+          "Urgent",
+          "Research"
+        ],
+        "Created Date": "2025-02-02",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Document predictive lead scoring model improvements",
+        "Due Date": "2025-07-31",
+        "Priority": "Low",
+        "Estimated Hours": 6.5,
+        "Logged Hours": 6.5,
+        "Task Type": "Documentation",
+        "Tags": [
+          "Documentation"
+        ],
+        "Created Date": "2024-11-27",
+        "Status": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Analyze automated lead qualification performance",
+        "Due Date": "2025-07-20",
+        "Priority": "Medium",
+        "Estimated Hours": 12.0,
+        "Logged Hours": 7.0,
+        "Task Type": "Analysis",
+        "Tags": [
+          "Technical"
+        ],
+        "Created Date": "2025-01-19",
+        "Status": "To Do"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop voice search analytics dashboard",
+        "Due Date": "2025-07-22",
+        "Priority": "High",
+        "Estimated Hours": 17.0,
+        "Logged Hours": 11.0,
+        "Task Type": "Development",
+        "Tags": [
+          "Technical",
+          "Urgent"
+        ],
+        "Created Date": "2025-03-19",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Review AI-powered loyalty programs design",
+        "Due Date": "2025-07-18",
+        "Priority": "Low",
+        "Estimated Hours": 6.0,
+        "Logged Hours": 6.0,
+        "Task Type": "Review",
+        "Tags": [
+          "Review Required"
+        ],
+        "Created Date": "2024-12-22",
+        "Status": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Experiment with campaign budget allocation AI",
+        "Due Date": "2025-08-06",
+        "Priority": "High",
+        "Estimated Hours": 15.0,
+        "Logged Hours": 9.0,
+        "Task Type": "Experiment Setup",
+        "Tags": [
+          "Urgent",
+          "Research"
+        ],
+        "Created Date": "2025-03-12",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Document real-time campaign analytics methods",
+        "Due Date": "2025-07-29",
+        "Priority": "Low",
+        "Estimated Hours": 7.5,
+        "Logged Hours": 7.5,
+        "Task Type": "Documentation",
+        "Tags": [
+          "Documentation"
+        ],
+        "Created Date": "2024-11-10",
+        "Status": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Analyze AI-powered video marketing impact",
+        "Due Date": "2025-07-14",
+        "Priority": "Medium",
+        "Estimated Hours": 11.0,
+        "Logged Hours": 6.0,
+        "Task Type": "Analysis",
+        "Tags": [
+          "Research"
+        ],
+        "Created Date": "2025-02-08",
+        "Status": "To Do"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop automated customer retention models",
+        "Due Date": "2025-08-08",
+        "Priority": "High",
+        "Estimated Hours": 18.0,
+        "Logged Hours": 14.0,
+        "Task Type": "Development",
+        "Tags": [
+          "Technical",
+          "Urgent"
+        ],
+        "Created Date": "2024-12-02",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Review social media crisis detection AI",
+        "Due Date": "2025-07-16",
+        "Priority": "Low",
+        "Estimated Hours": 6.5,
+        "Logged Hours": 6.5,
+        "Task Type": "Review",
+        "Tags": [
+          "Review Required"
+        ],
+        "Created Date": "2025-01-11",
+        "Status": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Setup experiment for AI prediction of customer churn",
+        "Due Date": "2025-08-10",
+        "Priority": "High",
+        "Estimated Hours": 20.0,
+        "Logged Hours": 15.0,
+        "Task Type": "Experiment Setup",
+        "Tags": [
+          "Urgent",
+          "Research"
+        ],
+        "Created Date": "2025-03-08",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Document AI-based social media moderation guidelines",
+        "Due Date": "2025-07-24",
+        "Priority": "Low",
+        "Estimated Hours": 7.0,
+        "Logged Hours": 7.0,
+        "Task Type": "Documentation",
+        "Tags": [
+          "Documentation"
+        ],
+        "Created Date": "2024-12-14",
+        "Status": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Analyze automated marketing compliance results",
+        "Due Date": "2025-07-27",
+        "Priority": "Medium",
+        "Estimated Hours": 13.0,
+        "Logged Hours": 5.0,
+        "Task Type": "Analysis",
+        "Tags": [
+          "Technical"
+        ],
+        "Created Date": "2025-02-20",
+        "Status": "To Do"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop AI-driven campaign ROI analysis tools",
+        "Due Date": "2025-07-30",
+        "Priority": "High",
+        "Estimated Hours": 19.0,
+        "Logged Hours": 17.0,
+        "Task Type": "Development",
+        "Tags": [
+          "Technical",
+          "Urgent"
+        ],
+        "Created Date": "2025-05-13",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Review predictive analytics for sales models",
+        "Due Date": "2025-07-21",
+        "Priority": "Low",
+        "Estimated Hours": 6.0,
+        "Logged Hours": 6.0,
+        "Task Type": "Review",
+        "Tags": [
+          "Review Required"
+        ],
+        "Created Date": "2024-11-05",
+        "Status": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Experiment with automated copywriting assistant",
+        "Due Date": "2025-08-05",
+        "Priority": "High",
+        "Estimated Hours": 16.5,
+        "Logged Hours": 8.0,
+        "Task Type": "Experiment Setup",
+        "Tags": [
+          "Urgent",
+          "Technical"
+        ],
+        "Created Date": "2025-04-02",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Document marketing funnel optimization strategies",
+        "Due Date": "2025-07-19",
+        "Priority": "Low",
+        "Estimated Hours": 6.0,
+        "Logged Hours": 6.0,
+        "Task Type": "Documentation",
+        "Tags": [
+          "Documentation"
+        ],
+        "Created Date": "2024-09-15",
+        "Status": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Analyze automated social listening expansion data",
+        "Due Date": "2025-07-22",
+        "Priority": "Medium",
+        "Estimated Hours": 11.0,
+        "Logged Hours": 3.0,
+        "Task Type": "Analysis",
+        "Tags": [
+          "Research"
+        ],
+        "Created Date": "2025-02-28",
+        "Status": "To Do"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop AI-powered prospect scoring algorithms",
+        "Due Date": "2025-08-01",
+        "Priority": "High",
+        "Estimated Hours": 18.0,
+        "Logged Hours": 11.0,
+        "Task Type": "Development",
+        "Tags": [
+          "Technical",
+          "Urgent"
+        ],
+        "Created Date": "2025-01-25",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Review real-time ad performance AI dashboard",
+        "Due Date": "2025-07-26",
+        "Priority": "Low",
+        "Estimated Hours": 5.0,
+        "Logged Hours": 5.0,
+        "Task Type": "Review",
+        "Tags": [
+          "Review Required"
+        ],
+        "Created Date": "2024-12-18",
+        "Status": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Setup experiment for AI content curation enhancement",
+        "Due Date": "2025-08-11",
+        "Priority": "High",
+        "Estimated Hours": 20.0,
+        "Logged Hours": 14.0,
+        "Task Type": "Experiment Setup",
+        "Tags": [
+          "Urgent",
+          "Research"
+        ],
+        "Created Date": "2025-03-28",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Document voice assistant marketing expansion plan",
+        "Due Date": "2025-07-28",
+        "Priority": "Low",
+        "Estimated Hours": 7.0,
+        "Logged Hours": 7.0,
+        "Task Type": "Documentation",
+        "Tags": [
+          "Documentation"
+        ],
+        "Created Date": "2024-11-15",
+        "Status": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Analyze AI-driven email campaigns engagement",
+        "Due Date": "2025-07-17",
+        "Priority": "Medium",
+        "Estimated Hours": 12.0,
+        "Logged Hours": 6.0,
+        "Task Type": "Analysis",
+        "Tags": [
+          "Research",
+          "Technical"
+        ],
+        "Created Date": "2025-04-20",
+        "Status": "To Do"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop automated market trend reports generator",
+        "Due Date": "2025-08-07",
+        "Priority": "High",
+        "Estimated Hours": 19.0,
+        "Logged Hours": 13.0,
+        "Task Type": "Development",
+        "Tags": [
+          "Technical",
+          "Urgent"
+        ],
+        "Created Date": "2025-02-14",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Review social media influencer ROI analysis",
+        "Due Date": "2025-07-23",
+        "Priority": "Low",
+        "Estimated Hours": 6.5,
+        "Logged Hours": 6.5,
+        "Task Type": "Review",
+        "Tags": [
+          "Review Required"
+        ],
+        "Created Date": "2024-10-30",
+        "Status": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Setup experiment for automated campaign scheduling",
+        "Due Date": "2025-07-21",
+        "Priority": "High",
+        "Estimated Hours": 16.0,
+        "Logged Hours": 8.0,
+        "Task Type": "Experiment Setup",
+        "Tags": [
+          "Urgent",
+          "Research"
+        ],
+        "Created Date": "2025-05-01",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Document AI-powered content recommendations",
+        "Due Date": "2025-07-16",
+        "Priority": "Low",
+        "Estimated Hours": 5.0,
+        "Logged Hours": 5.0,
+        "Task Type": "Documentation",
+        "Tags": [
+          "Documentation"
+        ],
+        "Created Date": "2024-12-28",
+        "Status": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Analyze AI-based customer feedback loop efficiency",
+        "Due Date": "2025-07-25",
+        "Priority": "Medium",
+        "Estimated Hours": 13.5,
+        "Logged Hours": 4.5,
+        "Task Type": "Analysis",
+        "Tags": [
+          "Research",
+          "Technical"
+        ],
+        "Created Date": "2025-01-09",
+        "Status": "To Do"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop AI-driven email campaign testing tools",
+        "Due Date": "2025-08-03",
+        "Priority": "High",
+        "Estimated Hours": 19.0,
+        "Logged Hours": 12.0,
+        "Task Type": "Development",
+        "Tags": [
+          "Technical",
+          "Urgent"
+        ],
+        "Created Date": "2024-11-11",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Review real-time social campaign tracking system",
+        "Due Date": "2025-07-18",
+        "Priority": "Low",
+        "Estimated Hours": 6.0,
+        "Logged Hours": 6.0,
+        "Task Type": "Review",
+        "Tags": [
+          "Review Required"
+        ],
+        "Created Date": "2025-03-23",
+        "Status": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Setup experiment for AI-powered video ad testing",
+        "Due Date": "2025-08-09",
+        "Priority": "High",
+        "Estimated Hours": 18.0,
+        "Logged Hours": 7.0,
+        "Task Type": "Experiment Setup",
+        "Tags": [
+          "Urgent",
+          "Research"
+        ],
+        "Created Date": "2025-02-10",
+        "Status": "To Do"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Document customer sentiment dashboard updates",
+        "Due Date": "2025-07-12",
+        "Priority": "Low",
+        "Estimated Hours": 7.0,
+        "Logged Hours": 7.0,
+        "Task Type": "Documentation",
+        "Tags": [
+          "Documentation"
+        ],
+        "Created Date": "2025-04-01",
+        "Status": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Analyze AI-based lead generation techniques",
+        "Due Date": "2025-07-20",
+        "Priority": "Medium",
+        "Estimated Hours": 11.0,
+        "Logged Hours": 6.0,
+        "Task Type": "Analysis",
+        "Tags": [
+          "Research"
+        ],
+        "Created Date": "2024-09-25",
+        "Status": "To Do"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop automated webinar promotions system",
+        "Due Date": "2025-08-06",
+        "Priority": "High",
+        "Estimated Hours": 17.5,
+        "Logged Hours": 10.0,
+        "Task Type": "Development",
+        "Tags": [
+          "Technical",
+          "Urgent"
+        ],
+        "Created Date": "2025-05-09",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Review voice search content adaptation strategy",
+        "Due Date": "2025-07-22",
+        "Priority": "Low",
+        "Estimated Hours": 6.0,
+        "Logged Hours": 6.0,
+        "Task Type": "Review",
+        "Tags": [
+          "Review Required"
+        ],
+        "Created Date": "2025-02-16",
+        "Status": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Setup experiment for AI-powered lead scoring",
+        "Due Date": "2025-08-08",
+        "Priority": "High",
+        "Estimated Hours": 19.5,
+        "Logged Hours": 17.0,
+        "Task Type": "Experiment Setup",
+        "Tags": [
+          "Urgent",
+          "Research"
+        ],
+        "Created Date": "2024-12-20",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Document AI chatbot training enhancement updates",
+        "Due Date": "2025-07-27",
+        "Priority": "Low",
+        "Estimated Hours": 7.0,
+        "Logged Hours": 7.0,
+        "Task Type": "Documentation",
+        "Tags": [
+          "Documentation"
+        ],
+        "Created Date": "2025-01-03",
+        "Status": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Analyze customer journey AI mapping results",
+        "Due Date": "2025-07-19",
+        "Priority": "Medium",
+        "Estimated Hours": 12.0,
+        "Logged Hours": 6.0,
+        "Task Type": "Analysis",
+        "Tags": [
+          "Research",
+          "Technical"
+        ],
+        "Created Date": "2025-03-27",
+        "Status": "To Do"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop real-time competitor analysis dashboard",
+        "Due Date": "2025-08-04",
+        "Priority": "High",
+        "Estimated Hours": 17.0,
+        "Logged Hours": 8.0,
+        "Task Type": "Development",
+        "Tags": [
+          "Technical",
+          "Urgent"
+        ],
+        "Created Date": "2024-11-23",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Review AI-powered content gap analysis",
+        "Due Date": "2025-07-24",
+        "Priority": "Low",
+        "Estimated Hours": 6.0,
+        "Logged Hours": 6.0,
+        "Task Type": "Review",
+        "Tags": [
+          "Review Required"
+        ],
+        "Created Date": "2025-02-02",
+        "Status": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Setup experiment for AI-driven social media trend analysis",
+        "Due Date": "2025-08-07",
+        "Priority": "High",
+        "Estimated Hours": 19.0,
+        "Logged Hours": 11.0,
+        "Task Type": "Experiment Setup",
+        "Tags": [
+          "Urgent",
+          "Research"
+        ],
+        "Created Date": "2025-04-12",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Document automated content localization process",
+        "Due Date": "2025-07-30",
+        "Priority": "Low",
+        "Estimated Hours": 7.5,
+        "Logged Hours": 7.5,
+        "Task Type": "Documentation",
+        "Tags": [
+          "Documentation"
+        ],
+        "Created Date": "2024-10-27",
+        "Status": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Analyze customer feedback sentiment AI accuracy",
+        "Due Date": "2025-07-15",
+        "Priority": "Medium",
+        "Estimated Hours": 12.0,
+        "Logged Hours": 6.5,
+        "Task Type": "Analysis",
+        "Tags": [
+          "Research"
+        ],
+        "Created Date": "2025-01-20",
+        "Status": "To Do"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop AI-powered personalized video ads",
+        "Due Date": "2025-08-02",
+        "Priority": "High",
+        "Estimated Hours": 18.0,
+        "Logged Hours": 16.0,
+        "Task Type": "Development",
+        "Tags": [
+          "Technical",
+          "Urgent"
+        ],
+        "Created Date": "2025-05-06",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Review social media bot detection AI",
+        "Due Date": "2025-07-13",
+        "Priority": "Low",
+        "Estimated Hours": 5.5,
+        "Logged Hours": 5.5,
+        "Task Type": "Review",
+        "Tags": [
+          "Review Required"
+        ],
+        "Created Date": "2024-11-09",
+        "Status": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Setup experiment for campaign personalization algorithms",
+        "Due Date": "2025-08-12",
+        "Priority": "High",
+        "Estimated Hours": 20.0,
+        "Logged Hours": 12.0,
+        "Task Type": "Experiment Setup",
+        "Tags": [
+          "Urgent",
+          "Research"
+        ],
+        "Created Date": "2025-03-18",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Document automated lead nurturing best practices",
+        "Due Date": "2025-07-16",
+        "Priority": "Low",
+        "Estimated Hours": 6.0,
+        "Logged Hours": 6.0,
+        "Task Type": "Documentation",
+        "Tags": [
+          "Documentation"
+        ],
+        "Created Date": "2025-02-14",
+        "Status": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Analyze real-time ad targeting AI results",
+        "Due Date": "2025-07-25",
+        "Priority": "Medium",
+        "Estimated Hours": 13.0,
+        "Logged Hours": 5.0,
+        "Task Type": "Analysis",
+        "Tags": [
+          "Technical"
+        ],
+        "Created Date": "2024-12-06",
+        "Status": "To Do"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop AI chatbot multilingual support improvements",
+        "Due Date": "2025-08-01",
+        "Priority": "High",
+        "Estimated Hours": 19.0,
+        "Logged Hours": 14.0,
+        "Task Type": "Development",
+        "Tags": [
+          "Technical",
+          "Urgent"
+        ],
+        "Created Date": "2025-01-15",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Review campaign budget allocation AI results",
+        "Due Date": "2025-07-28",
+        "Priority": "Low",
+        "Estimated Hours": 6.0,
+        "Logged Hours": 6.0,
+        "Task Type": "Review",
+        "Tags": [
+          "Review Required"
+        ],
+        "Created Date": "2024-11-19",
+        "Status": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Setup experiment for AI-enabled display ad targeting",
+        "Due Date": "2025-08-05",
+        "Priority": "High",
+        "Estimated Hours": 18.5,
+        "Logged Hours": 9.0,
+        "Task Type": "Experiment Setup",
+        "Tags": [
+          "Urgent",
+          "Research"
+        ],
+        "Created Date": "2025-04-09",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Document AI-driven campaign ROI analysis process",
+        "Due Date": "2025-07-21",
+        "Priority": "Low",
+        "Estimated Hours": 7.0,
+        "Logged Hours": 7.0,
+        "Task Type": "Documentation",
+        "Tags": [
+          "Documentation"
+        ],
+        "Created Date": "2024-10-18",
+        "Status": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Analyze voice assistant marketing expansion impact",
+        "Due Date": "2025-07-20",
+        "Priority": "Medium",
+        "Estimated Hours": 12.0,
+        "Logged Hours": 5.0,
+        "Task Type": "Analysis",
+        "Tags": [
+          "Research"
+        ],
+        "Created Date": "2025-03-04",
+        "Status": "To Do"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop automated social media response system",
+        "Due Date": "2025-07-29",
+        "Priority": "High",
+        "Estimated Hours": 19.5,
+        "Logged Hours": 15.0,
+        "Task Type": "Development",
+        "Tags": [
+          "Technical",
+          "Urgent"
+        ],
+        "Created Date": "2025-01-21",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Review AI-powered video marketing strategy",
+        "Due Date": "2025-07-17",
+        "Priority": "Low",
+        "Estimated Hours": 6.0,
+        "Logged Hours": 6.0,
+        "Task Type": "Review",
+        "Tags": [
+          "Review Required"
+        ],
+        "Created Date": "2024-12-11",
+        "Status": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Setup experiment for automated brand monitoring",
+        "Due Date": "2025-08-03",
+        "Priority": "High",
+        "Estimated Hours": 17.0,
+        "Logged Hours": 10.0,
+        "Task Type": "Experiment Setup",
+        "Tags": [
+          "Urgent",
+          "Research"
+        ],
+        "Created Date": "2025-05-04",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Document AI-powered content recommendations update",
+        "Due Date": "2025-07-24",
+        "Priority": "Low",
+        "Estimated Hours": 7.5,
+        "Logged Hours": 7.5,
+        "Task Type": "Documentation",
+        "Tags": [
+          "Documentation"
+        ],
+        "Created Date": "2024-11-28",
+        "Status": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Analyze automated customer retention models effectiveness",
+        "Due Date": "2025-07-19",
+        "Priority": "Medium",
+        "Estimated Hours": 13.0,
+        "Logged Hours": 6.0,
+        "Task Type": "Analysis",
+        "Tags": [
+          "Research",
+          "Technical"
+        ],
+        "Created Date": "2025-02-22",
+        "Status": "To Do"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop AI-based competitor benchmarking dashboard",
+        "Due Date": "2025-08-08",
+        "Priority": "High",
+        "Estimated Hours": 20.0,
+        "Logged Hours": 17.0,
+        "Task Type": "Development",
+        "Tags": [
+          "Technical",
+          "Urgent"
+        ],
+        "Created Date": "2025-03-23",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Review real-time campaign analytics tools",
+        "Due Date": "2025-07-22",
+        "Priority": "Low",
+        "Estimated Hours": 5.5,
+        "Logged Hours": 5.5,
+        "Task Type": "Review",
+        "Tags": [
+          "Review Required"
+        ],
+        "Created Date": "2024-10-20",
+        "Status": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Setup experiment for AI-driven email campaign testing",
+        "Due Date": "2025-07-18",
+        "Priority": "High",
+        "Estimated Hours": 16.0,
+        "Logged Hours": 9.0,
+        "Task Type": "Experiment Setup",
+        "Tags": [
+          "Urgent",
+          "Research"
+        ],
+        "Created Date": "2025-01-26",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Document chatbot conversion optimization results",
+        "Due Date": "2025-07-26",
+        "Priority": "Low",
+        "Estimated Hours": 6.0,
+        "Logged Hours": 6.0,
+        "Task Type": "Documentation",
+        "Tags": [
+          "Documentation"
+        ],
+        "Created Date": "2024-12-24",
+        "Status": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Analyze AI-powered loyalty programs data",
+        "Due Date": "2025-07-15",
+        "Priority": "Medium",
+        "Estimated Hours": 11.0,
+        "Logged Hours": 6.5,
+        "Task Type": "Analysis",
+        "Tags": [
+          "Research"
+        ],
+        "Created Date": "2025-04-25",
+        "Status": "To Do"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop automated social listening expansion features",
+        "Due Date": "2025-08-10",
+        "Priority": "High",
+        "Estimated Hours": 19.0,
+        "Logged Hours": 15.5,
+        "Task Type": "Development",
+        "Tags": [
+          "Technical",
+          "Urgent"
+        ],
+        "Created Date": "2025-02-05",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Review campaign budget allocation AI effectiveness",
+        "Due Date": "2025-07-23",
+        "Priority": "Low",
+        "Estimated Hours": 6.0,
+        "Logged Hours": 6.0,
+        "Task Type": "Review",
+        "Tags": [
+          "Review Required"
+        ],
+        "Created Date": "2025-01-31",
+        "Status": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Setup experiment for AI-powered prospect scoring",
+        "Due Date": "2025-08-01",
+        "Priority": "High",
+        "Estimated Hours": 18.0,
+        "Logged Hours": 12.0,
+        "Task Type": "Experiment Setup",
+        "Tags": [
+          "Urgent",
+          "Research"
+        ],
+        "Created Date": "2024-11-05",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Document predictive social media scheduling plan",
+        "Due Date": "2025-07-20",
+        "Priority": "Low",
+        "Estimated Hours": 7.0,
+        "Logged Hours": 7.0,
+        "Task Type": "Documentation",
+        "Tags": [
+          "Documentation"
+        ],
+        "Created Date": "2025-03-09",
+        "Status": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Analyze automated content repurposing metrics",
+        "Due Date": "2025-07-17",
+        "Priority": "Medium",
+        "Estimated Hours": 13.0,
+        "Logged Hours": 5.0,
+        "Task Type": "Analysis",
+        "Tags": [
+          "Research",
+          "Technical"
+        ],
+        "Created Date": "2024-12-08",
+        "Status": "To Do"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop AI-driven campaign ROI analysis features",
+        "Due Date": "2025-08-06",
+        "Priority": "High",
+        "Estimated Hours": 20.0,
+        "Logged Hours": 19.0,
+        "Task Type": "Development",
+        "Tags": [
+          "Technical",
+          "Urgent"
+        ],
+        "Created Date": "2025-04-21",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Review real-time ad performance AI integration",
+        "Due Date": "2025-07-14",
+        "Priority": "Low",
+        "Estimated Hours": 5.0,
+        "Logged Hours": 5.0,
+        "Task Type": "Review",
+        "Tags": [
+          "Review Required"
+        ],
+        "Created Date": "2024-10-23",
+        "Status": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Setup experiment for AI chatbot training enhancement",
+        "Due Date": "2025-07-29",
+        "Priority": "High",
+        "Estimated Hours": 18.0,
+        "Logged Hours": 15.0,
+        "Task Type": "Experiment Setup",
+        "Tags": [
+          "Urgent",
+          "Research"
+        ],
+        "Created Date": "2025-01-08",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Document automated lead nurturing process",
+        "Due Date": "2025-07-21",
+        "Priority": "Low",
+        "Estimated Hours": 6.5,
+        "Logged Hours": 6.5,
+        "Task Type": "Documentation",
+        "Tags": [
+          "Documentation"
+        ],
+        "Created Date": "2025-02-03",
+        "Status": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Analyze AI-powered brand monitoring effectiveness",
+        "Due Date": "2025-07-16",
+        "Priority": "Medium",
+        "Estimated Hours": 12.0,
+        "Logged Hours": 6.0,
+        "Task Type": "Analysis",
+        "Tags": [
+          "Research"
+        ],
+        "Created Date": "2025-03-13",
+        "Status": "To Do"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop real-time campaign optimization tools",
+        "Due Date": "2025-08-04",
+        "Priority": "High",
+        "Estimated Hours": 19.0,
+        "Logged Hours": 10.0,
+        "Task Type": "Development",
+        "Tags": [
+          "Technical",
+          "Urgent"
+        ],
+        "Created Date": "2024-11-16",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Review social media influencer ROI report",
+        "Due Date": "2025-07-25",
+        "Priority": "Low",
+        "Estimated Hours": 6.0,
+        "Logged Hours": 6.0,
+        "Task Type": "Review",
+        "Tags": [
+          "Review Required"
+        ],
+        "Created Date": "2025-01-27",
+        "Status": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Setup experiment for AI content gap analysis",
+        "Due Date": "2025-08-09",
+        "Priority": "High",
+        "Estimated Hours": 20.0,
+        "Logged Hours": 17.0,
+        "Task Type": "Experiment Setup",
+        "Tags": [
+          "Urgent",
+          "Research"
+        ],
+        "Created Date": "2025-04-23",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Document marketing funnel optimization best practices",
+        "Due Date": "2025-07-18",
+        "Priority": "Low",
+        "Estimated Hours": 7.0,
+        "Logged Hours": 7.0,
+        "Task Type": "Documentation",
+        "Tags": [
+          "Documentation"
+        ],
+        "Created Date": "2024-12-17",
+        "Status": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Analyze automated webinar promotions effectiveness",
+        "Due Date": "2025-07-22",
+        "Priority": "Medium",
+        "Estimated Hours": 11.0,
+        "Logged Hours": 4.0,
+        "Task Type": "Analysis",
+        "Tags": [
+          "Research"
+        ],
+        "Created Date": "2025-03-02",
+        "Status": "To Do"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop AI-driven email campaign testing system",
+        "Due Date": "2025-08-07",
+        "Priority": "High",
+        "Estimated Hours": 18.5,
+        "Logged Hours": 12.0,
+        "Task Type": "Development",
+        "Tags": [
+          "Technical",
+          "Urgent"
+        ],
+        "Created Date": "2025-01-18",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Review AI-powered customer segmentation methodology",
+        "Due Date": "2025-07-27",
+        "Priority": "Low",
+        "Estimated Hours": 6.0,
+        "Logged Hours": 6.0,
+        "Task Type": "Review",
+        "Tags": [
+          "Review Required"
+        ],
+        "Created Date": "2024-11-29",
+        "Status": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Setup experiment for voice search analytics enhancement",
+        "Due Date": "2025-07-19",
+        "Priority": "High",
+        "Estimated Hours": 15.0,
+        "Logged Hours": 10.0,
+        "Task Type": "Experiment Setup",
+        "Tags": [
+          "Urgent",
+          "Research"
+        ],
+        "Created Date": "2025-02-12",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Document real-time social campaign tracking updates",
+        "Due Date": "2025-07-24",
+        "Priority": "Low",
+        "Estimated Hours": 7.5,
+        "Logged Hours": 7.5,
+        "Task Type": "Documentation",
+        "Tags": [
+          "Documentation"
+        ],
+        "Created Date": "2025-05-10",
+        "Status": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Analyze AI chatbot conversion optimization data",
+        "Due Date": "2025-07-31",
+        "Priority": "Medium",
+        "Estimated Hours": 12.0,
+        "Logged Hours": 5.5,
+        "Task Type": "Analysis",
+        "Tags": [
+          "Research",
+          "Technical"
+        ],
+        "Created Date": "2024-10-12",
+        "Status": "To Do"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop automated marketing compliance tools",
+        "Due Date": "2025-08-11",
+        "Priority": "High",
+        "Estimated Hours": 20.0,
+        "Logged Hours": 18.0,
+        "Task Type": "Development",
+        "Tags": [
+          "Technical",
+          "Urgent"
+        ],
+        "Created Date": "2025-03-07",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Review campaign budget allocation AI dashboard",
+        "Due Date": "2025-07-23",
+        "Priority": "Low",
+        "Estimated Hours": 6.0,
+        "Logged Hours": 6.0,
+        "Task Type": "Review",
+        "Tags": [
+          "Review Required"
+        ],
+        "Created Date": "2025-01-21",
+        "Status": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Setup experiment for AI-driven competitor benchmarking",
+        "Due Date": "2025-08-13",
+        "Priority": "High",
+        "Estimated Hours": 19.0,
+        "Logged Hours": 14.0,
+        "Task Type": "Experiment Setup",
+        "Tags": [
+          "Urgent",
+          "Research"
+        ],
+        "Created Date": "2024-12-14",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Document automated content localization guidelines",
+        "Due Date": "2025-07-15",
+        "Priority": "Low",
+        "Estimated Hours": 5.5,
+        "Logged Hours": 5.5,
+        "Task Type": "Documentation",
+        "Tags": [
+          "Documentation"
+        ],
+        "Created Date": "2025-02-06",
+        "Status": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Analyze AI-powered customer feedback loop performance",
+        "Due Date": "2025-07-18",
+        "Priority": "Medium",
+        "Estimated Hours": 11.0,
+        "Logged Hours": 4.0,
+        "Task Type": "Analysis",
+        "Tags": [
+          "Research",
+          "Technical"
+        ],
+        "Created Date": "2024-11-01",
+        "Status": "To Do"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop AI-powered content curation features",
+        "Due Date": "2025-08-06",
+        "Priority": "High",
+        "Estimated Hours": 18.0,
+        "Logged Hours": 12.0,
+        "Task Type": "Development",
+        "Tags": [
+          "Technical",
+          "Urgent"
+        ],
+        "Created Date": "2025-03-16",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Review real-time audience segmentation tools",
+        "Due Date": "2025-07-20",
+        "Priority": "Low",
+        "Estimated Hours": 6.0,
+        "Logged Hours": 6.0,
+        "Task Type": "Review",
+        "Tags": [
+          "Review Required"
+        ],
+        "Created Date": "2025-01-13",
+        "Status": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Setup experiment for AI-driven video ad testing",
+        "Due Date": "2025-08-02",
+        "Priority": "High",
+        "Estimated Hours": 19.0,
+        "Logged Hours": 15.0,
+        "Task Type": "Experiment Setup",
+        "Tags": [
+          "Urgent",
+          "Research"
+        ],
+        "Created Date": "2024-10-28",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Document automated social media posting workflows",
+        "Due Date": "2025-07-26",
+        "Priority": "Low",
+        "Estimated Hours": 7.0,
+        "Logged Hours": 7.0,
+        "Task Type": "Documentation",
+        "Tags": [
+          "Documentation"
+        ],
+        "Created Date": "2025-03-11",
+        "Status": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Analyze predictive email engagement data",
+        "Due Date": "2025-07-16",
+        "Priority": "Medium",
+        "Estimated Hours": 12.5,
+        "Logged Hours": 6.5,
+        "Task Type": "Analysis",
+        "Tags": [
+          "Research"
+        ],
+        "Created Date": "2025-04-15",
+        "Status": "To Do"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop AI-powered marketing automation system",
+        "Due Date": "2025-08-09",
+        "Priority": "High",
+        "Estimated Hours": 20.0,
+        "Logged Hours": 17.0,
+        "Task Type": "Development",
+        "Tags": [
+          "Technical",
+          "Urgent"
+        ],
+        "Created Date": "2025-01-24",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Review AI-based market segmentation study",
+        "Due Date": "2025-07-13",
+        "Priority": "Low",
+        "Estimated Hours": 6.0,
+        "Logged Hours": 6.0,
+        "Task Type": "Review",
+        "Tags": [
+          "Review Required"
+        ],
+        "Created Date": "2024-12-30",
+        "Status": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Setup experiment for automated email list segmentation",
+        "Due Date": "2025-08-08",
+        "Priority": "High",
+        "Estimated Hours": 18.0,
+        "Logged Hours": 11.0,
+        "Task Type": "Experiment Setup",
+        "Tags": [
+          "Urgent",
+          "Research"
+        ],
+        "Created Date": "2025-03-02",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Document AI-powered lead nurturing best practices",
+        "Due Date": "2025-07-21",
+        "Priority": "Low",
+        "Estimated Hours": 7.0,
+        "Logged Hours": 7.0,
+        "Task Type": "Documentation",
+        "Tags": [
+          "Documentation"
+        ],
+        "Created Date": "2024-10-31",
+        "Status": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Analyze real-time competitor analysis insights",
+        "Due Date": "2025-07-19",
+        "Priority": "Medium",
+        "Estimated Hours": 12.0,
+        "Logged Hours": 5.0,
+        "Task Type": "Analysis",
+        "Tags": [
+          "Research",
+          "Technical"
+        ],
+        "Created Date": "2025-02-18",
+        "Status": "To Do"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop automated customer retention models enhancements",
+        "Due Date": "2025-08-04",
+        "Priority": "High",
+        "Estimated Hours": 19.0,
+        "Logged Hours": 16.0,
+        "Task Type": "Development",
+        "Tags": [
+          "Technical",
+          "Urgent"
+        ],
+        "Created Date": "2025-01-02",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Review AI-powered email campaign testing platform",
+        "Due Date": "2025-07-22",
+        "Priority": "Low",
+        "Estimated Hours": 6.5,
+        "Logged Hours": 6.5,
+        "Task Type": "Review",
+        "Tags": [
+          "Review Required"
+        ],
+        "Created Date": "2025-04-08",
+        "Status": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Setup experiment for AI-based customer feedback loop",
+        "Due Date": "2025-07-17",
+        "Priority": "High",
+        "Estimated Hours": 16.0,
+        "Logged Hours": 9.0,
+        "Task Type": "Experiment Setup",
+        "Tags": [
+          "Urgent",
+          "Research"
+        ],
+        "Created Date": "2024-11-21",
+        "Status": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Document social media crisis detection AI process",
+        "Due Date": "2025-07-25",
+        "Priority": "Low",
+        "Estimated Hours": 7.0,
+        "Logged Hours": 7.0,
+        "Task Type": "Documentation",
+        "Tags": [
+          "Documentation"
+        ],
+        "Created Date": "2025-02-23",
+        "Status": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Analyze automated market trend reports accuracy",
+        "Due Date": "2025-07-30",
+        "Priority": "Medium",
+        "Estimated Hours": 11.0,
+        "Logged Hours": 5.5,
+        "Task Type": "Analysis",
+        "Tags": [
+          "Research"
+        ],
+        "Created Date": "2024-12-09",
+        "Status": "To Do"
+      }
+    },
+    {
+      "fields": {
+        "Name": "Develop AI-driven keyword optimization module",
+        "Due Date": "2025-07-15",
+        "Priority": "High",
+        "Estimated Hours": 18.5,
+        "Logged Hours": 6.7,
+        "Task Type": "Development",
+        "Tags": [
+          "Technical",
+          "Urgent"
+        ],
+        "Created Date": "2025-01-22",
+        "Status": "In Progress"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "refund_reasons": [
+    {
+      "name": "Defective Product - Manufacturing Issue",
+      "active": true,
+      "mutable": true
+    },
+    {
+      "name": "Wrong Item Received in Order",
+      "active": true,
+      "mutable": true
+    },
+    {
+      "name": "Product Damaged During Shipping",
+      "active": true,
+      "mutable": true
+    },
+    {
+      "name": "Incorrect Size/Fit for Pet",
+      "active": true,
+      "mutable": true
+    },
+    {
+      "name": "Product Not as Described Online",
+      "active": true,
+      "mutable": true
+    },
+    {
+      "name": "Expired/Near Expiration Pet Food/Medication",
+      "active": true,
+      "mutable": true
+    },
+    {
+      "name": "Allergic Reaction or Pet Incompatibility",
+      "active": true,
+      "mutable": true
+    },
+    {
+      "name": "Duplicate Order Received",
+      "active": true,
+      "mutable": true
+    },
+    {
+      "name": "Customer Changed Mind Within Return Window",
+      "active": true,
+      "mutable": true
+    }
+  ]
+}

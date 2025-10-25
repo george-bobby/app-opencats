@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Euro",
+    "code": "EUR",
+    "symbol": "€",
+    "rate": 1.0,
+    "enabled": 1,
+    "precision": 2,
+    "thousands_separator": ".",
+    "decimal_mark": ",",
+    "symbol_first": 1
+  },
+  {
+    "name": "US Dollar",
+    "code": "USD",
+    "symbol": "$",
+    "rate": 1.0,
+    "enabled": 1,
+    "precision": 2,
+    "thousands_separator": ",",
+    "decimal_mark": ".",
+    "symbol_first": 1
+  },
+  {
+    "name": "British Pound",
+    "code": "GBP",
+    "symbol": "£",
+    "rate": 0.85,
+    "enabled": 1,
+    "precision": 2,
+    "thousands_separator": ",",
+    "decimal_mark": ".",
+    "symbol_first": 1
+  },
+  {
+    "name": "Japanese Yen",
+    "code": "JPY",
+    "symbol": "¥",
+    "rate": 130.0,
+    "enabled": 1,
+    "precision": 0,
+    "thousands_separator": ",",
+    "decimal_mark": ".",
+    "symbol_first": 1
+  },
+  {
+    "name": "Swiss Franc",
+    "code": "CHF",
+    "symbol": "CHF",
+    "rate": 1.1,
+    "enabled": 1,
+    "precision": 2,
+    "thousands_separator": ",",
+    "decimal_mark": ".",
+    "symbol_first": 0
+  },
+  {
+    "name": "Chinese Yuan",
+    "code": "CNY",
+    "symbol": "¥",
+    "rate": 7.0,
+    "enabled": 1,
+    "precision": 2,
+    "thousands_separator": ",",
+    "decimal_mark": ".",
+    "symbol_first": 1
+  },
+  {
+    "name": "Vietnamese Đồng",
+    "code": "VND",
+    "symbol": "₫",
+    "rate": 23000.0,
+    "enabled": 1,
+    "precision": 0,
+    "thousands_separator": ",",
+    "decimal_mark": ".",
+    "symbol_first": 0
+  }
+]

@@ -1,0 +1,2536 @@
+{
+  "table_name": "Members",
+  "parent_workspace_name": "R&D",
+  "parent_base_name": "R&D",
+  "records": [
+    {
+      "fields": {
+        "Full Name": "Evelyn Harper",
+        "Email": "evelyn.harper@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Marketing",
+        "Location": "San Francisco",
+        "Skills": [
+          "Project Management",
+          "JavaScript"
+        ],
+        "Joined Date": "2023-02-15",
+        "Total Logged Hours": 1320.7,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Jacob Martin",
+        "Email": "jacob.martin@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Engineering",
+        "Location": "New York",
+        "Skills": [
+          "Python",
+          "DevOps",
+          "Machine Learning"
+        ],
+        "Joined Date": "2022-08-04",
+        "Total Logged Hours": 4820.1,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Sophia Clarke",
+        "Email": "sophia.clarke@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Admin",
+        "Location": "Chicago",
+        "Skills": [
+          "Project Management"
+        ],
+        "Joined Date": "2021-04-12",
+        "Total Logged Hours": 2900.4,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Liam Foster",
+        "Email": "liam.foster@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Department": "QA",
+        "Location": "Austin",
+        "Skills": [
+          "JavaScript",
+          "Data Analysis"
+        ],
+        "Joined Date": "2020-01-22",
+        "Total Logged Hours": 1150.6,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Olivia Nguyen",
+        "Email": "olivia.nguyen@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Product",
+        "Location": "Seattle",
+        "Skills": [
+          "UI/UX Design",
+          "Project Management"
+        ],
+        "Joined Date": "2024-05-10",
+        "Total Logged Hours": 840.3,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Noah Brooks",
+        "Email": "noah.brooks@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Data",
+        "Location": "Denver",
+        "Skills": [
+          "Data Analysis",
+          "Python"
+        ],
+        "Joined Date": "2019-11-15",
+        "Total Logged Hours": 7000.8,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Mia Wilson",
+        "Email": "mia.wilson@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Marketing",
+        "Location": "Boston",
+        "Skills": [
+          "JavaScript",
+          "UI/UX Design",
+          "Project Management"
+        ],
+        "Joined Date": "2023-03-27",
+        "Total Logged Hours": 2100.5,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "James Evans",
+        "Email": "james.evans@summittech.com",
+        "Role": "Manager",
+        "Status": "Suspended",
+        "Department": "Engineering",
+        "Location": "San Diego",
+        "Skills": [
+          "DevOps",
+          "Machine Learning"
+        ],
+        "Joined Date": "2021-07-19",
+        "Total Logged Hours": 3700.2,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Amelia Turner",
+        "Email": "amelia.turner@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Support",
+        "Location": "Portland",
+        "Skills": [
+          "Python",
+          "Data Analysis"
+        ],
+        "Joined Date": "2020-09-05",
+        "Total Logged Hours": 4450.0,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Benjamin Scott",
+        "Email": "benjamin.scott@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Admin",
+        "Location": "Miami",
+        "Skills": [
+          "Project Management"
+        ],
+        "Joined Date": "2018-12-30",
+        "Total Logged Hours": 8250.9,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Charlotte Miller",
+        "Email": "charlotte.miller@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Design",
+        "Location": "Philadelphia",
+        "Skills": [
+          "UI/UX Design",
+          "JavaScript"
+        ],
+        "Joined Date": "2021-10-11",
+        "Total Logged Hours": 2600.7,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ethan Garcia",
+        "Email": "ethan.garcia@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Product",
+        "Location": "New York",
+        "Skills": [
+          "Machine Learning",
+          "DevOps"
+        ],
+        "Joined Date": "2019-06-25",
+        "Total Logged Hours": 5020.3,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Isabella Rodriguez",
+        "Email": "isabella.rodriguez@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Department": "QA",
+        "Location": "Chicago",
+        "Skills": [
+          "JavaScript",
+          "Data Analysis"
+        ],
+        "Joined Date": "2023-08-02",
+        "Total Logged Hours": 1340.9,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Alexander Lewis",
+        "Email": "alexander.lewis@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Engineering",
+        "Location": "San Francisco",
+        "Skills": [
+          "Python",
+          "DevOps"
+        ],
+        "Joined Date": "2022-11-18",
+        "Total Logged Hours": 3900.4,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Amelia Walker",
+        "Email": "amelia.walker@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Marketing",
+        "Location": "Austin",
+        "Skills": [
+          "Project Management",
+          "JavaScript"
+        ],
+        "Joined Date": "2024-01-29",
+        "Total Logged Hours": 970.1,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Daniel Young",
+        "Email": "daniel.young@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Admin",
+        "Location": "Seattle",
+        "Skills": [
+          "Project Management"
+        ],
+        "Joined Date": "2017-09-17",
+        "Total Logged Hours": 9600.6,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Harper Hall",
+        "Email": "harper.hall@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Data",
+        "Location": "Denver",
+        "Skills": [
+          "Data Analysis",
+          "Machine Learning"
+        ],
+        "Joined Date": "2023-05-21",
+        "Total Logged Hours": 1560.8,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Michael Allen",
+        "Email": "michael.allen@summittech.com",
+        "Role": "Manager",
+        "Status": "Suspended",
+        "Department": "Product",
+        "Location": "Boston",
+        "Skills": [
+          "UI/UX Design",
+          "Project Management"
+        ],
+        "Joined Date": "2020-12-10",
+        "Total Logged Hours": 3800.3,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ella Wright",
+        "Email": "ella.wright@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Support",
+        "Location": "Portland",
+        "Skills": [
+          "JavaScript",
+          "Python"
+        ],
+        "Joined Date": "2022-07-03",
+        "Total Logged Hours": 2750.0,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Henry King",
+        "Email": "henry.king@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "QA",
+        "Location": "Miami",
+        "Skills": [
+          "Data Analysis",
+          "DevOps"
+        ],
+        "Joined Date": "2021-03-08",
+        "Total Logged Hours": 3500.9,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Avery Scott",
+        "Email": "avery.scott@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Engineering",
+        "Location": "Philadelphia",
+        "Skills": [
+          "Python",
+          "Machine Learning"
+        ],
+        "Joined Date": "2019-08-30",
+        "Total Logged Hours": 4790.7,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Samuel Nelson",
+        "Email": "samuel.nelson@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Design",
+        "Location": "San Diego",
+        "Skills": [
+          "UI/UX Design",
+          "JavaScript"
+        ],
+        "Joined Date": "2023-11-14",
+        "Total Logged Hours": 1240.2,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Grace Carter",
+        "Email": "grace.carter@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Admin",
+        "Location": "New York",
+        "Skills": [
+          "Project Management"
+        ],
+        "Joined Date": "2020-05-22",
+        "Total Logged Hours": 6100.3,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Jackson Mitchell",
+        "Email": "jackson.mitchell@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Department": "Marketing",
+        "Location": "San Francisco",
+        "Skills": [
+          "JavaScript",
+          "Project Management"
+        ],
+        "Joined Date": "2024-03-07",
+        "Total Logged Hours": 900.1,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Zoe Perez",
+        "Email": "zoe.perez@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Product",
+        "Location": "Austin",
+        "Skills": [
+          "Machine Learning",
+          "DevOps"
+        ],
+        "Joined Date": "2021-11-19",
+        "Total Logged Hours": 4100.4,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Daniel Campbell",
+        "Email": "daniel.campbell@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Data",
+        "Location": "Seattle",
+        "Skills": [
+          "Python",
+          "Data Analysis"
+        ],
+        "Joined Date": "2018-06-23",
+        "Total Logged Hours": 7250.8,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Madison Edwards",
+        "Email": "madison.edwards@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Marketing",
+        "Location": "Denver",
+        "Skills": [
+          "UI/UX Design",
+          "JavaScript"
+        ],
+        "Joined Date": "2023-04-09",
+        "Total Logged Hours": 2100.3,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Joseph Rivera",
+        "Email": "joseph.rivera@summittech.com",
+        "Role": "Manager",
+        "Status": "Suspended",
+        "Department": "Engineering",
+        "Location": "Boston",
+        "Skills": [
+          "DevOps",
+          "Machine Learning"
+        ],
+        "Joined Date": "2022-01-17",
+        "Total Logged Hours": 3450.6,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ella Cooper",
+        "Email": "ella.cooper@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Support",
+        "Location": "Portland",
+        "Skills": [
+          "Python",
+          "Data Analysis"
+        ],
+        "Joined Date": "2020-08-29",
+        "Total Logged Hours": 4300.5,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "David Bailey",
+        "Email": "david.bailey@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Admin",
+        "Location": "Miami",
+        "Skills": [
+          "Project Management"
+        ],
+        "Joined Date": "2017-12-05",
+        "Total Logged Hours": 9500.9,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Chloe Morgan",
+        "Email": "chloe.morgan@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Design",
+        "Location": "Philadelphia",
+        "Skills": [
+          "UI/UX Design",
+          "JavaScript"
+        ],
+        "Joined Date": "2022-09-12",
+        "Total Logged Hours": 2650.4,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Matthew Reed",
+        "Email": "matthew.reed@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Product",
+        "Location": "San Diego",
+        "Skills": [
+          "Machine Learning",
+          "DevOps"
+        ],
+        "Joined Date": "2019-04-28",
+        "Total Logged Hours": 5050.7,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Lily Cook",
+        "Email": "lily.cook@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Department": "QA",
+        "Location": "New York",
+        "Skills": [
+          "JavaScript",
+          "Data Analysis"
+        ],
+        "Joined Date": "2023-10-05",
+        "Total Logged Hours": 1270.9,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Anthony Bell",
+        "Email": "anthony.bell@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Engineering",
+        "Location": "San Francisco",
+        "Skills": [
+          "Python",
+          "DevOps"
+        ],
+        "Joined Date": "2022-12-15",
+        "Total Logged Hours": 3950.8,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Emily Murphy",
+        "Email": "emily.murphy@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Marketing",
+        "Location": "Austin",
+        "Skills": [
+          "Project Management",
+          "JavaScript"
+        ],
+        "Joined Date": "2024-02-25",
+        "Total Logged Hours": 980.2,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Christopher Price",
+        "Email": "christopher.price@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Admin",
+        "Location": "Seattle",
+        "Skills": [
+          "Project Management"
+        ],
+        "Joined Date": "2017-08-20",
+        "Total Logged Hours": 9700.5,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Victoria Hughes",
+        "Email": "victoria.hughes@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Data",
+        "Location": "Denver",
+        "Skills": [
+          "Data Analysis",
+          "Machine Learning"
+        ],
+        "Joined Date": "2023-06-13",
+        "Total Logged Hours": 1600.7,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Andrew Perry",
+        "Email": "andrew.perry@summittech.com",
+        "Role": "Manager",
+        "Status": "Suspended",
+        "Department": "Product",
+        "Location": "Boston",
+        "Skills": [
+          "UI/UX Design",
+          "Project Management"
+        ],
+        "Joined Date": "2020-11-09",
+        "Total Logged Hours": 3850.1,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Samantha Long",
+        "Email": "samantha.long@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Support",
+        "Location": "Portland",
+        "Skills": [
+          "JavaScript",
+          "Python"
+        ],
+        "Joined Date": "2022-06-16",
+        "Total Logged Hours": 2800.3,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Joshua Rivera",
+        "Email": "joshua.rivera@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "QA",
+        "Location": "Miami",
+        "Skills": [
+          "Data Analysis",
+          "DevOps"
+        ],
+        "Joined Date": "2021-04-01",
+        "Total Logged Hours": 3550.6,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Natalie Bailey",
+        "Email": "natalie.bailey@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Engineering",
+        "Location": "Philadelphia",
+        "Skills": [
+          "Python",
+          "Machine Learning"
+        ],
+        "Joined Date": "2019-09-03",
+        "Total Logged Hours": 4850.9,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ryan Kelly",
+        "Email": "ryan.kelly@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Design",
+        "Location": "San Diego",
+        "Skills": [
+          "UI/UX Design",
+          "JavaScript"
+        ],
+        "Joined Date": "2023-12-21",
+        "Total Logged Hours": 1300.0,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Lillian Howard",
+        "Email": "lillian.howard@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Admin",
+        "Location": "New York",
+        "Skills": [
+          "Project Management"
+        ],
+        "Joined Date": "2020-06-18",
+        "Total Logged Hours": 6150.8,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Nathan Sanders",
+        "Email": "nathan.sanders@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Department": "Marketing",
+        "Location": "San Francisco",
+        "Skills": [
+          "JavaScript",
+          "Project Management"
+        ],
+        "Joined Date": "2024-04-12",
+        "Total Logged Hours": 920.4,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Addison Wright",
+        "Email": "addison.wright@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Product",
+        "Location": "Austin",
+        "Skills": [
+          "Machine Learning",
+          "DevOps"
+        ],
+        "Joined Date": "2021-12-25",
+        "Total Logged Hours": 4150.2,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Zachary Jenkins",
+        "Email": "zachary.jenkins@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Data",
+        "Location": "Seattle",
+        "Skills": [
+          "Python",
+          "Data Analysis"
+        ],
+        "Joined Date": "2018-07-20",
+        "Total Logged Hours": 7350.4,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Penelope Brooks",
+        "Email": "penelope.brooks@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Marketing",
+        "Location": "Denver",
+        "Skills": [
+          "UI/UX Design",
+          "JavaScript"
+        ],
+        "Joined Date": "2023-05-04",
+        "Total Logged Hours": 2150.7,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Jack Morgan",
+        "Email": "jack.morgan@summittech.com",
+        "Role": "Manager",
+        "Status": "Suspended",
+        "Department": "Engineering",
+        "Location": "Boston",
+        "Skills": [
+          "DevOps",
+          "Machine Learning"
+        ],
+        "Joined Date": "2022-02-18",
+        "Total Logged Hours": 3500.5,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Aubrey Patterson",
+        "Email": "aubrey.patterson@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Support",
+        "Location": "Portland",
+        "Skills": [
+          "Python",
+          "Data Analysis"
+        ],
+        "Joined Date": "2020-09-30",
+        "Total Logged Hours": 4350.8,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Sebastian Fisher",
+        "Email": "sebastian.fisher@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Admin",
+        "Location": "Miami",
+        "Skills": [
+          "Project Management"
+        ],
+        "Joined Date": "2017-11-12",
+        "Total Logged Hours": 9550.1,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Nora Ellis",
+        "Email": "nora.ellis@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Design",
+        "Location": "Philadelphia",
+        "Skills": [
+          "UI/UX Design",
+          "JavaScript"
+        ],
+        "Joined Date": "2022-10-29",
+        "Total Logged Hours": 2700.3,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Caleb Simmons",
+        "Email": "caleb.simmons@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Product",
+        "Location": "San Diego",
+        "Skills": [
+          "Machine Learning",
+          "DevOps"
+        ],
+        "Joined Date": "2019-05-15",
+        "Total Logged Hours": 5100.9,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Hannah Bryant",
+        "Email": "hannah.bryant@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Department": "QA",
+        "Location": "New York",
+        "Skills": [
+          "JavaScript",
+          "Data Analysis"
+        ],
+        "Joined Date": "2023-11-07",
+        "Total Logged Hours": 1300.6,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Oliver Russell",
+        "Email": "oliver.russell@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Engineering",
+        "Location": "San Francisco",
+        "Skills": [
+          "Python",
+          "DevOps"
+        ],
+        "Joined Date": "2022-12-27",
+        "Total Logged Hours": 4000.2,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Victoria Griffin",
+        "Email": "victoria.griffin@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Marketing",
+        "Location": "Austin",
+        "Skills": [
+          "Project Management",
+          "JavaScript"
+        ],
+        "Joined Date": "2024-03-09",
+        "Total Logged Hours": 990.4,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Gabriel Powell",
+        "Email": "gabriel.powell@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Admin",
+        "Location": "Seattle",
+        "Skills": [
+          "Project Management"
+        ],
+        "Joined Date": "2017-09-29",
+        "Total Logged Hours": 9750.7,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Luna Price",
+        "Email": "luna.price@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Data",
+        "Location": "Denver",
+        "Skills": [
+          "Data Analysis",
+          "Machine Learning"
+        ],
+        "Joined Date": "2023-07-25",
+        "Total Logged Hours": 1650.9,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Eli Bennett",
+        "Email": "eli.bennett@summittech.com",
+        "Role": "Manager",
+        "Status": "Suspended",
+        "Department": "Product",
+        "Location": "Boston",
+        "Skills": [
+          "UI/UX Design",
+          "Project Management"
+        ],
+        "Joined Date": "2020-12-20",
+        "Total Logged Hours": 3900.0,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Sofia Torres",
+        "Email": "sofia.torres@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Support",
+        "Location": "Portland",
+        "Skills": [
+          "JavaScript",
+          "Python"
+        ],
+        "Joined Date": "2022-08-15",
+        "Total Logged Hours": 2850.5,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Jack Wood",
+        "Email": "jack.wood@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "QA",
+        "Location": "Miami",
+        "Skills": [
+          "Data Analysis",
+          "DevOps"
+        ],
+        "Joined Date": "2021-05-11",
+        "Total Logged Hours": 3600.7,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Amelia Cox",
+        "Email": "amelia.cox@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Engineering",
+        "Location": "Philadelphia",
+        "Skills": [
+          "Python",
+          "Machine Learning"
+        ],
+        "Joined Date": "2019-10-26",
+        "Total Logged Hours": 4900.9,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Josephine Ward",
+        "Email": "josephine.ward@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Design",
+        "Location": "San Diego",
+        "Skills": [
+          "UI/UX Design",
+          "JavaScript"
+        ],
+        "Joined Date": "2023-12-30",
+        "Total Logged Hours": 1350.2,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "David Bell",
+        "Email": "david.bell@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Admin",
+        "Location": "New York",
+        "Skills": [
+          "Project Management"
+        ],
+        "Joined Date": "2020-07-25",
+        "Total Logged Hours": 6200.6,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Anna Watson",
+        "Email": "anna.watson@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Department": "Marketing",
+        "Location": "San Francisco",
+        "Skills": [
+          "JavaScript",
+          "Project Management"
+        ],
+        "Joined Date": "2024-05-09",
+        "Total Logged Hours": 940.0,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Evan Scott",
+        "Email": "evan.scott@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Product",
+        "Location": "Austin",
+        "Skills": [
+          "Machine Learning",
+          "DevOps"
+        ],
+        "Joined Date": "2022-01-23",
+        "Total Logged Hours": 4200.3,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Rachel Bryant",
+        "Email": "rachel.bryant@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Data",
+        "Location": "Seattle",
+        "Skills": [
+          "Python",
+          "Data Analysis"
+        ],
+        "Joined Date": "2018-08-14",
+        "Total Logged Hours": 7400.8,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Christopher Ward",
+        "Email": "christopher.ward@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Marketing",
+        "Location": "Denver",
+        "Skills": [
+          "UI/UX Design",
+          "JavaScript"
+        ],
+        "Joined Date": "2023-06-05",
+        "Total Logged Hours": 2200.6,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ella Hughes",
+        "Email": "ella.hughes@summittech.com",
+        "Role": "Manager",
+        "Status": "Suspended",
+        "Department": "Engineering",
+        "Location": "Boston",
+        "Skills": [
+          "DevOps",
+          "Machine Learning"
+        ],
+        "Joined Date": "2022-03-20",
+        "Total Logged Hours": 3550.7,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Mason Patterson",
+        "Email": "mason.patterson@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Support",
+        "Location": "Portland",
+        "Skills": [
+          "Python",
+          "Data Analysis"
+        ],
+        "Joined Date": "2020-10-28",
+        "Total Logged Hours": 4400.4,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Grace Sullivan",
+        "Email": "grace.sullivan@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Admin",
+        "Location": "Miami",
+        "Skills": [
+          "Project Management"
+        ],
+        "Joined Date": "2017-12-22",
+        "Total Logged Hours": 9600.0,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Henry Reed",
+        "Email": "henry.reed@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Design",
+        "Location": "Philadelphia",
+        "Skills": [
+          "UI/UX Design",
+          "JavaScript"
+        ],
+        "Joined Date": "2022-11-30",
+        "Total Logged Hours": 2750.5,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ella Powell",
+        "Email": "ella.powell@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Product",
+        "Location": "San Diego",
+        "Skills": [
+          "Machine Learning",
+          "DevOps"
+        ],
+        "Joined Date": "2019-06-29",
+        "Total Logged Hours": 5150.9,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Lucas Torres",
+        "Email": "lucas.torres@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Department": "QA",
+        "Location": "New York",
+        "Skills": [
+          "JavaScript",
+          "Data Analysis"
+        ],
+        "Joined Date": "2023-12-01",
+        "Total Logged Hours": 1320.1,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Sofia Allen",
+        "Email": "sofia.allen@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Engineering",
+        "Location": "San Francisco",
+        "Skills": [
+          "Python",
+          "DevOps"
+        ],
+        "Joined Date": "2023-01-15",
+        "Total Logged Hours": 4050.8,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Jacob Mitchell",
+        "Email": "jacob.mitchell@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Marketing",
+        "Location": "Austin",
+        "Skills": [
+          "Project Management",
+          "JavaScript"
+        ],
+        "Joined Date": "2024-04-20",
+        "Total Logged Hours": 1000.0,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Zoe Foster",
+        "Email": "zoe.foster@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Admin",
+        "Location": "Seattle",
+        "Skills": [
+          "Project Management"
+        ],
+        "Joined Date": "2017-10-10",
+        "Total Logged Hours": 9800.2,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Brayden Simmons",
+        "Email": "brayden.simmons@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Data",
+        "Location": "Denver",
+        "Skills": [
+          "Data Analysis",
+          "Machine Learning"
+        ],
+        "Joined Date": "2023-08-29",
+        "Total Logged Hours": 1700.4,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Lily Bell",
+        "Email": "lily.bell@summittech.com",
+        "Role": "Manager",
+        "Status": "Suspended",
+        "Department": "Product",
+        "Location": "Boston",
+        "Skills": [
+          "UI/UX Design",
+          "Project Management"
+        ],
+        "Joined Date": "2021-01-10",
+        "Total Logged Hours": 3950.7,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Samuel Cox",
+        "Email": "samuel.cox@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Support",
+        "Location": "Portland",
+        "Skills": [
+          "JavaScript",
+          "Python"
+        ],
+        "Joined Date": "2022-09-22",
+        "Total Logged Hours": 2900.2,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Victoria Kelly",
+        "Email": "victoria.kelly@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "QA",
+        "Location": "Miami",
+        "Skills": [
+          "Data Analysis",
+          "DevOps"
+        ],
+        "Joined Date": "2021-06-18",
+        "Total Logged Hours": 3650.3,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Elijah Rogers",
+        "Email": "elijah.rogers@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Engineering",
+        "Location": "Philadelphia",
+        "Skills": [
+          "Python",
+          "Machine Learning"
+        ],
+        "Joined Date": "2020-01-03",
+        "Total Logged Hours": 4950.1,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Samantha Butler",
+        "Email": "samantha.butler@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Design",
+        "Location": "San Diego",
+        "Skills": [
+          "UI/UX Design",
+          "JavaScript"
+        ],
+        "Joined Date": "2024-01-11",
+        "Total Logged Hours": 1400.6,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Oliver Simmons",
+        "Email": "oliver.simmons@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Admin",
+        "Location": "New York",
+        "Skills": [
+          "Project Management"
+        ],
+        "Joined Date": "2020-08-21",
+        "Total Logged Hours": 6250.4,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Madison Bryant",
+        "Email": "madison.bryant@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Department": "Marketing",
+        "Location": "San Francisco",
+        "Skills": [
+          "JavaScript",
+          "Project Management"
+        ],
+        "Joined Date": "2024-06-01",
+        "Total Logged Hours": 960.9,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Liam Alexander",
+        "Email": "liam.alexander@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Product",
+        "Location": "Austin",
+        "Skills": [
+          "Machine Learning",
+          "DevOps"
+        ],
+        "Joined Date": "2022-02-15",
+        "Total Logged Hours": 4250.0,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Emily Carter",
+        "Email": "emily.carter@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Data",
+        "Location": "Seattle",
+        "Skills": [
+          "Python",
+          "Data Analysis"
+        ],
+        "Joined Date": "2018-09-10",
+        "Total Logged Hours": 7450.7,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Jacob Hughes",
+        "Email": "jacob.hughes@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Marketing",
+        "Location": "Denver",
+        "Skills": [
+          "UI/UX Design",
+          "JavaScript"
+        ],
+        "Joined Date": "2023-07-12",
+        "Total Logged Hours": 2250.9,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Sophia Cooper",
+        "Email": "sophia.cooper@summittech.com",
+        "Role": "Manager",
+        "Status": "Suspended",
+        "Department": "Engineering",
+        "Location": "Boston",
+        "Skills": [
+          "DevOps",
+          "Machine Learning"
+        ],
+        "Joined Date": "2022-04-25",
+        "Total Logged Hours": 3600.4,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Benjamin Scott",
+        "Email": "benjamin.scott2@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Support",
+        "Location": "Portland",
+        "Skills": [
+          "Python",
+          "Data Analysis"
+        ],
+        "Joined Date": "2020-11-27",
+        "Total Logged Hours": 4450.3,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Chloe Hughes",
+        "Email": "chloe.hughes@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Admin",
+        "Location": "Miami",
+        "Skills": [
+          "Project Management"
+        ],
+        "Joined Date": "2017-12-28",
+        "Total Logged Hours": 9650.5,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Logan Mitchell",
+        "Email": "logan.mitchell@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Design",
+        "Location": "Philadelphia",
+        "Skills": [
+          "UI/UX Design",
+          "JavaScript"
+        ],
+        "Joined Date": "2023-01-09",
+        "Total Logged Hours": 2800.8,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Mia Bennett",
+        "Email": "mia.bennett@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Product",
+        "Location": "San Diego",
+        "Skills": [
+          "Machine Learning",
+          "DevOps"
+        ],
+        "Joined Date": "2019-07-18",
+        "Total Logged Hours": 5200.4,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Henry Rivera",
+        "Email": "henry.rivera@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Department": "QA",
+        "Location": "New York",
+        "Skills": [
+          "JavaScript",
+          "Data Analysis"
+        ],
+        "Joined Date": "2024-01-27",
+        "Total Logged Hours": 1350.5,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Scarlett Foster",
+        "Email": "scarlett.foster@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Engineering",
+        "Location": "San Francisco",
+        "Skills": [
+          "Python",
+          "DevOps"
+        ],
+        "Joined Date": "2023-02-18",
+        "Total Logged Hours": 4100.1,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Owen Patterson",
+        "Email": "owen.patterson@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Marketing",
+        "Location": "Austin",
+        "Skills": [
+          "Project Management",
+          "JavaScript"
+        ],
+        "Joined Date": "2024-05-05",
+        "Total Logged Hours": 1010.3,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Victoria Price",
+        "Email": "victoria.price@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Admin",
+        "Location": "Seattle",
+        "Skills": [
+          "Project Management"
+        ],
+        "Joined Date": "2017-11-15",
+        "Total Logged Hours": 9850.0,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Elijah Stewart",
+        "Email": "elijah.stewart@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Data",
+        "Location": "Denver",
+        "Skills": [
+          "Data Analysis",
+          "Machine Learning"
+        ],
+        "Joined Date": "2023-09-18",
+        "Total Logged Hours": 1750.4,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Luna Ross",
+        "Email": "luna.ross@summittech.com",
+        "Role": "Manager",
+        "Status": "Suspended",
+        "Department": "Product",
+        "Location": "Boston",
+        "Skills": [
+          "UI/UX Design",
+          "Project Management"
+        ],
+        "Joined Date": "2021-02-12",
+        "Total Logged Hours": 4000.8,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ethan Morris",
+        "Email": "ethan.morris@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Support",
+        "Location": "Portland",
+        "Skills": [
+          "JavaScript",
+          "Python"
+        ],
+        "Joined Date": "2022-10-06",
+        "Total Logged Hours": 2950.1,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Sophie Walker",
+        "Email": "sophie.walker@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "QA",
+        "Location": "Miami",
+        "Skills": [
+          "Data Analysis",
+          "DevOps"
+        ],
+        "Joined Date": "2021-07-14",
+        "Total Logged Hours": 3700.7,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Jack Hall",
+        "Email": "jack.hall@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Engineering",
+        "Location": "Philadelphia",
+        "Skills": [
+          "Python",
+          "Machine Learning"
+        ],
+        "Joined Date": "2020-02-05",
+        "Total Logged Hours": 5000.2,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Isabella Turner",
+        "Email": "isabella.turner@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Design",
+        "Location": "San Diego",
+        "Skills": [
+          "UI/UX Design",
+          "JavaScript"
+        ],
+        "Joined Date": "2024-02-14",
+        "Total Logged Hours": 1450.9,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Luke Edwards",
+        "Email": "luke.edwards@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Admin",
+        "Location": "New York",
+        "Skills": [
+          "Project Management"
+        ],
+        "Joined Date": "2020-09-01",
+        "Total Logged Hours": 6300.1,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Zoe Bennett",
+        "Email": "zoe.bennett2@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Department": "Marketing",
+        "Location": "San Francisco",
+        "Skills": [
+          "JavaScript",
+          "Project Management"
+        ],
+        "Joined Date": "2024-06-10",
+        "Total Logged Hours": 980.5,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Gabriel Rogers",
+        "Email": "gabriel.rogers@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Product",
+        "Location": "Austin",
+        "Skills": [
+          "Machine Learning",
+          "DevOps"
+        ],
+        "Joined Date": "2022-03-18",
+        "Total Logged Hours": 4300.4,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ella Kelly",
+        "Email": "ella.kelly@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Data",
+        "Location": "Seattle",
+        "Skills": [
+          "Python",
+          "Data Analysis"
+        ],
+        "Joined Date": "2018-10-11",
+        "Total Logged Hours": 7500.7,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Oliver Sanders",
+        "Email": "oliver.sanders@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Marketing",
+        "Location": "Denver",
+        "Skills": [
+          "UI/UX Design",
+          "JavaScript"
+        ],
+        "Joined Date": "2023-08-04",
+        "Total Logged Hours": 2300.9,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Layla Hughes",
+        "Email": "layla.hughes@summittech.com",
+        "Role": "Manager",
+        "Status": "Suspended",
+        "Department": "Engineering",
+        "Location": "Boston",
+        "Skills": [
+          "DevOps",
+          "Machine Learning"
+        ],
+        "Joined Date": "2022-05-29",
+        "Total Logged Hours": 3650.7,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "James Johnson",
+        "Email": "james.johnson@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Support",
+        "Location": "Portland",
+        "Skills": [
+          "Python",
+          "Data Analysis"
+        ],
+        "Joined Date": "2020-12-31",
+        "Total Logged Hours": 4500.2,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Sophia Gray",
+        "Email": "sophia.gray@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Admin",
+        "Location": "Miami",
+        "Skills": [
+          "Project Management"
+        ],
+        "Joined Date": "2018-01-15",
+        "Total Logged Hours": 9700.8,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Michael Lewis",
+        "Email": "michael.lewis@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Design",
+        "Location": "Philadelphia",
+        "Skills": [
+          "UI/UX Design",
+          "JavaScript"
+        ],
+        "Joined Date": "2023-02-19",
+        "Total Logged Hours": 2850.4,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ava Mitchell",
+        "Email": "ava.mitchell@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Product",
+        "Location": "San Diego",
+        "Skills": [
+          "Machine Learning",
+          "DevOps"
+        ],
+        "Joined Date": "2019-08-23",
+        "Total Logged Hours": 5250.3,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "William Walker",
+        "Email": "william.walker@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Department": "QA",
+        "Location": "New York",
+        "Skills": [
+          "JavaScript",
+          "Data Analysis"
+        ],
+        "Joined Date": "2024-02-12",
+        "Total Logged Hours": 1370.8,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Madison Collins",
+        "Email": "madison.collins@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Engineering",
+        "Location": "San Francisco",
+        "Skills": [
+          "Python",
+          "DevOps"
+        ],
+        "Joined Date": "2023-03-06",
+        "Total Logged Hours": 4150.9,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ethan Brooks",
+        "Email": "ethan.brooks2@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Marketing",
+        "Location": "Austin",
+        "Skills": [
+          "Project Management",
+          "JavaScript"
+        ],
+        "Joined Date": "2024-06-15",
+        "Total Logged Hours": 1020.2,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Emily Morris",
+        "Email": "emily.morris@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Admin",
+        "Location": "Seattle",
+        "Skills": [
+          "Project Management"
+        ],
+        "Joined Date": "2017-11-29",
+        "Total Logged Hours": 9900.6,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Alexander Price",
+        "Email": "alexander.price@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Data",
+        "Location": "Denver",
+        "Skills": [
+          "Data Analysis",
+          "Machine Learning"
+        ],
+        "Joined Date": "2023-10-17",
+        "Total Logged Hours": 1800.1,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Grace Wilson",
+        "Email": "grace.wilson@summittech.com",
+        "Role": "Manager",
+        "Status": "Suspended",
+        "Department": "Product",
+        "Location": "Boston",
+        "Skills": [
+          "UI/UX Design",
+          "Project Management"
+        ],
+        "Joined Date": "2021-03-11",
+        "Total Logged Hours": 4050.7,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Samuel Edwards",
+        "Email": "samuel.edwards@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Support",
+        "Location": "Portland",
+        "Skills": [
+          "JavaScript",
+          "Python"
+        ],
+        "Joined Date": "2022-11-06",
+        "Total Logged Hours": 3000.0,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Victoria Mitchell",
+        "Email": "victoria.mitchell@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "QA",
+        "Location": "Miami",
+        "Skills": [
+          "Data Analysis",
+          "DevOps"
+        ],
+        "Joined Date": "2021-08-15",
+        "Total Logged Hours": 3750.8,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Benjamin Carter",
+        "Email": "benjamin.carter@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Engineering",
+        "Location": "Philadelphia",
+        "Skills": [
+          "Python",
+          "Machine Learning"
+        ],
+        "Joined Date": "2020-03-07",
+        "Total Logged Hours": 5050.4,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ella Davis",
+        "Email": "ella.davis@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Design",
+        "Location": "San Diego",
+        "Skills": [
+          "UI/UX Design",
+          "JavaScript"
+        ],
+        "Joined Date": "2024-03-25",
+        "Total Logged Hours": 1500.7,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Mason Taylor",
+        "Email": "mason.taylor@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Admin",
+        "Location": "New York",
+        "Skills": [
+          "Project Management"
+        ],
+        "Joined Date": "2020-10-10",
+        "Total Logged Hours": 6350.2,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Lily White",
+        "Email": "lily.white@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Department": "Marketing",
+        "Location": "San Francisco",
+        "Skills": [
+          "JavaScript",
+          "Project Management"
+        ],
+        "Joined Date": "2024-06-20",
+        "Total Logged Hours": 1000.5,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "James Wilson",
+        "Email": "james.wilson@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Product",
+        "Location": "Austin",
+        "Skills": [
+          "Machine Learning",
+          "DevOps"
+        ],
+        "Joined Date": "2022-04-18",
+        "Total Logged Hours": 4350.9,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Sophia Brown",
+        "Email": "sophia.brown@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Data",
+        "Location": "Seattle",
+        "Skills": [
+          "Python",
+          "Data Analysis"
+        ],
+        "Joined Date": "2018-11-12",
+        "Total Logged Hours": 7550.6,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Logan Evans",
+        "Email": "logan.evans@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Marketing",
+        "Location": "Denver",
+        "Skills": [
+          "UI/UX Design",
+          "JavaScript"
+        ],
+        "Joined Date": "2023-09-06",
+        "Total Logged Hours": 2350.0,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Amelia King",
+        "Email": "amelia.king@summittech.com",
+        "Role": "Manager",
+        "Status": "Suspended",
+        "Department": "Engineering",
+        "Location": "Boston",
+        "Skills": [
+          "DevOps",
+          "Machine Learning"
+        ],
+        "Joined Date": "2022-06-30",
+        "Total Logged Hours": 3700.5,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Owen Harris",
+        "Email": "owen.harris@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Support",
+        "Location": "Portland",
+        "Skills": [
+          "Python",
+          "Data Analysis"
+        ],
+        "Joined Date": "2021-01-05",
+        "Total Logged Hours": 4550.7,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Avery Scott",
+        "Email": "avery.scott2@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Admin",
+        "Location": "Miami",
+        "Skills": [
+          "Project Management"
+        ],
+        "Joined Date": "2018-02-20",
+        "Total Logged Hours": 9750.3,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ella Martin",
+        "Email": "ella.martin@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Design",
+        "Location": "Philadelphia",
+        "Skills": [
+          "UI/UX Design",
+          "JavaScript"
+        ],
+        "Joined Date": "2023-03-23",
+        "Total Logged Hours": 2900.5,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "David Clark",
+        "Email": "david.clark@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Product",
+        "Location": "San Diego",
+        "Skills": [
+          "Machine Learning",
+          "DevOps"
+        ],
+        "Joined Date": "2019-09-28",
+        "Total Logged Hours": 5300.7,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Sofia Hernandez",
+        "Email": "sofia.hernandez@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Department": "QA",
+        "Location": "New York",
+        "Skills": [
+          "JavaScript",
+          "Data Analysis"
+        ],
+        "Joined Date": "2024-03-02",
+        "Total Logged Hours": 1400.8,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Lucas Gonzalez",
+        "Email": "lucas.gonzalez@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Engineering",
+        "Location": "San Francisco",
+        "Skills": [
+          "Python",
+          "DevOps"
+        ],
+        "Joined Date": "2023-04-16",
+        "Total Logged Hours": 4200.3,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ava Wilson",
+        "Email": "ava.wilson2@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Marketing",
+        "Location": "Austin",
+        "Skills": [
+          "Project Management",
+          "JavaScript"
+        ],
+        "Joined Date": "2024-07-01",
+        "Total Logged Hours": 1030.4,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ethan Martinez",
+        "Email": "ethan.martinez@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Admin",
+        "Location": "Seattle",
+        "Skills": [
+          "Project Management"
+        ],
+        "Joined Date": "2017-12-10",
+        "Total Logged Hours": 10000.0,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Madison Lopez",
+        "Email": "madison.lopez@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Data",
+        "Location": "Denver",
+        "Skills": [
+          "Data Analysis",
+          "Machine Learning"
+        ],
+        "Joined Date": "2023-11-20",
+        "Total Logged Hours": 1850.7,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Jack Thomas",
+        "Email": "jack.thomas@summittech.com",
+        "Role": "Manager",
+        "Status": "Suspended",
+        "Department": "Product",
+        "Location": "Boston",
+        "Skills": [
+          "UI/UX Design",
+          "Project Management"
+        ],
+        "Joined Date": "2021-04-14",
+        "Total Logged Hours": 4100.2,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Emma White",
+        "Email": "emma.white@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Support",
+        "Location": "Portland",
+        "Skills": [
+          "JavaScript",
+          "Python"
+        ],
+        "Joined Date": "2022-12-08",
+        "Total Logged Hours": 3050.6,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Noah Lewis",
+        "Email": "noah.lewis@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "QA",
+        "Location": "Miami",
+        "Skills": [
+          "Data Analysis",
+          "DevOps"
+        ],
+        "Joined Date": "2021-09-17",
+        "Total Logged Hours": 3800.9,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Olivia Young",
+        "Email": "olivia.young@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Engineering",
+        "Location": "Philadelphia",
+        "Skills": [
+          "Python",
+          "Machine Learning"
+        ],
+        "Joined Date": "2020-04-09",
+        "Total Logged Hours": 5100.5,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Liam Hall",
+        "Email": "liam.hall@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Design",
+        "Location": "San Diego",
+        "Skills": [
+          "UI/UX Design",
+          "JavaScript"
+        ],
+        "Joined Date": "2024-03-31",
+        "Total Logged Hours": 1550.8,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Isabella King",
+        "Email": "isabella.king@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Admin",
+        "Location": "New York",
+        "Skills": [
+          "Project Management"
+        ],
+        "Joined Date": "2020-11-15",
+        "Total Logged Hours": 6400.6,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Mason Scott",
+        "Email": "mason.scott@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Department": "Marketing",
+        "Location": "San Francisco",
+        "Skills": [
+          "JavaScript",
+          "Project Management"
+        ],
+        "Joined Date": "2024-07-15",
+        "Total Logged Hours": 1020.7,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Emily Adams",
+        "Email": "emily.adams@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Product",
+        "Location": "Austin",
+        "Skills": [
+          "Machine Learning",
+          "DevOps"
+        ],
+        "Joined Date": "2022-05-20",
+        "Total Logged Hours": 4400.1,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Jacob Nelson",
+        "Email": "jacob.nelson@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Data",
+        "Location": "Seattle",
+        "Skills": [
+          "Python",
+          "Data Analysis"
+        ],
+        "Joined Date": "2018-12-15",
+        "Total Logged Hours": 7600.3,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Samantha Moore",
+        "Email": "samantha.moore@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Marketing",
+        "Location": "Denver",
+        "Skills": [
+          "UI/UX Design",
+          "JavaScript"
+        ],
+        "Joined Date": "2023-10-09",
+        "Total Logged Hours": 2400.5,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Daniel Clark",
+        "Email": "daniel.clark@summittech.com",
+        "Role": "Manager",
+        "Status": "Suspended",
+        "Department": "Engineering",
+        "Location": "Boston",
+        "Skills": [
+          "DevOps",
+          "Machine Learning"
+        ],
+        "Joined Date": "2022-07-05",
+        "Total Logged Hours": 3750.4,
+        "Availability": "No"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Olivia Lewis",
+        "Email": "olivia.lewis@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Support",
+        "Location": "Portland",
+        "Skills": [
+          "Python",
+          "Data Analysis"
+        ],
+        "Joined Date": "2021-02-10",
+        "Total Logged Hours": 4600.0,
+        "Availability": "Yes"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ethan Walker",
+        "Email": "ethan.walker@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Admin",
+        "Location": "Miami",
+        "Skills": [
+          "Project Management"
+        ],
+        "Joined Date": "2018-03-05",
+        "Total Logged Hours": 9800.7,
+        "Availability": "No"
+      }
+    }
+  ]
+}

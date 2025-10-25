@@ -1,0 +1,45 @@
+{
+  "templates": [
+    {
+      "title": "Standard Template ZX",
+      "description": "Standard performance evaluation template",
+      "kras": [
+        {
+          "key_result_area": "Performance Efficiency",
+          "per_weightage": 40
+        },
+        {
+          "key_result_area": "Quality of Work",
+          "per_weightage": 30
+        },
+        {
+          "key_result_area": "Team Collaboration",
+          "per_weightage": 30
+        }
+      ],
+      "rating_criteria": [
+        {
+          "criteria": "Technical Knowledge",
+          "per_weightage": 35
+        },
+        {
+          "criteria": "Communication Skills",
+          "per_weightage": 25
+        },
+        {
+          "criteria": "Team Collaboration",
+          "per_weightage": 25
+        },
+        {
+          "criteria": "Initiative & Innovation",
+          "per_weightage": 15
+        }
+      ]
+    }
+  ],
+  "company_name": "Acme Inc.",
+  "template_count": 1,
+  "theme_subject": "a IT outsourcing company",
+  "last_updated": "2025-06-04T17:16:17.447035",
+  "generation_context": "Generated 1 appraisal templates using GPT-4o-mini"
+}

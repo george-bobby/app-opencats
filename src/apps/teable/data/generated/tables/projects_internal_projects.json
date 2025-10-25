@@ -1,0 +1,2257 @@
+{
+  "table_name": "Projects",
+  "parent_workspace_name": "Internal Projects",
+  "parent_base_name": "Internal Projects",
+  "records": [
+    {
+      "fields": {
+        "Project Name": "AI-driven Social Media Campaign",
+        "Status": "Active",
+        "Start Date": "2025-01-15",
+        "End Date": "2025-04-30",
+        "Budget": 45000.0,
+        "Priority": "High",
+        "Description": "Creating an AI-powered campaign to increase social engagement for a retail client.",
+        "Created Date": "2024-12-20",
+        "Last Updated": "2025-04-10",
+        "Project Type": "Feature",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "SEO Optimization Research",
+        "Status": "Planning",
+        "Start Date": "2025-05-01",
+        "End Date": "2025-06-15",
+        "Budget": 12000.0,
+        "Priority": "Medium",
+        "Description": "Researching latest SEO trends to improve client website rankings.",
+        "Created Date": "2025-04-25",
+        "Last Updated": "2025-05-02",
+        "Project Type": "Research",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Website Maintenance Cycle Q2",
+        "Status": "Active",
+        "Start Date": "2025-04-01",
+        "End Date": "2025-06-30",
+        "Budget": 8000.0,
+        "Priority": "Low",
+        "Description": "Routine maintenance for client websites to ensure uptime and security.",
+        "Created Date": "2025-03-15",
+        "Last Updated": "2025-05-20",
+        "Project Type": "Maintenance",
+        "Client Impact": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Chatbot Enhancement",
+        "Status": "Active",
+        "Start Date": "2025-03-10",
+        "End Date": "2025-05-20",
+        "Budget": 18000.0,
+        "Priority": "Critical",
+        "Description": "Enhancing chatbot AI capabilities for improved customer interactions.",
+        "Created Date": "2025-02-01",
+        "Last Updated": "2025-04-18",
+        "Project Type": "Enhancement",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Email Marketing Automation Setup",
+        "Status": "Completed",
+        "Start Date": "2024-09-15",
+        "End Date": "2025-01-10",
+        "Budget": 25000.0,
+        "Priority": "High",
+        "Description": "Setting up automated email marketing workflows for e-commerce clients.",
+        "Created Date": "2024-08-01",
+        "Last Updated": "2025-01-11",
+        "Project Type": "Feature",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Bug Fix: Analytics Dashboard",
+        "Status": "Blocked",
+        "Start Date": "2025-05-10",
+        "End Date": "2025-06-20",
+        "Budget": 9000.0,
+        "Priority": "Critical",
+        "Description": "Fixing bugs causing incorrect data in client analytics dashboard.",
+        "Created Date": "2025-05-01",
+        "Last Updated": "2025-06-10",
+        "Project Type": "Bug Fix",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Client Retainer Q3",
+        "Status": "Planning",
+        "Start Date": "2025-07-01",
+        "End Date": "2025-09-30",
+        "Budget": 60000.0,
+        "Priority": "Medium",
+        "Description": "Quarterly retainer for ongoing marketing support for key clients.",
+        "Created Date": "2025-06-15",
+        "Last Updated": "2025-06-20",
+        "Project Type": "Retainer",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Social Media Analytics Tool Integration",
+        "Status": "Active",
+        "Start Date": "2025-02-15",
+        "End Date": "2025-05-25",
+        "Budget": 32000.0,
+        "Priority": "High",
+        "Description": "Integrating AI-powered social media analytics tools for better insights.",
+        "Created Date": "2025-01-10",
+        "Last Updated": "2025-04-30",
+        "Project Type": "Feature",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "UX/UI Improvements for Client Portal",
+        "Status": "Active",
+        "Start Date": "2025-03-05",
+        "End Date": "2025-06-15",
+        "Budget": 15000.0,
+        "Priority": "Medium",
+        "Description": "Improving user experience and interface for the client portal platform.",
+        "Created Date": "2025-02-01",
+        "Last Updated": "2025-05-22",
+        "Project Type": "Enhancement",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Content Generation Pilot",
+        "Status": "Planning",
+        "Start Date": "2025-06-10",
+        "End Date": "2025-07-25",
+        "Budget": 10000.0,
+        "Priority": "High",
+        "Description": "Pilot project to test AI-driven content generation for blogs and social media.",
+        "Created Date": "2025-05-20",
+        "Last Updated": "2025-06-15",
+        "Project Type": "Research",
+        "Client Impact": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Bug Fix: Mobile App Crash",
+        "Status": "Completed",
+        "Start Date": "2024-11-20",
+        "End Date": "2025-01-05",
+        "Budget": 7000.0,
+        "Priority": "Critical",
+        "Description": "Resolved critical bug causing app crashes on Android devices.",
+        "Created Date": "2024-11-01",
+        "Last Updated": "2025-01-06",
+        "Project Type": "Bug Fix",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Marketing Automation Workflow Setup",
+        "Status": "Active",
+        "Start Date": "2025-01-25",
+        "End Date": "2025-04-10",
+        "Budget": 22000.0,
+        "Priority": "High",
+        "Description": "Implementing new marketing automation workflows with AI triggers.",
+        "Created Date": "2024-12-10",
+        "Last Updated": "2025-03-30",
+        "Project Type": "Feature",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Client Analytics Dashboard Upgrade",
+        "Status": "Active",
+        "Start Date": "2025-02-20",
+        "End Date": "2025-05-15",
+        "Budget": 27000.0,
+        "Priority": "Medium",
+        "Description": "Upgrading dashboard with new AI-powered predictive analytics features.",
+        "Created Date": "2025-01-15",
+        "Last Updated": "2025-04-25",
+        "Project Type": "Enhancement",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Retainer Services Agreement Renewal",
+        "Status": "Completed",
+        "Start Date": "2024-07-01",
+        "End Date": "2025-06-30",
+        "Budget": 75000.0,
+        "Priority": "Low",
+        "Description": "Annual renewal of retainer services with existing clients.",
+        "Created Date": "2024-06-15",
+        "Last Updated": "2025-06-01",
+        "Project Type": "Retainer",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "SEO Bug Fixes and Improvements",
+        "Status": "Active",
+        "Start Date": "2025-04-05",
+        "End Date": "2025-06-20",
+        "Budget": 9000.0,
+        "Priority": "Medium",
+        "Description": "Fixing SEO related bugs and implementing new optimization strategies.",
+        "Created Date": "2025-03-20",
+        "Last Updated": "2025-05-30",
+        "Project Type": "Bug Fix",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI-driven Ad Placement Research",
+        "Status": "Research",
+        "Start Date": "2025-03-15",
+        "End Date": "2025-06-01",
+        "Budget": 14000.0,
+        "Priority": "High",
+        "Description": "Researching AI algorithms for optimal ad placements across platforms.",
+        "Created Date": "2025-02-10",
+        "Last Updated": "2025-05-01",
+        "Project Type": "Research",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Quarterly Maintenance Window Q2",
+        "Status": "Completed",
+        "Start Date": "2025-04-01",
+        "End Date": "2025-06-30",
+        "Budget": 8500.0,
+        "Priority": "Low",
+        "Description": "Scheduled maintenance for client applications and servers.",
+        "Created Date": "2025-03-01",
+        "Last Updated": "2025-06-29",
+        "Project Type": "Maintenance",
+        "Client Impact": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Client Loyalty Program Enhancement",
+        "Status": "Active",
+        "Start Date": "2025-02-10",
+        "End Date": "2025-05-20",
+        "Budget": 19500.0,
+        "Priority": "High",
+        "Description": "Enhancing AI-based client loyalty and reward program.",
+        "Created Date": "2025-01-05",
+        "Last Updated": "2025-04-28",
+        "Project Type": "Enhancement",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Bug Fix: Email Campaign Scheduling",
+        "Status": "Blocked",
+        "Start Date": "2025-05-15",
+        "End Date": "2025-06-30",
+        "Budget": 6000.0,
+        "Priority": "Critical",
+        "Description": "Resolve scheduling conflicts in automated email campaigns.",
+        "Created Date": "2025-05-05",
+        "Last Updated": "2025-06-15",
+        "Project Type": "Bug Fix",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "New Client Onboarding Research",
+        "Status": "Planning",
+        "Start Date": "2025-06-01",
+        "End Date": "2025-07-15",
+        "Budget": 11000.0,
+        "Priority": "Medium",
+        "Description": "Researching AI tools to streamline new client onboarding process.",
+        "Created Date": "2025-05-20",
+        "Last Updated": "2025-05-25",
+        "Project Type": "Research",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Social Media Retainer Package Q3",
+        "Status": "Planning",
+        "Start Date": "2025-07-01",
+        "End Date": "2025-09-30",
+        "Budget": 55000.0,
+        "Priority": "Medium",
+        "Description": "Quarterly retainer for social media management and AI analytics.",
+        "Created Date": "2025-06-10",
+        "Last Updated": "2025-06-18",
+        "Project Type": "Retainer",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "UI Bug Fixes for Marketing Dashboard",
+        "Status": "Active",
+        "Start Date": "2025-04-20",
+        "End Date": "2025-06-15",
+        "Budget": 7500.0,
+        "Priority": "Medium",
+        "Description": "Fixing UI glitches and improving user experience on the dashboard.",
+        "Created Date": "2025-04-01",
+        "Last Updated": "2025-05-25",
+        "Project Type": "Bug Fix",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI-powered Lead Generation Feature",
+        "Status": "Active",
+        "Start Date": "2025-01-05",
+        "End Date": "2025-04-15",
+        "Budget": 48000.0,
+        "Priority": "Critical",
+        "Description": "Developing AI feature to automate and optimize lead generation.",
+        "Created Date": "2024-12-01",
+        "Last Updated": "2025-03-30",
+        "Project Type": "Feature",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Website Security Maintenance",
+        "Status": "Active",
+        "Start Date": "2025-03-01",
+        "End Date": "2025-06-30",
+        "Budget": 9000.0,
+        "Priority": "High",
+        "Description": "Ongoing security updates and patches for client websites.",
+        "Created Date": "2025-02-01",
+        "Last Updated": "2025-05-15",
+        "Project Type": "Maintenance",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Email Platform Enhancement",
+        "Status": "Completed",
+        "Start Date": "2024-08-15",
+        "End Date": "2024-12-20",
+        "Budget": 21000.0,
+        "Priority": "High",
+        "Description": "Upgrading email platform to support AI personalization features.",
+        "Created Date": "2024-07-10",
+        "Last Updated": "2024-12-21",
+        "Project Type": "Enhancement",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Bug Fix: Client Reporting Tool",
+        "Status": "Blocked",
+        "Start Date": "2025-05-05",
+        "End Date": "2025-06-10",
+        "Budget": 8000.0,
+        "Priority": "Critical",
+        "Description": "Fixing data sync issues causing inaccurate client reports.",
+        "Created Date": "2025-04-25",
+        "Last Updated": "2025-06-05",
+        "Project Type": "Bug Fix",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Content Personalization Research",
+        "Status": "Research",
+        "Start Date": "2025-03-20",
+        "End Date": "2025-06-05",
+        "Budget": 13000.0,
+        "Priority": "Medium",
+        "Description": "Researching AI techniques to personalize client content automatically.",
+        "Created Date": "2025-02-15",
+        "Last Updated": "2025-05-20",
+        "Project Type": "Research",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Retainer Contract Q2",
+        "Status": "Completed",
+        "Start Date": "2024-04-01",
+        "End Date": "2025-03-31",
+        "Budget": 72000.0,
+        "Priority": "Low",
+        "Description": "Executed retainer contract covering multiple clients and projects.",
+        "Created Date": "2024-03-10",
+        "Last Updated": "2025-03-30",
+        "Project Type": "Retainer",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Mobile App Maintenance Cycle",
+        "Status": "Active",
+        "Start Date": "2025-03-10",
+        "End Date": "2025-06-25",
+        "Budget": 12000.0,
+        "Priority": "Medium",
+        "Description": "Ongoing maintenance and updates for client mobile applications.",
+        "Created Date": "2025-02-01",
+        "Last Updated": "2025-05-10",
+        "Project Type": "Maintenance",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Ad Campaign Bug Fixes",
+        "Status": "Active",
+        "Start Date": "2025-04-25",
+        "End Date": "2025-06-20",
+        "Budget": 8500.0,
+        "Priority": "High",
+        "Description": "Fix critical bugs affecting ad delivery and reporting accuracy.",
+        "Created Date": "2025-04-05",
+        "Last Updated": "2025-06-05",
+        "Project Type": "Bug Fix",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Client Website Redesign Feature",
+        "Status": "Planning",
+        "Start Date": "2025-06-15",
+        "End Date": "2025-09-30",
+        "Budget": 40000.0,
+        "Priority": "High",
+        "Description": "Major redesign of client website with AI-driven personalization.",
+        "Created Date": "2025-05-30",
+        "Last Updated": "2025-06-20",
+        "Project Type": "Feature",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Social Media Analytics Research",
+        "Status": "Research",
+        "Start Date": "2025-04-10",
+        "End Date": "2025-06-25",
+        "Budget": 15000.0,
+        "Priority": "Medium",
+        "Description": "Exploring advanced AI analytics for social media campaigns.",
+        "Created Date": "2025-03-20",
+        "Last Updated": "2025-06-01",
+        "Project Type": "Research",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Quarterly Platform Maintenance",
+        "Status": "Completed",
+        "Start Date": "2024-10-01",
+        "End Date": "2025-03-31",
+        "Budget": 9500.0,
+        "Priority": "Low",
+        "Description": "Performed scheduled platform maintenance and upgrades.",
+        "Created Date": "2024-09-10",
+        "Last Updated": "2025-03-30",
+        "Project Type": "Maintenance",
+        "Client Impact": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI-powered Campaign Optimization",
+        "Status": "Active",
+        "Start Date": "2025-02-01",
+        "End Date": "2025-05-10",
+        "Budget": 47000.0,
+        "Priority": "Critical",
+        "Description": "Optimizing marketing campaigns using AI algorithms for better ROI.",
+        "Created Date": "2025-01-01",
+        "Last Updated": "2025-04-20",
+        "Project Type": "Enhancement",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Bug Fix: Marketing Automation Triggers",
+        "Status": "Blocked",
+        "Start Date": "2025-05-20",
+        "End Date": "2025-06-30",
+        "Budget": 6500.0,
+        "Priority": "Critical",
+        "Description": "Addressing issues with automation triggers causing campaign failures.",
+        "Created Date": "2025-05-10",
+        "Last Updated": "2025-06-18",
+        "Project Type": "Bug Fix",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "New Client Onboarding Feature",
+        "Status": "Planning",
+        "Start Date": "2025-06-20",
+        "End Date": "2025-08-15",
+        "Budget": 20000.0,
+        "Priority": "High",
+        "Description": "Developing automated onboarding features with AI assistance.",
+        "Created Date": "2025-06-05",
+        "Last Updated": "2025-06-20",
+        "Project Type": "Feature",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Social Retainer Services Q2",
+        "Status": "Completed",
+        "Start Date": "2024-04-01",
+        "End Date": "2025-03-31",
+        "Budget": 58000.0,
+        "Priority": "Medium",
+        "Description": "Completed retainer services for social media management.",
+        "Created Date": "2024-03-15",
+        "Last Updated": "2025-03-30",
+        "Project Type": "Retainer",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Dashboard Bug Fix and Update",
+        "Status": "Active",
+        "Start Date": "2025-04-15",
+        "End Date": "2025-06-25",
+        "Budget": 9000.0,
+        "Priority": "High",
+        "Description": "Fixing bugs and updating UI for client analytics dashboard.",
+        "Created Date": "2025-03-25",
+        "Last Updated": "2025-05-30",
+        "Project Type": "Bug Fix",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Content Curation System",
+        "Status": "Active",
+        "Start Date": "2025-01-20",
+        "End Date": "2025-05-05",
+        "Budget": 45000.0,
+        "Priority": "High",
+        "Description": "Creating system to curate personalized content using AI.",
+        "Created Date": "2024-12-15",
+        "Last Updated": "2025-04-15",
+        "Project Type": "Feature",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Website Performance Maintenance",
+        "Status": "Active",
+        "Start Date": "2025-03-01",
+        "End Date": "2025-06-15",
+        "Budget": 10000.0,
+        "Priority": "Medium",
+        "Description": "Performance tuning and load optimization for client websites.",
+        "Created Date": "2025-01-25",
+        "Last Updated": "2025-05-10",
+        "Project Type": "Maintenance",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Email Campaign Platform Enhancement",
+        "Status": "Completed",
+        "Start Date": "2024-08-20",
+        "End Date": "2024-12-10",
+        "Budget": 23000.0,
+        "Priority": "High",
+        "Description": "Enhancing platform with new AI personalization modules.",
+        "Created Date": "2024-07-15",
+        "Last Updated": "2024-12-12",
+        "Project Type": "Enhancement",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Bug Fix: Lead Tracking Errors",
+        "Status": "Blocked",
+        "Start Date": "2025-05-10",
+        "End Date": "2025-06-20",
+        "Budget": 7500.0,
+        "Priority": "Critical",
+        "Description": "Fixing lead tracking issues causing data loss.",
+        "Created Date": "2025-05-01",
+        "Last Updated": "2025-06-12",
+        "Project Type": "Bug Fix",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI-driven Content Strategy Research",
+        "Status": "Research",
+        "Start Date": "2025-04-01",
+        "End Date": "2025-06-10",
+        "Budget": 14000.0,
+        "Priority": "Medium",
+        "Description": "Exploring AI to optimize content strategies for clients.",
+        "Created Date": "2025-03-01",
+        "Last Updated": "2025-05-25",
+        "Project Type": "Research",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Annual Retainer Contract 2025",
+        "Status": "Planning",
+        "Start Date": "2025-07-01",
+        "End Date": "2026-06-30",
+        "Budget": 85000.0,
+        "Priority": "Medium",
+        "Description": "Preparing annual retainer proposal for strategic clients.",
+        "Created Date": "2025-06-10",
+        "Last Updated": "2025-06-22",
+        "Project Type": "Retainer",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Mobile App Maintenance Phase 2",
+        "Status": "Active",
+        "Start Date": "2025-03-15",
+        "End Date": "2025-06-25",
+        "Budget": 13000.0,
+        "Priority": "Medium",
+        "Description": "Second phase of app maintenance focused on stability improvements.",
+        "Created Date": "2025-02-10",
+        "Last Updated": "2025-05-20",
+        "Project Type": "Maintenance",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Bug Fix: Social Media Scheduler",
+        "Status": "Active",
+        "Start Date": "2025-04-05",
+        "End Date": "2025-06-15",
+        "Budget": 7000.0,
+        "Priority": "High",
+        "Description": "Resolving issues with post scheduling and notifications.",
+        "Created Date": "2025-03-20",
+        "Last Updated": "2025-05-30",
+        "Project Type": "Bug Fix",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Chatbot Feature Expansion",
+        "Status": "Planning",
+        "Start Date": "2025-06-15",
+        "End Date": "2025-08-30",
+        "Budget": 25000.0,
+        "Priority": "High",
+        "Description": "Expanding chatbot features to support more client queries.",
+        "Created Date": "2025-06-01",
+        "Last Updated": "2025-06-20",
+        "Project Type": "Feature",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Social Media Analytics Enhancement",
+        "Status": "Active",
+        "Start Date": "2025-01-25",
+        "End Date": "2025-05-10",
+        "Budget": 28000.0,
+        "Priority": "Medium",
+        "Description": "Adding new AI metrics and predictive analytics to platform.",
+        "Created Date": "2024-12-20",
+        "Last Updated": "2025-04-25",
+        "Project Type": "Enhancement",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Quarterly Maintenance for CRM",
+        "Status": "Completed",
+        "Start Date": "2024-10-01",
+        "End Date": "2025-03-31",
+        "Budget": 9000.0,
+        "Priority": "Low",
+        "Description": "Scheduled CRM maintenance and updates for clients.",
+        "Created Date": "2024-09-15",
+        "Last Updated": "2025-03-30",
+        "Project Type": "Maintenance",
+        "Client Impact": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Bug Fix: Email Template Errors",
+        "Status": "Blocked",
+        "Start Date": "2025-05-20",
+        "End Date": "2025-06-30",
+        "Budget": 6500.0,
+        "Priority": "Critical",
+        "Description": "Fixing template rendering issues in email campaigns.",
+        "Created Date": "2025-05-10",
+        "Last Updated": "2025-06-22",
+        "Project Type": "Bug Fix",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Client Onboarding AI Research",
+        "Status": "Research",
+        "Start Date": "2025-04-15",
+        "End Date": "2025-06-30",
+        "Budget": 12000.0,
+        "Priority": "Medium",
+        "Description": "Researching AI tools to improve client onboarding experiences.",
+        "Created Date": "2025-03-30",
+        "Last Updated": "2025-06-01",
+        "Project Type": "Research",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Retainer Agreement Renewal Q3",
+        "Status": "Planning",
+        "Start Date": "2025-07-01",
+        "End Date": "2025-09-30",
+        "Budget": 60000.0,
+        "Priority": "Medium",
+        "Description": "Preparing retainer renewal contracts for key clients.",
+        "Created Date": "2025-06-15",
+        "Last Updated": "2025-06-20",
+        "Project Type": "Retainer",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Marketing Dashboard Bug Fixes",
+        "Status": "Active",
+        "Start Date": "2025-04-15",
+        "End Date": "2025-06-20",
+        "Budget": 8000.0,
+        "Priority": "Medium",
+        "Description": "Addressing bugs reported in marketing dashboard UI and data.",
+        "Created Date": "2025-04-01",
+        "Last Updated": "2025-05-25",
+        "Project Type": "Bug Fix",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI-based Lead Scoring Feature",
+        "Status": "Active",
+        "Start Date": "2025-02-01",
+        "End Date": "2025-05-15",
+        "Budget": 47000.0,
+        "Priority": "Critical",
+        "Description": "Developing AI algorithms to score and prioritize sales leads.",
+        "Created Date": "2025-01-01",
+        "Last Updated": "2025-04-28",
+        "Project Type": "Feature",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Website Security Patch Deployment",
+        "Status": "Active",
+        "Start Date": "2025-03-10",
+        "End Date": "2025-06-25",
+        "Budget": 9500.0,
+        "Priority": "High",
+        "Description": "Deploying critical security patches across client websites.",
+        "Created Date": "2025-02-15",
+        "Last Updated": "2025-05-20",
+        "Project Type": "Maintenance",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Email System Enhancement Release",
+        "Status": "Completed",
+        "Start Date": "2024-08-10",
+        "End Date": "2024-12-05",
+        "Budget": 22000.0,
+        "Priority": "High",
+        "Description": "Released AI-driven enhancements for email marketing platform.",
+        "Created Date": "2024-07-05",
+        "Last Updated": "2024-12-06",
+        "Project Type": "Enhancement",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Bug Fix: Campaign Analytics Sync",
+        "Status": "Blocked",
+        "Start Date": "2025-05-05",
+        "End Date": "2025-06-15",
+        "Budget": 7000.0,
+        "Priority": "Critical",
+        "Description": "Resolving data sync issues affecting campaign analytics.",
+        "Created Date": "2025-04-25",
+        "Last Updated": "2025-06-10",
+        "Project Type": "Bug Fix",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Content Personalization Research Study",
+        "Status": "Research",
+        "Start Date": "2025-03-20",
+        "End Date": "2025-06-05",
+        "Budget": 13000.0,
+        "Priority": "Medium",
+        "Description": "Studying AI methods for personalized client content delivery.",
+        "Created Date": "2025-02-15",
+        "Last Updated": "2025-05-22",
+        "Project Type": "Research",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Annual Marketing Retainer 2025",
+        "Status": "Planning",
+        "Start Date": "2025-07-01",
+        "End Date": "2026-06-30",
+        "Budget": 82000.0,
+        "Priority": "Medium",
+        "Description": "Planning annual retainer for comprehensive marketing services.",
+        "Created Date": "2025-06-10",
+        "Last Updated": "2025-06-22",
+        "Project Type": "Retainer",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Mobile App Stability Maintenance",
+        "Status": "Active",
+        "Start Date": "2025-03-20",
+        "End Date": "2025-06-25",
+        "Budget": 12500.0,
+        "Priority": "Medium",
+        "Description": "Focused on improving mobile app stability and bug fixes.",
+        "Created Date": "2025-02-15",
+        "Last Updated": "2025-05-18",
+        "Project Type": "Maintenance",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Social Scheduler Bug Fixes",
+        "Status": "Active",
+        "Start Date": "2025-04-10",
+        "End Date": "2025-06-20",
+        "Budget": 7000.0,
+        "Priority": "High",
+        "Description": "Fixing scheduling conflicts and notification bugs on social platform.",
+        "Created Date": "2025-03-25",
+        "Last Updated": "2025-06-01",
+        "Project Type": "Bug Fix",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Chatbot AI Feature Expansion",
+        "Status": "Planning",
+        "Start Date": "2025-06-20",
+        "End Date": "2025-08-30",
+        "Budget": 26000.0,
+        "Priority": "High",
+        "Description": "Adding new AI-driven features to client chatbot systems.",
+        "Created Date": "2025-06-05",
+        "Last Updated": "2025-06-25",
+        "Project Type": "Feature",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Social Media Analytics Update",
+        "Status": "Active",
+        "Start Date": "2025-02-05",
+        "End Date": "2025-05-20",
+        "Budget": 29000.0,
+        "Priority": "Medium",
+        "Description": "Updating social media analytics tools with new AI metrics.",
+        "Created Date": "2025-01-10",
+        "Last Updated": "2025-04-30",
+        "Project Type": "Enhancement",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "CRM Maintenance Window Q2",
+        "Status": "Completed",
+        "Start Date": "2024-10-05",
+        "End Date": "2025-03-31",
+        "Budget": 9200.0,
+        "Priority": "Low",
+        "Description": "Scheduled maintenance for CRM platform and client data.",
+        "Created Date": "2024-09-20",
+        "Last Updated": "2025-03-30",
+        "Project Type": "Maintenance",
+        "Client Impact": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Email Template Bug Fix",
+        "Status": "Blocked",
+        "Start Date": "2025-05-18",
+        "End Date": "2025-06-28",
+        "Budget": 6000.0,
+        "Priority": "Critical",
+        "Description": "Fixing template rendering errors affecting campaigns.",
+        "Created Date": "2025-05-08",
+        "Last Updated": "2025-06-20",
+        "Project Type": "Bug Fix",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Client Onboarding AI Tool Research",
+        "Status": "Research",
+        "Start Date": "2025-04-10",
+        "End Date": "2025-06-25",
+        "Budget": 12500.0,
+        "Priority": "Medium",
+        "Description": "Researching AI tools to streamline client onboarding.",
+        "Created Date": "2025-03-25",
+        "Last Updated": "2025-05-28",
+        "Project Type": "Research",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Q3 Retainer Service Planning",
+        "Status": "Planning",
+        "Start Date": "2025-07-01",
+        "End Date": "2025-09-30",
+        "Budget": 61000.0,
+        "Priority": "Medium",
+        "Description": "Preparing retainer services for upcoming quarter.",
+        "Created Date": "2025-06-15",
+        "Last Updated": "2025-06-24",
+        "Project Type": "Retainer",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Marketing Dashboard Fixes",
+        "Status": "Active",
+        "Start Date": "2025-04-20",
+        "End Date": "2025-06-25",
+        "Budget": 8500.0,
+        "Priority": "Medium",
+        "Description": "Resolving reported bugs in marketing dashboard UI and data flow.",
+        "Created Date": "2025-04-05",
+        "Last Updated": "2025-06-01",
+        "Project Type": "Bug Fix",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Lead Scoring Development",
+        "Status": "Active",
+        "Start Date": "2025-02-10",
+        "End Date": "2025-05-20",
+        "Budget": 46000.0,
+        "Priority": "Critical",
+        "Description": "Enhancing lead scoring models with AI technologies.",
+        "Created Date": "2025-01-05",
+        "Last Updated": "2025-04-20",
+        "Project Type": "Feature",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Website Security Updates",
+        "Status": "Active",
+        "Start Date": "2025-03-05",
+        "End Date": "2025-06-20",
+        "Budget": 9800.0,
+        "Priority": "High",
+        "Description": "Applying security updates and vulnerability patches to websites.",
+        "Created Date": "2025-02-10",
+        "Last Updated": "2025-05-15",
+        "Project Type": "Maintenance",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Email Platform AI Enhancement",
+        "Status": "Completed",
+        "Start Date": "2024-08-05",
+        "End Date": "2024-12-01",
+        "Budget": 21500.0,
+        "Priority": "High",
+        "Description": "Completed AI personalization enhancements for email system.",
+        "Created Date": "2024-07-01",
+        "Last Updated": "2024-12-02",
+        "Project Type": "Enhancement",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Campaign Analytics Bug Fixes",
+        "Status": "Blocked",
+        "Start Date": "2025-05-12",
+        "End Date": "2025-06-22",
+        "Budget": 7200.0,
+        "Priority": "Critical",
+        "Description": "Fixing data discrepancies in campaign analytics reports.",
+        "Created Date": "2025-05-02",
+        "Last Updated": "2025-06-15",
+        "Project Type": "Bug Fix",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Content Delivery Research",
+        "Status": "Research",
+        "Start Date": "2025-04-05",
+        "End Date": "2025-06-20",
+        "Budget": 13500.0,
+        "Priority": "Medium",
+        "Description": "Researching AI methods for optimized content delivery.",
+        "Created Date": "2025-03-01",
+        "Last Updated": "2025-05-28",
+        "Project Type": "Research",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Marketing Retainer 2025",
+        "Status": "Planning",
+        "Start Date": "2025-07-01",
+        "End Date": "2026-06-30",
+        "Budget": 83000.0,
+        "Priority": "Medium",
+        "Description": "Planning annual marketing retainer services for strategic clients.",
+        "Created Date": "2025-06-12",
+        "Last Updated": "2025-06-25",
+        "Project Type": "Retainer",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Mobile App Bug Fix Cycle",
+        "Status": "Active",
+        "Start Date": "2025-03-18",
+        "End Date": "2025-06-28",
+        "Budget": 12700.0,
+        "Priority": "Medium",
+        "Description": "Bug fixing and performance improvements for mobile apps.",
+        "Created Date": "2025-02-12",
+        "Last Updated": "2025-05-22",
+        "Project Type": "Maintenance",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Social Media Post Scheduler Fix",
+        "Status": "Active",
+        "Start Date": "2025-04-12",
+        "End Date": "2025-06-22",
+        "Budget": 7100.0,
+        "Priority": "High",
+        "Description": "Fixes for post scheduler issues and notification bugs.",
+        "Created Date": "2025-03-30",
+        "Last Updated": "2025-06-05",
+        "Project Type": "Bug Fix",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Chatbot AI Expansion Phase 2",
+        "Status": "Planning",
+        "Start Date": "2025-06-25",
+        "End Date": "2025-09-05",
+        "Budget": 27000.0,
+        "Priority": "High",
+        "Description": "Further expansions of AI chatbot functionalities.",
+        "Created Date": "2025-06-10",
+        "Last Updated": "2025-06-28",
+        "Project Type": "Feature",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Social Analytics Metrics Update",
+        "Status": "Active",
+        "Start Date": "2025-02-10",
+        "End Date": "2025-05-25",
+        "Budget": 29500.0,
+        "Priority": "Medium",
+        "Description": "Adding advanced AI metrics to social media analytics.",
+        "Created Date": "2025-01-15",
+        "Last Updated": "2025-05-05",
+        "Project Type": "Enhancement",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "CRM Scheduled Maintenance",
+        "Status": "Completed",
+        "Start Date": "2024-10-10",
+        "End Date": "2025-04-05",
+        "Budget": 9300.0,
+        "Priority": "Low",
+        "Description": "Completed scheduled CRM maintenance and upgrades.",
+        "Created Date": "2024-09-25",
+        "Last Updated": "2025-04-04",
+        "Project Type": "Maintenance",
+        "Client Impact": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Email Template Rendering Fix",
+        "Status": "Blocked",
+        "Start Date": "2025-05-22",
+        "End Date": "2025-07-01",
+        "Budget": 6100.0,
+        "Priority": "Critical",
+        "Description": "Fixing rendering issues in email templates for campaigns.",
+        "Created Date": "2025-05-12",
+        "Last Updated": "2025-06-25",
+        "Project Type": "Bug Fix",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Client Onboarding AI Research Phase 2",
+        "Status": "Research",
+        "Start Date": "2025-04-15",
+        "End Date": "2025-07-05",
+        "Budget": 12800.0,
+        "Priority": "Medium",
+        "Description": "Further research on AI tools for client onboarding.",
+        "Created Date": "2025-04-01",
+        "Last Updated": "2025-06-01",
+        "Project Type": "Research",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Q3 Marketing Retainer Preparation",
+        "Status": "Planning",
+        "Start Date": "2025-07-10",
+        "End Date": "2025-10-01",
+        "Budget": 61500.0,
+        "Priority": "Medium",
+        "Description": "Preparing marketing retainer services for Q3 clients.",
+        "Created Date": "2025-06-18",
+        "Last Updated": "2025-06-27",
+        "Project Type": "Retainer",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Bug Fixes for Marketing Dashboard",
+        "Status": "Active",
+        "Start Date": "2025-04-25",
+        "End Date": "2025-06-30",
+        "Budget": 8600.0,
+        "Priority": "Medium",
+        "Description": "Fixing bugs impacting marketing dashboard user experience.",
+        "Created Date": "2025-04-10",
+        "Last Updated": "2025-06-10",
+        "Project Type": "Bug Fix",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Lead Scoring Enhancement",
+        "Status": "Active",
+        "Start Date": "2025-02-15",
+        "End Date": "2025-05-25",
+        "Budget": 46500.0,
+        "Priority": "Critical",
+        "Description": "Enhancing lead scoring algorithms with new AI techniques.",
+        "Created Date": "2025-01-10",
+        "Last Updated": "2025-04-25",
+        "Project Type": "Feature",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Website Security Upgrade",
+        "Status": "Active",
+        "Start Date": "2025-03-10",
+        "End Date": "2025-06-28",
+        "Budget": 9900.0,
+        "Priority": "High",
+        "Description": "Implementing upgraded security features on client websites.",
+        "Created Date": "2025-02-20",
+        "Last Updated": "2025-05-22",
+        "Project Type": "Maintenance",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Email Marketing AI Upgrade",
+        "Status": "Completed",
+        "Start Date": "2024-08-01",
+        "End Date": "2024-11-28",
+        "Budget": 22500.0,
+        "Priority": "High",
+        "Description": "Completed AI upgrade for email marketing personalization.",
+        "Created Date": "2024-06-25",
+        "Last Updated": "2024-11-29",
+        "Project Type": "Enhancement",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Bug Fix: Campaign Data Sync",
+        "Status": "Blocked",
+        "Start Date": "2025-05-15",
+        "End Date": "2025-07-01",
+        "Budget": 7300.0,
+        "Priority": "Critical",
+        "Description": "Fixing synchronization issues in campaign data.",
+        "Created Date": "2025-05-05",
+        "Last Updated": "2025-06-28",
+        "Project Type": "Bug Fix",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Content Strategy Research Phase 2",
+        "Status": "Research",
+        "Start Date": "2025-04-10",
+        "End Date": "2025-07-01",
+        "Budget": 13800.0,
+        "Priority": "Medium",
+        "Description": "Advanced research on AI for content strategy optimization.",
+        "Created Date": "2025-03-15",
+        "Last Updated": "2025-06-05",
+        "Project Type": "Research",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Annual Retainer Proposal 2025",
+        "Status": "Planning",
+        "Start Date": "2025-07-10",
+        "End Date": "2026-06-30",
+        "Budget": 84000.0,
+        "Priority": "Medium",
+        "Description": "Drafting annual retainer proposals for top tier clients.",
+        "Created Date": "2025-06-15",
+        "Last Updated": "2025-06-28",
+        "Project Type": "Retainer",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Mobile App Stability Updates",
+        "Status": "Active",
+        "Start Date": "2025-03-25",
+        "End Date": "2025-06-30",
+        "Budget": 13000.0,
+        "Priority": "Medium",
+        "Description": "Implementing fixes to enhance mobile app stability.",
+        "Created Date": "2025-02-20",
+        "Last Updated": "2025-05-25",
+        "Project Type": "Maintenance",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Social Post Scheduler Fixes",
+        "Status": "Active",
+        "Start Date": "2025-04-15",
+        "End Date": "2025-06-30",
+        "Budget": 7200.0,
+        "Priority": "High",
+        "Description": "Fixing social media post scheduler bugs and improving notifications.",
+        "Created Date": "2025-04-01",
+        "Last Updated": "2025-06-08",
+        "Project Type": "Bug Fix",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Chatbot AI Functional Expansion",
+        "Status": "Planning",
+        "Start Date": "2025-06-30",
+        "End Date": "2025-09-10",
+        "Budget": 28000.0,
+        "Priority": "High",
+        "Description": "Adding new functionalities to client chatbot systems using AI.",
+        "Created Date": "2025-06-15",
+        "Last Updated": "2025-06-30",
+        "Project Type": "Feature",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Social Media AI Analytics Update",
+        "Status": "Active",
+        "Start Date": "2025-02-15",
+        "End Date": "2025-05-30",
+        "Budget": 30000.0,
+        "Priority": "Medium",
+        "Description": "Updating social media analytics with AI-driven metrics.",
+        "Created Date": "2025-01-20",
+        "Last Updated": "2025-05-10",
+        "Project Type": "Enhancement",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "CRM Maintenance Q3",
+        "Status": "Completed",
+        "Start Date": "2024-10-15",
+        "End Date": "2025-04-10",
+        "Budget": 9400.0,
+        "Priority": "Low",
+        "Description": "Completed scheduled CRM maintenance and feature updates.",
+        "Created Date": "2024-10-01",
+        "Last Updated": "2025-04-09",
+        "Project Type": "Maintenance",
+        "Client Impact": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Email Template Rendering Fixes",
+        "Status": "Blocked",
+        "Start Date": "2025-05-25",
+        "End Date": "2025-07-05",
+        "Budget": 6200.0,
+        "Priority": "Critical",
+        "Description": "Fixing persistent email template rendering issues.",
+        "Created Date": "2025-05-15",
+        "Last Updated": "2025-06-28",
+        "Project Type": "Bug Fix",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Client Onboarding AI Tool Research",
+        "Status": "Research",
+        "Start Date": "2025-04-20",
+        "End Date": "2025-07-10",
+        "Budget": 13000.0,
+        "Priority": "Medium",
+        "Description": "Researching advanced AI tools to enhance client onboarding.",
+        "Created Date": "2025-04-05",
+        "Last Updated": "2025-06-05",
+        "Project Type": "Research",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Q3 Marketing Retainer Service",
+        "Status": "Planning",
+        "Start Date": "2025-07-15",
+        "End Date": "2025-10-05",
+        "Budget": 62000.0,
+        "Priority": "Medium",
+        "Description": "Planning retainer services for Q3 clients.",
+        "Created Date": "2025-06-20",
+        "Last Updated": "2025-06-30",
+        "Project Type": "Retainer",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Marketing Dashboard Bug Fix Cycle",
+        "Status": "Active",
+        "Start Date": "2025-04-30",
+        "End Date": "2025-07-05",
+        "Budget": 8700.0,
+        "Priority": "Medium",
+        "Description": "Fixing bugs and improving marketing dashboard experience.",
+        "Created Date": "2025-04-15",
+        "Last Updated": "2025-06-15",
+        "Project Type": "Bug Fix",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Lead Scoring Model Update",
+        "Status": "Active",
+        "Start Date": "2025-02-20",
+        "End Date": "2025-05-30",
+        "Budget": 47000.0,
+        "Priority": "Critical",
+        "Description": "Updating AI lead scoring models to improve accuracy.",
+        "Created Date": "2025-01-15",
+        "Last Updated": "2025-05-01",
+        "Project Type": "Feature",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Website Security Hardening",
+        "Status": "Active",
+        "Start Date": "2025-03-15",
+        "End Date": "2025-07-01",
+        "Budget": 10000.0,
+        "Priority": "High",
+        "Description": "Enhancing website security with updated protocols and patches.",
+        "Created Date": "2025-02-25",
+        "Last Updated": "2025-06-01",
+        "Project Type": "Maintenance",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Email AI Personalization Release",
+        "Status": "Completed",
+        "Start Date": "2024-07-25",
+        "End Date": "2024-11-20",
+        "Budget": 23000.0,
+        "Priority": "High",
+        "Description": "Released AI personalization features for email campaigns.",
+        "Created Date": "2024-06-15",
+        "Last Updated": "2024-11-21",
+        "Project Type": "Enhancement",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Campaign Data Sync Bug Fix",
+        "Status": "Blocked",
+        "Start Date": "2025-05-20",
+        "End Date": "2025-07-10",
+        "Budget": 7400.0,
+        "Priority": "Critical",
+        "Description": "Fixing campaign data synchronization errors.",
+        "Created Date": "2025-05-10",
+        "Last Updated": "2025-07-01",
+        "Project Type": "Bug Fix",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Content Delivery AI Research",
+        "Status": "Research",
+        "Start Date": "2025-04-15",
+        "End Date": "2025-07-15",
+        "Budget": 14000.0,
+        "Priority": "Medium",
+        "Description": "Researching AI technologies for optimized content delivery.",
+        "Created Date": "2025-03-20",
+        "Last Updated": "2025-06-10",
+        "Project Type": "Research",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Annual Retainer Contract 2025",
+        "Status": "Planning",
+        "Start Date": "2025-07-20",
+        "End Date": "2026-06-30",
+        "Budget": 85000.0,
+        "Priority": "Medium",
+        "Description": "Preparing annual retainer contracts for major clients.",
+        "Created Date": "2025-06-18",
+        "Last Updated": "2025-06-30",
+        "Project Type": "Retainer",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Mobile App Stability Improvements",
+        "Status": "Active",
+        "Start Date": "2025-03-30",
+        "End Date": "2025-07-05",
+        "Budget": 13500.0,
+        "Priority": "Medium",
+        "Description": "Implementing fixes to enhance app stability and performance.",
+        "Created Date": "2025-02-25",
+        "Last Updated": "2025-05-30",
+        "Project Type": "Maintenance",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Social Media Scheduler Bug Fixes",
+        "Status": "Active",
+        "Start Date": "2025-04-20",
+        "End Date": "2025-07-10",
+        "Budget": 7300.0,
+        "Priority": "High",
+        "Description": "Resolving bugs with social media post scheduling and notifications.",
+        "Created Date": "2025-04-05",
+        "Last Updated": "2025-06-15",
+        "Project Type": "Bug Fix",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI-Driven SEO Revamp",
+        "Status": "Active",
+        "Start Date": "2024-08-10",
+        "End Date": "2025-03-15",
+        "Budget": 125000.0,
+        "Priority": "High",
+        "Description": "Revamping client SEO strategy using AI insights to improve organic traffic and search rankings.",
+        "Created Date": "2024-07-25",
+        "Last Updated": "2025-04-02",
+        "Project Type": "Feature",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Social Media Automation",
+        "Status": "Planning",
+        "Start Date": "2025-01-05",
+        "End Date": "2025-05-20",
+        "Budget": 45000.0,
+        "Priority": "Medium",
+        "Description": "Developing AI-powered tools to automate client social media posting and engagement tracking.",
+        "Created Date": "2024-12-15",
+        "Last Updated": "2025-01-10",
+        "Project Type": "Enhancement",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Website UX Overhaul",
+        "Status": "Active",
+        "Start Date": "2024-09-01",
+        "End Date": "2025-06-15",
+        "Budget": 90000.0,
+        "Priority": "High",
+        "Description": "Improving user experience on client websites using AI data to boost conversion rates.",
+        "Created Date": "2024-08-20",
+        "Last Updated": "2025-06-10",
+        "Project Type": "Feature",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Email Campaign Optimization",
+        "Status": "Completed",
+        "Start Date": "2024-02-12",
+        "End Date": "2024-05-22",
+        "Budget": 38000.0,
+        "Priority": "Medium",
+        "Description": "Optimizing email send times and content with AI analytics leading to higher open rates.",
+        "Created Date": "2023-12-01",
+        "Last Updated": "2024-05-23",
+        "Project Type": "Enhancement",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Chatbot Integration",
+        "Status": "Active",
+        "Start Date": "2025-03-10",
+        "End Date": "2025-07-30",
+        "Budget": 68000.0,
+        "Priority": "Critical",
+        "Description": "Integrating AI chatbots into client websites to improve customer service and engagement.",
+        "Created Date": "2025-02-01",
+        "Last Updated": "2025-06-15",
+        "Project Type": "Feature",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Quarterly Retainer Support",
+        "Status": "Active",
+        "Start Date": "2024-06-01",
+        "End Date": "2025-06-01",
+        "Budget": 120000.0,
+        "Priority": "Medium",
+        "Description": "Ongoing AI marketing support and analytics retainer for key clients.",
+        "Created Date": "2024-05-20",
+        "Last Updated": "2025-06-01",
+        "Project Type": "Retainer",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Ad Budget Allocation Fix",
+        "Status": "Blocked",
+        "Start Date": "2025-05-01",
+        "End Date": "2025-06-30",
+        "Budget": 15000.0,
+        "Priority": "High",
+        "Description": "Bug fix to correct AI misallocation of advertising budgets across channels.",
+        "Created Date": "2025-04-15",
+        "Last Updated": "2025-05-20",
+        "Project Type": "Bug Fix",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Client Analytics Dashboard",
+        "Status": "Planning",
+        "Start Date": "2025-04-01",
+        "End Date": "2025-09-30",
+        "Budget": 77000.0,
+        "Priority": "High",
+        "Description": "Building an AI-powered dashboard for clients to track marketing KPI's in real-time.",
+        "Created Date": "2025-03-10",
+        "Last Updated": "2025-04-05",
+        "Project Type": "Feature",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Marketing Funnel Enhancement",
+        "Status": "Active",
+        "Start Date": "2024-10-15",
+        "End Date": "2025-04-30",
+        "Budget": 60000.0,
+        "Priority": "Medium",
+        "Description": "Enhancing client marketing funnels with AI behavior prediction models.",
+        "Created Date": "2024-09-15",
+        "Last Updated": "2025-05-01",
+        "Project Type": "Enhancement",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Content Generation Research",
+        "Status": "Research",
+        "Start Date": "2024-07-01",
+        "End Date": "2025-01-31",
+        "Budget": 48000.0,
+        "Priority": "Low",
+        "Description": "Exploring AI-generated content techniques to improve client blogging efficiency.",
+        "Created Date": "2024-06-15",
+        "Last Updated": "2024-12-20",
+        "Project Type": "Research",
+        "Client Impact": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Bug Fix: Analytics Reporting",
+        "Status": "Blocked",
+        "Start Date": "2025-04-10",
+        "End Date": "2025-05-25",
+        "Budget": 10000.0,
+        "Priority": "Critical",
+        "Description": "Fixing critical bugs causing reporting errors in AI analytics tool.",
+        "Created Date": "2025-03-20",
+        "Last Updated": "2025-04-30",
+        "Project Type": "Bug Fix",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI-Powered Lead Generation",
+        "Status": "Active",
+        "Start Date": "2024-11-01",
+        "End Date": "2025-05-15",
+        "Budget": 95000.0,
+        "Priority": "High",
+        "Description": "Implementing AI techniques to generate and qualify leads for clients.",
+        "Created Date": "2024-10-10",
+        "Last Updated": "2025-05-10",
+        "Project Type": "Feature",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Performance Marketing Retainer",
+        "Status": "Active",
+        "Start Date": "2024-06-15",
+        "End Date": "2025-06-15",
+        "Budget": 110000.0,
+        "Priority": "Medium",
+        "Description": "Monthly performance marketing and AI analytics retainer for top clients.",
+        "Created Date": "2024-06-01",
+        "Last Updated": "2025-06-12",
+        "Project Type": "Retainer",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "UX Bug Fixes",
+        "Status": "Active",
+        "Start Date": "2025-02-15",
+        "End Date": "2025-04-01",
+        "Budget": 13500.0,
+        "Priority": "High",
+        "Description": "Fixing multiple user experience bugs on client web portals.",
+        "Created Date": "2025-01-20",
+        "Last Updated": "2025-03-30",
+        "Project Type": "Bug Fix",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Campaign Research",
+        "Status": "Research",
+        "Start Date": "2024-09-05",
+        "End Date": "2025-03-10",
+        "Budget": 52000.0,
+        "Priority": "Low",
+        "Description": "Researching AI-driven campaign personalization methods.",
+        "Created Date": "2024-08-25",
+        "Last Updated": "2025-02-28",
+        "Project Type": "Research",
+        "Client Impact": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Maintenance of Analytics Platform",
+        "Status": "Maintenance",
+        "Start Date": "2024-06-01",
+        "End Date": "2025-06-01",
+        "Budget": 40000.0,
+        "Priority": "Medium",
+        "Description": "Ongoing maintenance and updates for AI analytics platform.",
+        "Created Date": "2024-05-15",
+        "Last Updated": "2025-05-20",
+        "Project Type": "Maintenance",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "New Client Onboarding Feature",
+        "Status": "Active",
+        "Start Date": "2024-12-01",
+        "End Date": "2025-05-15",
+        "Budget": 72000.0,
+        "Priority": "High",
+        "Description": "Developing an AI onboarding assistant for new clients.",
+        "Created Date": "2024-11-15",
+        "Last Updated": "2025-05-10",
+        "Project Type": "Feature",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Critical SEO Bug Fix",
+        "Status": "Blocked",
+        "Start Date": "2025-05-10",
+        "End Date": "2025-06-20",
+        "Budget": 12000.0,
+        "Priority": "Critical",
+        "Description": "Addressing critical bug impacting client SEO rankings.",
+        "Created Date": "2025-04-25",
+        "Last Updated": "2025-05-22",
+        "Project Type": "Bug Fix",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Social Listening Enhancement",
+        "Status": "Active",
+        "Start Date": "2024-10-20",
+        "End Date": "2025-06-01",
+        "Budget": 55000.0,
+        "Priority": "Medium",
+        "Description": "Enhancing AI social listening tools with sentiment analysis.",
+        "Created Date": "2024-10-05",
+        "Last Updated": "2025-05-25",
+        "Project Type": "Enhancement",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Annual Retainer Agreement",
+        "Status": "Active",
+        "Start Date": "2024-07-01",
+        "End Date": "2025-07-01",
+        "Budget": 130000.0,
+        "Priority": "Medium",
+        "Description": "Year-long retainer providing AI marketing support and consulting.",
+        "Created Date": "2024-06-15",
+        "Last Updated": "2025-06-10",
+        "Project Type": "Retainer",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Content Quality Bug Fix",
+        "Status": "Completed",
+        "Start Date": "2024-01-10",
+        "End Date": "2024-03-20",
+        "Budget": 15000.0,
+        "Priority": "Medium",
+        "Description": "Resolving bugs affecting AI-generated content quality.",
+        "Created Date": "2023-12-01",
+        "Last Updated": "2024-03-21",
+        "Project Type": "Bug Fix",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Customer Journey Enhancement",
+        "Status": "Active",
+        "Start Date": "2024-08-05",
+        "End Date": "2025-03-30",
+        "Budget": 67000.0,
+        "Priority": "High",
+        "Description": "Improving AI models to better map customer journeys for clients.",
+        "Created Date": "2024-07-25",
+        "Last Updated": "2025-03-28",
+        "Project Type": "Enhancement",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Market Research",
+        "Status": "Research",
+        "Start Date": "2024-11-15",
+        "End Date": "2025-06-01",
+        "Budget": 58000.0,
+        "Priority": "Low",
+        "Description": "Conducting market research using AI data analysis for new services.",
+        "Created Date": "2024-11-01",
+        "Last Updated": "2025-05-20",
+        "Project Type": "Research",
+        "Client Impact": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Retainer: Ad Campaign Management",
+        "Status": "Active",
+        "Start Date": "2024-09-01",
+        "End Date": "2025-09-01",
+        "Budget": 115000.0,
+        "Priority": "Medium",
+        "Description": "Retainer for ongoing AI-managed advertising campaigns.",
+        "Created Date": "2024-08-20",
+        "Last Updated": "2025-06-05",
+        "Project Type": "Retainer",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Bug Fix: Data Sync",
+        "Status": "Blocked",
+        "Start Date": "2025-03-15",
+        "End Date": "2025-05-10",
+        "Budget": 9000.0,
+        "Priority": "High",
+        "Description": "Fixing data synchronization issues across client platforms.",
+        "Created Date": "2025-03-01",
+        "Last Updated": "2025-04-25",
+        "Project Type": "Bug Fix",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI-Powered PPC Optimization",
+        "Status": "Active",
+        "Start Date": "2024-10-10",
+        "End Date": "2025-04-20",
+        "Budget": 85000.0,
+        "Priority": "High",
+        "Description": "Using AI to optimize pay-per-click campaigns for higher ROI.",
+        "Created Date": "2024-09-30",
+        "Last Updated": "2025-04-15",
+        "Project Type": "Feature",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Maintenance: CRM Integration",
+        "Status": "Maintenance",
+        "Start Date": "2024-07-01",
+        "End Date": "2025-07-01",
+        "Budget": 37000.0,
+        "Priority": "Medium",
+        "Description": "Maintaining AI integration with client CRM systems.",
+        "Created Date": "2024-06-20",
+        "Last Updated": "2025-06-20",
+        "Project Type": "Maintenance",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Critical Bug Fix: Reporting Delay",
+        "Status": "Blocked",
+        "Start Date": "2025-05-05",
+        "End Date": "2025-06-10",
+        "Budget": 11000.0,
+        "Priority": "Critical",
+        "Description": "Fixing delays in AI-generated reports impacting client decisions.",
+        "Created Date": "2025-04-20",
+        "Last Updated": "2025-05-18",
+        "Project Type": "Bug Fix",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "New Feature: AI Video Ads",
+        "Status": "Planning",
+        "Start Date": "2025-03-01",
+        "End Date": "2025-08-31",
+        "Budget": 78000.0,
+        "Priority": "High",
+        "Description": "Developing AI tools to create personalized video advertisements.",
+        "Created Date": "2025-02-10",
+        "Last Updated": "2025-03-05",
+        "Project Type": "Feature",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Client Data Privacy Research",
+        "Status": "Research",
+        "Start Date": "2024-06-15",
+        "End Date": "2025-02-28",
+        "Budget": 46000.0,
+        "Priority": "Low",
+        "Description": "Researching AI solutions that enhance client data privacy compliance.",
+        "Created Date": "2024-06-01",
+        "Last Updated": "2025-02-20",
+        "Project Type": "Research",
+        "Client Impact": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Maintenance: AI Model Updates",
+        "Status": "Maintenance",
+        "Start Date": "2024-07-15",
+        "End Date": "2025-07-15",
+        "Budget": 42000.0,
+        "Priority": "Medium",
+        "Description": "Regular updates and maintenance of AI marketing models for clients.",
+        "Created Date": "2024-07-01",
+        "Last Updated": "2025-06-25",
+        "Project Type": "Maintenance",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Social Media Bug Fixes",
+        "Status": "Completed",
+        "Start Date": "2024-03-01",
+        "End Date": "2024-05-15",
+        "Budget": 14000.0,
+        "Priority": "Medium",
+        "Description": "Fixing bugs affecting social media automation tools.",
+        "Created Date": "2023-12-15",
+        "Last Updated": "2024-05-16",
+        "Project Type": "Bug Fix",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Enhanced Reporting Features",
+        "Status": "Active",
+        "Start Date": "2024-11-20",
+        "End Date": "2025-05-30",
+        "Budget": 65000.0,
+        "Priority": "Medium",
+        "Description": "Adding new AI-driven reporting features for clients.",
+        "Created Date": "2024-11-05",
+        "Last Updated": "2025-05-25",
+        "Project Type": "Enhancement",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Annual AI Strategy Retainer",
+        "Status": "Active",
+        "Start Date": "2024-08-01",
+        "End Date": "2025-08-01",
+        "Budget": 125000.0,
+        "Priority": "Medium",
+        "Description": "Year-long retainer focusing on AI strategy consulting for clients.",
+        "Created Date": "2024-07-15",
+        "Last Updated": "2025-06-15",
+        "Project Type": "Retainer",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Bug Fix: Lead Scoring",
+        "Status": "Blocked",
+        "Start Date": "2025-04-20",
+        "End Date": "2025-06-01",
+        "Budget": 10500.0,
+        "Priority": "High",
+        "Description": "Fixing lead scoring algorithm bugs that affect marketing prioritization.",
+        "Created Date": "2025-04-05",
+        "Last Updated": "2025-05-28",
+        "Project Type": "Bug Fix",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Personalization Enhancement",
+        "Status": "Active",
+        "Start Date": "2024-10-05",
+        "End Date": "2025-04-15",
+        "Budget": 73000.0,
+        "Priority": "High",
+        "Description": "Enhancing AI personalization features across client marketing channels.",
+        "Created Date": "2024-09-25",
+        "Last Updated": "2025-04-10",
+        "Project Type": "Enhancement",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "User Feedback Analysis Research",
+        "Status": "Research",
+        "Start Date": "2024-07-10",
+        "End Date": "2025-01-20",
+        "Budget": 49000.0,
+        "Priority": "Low",
+        "Description": "Researching AI methods to analyze and categorize user feedback efficiently.",
+        "Created Date": "2024-06-25",
+        "Last Updated": "2025-01-15",
+        "Project Type": "Research",
+        "Client Impact": "Low"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Maintenance: API Integration",
+        "Status": "Maintenance",
+        "Start Date": "2024-06-20",
+        "End Date": "2025-06-20",
+        "Budget": 39000.0,
+        "Priority": "Medium",
+        "Description": "Maintaining API integrations for AI marketing tools.",
+        "Created Date": "2024-06-05",
+        "Last Updated": "2025-06-18",
+        "Project Type": "Maintenance",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Feature: AI Content Scheduler",
+        "Status": "Planning",
+        "Start Date": "2025-02-01",
+        "End Date": "2025-07-15",
+        "Budget": 70000.0,
+        "Priority": "High",
+        "Description": "Developing AI-powered content scheduling features for clients.",
+        "Created Date": "2025-01-10",
+        "Last Updated": "2025-02-05",
+        "Project Type": "Feature",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI-Driven Social Media Campaign",
+        "Status": "Active",
+        "Start Date": "2024-12-15",
+        "End Date": "2025-05-30",
+        "Budget": 150000.0,
+        "Priority": "High",
+        "Description": "Launching an AI-powered campaign to optimize social media engagement across multiple platforms for a key client.",
+        "Created Date": "2024-12-01",
+        "Last Updated": "2025-04-20",
+        "Project Type": "Feature",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Website UX Overhaul",
+        "Status": "Planning",
+        "Start Date": "2025-01-10",
+        "End Date": "2025-07-15",
+        "Budget": 85000.0,
+        "Priority": "Medium",
+        "Description": "Redesigning the website user experience to increase conversion rates using AI analytics.",
+        "Created Date": "2024-11-05",
+        "Last Updated": "2025-01-05",
+        "Project Type": "Enhancement",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Monthly SEO Retainer",
+        "Status": "Active",
+        "Start Date": "2024-08-01",
+        "End Date": "2025-07-31",
+        "Budget": 12000.0,
+        "Priority": "Low",
+        "Description": "Ongoing SEO services powered by AI to maintain and improve search rankings for multiple clients.",
+        "Created Date": "2024-07-20",
+        "Last Updated": "2025-06-10",
+        "Project Type": "Retainer",
+        "Client Impact": "Medium"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "Bug Fix: Ad Targeting Glitch",
+        "Status": "Blocked",
+        "Start Date": "2025-03-05",
+        "End Date": "2025-03-20",
+        "Budget": 5000.0,
+        "Priority": "Critical",
+        "Description": "Resolving a critical bug in the AI ad targeting algorithm that is affecting campaign results.",
+        "Created Date": "2025-03-01",
+        "Last Updated": "2025-03-10",
+        "Project Type": "Bug Fix",
+        "Client Impact": "High"
+      }
+    },
+    {
+      "fields": {
+        "Project Name": "AI Market Trend Research",
+        "Status": "Completed",
+        "Start Date": "2024-07-01",
+        "End Date": "2024-11-30",
+        "Budget": 30000.0,
+        "Priority": "Medium",
+        "Description": "Comprehensive research on emerging market trends using AI to inform future client strategies.",
+        "Created Date": "2024-06-25",
+        "Last Updated": "2024-12-01",
+        "Project Type": "Research",
+        "Client Impact": "Low"
+      }
+    }
+  ]
+}

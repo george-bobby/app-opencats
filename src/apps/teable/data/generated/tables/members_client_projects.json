@@ -1,0 +1,2557 @@
+{
+  "table_name": "Members",
+  "parent_workspace_name": "Client Projects",
+  "parent_base_name": "Client Projects",
+  "records": [
+    {
+      "fields": {
+        "Full Name": "Evelyn Parker",
+        "Email": "evelyn.parker@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Marketing",
+        "Joined Date": "2023-01-12",
+        "Total Logged Hours": 3120.5,
+        "Availability": "Yes",
+        "Location": "Denver",
+        "Employment Type": "Full-time",
+        "Billable Rate": 185.75,
+        "Time Zone": "MST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Liam Garcia",
+        "Email": "liam.garcia@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Engineering",
+        "Joined Date": "2021-10-05",
+        "Total Logged Hours": 5240.3,
+        "Availability": "Yes",
+        "Location": "Austin",
+        "Employment Type": "Full-time",
+        "Billable Rate": 210.0,
+        "Time Zone": "CST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Sofia Martinez",
+        "Email": "sofia.martinez@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Admin",
+        "Joined Date": "2020-06-15",
+        "Total Logged Hours": 8320.7,
+        "Availability": "No",
+        "Location": "New York",
+        "Employment Type": "Full-time",
+        "Billable Rate": 150.25,
+        "Time Zone": "EST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Noah Smith",
+        "Email": "noah.smith@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Department": "QA",
+        "Joined Date": "2019-08-20",
+        "Total Logged Hours": 4100.0,
+        "Availability": "No",
+        "Location": "San Francisco",
+        "Employment Type": "Contractor",
+        "Billable Rate": 175.5,
+        "Time Zone": "PST",
+        "Performance Rating": "Below Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Amelia Johnson",
+        "Email": "amelia.johnson@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Product",
+        "Joined Date": "2022-03-09",
+        "Total Logged Hours": 6050.1,
+        "Availability": "Yes",
+        "Location": "Seattle",
+        "Employment Type": "Full-time",
+        "Billable Rate": 230.0,
+        "Time Zone": "PST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Oliver Brown",
+        "Email": "oliver.brown@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Data",
+        "Joined Date": "2024-01-21",
+        "Total Logged Hours": 850.3,
+        "Availability": "Yes",
+        "Location": "Chicago",
+        "Employment Type": "Part-time",
+        "Billable Rate": 140.0,
+        "Time Zone": "CST",
+        "Performance Rating": "New Hire"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Isabella Davis",
+        "Email": "isabella.davis@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Support",
+        "Joined Date": "2018-12-01",
+        "Total Logged Hours": 9520.9,
+        "Availability": "No",
+        "Location": "Miami",
+        "Employment Type": "Full-time",
+        "Billable Rate": 160.4,
+        "Time Zone": "EST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "James Wilson",
+        "Email": "james.wilson@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Engineering",
+        "Joined Date": "2023-07-14",
+        "Total Logged Hours": 2800.2,
+        "Availability": "Yes",
+        "Location": "Portland",
+        "Employment Type": "Contractor",
+        "Billable Rate": 195.0,
+        "Time Zone": "PST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Mia Moore",
+        "Email": "mia.moore@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Design",
+        "Joined Date": "2020-11-28",
+        "Total Logged Hours": 7390.5,
+        "Availability": "No",
+        "Location": "Boston",
+        "Employment Type": "Full-time",
+        "Billable Rate": 175.25,
+        "Time Zone": "EST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Benjamin Taylor",
+        "Email": "benjamin.taylor@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Marketing",
+        "Joined Date": "2021-05-17",
+        "Total Logged Hours": 4820.8,
+        "Availability": "Yes",
+        "Location": "Atlanta",
+        "Employment Type": "Full-time",
+        "Billable Rate": 210.5,
+        "Time Zone": "EST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Charlotte Anderson",
+        "Email": "charlotte.anderson@summittech.com",
+        "Role": "Admin",
+        "Status": "Suspended",
+        "Department": "Admin",
+        "Joined Date": "2019-04-30",
+        "Total Logged Hours": 7000.0,
+        "Availability": "No",
+        "Location": "Dallas",
+        "Employment Type": "Full-time",
+        "Billable Rate": 155.0,
+        "Time Zone": "CST",
+        "Performance Rating": "Below Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Elijah Thomas",
+        "Email": "elijah.thomas@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Product",
+        "Joined Date": "2022-09-12",
+        "Total Logged Hours": 5100.6,
+        "Availability": "Yes",
+        "Location": "Phoenix",
+        "Employment Type": "Full-time",
+        "Billable Rate": 225.75,
+        "Time Zone": "MST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Amelia Jackson",
+        "Email": "amelia.jackson@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "QA",
+        "Joined Date": "2023-05-23",
+        "Total Logged Hours": 2900.4,
+        "Availability": "Yes",
+        "Location": "San Diego",
+        "Employment Type": "Contractor",
+        "Billable Rate": 170.0,
+        "Time Zone": "PST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Lucas White",
+        "Email": "lucas.white@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Data",
+        "Joined Date": "2020-02-14",
+        "Total Logged Hours": 7650.7,
+        "Availability": "No",
+        "Location": "Houston",
+        "Employment Type": "Full-time",
+        "Billable Rate": 180.95,
+        "Time Zone": "CST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Harper Harris",
+        "Email": "harper.harris@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Support",
+        "Joined Date": "2018-07-19",
+        "Total Logged Hours": 9250.2,
+        "Availability": "No",
+        "Location": "Philadelphia",
+        "Employment Type": "Full-time",
+        "Billable Rate": 150.0,
+        "Time Zone": "EST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Henry Martin",
+        "Email": "henry.martin@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Engineering",
+        "Joined Date": "2024-03-18",
+        "Total Logged Hours": 1200.8,
+        "Availability": "Yes",
+        "Location": "Las Vegas",
+        "Employment Type": "Part-time",
+        "Billable Rate": 200.0,
+        "Time Zone": "PST",
+        "Performance Rating": "New Hire"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Evelyn Thompson",
+        "Email": "evelyn.thompson@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Department": "Design",
+        "Joined Date": "2019-09-25",
+        "Total Logged Hours": 5100.0,
+        "Availability": "No",
+        "Location": "Detroit",
+        "Employment Type": "Full-time",
+        "Billable Rate": 175.0,
+        "Time Zone": "EST",
+        "Performance Rating": "Below Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Jackson Garcia",
+        "Email": "jackson.garcia@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Marketing",
+        "Joined Date": "2021-12-30",
+        "Total Logged Hours": 6200.5,
+        "Availability": "Yes",
+        "Location": "San Jose",
+        "Employment Type": "Contractor",
+        "Billable Rate": 215.75,
+        "Time Zone": "PST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Abigail Martinez",
+        "Email": "abigail.martinez@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Admin",
+        "Joined Date": "2020-10-07",
+        "Total Logged Hours": 8400.3,
+        "Availability": "No",
+        "Location": "Columbus",
+        "Employment Type": "Full-time",
+        "Billable Rate": 152.0,
+        "Time Zone": "EST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Michael Robinson",
+        "Email": "michael.robinson@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Product",
+        "Joined Date": "2023-06-03",
+        "Total Logged Hours": 3550.1,
+        "Availability": "Yes",
+        "Location": "Indianapolis",
+        "Employment Type": "Full-time",
+        "Billable Rate": 220.0,
+        "Time Zone": "EST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ella Clark",
+        "Email": "ella.clark@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "QA",
+        "Joined Date": "2022-04-14",
+        "Total Logged Hours": 5400.2,
+        "Availability": "No",
+        "Location": "Charlotte",
+        "Employment Type": "Part-time",
+        "Billable Rate": 168.0,
+        "Time Zone": "EST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Daniel Rodriguez",
+        "Email": "daniel.rodriguez@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Data",
+        "Joined Date": "2021-08-22",
+        "Total Logged Hours": 6230.9,
+        "Availability": "Yes",
+        "Location": "Memphis",
+        "Employment Type": "Full-time",
+        "Billable Rate": 182.5,
+        "Time Zone": "CST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Grace Lewis",
+        "Email": "grace.lewis@summittech.com",
+        "Role": "Admin",
+        "Status": "Suspended",
+        "Department": "Support",
+        "Joined Date": "2019-03-09",
+        "Total Logged Hours": 7100.0,
+        "Availability": "No",
+        "Location": "Baltimore",
+        "Employment Type": "Full-time",
+        "Billable Rate": 158.25,
+        "Time Zone": "EST",
+        "Performance Rating": "Below Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Samuel Lee",
+        "Email": "samuel.lee@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Engineering",
+        "Joined Date": "2024-02-26",
+        "Total Logged Hours": 1400.3,
+        "Availability": "Yes",
+        "Location": "Denver",
+        "Employment Type": "Full-time",
+        "Billable Rate": 190.0,
+        "Time Zone": "MST",
+        "Performance Rating": "New Hire"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Victoria Walker",
+        "Email": "victoria.walker@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Design",
+        "Joined Date": "2020-05-16",
+        "Total Logged Hours": 7200.7,
+        "Availability": "No",
+        "Location": "Orlando",
+        "Employment Type": "Contractor",
+        "Billable Rate": 178.0,
+        "Time Zone": "EST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "David Hall",
+        "Email": "david.hall@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Marketing",
+        "Joined Date": "2022-11-19",
+        "Total Logged Hours": 4000.0,
+        "Availability": "Yes",
+        "Location": "Raleigh",
+        "Employment Type": "Full-time",
+        "Billable Rate": 205.0,
+        "Time Zone": "EST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Chloe Allen",
+        "Email": "chloe.allen@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Admin",
+        "Joined Date": "2018-06-13",
+        "Total Logged Hours": 9590.5,
+        "Availability": "No",
+        "Location": "Minneapolis",
+        "Employment Type": "Full-time",
+        "Billable Rate": 150.0,
+        "Time Zone": "CST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Matthew Young",
+        "Email": "matthew.young@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Product",
+        "Joined Date": "2023-08-29",
+        "Total Logged Hours": 2980.4,
+        "Availability": "Yes",
+        "Location": "Salt Lake City",
+        "Employment Type": "Full-time",
+        "Billable Rate": 225.5,
+        "Time Zone": "MST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Zoe King",
+        "Email": "zoe.king@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "QA",
+        "Joined Date": "2021-07-11",
+        "Total Logged Hours": 5600.6,
+        "Availability": "No",
+        "Location": "Detroit",
+        "Employment Type": "Part-time",
+        "Billable Rate": 165.0,
+        "Time Zone": "EST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Joseph Wright",
+        "Email": "joseph.wright@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Department": "Data",
+        "Joined Date": "2019-11-23",
+        "Total Logged Hours": 4200.0,
+        "Availability": "No",
+        "Location": "New Orleans",
+        "Employment Type": "Full-time",
+        "Billable Rate": 175.0,
+        "Time Zone": "CST",
+        "Performance Rating": "Below Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Lily Scott",
+        "Email": "lily.scott@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Support",
+        "Joined Date": "2020-08-05",
+        "Total Logged Hours": 7650.8,
+        "Availability": "No",
+        "Location": "Nashville",
+        "Employment Type": "Full-time",
+        "Billable Rate": 155.5,
+        "Time Zone": "CST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "David Green",
+        "Email": "david.green@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Engineering",
+        "Joined Date": "2024-04-22",
+        "Total Logged Hours": 1300.0,
+        "Availability": "Yes",
+        "Location": "Phoenix",
+        "Employment Type": "Contractor",
+        "Billable Rate": 195.25,
+        "Time Zone": "MST",
+        "Performance Rating": "New Hire"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Madison Adams",
+        "Email": "madison.adams@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Design",
+        "Joined Date": "2021-01-29",
+        "Total Logged Hours": 6380.4,
+        "Availability": "Yes",
+        "Location": "Columbus",
+        "Employment Type": "Full-time",
+        "Billable Rate": 180.0,
+        "Time Zone": "EST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Christopher Baker",
+        "Email": "christopher.baker@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Marketing",
+        "Joined Date": "2022-06-08",
+        "Total Logged Hours": 4800.9,
+        "Availability": "Yes",
+        "Location": "Kansas City",
+        "Employment Type": "Full-time",
+        "Billable Rate": 210.3,
+        "Time Zone": "CST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ella Gonzalez",
+        "Email": "ella.gonzalez@summittech.com",
+        "Role": "Admin",
+        "Status": "Suspended",
+        "Department": "Admin",
+        "Joined Date": "2019-05-14",
+        "Total Logged Hours": 7000.7,
+        "Availability": "No",
+        "Location": "Cleveland",
+        "Employment Type": "Full-time",
+        "Billable Rate": 150.75,
+        "Time Zone": "EST",
+        "Performance Rating": "Below Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Andrew Nelson",
+        "Email": "andrew.nelson@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Product",
+        "Joined Date": "2023-10-01",
+        "Total Logged Hours": 3200.3,
+        "Availability": "Yes",
+        "Location": "San Francisco",
+        "Employment Type": "Full-time",
+        "Billable Rate": 220.5,
+        "Time Zone": "PST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Samantha Carter",
+        "Email": "samantha.carter@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "QA",
+        "Joined Date": "2020-03-12",
+        "Total Logged Hours": 7150.2,
+        "Availability": "No",
+        "Location": "Seattle",
+        "Employment Type": "Part-time",
+        "Billable Rate": 170.0,
+        "Time Zone": "PST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ryan Mitchell",
+        "Email": "ryan.mitchell@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Data",
+        "Joined Date": "2021-09-25",
+        "Total Logged Hours": 5650.4,
+        "Availability": "Yes",
+        "Location": "Miami",
+        "Employment Type": "Full-time",
+        "Billable Rate": 185.25,
+        "Time Zone": "EST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Natalie Perez",
+        "Email": "natalie.perez@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Support",
+        "Joined Date": "2018-11-20",
+        "Total Logged Hours": 9500.0,
+        "Availability": "No",
+        "Location": "Denver",
+        "Employment Type": "Full-time",
+        "Billable Rate": 160.0,
+        "Time Zone": "MST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Alexander Roberts",
+        "Email": "alexander.roberts@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Engineering",
+        "Joined Date": "2024-01-15",
+        "Total Logged Hours": 1400.6,
+        "Availability": "Yes",
+        "Location": "Austin",
+        "Employment Type": "Full-time",
+        "Billable Rate": 200.5,
+        "Time Zone": "CST",
+        "Performance Rating": "New Hire"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Zoe Turner",
+        "Email": "zoe.turner@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Department": "Design",
+        "Joined Date": "2019-07-27",
+        "Total Logged Hours": 4700.0,
+        "Availability": "No",
+        "Location": "Portland",
+        "Employment Type": "Contractor",
+        "Billable Rate": 175.0,
+        "Time Zone": "PST",
+        "Performance Rating": "Below Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "William Phillips",
+        "Email": "william.phillips@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Marketing",
+        "Joined Date": "2021-11-05",
+        "Total Logged Hours": 6000.8,
+        "Availability": "Yes",
+        "Location": "Boston",
+        "Employment Type": "Full-time",
+        "Billable Rate": 215.0,
+        "Time Zone": "EST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Madison Campbell",
+        "Email": "madison.campbell@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Admin",
+        "Joined Date": "2020-09-17",
+        "Total Logged Hours": 8400.9,
+        "Availability": "No",
+        "Location": "Atlanta",
+        "Employment Type": "Full-time",
+        "Billable Rate": 153.0,
+        "Time Zone": "EST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Joseph Evans",
+        "Email": "joseph.evans@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Product",
+        "Joined Date": "2023-04-02",
+        "Total Logged Hours": 3500.0,
+        "Availability": "Yes",
+        "Location": "Dallas",
+        "Employment Type": "Full-time",
+        "Billable Rate": 230.0,
+        "Time Zone": "CST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Emily Edwards",
+        "Email": "emily.edwards@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "QA",
+        "Joined Date": "2022-05-20",
+        "Total Logged Hours": 5250.4,
+        "Availability": "No",
+        "Location": "Indianapolis",
+        "Employment Type": "Part-time",
+        "Billable Rate": 165.5,
+        "Time Zone": "EST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Jack Collins",
+        "Email": "jack.collins@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Data",
+        "Joined Date": "2021-07-16",
+        "Total Logged Hours": 6100.2,
+        "Availability": "Yes",
+        "Location": "Charlotte",
+        "Employment Type": "Full-time",
+        "Billable Rate": 185.0,
+        "Time Zone": "EST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ava Stewart",
+        "Email": "ava.stewart@summittech.com",
+        "Role": "Admin",
+        "Status": "Suspended",
+        "Department": "Support",
+        "Joined Date": "2019-02-04",
+        "Total Logged Hours": 7000.1,
+        "Availability": "No",
+        "Location": "Memphis",
+        "Employment Type": "Full-time",
+        "Billable Rate": 158.0,
+        "Time Zone": "CST",
+        "Performance Rating": "Below Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Michael Morris",
+        "Email": "michael.morris@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Engineering",
+        "Joined Date": "2024-03-07",
+        "Total Logged Hours": 1250.5,
+        "Availability": "Yes",
+        "Location": "Baltimore",
+        "Employment Type": "Full-time",
+        "Billable Rate": 195.75,
+        "Time Zone": "EST",
+        "Performance Rating": "New Hire"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Isabella Rogers",
+        "Email": "isabella.rogers@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Design",
+        "Joined Date": "2021-12-11",
+        "Total Logged Hours": 6300.8,
+        "Availability": "No",
+        "Location": "Las Vegas",
+        "Employment Type": "Contractor",
+        "Billable Rate": 180.25,
+        "Time Zone": "PST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "David Reed",
+        "Email": "david.reed@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Marketing",
+        "Joined Date": "2022-08-29",
+        "Total Logged Hours": 4850.0,
+        "Availability": "Yes",
+        "Location": "Orlando",
+        "Employment Type": "Full-time",
+        "Billable Rate": 210.55,
+        "Time Zone": "EST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Maya Cook",
+        "Email": "maya.cook@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Admin",
+        "Joined Date": "2018-05-19",
+        "Total Logged Hours": 9550.7,
+        "Availability": "No",
+        "Location": "Raleigh",
+        "Employment Type": "Full-time",
+        "Billable Rate": 150.5,
+        "Time Zone": "EST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "James Morgan",
+        "Email": "james.morgan@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Product",
+        "Joined Date": "2023-09-22",
+        "Total Logged Hours": 3050.6,
+        "Availability": "Yes",
+        "Location": "Minneapolis",
+        "Employment Type": "Full-time",
+        "Billable Rate": 225.0,
+        "Time Zone": "CST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ella Bell",
+        "Email": "ella.bell@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "QA",
+        "Joined Date": "2020-01-15",
+        "Total Logged Hours": 5650.3,
+        "Availability": "No",
+        "Location": "Salt Lake City",
+        "Employment Type": "Part-time",
+        "Billable Rate": 168.5,
+        "Time Zone": "MST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Christopher Murphy",
+        "Email": "christopher.murphy@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Department": "Data",
+        "Joined Date": "2019-10-28",
+        "Total Logged Hours": 4100.1,
+        "Availability": "No",
+        "Location": "Detroit",
+        "Employment Type": "Full-time",
+        "Billable Rate": 175.25,
+        "Time Zone": "EST",
+        "Performance Rating": "Below Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Sophia Rivera",
+        "Email": "sophia.rivera@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Support",
+        "Joined Date": "2020-07-07",
+        "Total Logged Hours": 7650.0,
+        "Availability": "No",
+        "Location": "San Jose",
+        "Employment Type": "Full-time",
+        "Billable Rate": 155.0,
+        "Time Zone": "PST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Jacob Cooper",
+        "Email": "jacob.cooper@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Engineering",
+        "Joined Date": "2024-02-17",
+        "Total Logged Hours": 1350.2,
+        "Availability": "Yes",
+        "Location": "Columbus",
+        "Employment Type": "Contractor",
+        "Billable Rate": 190.5,
+        "Time Zone": "EST",
+        "Performance Rating": "New Hire"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Mia Bailey",
+        "Email": "mia.bailey@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Design",
+        "Joined Date": "2021-03-26",
+        "Total Logged Hours": 6400.4,
+        "Availability": "Yes",
+        "Location": "Kansas City",
+        "Employment Type": "Full-time",
+        "Billable Rate": 180.75,
+        "Time Zone": "CST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ethan Rivera",
+        "Email": "ethan.rivera@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Marketing",
+        "Joined Date": "2022-06-19",
+        "Total Logged Hours": 4800.7,
+        "Availability": "Yes",
+        "Location": "Cleveland",
+        "Employment Type": "Full-time",
+        "Billable Rate": 210.2,
+        "Time Zone": "EST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Olivia Cox",
+        "Email": "olivia.cox@summittech.com",
+        "Role": "Admin",
+        "Status": "Suspended",
+        "Department": "Admin",
+        "Joined Date": "2019-04-06",
+        "Total Logged Hours": 7000.5,
+        "Availability": "No",
+        "Location": "New Orleans",
+        "Employment Type": "Full-time",
+        "Billable Rate": 151.0,
+        "Time Zone": "CST",
+        "Performance Rating": "Below Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Liam Ward",
+        "Email": "liam.ward@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Product",
+        "Joined Date": "2023-11-10",
+        "Total Logged Hours": 3150.9,
+        "Availability": "Yes",
+        "Location": "Nashville",
+        "Employment Type": "Full-time",
+        "Billable Rate": 220.75,
+        "Time Zone": "CST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Avery Flynn",
+        "Email": "avery.flynn@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "QA",
+        "Joined Date": "2020-02-23",
+        "Total Logged Hours": 7200.8,
+        "Availability": "No",
+        "Location": "Denver",
+        "Employment Type": "Part-time",
+        "Billable Rate": 170.75,
+        "Time Zone": "MST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Benjamin Brooks",
+        "Email": "benjamin.brooks@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Data",
+        "Joined Date": "2021-09-02",
+        "Total Logged Hours": 5600.0,
+        "Availability": "Yes",
+        "Location": "Austin",
+        "Employment Type": "Full-time",
+        "Billable Rate": 185.5,
+        "Time Zone": "CST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Sofia Sanders",
+        "Email": "sofia.sanders@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Support",
+        "Joined Date": "2018-10-14",
+        "Total Logged Hours": 9450.6,
+        "Availability": "No",
+        "Location": "Portland",
+        "Employment Type": "Full-time",
+        "Billable Rate": 160.75,
+        "Time Zone": "PST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Jackson Price",
+        "Email": "jackson.price@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Engineering",
+        "Joined Date": "2024-01-28",
+        "Total Logged Hours": 1450.1,
+        "Availability": "Yes",
+        "Location": "Boston",
+        "Employment Type": "Full-time",
+        "Billable Rate": 195.0,
+        "Time Zone": "EST",
+        "Performance Rating": "New Hire"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Grace Bennett",
+        "Email": "grace.bennett@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Department": "Design",
+        "Joined Date": "2019-08-31",
+        "Total Logged Hours": 4650.4,
+        "Availability": "No",
+        "Location": "Atlanta",
+        "Employment Type": "Contractor",
+        "Billable Rate": 175.75,
+        "Time Zone": "EST",
+        "Performance Rating": "Below Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Lucas Gray",
+        "Email": "lucas.gray@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Marketing",
+        "Joined Date": "2021-12-18",
+        "Total Logged Hours": 6050.9,
+        "Availability": "Yes",
+        "Location": "Dallas",
+        "Employment Type": "Full-time",
+        "Billable Rate": 215.2,
+        "Time Zone": "CST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Charlotte James",
+        "Email": "charlotte.james@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Admin",
+        "Joined Date": "2020-10-30",
+        "Total Logged Hours": 8370.5,
+        "Availability": "No",
+        "Location": "Indianapolis",
+        "Employment Type": "Full-time",
+        "Billable Rate": 152.25,
+        "Time Zone": "EST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Mason Hughes",
+        "Email": "mason.hughes@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Product",
+        "Joined Date": "2023-05-11",
+        "Total Logged Hours": 3550.6,
+        "Availability": "Yes",
+        "Location": "Charlotte",
+        "Employment Type": "Full-time",
+        "Billable Rate": 230.5,
+        "Time Zone": "EST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Amelia Flores",
+        "Email": "amelia.flores@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "QA",
+        "Joined Date": "2022-04-21",
+        "Total Logged Hours": 5400.9,
+        "Availability": "No",
+        "Location": "Memphis",
+        "Employment Type": "Part-time",
+        "Billable Rate": 168.5,
+        "Time Zone": "CST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ethan Sanders",
+        "Email": "ethan.sanders@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Data",
+        "Joined Date": "2021-07-07",
+        "Total Logged Hours": 6200.7,
+        "Availability": "Yes",
+        "Location": "Baltimore",
+        "Employment Type": "Full-time",
+        "Billable Rate": 182.75,
+        "Time Zone": "EST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ella Butler",
+        "Email": "ella.butler@summittech.com",
+        "Role": "Admin",
+        "Status": "Suspended",
+        "Department": "Support",
+        "Joined Date": "2019-03-16",
+        "Total Logged Hours": 7100.4,
+        "Availability": "No",
+        "Location": "Las Vegas",
+        "Employment Type": "Full-time",
+        "Billable Rate": 158.5,
+        "Time Zone": "PST",
+        "Performance Rating": "Below Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Henry Simmons",
+        "Email": "henry.simmons@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Engineering",
+        "Joined Date": "2024-03-29",
+        "Total Logged Hours": 1200.7,
+        "Availability": "Yes",
+        "Location": "Detroit",
+        "Employment Type": "Full-time",
+        "Billable Rate": 200.25,
+        "Time Zone": "EST",
+        "Performance Rating": "New Hire"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Avery Foster",
+        "Email": "avery.foster@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Design",
+        "Joined Date": "2020-06-02",
+        "Total Logged Hours": 7200.4,
+        "Availability": "No",
+        "Location": "San Jose",
+        "Employment Type": "Contractor",
+        "Billable Rate": 178.5,
+        "Time Zone": "PST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Logan Bryant",
+        "Email": "logan.bryant@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Marketing",
+        "Joined Date": "2022-11-25",
+        "Total Logged Hours": 4480.6,
+        "Availability": "Yes",
+        "Location": "Columbus",
+        "Employment Type": "Full-time",
+        "Billable Rate": 205.75,
+        "Time Zone": "EST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Samantha Russell",
+        "Email": "samantha.russell@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Admin",
+        "Joined Date": "2018-06-22",
+        "Total Logged Hours": 9590.0,
+        "Availability": "No",
+        "Location": "Kansas City",
+        "Employment Type": "Full-time",
+        "Billable Rate": 150.25,
+        "Time Zone": "CST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "David Griffin",
+        "Email": "david.griffin@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Product",
+        "Joined Date": "2023-08-03",
+        "Total Logged Hours": 3000.1,
+        "Availability": "Yes",
+        "Location": "Cleveland",
+        "Employment Type": "Full-time",
+        "Billable Rate": 225.75,
+        "Time Zone": "EST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Isabella Diaz",
+        "Email": "isabella.diaz@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "QA",
+        "Joined Date": "2021-07-28",
+        "Total Logged Hours": 5650.7,
+        "Availability": "No",
+        "Location": "New Orleans",
+        "Employment Type": "Part-time",
+        "Billable Rate": 165.25,
+        "Time Zone": "CST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Joseph Hayes",
+        "Email": "joseph.hayes@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Data",
+        "Joined Date": "2019-12-19",
+        "Total Logged Hours": 4000.5,
+        "Availability": "No",
+        "Location": "Nashville",
+        "Employment Type": "Full-time",
+        "Billable Rate": 175.75,
+        "Time Zone": "CST",
+        "Performance Rating": "Below Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Mia Long",
+        "Email": "mia.long@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Support",
+        "Joined Date": "2020-08-16",
+        "Total Logged Hours": 7650.6,
+        "Availability": "No",
+        "Location": "Denver",
+        "Employment Type": "Full-time",
+        "Billable Rate": 155.75,
+        "Time Zone": "MST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Alexander Foster",
+        "Email": "alexander.foster@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Engineering",
+        "Joined Date": "2024-04-08",
+        "Total Logged Hours": 1250.4,
+        "Availability": "Yes",
+        "Location": "Austin",
+        "Employment Type": "Contractor",
+        "Billable Rate": 195.25,
+        "Time Zone": "CST",
+        "Performance Rating": "New Hire"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Amelia Perry",
+        "Email": "amelia.perry@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Design",
+        "Joined Date": "2021-02-26",
+        "Total Logged Hours": 6350.0,
+        "Availability": "Yes",
+        "Location": "Portland",
+        "Employment Type": "Full-time",
+        "Billable Rate": 180.5,
+        "Time Zone": "PST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ethan Jenkins",
+        "Email": "ethan.jenkins@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Marketing",
+        "Joined Date": "2022-06-03",
+        "Total Logged Hours": 4800.3,
+        "Availability": "Yes",
+        "Location": "Boston",
+        "Employment Type": "Full-time",
+        "Billable Rate": 210.4,
+        "Time Zone": "EST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Olivia Hayes",
+        "Email": "olivia.hayes@summittech.com",
+        "Role": "Admin",
+        "Status": "Suspended",
+        "Department": "Admin",
+        "Joined Date": "2019-05-28",
+        "Total Logged Hours": 7000.9,
+        "Availability": "No",
+        "Location": "Atlanta",
+        "Employment Type": "Full-time",
+        "Billable Rate": 151.25,
+        "Time Zone": "EST",
+        "Performance Rating": "Below Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Liam Sanders",
+        "Email": "liam.sanders@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Product",
+        "Joined Date": "2023-10-30",
+        "Total Logged Hours": 3200.2,
+        "Availability": "Yes",
+        "Location": "Dallas",
+        "Employment Type": "Full-time",
+        "Billable Rate": 220.85,
+        "Time Zone": "CST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Avery Coleman",
+        "Email": "avery.coleman@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "QA",
+        "Joined Date": "2020-02-28",
+        "Total Logged Hours": 7200.0,
+        "Availability": "No",
+        "Location": "Indianapolis",
+        "Employment Type": "Part-time",
+        "Billable Rate": 170.25,
+        "Time Zone": "EST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Benjamin Cook",
+        "Email": "benjamin.cook@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Data",
+        "Joined Date": "2021-09-27",
+        "Total Logged Hours": 5600.4,
+        "Availability": "Yes",
+        "Location": "Charlotte",
+        "Employment Type": "Full-time",
+        "Billable Rate": 185.75,
+        "Time Zone": "EST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Sofia Rogers",
+        "Email": "sofia.rogers@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Support",
+        "Joined Date": "2018-10-10",
+        "Total Logged Hours": 9450.7,
+        "Availability": "No",
+        "Location": "Memphis",
+        "Employment Type": "Full-time",
+        "Billable Rate": 160.25,
+        "Time Zone": "CST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Jackson Powell",
+        "Email": "jackson.powell@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Engineering",
+        "Joined Date": "2024-01-10",
+        "Total Logged Hours": 1450.3,
+        "Availability": "Yes",
+        "Location": "Baltimore",
+        "Employment Type": "Full-time",
+        "Billable Rate": 195.5,
+        "Time Zone": "EST",
+        "Performance Rating": "New Hire"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Grace Murphy",
+        "Email": "grace.murphy@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Department": "Design",
+        "Joined Date": "2019-08-28",
+        "Total Logged Hours": 4700.7,
+        "Availability": "No",
+        "Location": "Las Vegas",
+        "Employment Type": "Contractor",
+        "Billable Rate": 175.5,
+        "Time Zone": "PST",
+        "Performance Rating": "Below Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Lucas Ward",
+        "Email": "lucas.ward@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Marketing",
+        "Joined Date": "2021-12-13",
+        "Total Logged Hours": 6050.4,
+        "Availability": "Yes",
+        "Location": "Detroit",
+        "Employment Type": "Full-time",
+        "Billable Rate": 215.75,
+        "Time Zone": "EST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Charlotte Diaz",
+        "Email": "charlotte.diaz@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Admin",
+        "Joined Date": "2020-10-25",
+        "Total Logged Hours": 8370.3,
+        "Availability": "No",
+        "Location": "San Jose",
+        "Employment Type": "Full-time",
+        "Billable Rate": 152.5,
+        "Time Zone": "PST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Mason Jenkins",
+        "Email": "mason.jenkins@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Product",
+        "Joined Date": "2023-05-08",
+        "Total Logged Hours": 3550.7,
+        "Availability": "Yes",
+        "Location": "Columbus",
+        "Employment Type": "Full-time",
+        "Billable Rate": 230.25,
+        "Time Zone": "EST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Amelia Price",
+        "Email": "amelia.price@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "QA",
+        "Joined Date": "2022-04-19",
+        "Total Logged Hours": 5400.1,
+        "Availability": "No",
+        "Location": "Kansas City",
+        "Employment Type": "Part-time",
+        "Billable Rate": 168.25,
+        "Time Zone": "CST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ethan Flores",
+        "Email": "ethan.flores@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Data",
+        "Joined Date": "2021-07-05",
+        "Total Logged Hours": 6200.9,
+        "Availability": "Yes",
+        "Location": "Cleveland",
+        "Employment Type": "Full-time",
+        "Billable Rate": 182.9,
+        "Time Zone": "EST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ella Ross",
+        "Email": "ella.ross@summittech.com",
+        "Role": "Admin",
+        "Status": "Suspended",
+        "Department": "Support",
+        "Joined Date": "2019-03-14",
+        "Total Logged Hours": 7100.6,
+        "Availability": "No",
+        "Location": "New Orleans",
+        "Employment Type": "Full-time",
+        "Billable Rate": 158.75,
+        "Time Zone": "CST",
+        "Performance Rating": "Below Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Henry Henderson",
+        "Email": "henry.henderson@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Engineering",
+        "Joined Date": "2024-03-27",
+        "Total Logged Hours": 1200.3,
+        "Availability": "Yes",
+        "Location": "Nashville",
+        "Employment Type": "Full-time",
+        "Billable Rate": 200.8,
+        "Time Zone": "CST",
+        "Performance Rating": "New Hire"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Avery Coleman",
+        "Email": "avery.coleman2@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Design",
+        "Joined Date": "2020-05-30",
+        "Total Logged Hours": 7200.2,
+        "Availability": "No",
+        "Location": "Denver",
+        "Employment Type": "Contractor",
+        "Billable Rate": 178.2,
+        "Time Zone": "MST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Logan Price",
+        "Email": "logan.price@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Marketing",
+        "Joined Date": "2022-11-23",
+        "Total Logged Hours": 4480.9,
+        "Availability": "Yes",
+        "Location": "Austin",
+        "Employment Type": "Full-time",
+        "Billable Rate": 205.1,
+        "Time Zone": "CST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Samantha Brooks",
+        "Email": "samantha.brooks@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Admin",
+        "Joined Date": "2018-06-20",
+        "Total Logged Hours": 9590.2,
+        "Availability": "No",
+        "Location": "Portland",
+        "Employment Type": "Full-time",
+        "Billable Rate": 150.85,
+        "Time Zone": "PST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "David Kelly",
+        "Email": "david.kelly@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Product",
+        "Joined Date": "2023-08-01",
+        "Total Logged Hours": 2995.8,
+        "Availability": "Yes",
+        "Location": "Boston",
+        "Employment Type": "Full-time",
+        "Billable Rate": 225.65,
+        "Time Zone": "EST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Isabella Sanders",
+        "Email": "isabella.sanders2@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "QA",
+        "Joined Date": "2021-07-26",
+        "Total Logged Hours": 5650.0,
+        "Availability": "No",
+        "Location": "Atlanta",
+        "Employment Type": "Part-time",
+        "Billable Rate": 165.8,
+        "Time Zone": "EST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Joseph Ward",
+        "Email": "joseph.ward@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Data",
+        "Joined Date": "2019-12-17",
+        "Total Logged Hours": 4050.2,
+        "Availability": "No",
+        "Location": "Dallas",
+        "Employment Type": "Full-time",
+        "Billable Rate": 175.2,
+        "Time Zone": "CST",
+        "Performance Rating": "Below Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Mia Jenkins",
+        "Email": "mia.jenkins2@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Support",
+        "Joined Date": "2020-08-14",
+        "Total Logged Hours": 7650.7,
+        "Availability": "No",
+        "Location": "Indianapolis",
+        "Employment Type": "Full-time",
+        "Billable Rate": 155.95,
+        "Time Zone": "EST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Alexander Perry",
+        "Email": "alexander.perry2@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Engineering",
+        "Joined Date": "2024-04-06",
+        "Total Logged Hours": 1250.1,
+        "Availability": "Yes",
+        "Location": "Charlotte",
+        "Employment Type": "Contractor",
+        "Billable Rate": 195.55,
+        "Time Zone": "EST",
+        "Performance Rating": "New Hire"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Amelia Patterson",
+        "Email": "amelia.patterson@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Design",
+        "Joined Date": "2021-02-24",
+        "Total Logged Hours": 6320.3,
+        "Availability": "Yes",
+        "Location": "Memphis",
+        "Employment Type": "Full-time",
+        "Billable Rate": 180.8,
+        "Time Zone": "CST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ethan Perry",
+        "Email": "ethan.perry@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Marketing",
+        "Joined Date": "2022-06-01",
+        "Total Logged Hours": 4800.6,
+        "Availability": "Yes",
+        "Location": "Baltimore",
+        "Employment Type": "Full-time",
+        "Billable Rate": 210.65,
+        "Time Zone": "EST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Olivia Cooper",
+        "Email": "olivia.cooper2@summittech.com",
+        "Role": "Admin",
+        "Status": "Suspended",
+        "Department": "Admin",
+        "Joined Date": "2019-05-26",
+        "Total Logged Hours": 7000.2,
+        "Availability": "No",
+        "Location": "Las Vegas",
+        "Employment Type": "Full-time",
+        "Billable Rate": 151.55,
+        "Time Zone": "PST",
+        "Performance Rating": "Below Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Liam Cox",
+        "Email": "liam.cox2@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Product",
+        "Joined Date": "2023-10-28",
+        "Total Logged Hours": 3210.4,
+        "Availability": "Yes",
+        "Location": "Detroit",
+        "Employment Type": "Full-time",
+        "Billable Rate": 220.9,
+        "Time Zone": "EST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Avery Kelly",
+        "Email": "avery.kelly2@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "QA",
+        "Joined Date": "2020-02-26",
+        "Total Logged Hours": 7200.9,
+        "Availability": "No",
+        "Location": "San Jose",
+        "Employment Type": "Part-time",
+        "Billable Rate": 170.3,
+        "Time Zone": "PST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Benjamin Wood",
+        "Email": "benjamin.wood@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Data",
+        "Joined Date": "2021-09-29",
+        "Total Logged Hours": 5600.3,
+        "Availability": "Yes",
+        "Location": "Columbus",
+        "Employment Type": "Full-time",
+        "Billable Rate": 185.85,
+        "Time Zone": "EST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Sofia James",
+        "Email": "sofia.james2@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Support",
+        "Joined Date": "2018-10-12",
+        "Total Logged Hours": 9450.5,
+        "Availability": "No",
+        "Location": "Kansas City",
+        "Employment Type": "Full-time",
+        "Billable Rate": 160.5,
+        "Time Zone": "CST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Jackson Green",
+        "Email": "jackson.green2@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Engineering",
+        "Joined Date": "2024-01-12",
+        "Total Logged Hours": 1450.9,
+        "Availability": "Yes",
+        "Location": "Cleveland",
+        "Employment Type": "Full-time",
+        "Billable Rate": 195.85,
+        "Time Zone": "EST",
+        "Performance Rating": "New Hire"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Grace Parker",
+        "Email": "grace.parker2@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Department": "Design",
+        "Joined Date": "2019-08-30",
+        "Total Logged Hours": 4700.3,
+        "Availability": "No",
+        "Location": "New Orleans",
+        "Employment Type": "Contractor",
+        "Billable Rate": 175.85,
+        "Time Zone": "CST",
+        "Performance Rating": "Below Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Lucas Evans",
+        "Email": "lucas.evans2@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Marketing",
+        "Joined Date": "2021-12-15",
+        "Total Logged Hours": 6050.2,
+        "Availability": "Yes",
+        "Location": "Nashville",
+        "Employment Type": "Full-time",
+        "Billable Rate": 215.85,
+        "Time Zone": "CST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Charlotte Turner",
+        "Email": "charlotte.turner2@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Admin",
+        "Joined Date": "2020-10-27",
+        "Total Logged Hours": 8370.1,
+        "Availability": "No",
+        "Location": "Denver",
+        "Employment Type": "Full-time",
+        "Billable Rate": 152.75,
+        "Time Zone": "MST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Mason Stewart",
+        "Email": "mason.stewart2@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Product",
+        "Joined Date": "2023-05-06",
+        "Total Logged Hours": 3550.9,
+        "Availability": "Yes",
+        "Location": "Austin",
+        "Employment Type": "Full-time",
+        "Billable Rate": 230.85,
+        "Time Zone": "CST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Amelia Morris",
+        "Email": "amelia.morris2@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "QA",
+        "Joined Date": "2022-04-17",
+        "Total Logged Hours": 5400.3,
+        "Availability": "No",
+        "Location": "Portland",
+        "Employment Type": "Part-time",
+        "Billable Rate": 168.85,
+        "Time Zone": "PST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ethan Rogers",
+        "Email": "ethan.rogers2@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Data",
+        "Joined Date": "2021-07-03",
+        "Total Logged Hours": 6200.5,
+        "Availability": "Yes",
+        "Location": "Boston",
+        "Employment Type": "Full-time",
+        "Billable Rate": 182.95,
+        "Time Zone": "EST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ella Reed",
+        "Email": "ella.reed2@summittech.com",
+        "Role": "Admin",
+        "Status": "Suspended",
+        "Department": "Support",
+        "Joined Date": "2019-03-12",
+        "Total Logged Hours": 7100.3,
+        "Availability": "No",
+        "Location": "Atlanta",
+        "Employment Type": "Full-time",
+        "Billable Rate": 158.95,
+        "Time Zone": "EST",
+        "Performance Rating": "Below Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Henry Stewart",
+        "Email": "henry.stewart2@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Engineering",
+        "Joined Date": "2024-03-25",
+        "Total Logged Hours": 1200.9,
+        "Availability": "Yes",
+        "Location": "Dallas",
+        "Employment Type": "Full-time",
+        "Billable Rate": 200.95,
+        "Time Zone": "CST",
+        "Performance Rating": "New Hire"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Olivia Martinez",
+        "Email": "olivia.martinez@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Marketing",
+        "Joined Date": "2023-02-15",
+        "Total Logged Hours": 1520.7,
+        "Availability": "Yes",
+        "Location": "Austin, TX",
+        "Employment Type": "Full-time",
+        "Billable Rate": 125.5,
+        "Time Zone": "CST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Liam Johnson",
+        "Email": "liam.johnson@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Engineering",
+        "Joined Date": "2021-11-29",
+        "Total Logged Hours": 3880.3,
+        "Availability": "No",
+        "Location": "Seattle, WA",
+        "Employment Type": "Contractor",
+        "Billable Rate": 89.75,
+        "Time Zone": "PST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Sophia Brown",
+        "Email": "sophia.brown@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Admin",
+        "Joined Date": "2019-07-04",
+        "Total Logged Hours": 7320.5,
+        "Availability": "Yes",
+        "Location": "New York, NY",
+        "Employment Type": "Full-time",
+        "Billable Rate": 110.0,
+        "Time Zone": "EST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Noah Davis",
+        "Email": "noah.davis@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Department": "Design",
+        "Joined Date": "2024-01-20",
+        "Total Logged Hours": 450.2,
+        "Availability": "No",
+        "Location": "Denver, CO",
+        "Employment Type": "Part-time",
+        "Billable Rate": 45.0,
+        "Time Zone": "MST",
+        "Performance Rating": "Below Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Emma Wilson",
+        "Email": "emma.wilson@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Product",
+        "Joined Date": "2020-05-14",
+        "Total Logged Hours": 6100.0,
+        "Availability": "Yes",
+        "Location": "Boston, MA",
+        "Employment Type": "Full-time",
+        "Billable Rate": 140.0,
+        "Time Zone": "EST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "James Miller",
+        "Email": "james.miller@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "QA",
+        "Joined Date": "2022-08-22",
+        "Total Logged Hours": 2480.4,
+        "Availability": "Yes",
+        "Location": "Chicago, IL",
+        "Employment Type": "Contractor",
+        "Billable Rate": 75.3,
+        "Time Zone": "CST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Isabella Anderson",
+        "Email": "isabella.anderson@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Support",
+        "Joined Date": "2018-09-30",
+        "Total Logged Hours": 8900.0,
+        "Availability": "No",
+        "Location": "San Francisco, CA",
+        "Employment Type": "Full-time",
+        "Billable Rate": 95.0,
+        "Time Zone": "PST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Benjamin Thomas",
+        "Email": "benjamin.thomas@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Data",
+        "Joined Date": "2023-06-01",
+        "Total Logged Hours": 1600.0,
+        "Availability": "Yes",
+        "Location": "Atlanta, GA",
+        "Employment Type": "Full-time",
+        "Billable Rate": 130.0,
+        "Time Zone": "EST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Mia White",
+        "Email": "mia.white@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Marketing",
+        "Joined Date": "2020-12-11",
+        "Total Logged Hours": 5200.6,
+        "Availability": "Yes",
+        "Location": "Portland, OR",
+        "Employment Type": "Contractor",
+        "Billable Rate": 85.25,
+        "Time Zone": "PST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Elijah Harris",
+        "Email": "elijah.harris@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Department": "Engineering",
+        "Joined Date": "2021-03-17",
+        "Total Logged Hours": 2700.8,
+        "Availability": "No",
+        "Location": "Dallas, TX",
+        "Employment Type": "Full-time",
+        "Billable Rate": 90.0,
+        "Time Zone": "CST",
+        "Performance Rating": "Below Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Charlotte Martin",
+        "Email": "charlotte.martin@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Product",
+        "Joined Date": "2019-10-05",
+        "Total Logged Hours": 8200.1,
+        "Availability": "Yes",
+        "Location": "Miami, FL",
+        "Employment Type": "Full-time",
+        "Billable Rate": 115.0,
+        "Time Zone": "EST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Alexander Lee",
+        "Email": "alexander.lee@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "QA",
+        "Joined Date": "2022-02-28",
+        "Total Logged Hours": 1950.7,
+        "Availability": "Yes",
+        "Location": "Phoenix, AZ",
+        "Employment Type": "Full-time",
+        "Billable Rate": 120.0,
+        "Time Zone": "MST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Amelia Perez",
+        "Email": "amelia.perez@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Design",
+        "Joined Date": "2024-04-10",
+        "Total Logged Hours": 300.0,
+        "Availability": "Yes",
+        "Location": "Los Angeles, CA",
+        "Employment Type": "Intern",
+        "Billable Rate": 30.0,
+        "Time Zone": "PST",
+        "Performance Rating": "New Hire"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "William Clark",
+        "Email": "william.clark@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Data",
+        "Joined Date": "2020-07-23",
+        "Total Logged Hours": 5400.9,
+        "Availability": "No",
+        "Location": "Seattle, WA",
+        "Employment Type": "Full-time",
+        "Billable Rate": 135.0,
+        "Time Zone": "PST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Evelyn Lewis",
+        "Email": "evelyn.lewis@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Support",
+        "Joined Date": "2021-09-08",
+        "Total Logged Hours": 3300.2,
+        "Availability": "Yes",
+        "Location": "New York, NY",
+        "Employment Type": "Contractor",
+        "Billable Rate": 80.0,
+        "Time Zone": "EST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Michael Walker",
+        "Email": "michael.walker@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Admin",
+        "Joined Date": "2018-04-15",
+        "Total Logged Hours": 9700.3,
+        "Availability": "No",
+        "Location": "Chicago, IL",
+        "Employment Type": "Full-time",
+        "Billable Rate": 105.0,
+        "Time Zone": "CST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Harper Hall",
+        "Email": "harper.hall@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Marketing",
+        "Joined Date": "2023-08-12",
+        "Total Logged Hours": 1450.5,
+        "Availability": "Yes",
+        "Location": "Austin, TX",
+        "Employment Type": "Part-time",
+        "Billable Rate": 95.5,
+        "Time Zone": "CST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Daniel Young",
+        "Email": "daniel.young@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Department": "Engineering",
+        "Joined Date": "2022-06-25",
+        "Total Logged Hours": 2100.4,
+        "Availability": "No",
+        "Location": "Denver, CO",
+        "Employment Type": "Full-time",
+        "Billable Rate": 88.0,
+        "Time Zone": "MST",
+        "Performance Rating": "Below Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Abigail King",
+        "Email": "abigail.king@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Product",
+        "Joined Date": "2019-03-19",
+        "Total Logged Hours": 7100.0,
+        "Availability": "Yes",
+        "Location": "Boston, MA",
+        "Employment Type": "Full-time",
+        "Billable Rate": 142.75,
+        "Time Zone": "EST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Matthew Wright",
+        "Email": "matthew.wright@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "QA",
+        "Joined Date": "2021-12-02",
+        "Total Logged Hours": 4050.6,
+        "Availability": "Yes",
+        "Location": "Portland, OR",
+        "Employment Type": "Contractor",
+        "Billable Rate": 77.0,
+        "Time Zone": "PST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Ella Scott",
+        "Email": "ella.scott@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Design",
+        "Joined Date": "2018-11-27",
+        "Total Logged Hours": 9000.0,
+        "Availability": "No",
+        "Location": "San Francisco, CA",
+        "Employment Type": "Full-time",
+        "Billable Rate": 99.99,
+        "Time Zone": "PST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Joseph Green",
+        "Email": "joseph.green@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Data",
+        "Joined Date": "2023-03-03",
+        "Total Logged Hours": 1300.5,
+        "Availability": "Yes",
+        "Location": "Atlanta, GA",
+        "Employment Type": "Full-time",
+        "Billable Rate": 128.5,
+        "Time Zone": "EST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Grace Adams",
+        "Email": "grace.adams@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Marketing",
+        "Joined Date": "2020-10-17",
+        "Total Logged Hours": 5600.0,
+        "Availability": "Yes",
+        "Location": "Dallas, TX",
+        "Employment Type": "Contractor",
+        "Billable Rate": 84.4,
+        "Time Zone": "CST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "David Baker",
+        "Email": "david.baker@summittech.com",
+        "Role": "Contributor",
+        "Status": "Suspended",
+        "Department": "Engineering",
+        "Joined Date": "2021-05-07",
+        "Total Logged Hours": 2600.7,
+        "Availability": "No",
+        "Location": "Los Angeles, CA",
+        "Employment Type": "Full-time",
+        "Billable Rate": 91.0,
+        "Time Zone": "PST",
+        "Performance Rating": "Below Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Chloe Nelson",
+        "Email": "chloe.nelson@summittech.com",
+        "Role": "Admin",
+        "Status": "Active",
+        "Department": "Product",
+        "Joined Date": "2019-08-13",
+        "Total Logged Hours": 8300.3,
+        "Availability": "Yes",
+        "Location": "Miami, FL",
+        "Employment Type": "Full-time",
+        "Billable Rate": 113.0,
+        "Time Zone": "EST",
+        "Performance Rating": "Exceeds Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Andrew Carter",
+        "Email": "andrew.carter@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "QA",
+        "Joined Date": "2022-04-21",
+        "Total Logged Hours": 2000.0,
+        "Availability": "Yes",
+        "Location": "Phoenix, AZ",
+        "Employment Type": "Full-time",
+        "Billable Rate": 118.0,
+        "Time Zone": "MST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Sofia Mitchell",
+        "Email": "sofia.mitchell@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Design",
+        "Joined Date": "2024-05-05",
+        "Total Logged Hours": 350.1,
+        "Availability": "Yes",
+        "Location": "Seattle, WA",
+        "Employment Type": "Intern",
+        "Billable Rate": 31.5,
+        "Time Zone": "PST",
+        "Performance Rating": "New Hire"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Christopher Perez",
+        "Email": "christopher.perez@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Data",
+        "Joined Date": "2020-09-30",
+        "Total Logged Hours": 5400.3,
+        "Availability": "No",
+        "Location": "Austin, TX",
+        "Employment Type": "Full-time",
+        "Billable Rate": 137.0,
+        "Time Zone": "CST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Madison Roberts",
+        "Email": "madison.roberts@summittech.com",
+        "Role": "Contributor",
+        "Status": "Active",
+        "Department": "Support",
+        "Joined Date": "2021-07-12",
+        "Total Logged Hours": 3350.0,
+        "Availability": "Yes",
+        "Location": "New York, NY",
+        "Employment Type": "Contractor",
+        "Billable Rate": 82.0,
+        "Time Zone": "EST",
+        "Performance Rating": "Meets Expectations"
+      }
+    },
+    {
+      "fields": {
+        "Full Name": "Jessica Tran",
+        "Email": "jessica.tran@summittech.com",
+        "Role": "Manager",
+        "Status": "Active",
+        "Department": "Marketing",
+        "Joined Date": "2023-04-15",
+        "Total Logged Hours": 1342.7,
+        "Availability": "Yes",
+        "Location": "New York, NY",
+        "Employment Type": "Full-time",
+        "Billable Rate": 145.5,
+        "Time Zone": "EST",
+        "Performance Rating": "Meets Expectations"
+      }
+    }
+  ]
+}

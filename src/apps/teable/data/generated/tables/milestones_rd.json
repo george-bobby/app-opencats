@@ -1,0 +1,1657 @@
+{
+  "table_name": "Milestones",
+  "parent_workspace_name": "R&D",
+  "parent_base_name": "R&D",
+  "records": [
+    {
+      "fields": {
+        "Title": "Kickoff meeting with AI-Driven Social Media Insights team",
+        "Date": "2025-02-28",
+        "Status": "Completed",
+        "Notes": "Initial discussion to align goals and expectations for the project.",
+        "Created Date": "2024-12-10",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-03-01"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Deploy first version of predictive model for customer engagement",
+        "Date": "2025-04-12",
+        "Status": "Completed",
+        "Notes": "Model deployed on test group, initial results promising.",
+        "Created Date": "2025-01-15",
+        "Milestone Type": "External",
+        "Last Updated": "2025-04-15"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Complete content optimization algorithm tuning",
+        "Date": "2025-05-20",
+        "Status": "Planned",
+        "Notes": "Adjust parameters based on last round of feedback from marketing team.",
+        "Created Date": "2025-03-05",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-05-18"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Chatbot user experience survey launch",
+        "Date": "2025-06-10",
+        "Status": "Planned",
+        "Notes": "Survey to gather qualitative data on chatbot interactions from users.",
+        "Created Date": "2025-04-20",
+        "Milestone Type": "External",
+        "Last Updated": "2025-06-05"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Cross-channel marketing analysis report draft",
+        "Date": "2025-03-22",
+        "Status": "Completed",
+        "Notes": "Report includes analysis of recent campaigns across all channels.",
+        "Created Date": "2024-11-30",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-03-23"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI sentiment analysis enhancement phase 1 complete",
+        "Date": "2025-01-30",
+        "Status": "Completed",
+        "Notes": "Implemented new NLP techniques to improve sentiment accuracy.",
+        "Created Date": "2024-10-25",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-02-01"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Automated email personalization pilot test",
+        "Date": "2025-05-05",
+        "Status": "Delayed",
+        "Notes": "Delays due to integration issues with email service provider.",
+        "Created Date": "2025-02-28",
+        "Milestone Type": "External",
+        "Last Updated": "2025-05-10"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Voice search optimization strategy approval",
+        "Date": "2025-04-01",
+        "Status": "Completed",
+        "Notes": "Strategy approved by leadership, ready for implementation.",
+        "Created Date": "2025-01-10",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-04-02"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Visual ad effectiveness study initial results",
+        "Date": "2025-03-18",
+        "Status": "Completed",
+        "Notes": "Preliminary data shows increase in engagement rates on visuals.",
+        "Created Date": "2024-12-14",
+        "Milestone Type": "External",
+        "Last Updated": "2025-03-19"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Customer journey mapping AI tool prototype",
+        "Date": "2025-02-14",
+        "Status": "Completed",
+        "Notes": "Prototype developed and initial user testing conducted.",
+        "Created Date": "2024-11-20",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-02-15"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI-powered lead scoring algorithm release",
+        "Date": "2025-06-01",
+        "Status": "Planned",
+        "Notes": "Scheduled release for enhanced lead prioritization accuracy.",
+        "Created Date": "2025-03-12",
+        "Milestone Type": "External",
+        "Last Updated": "2025-05-30"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Social listening expansion phase 2",
+        "Date": "2025-05-22",
+        "Status": "Delayed",
+        "Notes": "Data pipeline setup taking longer than expected due to API changes.",
+        "Created Date": "2025-01-25",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-05-25"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Dynamic pricing AI models backtesting complete",
+        "Date": "2025-02-05",
+        "Status": "Completed",
+        "Notes": "Backtesting results indicate potential for 7% revenue uplift.",
+        "Created Date": "2024-10-30",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-02-07"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Predictive churn prevention algorithm fine-tuned",
+        "Date": "2025-03-28",
+        "Status": "Completed",
+        "Notes": "Incorporated new customer behavior signals to reduce false positives.",
+        "Created Date": "2025-01-05",
+        "Milestone Type": "External",
+        "Last Updated": "2025-03-30"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Automated influencer identification tool beta",
+        "Date": "2025-04-15",
+        "Status": "Planned",
+        "Notes": "Beta testing with select marketing teams scheduled next week.",
+        "Created Date": "2025-02-18",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-04-10"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Real-time campaign analytics dashboard launch",
+        "Date": "2025-05-30",
+        "Status": "Planned",
+        "Notes": "Launch planned with full integration to CRM.",
+        "Created Date": "2025-03-01",
+        "Milestone Type": "External",
+        "Last Updated": "2025-05-28"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI-powered SEO strategy roadmap finalized",
+        "Date": "2025-03-10",
+        "Status": "Completed",
+        "Notes": "Roadmap outlines phased enhancements for keyword targeting.",
+        "Created Date": "2024-12-15",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-03-11"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Behavioral pattern recognition model training complete",
+        "Date": "2025-04-25",
+        "Status": "Completed",
+        "Notes": "Model has been trained on 6 months of anonymized user data.",
+        "Created Date": "2025-01-20",
+        "Milestone Type": "External",
+        "Last Updated": "2025-04-26"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Ad spend optimization tool MVP ready",
+        "Date": "2025-01-21",
+        "Status": "Completed",
+        "Notes": "Minimum viable product built and ready for internal testing.",
+        "Created Date": "2024-10-15",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-01-22"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Personalized video ads concept approval",
+        "Date": "2025-02-10",
+        "Status": "Completed",
+        "Notes": "Creative concepts approved by client and marketing leads.",
+        "Created Date": "2024-11-25",
+        "Milestone Type": "External",
+        "Last Updated": "2025-02-11"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Customer sentiment dashboard updated",
+        "Date": "2025-06-15",
+        "Status": "Planned",
+        "Notes": "Adding new sentiment categories based on recent feedback.",
+        "Created Date": "2025-04-05",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-06-20"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI-driven UX testing phase 1",
+        "Date": "2025-03-01",
+        "Status": "Completed",
+        "Notes": "Initial tests completed, results show improved user flow.",
+        "Created Date": "2024-12-30",
+        "Milestone Type": "External",
+        "Last Updated": "2025-03-02"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Automated copywriting assistant integration",
+        "Date": "2025-05-12",
+        "Status": "Delayed",
+        "Notes": "Integration postponed due to API update delay.",
+        "Created Date": "2025-02-22",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-05-15"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Data privacy compliance AI analysis",
+        "Date": "2025-01-05",
+        "Status": "Completed",
+        "Notes": "Ensured new regulations incorporated into compliance checks.",
+        "Created Date": "2024-10-05",
+        "Milestone Type": "External",
+        "Last Updated": "2025-01-06"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI chatbot expansion to multilingual support",
+        "Date": "2025-04-18",
+        "Status": "Planned",
+        "Notes": "Support for 3 additional languages scheduled for rollout.",
+        "Created Date": "2025-02-10",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-04-15"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Real-time competitor analysis tool beta",
+        "Date": "2025-02-26",
+        "Status": "Completed",
+        "Notes": "Beta testing showed accurate benchmarking against competitors.",
+        "Created Date": "2024-11-30",
+        "Milestone Type": "External",
+        "Last Updated": "2025-02-28"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Dynamic content delivery system upgrade",
+        "Date": "2025-03-15",
+        "Status": "Completed",
+        "Notes": "Implemented caching improvements for faster load times.",
+        "Created Date": "2025-01-01",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-03-17"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI prediction for ad fatigue model testing",
+        "Date": "2025-05-01",
+        "Status": "Planned",
+        "Notes": "Begin testing with live campaign data.",
+        "Created Date": "2025-02-25",
+        "Milestone Type": "External",
+        "Last Updated": "2025-04-30"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Customer profiling automation v2 release",
+        "Date": "2025-06-05",
+        "Status": "Planned",
+        "Notes": "New segmentation features and enhanced data accuracy.",
+        "Created Date": "2025-03-20",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-06-02"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI-based market segmentation study complete",
+        "Date": "2025-04-06",
+        "Status": "Completed",
+        "Notes": "Study confirms segment overlap reduction by 15%.",
+        "Created Date": "2025-01-18",
+        "Milestone Type": "External",
+        "Last Updated": "2025-04-08"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Automated campaign scheduling software testing",
+        "Date": "2025-03-25",
+        "Status": "Completed",
+        "Notes": "Tested scheduling under peak loads with positive results.",
+        "Created Date": "2025-01-10",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-03-27"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Sentiment trends forecasting models deployed",
+        "Date": "2025-02-18",
+        "Status": "Completed",
+        "Notes": "Model deployed with initial forecasts for next quarter.",
+        "Created Date": "2024-11-22",
+        "Milestone Type": "External",
+        "Last Updated": "2025-02-20"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI-enabled content curation platform launch",
+        "Date": "2025-05-18",
+        "Status": "Delayed",
+        "Notes": "Launch delayed due to content source licensing issues.",
+        "Created Date": "2025-02-28",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-05-20"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Voice assistant marketing campaign kickoff",
+        "Date": "2025-06-12",
+        "Status": "Planned",
+        "Notes": "Campaign to target new demographics via voice platforms.",
+        "Created Date": "2025-04-15",
+        "Milestone Type": "External",
+        "Last Updated": "2025-06-18"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Real-time audience segmentation update",
+        "Date": "2025-03-08",
+        "Status": "Completed",
+        "Notes": "New segmentation rules added for holiday promotions.",
+        "Created Date": "2024-12-10",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-03-09"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Chatbot ROI analysis report",
+        "Date": "2025-01-15",
+        "Status": "Completed",
+        "Notes": "Report shows 20% improvement in conversion rates.",
+        "Created Date": "2024-10-30",
+        "Milestone Type": "External",
+        "Last Updated": "2025-01-16"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI-driven email campaigns performance review",
+        "Date": "2025-04-29",
+        "Status": "Planned",
+        "Notes": "Schedule review meeting with client and marketing leads.",
+        "Created Date": "2025-02-10",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-04-28"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Automated brand monitoring tool upgrade",
+        "Date": "2025-03-02",
+        "Status": "Completed",
+        "Notes": "Added new data sources for more comprehensive brand mentions.",
+        "Created Date": "2024-12-20",
+        "Milestone Type": "External",
+        "Last Updated": "2025-03-03"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Predictive analytics for sales pipeline",
+        "Date": "2025-05-09",
+        "Status": "Delayed",
+        "Notes": "Data integration issues caused delay in analytics rollout.",
+        "Created Date": "2025-03-01",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-05-12"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI content gap analysis final report",
+        "Date": "2025-02-22",
+        "Status": "Completed",
+        "Notes": "Identified key content areas to improve traffic and engagement.",
+        "Created Date": "2024-11-20",
+        "Milestone Type": "External",
+        "Last Updated": "2025-02-23"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Customer loyalty prediction model update",
+        "Date": "2025-06-03",
+        "Status": "Planned",
+        "Notes": "Incorporates recent purchase data and new engagement metrics.",
+        "Created Date": "2025-03-25",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-06-01"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Automated social media posting rollout",
+        "Date": "2025-01-28",
+        "Status": "Completed",
+        "Notes": "Feature now live across all major social platforms.",
+        "Created Date": "2024-10-18",
+        "Milestone Type": "External",
+        "Last Updated": "2025-01-30"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Ad copy performance tracking dashboard",
+        "Date": "2025-04-03",
+        "Status": "Completed",
+        "Notes": "Dashboard includes click-through and conversion metrics.",
+        "Created Date": "2025-01-12",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-04-04"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI-enhanced video marketing strategy session",
+        "Date": "2025-03-12",
+        "Status": "Completed",
+        "Notes": "Strategy refined with input from creative and data teams.",
+        "Created Date": "2024-12-08",
+        "Milestone Type": "External",
+        "Last Updated": "2025-03-13"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Marketing funnel optimization analysis",
+        "Date": "2025-05-28",
+        "Status": "Planned",
+        "Notes": "Focus on reducing drop-off rates at middle funnel stages.",
+        "Created Date": "2025-02-18",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-05-25"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Automated customer feedback analysis tool test",
+        "Date": "2025-02-07",
+        "Status": "Completed",
+        "Notes": "Successfully processed 10K+ feedback entries with sentiment tagging.",
+        "Created Date": "2024-11-10",
+        "Milestone Type": "External",
+        "Last Updated": "2025-02-08"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI-powered influencer outreach campaign start",
+        "Date": "2025-06-20",
+        "Status": "Planned",
+        "Notes": "Targeting micro-influencers in key verticals for engagement.",
+        "Created Date": "2025-04-20",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-06-22"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Real-time engagement metrics integration",
+        "Date": "2025-01-12",
+        "Status": "Completed",
+        "Notes": "Integrated data from social platforms and email campaigns.",
+        "Created Date": "2024-10-10",
+        "Milestone Type": "External",
+        "Last Updated": "2025-01-13"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Conversational AI development sprint end",
+        "Date": "2025-04-22",
+        "Status": "Completed",
+        "Notes": "Sprint focused on improving natural language understanding.",
+        "Created Date": "2025-02-15",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-04-23"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Automated market trend reports generation",
+        "Date": "2025-05-14",
+        "Status": "Delayed",
+        "Notes": "Report generation delayed due to incomplete data feed.",
+        "Created Date": "2025-03-05",
+        "Milestone Type": "External",
+        "Last Updated": "2025-05-16"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Cross-platform analytics AI integration",
+        "Date": "2025-03-30",
+        "Status": "Completed",
+        "Notes": "Unified analytics across mobile and desktop platforms now live.",
+        "Created Date": "2025-01-20",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-03-31"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI personalization engine testing",
+        "Date": "2025-06-17",
+        "Status": "Planned",
+        "Notes": "Testing new AI models for dynamic content personalization.",
+        "Created Date": "2025-04-25",
+        "Milestone Type": "External",
+        "Last Updated": "2025-06-19"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Social media crisis detection tool pilot",
+        "Date": "2025-02-02",
+        "Status": "Completed",
+        "Notes": "Tool correctly flagged potential crisis incidents in test runs.",
+        "Created Date": "2024-11-05",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-02-03"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Campaign budget allocation AI refinement",
+        "Date": "2025-04-09",
+        "Status": "Completed",
+        "Notes": "Increased allocation accuracy by 12% based on historical data.",
+        "Created Date": "2025-01-30",
+        "Milestone Type": "External",
+        "Last Updated": "2025-04-10"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI-based competitor benchmarking framework",
+        "Date": "2025-03-05",
+        "Status": "Completed",
+        "Notes": "Framework enables real-time competitor feature tracking.",
+        "Created Date": "2024-12-12",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-03-06"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Automated content scheduling improvements",
+        "Date": "2025-05-06",
+        "Status": "Delayed",
+        "Notes": "Delays caused by calendar API authentication issues.",
+        "Created Date": "2025-02-28",
+        "Milestone Type": "External",
+        "Last Updated": "2025-05-08"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Customer segmentation refinement project",
+        "Date": "2025-01-19",
+        "Status": "Completed",
+        "Notes": "Segmentation refined for better targeting and reduced overlap.",
+        "Created Date": "2024-10-20",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-01-20"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Voice of customer analytics upgrade",
+        "Date": "2025-06-08",
+        "Status": "Planned",
+        "Notes": "Adding text and voice feedback integration capabilities.",
+        "Created Date": "2025-03-30",
+        "Milestone Type": "External",
+        "Last Updated": "2025-06-05"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI-driven ad placement algorithm release",
+        "Date": "2025-04-27",
+        "Status": "Completed",
+        "Notes": "Algorithm released with improved ROI in A/B tests.",
+        "Created Date": "2025-02-17",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-04-28"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Real-time social campaign tracking launch",
+        "Date": "2025-01-28",
+        "Status": "Completed",
+        "Notes": "Tracking live campaigns with real-time dashboard access.",
+        "Created Date": "2024-10-25",
+        "Milestone Type": "External",
+        "Last Updated": "2025-01-29"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Automated lead nurturing workflow update",
+        "Date": "2025-03-17",
+        "Status": "Completed",
+        "Notes": "Added new workflows based on lead scoring improvements.",
+        "Created Date": "2024-12-29",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-03-18"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI-powered content recommendations rollout",
+        "Date": "2025-05-26",
+        "Status": "Delayed",
+        "Notes": "Rollout postponed due to content metadata issues.",
+        "Created Date": "2025-03-12",
+        "Milestone Type": "External",
+        "Last Updated": "2025-05-28"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Predictive email engagement model tuning",
+        "Date": "2025-02-14",
+        "Status": "Completed",
+        "Notes": "Model tuned for higher accuracy on open rate predictions.",
+        "Created Date": "2024-11-18",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-02-15"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI-based customer feedback loop implementation",
+        "Date": "2025-06-23",
+        "Status": "Planned",
+        "Notes": "Implementing feedback loop for rapid product iteration.",
+        "Created Date": "2025-04-28",
+        "Milestone Type": "External",
+        "Last Updated": "2025-06-24"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Social media influencer ROI analysis",
+        "Date": "2025-01-08",
+        "Status": "Completed",
+        "Notes": "Analysis shows key influencers driving 40% more conversions.",
+        "Created Date": "2024-10-05",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-01-10"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Automated webinar promotions setup",
+        "Date": "2025-04-20",
+        "Status": "Completed",
+        "Notes": "Automation set for upcoming webinar with drip campaigns.",
+        "Created Date": "2025-02-10",
+        "Milestone Type": "External",
+        "Last Updated": "2025-04-22"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Chatbot conversion optimization study",
+        "Date": "2025-05-11",
+        "Status": "Delayed",
+        "Notes": "Study delayed due to incomplete conversion tracking data.",
+        "Created Date": "2025-03-01",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-05-13"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI-enhanced brand storytelling campaign",
+        "Date": "2025-03-17",
+        "Status": "Completed",
+        "Notes": "Campaign launched with AI-generated story arcs.",
+        "Created Date": "2024-12-28",
+        "Milestone Type": "External",
+        "Last Updated": "2025-03-18"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Automated market opportunity identification",
+        "Date": "2025-06-16",
+        "Status": "Planned",
+        "Notes": "To identify emerging market segments using AI analytics.",
+        "Created Date": "2025-04-10",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-06-14"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Customer behavior forecasting model release",
+        "Date": "2025-02-09",
+        "Status": "Completed",
+        "Notes": "Forecast model released for Q2 marketing planning.",
+        "Created Date": "2024-11-12",
+        "Milestone Type": "External",
+        "Last Updated": "2025-02-10"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Voice search content adaptation rollout",
+        "Date": "2025-05-07",
+        "Status": "Delayed",
+        "Notes": "Rollout delayed due to content format compatibility issues.",
+        "Created Date": "2025-02-25",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-05-10"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Cross-device user tracking enhancement",
+        "Date": "2025-04-12",
+        "Status": "Completed",
+        "Notes": "Improved tracking for seamless device user recognition.",
+        "Created Date": "2025-01-15",
+        "Milestone Type": "External",
+        "Last Updated": "2025-04-13"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI-powered loyalty programs pilot",
+        "Date": "2025-06-21",
+        "Status": "Planned",
+        "Notes": "Pilot with select clients to increase repeat purchases.",
+        "Created Date": "2025-04-18",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-06-20"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Real-time ad performance AI update",
+        "Date": "2025-01-30",
+        "Status": "Completed",
+        "Notes": "Updated AI modules for improved real-time insights.",
+        "Created Date": "2024-10-22",
+        "Milestone Type": "External",
+        "Last Updated": "2025-01-31"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Automated social media response enhancement",
+        "Date": "2025-03-13",
+        "Status": "Completed",
+        "Notes": "New sentiment analysis added to auto-responses.",
+        "Created Date": "2024-12-05",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-03-14"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI-powered prospect scoring algorithm",
+        "Date": "2025-05-03",
+        "Status": "Delayed",
+        "Notes": "Algorithm update delayed due to training data refresh.",
+        "Created Date": "2025-02-28",
+        "Milestone Type": "External",
+        "Last Updated": "2025-05-06"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Personalized marketing automation launch",
+        "Date": "2025-02-24",
+        "Status": "Completed",
+        "Notes": "Launched personalized workflows for email campaigns.",
+        "Created Date": "2024-11-30",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-02-25"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Sentiment monitoring expansion phase 1",
+        "Date": "2025-06-10",
+        "Status": "Planned",
+        "Notes": "Phase 1 focuses on adding product review channels.",
+        "Created Date": "2025-04-12",
+        "Milestone Type": "External",
+        "Last Updated": "2025-06-08"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI-based click-through rate optimization",
+        "Date": "2025-03-22",
+        "Status": "Completed",
+        "Notes": "Optimization algorithms fine-tuned for better CTR.",
+        "Created Date": "2024-12-15",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-03-23"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Automated content localization system",
+        "Date": "2025-01-18",
+        "Status": "Completed",
+        "Notes": "System supports 5 new languages for targeted regions.",
+        "Created Date": "2024-10-10",
+        "Milestone Type": "External",
+        "Last Updated": "2025-01-19"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI social media trend analysis report",
+        "Date": "2025-05-29",
+        "Status": "Delayed",
+        "Notes": "Delay caused by incomplete data from third-party APIs.",
+        "Created Date": "2025-03-16",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-06-01"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Dynamic email content AI implementation",
+        "Date": "2025-04-08",
+        "Status": "Completed",
+        "Notes": "Implemented dynamic content blocks based on user profile.",
+        "Created Date": "2025-01-28",
+        "Milestone Type": "External",
+        "Last Updated": "2025-04-09"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Chatbot multilingual support release",
+        "Date": "2025-02-19",
+        "Status": "Completed",
+        "Notes": "Added support for Spanish, French, and German languages.",
+        "Created Date": "2024-11-25",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-02-20"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Customer lifetime value prediction model",
+        "Date": "2025-06-19",
+        "Status": "Planned",
+        "Notes": "Model to forecast customer value over 12 months period.",
+        "Created Date": "2025-04-22",
+        "Milestone Type": "External",
+        "Last Updated": "2025-06-21"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Automated influencer content creation tool",
+        "Date": "2025-01-14",
+        "Status": "Completed",
+        "Notes": "Tool enables auto-generation of influencer post drafts.",
+        "Created Date": "2024-10-12",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-01-15"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI-driven campaign ROI analysis report",
+        "Date": "2025-03-30",
+        "Status": "Completed",
+        "Notes": "ROI analysis shows 15% increase in campaign efficiency.",
+        "Created Date": "2025-01-18",
+        "Milestone Type": "External",
+        "Last Updated": "2025-03-31"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Predictive content engagement scoring",
+        "Date": "2025-05-20",
+        "Status": "Delayed",
+        "Notes": "Delay in scoring due to incomplete engagement data.",
+        "Created Date": "2025-03-01",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-05-22"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Real-time customer support AI integration",
+        "Date": "2025-02-06",
+        "Status": "Completed",
+        "Notes": "AI integrated with live chat system for faster response.",
+        "Created Date": "2024-11-28",
+        "Milestone Type": "External",
+        "Last Updated": "2025-02-07"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI-powered competitor pricing analysis launch",
+        "Date": "2025-06-07",
+        "Status": "Planned",
+        "Notes": "Launch to provide dynamic pricing intelligence for campaigns.",
+        "Created Date": "2025-04-02",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-06-06"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Social media ad placement optimization test",
+        "Date": "2025-04-17",
+        "Status": "Completed",
+        "Notes": "Test campaign showed improved ad placement efficiency.",
+        "Created Date": "2025-01-30",
+        "Milestone Type": "External",
+        "Last Updated": "2025-04-18"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Automated lead qualification workflow",
+        "Date": "2025-01-24",
+        "Status": "Completed",
+        "Notes": "Workflow implemented to filter and score incoming leads.",
+        "Created Date": "2024-10-20",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-01-25"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Voice search analytics tool deployment",
+        "Date": "2025-05-13",
+        "Status": "Delayed",
+        "Notes": "Deployment delayed due to data processing issues.",
+        "Created Date": "2025-02-28",
+        "Milestone Type": "External",
+        "Last Updated": "2025-05-15"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI-enabled display ad targeting update",
+        "Date": "2025-03-06",
+        "Status": "Completed",
+        "Notes": "Algorithm improved to target niche audience segments.",
+        "Created Date": "2024-12-12",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-03-07"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Customer feedback sentiment AI analysis",
+        "Date": "2025-06-18",
+        "Status": "Planned",
+        "Notes": "AI to analyze customer feedback across multiple channels.",
+        "Created Date": "2025-04-21",
+        "Milestone Type": "External",
+        "Last Updated": "2025-06-16"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Real-time influencer engagement tracking",
+        "Date": "2025-02-11",
+        "Status": "Completed",
+        "Notes": "Tracking system launched for influencer interactions.",
+        "Created Date": "2024-11-15",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-02-12"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Automated marketing compliance checks",
+        "Date": "2025-04-25",
+        "Status": "Completed",
+        "Notes": "Compliance checks automated for campaign materials.",
+        "Created Date": "2025-02-05",
+        "Milestone Type": "External",
+        "Last Updated": "2025-04-26"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI-powered video ad testing platform",
+        "Date": "2025-01-31",
+        "Status": "Completed",
+        "Notes": "Platform supports A/B testing of video ad variations.",
+        "Created Date": "2024-10-28",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-02-01"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Campaign personalization algorithms refinement",
+        "Date": "2025-05-24",
+        "Status": "Delayed",
+        "Notes": "Refinement delayed due to recent algorithm updates.",
+        "Created Date": "2025-03-10",
+        "Milestone Type": "External",
+        "Last Updated": "2025-05-26"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Predictive social media scheduling rollout",
+        "Date": "2025-03-12",
+        "Status": "Completed",
+        "Notes": "Rollout includes optimal posting time recommendations.",
+        "Created Date": "2024-12-20",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-03-13"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Customer journey AI mapping phase 2",
+        "Date": "2025-06-04",
+        "Status": "Planned",
+        "Notes": "Phase 2 adds cross-channel journey insights.",
+        "Created Date": "2025-04-01",
+        "Milestone Type": "External",
+        "Last Updated": "2025-06-05"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI-based content performance metrics launch",
+        "Date": "2025-02-16",
+        "Status": "Completed",
+        "Notes": "Launch of KPIs for automated content scoring.",
+        "Created Date": "2024-11-25",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-02-17"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Automated email list segmentation update",
+        "Date": "2025-04-14",
+        "Status": "Completed",
+        "Notes": "Updated segmentation criteria to improve targeting.",
+        "Created Date": "2025-01-30",
+        "Milestone Type": "External",
+        "Last Updated": "2025-04-15"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI chatbot training enhancement sprint",
+        "Date": "2025-05-19",
+        "Status": "Delayed",
+        "Notes": "Sprint delayed due to data annotation backlog.",
+        "Created Date": "2025-03-05",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-05-21"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Real-time campaign optimization feature",
+        "Date": "2025-01-22",
+        "Status": "Completed",
+        "Notes": "Feature now live allowing automatic bid adjustments.",
+        "Created Date": "2024-10-18",
+        "Milestone Type": "External",
+        "Last Updated": "2025-01-23"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Automated market segmentation tool release",
+        "Date": "2025-03-28",
+        "Status": "Completed",
+        "Notes": "Tool released with clustering algorithm improvements.",
+        "Created Date": "2024-12-10",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-03-29"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI-powered brand awareness analysis launch",
+        "Date": "2025-06-14",
+        "Status": "Planned",
+        "Notes": "Launch scheduled after final QA testing.",
+        "Created Date": "2025-04-18",
+        "Milestone Type": "External",
+        "Last Updated": "2025-06-12"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Voice assistant marketing expansion plan",
+        "Date": "2025-02-25",
+        "Status": "Completed",
+        "Notes": "Plan approved to include new voice platforms.",
+        "Created Date": "2024-11-22",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-02-26"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Social media bot detection AI test",
+        "Date": "2025-05-16",
+        "Status": "Delayed",
+        "Notes": "Test delayed awaiting model retraining.",
+        "Created Date": "2025-02-20",
+        "Milestone Type": "External",
+        "Last Updated": "2025-05-18"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Automated influencer campaign management beta",
+        "Date": "2025-01-11",
+        "Status": "Completed",
+        "Notes": "Beta testing successful with initial influencer groups.",
+        "Created Date": "2024-10-07",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-01-12"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI-based content strategy update",
+        "Date": "2025-04-28",
+        "Status": "Completed",
+        "Notes": "Strategy updated to include video content focus.",
+        "Created Date": "2025-02-12",
+        "Milestone Type": "External",
+        "Last Updated": "2025-04-29"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Real-time ad spend tracking system go live",
+        "Date": "2025-03-02",
+        "Status": "Completed",
+        "Notes": "System provides minute-by-minute spend data.",
+        "Created Date": "2024-11-30",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-03-03"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Customer experience AI mapping project",
+        "Date": "2025-06-22",
+        "Status": "Planned",
+        "Notes": "Begins with data aggregation from feedback sources.",
+        "Created Date": "2025-04-25",
+        "Milestone Type": "External",
+        "Last Updated": "2025-06-20"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Predictive social media engagement model",
+        "Date": "2025-01-20",
+        "Status": "Completed",
+        "Notes": "Model predicts peak engagement times for posts.",
+        "Created Date": "2024-10-15",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-01-21"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Automated video content creation tool test",
+        "Date": "2025-05-08",
+        "Status": "Delayed",
+        "Notes": "Delays due to video rendering performance issues.",
+        "Created Date": "2025-02-26",
+        "Milestone Type": "External",
+        "Last Updated": "2025-05-10"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI-powered marketing automation platform",
+        "Date": "2025-03-23",
+        "Status": "Completed",
+        "Notes": "Platform launched with AI-driven workflow suggestions.",
+        "Created Date": "2024-12-18",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-03-24"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Voice search optimization strategy review",
+        "Date": "2025-04-04",
+        "Status": "Completed",
+        "Notes": "Strategy updated with latest voice assistant trends.",
+        "Created Date": "2025-01-25",
+        "Milestone Type": "External",
+        "Last Updated": "2025-04-05"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Real-time customer feedback analysis tool",
+        "Date": "2025-02-13",
+        "Status": "Completed",
+        "Notes": "Tool aggregates feedback in real-time for quick action.",
+        "Created Date": "2024-11-10",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-02-14"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI-based social media moderation pilot",
+        "Date": "2025-06-09",
+        "Status": "Planned",
+        "Notes": "Pilot aims to reduce harmful content spread.",
+        "Created Date": "2025-04-15",
+        "Milestone Type": "External",
+        "Last Updated": "2025-06-07"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Automated customer retention models update",
+        "Date": "2025-01-29",
+        "Status": "Completed",
+        "Notes": "Models updated with latest churn indicators.",
+        "Created Date": "2024-10-22",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-01-30"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI influencer collaboration tools launch",
+        "Date": "2025-05-27",
+        "Status": "Delayed",
+        "Notes": "Launch postponed due to UI bugs.",
+        "Created Date": "2025-03-13",
+        "Milestone Type": "External",
+        "Last Updated": "2025-05-29"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Campaign effectiveness AI report",
+        "Date": "2025-03-09",
+        "Status": "Completed",
+        "Notes": "Report highlights campaigns with highest ROIs.",
+        "Created Date": "2024-12-05",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-03-10"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Personalized ad creation AI tool beta",
+        "Date": "2025-06-11",
+        "Status": "Planned",
+        "Notes": "Beta testing with select advertising accounts.",
+        "Created Date": "2025-04-08",
+        "Milestone Type": "External",
+        "Last Updated": "2025-06-09"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Predictive analytics for ROI model update",
+        "Date": "2025-01-17",
+        "Status": "Completed",
+        "Notes": "Model recalibrated using Q4 financial data.",
+        "Created Date": "2024-10-12",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-01-18"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI-powered user engagement metrics rollout",
+        "Date": "2025-04-21",
+        "Status": "Completed",
+        "Notes": "Metrics now available in client dashboards.",
+        "Created Date": "2025-02-05",
+        "Milestone Type": "External",
+        "Last Updated": "2025-04-22"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Automated social listening expansion plan",
+        "Date": "2025-05-31",
+        "Status": "Delayed",
+        "Notes": "Expansion delayed due to vendor contract negotiations.",
+        "Created Date": "2025-03-19",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-06-02"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Voice assistant integration study completion",
+        "Date": "2025-02-28",
+        "Status": "Completed",
+        "Notes": "Study results indicate 18% higher engagement rates.",
+        "Created Date": "2024-11-30",
+        "Milestone Type": "External",
+        "Last Updated": "2025-03-01"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Chatbot AI behavioral study phase 1",
+        "Date": "2025-03-21",
+        "Status": "Completed",
+        "Notes": "Phase 1 focused on user interaction patterns.",
+        "Created Date": "2024-12-15",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-03-22"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI marketing funnel analysis report",
+        "Date": "2025-06-13",
+        "Status": "Planned",
+        "Notes": "Report to identify funnel leak points.",
+        "Created Date": "2025-04-17",
+        "Milestone Type": "External",
+        "Last Updated": "2025-06-15"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Automated content repurposing tool release",
+        "Date": "2025-01-09",
+        "Status": "Completed",
+        "Notes": "Tool released for multi-format content generation.",
+        "Created Date": "2024-10-05",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-01-10"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Social campaign ROI forecasting update",
+        "Date": "2025-05-21",
+        "Status": "Delayed",
+        "Notes": "Update delayed due to data integration issues.",
+        "Created Date": "2025-03-07",
+        "Milestone Type": "External",
+        "Last Updated": "2025-05-23"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI-based lead generation algorithm launch",
+        "Date": "2025-03-01",
+        "Status": "Completed",
+        "Notes": "Algorithm deployed with improved lead quality scores.",
+        "Created Date": "2024-11-28",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-03-02"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Real-time ad targeting AI prototype",
+        "Date": "2025-04-14",
+        "Status": "Completed",
+        "Notes": "Prototype shows 10% better targeting accuracy.",
+        "Created Date": "2025-01-30",
+        "Milestone Type": "External",
+        "Last Updated": "2025-04-15"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Customer behavior AI analysis phase 2",
+        "Date": "2025-06-01",
+        "Status": "Planned",
+        "Notes": "Phase 2 to include multi-touch attribution modeling.",
+        "Created Date": "2025-03-25",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-05-30"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Automated email campaign testing",
+        "Date": "2025-02-04",
+        "Status": "Completed",
+        "Notes": "Testing confirms 5% lift in open rates.",
+        "Created Date": "2024-11-10",
+        "Milestone Type": "External",
+        "Last Updated": "2025-02-05"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI-driven social media growth initiative",
+        "Date": "2025-05-25",
+        "Status": "Delayed",
+        "Notes": "Initiative delayed due to new platform API limitations.",
+        "Created Date": "2025-03-15",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-05-27"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Voice search user experience survey",
+        "Date": "2025-01-26",
+        "Status": "Completed",
+        "Notes": "Survey shows user preference for conversational queries.",
+        "Created Date": "2024-10-22",
+        "Milestone Type": "External",
+        "Last Updated": "2025-01-27"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI-powered customer segmentation upgrade",
+        "Date": "2025-04-18",
+        "Status": "Completed",
+        "Notes": "Upgrade includes real-time segment updates.",
+        "Created Date": "2025-02-10",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-04-19"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Social media trend analysis report",
+        "Date": "2025-03-04",
+        "Status": "Completed",
+        "Notes": "Highlights latest influencer and hashtag trends.",
+        "Created Date": "2024-12-01",
+        "Milestone Type": "External",
+        "Last Updated": "2025-03-05"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Predictive lead scoring model enhancement",
+        "Date": "2025-06-24",
+        "Status": "Planned",
+        "Notes": "Enhancement to reduce false positives in lead qualification.",
+        "Created Date": "2025-04-22",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-06-25"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Content personalization engine pilot",
+        "Date": "2025-01-21",
+        "Status": "Completed",
+        "Notes": "Pilot shows 8% increase in user engagement.",
+        "Created Date": "2024-10-19",
+        "Milestone Type": "External",
+        "Last Updated": "2025-01-22"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Voice search marketing study findings",
+        "Date": "2025-05-19",
+        "Status": "Delayed",
+        "Notes": "Final report delayed due to data validation issues.",
+        "Created Date": "2025-02-28",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-05-21"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Chatbot engagement optimization test",
+        "Date": "2025-03-26",
+        "Status": "Completed",
+        "Notes": "Optimization led to 15% longer user sessions.",
+        "Created Date": "2025-01-10",
+        "Milestone Type": "External",
+        "Last Updated": "2025-03-27"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI-driven ad spend allocation update",
+        "Date": "2025-04-30",
+        "Status": "Completed",
+        "Notes": "Updated algorithm improves spend efficiency by 10%.",
+        "Created Date": "2025-02-15",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-05-01"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Sentiment analysis on reviews tool launch",
+        "Date": "2025-02-21",
+        "Status": "Completed",
+        "Notes": "Tool launched for automated review sentiment tagging.",
+        "Created Date": "2024-11-18",
+        "Milestone Type": "External",
+        "Last Updated": "2025-02-22"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Automated content generation module release",
+        "Date": "2025-06-06",
+        "Status": "Planned",
+        "Notes": "Release scheduled with improved language models.",
+        "Created Date": "2025-04-01",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-06-05"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Email campaign optimization strategy",
+        "Date": "2025-01-13",
+        "Status": "Completed",
+        "Notes": "Strategy approved for next quarter campaigns.",
+        "Created Date": "2024-10-07",
+        "Milestone Type": "External",
+        "Last Updated": "2025-01-14"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Customer journey mapping tool enhancement",
+        "Date": "2025-05-28",
+        "Status": "Delayed",
+        "Notes": "Enhancement delayed due to data import issues.",
+        "Created Date": "2025-03-10",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-05-30"
+      }
+    },
+    {
+      "fields": {
+        "Title": "AI-based competitor analysis report",
+        "Date": "2025-03-07",
+        "Status": "Completed",
+        "Notes": "Report includes sentiment and campaign effectiveness.",
+        "Created Date": "2024-12-01",
+        "Milestone Type": "External",
+        "Last Updated": "2025-03-08"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Multi-channel attribution modeling rollout",
+        "Date": "2025-04-11",
+        "Status": "Completed",
+        "Notes": "Rollout enables better cross-channel ROI tracking.",
+        "Created Date": "2025-01-28",
+        "Milestone Type": "Internal",
+        "Last Updated": "2025-04-12"
+      }
+    },
+    {
+      "fields": {
+        "Title": "Dynamic pricing algorithm testing",
+        "Date": "2025-02-23",
+        "Status": "Completed",
+        "Notes": "Algorithm testing showed 6% revenue increase potential.",
+        "Created Date": "2024-11-20",
+        "Milestone Type": "External",
+        "Last Updated": "2025-02-24"
+      }
+    }
+  ]
+}

@@ -1,0 +1,381 @@
+[
+    {
+        "name": "Cordless Electric Kettle",
+        "description": "A high-speed cordless electric kettle with a capacity of 1.7 liters, featuring an automatic shut-off and boil-dry protection for safety.",
+        "list_price": 39.99,
+        "cost": 24.99,
+        "category": "Home Essentials",
+        "variants": [
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "Black",
+                    "Stainless Steel",
+                    "White"
+                ]
+            },
+            {
+                "name": "Capacity",
+                "display_type": "select",
+                "values": [
+                    "1.5L",
+                    "1.7L",
+                    "2.0L"
+                ]
+            }
+        ],
+        "uom": "each"
+    },
+    {
+        "name": "Bluetooth Noise-Cancelling Headphones",
+        "description": "Over-ear Bluetooth headphones with noise-cancellation technology and up to 30 hours of battery life for uninterrupted listening.",
+        "list_price": 149.99,
+        "cost": 89.99,
+        "category": "Electronics",
+        "variants": [
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "Black",
+                    "Blue",
+                    "Red"
+                ]
+            }
+        ],
+        "uom": "each"
+    },
+    {
+        "name": "Men's Casual T-Shirt",
+        "description": "Comfortable and stylish men's casual T-shirt made of 100% cotton, perfect for everyday wear.",
+        "list_price": 19.99,
+        "cost": 8.99,
+        "category": "Apparel",
+        "variants": [
+            {
+                "name": "Size",
+                "display_type": "select",
+                "values": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL"
+                ]
+            },
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "Gray",
+                    "Navy",
+                    "White"
+                ]
+            }
+        ],
+        "uom": "each"
+    },
+    {
+        "name": "Aloe Vera Moisturizing Lotion",
+        "description": "A soothing aloe vera moisturizing lotion that hydrates and nourishes skin, suitable for all skin types.",
+        "list_price": 15.99,
+        "cost": 7.99,
+        "category": "Health & Beauty",
+        "variants": [
+            {
+                "name": "Size",
+                "display_type": "select",
+                "values": [
+                    "8 oz",
+                    "16 oz"
+                ]
+            }
+        ],
+        "uom": "each"
+    },
+    {
+        "name": "Office Desk Organizer",
+        "description": "Stylish office desk organizer with multiple compartments to keep your workspace tidy and efficient.",
+        "list_price": 29.99,
+        "cost": 15.99,
+        "category": "Office Supplies",
+        "variants": [
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "Black",
+                    "Brown",
+                    "White"
+                ]
+            }
+        ],
+        "uom": "each"
+    },
+    {
+        "name": "Gourmet Gift Basket",
+        "description": "An assorted gourmet gift basket filled with premium snacks and treats, perfect for any occasion.",
+        "list_price": 59.99,
+        "cost": 34.99,
+        "category": "Gift Sets & Bundles",
+        "variants": [
+            {
+                "name": "Size",
+                "display_type": "select",
+                "values": [
+                    "Small",
+                    "Medium",
+                    "Large"
+                ]
+            }
+        ],
+        "uom": "each"
+    },
+    {
+        "name": "Portable Phone Charger",
+        "description": "Compact and lightweight portable phone charger with 10,000 mAh capacity, compatible with most smartphones.",
+        "list_price": 24.99,
+        "cost": 12.99,
+        "category": "Electronics",
+        "variants": [
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "Black",
+                    "Silver",
+                    "Gold"
+                ]
+            }
+        ],
+        "uom": "each"
+    },
+    {
+        "name": "Women's Running Shoes",
+        "description": "Lightweight and comfortable women's running shoes designed for optimal support and breathability during workouts.",
+        "list_price": 69.99,
+        "cost": 39.99,
+        "category": "Apparel",
+        "variants": [
+            {
+                "name": "Size",
+                "display_type": "select",
+                "values": [
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10"
+                ]
+            },
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "Pink",
+                    "Gray",
+                    "Black"
+                ]
+            }
+        ],
+        "uom": "each"
+    },
+    {
+        "name": "Organic Shampoo",
+        "description": "Natural and organic shampoo that gently cleanses while nourishing hair, free from sulfates and parabens.",
+        "list_price": 12.99,
+        "cost": 5.99,
+        "category": "Health & Beauty",
+        "variants": [
+            {
+                "name": "Size",
+                "display_type": "select",
+                "values": [
+                    "8 oz",
+                    "16 oz"
+                ]
+            }
+        ],
+        "uom": "each"
+    },
+    {
+        "name": "LED Desk Lamp",
+        "description": "Adjustable LED desk lamp with multiple brightness settings and a USB charging port for convenience.",
+        "list_price": 39.99,
+        "cost": 22.99,
+        "category": "Office Supplies",
+        "variants": [
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "Black",
+                    "White",
+                    "Silver"
+                ]
+            }
+        ],
+        "uom": "each"
+    },
+    {
+        "name": "Luxury Scented Candle",
+        "description": "Hand-poured luxury scented candle made with natural soy wax, providing a long-lasting and soothing aroma.",
+        "list_price": 24.99,
+        "cost": 10.99,
+        "category": "Home Essentials",
+        "variants": [
+            {
+                "name": "Scent",
+                "display_type": "select",
+                "values": [
+                    "Lavender",
+                    "Vanilla",
+                    "Citrus"
+                ]
+            }
+        ],
+        "uom": "each"
+    },
+    {
+        "name": "Wireless Gaming Mouse",
+        "description": "Ergonomic wireless gaming mouse with customizable RGB lighting and high precision sensor.",
+        "list_price": 49.99,
+        "cost": 29.99,
+        "category": "Electronics",
+        "variants": [
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "Black",
+                    "White",
+                    "Red"
+                ]
+            }
+        ],
+        "uom": "each"
+    },
+    {
+        "name": "Men's Dress Shirt",
+        "description": "Stylish and comfortable men's dress shirt, perfect for formal and casual occasions.",
+        "list_price": 39.99,
+        "cost": 19.99,
+        "category": "Apparel",
+        "variants": [
+            {
+                "name": "Size",
+                "display_type": "select",
+                "values": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL"
+                ]
+            },
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "Blue",
+                    "White",
+                    "Black"
+                ]
+            }
+        ],
+        "uom": "each"
+    },
+    {
+        "name": "Herbal Face Mask",
+        "description": "A rejuvenating herbal face mask that hydrates and revitalizes skin, suitable for all skin types.",
+        "list_price": 18.99,
+        "cost": 9.99,
+        "category": "Health & Beauty",
+        "variants": [
+            {
+                "name": "Size",
+                "display_type": "select",
+                "values": [
+                    "2 oz",
+                    "4 oz"
+                ]
+            }
+        ],
+        "uom": "each"
+    },
+    {
+        "name": "Folding Storage Bin",
+        "description": "Durable and stylish folding storage bin, perfect for organizing items in any room of your home.",
+        "list_price": 19.99,
+        "cost": 8.99,
+        "category": "Home Essentials",
+        "variants": [
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "Gray",
+                    "Blue",
+                    "Pink"
+                ]
+            }
+        ],
+        "uom": "each"
+    },
+    {
+        "name": "Gift Card",
+        "description": "Gift card for any occasion, redeemable for a wide range of products in-store and online.",
+        "list_price": 50.0,
+        "cost": 50.0,
+        "category": "Gift Sets & Bundles",
+        "variants": [
+            {
+                "name": "Value",
+                "display_type": "select",
+                "values": [
+                    "$25",
+                    "$50",
+                    "$100"
+                ]
+            }
+        ],
+        "uom": "each"
+    },
+    {
+        "name": "Adjustable Ergonomic Chair",
+        "description": "Ergonomic office chair with adjustable height and lumbar support for maximum comfort during long work hours.",
+        "list_price": 149.99,
+        "cost": 89.99,
+        "category": "Office Supplies",
+        "variants": [
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "Black",
+                    "Gray",
+                    "Blue"
+                ]
+            }
+        ],
+        "uom": "each"
+    },
+    {
+        "name": "Rechargeable Hand Warmer",
+        "description": "Portable rechargeable hand warmer, perfect for keeping your hands warm during cold weather.",
+        "list_price": 29.99,
+        "cost": 14.99,
+        "category": "Electronics",
+        "variants": [
+            {
+                "name": "Color",
+                "display_type": "color",
+                "values": [
+                    "Red",
+                    "Black",
+                    "Blue"
+                ]
+            }
+        ],
+        "uom": "each"
+    }
+]

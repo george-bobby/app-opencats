@@ -1,0 +1,3410 @@
+{
+  "table_name": "Task Updates",
+  "parent_workspace_name": "Client Projects",
+  "parent_base_name": "Client Projects",
+  "records": [
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-05-15",
+        "Comments / Notes": "Started drafting initial AI content calendar outline for client approval.",
+        "Time Spent Since Last Update": 6.5,
+        "Type of Update": "Manual",
+        "Logged Hours": 6.5,
+        "Tags Added/Removed": "+Planning, +Content",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Review",
+        "Update Date": "2025-05-21",
+        "Comments / Notes": "Completed keyword research and submitted for peer review.",
+        "Time Spent Since Last Update": 10.2,
+        "Type of Update": "Manual",
+        "Logged Hours": 8.0,
+        "Tags Added/Removed": "+Research, +SEO, -Draft",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Review → Approved",
+        "Update Date": "2025-05-25",
+        "Comments / Notes": "Keyword research approved by marketing lead. Ready for campaign setup.",
+        "Time Spent Since Last Update": 3.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.0,
+        "Tags Added/Removed": "+Approved",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "Review",
+        "New Value": "Approved"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-06-10",
+        "Comments / Notes": "Initiated setup of social media ad campaigns with AI targeting enabled.",
+        "Time Spent Since Last Update": 4.8,
+        "Type of Update": "Automated",
+        "Logged Hours": 4.5,
+        "Tags Added/Removed": "+Ads, +SocialMedia",
+        "Client Visibility": "No",
+        "Automation Triggered": "Yes",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → QA",
+        "Update Date": "2025-06-15",
+        "Comments / Notes": "QA testing on email drip sequences automation has started, identifying initial bugs.",
+        "Time Spent Since Last Update": 12.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 9.5,
+        "Tags Added/Removed": "+QA, -Draft",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "QA"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "QA → In Progress",
+        "Update Date": "2025-06-18",
+        "Comments / Notes": "Reopened task due to bugs found, currently fixing email automation errors.",
+        "Time Spent Since Last Update": 5.3,
+        "Type of Update": "Manual",
+        "Logged Hours": 5.0,
+        "Tags Added/Removed": "+BugFix",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "QA",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Done",
+        "Update Date": "2025-06-20",
+        "Comments / Notes": "Finalized documentation for SEO best practices, ready for client delivery.",
+        "Time Spent Since Last Update": 7.1,
+        "Type of Update": "Manual",
+        "Logged Hours": 7.0,
+        "Tags Added/Removed": "+Documentation, +SEO",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-03-30",
+        "Comments / Notes": "Started analyzing market segmentation data for new client campaign.",
+        "Time Spent Since Last Update": 8.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 7.5,
+        "Tags Added/Removed": "+Analysis, +MarketSegmentation",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Review",
+        "Update Date": "2025-04-05",
+        "Comments / Notes": "Initial market segmentation report submitted for team review.",
+        "Time Spent Since Last Update": 4.5,
+        "Type of Update": "Manual",
+        "Logged Hours": 4.0,
+        "Tags Added/Removed": "+Review",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Review → Approved",
+        "Update Date": "2025-04-10",
+        "Comments / Notes": "Segmentation report approved and implemented in target marketing strategies.",
+        "Time Spent Since Last Update": 3.2,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.0,
+        "Tags Added/Removed": "+Approved",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "Review",
+        "New Value": "Approved"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-02-14",
+        "Comments / Notes": "Redesign of homepage layout initiated following client feedback.",
+        "Time Spent Since Last Update": 20.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 18.0,
+        "Tags Added/Removed": "+Design, +Homepage",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → QA",
+        "Update Date": "2025-02-22",
+        "Comments / Notes": "QA testing underway for homepage prototype, focus on user experience issues.",
+        "Time Spent Since Last Update": 12.5,
+        "Type of Update": "Manual",
+        "Logged Hours": 12.0,
+        "Tags Added/Removed": "+QA, -Draft",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "QA"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "QA → Done",
+        "Update Date": "2025-02-28",
+        "Comments / Notes": "Homepage redesign completed and deployed to production environment.",
+        "Time Spent Since Last Update": 6.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 6.0,
+        "Tags Added/Removed": "+Deployment, +Design",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "QA",
+        "New Value": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-01-20",
+        "Comments / Notes": "Improvement started on client onboarding flow for better engagement.",
+        "Time Spent Since Last Update": 5.7,
+        "Type of Update": "Manual",
+        "Logged Hours": 5.5,
+        "Tags Added/Removed": "+Onboarding, +UX",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Review",
+        "Update Date": "2025-01-25",
+        "Comments / Notes": "Client onboarding flow updated with new AI-powered elements, awaiting review.",
+        "Time Spent Since Last Update": 4.8,
+        "Type of Update": "Manual",
+        "Logged Hours": 4.5,
+        "Tags Added/Removed": "+AI, +Review",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Review → Approved",
+        "Update Date": "2025-01-30",
+        "Comments / Notes": "Onboarding improvements approved after client presentation.",
+        "Time Spent Since Last Update": 3.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.0,
+        "Tags Added/Removed": "+Approved",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "Review",
+        "New Value": "Approved"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-03-01",
+        "Comments / Notes": "Starting QA on email automation sequences for upcoming client campaign.",
+        "Time Spent Since Last Update": 4.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 4.0,
+        "Tags Added/Removed": "+QA",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → QA",
+        "Update Date": "2025-03-07",
+        "Comments / Notes": "QA ongoing, identified issues with sequence triggers, fixing.",
+        "Time Spent Since Last Update": 5.5,
+        "Type of Update": "Manual",
+        "Logged Hours": 5.5,
+        "Tags Added/Removed": "+BugFix",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "QA"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "QA → Done",
+        "Update Date": "2025-03-12",
+        "Comments / Notes": "Email automation sequences QA completed and approved for launch.",
+        "Time Spent Since Last Update": 3.8,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.5,
+        "Tags Added/Removed": "+Approved",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "QA",
+        "New Value": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-04-12",
+        "Comments / Notes": "Started research on AI-driven marketing trends for upcoming client workshop.",
+        "Time Spent Since Last Update": 7.5,
+        "Type of Update": "Manual",
+        "Logged Hours": 7.0,
+        "Tags Added/Removed": "+Research, +AI",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Review",
+        "Update Date": "2025-04-18",
+        "Comments / Notes": "Preliminary findings presented to team, pending detailed analysis.",
+        "Time Spent Since Last Update": 6.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 6.0,
+        "Tags Added/Removed": "+Review",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Review → Approved",
+        "Update Date": "2025-04-23",
+        "Comments / Notes": "Research report approved, material ready for client distribution.",
+        "Time Spent Since Last Update": 4.2,
+        "Type of Update": "Manual",
+        "Logged Hours": 4.0,
+        "Tags Added/Removed": "+Approved",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "Review",
+        "New Value": "Approved"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-05-05",
+        "Comments / Notes": "Maintaining social media content calendar with fresh AI-generated posts.",
+        "Time Spent Since Last Update": 9.0,
+        "Type of Update": "Automated",
+        "Logged Hours": 8.5,
+        "Tags Added/Removed": "+SocialMedia, +AI",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "Yes",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Done",
+        "Update Date": "2025-05-12",
+        "Comments / Notes": "Social media calendar updated with scheduled posts up to next quarter.",
+        "Time Spent Since Last Update": 4.0,
+        "Type of Update": "Automated",
+        "Logged Hours": 3.8,
+        "Tags Added/Removed": "+Scheduled",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "Yes",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-02-26",
+        "Comments / Notes": "Enhancing video marketing scripts with latest AI content suggestions.",
+        "Time Spent Since Last Update": 8.3,
+        "Type of Update": "Manual",
+        "Logged Hours": 8.0,
+        "Tags Added/Removed": "+Video, +AI",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Review",
+        "Update Date": "2025-03-03",
+        "Comments / Notes": "Video scripts ready for creative team review and feedback.",
+        "Time Spent Since Last Update": 5.4,
+        "Type of Update": "Manual",
+        "Logged Hours": 5.0,
+        "Tags Added/Removed": "+Review",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Review → Approved",
+        "Update Date": "2025-03-06",
+        "Comments / Notes": "Scripts approved, moving into production phase.",
+        "Time Spent Since Last Update": 2.5,
+        "Type of Update": "Manual",
+        "Logged Hours": 2.5,
+        "Tags Added/Removed": "+Approved",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "Review",
+        "New Value": "Approved"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-06-05",
+        "Comments / Notes": "Started fixing chatbot integration bugs discovered during client testing.",
+        "Time Spent Since Last Update": 10.5,
+        "Type of Update": "Manual",
+        "Logged Hours": 10.0,
+        "Tags Added/Removed": "+BugFix, -Issue",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → QA",
+        "Update Date": "2025-06-12",
+        "Comments / Notes": "QA ongoing for chatbot fixes, focusing on conversation flow and error handling.",
+        "Time Spent Since Last Update": 8.2,
+        "Type of Update": "Manual",
+        "Logged Hours": 8.0,
+        "Tags Added/Removed": "+QA",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "QA"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "QA → Done",
+        "Update Date": "2025-06-18",
+        "Comments / Notes": "Chatbot integration bugs resolved and QA sign-off obtained.",
+        "Time Spent Since Last Update": 6.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 6.0,
+        "Tags Added/Removed": "+Resolved",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "QA",
+        "New Value": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-04-20",
+        "Comments / Notes": "Created brand awareness report data collection started.",
+        "Time Spent Since Last Update": 7.9,
+        "Type of Update": "Manual",
+        "Logged Hours": 7.5,
+        "Tags Added/Removed": "+Report, +Branding",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Review",
+        "Update Date": "2025-04-26",
+        "Comments / Notes": "Draft report compiled and circulated for internal feedback.",
+        "Time Spent Since Last Update": 5.1,
+        "Type of Update": "Manual",
+        "Logged Hours": 5.0,
+        "Tags Added/Removed": "+Review",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Review → Approved",
+        "Update Date": "2025-05-01",
+        "Comments / Notes": "Final report approved and scheduled for client presentation.",
+        "Time Spent Since Last Update": 3.3,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.0,
+        "Tags Added/Removed": "+Approved",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "Review",
+        "New Value": "Approved"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-03-15",
+        "Comments / Notes": "Optimizing PPC campaign structure with automated bidding strategies.",
+        "Time Spent Since Last Update": 14.0,
+        "Type of Update": "Automated",
+        "Logged Hours": 13.5,
+        "Tags Added/Removed": "+PPC, +Automation",
+        "Client Visibility": "No",
+        "Automation Triggered": "Yes",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → QA",
+        "Update Date": "2025-03-22",
+        "Comments / Notes": "QA testing PPC campaign tweaks, monitoring for performance impact.",
+        "Time Spent Since Last Update": 9.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 8.5,
+        "Tags Added/Removed": "+QA",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "QA"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "QA → Done",
+        "Update Date": "2025-03-28",
+        "Comments / Notes": "PPC campaign optimization approved and launched.",
+        "Time Spent Since Last Update": 6.5,
+        "Type of Update": "Manual",
+        "Logged Hours": 6.0,
+        "Tags Added/Removed": "+Launch",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "QA",
+        "New Value": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-01-10",
+        "Comments / Notes": "Launched customer experience feedback analysis using AI sentiment tools.",
+        "Time Spent Since Last Update": 11.7,
+        "Type of Update": "Manual",
+        "Logged Hours": 11.0,
+        "Tags Added/Removed": "+AI, +Feedback",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Review",
+        "Update Date": "2025-01-18",
+        "Comments / Notes": "Preliminary analysis results reviewed by team, preparing summary report.",
+        "Time Spent Since Last Update": 6.8,
+        "Type of Update": "Manual",
+        "Logged Hours": 6.5,
+        "Tags Added/Removed": "+Review",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Review → Approved",
+        "Update Date": "2025-01-25",
+        "Comments / Notes": "Report approved and shared with client for insights.",
+        "Time Spent Since Last Update": 4.2,
+        "Type of Update": "Manual",
+        "Logged Hours": 4.0,
+        "Tags Added/Removed": "+Approved",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "Review",
+        "New Value": "Approved"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-02-08",
+        "Comments / Notes": "Development started on influencer collaboration tool integration.",
+        "Time Spent Since Last Update": 10.4,
+        "Type of Update": "Manual",
+        "Logged Hours": 10.0,
+        "Tags Added/Removed": "+Development, +Influencer",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → QA",
+        "Update Date": "2025-02-15",
+        "Comments / Notes": "QA of influencer collaboration tool in progress, focusing on API stability.",
+        "Time Spent Since Last Update": 7.8,
+        "Type of Update": "Manual",
+        "Logged Hours": 7.5,
+        "Tags Added/Removed": "+QA",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "QA"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "QA → Done",
+        "Update Date": "2025-02-20",
+        "Comments / Notes": "Tool passed QA, ready for client rollout.",
+        "Time Spent Since Last Update": 5.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 5.0,
+        "Tags Added/Removed": "+Ready, +Release",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "QA",
+        "New Value": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-06-01",
+        "Comments / Notes": "Fixing email list segmentation bug causing incorrect targeting.",
+        "Time Spent Since Last Update": 8.7,
+        "Type of Update": "Manual",
+        "Logged Hours": 8.0,
+        "Tags Added/Removed": "+BugFix, -Issue",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → QA",
+        "Update Date": "2025-06-08",
+        "Comments / Notes": "QA testing of segmentation bug fix, monitoring for errors.",
+        "Time Spent Since Last Update": 6.6,
+        "Type of Update": "Manual",
+        "Logged Hours": 6.5,
+        "Tags Added/Removed": "+QA",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "QA"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "QA → Done",
+        "Update Date": "2025-06-14",
+        "Comments / Notes": "Segmentation bug fix validated and deployed.",
+        "Time Spent Since Last Update": 5.5,
+        "Type of Update": "Manual",
+        "Logged Hours": 5.0,
+        "Tags Added/Removed": "+Deployed",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "QA",
+        "New Value": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-04-01",
+        "Comments / Notes": "Updating analytics dashboard widgets with new AI-powered metrics.",
+        "Time Spent Since Last Update": 7.2,
+        "Type of Update": "Manual",
+        "Logged Hours": 7.0,
+        "Tags Added/Removed": "+Analytics, +AI",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Review",
+        "Update Date": "2025-04-08",
+        "Comments / Notes": "Dashboard widget updates sent for review by analytics team.",
+        "Time Spent Since Last Update": 4.9,
+        "Type of Update": "Manual",
+        "Logged Hours": 4.5,
+        "Tags Added/Removed": "+Review",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Review → Approved",
+        "Update Date": "2025-04-12",
+        "Comments / Notes": "Updates approved, will be deployed in next release cycle.",
+        "Time Spent Since Last Update": 3.1,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.0,
+        "Tags Added/Removed": "+Approved",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "Review",
+        "New Value": "Approved"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-05-08",
+        "Comments / Notes": "Writing client satisfaction survey questions to optimize feedback quality.",
+        "Time Spent Since Last Update": 5.8,
+        "Type of Update": "Manual",
+        "Logged Hours": 5.5,
+        "Tags Added/Removed": "+Survey, +ClientFeedback",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Review",
+        "Update Date": "2025-05-13",
+        "Comments / Notes": "Survey questions drafted and submitted for review.",
+        "Time Spent Since Last Update": 4.5,
+        "Type of Update": "Manual",
+        "Logged Hours": 4.0,
+        "Tags Added/Removed": "+Review",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Review → Approved",
+        "Update Date": "2025-05-17",
+        "Comments / Notes": "Survey questions approved, ready for client rollout.",
+        "Time Spent Since Last Update": 3.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.0,
+        "Tags Added/Removed": "+Approved",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "Review",
+        "New Value": "Approved"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-03-05",
+        "Comments / Notes": "Researching sustainability campaign impact metrics for client brief.",
+        "Time Spent Since Last Update": 9.4,
+        "Type of Update": "Manual",
+        "Logged Hours": 9.0,
+        "Tags Added/Removed": "+Research, +Sustainability",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Review",
+        "Update Date": "2025-03-12",
+        "Comments / Notes": "Preliminary report submitted for internal team review.",
+        "Time Spent Since Last Update": 5.7,
+        "Type of Update": "Manual",
+        "Logged Hours": 5.5,
+        "Tags Added/Removed": "+Review",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Review → Approved",
+        "Update Date": "2025-03-17",
+        "Comments / Notes": "Sustainability impact report approved for client presentation.",
+        "Time Spent Since Last Update": 3.3,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.0,
+        "Tags Added/Removed": "+Approved",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "Review",
+        "New Value": "Approved"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-01-30",
+        "Comments / Notes": "Improving client referral program UI with intuitive navigation.",
+        "Time Spent Since Last Update": 7.5,
+        "Type of Update": "Manual",
+        "Logged Hours": 7.0,
+        "Tags Added/Removed": "+UI, +Referral",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → QA",
+        "Update Date": "2025-02-06",
+        "Comments / Notes": "QA started focusing on UI responsiveness and workflow efficiency.",
+        "Time Spent Since Last Update": 5.5,
+        "Type of Update": "Manual",
+        "Logged Hours": 5.0,
+        "Tags Added/Removed": "+QA",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "QA"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "QA → Done",
+        "Update Date": "2025-02-11",
+        "Comments / Notes": "Referral program UI improvements completed and deployed.",
+        "Time Spent Since Last Update": 4.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 4.0,
+        "Tags Added/Removed": "+Deployment",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "QA",
+        "New Value": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-06-10",
+        "Comments / Notes": "QA for AI chatbot dialogue flows in progress, testing edge cases.",
+        "Time Spent Since Last Update": 11.2,
+        "Type of Update": "Manual",
+        "Logged Hours": 11.0,
+        "Tags Added/Removed": "+QA, +Chatbot",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → QA",
+        "Update Date": "2025-06-17",
+        "Comments / Notes": "Chatbot dialogue flows passing initial tests, focusing on conversation clarity.",
+        "Time Spent Since Last Update": 7.9,
+        "Type of Update": "Manual",
+        "Logged Hours": 7.5,
+        "Tags Added/Removed": "+QA",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "QA"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "QA → Done",
+        "Update Date": "2025-06-22",
+        "Comments / Notes": "QA completed, dialogue flows approved and integrated to chatbot.",
+        "Time Spent Since Last Update": 5.5,
+        "Type of Update": "Manual",
+        "Logged Hours": 5.5,
+        "Tags Added/Removed": "+Approved",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "QA",
+        "New Value": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-01-15",
+        "Comments / Notes": "Documenting marketing automation workflow for internal team training.",
+        "Time Spent Since Last Update": 8.5,
+        "Type of Update": "Manual",
+        "Logged Hours": 8.0,
+        "Tags Added/Removed": "+Documentation, +Automation",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Review",
+        "Update Date": "2025-01-23",
+        "Comments / Notes": "Draft documentation submitted for peer review and feedback.",
+        "Time Spent Since Last Update": 5.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 5.0,
+        "Tags Added/Removed": "+Review",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Review → Approved",
+        "Update Date": "2025-01-28",
+        "Comments / Notes": "Documentation approved and uploaded to knowledge base.",
+        "Time Spent Since Last Update": 3.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.0,
+        "Tags Added/Removed": "+Approved",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "Review",
+        "New Value": "Approved"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-05-20",
+        "Comments / Notes": "Researching lead generation best tactics leveraging AI analytics.",
+        "Time Spent Since Last Update": 9.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 8.5,
+        "Tags Added/Removed": "+Research, +LeadGen",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Review",
+        "Update Date": "2025-05-27",
+        "Comments / Notes": "Lead generation tactics report under internal review.",
+        "Time Spent Since Last Update": 5.2,
+        "Type of Update": "Manual",
+        "Logged Hours": 5.0,
+        "Tags Added/Removed": "+Review",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Review → Approved",
+        "Update Date": "2025-06-01",
+        "Comments / Notes": "Report approved, ready for client presentation.",
+        "Time Spent Since Last Update": 3.1,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.0,
+        "Tags Added/Removed": "+Approved",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "Review",
+        "New Value": "Approved"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-02-20",
+        "Comments / Notes": "Maintaining client onboarding documentation with recent updates.",
+        "Time Spent Since Last Update": 6.8,
+        "Type of Update": "Manual",
+        "Logged Hours": 6.5,
+        "Tags Added/Removed": "+Documentation",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Done",
+        "Update Date": "2025-02-26",
+        "Comments / Notes": "Completed updates to onboarding docs reflecting new process changes.",
+        "Time Spent Since Last Update": 4.5,
+        "Type of Update": "Manual",
+        "Logged Hours": 4.0,
+        "Tags Added/Removed": "+Completed",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-03-10",
+        "Comments / Notes": "Enhancing webinar series content with interactive AI features.",
+        "Time Spent Since Last Update": 9.7,
+        "Type of Update": "Manual",
+        "Logged Hours": 9.5,
+        "Tags Added/Removed": "+Webinar, +AI",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → QA",
+        "Update Date": "2025-03-18",
+        "Comments / Notes": "QA testing for webinar content quality and AI functionality.",
+        "Time Spent Since Last Update": 7.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 7.0,
+        "Tags Added/Removed": "+QA",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "QA"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "QA → Done",
+        "Update Date": "2025-03-23",
+        "Comments / Notes": "Webinar content approved for client delivery and scheduling.",
+        "Time Spent Since Last Update": 5.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 5.0,
+        "Tags Added/Removed": "+Approved",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "QA",
+        "New Value": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-06-03",
+        "Comments / Notes": "Fixing bugs in social media management tool reported by QA team.",
+        "Time Spent Since Last Update": 10.9,
+        "Type of Update": "Manual",
+        "Logged Hours": 10.0,
+        "Tags Added/Removed": "+BugFix",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → QA",
+        "Update Date": "2025-06-10",
+        "Comments / Notes": "QA ongoing for social media tool bug fixes, focusing on stability.",
+        "Time Spent Since Last Update": 6.7,
+        "Type of Update": "Manual",
+        "Logged Hours": 6.5,
+        "Tags Added/Removed": "+QA",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "QA"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "QA → Done",
+        "Update Date": "2025-06-15",
+        "Comments / Notes": "Bug fixes verified and deployed for social media management tool.",
+        "Time Spent Since Last Update": 5.3,
+        "Type of Update": "Manual",
+        "Logged Hours": 5.0,
+        "Tags Added/Removed": "+Deployed",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "QA",
+        "New Value": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-04-15",
+        "Comments / Notes": "Creating branding guidelines update with new AI-generated assets.",
+        "Time Spent Since Last Update": 8.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 7.5,
+        "Tags Added/Removed": "+Branding, +AI",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Review",
+        "Update Date": "2025-04-22",
+        "Comments / Notes": "Branding guidelines draft shared for feedback and edits.",
+        "Time Spent Since Last Update": 5.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 5.0,
+        "Tags Added/Removed": "+Review",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Review → Approved",
+        "Update Date": "2025-04-28",
+        "Comments / Notes": "Updated branding guidelines approved and published.",
+        "Time Spent Since Last Update": 4.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 4.0,
+        "Tags Added/Removed": "+Published",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "Review",
+        "New Value": "Approved"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-05-02",
+        "Comments / Notes": "Optimizing local SEO campaign keywords with AI suggestions.",
+        "Time Spent Since Last Update": 6.7,
+        "Type of Update": "Manual",
+        "Logged Hours": 6.5,
+        "Tags Added/Removed": "+SEO, +AI",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Review",
+        "Update Date": "2025-05-08",
+        "Comments / Notes": "Keyword optimization report prepared and under review.",
+        "Time Spent Since Last Update": 4.2,
+        "Type of Update": "Manual",
+        "Logged Hours": 4.0,
+        "Tags Added/Removed": "+Review",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Review → Approved",
+        "Update Date": "2025-05-12",
+        "Comments / Notes": "SEO keywords optimized and approved for deployment.",
+        "Time Spent Since Last Update": 3.1,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.0,
+        "Tags Added/Removed": "+Approved",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "Review",
+        "New Value": "Approved"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-01-05",
+        "Comments / Notes": "Analyzing customer journey mapping data using AI analytics.",
+        "Time Spent Since Last Update": 9.9,
+        "Type of Update": "Manual",
+        "Logged Hours": 9.5,
+        "Tags Added/Removed": "+Analysis, +AI",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Review",
+        "Update Date": "2025-01-12",
+        "Comments / Notes": "Preliminary analysis report submitted for internal review.",
+        "Time Spent Since Last Update": 6.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 6.0,
+        "Tags Added/Removed": "+Review",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Review → Approved",
+        "Update Date": "2025-01-17",
+        "Comments / Notes": "Customer journey report approved and scheduled for client presentation.",
+        "Time Spent Since Last Update": 3.5,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.0,
+        "Tags Added/Removed": "+Approved",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "Review",
+        "New Value": "Approved"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-02-02",
+        "Comments / Notes": "Developing AI-driven market trends analysis tool.",
+        "Time Spent Since Last Update": 15.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 14.5,
+        "Tags Added/Removed": "+Development, +AI",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → QA",
+        "Update Date": "2025-02-12",
+        "Comments / Notes": "QA testing on AI market trends tool focusing on data accuracy.",
+        "Time Spent Since Last Update": 8.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 7.5,
+        "Tags Added/Removed": "+QA",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "QA"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "QA → Done",
+        "Update Date": "2025-02-18",
+        "Comments / Notes": "Tool passed QA and is ready for beta release.",
+        "Time Spent Since Last Update": 5.5,
+        "Type of Update": "Manual",
+        "Logged Hours": 5.0,
+        "Tags Added/Removed": "+Ready",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "QA",
+        "New Value": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-06-10",
+        "Comments / Notes": "Bug fixing in PPC advertising revamp, addressing campaign tracking issues.",
+        "Time Spent Since Last Update": 9.2,
+        "Type of Update": "Manual",
+        "Logged Hours": 9.0,
+        "Tags Added/Removed": "+BugFix",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → QA",
+        "Update Date": "2025-06-16",
+        "Comments / Notes": "QA ongoing for PPC campaign fixes, monitoring conversion rates.",
+        "Time Spent Since Last Update": 7.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 7.0,
+        "Tags Added/Removed": "+QA",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "QA"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "QA → Done",
+        "Update Date": "2025-06-21",
+        "Comments / Notes": "PPC bug fixes validated and deployed to production.",
+        "Time Spent Since Last Update": 5.4,
+        "Type of Update": "Manual",
+        "Logged Hours": 5.0,
+        "Tags Added/Removed": "+Deployed",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "QA",
+        "New Value": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-04-05",
+        "Comments / Notes": "Documented content marketing strategy updates for client approval.",
+        "Time Spent Since Last Update": 7.8,
+        "Type of Update": "Manual",
+        "Logged Hours": 7.5,
+        "Tags Added/Removed": "+Documentation",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Review",
+        "Update Date": "2025-04-12",
+        "Comments / Notes": "Strategy document sent for internal review and edits.",
+        "Time Spent Since Last Update": 4.9,
+        "Type of Update": "Manual",
+        "Logged Hours": 4.5,
+        "Tags Added/Removed": "+Review",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Review → Approved",
+        "Update Date": "2025-04-18",
+        "Comments / Notes": "Content marketing strategy approved and shared with client.",
+        "Time Spent Since Last Update": 3.2,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.0,
+        "Tags Added/Removed": "+Approved",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "Review",
+        "New Value": "Approved"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-05-22",
+        "Comments / Notes": "Maintaining client loyalty program with recent AI-driven insights.",
+        "Time Spent Since Last Update": 8.8,
+        "Type of Update": "Manual",
+        "Logged Hours": 8.5,
+        "Tags Added/Removed": "+Loyalty, +AI",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Done",
+        "Update Date": "2025-05-29",
+        "Comments / Notes": "Loyalty program updates completed and implemented.",
+        "Time Spent Since Last Update": 5.5,
+        "Type of Update": "Manual",
+        "Logged Hours": 5.0,
+        "Tags Added/Removed": "+Completed",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-06-07",
+        "Comments / Notes": "Enhancing AI content generation tool for better client results.",
+        "Time Spent Since Last Update": 10.3,
+        "Type of Update": "Manual",
+        "Logged Hours": 10.0,
+        "Tags Added/Removed": "+Enhancement, +AI",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → QA",
+        "Update Date": "2025-06-14",
+        "Comments / Notes": "QA testing of AI content generation enhancements in progress.",
+        "Time Spent Since Last Update": 6.9,
+        "Type of Update": "Manual",
+        "Logged Hours": 6.5,
+        "Tags Added/Removed": "+QA",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "QA"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "QA → Done",
+        "Update Date": "2025-06-20",
+        "Comments / Notes": "Enhancements approved and deployed to AI content generation tool.",
+        "Time Spent Since Last Update": 5.5,
+        "Type of Update": "Manual",
+        "Logged Hours": 5.0,
+        "Tags Added/Removed": "+Deployed",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "QA",
+        "New Value": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-02-22",
+        "Comments / Notes": "Bug fixing in webinar series production with focus on video quality.",
+        "Time Spent Since Last Update": 9.7,
+        "Type of Update": "Manual",
+        "Logged Hours": 9.0,
+        "Tags Added/Removed": "+BugFix",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → QA",
+        "Update Date": "2025-03-01",
+        "Comments / Notes": "QA testing on webinar video quality improvements underway.",
+        "Time Spent Since Last Update": 7.2,
+        "Type of Update": "Manual",
+        "Logged Hours": 7.0,
+        "Tags Added/Removed": "+QA",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "QA"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "QA → Done",
+        "Update Date": "2025-03-07",
+        "Comments / Notes": "Webinar production bugs fixed and signed off by QA.",
+        "Time Spent Since Last Update": 5.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 5.0,
+        "Tags Added/Removed": "+Resolved",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "QA",
+        "New Value": "Done"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-06-13",
+        "Comments / Notes": "Updating CRM system integration to improve data sync reliability.",
+        "Time Spent Since Last Update": 8.6,
+        "Type of Update": "Manual",
+        "Logged Hours": 8.0,
+        "Tags Added/Removed": "+CRM, +Integration",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Review",
+        "Update Date": "2025-06-19",
+        "Comments / Notes": "Integration updates submitted for team review.",
+        "Time Spent Since Last Update": 5.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 5.0,
+        "Tags Added/Removed": "+Review",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Review → Approved",
+        "Update Date": "2025-06-24",
+        "Comments / Notes": "CRM integration update approved, scheduling deployment.",
+        "Time Spent Since Last Update": 3.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.0,
+        "Tags Added/Removed": "+Approved",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "Review",
+        "New Value": "Approved"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-01-15",
+        "Comments / Notes": "Started initial research phase, gathered key insights.",
+        "Time Spent Since Last Update": 12.5,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.2,
+        "Tags Added/Removed": "+Research, +Started",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Review",
+        "Update Date": "2025-02-20",
+        "Comments / Notes": "Completed first draft, ready for peer review.",
+        "Time Spent Since Last Update": 24.7,
+        "Type of Update": "Manual",
+        "Logged Hours": 6.0,
+        "Tags Added/Removed": "+Review",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Draft Status",
+        "Previous Value": "In Progress",
+        "New Value": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Review → Completed",
+        "Update Date": "2025-03-05",
+        "Comments / Notes": "Incorporated feedback from stakeholders and finalized deliverables.",
+        "Time Spent Since Last Update": 10.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 4.5,
+        "Tags Added/Removed": "-Review, +Completed",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "Review",
+        "New Value": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-04-12",
+        "Comments / Notes": "Kickoff meeting held, task assigned to team.",
+        "Time Spent Since Last Update": 5.8,
+        "Type of Update": "Manual",
+        "Logged Hours": 1.5,
+        "Tags Added/Removed": "+Kickoff",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Blocked",
+        "Update Date": "2025-05-01",
+        "Comments / Notes": "Waiting on client feedback to proceed further.",
+        "Time Spent Since Last Update": 15.3,
+        "Type of Update": "Manual",
+        "Logged Hours": 0.0,
+        "Tags Added/Removed": "+Blocked",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Blocked"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Blocked → In Progress",
+        "Update Date": "2025-05-15",
+        "Comments / Notes": "Received client feedback, resuming work.",
+        "Time Spent Since Last Update": 10.4,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.0,
+        "Tags Added/Removed": "-Blocked",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "Blocked",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → QA",
+        "Update Date": "2025-06-01",
+        "Comments / Notes": "Internal testing phase started for quality assurance.",
+        "Time Spent Since Last Update": 20.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 5.5,
+        "Tags Added/Removed": "+QA",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "QA"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "QA → In Progress",
+        "Update Date": "2025-06-10",
+        "Comments / Notes": "Bugs found during QA fixed, back to development.",
+        "Time Spent Since Last Update": 8.7,
+        "Type of Update": "Manual",
+        "Logged Hours": 4.0,
+        "Tags Added/Removed": "-QA",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "QA",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Completed",
+        "Update Date": "2025-06-20",
+        "Comments / Notes": "Final version approved and delivered to client.",
+        "Time Spent Since Last Update": 18.9,
+        "Type of Update": "Manual",
+        "Logged Hours": 7.0,
+        "Tags Added/Removed": "-In Progress, +Completed",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-03-29",
+        "Comments / Notes": "Campaign setup initiated with initial targeting parameters.",
+        "Time Spent Since Last Update": 6.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 2.3,
+        "Tags Added/Removed": "+Setup",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Paused",
+        "Update Date": "2025-05-10",
+        "Comments / Notes": "Paused due to budget review with client.",
+        "Time Spent Since Last Update": 14.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 0.0,
+        "Tags Added/Removed": "+Paused",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Paused"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Paused → In Progress",
+        "Update Date": "2025-05-18",
+        "Comments / Notes": "Budget approved, campaign resumed.",
+        "Time Spent Since Last Update": 9.5,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.7,
+        "Tags Added/Removed": "-Paused",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "Paused",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Automated Review",
+        "Update Date": "2025-06-23",
+        "Comments / Notes": "Automated system generated performance report.",
+        "Time Spent Since Last Update": 168,
+        "Type of Update": "Automated",
+        "Logged Hours": 0.0,
+        "Tags Added/Removed": "+AutoReport",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "Yes",
+        "Approval Required": "No",
+        "Updated Field": "Report Status",
+        "Previous Value": "Pending",
+        "New Value": "Generated"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Automated Review → Manual Review",
+        "Update Date": "2025-06-24",
+        "Comments / Notes": "Manual inspection of automated findings started.",
+        "Time Spent Since Last Update": 8.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 2.0,
+        "Tags Added/Removed": "+ManualReview",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Review Status",
+        "Previous Value": "Automated Review",
+        "New Value": "Manual Review"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Manual Review → Completed",
+        "Update Date": "2025-06-25",
+        "Comments / Notes": "Review concluded, no major issues found.",
+        "Time Spent Since Last Update": 6.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 1.5,
+        "Tags Added/Removed": "-ManualReview, +Completed",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Review Status",
+        "Previous Value": "Manual Review",
+        "New Value": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-01-05",
+        "Comments / Notes": "Initial setup of email drip sequences underway.",
+        "Time Spent Since Last Update": 4.2,
+        "Type of Update": "Manual",
+        "Logged Hours": 1.2,
+        "Tags Added/Removed": "+Setup",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Testing",
+        "Update Date": "2025-02-12",
+        "Comments / Notes": "Email sequences tested internally for errors.",
+        "Time Spent Since Last Update": 13.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.3,
+        "Tags Added/Removed": "+Testing",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Testing"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Testing → Automated Deployment",
+        "Update Date": "2025-03-02",
+        "Comments / Notes": "Deployment triggered via automation workflow.",
+        "Time Spent Since Last Update": 8.7,
+        "Type of Update": "Automated",
+        "Logged Hours": 0.0,
+        "Tags Added/Removed": "+Deployed",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "Yes",
+        "Approval Required": "No",
+        "Updated Field": "Deployment Status",
+        "Previous Value": "Testing",
+        "New Value": "Deployed"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Automated Deployment → Completed",
+        "Update Date": "2025-03-15",
+        "Comments / Notes": "Sequences live and monitored for performance.",
+        "Time Spent Since Last Update": 12.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 2.5,
+        "Tags Added/Removed": "+Live",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "Deployed",
+        "New Value": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-04-22",
+        "Comments / Notes": "Started market segmentation analysis with new AI tool.",
+        "Time Spent Since Last Update": 10.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 4.8,
+        "Tags Added/Removed": "+Analysis",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Review",
+        "Update Date": "2025-05-30",
+        "Comments / Notes": "Preliminary segmentation results ready for review.",
+        "Time Spent Since Last Update": 20.6,
+        "Type of Update": "Manual",
+        "Logged Hours": 5.1,
+        "Tags Added/Removed": "+Review",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Review → Completed",
+        "Update Date": "2025-06-22",
+        "Comments / Notes": "Segmentation results approved and documented.",
+        "Time Spent Since Last Update": 18.5,
+        "Type of Update": "Manual",
+        "Logged Hours": 6.2,
+        "Tags Added/Removed": "-Review, +Completed",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "Review",
+        "New Value": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-01-27",
+        "Comments / Notes": "Homepage redesign planning started with UX team.",
+        "Time Spent Since Last Update": 7.1,
+        "Type of Update": "Manual",
+        "Logged Hours": 2.8,
+        "Tags Added/Removed": "+Planning",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Design Review",
+        "Update Date": "2025-03-10",
+        "Comments / Notes": "Initial designs completed, submitted for client feedback.",
+        "Time Spent Since Last Update": 14.8,
+        "Type of Update": "Manual",
+        "Logged Hours": 5.0,
+        "Tags Added/Removed": "+DesignReview",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Design Review"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Design Review → Revisions",
+        "Update Date": "2025-03-25",
+        "Comments / Notes": "Client requested revisions on layout and colors.",
+        "Time Spent Since Last Update": 10.3,
+        "Type of Update": "Manual",
+        "Logged Hours": 4.1,
+        "Tags Added/Removed": "+Revisions",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "Design Review",
+        "New Value": "Revisions"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Revisions → Completed",
+        "Update Date": "2025-04-10",
+        "Comments / Notes": "Revisions applied, final design approved.",
+        "Time Spent Since Last Update": 12.9,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.7,
+        "Tags Added/Removed": "-Revisions, +Completed",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "Revisions",
+        "New Value": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-02-05",
+        "Comments / Notes": "Bug fix investigation started for chatbot integration.",
+        "Time Spent Since Last Update": 6.5,
+        "Type of Update": "Manual",
+        "Logged Hours": 2.0,
+        "Tags Added/Removed": "+BugFix",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Testing",
+        "Update Date": "2025-02-20",
+        "Comments / Notes": "Applied fixes; running tests to verify resolution.",
+        "Time Spent Since Last Update": 11.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.2,
+        "Tags Added/Removed": "+Testing",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Testing"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Testing → Completed",
+        "Update Date": "2025-03-01",
+        "Comments / Notes": "Bug fix confirmed; deployment scheduled.",
+        "Time Spent Since Last Update": 7.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 2.5,
+        "Tags Added/Removed": "-Testing, +Completed",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "Testing",
+        "New Value": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-04-18",
+        "Comments / Notes": "Started updating analytics dashboard widgets.",
+        "Time Spent Since Last Update": 9.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.5,
+        "Tags Added/Removed": "+Update",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Automated Update",
+        "Update Date": "2025-05-22",
+        "Comments / Notes": "Widgets update triggered by automation, monitoring results.",
+        "Time Spent Since Last Update": 24.0,
+        "Type of Update": "Automated",
+        "Logged Hours": 0.0,
+        "Tags Added/Removed": "+AutoUpdate",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "Yes",
+        "Approval Required": "No",
+        "Updated Field": "Update Status",
+        "Previous Value": "In Progress",
+        "New Value": "Automated Update"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Automated Update → Completed",
+        "Update Date": "2025-06-05",
+        "Comments / Notes": "Update verified and marked as complete.",
+        "Time Spent Since Last Update": 12.4,
+        "Type of Update": "Manual",
+        "Logged Hours": 2.1,
+        "Tags Added/Removed": "-Automated Update, +Completed",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "Automated Update",
+        "New Value": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-01-12",
+        "Comments / Notes": "Research started on AI-driven marketing trends.",
+        "Time Spent Since Last Update": 5.4,
+        "Type of Update": "Manual",
+        "Logged Hours": 1.8,
+        "Tags Added/Removed": "+Research",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Drafting",
+        "Update Date": "2025-02-17",
+        "Comments / Notes": "Drafted report outline and initial findings.",
+        "Time Spent Since Last Update": 16.7,
+        "Type of Update": "Manual",
+        "Logged Hours": 4.2,
+        "Tags Added/Removed": "+Draft",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Drafting"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Drafting → Review",
+        "Update Date": "2025-03-14",
+        "Comments / Notes": "Report sent for internal review and feedback.",
+        "Time Spent Since Last Update": 14.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.0,
+        "Tags Added/Removed": "+Review",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "Drafting",
+        "New Value": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Review → Completed",
+        "Update Date": "2025-04-01",
+        "Comments / Notes": "Final report approved and distributed.",
+        "Time Spent Since Last Update": 11.3,
+        "Type of Update": "Manual",
+        "Logged Hours": 2.7,
+        "Tags Added/Removed": "-Review, +Completed",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "Review",
+        "New Value": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-05-02",
+        "Comments / Notes": "Initiated client onboarding flow improvements.",
+        "Time Spent Since Last Update": 8.8,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.5,
+        "Tags Added/Removed": "+Improvement",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → QA",
+        "Update Date": "2025-06-01",
+        "Comments / Notes": "QA checks underway on onboarding flow updates.",
+        "Time Spent Since Last Update": 15.5,
+        "Type of Update": "Manual",
+        "Logged Hours": 4.0,
+        "Tags Added/Removed": "+QA",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "QA"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "QA → Completed",
+        "Update Date": "2025-06-20",
+        "Comments / Notes": "QA passed, new onboarding flow deployed.",
+        "Time Spent Since Last Update": 12.2,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.8,
+        "Tags Added/Removed": "-QA, +Completed",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "QA",
+        "New Value": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-02-25",
+        "Comments / Notes": "Started documentation of SEO best practices.",
+        "Time Spent Since Last Update": 7.7,
+        "Type of Update": "Manual",
+        "Logged Hours": 2.0,
+        "Tags Added/Removed": "+Documentation",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Drafting",
+        "Update Date": "2025-03-30",
+        "Comments / Notes": "Completed first draft of SEO guidelines.",
+        "Time Spent Since Last Update": 16.6,
+        "Type of Update": "Manual",
+        "Logged Hours": 4.5,
+        "Tags Added/Removed": "+Draft",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Drafting"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Drafting → Review",
+        "Update Date": "2025-04-20",
+        "Comments / Notes": "Draft shared with team for comments.",
+        "Time Spent Since Last Update": 14.2,
+        "Type of Update": "Manual",
+        "Logged Hours": 2.9,
+        "Tags Added/Removed": "+Review",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "Drafting",
+        "New Value": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Review → Completed",
+        "Update Date": "2025-05-15",
+        "Comments / Notes": "Final SEO best practices document approved.",
+        "Time Spent Since Last Update": 13.8,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.1,
+        "Tags Added/Removed": "-Review, +Completed",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "Review",
+        "New Value": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-03-05",
+        "Comments / Notes": "Prepared scripts for video marketing campaign.",
+        "Time Spent Since Last Update": 7.4,
+        "Type of Update": "Manual",
+        "Logged Hours": 1.9,
+        "Tags Added/Removed": "+Scripting",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Review",
+        "Update Date": "2025-04-12",
+        "Comments / Notes": "Scripts sent for client review and feedback.",
+        "Time Spent Since Last Update": 18.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 4.5,
+        "Tags Added/Removed": "+Review",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Review → Revisions",
+        "Update Date": "2025-04-28",
+        "Comments / Notes": "Incorporated client suggestions on tone and pacing.",
+        "Time Spent Since Last Update": 12.5,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.0,
+        "Tags Added/Removed": "+Revisions",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "Review",
+        "New Value": "Revisions"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Revisions → Completed",
+        "Update Date": "2025-05-10",
+        "Comments / Notes": "Final scripts approved for production.",
+        "Time Spent Since Last Update": 10.2,
+        "Type of Update": "Manual",
+        "Logged Hours": 2.7,
+        "Tags Added/Removed": "-Revisions, +Completed",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "Revisions",
+        "New Value": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-04-01",
+        "Comments / Notes": "Bug fix started on PPC advertising revamp module.",
+        "Time Spent Since Last Update": 9.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 2.2,
+        "Tags Added/Removed": "+BugFix",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Testing",
+        "Update Date": "2025-05-05",
+        "Comments / Notes": "Applied fixes and running test suites.",
+        "Time Spent Since Last Update": 15.6,
+        "Type of Update": "Manual",
+        "Logged Hours": 4.0,
+        "Tags Added/Removed": "+Testing",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Testing"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Testing → Completed",
+        "Update Date": "2025-05-25",
+        "Comments / Notes": "Bug fix verified, deployment scheduled.",
+        "Time Spent Since Last Update": 14.3,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.5,
+        "Tags Added/Removed": "-Testing, +Completed",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "Testing",
+        "New Value": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-02-15",
+        "Comments / Notes": "Started updating client portal features.",
+        "Time Spent Since Last Update": 6.8,
+        "Type of Update": "Manual",
+        "Logged Hours": 2.1,
+        "Tags Added/Removed": "+Update",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → QA",
+        "Update Date": "2025-03-25",
+        "Comments / Notes": "QA testing underway for new portal features.",
+        "Time Spent Since Last Update": 13.7,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.8,
+        "Tags Added/Removed": "+QA",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "QA"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "QA → Completed",
+        "Update Date": "2025-04-18",
+        "Comments / Notes": "QA passed, features deployed to production.",
+        "Time Spent Since Last Update": 11.4,
+        "Type of Update": "Manual",
+        "Logged Hours": 2.9,
+        "Tags Added/Removed": "-QA, +Completed",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "QA",
+        "New Value": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-05-10",
+        "Comments / Notes": "Research started on lead generation best tactics.",
+        "Time Spent Since Last Update": 8.2,
+        "Type of Update": "Manual",
+        "Logged Hours": 2.7,
+        "Tags Added/Removed": "+Research",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Drafting",
+        "Update Date": "2025-06-12",
+        "Comments / Notes": "Drafted lead generation strategy document.",
+        "Time Spent Since Last Update": 18.5,
+        "Type of Update": "Manual",
+        "Logged Hours": 5.0,
+        "Tags Added/Removed": "+Draft",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Drafting"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Drafting → Review",
+        "Update Date": "2025-06-20",
+        "Comments / Notes": "Document sent for review by marketing team.",
+        "Time Spent Since Last Update": 8.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 1.9,
+        "Tags Added/Removed": "+Review",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "Drafting",
+        "New Value": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Review → Completed",
+        "Update Date": "2025-06-25",
+        "Comments / Notes": "Lead generation tactics approved and ready for implementation.",
+        "Time Spent Since Last Update": 5.5,
+        "Type of Update": "Manual",
+        "Logged Hours": 1.2,
+        "Tags Added/Removed": "-Review, +Completed",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "Review",
+        "New Value": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-01-30",
+        "Comments / Notes": "Started improving client referral program UI.",
+        "Time Spent Since Last Update": 8.5,
+        "Type of Update": "Manual",
+        "Logged Hours": 2.5,
+        "Tags Added/Removed": "+Improvement",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Testing",
+        "Update Date": "2025-03-04",
+        "Comments / Notes": "UI changes implemented, conducting usability tests.",
+        "Time Spent Since Last Update": 14.2,
+        "Type of Update": "Manual",
+        "Logged Hours": 4.0,
+        "Tags Added/Removed": "+Testing",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Testing"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Testing → Completed",
+        "Update Date": "2025-04-15",
+        "Comments / Notes": "Testing successful, new UI deployed.",
+        "Time Spent Since Last Update": 15.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.8,
+        "Tags Added/Removed": "-Testing, +Completed",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "Testing",
+        "New Value": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-02-10",
+        "Comments / Notes": "Bug fix started in social media management tool.",
+        "Time Spent Since Last Update": 7.6,
+        "Type of Update": "Manual",
+        "Logged Hours": 2.2,
+        "Tags Added/Removed": "+BugFix",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Testing",
+        "Update Date": "2025-03-20",
+        "Comments / Notes": "Bug fixes applied; testing underway.",
+        "Time Spent Since Last Update": 16.5,
+        "Type of Update": "Manual",
+        "Logged Hours": 4.0,
+        "Tags Added/Removed": "+Testing",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Testing"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Testing → Completed",
+        "Update Date": "2025-04-05",
+        "Comments / Notes": "Fixes verified, tool updated in production.",
+        "Time Spent Since Last Update": 12.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.0,
+        "Tags Added/Removed": "-Testing, +Completed",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "Testing",
+        "New Value": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-05-06",
+        "Comments / Notes": "Creating branding guidelines update for client.",
+        "Time Spent Since Last Update": 9.1,
+        "Type of Update": "Manual",
+        "Logged Hours": 2.9,
+        "Tags Added/Removed": "+Drafting",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Review",
+        "Update Date": "2025-06-15",
+        "Comments / Notes": "Guidelines drafted; sent for client review.",
+        "Time Spent Since Last Update": 16.5,
+        "Type of Update": "Manual",
+        "Logged Hours": 4.2,
+        "Tags Added/Removed": "+Review",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Review → Completed",
+        "Update Date": "2025-06-24",
+        "Comments / Notes": "Client approved branding guidelines update.",
+        "Time Spent Since Last Update": 7.8,
+        "Type of Update": "Manual",
+        "Logged Hours": 1.8,
+        "Tags Added/Removed": "-Review, +Completed",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "Review",
+        "New Value": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-03-18",
+        "Comments / Notes": "Started local SEO campaign keyword optimization.",
+        "Time Spent Since Last Update": 10.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.3,
+        "Tags Added/Removed": "+Optimization",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Automated Update",
+        "Update Date": "2025-04-22",
+        "Comments / Notes": "AI tool updated keywords automatically based on metrics.",
+        "Time Spent Since Last Update": 24.0,
+        "Type of Update": "Automated",
+        "Logged Hours": 0.0,
+        "Tags Added/Removed": "+AutoOptimization",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "Yes",
+        "Approval Required": "No",
+        "Updated Field": "Keywords",
+        "Previous Value": "Previous keyword set",
+        "New Value": "Updated keyword set"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Automated Update → Review",
+        "Update Date": "2025-05-05",
+        "Comments / Notes": "SEO team reviewing automated changes for accuracy.",
+        "Time Spent Since Last Update": 11.5,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.2,
+        "Tags Added/Removed": "+Review",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Keywords",
+        "Previous Value": "Updated keyword set",
+        "New Value": "Reviewed keyword set"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Review → Completed",
+        "Update Date": "2025-05-18",
+        "Comments / Notes": "Keyword set approved after review.",
+        "Time Spent Since Last Update": 13.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.5,
+        "Tags Added/Removed": "-Review, +Completed",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "Review",
+        "New Value": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-01-20",
+        "Comments / Notes": "Started analyzing customer journey mapping.",
+        "Time Spent Since Last Update": 6.7,
+        "Type of Update": "Manual",
+        "Logged Hours": 2.0,
+        "Tags Added/Removed": "+Analysis",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Review",
+        "Update Date": "2025-03-02",
+        "Comments / Notes": "Mapping analysis completed; report under review.",
+        "Time Spent Since Last Update": 15.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 4.5,
+        "Tags Added/Removed": "+Review",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Review → Completed",
+        "Update Date": "2025-04-10",
+        "Comments / Notes": "Customer journey mapping report finalized and shared.",
+        "Time Spent Since Last Update": 12.5,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.7,
+        "Tags Added/Removed": "-Review, +Completed",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "Review",
+        "New Value": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-02-28",
+        "Comments / Notes": "Developed AI-driven market trends analysis tool.",
+        "Time Spent Since Last Update": 8.9,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.0,
+        "Tags Added/Removed": "+Development",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Testing",
+        "Update Date": "2025-04-05",
+        "Comments / Notes": "Tool under testing for accuracy and stability.",
+        "Time Spent Since Last Update": 14.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.8,
+        "Tags Added/Removed": "+Testing",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Testing"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Testing → Completed",
+        "Update Date": "2025-05-12",
+        "Comments / Notes": "AI analysis tool passed tests and deployed.",
+        "Time Spent Since Last Update": 16.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 4.2,
+        "Tags Added/Removed": "-Testing, +Completed",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "Testing",
+        "New Value": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-03-15",
+        "Comments / Notes": "Bug fix started for lead scoring system.",
+        "Time Spent Since Last Update": 7.3,
+        "Type of Update": "Manual",
+        "Logged Hours": 2.7,
+        "Tags Added/Removed": "+BugFix",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Testing",
+        "Update Date": "2025-04-20",
+        "Comments / Notes": "Fixes applied; tests running.",
+        "Time Spent Since Last Update": 15.4,
+        "Type of Update": "Manual",
+        "Logged Hours": 4.1,
+        "Tags Added/Removed": "+Testing",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Testing"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Testing → Completed",
+        "Update Date": "2025-05-30",
+        "Comments / Notes": "Bug fixed and system updated.",
+        "Time Spent Since Last Update": 18.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 4.7,
+        "Tags Added/Removed": "-Testing, +Completed",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "Testing",
+        "New Value": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-02-18",
+        "Comments / Notes": "Documented marketing automation workflow.",
+        "Time Spent Since Last Update": 8.6,
+        "Type of Update": "Manual",
+        "Logged Hours": 2.8,
+        "Tags Added/Removed": "+Documentation",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Review",
+        "Update Date": "2025-03-25",
+        "Comments / Notes": "Draft documentation under team review.",
+        "Time Spent Since Last Update": 15.5,
+        "Type of Update": "Manual",
+        "Logged Hours": 4.0,
+        "Tags Added/Removed": "+Review",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Review → Completed",
+        "Update Date": "2025-04-15",
+        "Comments / Notes": "Documentation finalized and approved.",
+        "Time Spent Since Last Update": 12.1,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.2,
+        "Tags Added/Removed": "-Review, +Completed",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "Review",
+        "New Value": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-01-08",
+        "Comments / Notes": "Started creating brand awareness report.",
+        "Time Spent Since Last Update": 5.9,
+        "Type of Update": "Manual",
+        "Logged Hours": 1.6,
+        "Tags Added/Removed": "+Creation",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Review",
+        "Update Date": "2025-02-17",
+        "Comments / Notes": "Report drafted and sent for review.",
+        "Time Spent Since Last Update": 14.3,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.8,
+        "Tags Added/Removed": "+Review",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Review → Completed",
+        "Update Date": "2025-03-10",
+        "Comments / Notes": "Brand awareness report approved.",
+        "Time Spent Since Last Update": 9.7,
+        "Type of Update": "Manual",
+        "Logged Hours": 2.9,
+        "Tags Added/Removed": "-Review, +Completed",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "Review",
+        "New Value": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-04-11",
+        "Comments / Notes": "Optimizing PPC campaign structure started.",
+        "Time Spent Since Last Update": 10.8,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.4,
+        "Tags Added/Removed": "+Optimization",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Automated Adjustment",
+        "Update Date": "2025-05-20",
+        "Comments / Notes": "Automated adjustments applied based on performance data.",
+        "Time Spent Since Last Update": 22.0,
+        "Type of Update": "Automated",
+        "Logged Hours": 0.0,
+        "Tags Added/Removed": "+AutoAdjust",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "Yes",
+        "Approval Required": "No",
+        "Updated Field": "Campaign Settings",
+        "Previous Value": "Original settings",
+        "New Value": "Adjusted settings"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Automated Adjustment → Completed",
+        "Update Date": "2025-06-15",
+        "Comments / Notes": "Adjustments confirmed; campaign running smoothly.",
+        "Time Spent Since Last Update": 14.5,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.3,
+        "Tags Added/Removed": "-AutoAdjust, +Completed",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "Automated Adjustment",
+        "New Value": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-01-23",
+        "Comments / Notes": "Customer experience feedback analysis initiated.",
+        "Time Spent Since Last Update": 7.2,
+        "Type of Update": "Manual",
+        "Logged Hours": 2.0,
+        "Tags Added/Removed": "+Analysis",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Review",
+        "Update Date": "2025-03-03",
+        "Comments / Notes": "Feedback analysis report drafted, under review.",
+        "Time Spent Since Last Update": 15.2,
+        "Type of Update": "Manual",
+        "Logged Hours": 4.1,
+        "Tags Added/Removed": "+Review",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Review"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Review → Completed",
+        "Update Date": "2025-04-07",
+        "Comments / Notes": "Report finalized and shared with stakeholders.",
+        "Time Spent Since Last Update": 11.7,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.0,
+        "Tags Added/Removed": "-Review, +Completed",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "Review",
+        "New Value": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Update Date": "2025-02-08",
+        "Comments / Notes": "Developed influencer collaboration tool baseline.",
+        "Time Spent Since Last Update": 8.3,
+        "Type of Update": "Manual",
+        "Logged Hours": 2.8,
+        "Tags Added/Removed": "+Development",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → Testing",
+        "Update Date": "2025-03-18",
+        "Comments / Notes": "Tool testing phase started with initial users.",
+        "Time Spent Since Last Update": 16.1,
+        "Type of Update": "Manual",
+        "Logged Hours": 4.4,
+        "Tags Added/Removed": "+Testing",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "In Progress",
+        "New Value": "Testing"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "Testing → Completed",
+        "Update Date": "2025-04-25",
+        "Comments / Notes": "Testing successful; tool ready for rollout.",
+        "Time Spent Since Last Update": 14.7,
+        "Type of Update": "Manual",
+        "Logged Hours": 3.6,
+        "Tags Added/Removed": "-Testing, +Completed",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "Testing",
+        "New Value": "Completed"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "To Do → In Progress",
+        "Updated By": "Yes",
+        "Update Date": "2025-03-15",
+        "Comments / Notes": "Started outlining the AI content calendar structure and key milestones. Initial research on competitor calendars done.",
+        "Time Spent Since Last Update": 12.5,
+        "Type of Update": "Manual",
+        "Logged Hours": 8.0,
+        "Tags Added/Removed": "+Content, +Planning",
+        "Client Visibility": "No",
+        "Automation Triggered": "No",
+        "Approval Required": "Yes",
+        "Updated Field": "Status",
+        "Previous Value": "To Do",
+        "New Value": "In Progress"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "In Progress → QA Review",
+        "Updated By": "No",
+        "Update Date": "2025-05-10",
+        "Comments / Notes": "Completed keyword research and submitted findings for team review. QA has flagged a few missing long-tail keywords.",
+        "Time Spent Since Last Update": 24.0,
+        "Type of Update": "Manual",
+        "Logged Hours": 7.5,
+        "Tags Added/Removed": "+SEO, -Draft",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "No",
+        "Approval Required": "No",
+        "Updated Field": "Task Phase",
+        "Previous Value": "In Progress",
+        "New Value": "QA Review"
+      }
+    },
+    {
+      "fields": {
+        "Status Change": "QA Review → Completed",
+        "Updated By": "No",
+        "Update Date": "2025-06-20",
+        "Comments / Notes": "Finalized social media ad campaign setup after QA fixes. Campaign scheduled for launch next week.",
+        "Time Spent Since Last Update": 6.3,
+        "Type of Update": "Automated",
+        "Logged Hours": 3.0,
+        "Tags Added/Removed": "+Launch, -QA",
+        "Client Visibility": "Yes",
+        "Automation Triggered": "Yes",
+        "Approval Required": "No",
+        "Updated Field": "Status",
+        "Previous Value": "QA Review",
+        "New Value": "Completed"
+      }
+    }
+  ]
+}

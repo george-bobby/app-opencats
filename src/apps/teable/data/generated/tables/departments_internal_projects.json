@@ -1,0 +1,247 @@
+{
+  "table_name": "Departments",
+  "parent_workspace_name": "Internal Projects",
+  "parent_base_name": "Internal Projects",
+  "records": [
+    {
+      "fields": {
+        "Name": "Creative Strategy",
+        "Size": 8,
+        "Location": "New York",
+        "Department Budget": 250000.75,
+        "Department Email": "creative@summittech.com",
+        "Created Date": "2022-11-14",
+        "Status": "Active",
+        "Notes": "Focuses on innovative campaign concepts integrating AI insights."
+      }
+    },
+    {
+      "fields": {
+        "Name": "Digital Analytics",
+        "Size": 7,
+        "Location": "San Francisco",
+        "Department Budget": 180000.5,
+        "Department Email": "analytics@summittech.com",
+        "Created Date": "2021-03-22",
+        "Status": "Active",
+        "Notes": "Handles data-driven marketing performance and reporting."
+      }
+    },
+    {
+      "fields": {
+        "Name": "Content Development",
+        "Size": 6,
+        "Location": "Chicago",
+        "Department Budget": 145000.0,
+        "Department Email": "content@summittech.com",
+        "Created Date": "2020-08-30",
+        "Status": "Active",
+        "Notes": "Creates engaging content optimized by AI for audience targeting."
+      }
+    },
+    {
+      "fields": {
+        "Name": "Client Relations",
+        "Size": 9,
+        "Location": "Boston",
+        "Department Budget": 210000.25,
+        "Department Email": "clients@summittech.com",
+        "Created Date": "2019-12-11",
+        "Status": "Active",
+        "Notes": "Maintains strong client partnerships and feedback loops."
+      }
+    },
+    {
+      "fields": {
+        "Name": "Brand Management",
+        "Size": 10,
+        "Location": "Seattle",
+        "Department Budget": 230000.6,
+        "Department Email": "brand@summittech.com",
+        "Created Date": "2023-01-05",
+        "Status": "Active",
+        "Notes": "Oversees brand image and alignment with AI-driven market trends."
+      }
+    },
+    {
+      "fields": {
+        "Name": "Social Media",
+        "Size": 8,
+        "Location": "Los Angeles",
+        "Department Budget": 195000.9,
+        "Department Email": "social@summittech.com",
+        "Created Date": "2024-04-19",
+        "Status": "Active",
+        "Notes": "Manages social platforms with AI-optimized content scheduling."
+      }
+    },
+    {
+      "fields": {
+        "Name": "SEO and SEM",
+        "Size": 7,
+        "Location": "Denver",
+        "Department Budget": 160000.15,
+        "Department Email": "seo@summittech.com",
+        "Created Date": "2023-06-23",
+        "Status": "Active",
+        "Notes": "Specializes in search engine optimization using AI keyword analysis."
+      }
+    },
+    {
+      "fields": {
+        "Name": "Product Marketing",
+        "Size": 6,
+        "Location": "Austin",
+        "Department Budget": 175000.4,
+        "Department Email": "product@summittech.com",
+        "Created Date": "2021-10-01",
+        "Status": "Merged",
+        "Notes": "Merged with Creative Strategy to unify campaign development."
+      }
+    },
+    {
+      "fields": {
+        "Name": "Public Relations",
+        "Size": 5,
+        "Location": "Miami",
+        "Department Budget": 140000.8,
+        "Department Email": "pr@summittech.com",
+        "Created Date": "2019-08-15",
+        "Status": "Inactive",
+        "Notes": "Currently inactive; previously managed press and media outreach."
+      }
+    },
+    {
+      "fields": {
+        "Name": "UX Research",
+        "Size": 6,
+        "Location": "Portland",
+        "Department Budget": 155000.99,
+        "Department Email": "uxresearch@summittech.com",
+        "Created Date": "2022-05-10",
+        "Status": "Active",
+        "Notes": "Focuses on user experience improvements guided by AI insights."
+      }
+    },
+    {
+      "fields": {
+        "Name": "Advertising",
+        "Size": 8,
+        "Location": "New York",
+        "Department Budget": 220000.0,
+        "Department Email": "advertising@summittech.com",
+        "Created Date": "2020-01-18",
+        "Status": "Active",
+        "Notes": "Runs paid campaigns with AI budget optimization."
+      }
+    },
+    {
+      "fields": {
+        "Name": "Innovation Lab",
+        "Size": 7,
+        "Location": "San Francisco",
+        "Department Budget": 190000.55,
+        "Department Email": "innovation@summittech.com",
+        "Created Date": "2023-09-29",
+        "Status": "Active",
+        "Notes": "Explores new AI technologies for marketing applications."
+      }
+    },
+    {
+      "fields": {
+        "Name": "HR and Recruitment",
+        "Size": 9,
+        "Location": "Chicago",
+        "Department Budget": 165000.34,
+        "Department Email": "hr@summittech.com",
+        "Created Date": "2021-07-12",
+        "Status": "Active",
+        "Notes": "Manages talent acquisition and employee well-being."
+      }
+    },
+    {
+      "fields": {
+        "Name": "Finance and Budgeting",
+        "Size": 5,
+        "Location": "Boston",
+        "Department Budget": 200000.0,
+        "Department Email": "finance@summittech.com",
+        "Created Date": "2019-11-22",
+        "Status": "Active",
+        "Notes": "Oversees financial planning including AI-driven budget forecasts."
+      }
+    },
+    {
+      "fields": {
+        "Name": "Training and Development",
+        "Size": 6,
+        "Location": "Seattle",
+        "Department Budget": 145000.75,
+        "Department Email": "training@summittech.com",
+        "Created Date": "2020-06-03",
+        "Status": "Active",
+        "Notes": "Provides staff training on AI tools and marketing best practices."
+      }
+    },
+    {
+      "fields": {
+        "Name": "Customer Support",
+        "Size": 10,
+        "Location": "Los Angeles",
+        "Department Budget": 180000.65,
+        "Department Email": "support@summittech.com",
+        "Created Date": "2024-02-14",
+        "Status": "Active",
+        "Notes": "Handles client inquiries using AI chatbots for efficiency."
+      }
+    },
+    {
+      "fields": {
+        "Name": "Data Science",
+        "Size": 7,
+        "Location": "Denver",
+        "Department Budget": 210000.9,
+        "Department Email": "datascience@summittech.com",
+        "Created Date": "2023-12-01",
+        "Status": "Active",
+        "Notes": "Develops AI models to enable predictive marketing analytics."
+      }
+    },
+    {
+      "fields": {
+        "Name": "Legal and Compliance",
+        "Size": 5,
+        "Location": "Austin",
+        "Department Budget": 130000.2,
+        "Department Email": "legal@summittech.com",
+        "Created Date": "2022-03-08",
+        "Status": "Active",
+        "Notes": "Ensures all marketing activities comply with regulations."
+      }
+    },
+    {
+      "fields": {
+        "Name": "Event Management",
+        "Size": 8,
+        "Location": "Miami",
+        "Department Budget": 175000.1,
+        "Department Email": "events@summittech.com",
+        "Created Date": "2021-09-27",
+        "Status": "Active",
+        "Notes": "Organizes client and industry events leveraging AI for logistics."
+      }
+    },
+    {
+      "fields": {
+        "Name": "Technical Support",
+        "Size": 9,
+        "Location": "Portland",
+        "Department Budget": 190000.45,
+        "Department Email": "techsupport@summittech.com",
+        "Created Date": "2020-12-15",
+        "Status": "Active",
+        "Notes": "Supports marketing technologies and AI platform maintenance."
+      }
+    }
+  ]
+}

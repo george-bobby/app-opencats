@@ -1,0 +1,650 @@
+[
+    {
+        "name": "Seasonal Product Launch",
+        "customer": "Target",
+        "tags": [
+            "Product Launch",
+            "Marketing",
+            "Retail"
+        ],
+        "date_start": "2025-01-10",
+        "date_end": "2025-03-15",
+        "description": "Launch new spring collection across Target stores nationwide."
+    },
+    {
+        "name": "In-Store Display Upgrade",
+        "customer": "Walmart",
+        "tags": [
+            "Store Operations",
+            "Retail",
+            "Design"
+        ],
+        "date_start": "2025-02-01",
+        "date_end": "2025-04-30",
+        "description": "Upgrade in-store displays for improved customer engagement."
+    },
+    {
+        "name": "E-Commerce Integration",
+        "customer": "Costco",
+        "tags": [
+            "E-Commerce",
+            "Technology",
+            "Integration"
+        ],
+        "date_start": "2025-01-20",
+        "date_end": "2025-05-20",
+        "description": "Integrate new product lines into Costco's online platform."
+    },
+    {
+        "name": "Private Label Packaging",
+        "customer": "Kroger",
+        "tags": [
+            "Packaging",
+            "Branding",
+            "Product Development"
+        ],
+        "date_start": "2025-03-05",
+        "date_end": "2025-06-10",
+        "description": "Develop packaging for Kroger's new private label snacks."
+    },
+    {
+        "name": "Inventory Optimization Pilot",
+        "customer": "Best Buy",
+        "tags": [
+            "Inventory",
+            "Supply Chain",
+            "Optimization"
+        ],
+        "date_start": "2025-02-15",
+        "date_end": "2025-04-01",
+        "description": "Pilot new inventory management system in select Best Buy stores."
+    },
+    {
+        "name": "Sustainability Initiative Rollout",
+        "customer": "Whole Foods Market",
+        "tags": [
+            "Sustainability",
+            "Operations",
+            "Retail"
+        ],
+        "date_start": "2025-04-01",
+        "date_end": "2025-07-30",
+        "description": "Implement eco-friendly practices in Whole Foods' supply chain."
+    },
+    {
+        "name": "Loyalty Program Enhancement",
+        "customer": "CVS Health",
+        "tags": [
+            "Customer Experience",
+            "Loyalty",
+            "Marketing"
+        ],
+        "date_start": "2025-03-10",
+        "date_end": "2025-05-25",
+        "description": "Enhance CVS loyalty program with new digital features."
+    },
+    {
+        "name": "Omnichannel Retail Strategy",
+        "customer": "Walgreens",
+        "tags": [
+            "Omnichannel",
+            "Retail",
+            "Strategy"
+        ],
+        "date_start": "2025-01-25",
+        "date_end": "2025-06-15",
+        "description": "Develop and implement omnichannel retail strategy for Walgreens."
+    },
+    {
+        "name": "Store Layout Redesign",
+        "customer": "Home Depot",
+        "tags": [
+            "Store Design",
+            "Retail",
+            "Customer Experience"
+        ],
+        "date_start": "2025-02-20",
+        "date_end": "2025-05-20",
+        "description": "Redesign Home Depot store layouts for better navigation."
+    },
+    {
+        "name": "Mobile App Feature Expansion",
+        "customer": "Lowe's",
+        "tags": [
+            "Mobile App",
+            "Technology",
+            "Customer Experience"
+        ],
+        "date_start": "2025-04-15",
+        "date_end": "2025-07-15",
+        "description": "Expand Lowe's mobile app with new shopping features."
+    },
+    {
+        "name": "New Vendor Onboarding",
+        "customer": "Macy's",
+        "tags": [
+            "Vendor Management",
+            "Supply Chain",
+            "Retail"
+        ],
+        "date_start": "2025-03-01",
+        "date_end": "2025-04-30",
+        "description": "Onboard new vendors for Macy's spring product assortment."
+    },
+    {
+        "name": "Digital Shelf Analytics",
+        "customer": "Publix",
+        "tags": [
+            "Analytics",
+            "Digital",
+            "Retail"
+        ],
+        "date_start": "2025-05-01",
+        "date_end": "2025-07-01",
+        "description": "Implement digital shelf analytics for Publix grocery aisles."
+    },
+    {
+        "name": "Holiday Promotion Planning",
+        "customer": "Kohl's",
+        "tags": [
+            "Promotion",
+            "Marketing",
+            "Retail"
+        ],
+        "date_start": "2025-06-01",
+        "date_end": "2025-09-15",
+        "description": "Plan and execute holiday promotions for Kohl's stores."
+    },
+    {
+        "name": "Self-Checkout Expansion",
+        "customer": "Safeway",
+        "tags": [
+            "Technology",
+            "Retail",
+            "Customer Experience"
+        ],
+        "date_start": "2025-02-10",
+        "date_end": "2025-05-10",
+        "description": "Expand self-checkout systems to all Safeway locations."
+    },
+    {
+        "name": "Product Recall Management",
+        "customer": "Sam's Club",
+        "tags": [
+            "Compliance",
+            "Product Safety",
+            "Operations"
+        ],
+        "date_start": "2025-03-20",
+        "date_end": "2025-04-20",
+        "description": "Manage product recall process for Sam's Club nationwide."
+    },
+    {
+        "name": "Customer Feedback Analysis",
+        "customer": "Dollar General",
+        "tags": [
+            "Analytics",
+            "Customer Experience",
+            "Retail"
+        ],
+        "date_start": "2025-01-15",
+        "date_end": "2025-03-01",
+        "description": "Analyze customer feedback to improve Dollar General services."
+    },
+    {
+        "name": "New Store Opening Support",
+        "customer": "Aldi",
+        "tags": [
+            "Store Operations",
+            "Expansion",
+            "Retail"
+        ],
+        "date_start": "2025-05-10",
+        "date_end": "2025-07-10",
+        "description": "Support Aldi with logistics for new store openings."
+    },
+    {
+        "name": "Brand Collaboration Campaign",
+        "customer": "Bed Bath & Beyond",
+        "tags": [
+            "Marketing",
+            "Branding",
+            "Collaboration"
+        ],
+        "date_start": "2025-04-01",
+        "date_end": "2025-06-01",
+        "description": "Launch collaborative marketing campaign with partner brands."
+    },
+    {
+        "name": "POS System Upgrade",
+        "customer": "BJ's Wholesale Club",
+        "tags": [
+            "Technology",
+            "POS",
+            "Retail"
+        ],
+        "date_start": "2025-02-05",
+        "date_end": "2025-04-05",
+        "description": "Upgrade BJ's POS systems for faster checkout experience."
+    },
+    {
+        "name": "Product Photography Refresh",
+        "customer": "Nordstrom",
+        "tags": [
+            "Product Development",
+            "Marketing",
+            "E-Commerce"
+        ],
+        "date_start": "2025-03-15",
+        "date_end": "2025-05-01",
+        "description": "Refresh product photography for Nordstrom's online catalog."
+    },
+    {
+        "name": "Supplier Diversity Program",
+        "customer": "Meijer",
+        "tags": [
+            "Supplier Management",
+            "Diversity",
+            "Compliance"
+        ],
+        "date_start": "2025-01-30",
+        "date_end": "2025-04-30",
+        "description": "Implement supplier diversity program for Meijer procurement."
+    },
+    {
+        "name": "Returns Process Optimization",
+        "customer": "Rite Aid",
+        "tags": [
+            "Operations",
+            "Customer Experience",
+            "Optimization"
+        ],
+        "date_start": "2025-04-10",
+        "date_end": "2025-06-10",
+        "description": "Optimize returns process to reduce costs and improve satisfaction."
+    },
+    {
+        "name": "Gift Card Program Launch",
+        "customer": "Dollar Tree",
+        "tags": [
+            "Product Launch",
+            "Marketing",
+            "Retail"
+        ],
+        "date_start": "2025-02-20",
+        "date_end": "2025-03-30",
+        "description": "Launch new gift card program for Dollar Tree customers."
+    },
+    {
+        "name": "Warehouse Automation Pilot",
+        "customer": "H-E-B",
+        "tags": [
+            "Automation",
+            "Warehouse",
+            "Technology"
+        ],
+        "date_start": "2025-05-01",
+        "date_end": "2025-08-01",
+        "description": "Pilot warehouse automation technology at H-E-B distribution center."
+    },
+    {
+        "name": "Customer Journey Mapping",
+        "customer": "Staples",
+        "tags": [
+            "Customer Experience",
+            "Analytics",
+            "Retail"
+        ],
+        "date_start": "2025-03-05",
+        "date_end": "2025-05-05",
+        "description": "Map customer journey to identify Staples' improvement opportunities."
+    },
+    {
+        "name": "Back-to-School Campaign",
+        "customer": "Office Depot",
+        "tags": [
+            "Marketing",
+            "Retail",
+            "Campaign"
+        ],
+        "date_start": "2025-06-15",
+        "date_end": "2025-08-15",
+        "description": "Execute back-to-school marketing campaign for Office Depot."
+    },
+    {
+        "name": "Product Assortment Review",
+        "customer": "Ross Stores",
+        "tags": [
+            "Product Development",
+            "Retail",
+            "Analytics"
+        ],
+        "date_start": "2025-02-25",
+        "date_end": "2025-04-25",
+        "description": "Review and optimize product assortment for Ross Stores."
+    },
+    {
+        "name": "Store Energy Efficiency Audit",
+        "customer": "7-Eleven",
+        "tags": [
+            "Sustainability",
+            "Operations",
+            "Audit"
+        ],
+        "date_start": "2025-05-20",
+        "date_end": "2025-07-20",
+        "description": "Audit energy usage and recommend efficiency improvements."
+    },
+    {
+        "name": "New Product Sampling Event",
+        "customer": "Trader Joe's",
+        "tags": [
+            "Product Launch",
+            "Marketing",
+            "Retail"
+        ],
+        "date_start": "2025-03-20",
+        "date_end": "2025-04-20",
+        "description": "Organize in-store sampling for new Trader Joe's products."
+    },
+    {
+        "name": "Digital Coupon Integration",
+        "customer": "Giant Eagle",
+        "tags": [
+            "Technology",
+            "Marketing",
+            "Retail"
+        ],
+        "date_start": "2025-01-25",
+        "date_end": "2025-03-25",
+        "description": "Integrate digital coupons into Giant Eagle's mobile app."
+    },
+    {
+        "name": "Store Security Upgrade",
+        "customer": "Dollar Tree",
+        "tags": [
+            "Security",
+            "Operations",
+            "Retail"
+        ],
+        "date_start": "2025-04-15",
+        "date_end": "2025-06-15",
+        "description": "Upgrade security systems in select Dollar Tree locations."
+    },
+    {
+        "name": "Online Order Fulfillment Expansion",
+        "customer": "Wegmans",
+        "tags": [
+            "E-Commerce",
+            "Operations",
+            "Logistics"
+        ],
+        "date_start": "2025-02-10",
+        "date_end": "2025-05-10",
+        "description": "Expand online order fulfillment capabilities at Wegmans."
+    },
+    {
+        "name": "Employee Training Program",
+        "customer": "PetSmart",
+        "tags": [
+            "Training",
+            "HR",
+            "Operations"
+        ],
+        "date_start": "2025-03-01",
+        "date_end": "2025-04-30",
+        "description": "Develop and deliver new employee training modules."
+    },
+    {
+        "name": "Storefront Branding Refresh",
+        "customer": "Ulta Beauty",
+        "tags": [
+            "Branding",
+            "Store Design",
+            "Retail"
+        ],
+        "date_start": "2025-05-05",
+        "date_end": "2025-07-05",
+        "description": "Refresh Ulta Beauty storefront branding and signage."
+    },
+    {
+        "name": "Curbside Pickup Implementation",
+        "customer": "Big Lots",
+        "tags": [
+            "Operations",
+            "Customer Experience",
+            "Technology"
+        ],
+        "date_start": "2025-01-20",
+        "date_end": "2025-03-20",
+        "description": "Implement curbside pickup service at Big Lots locations."
+    },
+    {
+        "name": "Supplier Portal Development",
+        "customer": "Sprouts Farmers Market",
+        "tags": [
+            "Technology",
+            "Supplier Management",
+            "Operations"
+        ],
+        "date_start": "2025-04-01",
+        "date_end": "2025-06-01",
+        "description": "Develop supplier portal for streamlined communication."
+    },
+    {
+        "name": "Store Traffic Analysis",
+        "customer": "Burlington Stores",
+        "tags": [
+            "Analytics",
+            "Retail",
+            "Operations"
+        ],
+        "date_start": "2025-02-15",
+        "date_end": "2025-04-15",
+        "description": "Analyze store traffic patterns to optimize staffing."
+    },
+    {
+        "name": "Product Labeling Compliance",
+        "customer": "Food Lion",
+        "tags": [
+            "Compliance",
+            "Product Development",
+            "Retail"
+        ],
+        "date_start": "2025-05-10",
+        "date_end": "2025-06-30",
+        "description": "Ensure all products meet updated labeling regulations."
+    },
+    {
+        "name": "Store Expansion Feasibility Study",
+        "customer": "Family Dollar",
+        "tags": [
+            "Expansion",
+            "Analytics",
+            "Retail"
+        ],
+        "date_start": "2025-03-10",
+        "date_end": "2025-05-10",
+        "description": "Conduct feasibility study for new store locations."
+    },
+    {
+        "name": "Customer Service Chatbot",
+        "customer": "Walgreens",
+        "tags": [
+            "Technology",
+            "Customer Experience",
+            "AI"
+        ],
+        "date_start": "2025-06-01",
+        "date_end": "2025-08-01",
+        "description": "Develop AI chatbot for Walgreens customer service inquiries."
+    },
+    {
+        "name": "In-Store Event Series",
+        "customer": "JCPenney",
+        "tags": [
+            "Marketing",
+            "Retail",
+            "Events"
+        ],
+        "date_start": "2025-04-20",
+        "date_end": "2025-06-20",
+        "description": "Host in-store events to boost customer engagement."
+    },
+    {
+        "name": "Mobile Payment Rollout",
+        "customer": "Kroger",
+        "tags": [
+            "Technology",
+            "Payments",
+            "Retail"
+        ],
+        "date_start": "2025-02-10",
+        "date_end": "2025-04-10",
+        "description": "Roll out mobile payment options at all Kroger stores."
+    },
+    {
+        "name": "Store Fixture Modernization",
+        "customer": "TJX Companies",
+        "tags": [
+            "Store Design",
+            "Retail",
+            "Operations"
+        ],
+        "date_start": "2025-03-25",
+        "date_end": "2025-06-25",
+        "description": "Modernize store fixtures for improved merchandising."
+    },
+    {
+        "name": "Product Lifecycle Analysis",
+        "customer": "Costco",
+        "tags": [
+            "Analytics",
+            "Product Development",
+            "Retail"
+        ],
+        "date_start": "2025-05-15",
+        "date_end": "2025-07-15",
+        "description": "Analyze product lifecycles to optimize inventory planning."
+    },
+    {
+        "name": "Customer Rewards App Launch",
+        "customer": "Publix",
+        "tags": [
+            "Technology",
+            "Customer Experience",
+            "Marketing"
+        ],
+        "date_start": "2025-01-30",
+        "date_end": "2025-03-30",
+        "description": "Launch new rewards app for Publix shoppers."
+    },
+    {
+        "name": "Sustainable Packaging Initiative",
+        "customer": "Whole Foods Market",
+        "tags": [
+            "Sustainability",
+            "Packaging",
+            "Product Development"
+        ],
+        "date_start": "2025-04-15",
+        "date_end": "2025-07-15",
+        "description": "Introduce sustainable packaging for select product lines."
+    },
+    {
+        "name": "Store Wi-Fi Upgrade",
+        "customer": "Best Buy",
+        "tags": [
+            "Technology",
+            "Operations",
+            "Customer Experience"
+        ],
+        "date_start": "2025-02-20",
+        "date_end": "2025-04-20",
+        "description": "Upgrade Wi-Fi infrastructure in all Best Buy stores."
+    },
+    {
+        "name": "Online Customer Review Integration",
+        "customer": "Macy's",
+        "tags": [
+            "E-Commerce",
+            "Customer Experience",
+            "Technology"
+        ],
+        "date_start": "2025-03-10",
+        "date_end": "2025-05-10",
+        "description": "Integrate customer reviews into Macy's online product pages."
+    },
+    {
+        "name": "Store Lighting Retrofit",
+        "customer": "Home Depot",
+        "tags": [
+            "Sustainability",
+            "Operations",
+            "Store Design"
+        ],
+        "date_start": "2025-05-01",
+        "date_end": "2025-07-01",
+        "description": "Retrofit store lighting for energy efficiency."
+    },
+    {
+        "name": "New Category Launch",
+        "customer": "Walmart",
+        "tags": [
+            "Product Launch",
+            "Retail",
+            "Marketing"
+        ],
+        "date_start": "2025-06-10",
+        "date_end": "2025-08-10",
+        "description": "Launch new product category in Walmart stores."
+    },
+    {
+        "name": "Storefront Accessibility Audit",
+        "customer": "CVS Health",
+        "tags": [
+            "Compliance",
+            "Operations",
+            "Customer Experience"
+        ],
+        "date_start": "2025-01-15",
+        "date_end": "2025-03-15",
+        "description": "Audit storefronts for ADA accessibility compliance."
+    },
+    {
+        "name": "Product Sampling Kiosk Rollout",
+        "customer": "Sam's Club",
+        "tags": [
+            "Product Launch",
+            "Retail",
+            "Technology"
+        ],
+        "date_start": "2025-04-05",
+        "date_end": "2025-06-05",
+        "description": "Roll out interactive product sampling kiosks nationwide."
+    },
+    {
+        "name": "Store Operations Process Review",
+        "customer": "Aldi",
+        "tags": [
+            "Operations",
+            "Retail",
+            "Optimization"
+        ],
+        "date_start": "2025-02-15",
+        "date_end": "2025-04-15",
+        "description": "Review and optimize Aldi's in-store operational processes."
+    },
+    {
+        "name": "Digital Ad Campaign Launch",
+        "customer": "Kohl's",
+        "tags": [
+            "Marketing",
+            "Digital",
+            "Retail"
+        ],
+        "date_start": "2025-05-20",
+        "date_end": "2025-07-20",
+        "description": "Launch digital advertising campaign for Kohl's summer sales."
+    }
+]

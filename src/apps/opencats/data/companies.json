@@ -1,0 +1,47 @@
+[
+    {
+        "name": "BioVision Analytics",
+        "address": "7844 E Baseline Road, Suite 210",
+        "city": "Mesa",
+        "state": "AZ",
+        "zip": "85209",
+        "phone1": "(480) 555-8241",
+        "phone2": "",
+        "faxNumber": "(480) 555-8242",
+        "url": "https://biovisionanalytics.com",
+        "keyTechnologies": "Machine Learning, Data Analytics, Automation",
+        "notes": "Specializes in AI-powered analytics solutions for biotech research labs and pharmaceutical companies. Focuses on drug discovery optimization and clinical trial data analysis.",
+        "isHot": 1,
+        "departmentsCSV": "Data Science,Biotechnology Research,Sales"
+    },
+    {
+        "name": "MediaStream Solutions",
+        "address": "2301 Blake Street",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "zip": "80904",
+        "phone1": "(719) 555-3467",
+        "phone2": "(719) 555-3468",
+        "faxNumber": "",
+        "url": "https://mediastreamsolutions.com",
+        "keyTechnologies": "AR/VR, Web Development, SaaS",
+        "notes": "Develops immersive media platforms and streaming solutions for broadcast companies and content creators. Specializes in AR/VR content delivery systems.",
+        "isHot": 0,
+        "departmentsCSV": "Engineering,Creative Services,Client Relations"
+    },
+    {
+        "name": "EduTech Dynamics",
+        "address": "1155 E University Drive",
+        "city": "San Antonio",
+        "state": "TX",
+        "zip": "78209",
+        "phone1": "(210) 555-9012",
+        "phone2": "",
+        "faxNumber": "",
+        "url": "https://edutechdynamics.com",
+        "keyTechnologies": "E-commerce, Enterprise Software, Web Development",
+        "notes": "Creates custom learning management systems and educational technology solutions for K-12 schools and universities. Focuses on interactive learning platforms and administrative tools.",
+        "isHot": 0,
+        "departmentsCSV": "Product Development,Education Solutions,Customer Success"
+    }
+]

@@ -1,0 +1,436 @@
+[
+    {
+        "name": "Sales & Marketing",
+        "manager": {
+            "name": "Emily Johnson",
+            "department": "Sales & Marketing",
+            "job_title": "Sales Manager",
+            "work_email": "emilyjohnson.sales",
+            "job_position": "Sales Manager",
+            "resume_lines": [
+                {
+                    "name": "Bright Retail Corp",
+                    "resume_type": "Experience",
+                    "date_start": "2018-06",
+                    "date_end": null,
+                    "description": "Leading sales team to exceed quarterly targets in consumer goods retail."
+                },
+                {
+                    "name": "State University",
+                    "resume_type": "Education",
+                    "date_start": "2012-09",
+                    "date_end": "2016-05",
+                    "description": "Bachelor of Business Administration with a focus on Marketing."
+                },
+                {
+                    "name": "Retail Solutions Inc.",
+                    "resume_type": "Experience",
+                    "date_start": "2016-07",
+                    "date_end": "2018-05",
+                    "description": "Marketing coordinator responsible for campaign management and brand promotion."
+                }
+            ],
+            "skills": [
+                "Sales Strategy",
+                "Customer Relationship Management",
+                "Digital Marketing",
+                "Team Leadership",
+                "Market Analysis"
+            ],
+            "private_address": {
+                "street": "123 Maple Street",
+                "city": "Austin",
+                "state": "Texas",
+                "zip_code": "78701"
+            },
+            "private_email": "emily.johnson@gmail.com",
+            "private_car_plate": "TXJ1234",
+            "gender": "female",
+            "passport_id": "X12345678",
+            "ssnid": "123-45-6789",
+            "identification_id": "TX987654321",
+            "place_of_birth": "Dallas, USA",
+            "education": {
+                "certificate": "bachelor",
+                "study_field": "Business Administration",
+                "study_school": "State University"
+            },
+            "categories": [
+                "management",
+                "sales"
+            ]
+        }
+    },
+    {
+        "name": "Warehouse & Inventory",
+        "manager": {
+            "name": "Michael Thompson",
+            "department": "Warehouse & Inventory",
+            "job_title": "Warehouse Supervisor",
+            "work_email": "michaelthompson.warehouse",
+            "job_position": "Warehouse Supervisor",
+            "resume_lines": [
+                {
+                    "name": "LogiGoods LLC",
+                    "resume_type": "Experience",
+                    "date_start": "2017-03",
+                    "date_end": null,
+                    "description": "Supervising warehouse operations and inventory control for consumer goods."
+                },
+                {
+                    "name": "Tech Community College",
+                    "resume_type": "Education",
+                    "date_start": "2013-09",
+                    "date_end": "2015-06",
+                    "description": "Associate Degree in Supply Chain Management."
+                },
+                {
+                    "name": "FastTrack Logistics",
+                    "resume_type": "Experience",
+                    "date_start": "2015-07",
+                    "date_end": "2017-02",
+                    "description": "Inventory analyst focusing on stock optimization and order fulfillment."
+                }
+            ],
+            "skills": [
+                "Inventory Management",
+                "Warehouse Safety",
+                "Forklift Operation",
+                "Team Coordination",
+                "Logistics Planning"
+            ],
+            "private_address": {
+                "street": "456 Oak Avenue",
+                "city": "Denver",
+                "state": "Colorado",
+                "zip_code": "80203"
+            },
+            "private_email": "michael.thompson@outlook.com",
+            "private_car_plate": "COL4567",
+            "gender": "male",
+            "passport_id": "Y98765432",
+            "ssnid": "987-65-4321",
+            "identification_id": "CO123456789",
+            "place_of_birth": "Denver, USA",
+            "education": {
+                "certificate": "other",
+                "study_field": "Supply Chain Management",
+                "study_school": "Tech Community College"
+            },
+            "categories": [
+                "operations",
+                "logistics"
+            ]
+        }
+    },
+    {
+        "name": "Customer Service",
+        "manager": {
+            "name": "Sarah Martinez",
+            "department": "Customer Service",
+            "job_title": "Customer Service Manager",
+            "work_email": "sarahmartinez.customerservice",
+            "job_position": "Customer Service Manager",
+            "resume_lines": [
+                {
+                    "name": "Happy Retailers Inc.",
+                    "resume_type": "Experience",
+                    "date_start": "2019-01",
+                    "date_end": null,
+                    "description": "Managing customer service team to ensure high satisfaction and retention."
+                },
+                {
+                    "name": "City University",
+                    "resume_type": "Education",
+                    "date_start": "2014-09",
+                    "date_end": "2018-05",
+                    "description": "Bachelor of Arts in Communication."
+                },
+                {
+                    "name": "Retail Support Services",
+                    "resume_type": "Experience",
+                    "date_start": "2018-06",
+                    "date_end": "2018-12",
+                    "description": "Customer service representative handling inquiries and returns."
+                }
+            ],
+            "skills": [
+                "Customer Relations",
+                "Conflict Resolution",
+                "Team Leadership",
+                "CRM Software",
+                "Communication Skills"
+            ],
+            "private_address": {
+                "street": "789 Pine Road",
+                "city": "Seattle",
+                "state": "Washington",
+                "zip_code": "98101"
+            },
+            "private_email": "sarah.martinez@gmail.com",
+            "private_car_plate": "WA7890",
+            "gender": "female",
+            "passport_id": "Z23456789",
+            "ssnid": "234-56-7890",
+            "identification_id": "WA987654321",
+            "place_of_birth": "Seattle, USA",
+            "education": {
+                "certificate": "bachelor",
+                "study_field": "Communication",
+                "study_school": "City University"
+            },
+            "categories": [
+                "customer service",
+                "management"
+            ]
+        }
+    },
+    {
+        "name": "Procurement",
+        "manager": {
+            "name": "David Lee",
+            "department": "Procurement",
+            "job_title": "Procurement Manager",
+            "work_email": "davidlee.procurement",
+            "job_position": "Procurement Manager",
+            "resume_lines": [
+                {
+                    "name": "Global Retail Supplies",
+                    "resume_type": "Experience",
+                    "date_start": "2016-04",
+                    "date_end": null,
+                    "description": "Overseeing procurement processes and supplier negotiations for retail goods."
+                },
+                {
+                    "name": "National University",
+                    "resume_type": "Education",
+                    "date_start": "2010-09",
+                    "date_end": "2014-06",
+                    "description": "Bachelor of Science in Business Administration."
+                },
+                {
+                    "name": "Supply Chain Experts",
+                    "resume_type": "Experience",
+                    "date_start": "2014-07",
+                    "date_end": "2016-03",
+                    "description": "Procurement specialist managing vendor relationships and purchase orders."
+                }
+            ],
+            "skills": [
+                "Supplier Management",
+                "Contract Negotiation",
+                "Cost Analysis",
+                "Inventory Forecasting",
+                "Purchase Order Management"
+            ],
+            "private_address": {
+                "street": "321 Birch Lane",
+                "city": "Chicago",
+                "state": "Illinois",
+                "zip_code": "60605"
+            },
+            "private_email": "david.lee@outlook.com",
+            "private_car_plate": "IL3210",
+            "gender": "male",
+            "passport_id": "W34567890",
+            "ssnid": "345-67-8901",
+            "identification_id": "IL123456789",
+            "place_of_birth": "Chicago, USA",
+            "education": {
+                "certificate": "bachelor",
+                "study_field": "Business Administration",
+                "study_school": "National University"
+            },
+            "categories": [
+                "procurement",
+                "management"
+            ]
+        }
+    },
+    {
+        "name": "Finance & Accounting",
+        "manager": {
+            "name": "Linda Green",
+            "department": "Finance & Accounting",
+            "job_title": "Finance Analyst",
+            "work_email": "lindagreen.finance",
+            "job_position": "Finance Analyst",
+            "resume_lines": [
+                {
+                    "name": "Retail Finance Group",
+                    "resume_type": "Experience",
+                    "date_start": "2017-08",
+                    "date_end": null,
+                    "description": "Analyzing financial data and preparing reports for retail operations."
+                },
+                {
+                    "name": "State College",
+                    "resume_type": "Education",
+                    "date_start": "2012-09",
+                    "date_end": "2016-05",
+                    "description": "Bachelor of Science in Accounting."
+                },
+                {
+                    "name": "Accounting Solutions Inc.",
+                    "resume_type": "Experience",
+                    "date_start": "2016-06",
+                    "date_end": "2017-07",
+                    "description": "Accountant responsible for bookkeeping and financial statement preparation."
+                }
+            ],
+            "skills": [
+                "Financial Analysis",
+                "Accounting Principles",
+                "Budgeting",
+                "Tax Compliance",
+                "ERP Software"
+            ],
+            "private_address": {
+                "street": "654 Cedar Street",
+                "city": "Boston",
+                "state": "Massachusetts",
+                "zip_code": "02108"
+            },
+            "private_email": "linda.green@gmail.com",
+            "private_car_plate": "MA6543",
+            "gender": "female",
+            "passport_id": "V45678901",
+            "ssnid": "456-78-9012",
+            "identification_id": "MA987654321",
+            "place_of_birth": "Boston, USA",
+            "education": {
+                "certificate": "bachelor",
+                "study_field": "Accounting",
+                "study_school": "State College"
+            },
+            "categories": [
+                "finance",
+                "accounting"
+            ]
+        }
+    },
+    {
+        "name": "Human Resources",
+        "manager": {
+            "name": "James Wilson",
+            "department": "Human Resources",
+            "job_title": "HR Manager",
+            "work_email": "jameswilson.hr",
+            "job_position": "HR Manager",
+            "resume_lines": [
+                {
+                    "name": "People First Corp",
+                    "resume_type": "Experience",
+                    "date_start": "2015-05",
+                    "date_end": null,
+                    "description": "Managing recruitment, employee relations, and compliance for retail staff."
+                },
+                {
+                    "name": "University of Michigan",
+                    "resume_type": "Education",
+                    "date_start": "2010-09",
+                    "date_end": "2014-06",
+                    "description": "Bachelor of Arts in Human Resource Management."
+                },
+                {
+                    "name": "Talent Solutions",
+                    "resume_type": "Experience",
+                    "date_start": "2014-07",
+                    "date_end": "2015-04",
+                    "description": "HR generalist supporting hiring and training programs."
+                }
+            ],
+            "skills": [
+                "Recruitment",
+                "Employee Relations",
+                "Labor Law Compliance",
+                "Training & Development",
+                "HRIS"
+            ],
+            "private_address": {
+                "street": "987 Elm Street",
+                "city": "Ann Arbor",
+                "state": "Michigan",
+                "zip_code": "48104"
+            },
+            "private_email": "james.wilson@outlook.com",
+            "private_car_plate": "MI9876",
+            "gender": "male",
+            "passport_id": "U56789012",
+            "ssnid": "567-89-0123",
+            "identification_id": "MI123456789",
+            "place_of_birth": "Detroit, USA",
+            "education": {
+                "certificate": "bachelor",
+                "study_field": "Human Resource Management",
+                "study_school": "University of Michigan"
+            },
+            "categories": [
+                "human resources",
+                "management"
+            ]
+        }
+    },
+    {
+        "name": "Logistics",
+        "manager": {
+            "name": "Karen Davis",
+            "department": "Logistics",
+            "job_title": "Logistics Manager",
+            "work_email": "karendavis.logistics",
+            "job_position": "Logistics Manager",
+            "resume_lines": [
+                {
+                    "name": "Express Delivery Services",
+                    "resume_type": "Experience",
+                    "date_start": "2018-02",
+                    "date_end": null,
+                    "description": "Coordinating shipping, receiving, and fleet management for retail distribution."
+                },
+                {
+                    "name": "State Tech University",
+                    "resume_type": "Education",
+                    "date_start": "2013-09",
+                    "date_end": "2017-05",
+                    "description": "Bachelor of Science in Logistics and Supply Chain Management."
+                },
+                {
+                    "name": "Fast Freight Inc.",
+                    "resume_type": "Experience",
+                    "date_start": "2017-06",
+                    "date_end": "2018-01",
+                    "description": "Logistics coordinator managing transportation schedules and warehouse flow."
+                }
+            ],
+            "skills": [
+                "Fleet Management",
+                "Shipping & Receiving",
+                "Route Planning",
+                "Inventory Control",
+                "Supply Chain Coordination"
+            ],
+            "private_address": {
+                "street": "246 Spruce Drive",
+                "city": "Atlanta",
+                "state": "Georgia",
+                "zip_code": "30303"
+            },
+            "private_email": "karen.davis@gmail.com",
+            "private_car_plate": "GA2468",
+            "gender": "female",
+            "passport_id": "T67890123",
+            "ssnid": "678-90-1234",
+            "identification_id": "GA987654321",
+            "place_of_birth": "Atlanta, USA",
+            "education": {
+                "certificate": "bachelor",
+                "study_field": "Logistics and Supply Chain Management",
+                "study_school": "State Tech University"
+            },
+            "categories": [
+                "logistics",
+                "operations"
+            ]
+        }
+    }
+]

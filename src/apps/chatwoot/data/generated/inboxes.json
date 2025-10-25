@@ -1,0 +1,2208 @@
+[
+  {
+    "name": "Live Chat - Main Support",
+    "greeting_enabled": true,
+    "greeting_message": "Welcome to Acme SaaS Support! How can we help?",
+    "channel": {
+      "type": "web_widget",
+      "website_url": "https://acmesaas.com/support",
+      "widget_color": "#007BFF",
+      "welcome_title": "Customer Support",
+      "welcome_tagline": "Available 24/7 for you"
+    },
+    "created_at": "2025-06-01T13:05:50.584024",
+    "updated_at": "2025-07-08T11:08:10.421976",
+    "member_emails": [
+      "danielle.mendoza@acmeinc.com",
+      "sarah.alexander@acmeinc.com",
+      "destiny.harrison@acmeinc.com",
+      "nicole.burke@acmeinc.com",
+      "sarah.davis@acmeinc.com",
+      "nicole.reeves@acmeinc.com",
+      "lauren.flowers@acmeinc.com",
+      "kimberly.mccormick@acmeinc.com",
+      "steven.anderson@acmeinc.com",
+      "samuel.melendez@acmeinc.com",
+      "jason.martin@acmeinc.com",
+      "stephen.owens@acmeinc.com",
+      "evelyn.garcia@acmeinc.com",
+      "tina.jones@acmeinc.com",
+      "alexandra.wu@acmeinc.com",
+      "tara.richardson@acmeinc.com"
+    ],
+    "csat_survey_enabled": false,
+    "csat_config": {
+      "display_type": "star",
+      "message": "Rate your experience with our support team!",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Live Chat - Product Demo",
+    "greeting_enabled": true,
+    "greeting_message": "Hey there! Want a product walk-through?",
+    "channel": {
+      "type": "web_widget",
+      "website_url": "https://acmesaas.com/demo",
+      "widget_color": "#00B894",
+      "welcome_title": "Product Demo",
+      "welcome_tagline": "Book a live session"
+    },
+    "created_at": "2025-05-24T15:30:18.922680",
+    "updated_at": "2025-07-05T07:13:26.108739",
+    "member_emails": [
+      "jason.martin@acmeinc.com",
+      "casey.george@acmeinc.com",
+      "brian.brown@acmeinc.com",
+      "jordan.sampson@acmeinc.com",
+      "nicole.reeves@acmeinc.com",
+      "andrew.warner@acmeinc.com",
+      "nicole.burke@acmeinc.com",
+      "lynn.castillo@acmeinc.com",
+      "daniel.jennings@acmeinc.com",
+      "destiny.harrison@acmeinc.com",
+      "michelle.contreras@acmeinc.com",
+      "steven.anderson@acmeinc.com",
+      "samuel.melendez@acmeinc.com",
+      "janet.kelley@acmeinc.com",
+      "yvonne.santiago@acmeinc.com",
+      "theresa.friedman@acmeinc.com",
+      "sarah.alexander@acmeinc.com",
+      "mark.love@acmeinc.com",
+      "kimberly.mccormick@acmeinc.com",
+      "sarah.davis@acmeinc.com",
+      "drew.strong@acmeinc.com",
+      "richard.johnson@acmeinc.com",
+      "dillon.hammond@acmeinc.com",
+      "lucas.mitchell@acmeinc.com",
+      "wendy.burns@acmeinc.com"
+    ],
+    "csat_survey_enabled": true,
+    "csat_config": {
+      "display_type": "star",
+      "message": "Rate your satisfaction on a scale of 1-5 stars",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Live Chat - Sales Enquiries",
+    "greeting_enabled": true,
+    "greeting_message": "Welcome! Need info about our plans?",
+    "channel": {
+      "type": "web_widget",
+      "website_url": "https://acmesaas.com/sales",
+      "widget_color": "#FD7E14",
+      "welcome_title": "Sales Team",
+      "welcome_tagline": "Find the right plan for you"
+    },
+    "created_at": "2024-12-27T11:22:12.672323",
+    "updated_at": "2025-07-12T21:22:56.942072",
+    "member_emails": [
+      "jamie.combs@acmeinc.com",
+      "jason.martin@acmeinc.com",
+      "yvonne.santiago@acmeinc.com",
+      "richard.cline@acmeinc.com",
+      "daniel.jennings@acmeinc.com",
+      "nicole.reeves@acmeinc.com",
+      "lindsey.martin@acmeinc.com",
+      "jordan.sampson@acmeinc.com",
+      "angela.gaines@acmeinc.com",
+      "casey.george@acmeinc.com",
+      "danielle.mendoza@acmeinc.com",
+      "jessica.freeman@acmeinc.com",
+      "brian.brown@acmeinc.com",
+      "sarah.alexander@acmeinc.com",
+      "steven.hill@acmeinc.com",
+      "richard.davis@acmeinc.com",
+      "natasha.sanders@acmeinc.com",
+      "christine.martinez@acmeinc.com",
+      "wendy.burns@acmeinc.com",
+      "lucas.mitchell@acmeinc.com",
+      "alexandra.wu@acmeinc.com"
+    ],
+    "csat_survey_enabled": false,
+    "csat_config": {
+      "display_type": "star",
+      "message": "Did our sales team answer your questions?",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Live Chat - Startup Outreach",
+    "greeting_enabled": true,
+    "greeting_message": "Welcome, startups! Special onboarding awaits.",
+    "channel": {
+      "type": "web_widget",
+      "website_url": "https://acmesaas.com/startup",
+      "widget_color": "#A259EA",
+      "welcome_title": "Startup Program",
+      "welcome_tagline": "Exclusive help for startups"
+    },
+    "created_at": "2025-04-26T19:29:05.251886",
+    "updated_at": "2025-07-24T14:15:12.543622",
+    "member_emails": [
+      "nicole.burke@acmeinc.com",
+      "laura.west@acmeinc.com",
+      "rodney.palmer@acmeinc.com",
+      "janet.kelley@acmeinc.com",
+      "brooke.fletcher@acmeinc.com",
+      "jordan.sampson@acmeinc.com",
+      "rachel.mcdowell@acmeinc.com",
+      "destiny.harrison@acmeinc.com",
+      "stephen.owens@acmeinc.com",
+      "deborah.stewart@acmeinc.com",
+      "lindsey.martin@acmeinc.com",
+      "sarah.alexander@acmeinc.com",
+      "samuel.melendez@acmeinc.com",
+      "jason.martin@acmeinc.com",
+      "andrew.warner@acmeinc.com",
+      "joshua.singh@acmeinc.com",
+      "christine.martinez@acmeinc.com",
+      "theresa.friedman@acmeinc.com",
+      "nicole.reeves@acmeinc.com",
+      "alexandra.wu@acmeinc.com",
+      "richard.johnson@acmeinc.com",
+      "tina.jones@acmeinc.com",
+      "wendy.burns@acmeinc.com"
+    ],
+    "csat_survey_enabled": true,
+    "csat_config": {
+      "display_type": "emoji",
+      "message": "Rate your support experience",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Live Chat - Technical Support",
+    "greeting_enabled": true,
+    "greeting_message": "Got a technical issue? Our engineers are here.",
+    "channel": {
+      "type": "web_widget",
+      "website_url": "https://acmesaas.com/devsupport",
+      "widget_color": "#00CBC6",
+      "welcome_title": "Tech Support",
+      "welcome_tagline": "Experts solving your issues"
+    },
+    "created_at": "2024-11-07T15:48:50.181738",
+    "updated_at": "2025-02-16T19:23:23.031870",
+    "member_emails": [
+      "amanda.henson@acmeinc.com",
+      "joshua.singh@acmeinc.com",
+      "jordan.sampson@acmeinc.com",
+      "mark.love@acmeinc.com",
+      "jessica.freeman@acmeinc.com",
+      "danielle.mendoza@acmeinc.com",
+      "brian.brown@acmeinc.com",
+      "deborah.stewart@acmeinc.com",
+      "christine.martinez@acmeinc.com",
+      "steven.anderson@acmeinc.com",
+      "samuel.melendez@acmeinc.com",
+      "sarah.davis@acmeinc.com",
+      "rachel.mcdowell@acmeinc.com",
+      "jason.martin@acmeinc.com",
+      "daniel.jennings@acmeinc.com",
+      "michelle.contreras@acmeinc.com",
+      "brooke.fletcher@acmeinc.com",
+      "laura.west@acmeinc.com",
+      "yvonne.santiago@acmeinc.com",
+      "janet.kelley@acmeinc.com",
+      "tina.jones@acmeinc.com",
+      "drew.strong@acmeinc.com",
+      "mark.miller@acmeinc.com",
+      "alexandra.wu@acmeinc.com",
+      "tara.richardson@acmeinc.com"
+    ],
+    "csat_survey_enabled": true,
+    "csat_config": {
+      "display_type": "emoji",
+      "message": "How did we do today?",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Onboarding Chat",
+    "greeting_enabled": true,
+    "greeting_message": "Need onboarding help? We're here for you!",
+    "channel": {
+      "type": "web_widget",
+      "website_url": "https://acmesaas.com/onboarding",
+      "widget_color": "#FD297B",
+      "welcome_title": "Onboarding Support",
+      "welcome_tagline": "Guiding you to success"
+    },
+    "created_at": "2025-07-10T14:50:24.168595",
+    "updated_at": "2025-07-25T08:04:26.173641",
+    "member_emails": [
+      "richard.cline@acmeinc.com",
+      "deborah.stewart@acmeinc.com",
+      "kimberly.mccormick@acmeinc.com",
+      "steven.anderson@acmeinc.com",
+      "destiny.harrison@acmeinc.com",
+      "joshua.singh@acmeinc.com",
+      "rachel.mcdowell@acmeinc.com",
+      "jessica.freeman@acmeinc.com",
+      "yvonne.santiago@acmeinc.com",
+      "jason.martin@acmeinc.com",
+      "daniel.jennings@acmeinc.com",
+      "michelle.contreras@acmeinc.com",
+      "natasha.sanders@acmeinc.com",
+      "brian.brown@acmeinc.com",
+      "theresa.friedman@acmeinc.com",
+      "rodney.palmer@acmeinc.com",
+      "sarah.alexander@acmeinc.com",
+      "jordan.sampson@acmeinc.com",
+      "dillon.hammond@acmeinc.com",
+      "alexandra.wu@acmeinc.com",
+      "lucas.mitchell@acmeinc.com"
+    ],
+    "csat_survey_enabled": true,
+    "csat_config": {
+      "display_type": "star",
+      "message": "Your feedback helps us improve - please rate us",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Live Chat - Feature Requests",
+    "greeting_enabled": true,
+    "greeting_message": "Tell us the features you'd love to see!",
+    "channel": {
+      "type": "web_widget",
+      "website_url": "https://acmesaas.com/feature-requests",
+      "widget_color": "#FFB86C",
+      "welcome_title": "Request a Feature",
+      "welcome_tagline": "Your voice shapes our roadmap"
+    },
+    "created_at": "2024-10-27T14:51:38.506041",
+    "updated_at": "2025-02-02T14:09:51.377633",
+    "member_emails": [
+      "sarah.alexander@acmeinc.com",
+      "janet.kelley@acmeinc.com",
+      "angela.gaines@acmeinc.com",
+      "lynn.castillo@acmeinc.com",
+      "mark.love@acmeinc.com",
+      "nicole.burke@acmeinc.com",
+      "kimberly.mccormick@acmeinc.com",
+      "daniel.jennings@acmeinc.com",
+      "laura.west@acmeinc.com",
+      "rachel.mcdowell@acmeinc.com",
+      "michelle.contreras@acmeinc.com",
+      "jordan.sampson@acmeinc.com",
+      "nicole.reeves@acmeinc.com",
+      "casey.george@acmeinc.com",
+      "sarah.davis@acmeinc.com",
+      "joshua.singh@acmeinc.com",
+      "richard.cline@acmeinc.com",
+      "rodney.palmer@acmeinc.com",
+      "christine.martinez@acmeinc.com",
+      "tina.jones@acmeinc.com",
+      "drew.strong@acmeinc.com"
+    ],
+    "csat_survey_enabled": true,
+    "csat_config": {
+      "display_type": "emoji",
+      "message": "Please rate your satisfaction with our service",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Live Chat - Feedback Bot",
+    "greeting_enabled": true,
+    "greeting_message": "We're collecting feedback, let us know your thoughts.",
+    "channel": {
+      "type": "web_widget",
+      "website_url": "https://acmesaas.com/feedback",
+      "widget_color": "#2ECC40",
+      "welcome_title": "Feedback Bot",
+      "welcome_tagline": "Let's make Acme better"
+    },
+    "created_at": "2024-10-02T19:08:14.115892",
+    "updated_at": "2025-03-26T10:24:56.956519",
+    "member_emails": [
+      "angela.gaines@acmeinc.com",
+      "rodney.palmer@acmeinc.com",
+      "daniel.jennings@acmeinc.com",
+      "sarah.davis@acmeinc.com",
+      "rachel.mcdowell@acmeinc.com",
+      "steven.hill@acmeinc.com",
+      "richard.cline@acmeinc.com",
+      "stephen.owens@acmeinc.com",
+      "mark.love@acmeinc.com",
+      "laura.west@acmeinc.com",
+      "lindsey.martin@acmeinc.com",
+      "lynn.castillo@acmeinc.com",
+      "jason.martin@acmeinc.com",
+      "steven.anderson@acmeinc.com",
+      "jessica.freeman@acmeinc.com",
+      "nicole.burke@acmeinc.com",
+      "brian.brown@acmeinc.com",
+      "danielle.mendoza@acmeinc.com",
+      "destiny.harrison@acmeinc.com",
+      "richard.johnson@acmeinc.com",
+      "dillon.hammond@acmeinc.com",
+      "drew.strong@acmeinc.com",
+      "alexandra.wu@acmeinc.com"
+    ],
+    "csat_survey_enabled": true,
+    "csat_config": {
+      "display_type": "star",
+      "message": "How many stars would you give our support?",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Live Chat - Billing Questions",
+    "greeting_enabled": true,
+    "greeting_message": "Questions about your invoice or payments? We're here.",
+    "channel": {
+      "type": "web_widget",
+      "website_url": "https://acmesaas.com/billing",
+      "widget_color": "#FF6F61",
+      "welcome_title": "Billing Support",
+      "welcome_tagline": "Fast answers for billing issues"
+    },
+    "created_at": "2024-10-27T06:22:04.084375",
+    "updated_at": "2025-05-14T04:20:09.437598",
+    "member_emails": [
+      "natasha.sanders@acmeinc.com",
+      "kimberly.mccormick@acmeinc.com",
+      "steven.hill@acmeinc.com",
+      "stephen.owens@acmeinc.com",
+      "christine.martinez@acmeinc.com",
+      "rodney.palmer@acmeinc.com",
+      "janet.kelley@acmeinc.com",
+      "jessica.freeman@acmeinc.com",
+      "casey.george@acmeinc.com",
+      "sarah.alexander@acmeinc.com",
+      "steven.anderson@acmeinc.com",
+      "andrew.warner@acmeinc.com",
+      "drew.strong@acmeinc.com",
+      "lucas.mitchell@acmeinc.com",
+      "alexandra.wu@acmeinc.com"
+    ],
+    "csat_survey_enabled": false,
+    "csat_config": {
+      "display_type": "emoji",
+      "message": "How did we do solving your billing query?",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Live Chat - Account Management",
+    "greeting_enabled": true,
+    "greeting_message": "Need changes to your account?",
+    "channel": {
+      "type": "web_widget",
+      "website_url": "https://acmesaas.com/account",
+      "widget_color": "#FFA502",
+      "welcome_title": "Account Management",
+      "welcome_tagline": "Flexible and secure"
+    },
+    "created_at": "2024-10-04T05:56:07.729258",
+    "updated_at": "2025-01-31T18:44:43.691963",
+    "member_emails": [
+      "amanda.henson@acmeinc.com",
+      "jamie.combs@acmeinc.com",
+      "sarah.alexander@acmeinc.com",
+      "danielle.mendoza@acmeinc.com",
+      "stephen.owens@acmeinc.com",
+      "natasha.sanders@acmeinc.com",
+      "steven.anderson@acmeinc.com",
+      "brian.brown@acmeinc.com",
+      "deborah.stewart@acmeinc.com",
+      "janet.kelley@acmeinc.com",
+      "lynn.castillo@acmeinc.com",
+      "brooke.fletcher@acmeinc.com",
+      "theresa.friedman@acmeinc.com",
+      "lauren.flowers@acmeinc.com",
+      "laura.west@acmeinc.com",
+      "tina.jones@acmeinc.com",
+      "drew.strong@acmeinc.com",
+      "dillon.hammond@acmeinc.com"
+    ],
+    "csat_survey_enabled": true,
+    "csat_config": {
+      "display_type": "star",
+      "message": "How many stars would you give our support?",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Live Chat - User Community",
+    "greeting_enabled": true,
+    "greeting_message": "Talk with our user success experts.",
+    "channel": {
+      "type": "web_widget",
+      "website_url": "https://acmesaas.com/community",
+      "widget_color": "#00A2FF",
+      "welcome_title": "Community Success",
+      "welcome_tagline": "Helping users thrive"
+    },
+    "created_at": "2024-09-19T23:10:31.009079",
+    "updated_at": "2024-09-22T12:37:46.045906",
+    "member_emails": [
+      "angela.gaines@acmeinc.com",
+      "sarah.davis@acmeinc.com",
+      "natasha.sanders@acmeinc.com",
+      "michelle.contreras@acmeinc.com",
+      "nicole.reeves@acmeinc.com",
+      "laura.west@acmeinc.com",
+      "casey.george@acmeinc.com",
+      "richard.davis@acmeinc.com",
+      "deborah.stewart@acmeinc.com",
+      "destiny.harrison@acmeinc.com",
+      "theresa.friedman@acmeinc.com",
+      "lynn.castillo@acmeinc.com",
+      "drew.strong@acmeinc.com"
+    ],
+    "csat_survey_enabled": true,
+    "csat_config": {
+      "display_type": "emoji",
+      "message": "How did we do today?",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Live Chat - Webinars & Events",
+    "greeting_enabled": true,
+    "greeting_message": "Want to join our next SaaS webinar?",
+    "channel": {
+      "type": "web_widget",
+      "website_url": "https://acmesaas.com/webinars",
+      "widget_color": "#845EC2",
+      "welcome_title": "Webinars",
+      "welcome_tagline": "Learn and grow with us"
+    },
+    "created_at": "2024-10-31T05:34:27.222129",
+    "updated_at": "2025-05-11T03:15:10.854018",
+    "member_emails": [
+      "rodney.palmer@acmeinc.com",
+      "brian.brown@acmeinc.com",
+      "deborah.stewart@acmeinc.com",
+      "rachel.mcdowell@acmeinc.com",
+      "laura.west@acmeinc.com",
+      "sarah.davis@acmeinc.com",
+      "richard.cline@acmeinc.com",
+      "danielle.mendoza@acmeinc.com",
+      "mark.love@acmeinc.com",
+      "destiny.harrison@acmeinc.com",
+      "nicole.burke@acmeinc.com",
+      "kimberly.mccormick@acmeinc.com",
+      "theresa.friedman@acmeinc.com",
+      "wendy.burns@acmeinc.com",
+      "richard.johnson@acmeinc.com"
+    ],
+    "csat_survey_enabled": false,
+    "csat_config": {
+      "display_type": "star",
+      "message": "Did our webinar team help you?",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Live Chat - Partner Portal",
+    "greeting_enabled": true,
+    "greeting_message": "Partner questions? Ask us here!",
+    "channel": {
+      "type": "web_widget",
+      "website_url": "https://partners.acmesaas.com",
+      "widget_color": "#B7990D",
+      "welcome_title": "Partner Portal",
+      "welcome_tagline": "Portal for success"
+    },
+    "created_at": "2025-01-07T17:02:21.573658",
+    "updated_at": "2025-05-15T16:34:29.921556",
+    "member_emails": [
+      "nicole.burke@acmeinc.com",
+      "christine.martinez@acmeinc.com",
+      "yvonne.santiago@acmeinc.com",
+      "jessica.freeman@acmeinc.com",
+      "destiny.harrison@acmeinc.com",
+      "andrew.warner@acmeinc.com",
+      "jamie.combs@acmeinc.com",
+      "deborah.stewart@acmeinc.com",
+      "kimberly.mccormick@acmeinc.com",
+      "lynn.castillo@acmeinc.com",
+      "theresa.friedman@acmeinc.com",
+      "sarah.alexander@acmeinc.com",
+      "samuel.melendez@acmeinc.com",
+      "richard.cline@acmeinc.com",
+      "mark.miller@acmeinc.com",
+      "tina.jones@acmeinc.com",
+      "drew.strong@acmeinc.com"
+    ],
+    "csat_survey_enabled": true,
+    "csat_config": {
+      "display_type": "emoji",
+      "message": "How was your experience with our support?",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Live Chat - Priority Clients",
+    "greeting_enabled": true,
+    "greeting_message": "Hi VIP! We're here for your every need.",
+    "channel": {
+      "type": "web_widget",
+      "website_url": "https://acmesaas.com/vip",
+      "widget_color": "#FF4057",
+      "welcome_title": "VIP Client Desk",
+      "welcome_tagline": "White-glove support"
+    },
+    "created_at": "2025-04-23T15:09:12.400684",
+    "updated_at": "2025-08-04T00:40:11.699962",
+    "member_emails": [
+      "stephen.owens@acmeinc.com",
+      "mark.love@acmeinc.com",
+      "brandon.robinson@acmeinc.com",
+      "yvonne.santiago@acmeinc.com",
+      "rodney.palmer@acmeinc.com",
+      "brooke.fletcher@acmeinc.com",
+      "andrew.warner@acmeinc.com",
+      "steven.hill@acmeinc.com",
+      "daniel.jennings@acmeinc.com",
+      "deborah.stewart@acmeinc.com",
+      "jamie.combs@acmeinc.com",
+      "richard.davis@acmeinc.com",
+      "jordan.sampson@acmeinc.com",
+      "danielle.mendoza@acmeinc.com",
+      "natasha.sanders@acmeinc.com",
+      "wendy.burns@acmeinc.com",
+      "tara.richardson@acmeinc.com",
+      "lucas.mitchell@acmeinc.com",
+      "dillon.hammond@acmeinc.com"
+    ],
+    "csat_survey_enabled": true,
+    "csat_config": {
+      "display_type": "star",
+      "message": "Your feedback helps us improve - please rate us",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Live Chat - New User Success",
+    "greeting_enabled": true,
+    "greeting_message": "Welcome to Acme SaaS! Let us guide your first steps.",
+    "channel": {
+      "type": "web_widget",
+      "website_url": "https://acmesaas.com/newusers",
+      "widget_color": "#07BEB8",
+      "welcome_title": "Welcome Desk",
+      "welcome_tagline": "Starting your journey"
+    },
+    "created_at": "2024-10-06T16:46:44.535989",
+    "updated_at": "2025-06-29T06:02:23.515774",
+    "member_emails": [
+      "jessica.freeman@acmeinc.com",
+      "angela.gaines@acmeinc.com",
+      "andrew.warner@acmeinc.com",
+      "lauren.flowers@acmeinc.com",
+      "danielle.mendoza@acmeinc.com",
+      "nicole.burke@acmeinc.com",
+      "nicole.reeves@acmeinc.com",
+      "janet.kelley@acmeinc.com",
+      "rachel.mcdowell@acmeinc.com",
+      "kimberly.mccormick@acmeinc.com",
+      "steven.hill@acmeinc.com",
+      "yvonne.santiago@acmeinc.com",
+      "lucas.mitchell@acmeinc.com",
+      "tara.richardson@acmeinc.com"
+    ],
+    "csat_survey_enabled": true,
+    "csat_config": {
+      "display_type": "emoji",
+      "message": "Please rate your satisfaction with our service",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Support - General",
+    "greeting_enabled": true,
+    "greeting_message": "Welcome to Acme SaaS! How can we assist?",
+    "channel": {
+      "type": "email",
+      "email": "support@acmesaas.com",
+      "imap_enabled": true,
+      "imap_address": "imap.acmesaas.com",
+      "imap_port": 993,
+      "imap_login": "support@acmesaas.com",
+      "imap_password": "secureSupportPwd!"
+    },
+    "created_at": "2024-12-30T06:46:11.013896",
+    "updated_at": "2025-02-16T22:53:25.579498",
+    "member_emails": [
+      "jordan.sampson@acmeinc.com",
+      "sarah.alexander@acmeinc.com",
+      "stephen.owens@acmeinc.com",
+      "rachel.mcdowell@acmeinc.com",
+      "lauren.flowers@acmeinc.com",
+      "angela.gaines@acmeinc.com",
+      "jamie.combs@acmeinc.com",
+      "samuel.melendez@acmeinc.com",
+      "brian.brown@acmeinc.com",
+      "deborah.stewart@acmeinc.com",
+      "michelle.contreras@acmeinc.com",
+      "tara.richardson@acmeinc.com"
+    ],
+    "csat_survey_enabled": true,
+    "csat_config": {
+      "display_type": "emoji",
+      "message": "We'd love to hear about your experience!",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Email - Sales Team",
+    "greeting_enabled": true,
+    "greeting_message": "Reach our sales team for pricing and information.",
+    "channel": {
+      "type": "email",
+      "email": "sales@acmesaas.com",
+      "imap_enabled": true,
+      "imap_address": "imap.acmesaas.com",
+      "imap_port": 993,
+      "imap_login": "sales@acmesaas.com",
+      "imap_password": "salesEmailPwd23!"
+    },
+    "created_at": "2024-10-04T17:08:40.799967",
+    "updated_at": "2025-06-10T17:31:31.304010",
+    "member_emails": [
+      "nicole.burke@acmeinc.com",
+      "brian.brown@acmeinc.com",
+      "nicole.reeves@acmeinc.com",
+      "sarah.alexander@acmeinc.com",
+      "jason.martin@acmeinc.com",
+      "amanda.henson@acmeinc.com",
+      "sarah.davis@acmeinc.com",
+      "michelle.contreras@acmeinc.com",
+      "samuel.melendez@acmeinc.com",
+      "theresa.friedman@acmeinc.com",
+      "steven.hill@acmeinc.com",
+      "laura.west@acmeinc.com",
+      "rodney.palmer@acmeinc.com",
+      "lucas.mitchell@acmeinc.com"
+    ],
+    "csat_survey_enabled": true,
+    "csat_config": {
+      "display_type": "emoji",
+      "message": "How did we do today?",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Email - Account Help",
+    "greeting_enabled": true,
+    "greeting_message": "Account questions? Email us anytime.",
+    "channel": {
+      "type": "email",
+      "email": "accounts@acmesaas.com",
+      "imap_enabled": true,
+      "imap_address": "imap.acmesaas.com",
+      "imap_port": 993,
+      "imap_login": "accounts@acmesaas.com",
+      "imap_password": "accountEmailPwd!"
+    },
+    "created_at": "2025-04-09T12:41:31.549709",
+    "updated_at": "2025-07-11T09:20:11.118200",
+    "member_emails": [
+      "yvonne.santiago@acmeinc.com",
+      "lynn.castillo@acmeinc.com",
+      "deborah.stewart@acmeinc.com",
+      "rodney.palmer@acmeinc.com",
+      "joshua.singh@acmeinc.com",
+      "janet.kelley@acmeinc.com",
+      "stephen.owens@acmeinc.com",
+      "lindsey.martin@acmeinc.com",
+      "richard.davis@acmeinc.com",
+      "mark.love@acmeinc.com",
+      "kimberly.mccormick@acmeinc.com",
+      "richard.johnson@acmeinc.com",
+      "alexandra.wu@acmeinc.com",
+      "evelyn.garcia@acmeinc.com"
+    ],
+    "csat_survey_enabled": true,
+    "csat_config": {
+      "display_type": "star",
+      "message": "Rate your satisfaction on a scale of 1-5 stars",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Email - Customer Success",
+    "greeting_enabled": true,
+    "greeting_message": "Customer success team is always listening.",
+    "channel": {
+      "type": "email",
+      "email": "success@acmesaas.com",
+      "imap_enabled": true,
+      "imap_address": "imap.acmesaas.com",
+      "imap_port": 993,
+      "imap_login": "success@acmesaas.com",
+      "imap_password": "successTeamPwd!"
+    },
+    "created_at": "2025-01-26T09:28:00.783639",
+    "updated_at": "2025-04-13T08:00:12.049948",
+    "member_emails": [
+      "daniel.jennings@acmeinc.com",
+      "lauren.flowers@acmeinc.com",
+      "jessica.freeman@acmeinc.com",
+      "nicole.burke@acmeinc.com",
+      "steven.hill@acmeinc.com",
+      "michelle.contreras@acmeinc.com",
+      "richard.davis@acmeinc.com",
+      "brooke.fletcher@acmeinc.com",
+      "samuel.melendez@acmeinc.com",
+      "rachel.mcdowell@acmeinc.com",
+      "laura.west@acmeinc.com",
+      "nicole.reeves@acmeinc.com",
+      "joshua.singh@acmeinc.com",
+      "mark.love@acmeinc.com",
+      "yvonne.santiago@acmeinc.com",
+      "jason.martin@acmeinc.com",
+      "deborah.stewart@acmeinc.com",
+      "kimberly.mccormick@acmeinc.com",
+      "stephen.owens@acmeinc.com",
+      "janet.kelley@acmeinc.com",
+      "drew.strong@acmeinc.com",
+      "mark.miller@acmeinc.com",
+      "alexandra.wu@acmeinc.com",
+      "dillon.hammond@acmeinc.com",
+      "evelyn.garcia@acmeinc.com"
+    ],
+    "csat_survey_enabled": true,
+    "csat_config": {
+      "display_type": "star",
+      "message": "How many stars would you give our support?",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Email - Technical Escalation",
+    "greeting_enabled": true,
+    "greeting_message": "Advanced technical issues? Our experts are on it.",
+    "channel": {
+      "type": "email",
+      "email": "tech@acmesaas.com",
+      "imap_enabled": true,
+      "imap_address": "imap.acmesaas.com",
+      "imap_port": 993,
+      "imap_login": "tech@acmesaas.com",
+      "imap_password": "techEscalatePwd2024"
+    },
+    "created_at": "2025-04-17T22:30:48.392535",
+    "updated_at": "2025-06-04T23:50:16.861366",
+    "member_emails": [
+      "yvonne.santiago@acmeinc.com",
+      "brooke.fletcher@acmeinc.com",
+      "casey.george@acmeinc.com",
+      "janet.kelley@acmeinc.com",
+      "angela.gaines@acmeinc.com",
+      "rodney.palmer@acmeinc.com",
+      "andrew.warner@acmeinc.com",
+      "nicole.reeves@acmeinc.com",
+      "lindsey.martin@acmeinc.com",
+      "kimberly.mccormick@acmeinc.com",
+      "steven.hill@acmeinc.com",
+      "steven.anderson@acmeinc.com",
+      "drew.strong@acmeinc.com",
+      "mark.miller@acmeinc.com",
+      "lucas.mitchell@acmeinc.com"
+    ],
+    "csat_survey_enabled": false,
+    "csat_config": {
+      "display_type": "star",
+      "message": "How well did we escalate your issue?",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Email - Marketing",
+    "greeting_enabled": true,
+    "greeting_message": "Contact our marketing team with opportunities.",
+    "channel": {
+      "type": "email",
+      "email": "marketing@acmesaas.com",
+      "imap_enabled": true,
+      "imap_address": "imap.acmesaas.com",
+      "imap_port": 993,
+      "imap_login": "marketing@acmesaas.com",
+      "imap_password": "marketingPwd2024!"
+    },
+    "created_at": "2024-12-23T04:37:37.355065",
+    "updated_at": "2025-01-13T05:12:17.115939",
+    "member_emails": [
+      "brian.brown@acmeinc.com",
+      "jessica.freeman@acmeinc.com",
+      "rodney.palmer@acmeinc.com",
+      "richard.davis@acmeinc.com",
+      "joshua.singh@acmeinc.com",
+      "angela.gaines@acmeinc.com",
+      "danielle.mendoza@acmeinc.com",
+      "michelle.contreras@acmeinc.com",
+      "casey.george@acmeinc.com",
+      "jason.martin@acmeinc.com",
+      "brandon.robinson@acmeinc.com",
+      "stephen.owens@acmeinc.com",
+      "christine.martinez@acmeinc.com",
+      "destiny.harrison@acmeinc.com",
+      "lindsey.martin@acmeinc.com",
+      "amanda.henson@acmeinc.com",
+      "sarah.davis@acmeinc.com",
+      "richard.johnson@acmeinc.com",
+      "drew.strong@acmeinc.com",
+      "mark.miller@acmeinc.com"
+    ],
+    "csat_survey_enabled": true,
+    "csat_config": {
+      "display_type": "emoji",
+      "message": "Rate your support experience",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Email - Feedback",
+    "greeting_enabled": true,
+    "greeting_message": "We value your feedback and suggestions.",
+    "channel": {
+      "type": "email",
+      "email": "feedback@acmesaas.com",
+      "imap_enabled": true,
+      "imap_address": "imap.acmesaas.com",
+      "imap_port": 993,
+      "imap_login": "feedback@acmesaas.com",
+      "imap_password": "feedback2024!"
+    },
+    "created_at": "2025-02-11T00:44:22.340336",
+    "updated_at": "2025-03-09T00:23:42.602858",
+    "member_emails": [
+      "joshua.singh@acmeinc.com",
+      "lauren.flowers@acmeinc.com",
+      "amanda.henson@acmeinc.com",
+      "michelle.contreras@acmeinc.com",
+      "casey.george@acmeinc.com",
+      "janet.kelley@acmeinc.com",
+      "lynn.castillo@acmeinc.com",
+      "rachel.mcdowell@acmeinc.com",
+      "sarah.alexander@acmeinc.com",
+      "brian.brown@acmeinc.com",
+      "jason.martin@acmeinc.com",
+      "yvonne.santiago@acmeinc.com",
+      "danielle.mendoza@acmeinc.com",
+      "steven.hill@acmeinc.com",
+      "dillon.hammond@acmeinc.com",
+      "tina.jones@acmeinc.com"
+    ],
+    "csat_survey_enabled": true,
+    "csat_config": {
+      "display_type": "emoji",
+      "message": "How was your experience with our support?",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Email - Events",
+    "greeting_enabled": true,
+    "greeting_message": "Inquire about events and partnership opportunities.",
+    "channel": {
+      "type": "email",
+      "email": "events@acmesaas.com",
+      "imap_enabled": true,
+      "imap_address": "imap.acmesaas.com",
+      "imap_port": 993,
+      "imap_login": "events@acmesaas.com",
+      "imap_password": "events2024Pwd!"
+    },
+    "created_at": "2025-01-24T00:48:18.180762",
+    "updated_at": "2025-01-30T13:10:11.062123",
+    "member_emails": [
+      "jamie.combs@acmeinc.com",
+      "lauren.flowers@acmeinc.com",
+      "lynn.castillo@acmeinc.com",
+      "joshua.singh@acmeinc.com",
+      "brooke.fletcher@acmeinc.com",
+      "deborah.stewart@acmeinc.com",
+      "christine.martinez@acmeinc.com",
+      "lindsey.martin@acmeinc.com",
+      "rachel.mcdowell@acmeinc.com",
+      "destiny.harrison@acmeinc.com",
+      "mark.miller@acmeinc.com",
+      "dillon.hammond@acmeinc.com",
+      "evelyn.garcia@acmeinc.com"
+    ],
+    "csat_survey_enabled": true,
+    "csat_config": {
+      "display_type": "star",
+      "message": "Please rate your experience with our support team",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Email - Billing Inquiries",
+    "greeting_enabled": true,
+    "greeting_message": "Need help with invoices or payments? We're here.",
+    "channel": {
+      "type": "email",
+      "email": "billing@acmesaas.com",
+      "imap_enabled": true,
+      "imap_address": "imap.acmesaas.com",
+      "imap_port": 993,
+      "imap_login": "billing@acmesaas.com",
+      "imap_password": "billingPwd24!"
+    },
+    "created_at": "2025-06-25T13:37:38.380521",
+    "updated_at": "2025-06-28T23:31:15.437119",
+    "member_emails": [
+      "rodney.palmer@acmeinc.com",
+      "destiny.harrison@acmeinc.com",
+      "deborah.stewart@acmeinc.com",
+      "amanda.henson@acmeinc.com",
+      "jessica.freeman@acmeinc.com",
+      "lindsey.martin@acmeinc.com",
+      "michelle.contreras@acmeinc.com",
+      "kimberly.mccormick@acmeinc.com",
+      "andrew.warner@acmeinc.com",
+      "sarah.davis@acmeinc.com",
+      "brandon.robinson@acmeinc.com",
+      "steven.anderson@acmeinc.com",
+      "angela.gaines@acmeinc.com",
+      "steven.hill@acmeinc.com",
+      "richard.davis@acmeinc.com",
+      "nicole.burke@acmeinc.com",
+      "lynn.castillo@acmeinc.com",
+      "natasha.sanders@acmeinc.com",
+      "richard.cline@acmeinc.com",
+      "stephen.owens@acmeinc.com",
+      "tina.jones@acmeinc.com",
+      "alexandra.wu@acmeinc.com"
+    ],
+    "csat_survey_enabled": true,
+    "csat_config": {
+      "display_type": "star",
+      "message": "Your feedback helps us improve - please rate us",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Email - Recruitment",
+    "greeting_enabled": true,
+    "greeting_message": "Apply for a position or contact our hiring team.",
+    "channel": {
+      "type": "email",
+      "email": "recruitment@acmesaas.com",
+      "imap_enabled": true,
+      "imap_address": "imap.acmesaas.com",
+      "imap_port": 993,
+      "imap_login": "recruitment@acmesaas.com",
+      "imap_password": "recruitmentPwd!"
+    },
+    "created_at": "2025-03-10T19:59:01.248019",
+    "updated_at": "2025-07-25T05:38:44.694994",
+    "member_emails": [
+      "kimberly.mccormick@acmeinc.com",
+      "amanda.henson@acmeinc.com",
+      "jamie.combs@acmeinc.com",
+      "rachel.mcdowell@acmeinc.com",
+      "danielle.mendoza@acmeinc.com",
+      "richard.davis@acmeinc.com",
+      "deborah.stewart@acmeinc.com",
+      "steven.anderson@acmeinc.com",
+      "samuel.melendez@acmeinc.com",
+      "steven.hill@acmeinc.com",
+      "sarah.alexander@acmeinc.com",
+      "andrew.warner@acmeinc.com",
+      "jordan.sampson@acmeinc.com",
+      "natasha.sanders@acmeinc.com",
+      "brooke.fletcher@acmeinc.com",
+      "mark.love@acmeinc.com",
+      "jason.martin@acmeinc.com",
+      "richard.johnson@acmeinc.com",
+      "mark.miller@acmeinc.com",
+      "tara.richardson@acmeinc.com"
+    ],
+    "csat_survey_enabled": true,
+    "csat_config": {
+      "display_type": "star",
+      "message": "Your feedback helps us improve - please rate us",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Email - API Integrations",
+    "greeting_enabled": true,
+    "greeting_message": "Integration questions? Connect with our API team.",
+    "channel": {
+      "type": "email",
+      "email": "apiteam@acmesaas.com",
+      "imap_enabled": true,
+      "imap_address": "imap.acmesaas.com",
+      "imap_port": 993,
+      "imap_login": "apiteam@acmesaas.com",
+      "imap_password": "apiTeamPwd!"
+    },
+    "created_at": "2024-11-16T12:09:54.301174",
+    "updated_at": "2025-01-27T22:33:07.155131",
+    "member_emails": [
+      "yvonne.santiago@acmeinc.com",
+      "deborah.stewart@acmeinc.com",
+      "natasha.sanders@acmeinc.com",
+      "theresa.friedman@acmeinc.com",
+      "michelle.contreras@acmeinc.com",
+      "lindsey.martin@acmeinc.com",
+      "rodney.palmer@acmeinc.com",
+      "steven.hill@acmeinc.com",
+      "jamie.combs@acmeinc.com",
+      "steven.anderson@acmeinc.com",
+      "richard.cline@acmeinc.com",
+      "stephen.owens@acmeinc.com",
+      "nicole.burke@acmeinc.com",
+      "richard.davis@acmeinc.com",
+      "sarah.alexander@acmeinc.com",
+      "mark.miller@acmeinc.com",
+      "alexandra.wu@acmeinc.com",
+      "drew.strong@acmeinc.com"
+    ],
+    "csat_survey_enabled": true,
+    "csat_config": {
+      "display_type": "star",
+      "message": "Your feedback helps us improve - please rate us",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "SMS - User Alerts",
+    "greeting_enabled": false,
+    "greeting_message": "",
+    "channel": {
+      "type": "sms",
+      "phone_number": "+11234567890",
+      "provider_config": {
+        "api_key": "apikey-9081",
+        "api_secret": "apisecret-1",
+        "application_id": "app-id-1",
+        "account_id": "sms-acct-1"
+      }
+    },
+    "created_at": "2024-08-04T12:24:00.526872",
+    "updated_at": "2025-01-16T17:56:22.893195",
+    "member_emails": [
+      "theresa.friedman@acmeinc.com",
+      "rodney.palmer@acmeinc.com",
+      "nicole.reeves@acmeinc.com",
+      "kimberly.mccormick@acmeinc.com",
+      "casey.george@acmeinc.com",
+      "mark.love@acmeinc.com",
+      "natasha.sanders@acmeinc.com",
+      "janet.kelley@acmeinc.com",
+      "nicole.burke@acmeinc.com",
+      "deborah.stewart@acmeinc.com",
+      "steven.hill@acmeinc.com",
+      "sarah.davis@acmeinc.com",
+      "joshua.singh@acmeinc.com",
+      "stephen.owens@acmeinc.com",
+      "jordan.sampson@acmeinc.com",
+      "yvonne.santiago@acmeinc.com",
+      "jamie.combs@acmeinc.com",
+      "christine.martinez@acmeinc.com",
+      "steven.anderson@acmeinc.com",
+      "jason.martin@acmeinc.com",
+      "alexandra.wu@acmeinc.com",
+      "evelyn.garcia@acmeinc.com",
+      "richard.johnson@acmeinc.com",
+      "dillon.hammond@acmeinc.com"
+    ],
+    "csat_survey_enabled": true,
+    "csat_config": {
+      "display_type": "star",
+      "message": "Please rate your experience with our support team",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "SMS - Incident Updates",
+    "greeting_enabled": false,
+    "greeting_message": "",
+    "channel": {
+      "type": "sms",
+      "phone_number": "+11234567891",
+      "provider_config": {
+        "api_key": "apikey-9082",
+        "api_secret": "apisecret-2",
+        "application_id": "app-id-2",
+        "account_id": "sms-acct-2"
+      }
+    },
+    "created_at": "2025-02-01T16:11:19.209393",
+    "updated_at": "2025-02-05T13:20:43.549322",
+    "member_emails": [
+      "steven.anderson@acmeinc.com",
+      "laura.west@acmeinc.com",
+      "sarah.davis@acmeinc.com",
+      "theresa.friedman@acmeinc.com",
+      "christine.martinez@acmeinc.com",
+      "brandon.robinson@acmeinc.com",
+      "jason.martin@acmeinc.com",
+      "destiny.harrison@acmeinc.com",
+      "danielle.mendoza@acmeinc.com",
+      "daniel.jennings@acmeinc.com",
+      "angela.gaines@acmeinc.com",
+      "stephen.owens@acmeinc.com",
+      "janet.kelley@acmeinc.com",
+      "joshua.singh@acmeinc.com",
+      "jordan.sampson@acmeinc.com",
+      "nicole.burke@acmeinc.com",
+      "nicole.reeves@acmeinc.com",
+      "rachel.mcdowell@acmeinc.com",
+      "tara.richardson@acmeinc.com",
+      "mark.miller@acmeinc.com",
+      "evelyn.garcia@acmeinc.com",
+      "dillon.hammond@acmeinc.com",
+      "lucas.mitchell@acmeinc.com"
+    ],
+    "csat_survey_enabled": true,
+    "csat_config": {
+      "display_type": "emoji",
+      "message": "Rate your support experience",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "SMS - Renewal Reminders",
+    "greeting_enabled": false,
+    "greeting_message": "",
+    "channel": {
+      "type": "sms",
+      "phone_number": "+11234567892",
+      "provider_config": {
+        "api_key": "apikey-9083",
+        "api_secret": "apisecret-3",
+        "application_id": "app-id-3",
+        "account_id": "sms-acct-3"
+      }
+    },
+    "created_at": "2024-08-21T07:46:46.286649",
+    "updated_at": "2025-04-23T02:26:27.152644",
+    "member_emails": [
+      "sarah.davis@acmeinc.com",
+      "nicole.burke@acmeinc.com",
+      "lauren.flowers@acmeinc.com",
+      "sarah.alexander@acmeinc.com",
+      "casey.george@acmeinc.com",
+      "janet.kelley@acmeinc.com",
+      "brandon.robinson@acmeinc.com",
+      "mark.love@acmeinc.com",
+      "andrew.warner@acmeinc.com",
+      "richard.davis@acmeinc.com",
+      "kimberly.mccormick@acmeinc.com",
+      "christine.martinez@acmeinc.com",
+      "steven.hill@acmeinc.com",
+      "rodney.palmer@acmeinc.com",
+      "natasha.sanders@acmeinc.com",
+      "lindsey.martin@acmeinc.com",
+      "laura.west@acmeinc.com",
+      "yvonne.santiago@acmeinc.com",
+      "lucas.mitchell@acmeinc.com",
+      "dillon.hammond@acmeinc.com",
+      "tara.richardson@acmeinc.com",
+      "tina.jones@acmeinc.com",
+      "wendy.burns@acmeinc.com"
+    ],
+    "csat_survey_enabled": true,
+    "csat_config": {
+      "display_type": "emoji",
+      "message": "Rate your support experience",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "SMS - Transactional Notices",
+    "greeting_enabled": false,
+    "greeting_message": "",
+    "channel": {
+      "type": "sms",
+      "phone_number": "+11234567893",
+      "provider_config": {
+        "api_key": "apikey-9084",
+        "api_secret": "apisecret-4",
+        "application_id": "app-id-4",
+        "account_id": "sms-acct-4"
+      }
+    },
+    "created_at": "2024-08-24T16:47:40.987536",
+    "updated_at": "2024-12-11T04:20:16.240808",
+    "member_emails": [
+      "jamie.combs@acmeinc.com",
+      "andrew.warner@acmeinc.com",
+      "daniel.jennings@acmeinc.com",
+      "christine.martinez@acmeinc.com",
+      "rodney.palmer@acmeinc.com",
+      "brandon.robinson@acmeinc.com",
+      "danielle.mendoza@acmeinc.com",
+      "richard.cline@acmeinc.com",
+      "janet.kelley@acmeinc.com",
+      "destiny.harrison@acmeinc.com",
+      "rachel.mcdowell@acmeinc.com",
+      "laura.west@acmeinc.com",
+      "lynn.castillo@acmeinc.com",
+      "kimberly.mccormick@acmeinc.com",
+      "yvonne.santiago@acmeinc.com",
+      "lucas.mitchell@acmeinc.com",
+      "mark.miller@acmeinc.com",
+      "wendy.burns@acmeinc.com",
+      "tara.richardson@acmeinc.com",
+      "dillon.hammond@acmeinc.com"
+    ],
+    "csat_survey_enabled": true,
+    "csat_config": {
+      "display_type": "emoji",
+      "message": "How did we do today?",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "SMS - Survey Requests",
+    "greeting_enabled": false,
+    "greeting_message": "",
+    "channel": {
+      "type": "sms",
+      "phone_number": "+11234567894",
+      "provider_config": {
+        "api_key": "apikey-9085",
+        "api_secret": "apisecret-5",
+        "application_id": "app-id-5",
+        "account_id": "sms-acct-5"
+      }
+    },
+    "created_at": "2024-12-13T10:13:10.108403",
+    "updated_at": "2025-04-17T07:55:58.409230",
+    "member_emails": [
+      "kimberly.mccormick@acmeinc.com",
+      "brooke.fletcher@acmeinc.com",
+      "mark.love@acmeinc.com",
+      "yvonne.santiago@acmeinc.com",
+      "jessica.freeman@acmeinc.com",
+      "angela.gaines@acmeinc.com",
+      "nicole.burke@acmeinc.com",
+      "amanda.henson@acmeinc.com",
+      "steven.anderson@acmeinc.com",
+      "natasha.sanders@acmeinc.com",
+      "danielle.mendoza@acmeinc.com",
+      "richard.davis@acmeinc.com",
+      "jordan.sampson@acmeinc.com",
+      "laura.west@acmeinc.com",
+      "mark.miller@acmeinc.com",
+      "evelyn.garcia@acmeinc.com"
+    ],
+    "csat_survey_enabled": true,
+    "csat_config": {
+      "display_type": "star",
+      "message": "How would you rate our service?",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "SMS - Order Confirmations",
+    "greeting_enabled": false,
+    "greeting_message": "",
+    "channel": {
+      "type": "sms",
+      "phone_number": "+11234567895",
+      "provider_config": {
+        "api_key": "apikey-9086",
+        "api_secret": "apisecret-6",
+        "application_id": "app-id-6",
+        "account_id": "sms-acct-6"
+      }
+    },
+    "created_at": "2024-08-24T16:57:40.046703",
+    "updated_at": "2024-09-01T00:49:52.187686",
+    "member_emails": [
+      "mark.love@acmeinc.com",
+      "christine.martinez@acmeinc.com",
+      "kimberly.mccormick@acmeinc.com",
+      "richard.cline@acmeinc.com",
+      "steven.anderson@acmeinc.com",
+      "sarah.davis@acmeinc.com",
+      "destiny.harrison@acmeinc.com",
+      "brandon.robinson@acmeinc.com",
+      "natasha.sanders@acmeinc.com",
+      "nicole.reeves@acmeinc.com",
+      "lauren.flowers@acmeinc.com",
+      "jason.martin@acmeinc.com",
+      "daniel.jennings@acmeinc.com",
+      "lynn.castillo@acmeinc.com",
+      "rodney.palmer@acmeinc.com",
+      "jessica.freeman@acmeinc.com",
+      "alexandra.wu@acmeinc.com",
+      "tara.richardson@acmeinc.com"
+    ],
+    "csat_survey_enabled": false,
+    "csat_config": {
+      "display_type": "emoji",
+      "message": "Did your order confirmation reach you promptly?",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "SMS - Service Downtime Alerts",
+    "greeting_enabled": false,
+    "greeting_message": "",
+    "channel": {
+      "type": "sms",
+      "phone_number": "+11234567896",
+      "provider_config": {
+        "api_key": "apikey-9087",
+        "api_secret": "apisecret-7",
+        "application_id": "app-id-7",
+        "account_id": "sms-acct-7"
+      }
+    },
+    "created_at": "2025-03-12T20:16:22.030659",
+    "updated_at": "2025-04-08T11:35:30.743805",
+    "member_emails": [
+      "nicole.burke@acmeinc.com",
+      "steven.hill@acmeinc.com",
+      "lynn.castillo@acmeinc.com",
+      "laura.west@acmeinc.com",
+      "yvonne.santiago@acmeinc.com",
+      "richard.davis@acmeinc.com",
+      "casey.george@acmeinc.com",
+      "danielle.mendoza@acmeinc.com",
+      "jamie.combs@acmeinc.com",
+      "lauren.flowers@acmeinc.com",
+      "natasha.sanders@acmeinc.com",
+      "daniel.jennings@acmeinc.com",
+      "brooke.fletcher@acmeinc.com",
+      "mark.miller@acmeinc.com",
+      "tara.richardson@acmeinc.com",
+      "evelyn.garcia@acmeinc.com",
+      "lucas.mitchell@acmeinc.com"
+    ],
+    "csat_survey_enabled": true,
+    "csat_config": {
+      "display_type": "emoji",
+      "message": "Please rate your satisfaction with our service",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "SMS - Account Alerts",
+    "greeting_enabled": false,
+    "greeting_message": "",
+    "channel": {
+      "type": "sms",
+      "phone_number": "+11234567897",
+      "provider_config": {
+        "api_key": "apikey-9088",
+        "api_secret": "apisecret-8",
+        "application_id": "app-id-8",
+        "account_id": "sms-acct-8"
+      }
+    },
+    "created_at": "2025-04-15T15:01:28.174621",
+    "updated_at": "2025-08-01T06:34:46.904811",
+    "member_emails": [
+      "nicole.burke@acmeinc.com",
+      "andrew.warner@acmeinc.com",
+      "jamie.combs@acmeinc.com",
+      "laura.west@acmeinc.com",
+      "casey.george@acmeinc.com",
+      "amanda.henson@acmeinc.com",
+      "kimberly.mccormick@acmeinc.com",
+      "daniel.jennings@acmeinc.com",
+      "nicole.reeves@acmeinc.com",
+      "lindsey.martin@acmeinc.com",
+      "tara.richardson@acmeinc.com",
+      "tina.jones@acmeinc.com"
+    ],
+    "csat_survey_enabled": true,
+    "csat_config": {
+      "display_type": "star",
+      "message": "Please rate your experience with our support team",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "API - Webhook Orders",
+    "greeting_enabled": false,
+    "greeting_message": "",
+    "channel": {
+      "type": "api",
+      "webhook_url": "https://hooks.acmesaas.com/order-api"
+    },
+    "created_at": "2025-04-24T12:15:49.024873",
+    "updated_at": "2025-05-22T04:11:33.064091",
+    "member_emails": [
+      "angela.gaines@acmeinc.com",
+      "kimberly.mccormick@acmeinc.com",
+      "lynn.castillo@acmeinc.com",
+      "theresa.friedman@acmeinc.com",
+      "jamie.combs@acmeinc.com",
+      "christine.martinez@acmeinc.com",
+      "andrew.warner@acmeinc.com",
+      "casey.george@acmeinc.com",
+      "jessica.freeman@acmeinc.com",
+      "nicole.burke@acmeinc.com",
+      "brooke.fletcher@acmeinc.com",
+      "laura.west@acmeinc.com",
+      "mark.miller@acmeinc.com",
+      "evelyn.garcia@acmeinc.com"
+    ],
+    "csat_survey_enabled": true,
+    "csat_config": {
+      "display_type": "emoji",
+      "message": "We'd love to hear about your experience!",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "API - CRM Integration",
+    "greeting_enabled": false,
+    "greeting_message": "",
+    "channel": {
+      "type": "api",
+      "webhook_url": "https://hooks.acmesaas.com/crm-integration"
+    },
+    "created_at": "2025-05-26T03:58:27.015464",
+    "updated_at": "2025-08-01T01:04:39.791209",
+    "member_emails": [
+      "joshua.singh@acmeinc.com",
+      "michelle.contreras@acmeinc.com",
+      "rodney.palmer@acmeinc.com",
+      "danielle.mendoza@acmeinc.com",
+      "nicole.reeves@acmeinc.com",
+      "brian.brown@acmeinc.com",
+      "lindsey.martin@acmeinc.com",
+      "jamie.combs@acmeinc.com",
+      "deborah.stewart@acmeinc.com",
+      "brandon.robinson@acmeinc.com",
+      "janet.kelley@acmeinc.com",
+      "richard.davis@acmeinc.com",
+      "destiny.harrison@acmeinc.com",
+      "mark.miller@acmeinc.com"
+    ],
+    "csat_survey_enabled": false,
+    "csat_config": {
+      "display_type": "star",
+      "message": "Is the CRM sync working as expected?",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "API - Billing Events",
+    "greeting_enabled": false,
+    "greeting_message": "",
+    "channel": {
+      "type": "api",
+      "webhook_url": "https://hooks.acmesaas.com/billing-api"
+    },
+    "created_at": "2025-05-23T13:09:40.928207",
+    "updated_at": "2025-07-26T11:20:06.509416",
+    "member_emails": [
+      "steven.hill@acmeinc.com",
+      "theresa.friedman@acmeinc.com",
+      "nicole.burke@acmeinc.com",
+      "jason.martin@acmeinc.com",
+      "stephen.owens@acmeinc.com",
+      "angela.gaines@acmeinc.com",
+      "nicole.reeves@acmeinc.com",
+      "joshua.singh@acmeinc.com",
+      "sarah.davis@acmeinc.com",
+      "rodney.palmer@acmeinc.com",
+      "rachel.mcdowell@acmeinc.com",
+      "lucas.mitchell@acmeinc.com"
+    ],
+    "csat_survey_enabled": true,
+    "csat_config": {
+      "display_type": "emoji",
+      "message": "How was your experience with our support?",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "API - Third-Party Alerts",
+    "greeting_enabled": false,
+    "greeting_message": "",
+    "channel": {
+      "type": "api",
+      "webhook_url": "https://hooks.acmesaas.com/alerts-api"
+    },
+    "created_at": "2024-12-19T02:16:56.161544",
+    "updated_at": "2025-05-13T06:41:51.561124",
+    "member_emails": [
+      "andrew.warner@acmeinc.com",
+      "lindsey.martin@acmeinc.com",
+      "lauren.flowers@acmeinc.com",
+      "nicole.reeves@acmeinc.com",
+      "samuel.melendez@acmeinc.com",
+      "theresa.friedman@acmeinc.com",
+      "rachel.mcdowell@acmeinc.com",
+      "brooke.fletcher@acmeinc.com",
+      "nicole.burke@acmeinc.com",
+      "rodney.palmer@acmeinc.com",
+      "yvonne.santiago@acmeinc.com",
+      "brian.brown@acmeinc.com",
+      "jessica.freeman@acmeinc.com",
+      "mark.love@acmeinc.com",
+      "richard.davis@acmeinc.com",
+      "lucas.mitchell@acmeinc.com",
+      "tina.jones@acmeinc.com",
+      "mark.miller@acmeinc.com",
+      "drew.strong@acmeinc.com",
+      "richard.johnson@acmeinc.com"
+    ],
+    "csat_survey_enabled": true,
+    "csat_config": {
+      "display_type": "star",
+      "message": "How many stars would you give our support?",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "API - Customer Data Sync",
+    "greeting_enabled": false,
+    "greeting_message": "",
+    "channel": {
+      "type": "api",
+      "webhook_url": "https://api.acmesaas.com/sync-events"
+    },
+    "created_at": "2024-11-10T21:26:04.963770",
+    "updated_at": "2024-12-02T06:00:59.737289",
+    "member_emails": [
+      "angela.gaines@acmeinc.com",
+      "brian.brown@acmeinc.com",
+      "brooke.fletcher@acmeinc.com",
+      "andrew.warner@acmeinc.com",
+      "richard.cline@acmeinc.com",
+      "destiny.harrison@acmeinc.com",
+      "natasha.sanders@acmeinc.com",
+      "richard.davis@acmeinc.com",
+      "christine.martinez@acmeinc.com",
+      "mark.love@acmeinc.com",
+      "amanda.henson@acmeinc.com",
+      "yvonne.santiago@acmeinc.com",
+      "drew.strong@acmeinc.com",
+      "lucas.mitchell@acmeinc.com",
+      "dillon.hammond@acmeinc.com",
+      "tara.richardson@acmeinc.com",
+      "alexandra.wu@acmeinc.com"
+    ],
+    "csat_survey_enabled": true,
+    "csat_config": {
+      "display_type": "star",
+      "message": "How would you rate our service?",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Live Chat - Customer Support",
+    "greeting_enabled": true,
+    "greeting_message": "Hi there! How can we help you today?",
+    "channel": {
+      "type": "web_widget",
+      "website_url": "https://saasify.io/support",
+      "widget_color": "#01579B",
+      "welcome_title": "SaaSify Support",
+      "welcome_tagline": "We're here to answer your questions!"
+    },
+    "created_at": "2025-02-22T00:58:15.549985",
+    "updated_at": "2025-03-31T04:21:51.450594",
+    "member_emails": [
+      "nicole.reeves@acmeinc.com",
+      "stephen.owens@acmeinc.com",
+      "joshua.singh@acmeinc.com",
+      "kimberly.mccormick@acmeinc.com",
+      "lauren.flowers@acmeinc.com",
+      "samuel.melendez@acmeinc.com",
+      "nicole.burke@acmeinc.com",
+      "sarah.davis@acmeinc.com",
+      "danielle.mendoza@acmeinc.com",
+      "yvonne.santiago@acmeinc.com",
+      "mark.miller@acmeinc.com",
+      "tara.richardson@acmeinc.com",
+      "richard.johnson@acmeinc.com"
+    ],
+    "csat_survey_enabled": true,
+    "csat_config": {
+      "display_type": "emoji",
+      "message": "How was your experience with our support?",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Live Chat - Onboarding Specialists",
+    "greeting_enabled": true,
+    "greeting_message": "Welcome! Need help getting started with SaaSify?",
+    "channel": {
+      "type": "web_widget",
+      "website_url": "https://saasify.io/onboarding",
+      "widget_color": "#3F51B5",
+      "welcome_title": "Onboarding Help",
+      "welcome_tagline": "Let's get you started!"
+    },
+    "created_at": "2025-04-16T06:38:30.067273",
+    "updated_at": "2025-07-31T21:30:55.580974",
+    "member_emails": [
+      "brian.brown@acmeinc.com",
+      "theresa.friedman@acmeinc.com",
+      "sarah.davis@acmeinc.com",
+      "stephen.owens@acmeinc.com",
+      "jordan.sampson@acmeinc.com",
+      "janet.kelley@acmeinc.com",
+      "nicole.burke@acmeinc.com",
+      "joshua.singh@acmeinc.com",
+      "michelle.contreras@acmeinc.com",
+      "jamie.combs@acmeinc.com",
+      "amanda.henson@acmeinc.com",
+      "angela.gaines@acmeinc.com",
+      "tara.richardson@acmeinc.com",
+      "wendy.burns@acmeinc.com",
+      "evelyn.garcia@acmeinc.com",
+      "richard.johnson@acmeinc.com",
+      "tina.jones@acmeinc.com"
+    ],
+    "csat_survey_enabled": true,
+    "csat_config": {
+      "display_type": "star",
+      "message": "Please rate your experience with our support team",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Product Demo Live Chat",
+    "greeting_enabled": true,
+    "greeting_message": "Interested in a product demo? Chat with us here!",
+    "channel": {
+      "type": "web_widget",
+      "website_url": "https://saasify.io/demo",
+      "widget_color": "#E64A19",
+      "welcome_title": "Request a Demo",
+      "welcome_tagline": "Discover our solution interactively"
+    },
+    "created_at": "2025-07-19T11:11:31.766780",
+    "updated_at": "2025-07-28T23:13:52.825315",
+    "member_emails": [
+      "rachel.mcdowell@acmeinc.com",
+      "casey.george@acmeinc.com",
+      "janet.kelley@acmeinc.com",
+      "brian.brown@acmeinc.com",
+      "stephen.owens@acmeinc.com",
+      "andrew.warner@acmeinc.com",
+      "sarah.alexander@acmeinc.com",
+      "lauren.flowers@acmeinc.com",
+      "nicole.burke@acmeinc.com",
+      "danielle.mendoza@acmeinc.com",
+      "dillon.hammond@acmeinc.com"
+    ],
+    "csat_survey_enabled": true,
+    "csat_config": {
+      "display_type": "star",
+      "message": "Rate your satisfaction on a scale of 1-5 stars",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Feature Feedback Widget",
+    "greeting_enabled": true,
+    "greeting_message": "Share your thoughts or suggestions about our features!",
+    "channel": {
+      "type": "web_widget",
+      "website_url": "https://saasify.io/feedback",
+      "widget_color": "#607D8B",
+      "welcome_title": "We Value Feedback",
+      "welcome_tagline": "Help us improve SaaSify"
+    },
+    "created_at": "2024-08-20T02:50:15.693149",
+    "updated_at": "2024-09-01T19:04:05.159225",
+    "member_emails": [
+      "brooke.fletcher@acmeinc.com",
+      "laura.west@acmeinc.com",
+      "theresa.friedman@acmeinc.com",
+      "christine.martinez@acmeinc.com",
+      "amanda.henson@acmeinc.com",
+      "yvonne.santiago@acmeinc.com",
+      "casey.george@acmeinc.com",
+      "nicole.reeves@acmeinc.com",
+      "rodney.palmer@acmeinc.com",
+      "mark.love@acmeinc.com",
+      "rachel.mcdowell@acmeinc.com",
+      "nicole.burke@acmeinc.com",
+      "jason.martin@acmeinc.com",
+      "janet.kelley@acmeinc.com",
+      "joshua.singh@acmeinc.com",
+      "samuel.melendez@acmeinc.com",
+      "daniel.jennings@acmeinc.com",
+      "steven.anderson@acmeinc.com",
+      "wendy.burns@acmeinc.com",
+      "drew.strong@acmeinc.com",
+      "tina.jones@acmeinc.com",
+      "mark.miller@acmeinc.com",
+      "tara.richardson@acmeinc.com"
+    ],
+    "csat_survey_enabled": false,
+    "csat_config": {
+      "display_type": "emoji",
+      "message": "How satisfied are you with sharing your feedback with us?",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Email - Support Requests",
+    "greeting_enabled": false,
+    "greeting_message": "",
+    "channel": {
+      "type": "email",
+      "email": "support@saasify.io",
+      "imap_enabled": false,
+      "imap_address": "imap.saasify.io",
+      "imap_port": 993,
+      "imap_login": "support@saasify.io",
+      "imap_password": "suPP0rtPwd!"
+    },
+    "created_at": "2025-02-22T09:36:54.790605",
+    "updated_at": "2025-04-23T05:09:23.376207",
+    "member_emails": [
+      "christine.martinez@acmeinc.com",
+      "joshua.singh@acmeinc.com",
+      "michelle.contreras@acmeinc.com",
+      "andrew.warner@acmeinc.com",
+      "stephen.owens@acmeinc.com",
+      "casey.george@acmeinc.com",
+      "sarah.davis@acmeinc.com",
+      "laura.west@acmeinc.com",
+      "samuel.melendez@acmeinc.com",
+      "lauren.flowers@acmeinc.com",
+      "amanda.henson@acmeinc.com",
+      "jordan.sampson@acmeinc.com",
+      "deborah.stewart@acmeinc.com",
+      "steven.anderson@acmeinc.com",
+      "sarah.alexander@acmeinc.com",
+      "nicole.reeves@acmeinc.com",
+      "lucas.mitchell@acmeinc.com",
+      "wendy.burns@acmeinc.com",
+      "richard.johnson@acmeinc.com"
+    ],
+    "csat_survey_enabled": false,
+    "csat_config": {
+      "display_type": "star",
+      "message": "We'd love your feedback on our email support.",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Email - Sales Opportunities",
+    "greeting_enabled": false,
+    "greeting_message": "",
+    "channel": {
+      "type": "email",
+      "email": "sales@saasify.io",
+      "imap_enabled": false,
+      "imap_address": "imap.saasify.io",
+      "imap_port": 993,
+      "imap_login": "sales@saasify.io",
+      "imap_password": "sAlesPwd2024"
+    },
+    "created_at": "2025-01-07T11:52:16.437161",
+    "updated_at": "2025-06-10T00:31:13.768343",
+    "member_emails": [
+      "laura.west@acmeinc.com",
+      "lynn.castillo@acmeinc.com",
+      "lauren.flowers@acmeinc.com",
+      "sarah.davis@acmeinc.com",
+      "lindsey.martin@acmeinc.com",
+      "stephen.owens@acmeinc.com",
+      "steven.anderson@acmeinc.com",
+      "amanda.henson@acmeinc.com",
+      "richard.cline@acmeinc.com",
+      "brian.brown@acmeinc.com",
+      "michelle.contreras@acmeinc.com",
+      "casey.george@acmeinc.com",
+      "deborah.stewart@acmeinc.com",
+      "christine.martinez@acmeinc.com",
+      "jamie.combs@acmeinc.com",
+      "natasha.sanders@acmeinc.com",
+      "alexandra.wu@acmeinc.com",
+      "richard.johnson@acmeinc.com",
+      "evelyn.garcia@acmeinc.com"
+    ],
+    "csat_survey_enabled": false,
+    "csat_config": {
+      "display_type": "emoji",
+      "message": "How would you rate your conversation with our sales team?",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Email - Billing & Accounts",
+    "greeting_enabled": false,
+    "greeting_message": "",
+    "channel": {
+      "type": "email",
+      "email": "billing@saasify.io",
+      "imap_enabled": false,
+      "imap_address": "imap.saasify.io",
+      "imap_port": 993,
+      "imap_login": "billing@saasify.io",
+      "imap_password": "2024billAcc!"
+    },
+    "created_at": "2024-11-01T20:05:09.286120",
+    "updated_at": "2024-11-16T02:18:39.498228",
+    "member_emails": [
+      "daniel.jennings@acmeinc.com",
+      "natasha.sanders@acmeinc.com",
+      "steven.anderson@acmeinc.com",
+      "deborah.stewart@acmeinc.com",
+      "andrew.warner@acmeinc.com",
+      "casey.george@acmeinc.com",
+      "brian.brown@acmeinc.com",
+      "laura.west@acmeinc.com",
+      "samuel.melendez@acmeinc.com",
+      "jamie.combs@acmeinc.com",
+      "michelle.contreras@acmeinc.com",
+      "brandon.robinson@acmeinc.com",
+      "yvonne.santiago@acmeinc.com",
+      "rodney.palmer@acmeinc.com",
+      "jessica.freeman@acmeinc.com",
+      "janet.kelley@acmeinc.com",
+      "drew.strong@acmeinc.com",
+      "wendy.burns@acmeinc.com",
+      "tara.richardson@acmeinc.com",
+      "dillon.hammond@acmeinc.com",
+      "tina.jones@acmeinc.com"
+    ],
+    "csat_survey_enabled": true,
+    "csat_config": {
+      "display_type": "emoji",
+      "message": "How was your experience with our support?",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Email - Technical Escalations",
+    "greeting_enabled": false,
+    "greeting_message": "",
+    "channel": {
+      "type": "email",
+      "email": "tech-escalations@saasify.io",
+      "imap_enabled": false,
+      "imap_address": "imap.saasify.io",
+      "imap_port": 993,
+      "imap_login": "tech-escalations@saasify.io",
+      "imap_password": "Tech4YouEsc!"
+    },
+    "created_at": "2025-01-03T06:54:06.520784",
+    "updated_at": "2025-07-01T17:20:49.609121",
+    "member_emails": [
+      "danielle.mendoza@acmeinc.com",
+      "jordan.sampson@acmeinc.com",
+      "angela.gaines@acmeinc.com",
+      "richard.davis@acmeinc.com",
+      "jason.martin@acmeinc.com",
+      "rodney.palmer@acmeinc.com",
+      "lauren.flowers@acmeinc.com",
+      "kimberly.mccormick@acmeinc.com",
+      "janet.kelley@acmeinc.com",
+      "nicole.burke@acmeinc.com",
+      "casey.george@acmeinc.com",
+      "samuel.melendez@acmeinc.com",
+      "dillon.hammond@acmeinc.com",
+      "richard.johnson@acmeinc.com",
+      "evelyn.garcia@acmeinc.com",
+      "tina.jones@acmeinc.com"
+    ],
+    "csat_survey_enabled": true,
+    "csat_config": {
+      "display_type": "star",
+      "message": "Please rate your experience with our support team",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "SMS - Account Alerts",
+    "greeting_enabled": false,
+    "greeting_message": "",
+    "channel": {
+      "type": "sms",
+      "phone_number": "+12125551212",
+      "provider_config": {
+        "api_key": "SMSKEYACC99882",
+        "api_secret": "smssecret99882",
+        "application_id": "APPID1212555",
+        "account_id": "ACCT-112"
+      }
+    },
+    "created_at": "2024-11-15T05:30:25.920405",
+    "updated_at": "2025-01-02T11:33:18.682861",
+    "member_emails": [
+      "theresa.friedman@acmeinc.com",
+      "andrew.warner@acmeinc.com",
+      "lauren.flowers@acmeinc.com",
+      "nicole.reeves@acmeinc.com",
+      "casey.george@acmeinc.com",
+      "jordan.sampson@acmeinc.com",
+      "brandon.robinson@acmeinc.com",
+      "kimberly.mccormick@acmeinc.com",
+      "rachel.mcdowell@acmeinc.com",
+      "christine.martinez@acmeinc.com",
+      "richard.cline@acmeinc.com",
+      "sarah.alexander@acmeinc.com",
+      "lindsey.martin@acmeinc.com",
+      "sarah.davis@acmeinc.com",
+      "destiny.harrison@acmeinc.com",
+      "steven.hill@acmeinc.com",
+      "nicole.burke@acmeinc.com",
+      "brooke.fletcher@acmeinc.com",
+      "mark.miller@acmeinc.com",
+      "lucas.mitchell@acmeinc.com",
+      "wendy.burns@acmeinc.com",
+      "tina.jones@acmeinc.com",
+      "richard.johnson@acmeinc.com"
+    ],
+    "csat_survey_enabled": false,
+    "csat_config": {
+      "display_type": "emoji",
+      "message": "Did our SMS alert help you resolve your account issue?",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "SMS - Service Outage Notifications",
+    "greeting_enabled": false,
+    "greeting_message": "",
+    "channel": {
+      "type": "sms",
+      "phone_number": "+12125550044",
+      "provider_config": {
+        "api_key": "SMSKEYOUTAGE555",
+        "api_secret": "smssecretout55",
+        "application_id": "APPID50044",
+        "account_id": "ACCT-992"
+      }
+    },
+    "created_at": "2025-06-03T09:33:44.646488",
+    "updated_at": "2025-06-12T20:02:05.029837",
+    "member_emails": [
+      "deborah.stewart@acmeinc.com",
+      "stephen.owens@acmeinc.com",
+      "angela.gaines@acmeinc.com",
+      "jason.martin@acmeinc.com",
+      "rachel.mcdowell@acmeinc.com",
+      "richard.cline@acmeinc.com",
+      "amanda.henson@acmeinc.com",
+      "danielle.mendoza@acmeinc.com",
+      "yvonne.santiago@acmeinc.com",
+      "janet.kelley@acmeinc.com",
+      "nicole.burke@acmeinc.com",
+      "sarah.alexander@acmeinc.com",
+      "laura.west@acmeinc.com",
+      "theresa.friedman@acmeinc.com",
+      "andrew.warner@acmeinc.com",
+      "casey.george@acmeinc.com",
+      "kimberly.mccormick@acmeinc.com",
+      "dillon.hammond@acmeinc.com",
+      "alexandra.wu@acmeinc.com",
+      "drew.strong@acmeinc.com",
+      "lucas.mitchell@acmeinc.com",
+      "wendy.burns@acmeinc.com"
+    ],
+    "csat_survey_enabled": true,
+    "csat_config": {
+      "display_type": "star",
+      "message": "Your feedback helps us improve - please rate us",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "SMS - Renewal Reminders",
+    "greeting_enabled": false,
+    "greeting_message": "",
+    "channel": {
+      "type": "sms",
+      "phone_number": "+12125559876",
+      "provider_config": {
+        "api_key": "SMSKEYRENEWAL22",
+        "api_secret": "smssecrenewal22",
+        "application_id": "APPID98976",
+        "account_id": "ACCT-301"
+      }
+    },
+    "created_at": "2024-10-25T21:57:10.399546",
+    "updated_at": "2025-03-15T09:02:03.485715",
+    "member_emails": [
+      "brandon.robinson@acmeinc.com",
+      "jamie.combs@acmeinc.com",
+      "destiny.harrison@acmeinc.com",
+      "richard.cline@acmeinc.com",
+      "natasha.sanders@acmeinc.com",
+      "richard.davis@acmeinc.com",
+      "theresa.friedman@acmeinc.com",
+      "yvonne.santiago@acmeinc.com",
+      "lindsey.martin@acmeinc.com",
+      "angela.gaines@acmeinc.com",
+      "casey.george@acmeinc.com",
+      "christine.martinez@acmeinc.com",
+      "deborah.stewart@acmeinc.com",
+      "danielle.mendoza@acmeinc.com",
+      "wendy.burns@acmeinc.com",
+      "lucas.mitchell@acmeinc.com",
+      "tara.richardson@acmeinc.com",
+      "mark.miller@acmeinc.com",
+      "tina.jones@acmeinc.com"
+    ],
+    "csat_survey_enabled": false,
+    "csat_config": {
+      "display_type": "star",
+      "message": "How satisfied are you with our renewal reminders?",
+      "survey_rules": {
+        "operator": "contains",
+        "values": []
+      }
+    }
+  }
+]
