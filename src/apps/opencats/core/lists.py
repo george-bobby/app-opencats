@@ -3,12 +3,15 @@
 import asyncio
 from typing import Any
 
+from tenacity import retry, stop_after_attempt, wait_fixed
+
 from apps.opencats.config.constants import LISTS_FILEPATH
 from apps.opencats.utils.api_utils import OpenCATSAPIUtils
 from apps.opencats.utils.data_utils import load_existing_data
 from common.logger import logger
 
 
+@retry(stop=stop_after_attempt(3), wait=wait_fixed(2))
 async def seed_lists() -> dict[str, Any]:
     """Seed saved lists data into OpenCATS."""
     logger.info("📋 Starting list seeding...")
@@ -78,6 +81,7 @@ async def seed_lists() -> dict[str, Any]:
     return {"seeded_lists": seeded_count, "errors": error_count, "details": seeded_lists}
 
 
+@retry(stop=stop_after_attempt(3), wait=wait_fixed(2))
 async def add_items_to_list(api: OpenCATSAPIUtils, list_id: int, data_item_type: int, item_ids: list[int]) -> int:
     """Add items to a saved list using AJAX batch operation."""
     if not item_ids:

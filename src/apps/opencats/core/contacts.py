@@ -3,12 +3,15 @@
 import asyncio
 from typing import Any
 
+from tenacity import retry, stop_after_attempt, wait_fixed
+
 from apps.opencats.config.constants import CONTACTS_FILEPATH, OpenCATSEndpoint
 from apps.opencats.utils.api_utils import OpenCATSAPIUtils
 from apps.opencats.utils.data_utils import load_existing_data
 from common.logger import logger
 
 
+@retry(stop=stop_after_attempt(3), wait=wait_fixed(2))
 async def seed_contacts() -> dict[str, Any]:
     """Seed contacts data into OpenCATS."""
     logger.info("👥 Starting contact seeding...")

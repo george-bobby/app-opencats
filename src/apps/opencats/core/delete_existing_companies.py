@@ -3,11 +3,14 @@
 import asyncio
 from typing import Any
 
+from tenacity import retry, stop_after_attempt, wait_fixed
+
 from apps.opencats.config.constants import OpenCATSEndpoint
 from apps.opencats.utils.api_utils import OpenCATSAPIUtils
 from common.logger import logger
 
 
+@retry(stop=stop_after_attempt(3), wait=wait_fixed(2))
 async def delete_existing_companies() -> dict[str, Any]:
     """Delete all existing companies from OpenCATS."""
     logger.info("🗑️ Starting company deletion...")

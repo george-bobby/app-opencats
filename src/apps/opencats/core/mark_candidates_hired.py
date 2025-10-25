@@ -3,11 +3,14 @@
 import asyncio
 from typing import Any
 
+from tenacity import retry, stop_after_attempt, wait_fixed
+
 from apps.opencats.config.constants import OpenCATSEndpoint
 from apps.opencats.utils.api_utils import OpenCATSAPIUtils
 from common.logger import logger
 
 
+@retry(stop=stop_after_attempt(3), wait=wait_fixed(2))
 async def mark_candidates_hired(candidate_ids: list[int] | None = None, job_order_id: int | None = None) -> dict[str, Any]:
     """Mark candidates as hired in OpenCATS.
 
