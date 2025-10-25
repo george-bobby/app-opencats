@@ -158,7 +158,7 @@ async def generate_contacts_batch(used_emails: set, used_names: set, companies: 
                 logger.warning(f"⚠ Invalid contact data: {contact}")
 
         return validated_contacts
-        
+
     except Exception as e:
         logger.error(f"✖ Exception in generate_contacts_batch: {e}")
         logger.error(f"✖ Exception type: {type(e)}")
@@ -251,7 +251,7 @@ async def contacts(n_contacts: int = None) -> dict[str, Any]:
             if batch_contacts:
                 # Reset failure counter on successful batch
                 consecutive_failures = 0
-                
+
                 # Update used identifiers to avoid duplicates
                 for contact in batch_contacts:
                     if contact.get("email1"):
@@ -265,7 +265,7 @@ async def contacts(n_contacts: int = None) -> dict[str, Any]:
             else:
                 consecutive_failures += 1
                 logger.warning(f"⚠ ⚠️ No contacts generated in batch {batch_num + 1}")
-                
+
                 if consecutive_failures >= max_consecutive_failures:
                     logger.error(f"✖ Too many consecutive failures ({consecutive_failures}). Stopping generation.")
                     break
@@ -273,7 +273,7 @@ async def contacts(n_contacts: int = None) -> dict[str, Any]:
         except Exception as e:
             consecutive_failures += 1
             logger.error(f"✖ Error in batch {batch_num + 1}: {e!s}")
-            
+
             if consecutive_failures >= max_consecutive_failures:
                 logger.error(f"✖ Too many consecutive failures ({consecutive_failures}). Stopping generation.")
                 break

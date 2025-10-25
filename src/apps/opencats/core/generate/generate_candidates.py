@@ -9,8 +9,8 @@ from apps.opencats.config.constants import (
     CANDIDATES_BATCH_SIZE,
     CANDIDATES_FILEPATH,
     DEFAULT_CANDIDATES_COUNT,
-    TECH_SKILLS,
     JOB_TITLES,
+    TECH_SKILLS,
 )
 from apps.opencats.config.settings import settings
 from apps.opencats.core.generate.prompts.generate_candidates_prompts import (
@@ -64,6 +64,7 @@ def create_candidates_prompt(used_emails: set, used_names: set, batch_size: int)
 
     # Include realistic job market skills and titles for better data relationships
     import random
+
     relevant_skills = ", ".join(random.sample(TECH_SKILLS, min(15, len(TECH_SKILLS))))
     relevant_titles = ", ".join(random.sample(JOB_TITLES, min(10, len(JOB_TITLES))))
 
@@ -90,7 +91,7 @@ async def generate_candidates_batch(used_emails: set, used_names: set, batch_siz
         # Explicitly access settings values to avoid attribute access issues in retry
         api_key = settings.ANTHROPIC_API_KEY
         model = settings.DEFAULT_MODEL
-        
+
         response = await make_anthropic_request(
             prompt=prompt,
             api_key=api_key,
@@ -119,7 +120,7 @@ async def generate_candidates_batch(used_emails: set, used_names: set, batch_siz
                 logger.warning(f"⚠ Invalid candidate data: {candidate}")
 
         return validated_candidates
-        
+
     except Exception as e:
         logger.error(f"✖ Exception in generate_candidates_batch: {e}")
         logger.error(f"✖ Exception type: {type(e)}")
@@ -247,7 +248,7 @@ async def candidates(n_candidates: int = None) -> dict[str, Any]:
             if batch_candidates:
                 # Reset failure counter on successful batch
                 consecutive_failures = 0
-                
+
                 # Update used identifiers to avoid duplicates
                 for candidate in batch_candidates:
                     if candidate.get("email1"):
@@ -261,7 +262,7 @@ async def candidates(n_candidates: int = None) -> dict[str, Any]:
             else:
                 consecutive_failures += 1
                 logger.warning(f"⚠ ⚠️ No candidates generated in batch {batch_num + 1}")
-                
+
                 if consecutive_failures >= max_consecutive_failures:
                     logger.error(f"✖ Too many consecutive failures ({consecutive_failures}). Stopping generation.")
                     break
@@ -269,7 +270,7 @@ async def candidates(n_candidates: int = None) -> dict[str, Any]:
         except Exception as e:
             consecutive_failures += 1
             logger.error(f"✖ Error in batch {batch_num + 1}: {e!s}")
-            
+
             if consecutive_failures >= max_consecutive_failures:
                 logger.error(f"✖ Too many consecutive failures ({consecutive_failures}). Stopping generation.")
                 break

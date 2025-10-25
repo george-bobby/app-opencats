@@ -3,19 +3,19 @@
 import asyncio
 import random
 from datetime import datetime, timedelta
-from typing import Any, Dict, List
+from typing import Any
 
 from tenacity import retry, stop_after_attempt, wait_exponential
 
 from apps.opencats.config.constants import (
+    DEFAULT_EVENTS_COUNT,
+    EVENT_DESCRIPTIONS,
     EVENTS_BATCH_SIZE,
     EVENTS_FILEPATH,
-    DEFAULT_EVENTS_COUNT,
     OpenCATSEventType,
-    EVENT_DESCRIPTIONS,
 )
 from apps.opencats.config.settings import settings
-from apps.opencats.utils.data_utils import load_existing_data, format_date_for_opencats
+from apps.opencats.utils.data_utils import format_date_for_opencats, load_existing_data
 from common.anthropic_client import make_anthropic_request, parse_anthropic_response, validate_anthropic_config
 from common.logger import logger
 from common.save_to_json import save_to_json
@@ -24,13 +24,13 @@ from common.save_to_json import save_to_json
 def load_existing_events():
     """Load existing events to prevent duplicates."""
     existing_data = load_existing_data(EVENTS_FILEPATH)
-    
+
     used_titles = set()
-    
+
     for event in existing_data:
         if event.get("title"):
             used_titles.add(event["title"].lower())
-    
+
     return {
         "used_titles": used_titles,
         "generated_events": existing_data,
@@ -42,13 +42,13 @@ def generate_date_range():
     today = datetime.now()
     start_date = today - timedelta(days=30)
     end_date = today + timedelta(days=60)
-    
+
     dates = []
     current_date = start_date
     while current_date <= end_date:
         dates.append(current_date.strftime("%m-%d-%y"))
         current_date += timedelta(days=1)
-    
+
     return dates
 
 
@@ -58,26 +58,26 @@ def create_events_prompt(used_titles: set, batch_size: int) -> str:
     if used_titles:
         recent_titles = list(used_titles)[-10:]
         excluded_titles_text = f"\n\nDo not use these event titles (already exist): {', '.join(recent_titles)}"
-    
+
     # Get event types and their descriptions
     event_types_info = []
     for event_type in OpenCATSEventType:
         descriptions = EVENT_DESCRIPTIONS.get(event_type, [])
         sample_descriptions = random.sample(descriptions, min(3, len(descriptions)))
         event_types_info.append(f"{event_type.value}: {event_type.name} (examples: {', '.join(sample_descriptions)})")
-    
+
     event_types_text = "\n".join(event_types_info)
-    
+
     # Generate sample dates
     date_range = generate_date_range()
     sample_dates = random.sample(date_range, min(10, len(date_range)))
-    
+
     prompt = f"""Generate {batch_size} realistic calendar events for {settings.DATA_THEME_SUBJECT}.
 
 Event types and examples:
 {event_types_text}
 
-Use these sample dates (MM-DD-YY format): {', '.join(sample_dates)}
+Use these sample dates (MM-DD-YY format): {", ".join(sample_dates)}
 
 Each event should have:
 - dateAdd: Event date in MM-DD-YY format from the provided samples
@@ -95,15 +95,15 @@ Each event should have:
 - reminderTime: Reminder time in minutes before event (15, 30, 60, 120) if reminder enabled
 
 Return as JSON array.{excluded_titles_text}"""
-    
+
     return prompt
 
 
 @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=4, max=10))
-async def generate_events_batch(used_titles: set, batch_size: int) -> List[Dict[str, Any]]:
+async def generate_events_batch(used_titles: set, batch_size: int) -> list[dict[str, Any]]:
     """Generate a batch of events using AI."""
     prompt = create_events_prompt(used_titles, batch_size)
-    
+
     response = await make_anthropic_request(
         prompt=prompt,
         api_key=settings.ANTHROPIC_API_KEY,
@@ -111,16 +111,16 @@ async def generate_events_batch(used_titles: set, batch_size: int) -> List[Dict[
         max_tokens=4000,
         temperature=0.8,
     )
-    
+
     if not response:
         logger.error("Failed to get response from Anthropic API")
         return []
-    
+
     events_data = parse_anthropic_response(response)
     if not events_data:
         logger.error("Failed to parse events data from API response")
         return []
-    
+
     # Validate and clean the data
     validated_events = []
     for event in events_data:
@@ -130,18 +130,18 @@ async def generate_events_batch(used_titles: set, batch_size: int) -> List[Dict[
             validated_events.append(cleaned_event)
         else:
             logger.warning(f"Invalid event data: {event}")
-    
+
     return validated_events
 
 
-def validate_event_data(event: Dict[str, Any]) -> bool:
+def validate_event_data(event: dict[str, Any]) -> bool:
     """Validate event data structure."""
     required_fields = ["dateAdd", "type", "title"]
-    
+
     for field in required_fields:
         if not event.get(field):
             return False
-    
+
     # Validate event type
     valid_types = [et.value for et in OpenCATSEventType]
     try:
@@ -150,11 +150,11 @@ def validate_event_data(event: Dict[str, Any]) -> bool:
             return False
     except (ValueError, TypeError):
         return False
-    
+
     return True
 
 
-def clean_event_data(event: Dict[str, Any]) -> Dict[str, Any]:
+def clean_event_data(event: dict[str, Any]) -> dict[str, Any]:
     """Clean and format event data."""
     # Ensure all required fields exist with defaults
     cleaned = {
@@ -172,72 +172,72 @@ def clean_event_data(event: Dict[str, Any]) -> Dict[str, Any]:
         "sendEmail": event.get("sendEmail", "").strip() if event.get("reminderToggle") else "",
         "reminderTime": int(event.get("reminderTime", 30)) if event.get("reminderToggle") else "",
     }
-    
+
     return cleaned
 
 
-async def events(n_events: int = None) -> Dict[str, Any]:
+async def events(n_events: int = None) -> dict[str, Any]:
     """Generate events data."""
     target_count = n_events or DEFAULT_EVENTS_COUNT
     logger.info(f"📅 Starting event generation - Target: {target_count}")
-    
+
     # Ensure data directory exists
     settings.DATA_PATH.mkdir(parents=True, exist_ok=True)
-    
+
     # Validate API configuration
     validate_anthropic_config(settings.ANTHROPIC_API_KEY)
-    
+
     # Load existing data
     existing = load_existing_events()
     used_titles = existing["used_titles"]
     generated_events = existing["generated_events"]
-    
+
     current_count = len(generated_events)
     remaining_count = max(0, target_count - current_count)
-    
+
     if remaining_count == 0:
         logger.info(f"✅ Already have {current_count} events, no generation needed")
         return {"events": generated_events}
-    
+
     logger.info(f"📊 Current: {current_count}, Target: {target_count}, Generating: {remaining_count}")
-    
+
     # Generate events in batches
     new_events = []
     batches = (remaining_count + EVENTS_BATCH_SIZE - 1) // EVENTS_BATCH_SIZE
-    
+
     for batch_num in range(batches):
         batch_size = min(EVENTS_BATCH_SIZE, remaining_count - len(new_events))
         logger.info(f"🔄 Generating batch {batch_num + 1}/{batches} ({batch_size} events)")
-        
+
         try:
             batch_events = await generate_events_batch(used_titles, batch_size)
-            
+
             if batch_events:
                 # Update used titles to avoid duplicates
                 for event in batch_events:
                     if event.get("title"):
                         used_titles.add(event["title"].lower())
-                
+
                 new_events.extend(batch_events)
                 logger.info(f"✅ Generated {len(batch_events)} events in batch {batch_num + 1}")
             else:
                 logger.warning(f"⚠️ No events generated in batch {batch_num + 1}")
-                
+
         except Exception as e:
-            logger.error(f"❌ Error in batch {batch_num + 1}: {str(e)}")
+            logger.error(f"❌ Error in batch {batch_num + 1}: {e!s}")
             continue
-        
+
         # Small delay between batches
         if batch_num < batches - 1:
             await asyncio.sleep(1)
-    
+
     # Combine with existing data
     all_events = generated_events + new_events
-    
+
     # Save to file
     if save_to_json(all_events, EVENTS_FILEPATH):
         logger.succeed(f"✅ Event generation completed! Generated {len(new_events)} new events, total: {len(all_events)}")
     else:
         logger.error("❌ Failed to save events data")
-    
+
     return {"events": all_events}
