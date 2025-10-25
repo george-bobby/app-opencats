@@ -142,36 +142,46 @@ Return as JSON array.{companies_info}{excluded_titles_text}"""
 @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=4, max=10))
 async def generate_joborders_batch(used_titles: set, company_contacts: List[Dict], batch_size: int) -> List[Dict[str, Any]]:
     """Generate a batch of job orders using AI."""
-    prompt = create_joborders_prompt(used_titles, company_contacts, batch_size)
-    
-    response = await make_anthropic_request(
-        prompt=prompt,
-        api_key=settings.ANTHROPIC_API_KEY,
-        model=settings.DEFAULT_MODEL,
-        max_tokens=4000,
-        temperature=0.8,
-    )
-    
-    if not response:
-        logger.error("Failed to get response from Anthropic API")
-        return []
-    
-    joborders_data = parse_anthropic_response(response)
-    if not joborders_data:
-        logger.error("Failed to parse job orders data from API response")
-        return []
-    
-    # Validate and clean the data
-    validated_joborders = []
-    for joborder in joborders_data:
-        if validate_joborder_data(joborder):
-            # Clean and format the data
-            cleaned_joborder = clean_joborder_data(joborder)
-            validated_joborders.append(cleaned_joborder)
-        else:
-            logger.warning(f"Invalid job order data: {joborder}")
-    
-    return validated_joborders
+    try:
+        prompt = create_joborders_prompt(used_titles, company_contacts, batch_size)
+        
+        # Explicitly access settings values to avoid attribute access issues in retry
+        api_key = settings.ANTHROPIC_API_KEY
+        model = settings.DEFAULT_MODEL
+        
+        response = await make_anthropic_request(
+            prompt=prompt,
+            api_key=api_key,
+            model=model,
+            max_tokens=4000,
+            temperature=0.8,
+        )
+        
+        if not response:
+            logger.error("✖ Failed to get response from Anthropic API")
+            return []
+        
+        joborders_data = parse_anthropic_response(response)
+        if not joborders_data:
+            logger.error("✖ Failed to parse job orders data from API response")
+            return []
+        
+        # Validate and clean the data
+        validated_joborders = []
+        for joborder in joborders_data:
+            if validate_joborder_data(joborder):
+                # Clean and format the data
+                cleaned_joborder = clean_joborder_data(joborder)
+                validated_joborders.append(cleaned_joborder)
+            else:
+                logger.warning(f"⚠ Invalid job order data: {joborder}")
+        
+        return validated_joborders
+        
+    except Exception as e:
+        logger.error(f"✖ Exception in generate_joborders_batch: {e}")
+        logger.error(f"✖ Exception type: {type(e)}")
+        raise
 
 
 def validate_joborder_data(joborder: Dict[str, Any]) -> bool:

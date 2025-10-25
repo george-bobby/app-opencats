@@ -5,44 +5,50 @@ Focus on creating realistic patterns that reflect actual job market diversity.""
 USER_PROMPT = """Generate {batch_size} realistic candidates for an ATS platform.
 
 IMPORTANT REQUIREMENTS:
-- First name is MANDATORY
-- Last name is MANDATORY
-- Email is MANDATORY
-- Phone is MANDATORY
+- firstName is MANDATORY
+- lastName is MANDATORY
+- email1 is MANDATORY
+- phoneHome, phoneCell, or phoneWork is MANDATORY
 - About {experience_percentage}% should have work experience
 - About {education_percentage}% should have education details
-- Use {variety_factor}% more diverse patterns for large-scale generation{excluded_emails_text}{excluded_names_text}
+- Use {variety_factor}% more diverse patterns for large-scale generation
+
+SKILLS & EXPERIENCE GUIDANCE:
+- Use relevant skills from: {relevant_skills}
+- Align experience with job titles like: {relevant_titles}
+- Make keySkills realistic for the candidate's experience level
+- Consider current market demand for skills when assigning{excluded_emails_text}{excluded_names_text}
 
 Return ONLY a JSON array with this exact structure:
 [
   {{
-    "first_name": "Jennifer",
-    "last_name": "Martinez",
-    "email": "jennifer.martinez@gmail.com",
-    "phone": "(512) 555-0147",
+    "firstName": "Jennifer",
+    "lastName": "Martinez",
+    "email1": "jennifer.martinez@gmail.com",
+    "phoneHome": "(512) 555-0147",
     "address": "123 Main St, Austin, TX 78701",
     "city": "Austin",
     "state": "TX",
     "zip": "78701",
     "source": "Website",
-    "key_skills": "Python, JavaScript, React",
-    "current_employer": "Tech Solutions Inc",
-    "can_relocate": 1,
+    "keySkills": "Python, JavaScript, React, AWS",
+    "currentEmployer": "Tech Solutions Inc",
+    "canRelocate": 1,
     "notes": "Experienced software developer with strong problem-solving skills"
   }},
   {{
-    "first_name": "Alex",
-    "last_name": "Chen",
-    "email": "alex.chen2024@yahoo.com",
-    "phone": "(415) 555-0198",
+    "firstName": "Alex",
+    "lastName": "Chen",
+    "email1": "alex.chen2024@yahoo.com",
+    "phoneCell": "(415) 555-0198",
     "address": null,
     "city": "San Francisco",
     "state": "CA", 
     "zip": null,
     "source": "Referral",
-    "key_skills": null,
-    "current_employer": null,
-    "can_relocate": 0,
+    "keySkills": "Java, Spring, MySQL, DevOps",
+    "currentEmployer": null,
+    "canRelocate": 0,
     "notes": null
   }}
 ]

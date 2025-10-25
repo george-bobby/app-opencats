@@ -123,36 +123,46 @@ Return as JSON array.{companies_info}{excluded_emails_text}{excluded_names_text}
 @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=4, max=10))
 async def generate_contacts_batch(used_emails: set, used_names: set, companies: list[dict], batch_size: int) -> list[dict[str, Any]]:
     """Generate a batch of contacts using AI."""
-    prompt = create_contacts_prompt(used_emails, used_names, companies, batch_size)
+    try:
+        prompt = create_contacts_prompt(used_emails, used_names, companies, batch_size)
 
-    response = await make_anthropic_request(
-        prompt=prompt,
-        api_key=settings.ANTHROPIC_API_KEY,
-        model=settings.DEFAULT_MODEL,
-        max_tokens=4000,
-        temperature=0.8,
-    )
+        # Explicitly access settings values to avoid attribute access issues in retry
+        api_key = settings.ANTHROPIC_API_KEY
+        model = settings.DEFAULT_MODEL
 
-    if not response:
-        logger.error("Failed to get response from Anthropic API")
-        return []
+        response = await make_anthropic_request(
+            prompt=prompt,
+            api_key=api_key,
+            model=model,
+            max_tokens=4000,
+            temperature=0.8,
+        )
 
-    contacts_data = parse_anthropic_response(response)
-    if not contacts_data:
-        logger.error("Failed to parse contacts data from API response")
-        return []
+        if not response:
+            logger.error("✖ Failed to get response from Anthropic API")
+            return []
 
-    # Validate and clean the data
-    validated_contacts = []
-    for contact in contacts_data:
-        if validate_contact_data(contact):
-            # Clean and format the data
-            cleaned_contact = clean_contact_data(contact)
-            validated_contacts.append(cleaned_contact)
-        else:
-            logger.warning(f"Invalid contact data: {contact}")
+        contacts_data = parse_anthropic_response(response)
+        if not contacts_data:
+            logger.error("✖ Failed to parse contacts data from API response")
+            return []
 
-    return validated_contacts
+        # Validate and clean the data
+        validated_contacts = []
+        for contact in contacts_data:
+            if validate_contact_data(contact):
+                # Clean and format the data
+                cleaned_contact = clean_contact_data(contact)
+                validated_contacts.append(cleaned_contact)
+            else:
+                logger.warning(f"⚠ Invalid contact data: {contact}")
+
+        return validated_contacts
+        
+    except Exception as e:
+        logger.error(f"✖ Exception in generate_contacts_batch: {e}")
+        logger.error(f"✖ Exception type: {type(e)}")
+        raise
 
 
 def validate_contact_data(contact: dict[str, Any]) -> bool:
@@ -228,15 +238,20 @@ async def contacts(n_contacts: int = None) -> dict[str, Any]:
     # Generate contacts in batches
     new_contacts = []
     batches = (remaining_count + CONTACTS_BATCH_SIZE - 1) // CONTACTS_BATCH_SIZE
+    consecutive_failures = 0
+    max_consecutive_failures = 3
 
     for batch_num in range(batches):
         batch_size = min(CONTACTS_BATCH_SIZE, remaining_count - len(new_contacts))
-        logger.info(f"🔄 Generating batch {batch_num + 1}/{batches} ({batch_size} contacts)")
+        logger.info(f"ℹ 🔄 Generating batch {batch_num + 1}/{batches} ({batch_size} contacts)")
 
         try:
             batch_contacts = await generate_contacts_batch(used_emails, used_names, companies, batch_size)
 
             if batch_contacts:
+                # Reset failure counter on successful batch
+                consecutive_failures = 0
+                
                 # Update used identifiers to avoid duplicates
                 for contact in batch_contacts:
                     if contact.get("email1"):
@@ -246,12 +261,22 @@ async def contacts(n_contacts: int = None) -> dict[str, Any]:
                         used_names.add(full_name)
 
                 new_contacts.extend(batch_contacts)
-                logger.info(f"✅ Generated {len(batch_contacts)} contacts in batch {batch_num + 1}")
+                logger.info(f"ℹ ✅ Generated {len(batch_contacts)} contacts in batch {batch_num + 1}")
             else:
-                logger.warning(f"⚠️ No contacts generated in batch {batch_num + 1}")
+                consecutive_failures += 1
+                logger.warning(f"⚠ ⚠️ No contacts generated in batch {batch_num + 1}")
+                
+                if consecutive_failures >= max_consecutive_failures:
+                    logger.error(f"✖ Too many consecutive failures ({consecutive_failures}). Stopping generation.")
+                    break
 
         except Exception as e:
-            logger.error(f"❌ Error in batch {batch_num + 1}: {e!s}")
+            consecutive_failures += 1
+            logger.error(f"✖ Error in batch {batch_num + 1}: {e!s}")
+            
+            if consecutive_failures >= max_consecutive_failures:
+                logger.error(f"✖ Too many consecutive failures ({consecutive_failures}). Stopping generation.")
+                break
             continue
 
         # Small delay between batches
@@ -263,8 +288,8 @@ async def contacts(n_contacts: int = None) -> dict[str, Any]:
 
     # Save to file
     if save_to_json(all_contacts, CONTACTS_FILEPATH):
-        logger.succeed(f"✅ Contact generation completed! Generated {len(new_contacts)} new contacts, total: {len(all_contacts)}")
+        logger.succeed(f"✔ ✅ Contact generation completed! Generated {len(new_contacts)} new contacts, total: {len(all_contacts)}")
     else:
-        logger.error("❌ Failed to save contacts data")
+        logger.error("✖ Failed to save contacts data")
 
     return {"contacts": all_contacts}
