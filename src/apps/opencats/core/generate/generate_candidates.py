@@ -13,6 +13,7 @@ from apps.opencats.config.constants import (
 from apps.opencats.config.settings import settings
 from apps.opencats.core.generate.prompts.generate_candidates_prompts import (
     EXCLUDED_EMAILS_TEMPLATE,
+    EXCLUDED_NAMES_TEMPLATE,
     USER_PROMPT,
 )
 from apps.opencats.utils.data_utils import format_date_for_opencats, format_phone_number, load_existing_data
@@ -49,6 +50,11 @@ def create_candidates_prompt(used_emails: set, used_names: set, batch_size: int)
         recent_emails = list(used_emails)[-10:]
         excluded_emails_text = EXCLUDED_EMAILS_TEMPLATE.format(emails_list=", ".join(recent_emails))
 
+    excluded_names_text = ""
+    if used_names:
+        recent_names = list(used_names)[-10:]
+        excluded_names_text = EXCLUDED_NAMES_TEMPLATE.format(names_list=", ".join(recent_names))
+
     # Calculate percentages for variety
     experience_percentage = 80
     education_percentage = 70
@@ -60,6 +66,7 @@ def create_candidates_prompt(used_emails: set, used_names: set, batch_size: int)
         education_percentage=education_percentage,
         variety_factor=variety_factor,
         excluded_emails_text=excluded_emails_text,
+        excluded_names_text=excluded_names_text,
     )
 
     return prompt

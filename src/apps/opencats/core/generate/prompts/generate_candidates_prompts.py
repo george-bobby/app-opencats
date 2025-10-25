@@ -11,7 +11,7 @@ IMPORTANT REQUIREMENTS:
 - Phone is MANDATORY
 - About {experience_percentage}% should have work experience
 - About {education_percentage}% should have education details
-- Use {variety_factor}% more diverse patterns for large-scale generation{excluded_emails_text}
+- Use {variety_factor}% more diverse patterns for large-scale generation{excluded_emails_text}{excluded_names_text}
 
 Return ONLY a JSON array with this exact structure:
 [
@@ -52,3 +52,7 @@ Generate exactly {batch_size} unique candidates with maximum variety and NO repe
 EXCLUDED_EMAILS_TEMPLATE = """
 
 DO NOT USE THESE EMAILS: {emails_list}"""
+
+EXCLUDED_NAMES_TEMPLATE = """
+
+DO NOT USE THESE NAMES: {names_list}"""
