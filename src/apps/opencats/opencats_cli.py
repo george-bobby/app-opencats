@@ -10,12 +10,12 @@ from apps.opencats.core.candidates import seed_candidates
 from apps.opencats.core.companies import seed_companies
 from apps.opencats.core.contacts import seed_contacts
 from apps.opencats.core.events import seed_events
-from apps.opencats.core.generate.generate_candidates import candidates
-from apps.opencats.core.generate.generate_companies import companies
-from apps.opencats.core.generate.generate_contacts import contacts
-from apps.opencats.core.generate.generate_events import events
-from apps.opencats.core.generate.generate_joborders import joborders
-from apps.opencats.core.generate.generate_lists import lists
+from apps.opencats.generate.generate_candidates import candidates
+from apps.opencats.generate.generate_companies import companies
+from apps.opencats.generate.generate_contacts import contacts
+from apps.opencats.generate.generate_events import events
+from apps.opencats.generate.generate_joborders import joborders
+from apps.opencats.generate.generate_lists import lists
 from apps.opencats.core.joborders import seed_joborders
 from apps.opencats.core.lists import seed_lists
 from common.logger import logger
@@ -97,10 +97,14 @@ def generate(
 
     async def async_generate():
         logger.info("🎲 Starting OpenCATS data generation...")
-        logger.info(f"📊 Target counts: companies={n_companies}, contacts={n_contacts}, candidates={n_candidates}")
-        logger.info(f"📊 Target counts: joborders={n_joborders}, events={n_events}, lists={n_lists}")
+        logger.info(f"📊 Target counts: companies={n_companies}")
+        logger.info(f"📊 Target counts: candidates={n_candidates}")
+        logger.info(f"📊 Target counts: contacts={n_contacts}")
+        logger.info(f"📊 Target counts: joborders={n_joborders}")
+        logger.info(f"📊 Target counts: events={n_events}")
+        logger.info(f"📊 Target counts: lists={n_lists}")
 
-        # Generate data in dependency order
+        # Generate data in dependency order for proper mapping
         await companies(n_companies)
         await contacts(n_contacts)
         await candidates(n_candidates)

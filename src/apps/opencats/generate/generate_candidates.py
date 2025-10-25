@@ -13,7 +13,7 @@ from apps.opencats.config.constants import (
     TECH_SKILLS,
 )
 from apps.opencats.config.settings import settings
-from apps.opencats.core.generate.prompts.generate_candidates_prompts import (
+from apps.opencats.generate.prompts.generate_candidates_prompts import (
     EXCLUDED_EMAILS_TEMPLATE,
     EXCLUDED_NAMES_TEMPLATE,
     USER_PROMPT,
