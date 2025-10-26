@@ -174,38 +174,40 @@ postback=postback&firstName=Jordan&lastName=Nguyen&email1=jordan@example.com&pho
 
 ### JSON Equivalent
 
-`{
-"postback": "postback",
-"firstName": "Jordan",
-"middleName": "",
-"lastName": "Nguyen",
-"email1": "jordan@example.com",
-"email2": "",
-"phoneHome": "",
-"phoneCell": "4155550199",
-"phoneWork": "",
-"address": "",
-"city": "San Francisco",
-"state": "CA",
-"zip": "94105",
-"source": "Referral",
-"keySkills": "PHP, MySQL, Linux",
-"dateAvailable": "",
-"currentEmployer": "",
-"canRelocate": 1,
-"currentPay": "",
-"desiredPay": "120000",
-"notes": "",
-"webSite": "",
-"bestTimeToCall": "Afternoons",
-"gender": "",
-"race": 3,
-"veteran": 1,
-"disability": "",
-"textResumeBlock": "",
-"textResumeFilename": "",
-"associatedAttachment": ""
-}`
+```json
+{
+	"postback": "postback",
+	"firstName": "Jordan",
+	"middleName": "",
+	"lastName": "Nguyen",
+	"email1": "jordan@example.com",
+	"email2": "",
+	"phoneHome": "",
+	"phoneCell": "4155550199",
+	"phoneWork": "",
+	"address": "",
+	"city": "San Francisco",
+	"state": "CA",
+	"zip": "94105",
+	"source": "Referral",
+	"keySkills": "PHP, MySQL, Linux",
+	"dateAvailable": "",
+	"currentEmployer": "",
+	"canRelocate": 1,
+	"currentPay": "",
+	"desiredPay": "120000",
+	"notes": "",
+	"webSite": "",
+	"bestTimeToCall": "Afternoons",
+	"gender": "",
+	"race": 3,
+	"veteran": 1,
+	"disability": "",
+	"textResumeBlock": "",
+	"textResumeFilename": "",
+	"associatedAttachment": ""
+}
+```
 
 ## Job Orders
 
