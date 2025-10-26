@@ -11,19 +11,25 @@ This document focuses on POST request payloads and minimal schemas for the core 
 ## Companies
 
 ### Endpoint
+
 - POST `/index.php?m=companies&a=add`
 
 ### Payload
+
 (from `modules/companies/CompaniesUI.php::onAdd`)
+
 - **Required**: `postback` (always "postback"), `name`
 - **Optional**: `address`, `city`, `state`, `zip`, `phone1`, `phone2`, `faxNumber`, `url`, `keyTechnologies`, `notes`, `isHot` (checkbox), `departmentsCSV` (CSV of department names)
 
 ### Validation/Notes
+
 - Phone numbers are normalized where possible.
 - `url` is normalized if parseable.
 
 ### Schema Essentials
+
 (table `company`)
+
 - `company_id` PK
 - `name` (varchar, not null)
 - `address`, `city`, `state`, `zip`
@@ -33,37 +39,42 @@ This document focuses on POST request payloads and minimal schemas for the core 
 - `is_hot` (0/1), `default_company` (0/1)
 
 ### Example Payload
+
 ```
 postback=postback&name=Contoso LLC&address=1 Main St&city=Austin&state=TX&zip=78701&phone1=5125550100&url=https://contoso.example&isHot=1&keyTechnologies=PHP, MySQL&notes=Preferred client
 ```
 
 ### JSON Equivalent
+
 ```json
 {
-  "postback": "postback",
-  "name": "Contoso LLC",
-  "address": "1 Main St",
-  "city": "Austin",
-  "state": "TX",
-  "zip": "78701",
-  "phone1": "5125550100",
-  "phone2": "",
-  "faxNumber": "",
-  "url": "https://contoso.example",
-  "keyTechnologies": "PHP, MySQL",
-  "notes": "Preferred client",
-  "isHot": 1,
-  "departmentsCSV": "Engineering,HR"
+	"postback": "postback",
+	"name": "Contoso LLC",
+	"address": "1 Main St",
+	"city": "Austin",
+	"state": "TX",
+	"zip": "78701",
+	"phone1": "5125550100",
+	"phone2": "",
+	"faxNumber": "",
+	"url": "https://contoso.example",
+	"keyTechnologies": "PHP, MySQL",
+	"notes": "Preferred client",
+	"isHot": 1,
+	"departmentsCSV": "Engineering,HR"
 }
 ```
 
 ## Contacts
 
 ### Endpoint
+
 - POST `/index.php?m=contacts&a=add`
 
 ### Payload
+
 (from `modules/contacts/ContactsUI.php::onAdd`)
+
 - **Required**: `postback` (always "postback"), `companyID`, `firstName`, `lastName`, `title`
 - **Optional**: `department`, `reportsTo`, `email1`, `email2`, `phoneWork`, `phoneCell`, `phoneOther`, `address`, `city`, `state`, `zip`, `isHot` (checkbox), `notes`, `departmentsCSV`
 
@@ -74,7 +85,9 @@ postback=postback&name=Contoso LLC&address=1 Main St&city=Austin&state=TX&zip=78
 - `departmentsCSV` updates the company's department list on submit.
 
 ### Schema Essentials
+
 (table `contact`)
+
 - `contact_id` PK
 - `company_id` FK, `site_id`
 - `first_name`, `last_name`, `title`
@@ -85,42 +98,47 @@ postback=postback&name=Contoso LLC&address=1 Main St&city=Austin&state=TX&zip=78
 - `reports_to`, `company_department_id`
 
 ### Example Payload
+
 ```
 postback=postback&companyID=2&firstName=Pat&lastName=Lee&title=HR Manager&email1=pat.lee@example.com&phoneWork=2125550134&address=99 West St&city=NYC&state=NY&zip=10001&isHot=0&notes=Primary contact
 ```
 
 ### JSON Equivalent
+
 ```json
 {
-  "postback": "postback",
-  "companyID": 2,
-  "firstName": "Pat",
-  "lastName": "Lee",
-  "title": "HR Manager",
-  "department": "",
-  "reportsTo": "",
-  "email1": "pat.lee@example.com",
-  "email2": "",
-  "phoneWork": "2125550134",
-  "phoneCell": "",
-  "phoneOther": "",
-  "address": "99 West St",
-  "city": "NYC",
-  "state": "NY",
-  "zip": "10001",
-  "isHot": 0,
-  "notes": "Primary contact",
-  "departmentsCSV": ""
+	"postback": "postback",
+	"companyID": 2,
+	"firstName": "Pat",
+	"lastName": "Lee",
+	"title": "HR Manager",
+	"department": "",
+	"reportsTo": "",
+	"email1": "pat.lee@example.com",
+	"email2": "",
+	"phoneWork": "2125550134",
+	"phoneCell": "",
+	"phoneOther": "",
+	"address": "99 West St",
+	"city": "NYC",
+	"state": "NY",
+	"zip": "10001",
+	"isHot": 0,
+	"notes": "Primary contact",
+	"departmentsCSV": ""
 }
 ```
 
 ## Candidates
 
 ### Endpoint
+
 - POST `/index.php?m=candidates&a=add`
 
 ### Payload
+
 (from `modules/candidates/CandidatesUI.php::_addCandidate`)
+
 - **Required**: `postback` (always "postback"), `firstName`, `lastName`
 - **Optional**: `middleName`, `email1`, `email2`, `phoneHome`, `phoneCell`, `phoneWork`, `address`, `city`, `state`, `zip`, `source`, `keySkills`, `dateAvailable` (MM-DD-YY), `currentEmployer`, `canRelocate` (checkbox), `currentPay`, `desiredPay`, `notes`, `webSite`, `bestTimeToCall`, `gender`, `race` (EEO ethnic type id), `veteran` (EEO veteran type id), `disability`
 - **Resume options**:
@@ -130,12 +148,15 @@ postback=postback&companyID=2&firstName=Pat&lastName=Lee&title=HR Manager&email1
   - Associate existing attachment: `associatedAttachment` (attachmentID)
 
 ### Validation/Notes
+
 - `dateAvailable` must be MM-DD-YY; stored as YYYY-MM-DD.
 - `canRelocate` and `isHot` are checkboxes; if present and truthy → 1.
 - EEO fields map to `candidate.eeo_*` columns: `race` and `veteran` expect integer IDs; `gender` and `disability` are stored as short strings.
 
 ### Schema Essentials
+
 (table `candidate`)
+
 - `candidate_id` PK, `site_id`
 - `first_name`, `middle_name`, `last_name`
 - `email1`, `email2`; `phone_home`, `phone_cell`, `phone_work`
@@ -146,11 +167,13 @@ postback=postback&companyID=2&firstName=Pat&lastName=Lee&title=HR Manager&email1
 - `eeo_ethnic_type_id`, `eeo_veteran_type_id`, `eeo_disability_status`, `eeo_gender`
 
 ### Example Payload
+
 ```
 postback=postback&firstName=Jordan&lastName=Nguyen&email1=jordan@example.com&phoneCell=4155550199&city=San Francisco&state=CA&zip=94105&source=Referral&keySkills=PHP, MySQL, Linux&canRelocate=1&desiredPay=120000&bestTimeToCall=Afternoons
 ```
 
 ### JSON Equivalent
+
 `{
 "postback": "postback",
 "firstName": "Jordan",
@@ -187,21 +210,27 @@ postback=postback&firstName=Jordan&lastName=Nguyen&email1=jordan@example.com&pho
 ## Job Orders
 
 ### Endpoint
+
 - POST `/index.php?m=joborders&a=add`
 
 ### Payload
+
 (from `modules/joborders/JobOrdersUI.php::onAdd`)
+
 - **Required**: `postback` (always "postback"), `companyID`, `recruiter`, `owner`, `openings`, `contactID` (optional but validated), `title`, `type`, `city`, `state`
 - **Optional**: `companyJobID`, `duration`, `department`, `maxRate`, `salary`, `description`, `notes`, `isHot` (checkbox), `public` (checkbox), `startDate` (MM-DD-YY), `questionnaire` (ID or 'none' if not used)
 
 ### Validation/Notes
+
 - `openings` must be numeric.
 - `startDate` if present must be MM-DD-YY; stored as YYYY-MM-DD.
 - `type` is a code from JobOrderTypes: C (Contract), C2H (Contract To Hire), FL (Freelance), H (Hire).
 - `public` may optionally include questionnaireID when enabled.
 
 ### Schema Essentials
+
 (table `joborder`)
+
 - `joborder_id` PK
 - `recruiter`, `owner`; `contact_id`, `company_id`
 - `client_job_id`, `title` (not null), `type` (varchar code)
@@ -212,53 +241,61 @@ postback=postback&firstName=Jordan&lastName=Nguyen&email1=jordan@example.com&pho
 - `entered_by`, `site_id`, `date_created`, `date_modified`
 
 ### Example Payload
+
 ```
 postback=postback&companyID=2&contactID=3&recruiter=1&owner=1&openings=2&title=Senior PHP Developer&type=H&city=Austin&state=TX&salary=130000&isHot=1&public=1&description=Build and maintain ATS features.
 ```
 
 ### JSON Equivalent
+
 ```json
 {
-  "postback": "postback",
-  "companyID": 2,
-  "contactID": 3,
-  "recruiter": 1,
-  "owner": 1,
-  "openings": 2,
-  "title": "Senior PHP Developer",
-  "companyJobID": "",
-  "type": "H",
-  "city": "Austin",
-  "state": "TX",
-  "duration": "",
-  "department": "",
-  "maxRate": "",
-  "salary": "130000",
-  "description": "Build and maintain ATS features.",
-  "notes": "",
-  "isHot": 1,
-  "public": 1,
-  "startDate": "",
-  "questionnaire": "none"
+	"postback": "postback",
+	"companyID": 2,
+	"contactID": 3,
+	"recruiter": 1,
+	"owner": 1,
+	"openings": 2,
+	"title": "Senior PHP Developer",
+	"companyJobID": "",
+	"type": "H",
+	"city": "Austin",
+	"state": "TX",
+	"duration": "",
+	"department": "",
+	"maxRate": "",
+	"salary": "130000",
+	"description": "Build and maintain ATS features.",
+	"notes": "",
+	"isHot": 1,
+	"public": 1,
+	"startDate": "",
+	"questionnaire": "none"
 }
 ```
 
 ## Events (Calendar)
 
 ### Endpoint
+
 - POST `/index.php?m=calendar&a=addEvent`
 
 ### Payload
+
 (from `modules/calendar/CalendarUI.php::onAddEvent`)
+
 - **Required**: `postback` (always "postback"), `dateAdd` (MM-DD-YY), `type` (event type id), `title`
 - **Optional**: `duration` (minutes, default 30), `allDay` (0/1), `hour`, `minute`, `meridiem` (AM|PM) when timed, `publicEntry` (checkbox), `reminderToggle` (checkbox), `sendEmail` (email), `reminderTime` (int minutes), `description`
 
 ### Validation/Notes
+
 - If `allDay=1`, time fields are ignored and event stored with date at 12:00AM.
 - Event type ids (`calendar_event_type`): 100 Call, 200 Email, 300 Meeting, 400 Interview, 500 Personal, 600 Other.
 
 ### Schema Essentials
+
 (table `calendar_event`)
+
 - `calendar_event_id` PK
 - `type`, `date` (datetime), `title`, `description`
 - `all_day` (0/1), `duration`, `reminder_enabled` (0/1), `reminder_email`, `reminder_time`
@@ -266,44 +303,50 @@ postback=postback&companyID=2&contactID=3&recruiter=1&owner=1&openings=2&title=S
 - `date_created`, `date_modified`
 
 ### Example Payload
+
 ```
 postback=postback&dateAdd=10-31-25&allDay=0&type=300&hour=2&minute=30&meridiem=PM&title=Client kickoff&description=Meet with Contoso stakeholders&publicEntry=1&reminderToggle=1&sendEmail=me@example.com&reminderTime=30
 ```
 
 ### JSON Equivalent
+
 ```json
 {
-  "postback": "postback",
-  "dateAdd": "10-31-25",
-  "type": 300,
-  "duration": 30,
-  "allDay": 0,
-  "hour": 2,
-  "minute": 30,
-  "meridiem": "PM",
-  "publicEntry": 1,
-  "reminderToggle": 1,
-  "sendEmail": "me@example.com",
-  "reminderTime": 30,
-  "title": "Client kickoff",
-  "description": "Meet with Contoso stakeholders"
+	"postback": "postback",
+	"dateAdd": "10-31-25",
+	"type": 300,
+	"duration": 30,
+	"allDay": 0,
+	"hour": 2,
+	"minute": 30,
+	"meridiem": "PM",
+	"publicEntry": 1,
+	"reminderToggle": 1,
+	"sendEmail": "me@example.com",
+	"reminderTime": 30,
+	"title": "Client kickoff",
+	"description": "Meet with Contoso stakeholders"
 }
 ```
 
 ## Lists (Saved Lists)
 
 ### Entry Points
+
 (all via POST to `/ajax.php` with `f` specifying the list function)
 
 - **`f=lists:newList`**
+
   - `description` (list name)
   - `dataItemType` (int; 100 Candidate, 200 Company, 300 Contact, 400 Job Order)
 
 - **`f=lists:editListName`**
+
   - `savedListID` (int)
   - `savedListName` (string)
 
 - **`f=lists:deleteList`**
+
   - `savedListID` (int)
 
 - **`f=lists:addToLists`**
@@ -312,36 +355,41 @@ postback=postback&dateAdd=10-31-25&allDay=0&type=300&hour=2&minute=30&meridiem=P
   - `dataItemType` (int; see mapping above)
 
 ### Validation/Notes
+
 - All IDs must be digits; server rejects invalid elements.
 - `addToLists` batches inserts in chunks for performance.
 
 ### Schema Essentials
+
 - **`saved_list`**: `saved_list_id` PK, `description`, `data_item_type`, `site_id`, `is_dynamic`, `number_entries`, `datagrid_instance`, `parameters`, `created_by`, `date_created`, `date_modified`
 - **`saved_list_entry`**: `saved_list_entry_id` PK, `saved_list_id`, `data_item_type`, `data_item_id`, `site_id`, `date_created`
 - **`data_item_type`**: 100 Candidate, 200 Company, 300 Contact, 400 Job Order
 
 ### Example Payloads
+
 - **Create list**: `f=lists:newList&description=Hot Candidates&dataItemType=100`
 - **Add entries**: `f=lists:addToLists&listsToAdd=5&itemsToAdd=12,18,27&dataItemType=100`
 
 ### JSON Equivalents
 
 **Create list**
+
 ```json
 {
-  "f": "lists:newList",
-  "description": "Hot Candidates",
-  "dataItemType": 100
+	"f": "lists:newList",
+	"description": "Hot Candidates",
+	"dataItemType": 100
 }
 ```
 
 **Add entries**
+
 ```json
 {
-  "f": "lists:addToLists",
-  "listsToAdd": "5",
-  "itemsToAdd": "12,18,27",
-  "dataItemType": 100
+	"f": "lists:addToLists",
+	"listsToAdd": "5",
+	"itemsToAdd": "12,18,27",
+	"dataItemType": 100
 }
 ```
 
@@ -391,10 +439,12 @@ postback=postback&dateAdd=10-31-25&allDay=0&type=300&hour=2&minute=30&meridiem=P
 Endpoints are GET and produce graphs or PDFs; useful to verify seeded data.
 
 ### Job Order Recruiting Summary PDF
+
 - **GET** `/index.php?m=reports&a=generateJobOrderReportPDF`
 - **Params**: `siteName`, `companyName`, `jobOrderName`, `periodLine`, `accountManager`, `recruiter`, `notes`, `dataSet` (CSV; defaults to 4,3,2,1)
 
 ### EEO Report Preview (graphs and stats)
+
 - **GET** `/index.php?m=reports&a=generateEEOReportPreview`
 - **Params**: `period` (week|month|all), `status` (rejected|placed|all)
 
@@ -433,6 +483,7 @@ A reusable script lives at `test/seed/script.ps1`. It:
 - Creates a Saved List and adds the Candidate to it
 
 ### Usage
+
 (PowerShell 5.1 on Windows)
 
 ```powershell
@@ -447,4 +498,5 @@ Set-ExecutionPolicy -Scope Process Bypass
 - **OwnerId/RecruiterId**: User IDs for ownership and recruiting (defaults to 1)
 
 ### Outputs
+
 Prints created IDs (`companyID`, `contactID`, `candidateID`, `jobOrderID`, `savedListID`) and HTTP status for each step.
