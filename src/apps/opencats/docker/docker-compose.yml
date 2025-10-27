@@ -1,4 +1,3 @@
-version: '2'
 services:
   opencats:
     container_name: opencats_web
@@ -21,7 +20,7 @@ services:
     container_name: opencats_data
     image: busybox
     volumes:
-      - ..:/var/www/public
+      - ../www:/var/www/public
     command: 'true'
 
   opencatsdb:

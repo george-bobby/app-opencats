@@ -14,8 +14,8 @@ class AppConfig(BaseSettings):
 
     # OpenCATS API Configuration
     OPENCATS_API_URL: str = "http://localhost:80"
-    OPENCATS_ADMIN_EMAIL: str = "john@mycompany.net"
-    OPENCATS_ADMIN_PASSWORD: str = "john99"
+    OPENCATS_ADMIN_EMAIL: str = "admin"
+    OPENCATS_ADMIN_PASSWORD: str = "admin"
     OPENCATS_SITE_NAME: str = "CATS"
 
     # OpenCATS User Configuration
