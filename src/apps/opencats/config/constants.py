@@ -65,6 +65,21 @@ class OpenCATSEEOVeteranType(Enum):
     ELIGIBLE_AND_DISABLED = 4
 
 
+class OpenCATSCandidateJobOrderStatus(Enum):
+    """Candidate-Job Order relationship statuses."""
+
+    NO_CONTACT = 100
+    CONTACTED = 200
+    SUBMITTED = 300
+    APPLIED = 400
+    INTERVIEWING = 500
+    OFFER_EXTENDED = 600
+    OFFER_ACCEPTED = 700
+    OFFER_DECLINED = 800
+    PLACED = 900
+    REJECTED = 1000
+
+
 # Random seed for consistent data generation
 RANDOM_SEED = 42
 

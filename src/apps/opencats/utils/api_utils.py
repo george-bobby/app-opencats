@@ -265,6 +265,16 @@ class OpenCATSAPIUtils:
             # Map endpoint to edit URL pattern and form data
             endpoint_name = endpoint.name.lower() if hasattr(endpoint, 'name') else str(endpoint).lower()
             
+            # Handle special cases where endpoint names don't match the URL mapping
+            if endpoint_name == "companies_add":
+                endpoint_name = "companies"
+            elif endpoint_name == "contacts_add":
+                endpoint_name = "contacts"
+            elif endpoint_name == "candidates_add":
+                endpoint_name = "candidates"
+            elif endpoint_name == "joborders_add":
+                endpoint_name = "joborders"
+            
             url_map = {
                 "candidates": f"/index.php?m=candidates&a=edit&candidateID={item_id}",
                 "companies": f"/index.php?m=companies&a=edit&companyID={item_id}", 

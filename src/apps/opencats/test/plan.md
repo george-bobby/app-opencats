@@ -399,42 +399,115 @@ postback=postback&dateAdd=10-31-25&allDay=0&type=300&hour=2&minute=30&meridiem=P
 
 ### Calendar Event Types
 
-| ID  | Description |
-| --- | ----------- |
-| 100 | Call        |
-| 200 | Email       |
-| 300 | Meeting     |
-| 400 | Interview   |
-| 500 | Personal    |
-| 600 | Other       |
+| ID  | Description | Enum Value                    |
+| --- | ----------- | ----------------------------- |
+| 100 | Call        | `OpenCATSEventType.CALL`      |
+| 200 | Email       | `OpenCATSEventType.EMAIL`     |
+| 300 | Meeting     | `OpenCATSEventType.MEETING`   |
+| 400 | Interview   | `OpenCATSEventType.INTERVIEW` |
+| 500 | Personal    | `OpenCATSEventType.PERSONAL`  |
+| 600 | Other       | `OpenCATSEventType.OTHER`     |
 
 ### List Data Item Types
 
-| ID  | Description |
-| --- | ----------- |
-| 100 | Candidate   |
-| 200 | Company     |
-| 300 | Contact     |
-| 400 | Job Order   |
+| ID  | Description | Enum Value                       |
+| --- | ----------- | -------------------------------- |
+| 100 | Candidate   | `OpenCATSDataItemType.CANDIDATE` |
+| 200 | Company     | `OpenCATSDataItemType.COMPANY`   |
+| 300 | Contact     | `OpenCATSDataItemType.CONTACT`   |
+| 400 | Job Order   | `OpenCATSDataItemType.JOB_ORDER` |
+
+### Job Order Types
+
+| Code | Description      | Enum Value                         |
+| ---- | ---------------- | ---------------------------------- |
+| C    | Contract         | `OpenCATSJobType.CONTRACT`         |
+| C2H  | Contract to Hire | `OpenCATSJobType.CONTRACT_TO_HIRE` |
+| FL   | Freelance        | `OpenCATSJobType.FREELANCE`        |
+| H    | Hire             | `OpenCATSJobType.HIRE`             |
 
 ### EEO Ethnic Types
 
-| ID  | Type                      |
-| --- | ------------------------- |
-| 1   | American Indian           |
-| 2   | Asian or Pacific Islander |
-| 3   | Hispanic or Latino        |
-| 4   | Non-Hispanic Black        |
-| 5   | Non-Hispanic White        |
+| ID  | Type                      | Enum Value                                     |
+| --- | ------------------------- | ---------------------------------------------- |
+| 1   | American Indian           | `OpenCATSEEOEthnicType.AMERICAN_INDIAN`        |
+| 2   | Asian or Pacific Islander | `OpenCATSEEOEthnicType.ASIAN_PACIFIC_ISLANDER` |
+| 3   | Hispanic or Latino        | `OpenCATSEEOEthnicType.HISPANIC_LATINO`        |
+| 4   | Non-Hispanic Black        | `OpenCATSEEOEthnicType.NON_HISPANIC_BLACK`     |
+| 5   | Non-Hispanic White        | `OpenCATSEEOEthnicType.NON_HISPANIC_WHITE`     |
 
 ### EEO Veteran Types
 
-| ID  | Type                  |
-| --- | --------------------- |
-| 1   | No Veteran Status     |
-| 2   | Eligible Veteran      |
-| 3   | Disabled Veteran      |
-| 4   | Eligible and Disabled |
+| ID  | Type                  | Enum Value                                     |
+| --- | --------------------- | ---------------------------------------------- |
+| 1   | No Veteran Status     | `OpenCATSEEOVeteranType.NO_VETERAN_STATUS`     |
+| 2   | Eligible Veteran      | `OpenCATSEEOVeteranType.ELIGIBLE_VETERAN`      |
+| 3   | Disabled Veteran      | `OpenCATSEEOVeteranType.DISABLED_VETERAN`      |
+| 4   | Eligible and Disabled | `OpenCATSEEOVeteranType.ELIGIBLE_AND_DISABLED` |
+
+### Candidate-Job Order Status
+
+| ID   | Stage          | Enum Value                                       | Description                            |
+| ---- | -------------- | ------------------------------------------------ | -------------------------------------- |
+| 100  | No Contact     | `OpenCATSCandidateJobOrderStatus.NO_CONTACT`     | Candidate identified but not contacted |
+| 200  | Contacted      | `OpenCATSCandidateJobOrderStatus.CONTACTED`      | Initial contact made                   |
+| 300  | Submitted      | `OpenCATSCandidateJobOrderStatus.SUBMITTED`      | Resume submitted to client             |
+| 400  | Applied        | `OpenCATSCandidateJobOrderStatus.APPLIED`        | Candidate applied for position         |
+| 500  | Interviewing   | `OpenCATSCandidateJobOrderStatus.INTERVIEWING`   | In interview process                   |
+| 600  | Offer Extended | `OpenCATSCandidateJobOrderStatus.OFFER_EXTENDED` | Job offer sent to candidate            |
+| 700  | Offer Accepted | `OpenCATSCandidateJobOrderStatus.OFFER_ACCEPTED` | Candidate accepted offer               |
+| 800  | Offer Declined | `OpenCATSCandidateJobOrderStatus.OFFER_DECLINED` | Candidate declined offer               |
+| 900  | Placed         | `OpenCATSCandidateJobOrderStatus.PLACED`         | Candidate successfully placed          |
+| 1000 | Rejected       | `OpenCATSCandidateJobOrderStatus.REJECTED`       | Candidate rejected or withdrew         |
+
+---
+
+## Data Generation Order & Relationships
+
+### While Installing
+
+1. **Database Host** : opencatsdb
+2. **Database Name** : cats
+3. **Database User** : dev
+4. **Database Password** : dev
+
+### Generation Sequence
+
+1. **Companies** → Base entities (foundation for all other data)
+2. **Contacts** → Linked to companies via `companyID`
+3. **Candidates** → Independent entities with realistic skills matching job market
+4. **Job Orders** → Linked to companies and contacts
+5. **Candidate-Job Order Associations** → Many-to-many relationships between candidates and job orders
+6. **Events** → Can reference any of the above entities
+7. **Lists** → Can contain any entity type (candidates, companies, contacts, job orders)
+
+### Key Relationships
+
+#### Direct Relationships
+
+- **Contacts** → **Companies**: `contact.companyID` references `company.id`
+  - Each contact belongs to one company
+- **Job Orders** → **Companies**: `joborder.companyID` references `company.id`
+  - Each job order belongs to one company
+- **Job Orders** → **Contacts**: `joborder.contactID` references `contact.id`
+  - Each job order has a primary contact person
+
+#### Many-to-Many Relationships
+
+- **Candidates** ↔ **Job Orders**: Through `candidate_joborder` junction table
+  - `candidate_joborder.candidate_id` references `candidate.id`
+  - `candidate_joborder.joborder_id` references `joborder.id`
+  - `candidate_joborder.status` indicates pipeline stage (100-1000)
+  - One candidate can apply to multiple job orders
+  - One job order can have multiple candidates
+  - Typical association: 1-8 candidates per job order
+
+#### Flexible Relationships
+
+- **Events** → **Any Entity**: `event.dataItemType` + `event.dataItemID` references any entity
+  - Can reference candidates, companies, contacts, or job orders
+- **Lists** → **Any Entity**: `list.dataItemType` + `list.dataItemID` references any entity
+  - Can contain candidates (100), companies (200), contacts (300), or job orders (400)
 
 ## Reports (Read-Only Parameters)
 
@@ -502,18 +575,3 @@ Set-ExecutionPolicy -Scope Process Bypass
 ### Outputs
 
 Prints created IDs (`companyID`, `contactID`, `candidateID`, `jobOrderID`, `savedListID`) and HTTP status for each step.
-
-🏗️ Data Generation Order & Relationships:
-Companies → Base entities
-Contacts → Linked to companies via companyID
-Candidates → Now use realistic skills matching job market
-Job Orders → Linked to companies and contacts
-Events → Can reference any of the above
-Lists → Can contain any entity type
-
-When you go through the installer now:
-
-Database Host: opencatsdb
-Database Name: cats
-Database User: dev
-Database Password: dev

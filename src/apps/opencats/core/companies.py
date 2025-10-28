@@ -109,9 +109,13 @@ async def update_companies_billing_contacts() -> dict[str, Any]:
                 # For now, we'll use a placeholder approach since we'd need to track the actual IDs
                 # In a real implementation, you'd store the mapping during the contacts seeding
                 
+                # For now, we'll use the contact's ID from our generated data
+                # In a real implementation, you'd need to track the actual OpenCATS contact IDs
+                contact_id = billing_contact.get("contactID", company_id)
+                
                 # Prepare update data for company
                 update_data = {
-                    "billingContact": company_id,  # This would be the actual contact ID from OpenCATS
+                    "billingContact": contact_id,  # Use the contact ID, not company ID
                     "postback": "postback"
                 }
 

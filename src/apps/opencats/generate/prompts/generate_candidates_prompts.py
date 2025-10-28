@@ -31,7 +31,9 @@ SKILLS & EXPERIENCE GUIDANCE:
 - Use relevant skills from: {relevant_skills}
 - Align experience with job titles like: {relevant_titles}
 - Make keySkills realistic for the candidate's experience level
-- Consider current market demand for skills when assigning{excluded_emails_text}{excluded_names_text}
+- Consider current market demand for skills when assigning
+- IMPORTANT: Candidates will be matched to job orders, so ensure skills align with common tech positions
+- Mix of junior, mid-level, and senior candidates to match various job levels{excluded_emails_text}{excluded_names_text}
 
 Return ONLY a JSON array with this exact structure:
 [
