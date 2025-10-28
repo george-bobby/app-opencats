@@ -502,3 +502,18 @@ Set-ExecutionPolicy -Scope Process Bypass
 ### Outputs
 
 Prints created IDs (`companyID`, `contactID`, `candidateID`, `jobOrderID`, `savedListID`) and HTTP status for each step.
+
+🏗️ Data Generation Order & Relationships:
+Companies → Base entities
+Contacts → Linked to companies via companyID
+Candidates → Now use realistic skills matching job market
+Job Orders → Linked to companies and contacts
+Events → Can reference any of the above
+Lists → Can contain any entity type
+
+When you go through the installer now:
+
+Database Host: opencatsdb
+Database Name: cats
+Database User: dev
+Database Password: dev
