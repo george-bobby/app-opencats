@@ -20,7 +20,7 @@ services:
     container_name: opencats_data
     image: busybox
     volumes:
-      - ../www:/var/www/public
+      - ../test/www:/var/www/public
     command: 'true'
 
   opencatsdb:
