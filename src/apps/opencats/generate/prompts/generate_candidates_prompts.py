@@ -8,10 +8,24 @@ IMPORTANT REQUIREMENTS:
 - firstName is MANDATORY
 - lastName is MANDATORY
 - email1 is MANDATORY
-- phoneHome, phoneCell, or phoneWork is MANDATORY
+- phoneHome, phoneCell, or phoneWork is MANDATORY (at least one phone number)
 - About {experience_percentage}% should have work experience
 - About {education_percentage}% should have education details
 - Use {variety_factor}% more diverse patterns for large-scale generation
+
+CONTACT INFORMATION (MUST POPULATE):
+- phoneCell: Cell phone number (85% chance - IMPORTANT: populate frequently)
+- phoneWork: Work phone number (70% chance - IMPORTANT: populate frequently)
+- webSite: Personal/professional website (50% chance)
+- bestTimeToCall: Best time to contact (80% chance - examples: "9 AM - 5 PM", "After 6 PM", "Weekends preferred")
+
+EMPLOYMENT DETAILS (MUST POPULATE):
+- isHot: 1 for high-priority candidates (25% chance), 0 otherwise
+- canRelocate: 1 if willing to relocate (60% chance), 0 otherwise
+- dateAvailable: Date available for work in MM-DD-YY format (80% chance)
+- currentEmployer: Current company name (70% chance for employed candidates)
+- currentPay: Current annual salary as number (60% chance for employed - examples: "75000", "120000")
+- desiredPay: Desired annual salary as number (90% chance - examples: "85000", "140000")
 
 SKILLS & EXPERIENCE GUIDANCE:
 - Use relevant skills from: {relevant_skills}
@@ -26,30 +40,45 @@ Return ONLY a JSON array with this exact structure:
     "lastName": "Martinez",
     "email1": "jennifer.martinez@gmail.com",
     "phoneHome": "(512) 555-0147",
+    "phoneCell": "(512) 555-0148",
+    "phoneWork": "(512) 555-0149",
     "address": "123 Main St, Austin, TX 78701",
     "city": "Austin",
     "state": "TX",
     "zip": "78701",
     "source": "Website",
     "keySkills": "Python, JavaScript, React, AWS",
+    "dateAvailable": "12-01-24",
     "currentEmployer": "Tech Solutions Inc",
     "canRelocate": 1,
-    "notes": "Experienced software developer with strong problem-solving skills"
+    "currentPay": "95000",
+    "desiredPay": "110000",
+    "notes": "Experienced software developer with strong problem-solving skills",
+    "webSite": "https://jennifer-martinez.dev",
+    "bestTimeToCall": "9 AM - 5 PM",
+    "isHot": 1
   }},
   {{
     "firstName": "Alex",
     "lastName": "Chen",
     "email1": "alex.chen2024@yahoo.com",
     "phoneCell": "(415) 555-0198",
+    "phoneWork": null,
     "address": null,
     "city": "San Francisco",
     "state": "CA", 
     "zip": null,
     "source": "Referral",
     "keySkills": "Java, Spring, MySQL, DevOps",
+    "dateAvailable": "01-15-25",
     "currentEmployer": null,
     "canRelocate": 0,
-    "notes": null
+    "currentPay": null,
+    "desiredPay": "120000",
+    "notes": null,
+    "webSite": null,
+    "bestTimeToCall": "After 6 PM",
+    "isHot": 0
   }}
 ]
 

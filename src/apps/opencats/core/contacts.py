@@ -96,6 +96,9 @@ def prepare_contact_form_data(contact: dict[str, Any]) -> dict[str, str]:
     if contact.get("isHot"):
         form_data["isHot"] = "1"
 
+    # Note: isBillingContact is handled separately in post-processing
+    # since it requires updating the company record after the contact is created
+
     # Remove empty values to avoid issues
     form_data = {k: v for k, v in form_data.items() if v}
 

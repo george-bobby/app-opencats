@@ -53,11 +53,13 @@ def load_companies_for_contacts():
     # Create a list of companies with their IDs (simulated as index + 1)
     companies_with_ids = []
     for idx, company in enumerate(companies_data):
+        departments_csv = company.get("departmentsCSV", "") or ""
+        departments = departments_csv.split(",") if departments_csv else []
         companies_with_ids.append(
             {
                 "id": idx + 1,  # Simulated company ID
-                "name": company.get("name", ""),
-                "departments": company.get("departmentsCSV", "").split(",") if company.get("departmentsCSV") else [],
+                "name": company.get("name", "") or "",
+                "departments": departments,
             }
         )
 
@@ -95,17 +97,19 @@ def create_contacts_prompt(used_emails: set, used_names: set, companies: list[di
 Use these job titles: {job_titles_list}
 Use these departments: {departments_list}
 
+IMPORTANT: For each company, create at least one senior-level contact (like Manager, Director, VP, etc.) who will serve as the billing contact person.
+
 Each contact should have:
 - companyID: Company ID from the provided list (required)
 - firstName: First name
 - lastName: Last name  
 - title: Job title from the provided list
 - department: Department name (optional, 70% chance)
-- reportsTo: Name of manager (optional, 40% chance)
+- reportsTo: Name of manager (IMPORTANT: for non-senior roles, set this to the name of a senior person in the same company)
 - email1: Primary business email (firstname.lastname@company.com format)
 - email2: Secondary email (optional, 20% chance)
 - phoneWork: Work phone number in format (XXX) XXX-XXXX
-- phoneCell: Cell phone number (optional, 60% chance)
+- phoneCell: Cell phone number (80% chance - IMPORTANT: populate this field frequently)
 - phoneOther: Other phone number (optional, 15% chance)
 - address: Business address
 - city: City name
@@ -114,6 +118,12 @@ Each contact should have:
 - isHot: 1 for important contacts (25% chance), 0 otherwise
 - notes: Brief note about the contact's role or importance (1 sentence)
 - departmentsCSV: Relevant departments for the company (optional)
+- isBillingContact: 1 for the first/senior contact of each company (will be billing contact), 0 for others
+
+BILLING CONTACT LOGIC:
+- First contact created for each company should have isBillingContact: 1
+- All other contacts for the same company should have isBillingContact: 0
+- Non-billing contacts should have their reportsTo field set to the billing contact's name
 
 Return as JSON array.{companies_info}{excluded_emails_text}{excluded_names_text}"""
 
@@ -134,7 +144,7 @@ async def generate_contacts_batch(used_emails: set, used_names: set, companies: 
             prompt=prompt,
             api_key=api_key,
             model=model,
-            max_tokens=4000,
+            max_tokens=8000,
             temperature=0.8,
         )
 
@@ -177,23 +187,24 @@ def clean_contact_data(contact: dict[str, Any]) -> dict[str, Any]:
     # Ensure all required fields exist with defaults
     cleaned = {
         "companyID": int(contact.get("companyID", 1)),
-        "firstName": contact.get("firstName", "").strip(),
-        "lastName": contact.get("lastName", "").strip(),
-        "title": contact.get("title", "").strip(),
-        "department": contact.get("department", "").strip(),
-        "reportsTo": contact.get("reportsTo", "").strip(),
-        "email1": contact.get("email1", "").strip().lower(),
-        "email2": contact.get("email2", "").strip().lower(),
+        "firstName": (contact.get("firstName") or "").strip(),
+        "lastName": (contact.get("lastName") or "").strip(),
+        "title": (contact.get("title") or "").strip(),
+        "department": (contact.get("department") or "").strip(),
+        "reportsTo": (contact.get("reportsTo") or "").strip(),
+        "email1": (contact.get("email1") or "").strip().lower(),
+        "email2": (contact.get("email2") or "").strip().lower(),
         "phoneWork": format_phone_number(contact.get("phoneWork", "")),
         "phoneCell": format_phone_number(contact.get("phoneCell", "")),
         "phoneOther": format_phone_number(contact.get("phoneOther", "")),
-        "address": contact.get("address", "").strip(),
-        "city": contact.get("city", "").strip(),
-        "state": contact.get("state", "").strip().upper(),
-        "zip": contact.get("zip", "").strip(),
+        "address": (contact.get("address") or "").strip(),
+        "city": (contact.get("city") or "").strip(),
+        "state": (contact.get("state") or "").strip().upper(),
+        "zip": (contact.get("zip") or "").strip(),
         "isHot": 1 if contact.get("isHot") else 0,
-        "notes": contact.get("notes", "").strip(),
-        "departmentsCSV": contact.get("departmentsCSV", "").strip(),
+        "notes": (contact.get("notes") or "").strip(),
+        "departmentsCSV": (contact.get("departmentsCSV") or "").strip(),
+        "isBillingContact": 1 if contact.get("isBillingContact") else 0,
     }
 
     return cleaned

@@ -7,17 +7,17 @@ from pathlib import Path
 import click
 
 from apps.opencats.core.candidates import seed_candidates
-from apps.opencats.core.companies import seed_companies
+from apps.opencats.core.companies import seed_companies, update_companies_billing_contacts
 from apps.opencats.core.contacts import seed_contacts
 from apps.opencats.core.events import seed_events
+from apps.opencats.core.joborders import create_candidate_job_associations, seed_joborders
+from apps.opencats.core.lists import seed_lists
 from apps.opencats.generate.generate_candidates import candidates
 from apps.opencats.generate.generate_companies import companies
 from apps.opencats.generate.generate_contacts import contacts
 from apps.opencats.generate.generate_events import events
 from apps.opencats.generate.generate_joborders import joborders
 from apps.opencats.generate.generate_lists import lists
-from apps.opencats.core.joborders import seed_joborders
-from apps.opencats.core.lists import seed_lists
 from common.logger import logger
 
 
@@ -68,8 +68,16 @@ def seed():
         # Seed data in dependency order
         await seed_companies()
         await seed_contacts()
+        
+        # Update companies with billing contact assignments
+        await update_companies_billing_contacts()
+        
         await seed_candidates()
         await seed_joborders()
+        
+        # Create candidate-job associations
+        await create_candidate_job_associations()
+        
         await seed_events()
         await seed_lists()
 

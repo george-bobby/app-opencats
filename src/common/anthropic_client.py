@@ -149,10 +149,22 @@ def parse_anthropic_response(response_data: dict[str, Any]) -> list[dict] | None
                         if bracket_count == 0:
                             potential_ends.append(i + 1)
             
-            json_end = potential_ends[-1] if potential_ends else text_content.rfind("]") + 1
+            if potential_ends:
+                json_end = potential_ends[-1]
+            else:
+                # Last resort: find the last ] in the text
+                last_bracket = text_content.rfind("]")
+                if last_bracket > json_start:
+                    json_end = last_bracket + 1
+                else:
+                    json_end = -1
         
-        if json_end <= json_start:
+        if json_end == -1 or json_end <= json_start:
             logger.error("✖ No valid JSON array ending found")
+            logger.debug(f"🐛 JSON extraction failed: json_start={json_start}, json_end={json_end}")
+            # Log a snippet to help with debugging
+            snippet = text_content[json_start:json_start+200] + "..." if len(text_content) > json_start + 200 else text_content[json_start:]
+            logger.debug(f"🐛 Text snippet from json_start: {snippet}")
             return None
 
         json_str = text_content[json_start:json_end]

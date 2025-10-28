@@ -65,8 +65,8 @@ Each company should have:
 - state: 2-letter US state code
 - zip: 5-digit ZIP code
 - phone1: Primary phone number in format (XXX) XXX-XXXX
-- phone2: Secondary phone (optional, 30% chance)
-- faxNumber: Fax number (optional, 20% chance)
+- phone2: Secondary phone number in format (XXX) XXX-XXXX (70% chance - IMPORTANT: populate this field frequently)
+- faxNumber: Fax number in format (XXX) XXX-XXXX (60% chance - IMPORTANT: populate this field frequently)
 - url: Company website URL (https://companyname.com format)
 - keyTechnologies: 2-4 relevant technologies from the list, comma-separated
 - notes: Brief description of what the company does (1-2 sentences)

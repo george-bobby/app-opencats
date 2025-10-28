@@ -96,7 +96,7 @@ async def generate_candidates_batch(used_emails: set, used_names: set, batch_siz
             prompt=prompt,
             api_key=api_key,
             model=model,
-            max_tokens=4000,
+            max_tokens=8000,
             temperature=0.8,
         )
 
@@ -160,6 +160,7 @@ def clean_candidate_data(candidate: dict[str, Any]) -> dict[str, Any]:
         "notes": candidate.get("notes", "").strip() if candidate.get("notes") else "",
         "webSite": candidate.get("webSite", "").strip() if candidate.get("webSite") else "",
         "bestTimeToCall": candidate.get("bestTimeToCall", "").strip() if candidate.get("bestTimeToCall") else "",
+        "isHot": 1 if candidate.get("isHot") else 0,
         "gender": candidate.get("gender", "").strip().upper() if candidate.get("gender") else "",
         "race": validate_eeo_ethnic_type(candidate.get("race")),
         "veteran": validate_eeo_veteran_type(candidate.get("veteran")),

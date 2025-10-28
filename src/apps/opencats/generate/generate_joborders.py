@@ -133,6 +133,12 @@ Each job order should have:
 - public: 1 for public job postings (70% chance), 0 otherwise
 - startDate: Desired start date in MM-DD-YY format (optional, 50% chance)
 - questionnaire: "none" (default)
+- status: "Active" for 70% of jobs, "Inactive" for 30% (IMPORTANT: vary this field)
+- isInternal: 1 for internal postings (20% chance), 0 for external postings
+- candidatesCount: Number of candidates applied (0-15, vary this realistically)
+- submittedCount: Number of candidates submitted (0-8, should be <= candidatesCount)
+- daysOld: Number of days since posting (1-90, vary this realistically)
+- createdDateTime: Created date/time in DD-MM-YY (HH:MM AM/PM) format (vary dates within last 3 months)
 
 Return as JSON array.{companies_info}{excluded_titles_text}"""
 
@@ -231,6 +237,12 @@ def clean_joborder_data(joborder: dict[str, Any]) -> dict[str, Any]:
         "public": 1 if joborder.get("public") else 0,
         "startDate": format_date_for_opencats(joborder.get("startDate", "")),
         "questionnaire": joborder.get("questionnaire", "none").strip(),
+        "status": joborder.get("status", "Active").strip(),
+        "isInternal": 1 if joborder.get("isInternal") else 0,
+        "candidatesCount": int(joborder.get("candidatesCount", 0)),
+        "submittedCount": int(joborder.get("submittedCount", 0)),
+        "daysOld": int(joborder.get("daysOld", 1)),
+        "createdDateTime": joborder.get("createdDateTime", "").strip(),
     }
 
     return cleaned

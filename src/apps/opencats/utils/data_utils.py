@@ -81,11 +81,14 @@ def merge_data(existing_data: list[dict[str, Any]], new_data: list[dict[str, Any
     return existing_data + new_data
 
 
-def format_phone_number(phone: str) -> str:
+def format_phone_number(phone: str | None) -> str:
     """Format phone number for OpenCATS."""
-    if not phone:
+    if not phone or phone is None:
         return ""
 
+    # Convert to string in case it's not
+    phone = str(phone)
+    
     # Remove all non-digit characters
     digits = "".join(filter(str.isdigit, phone))
 
@@ -100,11 +103,14 @@ def format_phone_number(phone: str) -> str:
         return phone
 
 
-def format_date_for_opencats(date_str: str) -> str:
+def format_date_for_opencats(date_str: str | None) -> str:
     """Format date string for OpenCATS (MM-DD-YY format)."""
-    if not date_str:
+    if not date_str or date_str is None:
         return ""
 
+    # Convert to string in case it's not
+    date_str = str(date_str)
+    
     try:
         # If date is in YYYY-MM-DD format, convert to MM-DD-YY
         if len(date_str) == 10 and date_str.count("-") == 2:

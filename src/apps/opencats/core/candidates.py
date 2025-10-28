@@ -104,6 +104,9 @@ def prepare_candidate_form_data(candidate: dict[str, Any]) -> dict[str, str]:
     # Handle checkboxes and numeric fields
     if candidate.get("canRelocate"):
         form_data["canRelocate"] = "1"
+        
+    if candidate.get("isHot"):
+        form_data["isHot"] = "1"
 
     # Handle EEO fields (only include if they have valid values)
     if candidate.get("race") and candidate.get("race") != 0:
