@@ -99,20 +99,36 @@ JOBORDERS_FILEPATH = settings.DATA_PATH / JOBORDERS_FILENAME
 EVENTS_FILEPATH = settings.DATA_PATH / EVENTS_FILENAME
 LISTS_FILEPATH = settings.DATA_PATH / LISTS_FILENAME
 
+# Database tables that contain seeded data (to be cleared, not system/user tables)
+# Order matters: clear dependent tables first to avoid foreign key constraint issues
+SEEDED_TABLES = [
+    "saved_list_entry",  # Entries in saved lists
+    "saved_list",  # Saved lists themselves
+    "calendar_event",  # Calendar events
+    "attachment",  # Attachments for candidates/companies
+    "candidate_joborder",  # Candidate-job associations
+    "candidate_joborder_status_history",  # Job status history
+    "joborder",  # Job orders
+    "candidate",  # Candidates
+    "contact",  # Contacts
+    "company",  # Companies
+    "activity",  # Activity entries
+]
+
 # Default counts for data generation
-DEFAULT_COMPANIES_COUNT = 5
-DEFAULT_CONTACTS_COUNT = 15
-DEFAULT_CANDIDATES_COUNT = 20
-DEFAULT_JOBORDERS_COUNT = 8
-DEFAULT_EVENTS_COUNT = 10
-DEFAULT_LISTS_COUNT = 1
+DEFAULT_COMPANIES_COUNT = 10
+DEFAULT_CONTACTS_COUNT = 20
+DEFAULT_CANDIDATES_COUNT = 15
+DEFAULT_JOBORDERS_COUNT = 20
+DEFAULT_EVENTS_COUNT = 15
+DEFAULT_LISTS_COUNT = 5
 
 # Batch sizes for data generation
-COMPANIES_BATCH_SIZE = 10
-CONTACTS_BATCH_SIZE = 10
-CANDIDATES_BATCH_SIZE = 12
-JOBORDERS_BATCH_SIZE = 10
-EVENTS_BATCH_SIZE = 15
+COMPANIES_BATCH_SIZE = 5
+CONTACTS_BATCH_SIZE = 5
+CANDIDATES_BATCH_SIZE = 5
+JOBORDERS_BATCH_SIZE = 5
+EVENTS_BATCH_SIZE = 5
 LISTS_BATCH_SIZE = 5
 
 # US states and cities for address generation

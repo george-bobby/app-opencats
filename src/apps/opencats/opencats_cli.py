@@ -6,9 +6,18 @@ from pathlib import Path
 
 import click
 
+from apps.opencats.config.constants import (
+    DEFAULT_CANDIDATES_COUNT,
+    DEFAULT_COMPANIES_COUNT,
+    DEFAULT_CONTACTS_COUNT,
+    DEFAULT_EVENTS_COUNT,
+    DEFAULT_JOBORDERS_COUNT,
+    DEFAULT_LISTS_COUNT,
+)
 from apps.opencats.core.candidates import seed_candidates
 from apps.opencats.core.companies import seed_companies, update_companies_billing_contacts
 from apps.opencats.core.contacts import seed_contacts
+from apps.opencats.core.database import clear_seeded_data
 from apps.opencats.core.events import seed_events
 from apps.opencats.core.joborders import create_candidate_job_associations, seed_joborders
 from apps.opencats.core.lists import seed_lists
@@ -58,6 +67,18 @@ def down():
 
 
 @opencats_cli.command()
+def clear():
+    """Clear only the seeded data, preserving users and system tables"""
+
+    async def async_clear_data():
+        """Async function to clear seeded data"""
+        logger.info("🧹 Starting seeded data cleanup...")
+        await clear_seeded_data()
+
+    asyncio.run(async_clear_data())
+
+
+@opencats_cli.command()
 def seed():
     """Seed OpenCATS with generated data"""
 
@@ -87,12 +108,12 @@ def seed():
 
 
 @opencats_cli.command()
-@click.option("--n-companies", type=int, default=50, help="Number of companies to generate")
-@click.option("--n-contacts", type=int, default=150, help="Number of contacts to generate")
-@click.option("--n-candidates", type=int, default=200, help="Number of candidates to generate")
-@click.option("--n-joborders", type=int, default=75, help="Number of job orders to generate")
-@click.option("--n-events", type=int, default=100, help="Number of calendar events to generate")
-@click.option("--n-lists", type=int, default=20, help="Number of saved lists to generate")
+@click.option("--n-companies", type=int, default=DEFAULT_COMPANIES_COUNT, help="Number of companies to generate")
+@click.option("--n-contacts", type=int, default=DEFAULT_CONTACTS_COUNT, help="Number of contacts to generate")
+@click.option("--n-candidates", type=int, default=DEFAULT_CANDIDATES_COUNT, help="Number of candidates to generate")
+@click.option("--n-joborders", type=int, default=DEFAULT_JOBORDERS_COUNT, help="Number of job orders to generate")
+@click.option("--n-events", type=int, default=DEFAULT_EVENTS_COUNT, help="Number of calendar events to generate")
+@click.option("--n-lists", type=int, default=DEFAULT_LISTS_COUNT, help="Number of saved lists to generate")
 def generate(
     n_companies: int,
     n_contacts: int,
