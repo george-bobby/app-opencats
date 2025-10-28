@@ -125,19 +125,21 @@ async def seed_candidate_joborder() -> dict[str, Any]:
                 date_submitted = (datetime.now() - timedelta(days=days_ago)).strftime("%Y-%m-%d")
 
                 try:
-                    # Create association using AJAX endpoint
-                    # OpenCATS uses the pipeline to add candidates to job orders
-                    association_data = {
-                        "candidateID": str(candidate_id),
-                        "jobOrderID": str(joborder_id),
-                        "status": str(status_id),
-                    }
-
-                    # Use the pipeline addition AJAX function
-                    result = await api.ajax_request("candidates:addToPipeline", association_data)
+                    # Create association using the correct GET endpoint
+                    # Based on nginx log: GET /index.php?m=joborders&a=addToPipeline&getback=getback&jobOrderID=17&candidateID=15
+                    association_url = f"/index.php?m=joborders&a=addToPipeline&getback=getback&jobOrderID={joborder_id}&candidateID={candidate_id}"
+                    
+                    # Make GET request to add candidate to pipeline
+                    result = await api.get_request(association_url)
 
                     if result and result.get("status_code") == 200:
                         logger.info(f"✅ Associated candidate '{candidate_name}' (ID: {candidate_id}) with job '{joborder_title}' (ID: {joborder_id}) - Status: {status_name} ({status_id})")
+                        
+                        # Now update the status if it's not the default
+                        if status_id != 100:  # If not "No Contact" status
+                            # Update the pipeline status using AJAX or form submission
+                            await api.update_pipeline_status(candidate_id, joborder_id, status_id)
+                        
                         associations.append(
                             {
                                 "candidate_id": candidate_id,

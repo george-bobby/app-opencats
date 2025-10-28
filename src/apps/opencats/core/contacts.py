@@ -88,7 +88,7 @@ async def update_contacts_reports_to() -> dict[str, Any]:
 
     # Group contacts by company and identify billing contacts
     contacts_by_company = {}
-    billing_contacts_by_company = {}
+    billing_contacts_info = {}  # company_id -> contact info
     
     for contact in contacts_data:
         company_id = contact.get("companyID")
@@ -101,17 +101,21 @@ async def update_contacts_reports_to() -> dict[str, Any]:
             contacts_by_company[company_id].append(contact)
             
             if is_billing:
-                billing_contacts_by_company[company_id] = contact_name
+                billing_contacts_info[company_id] = {
+                    "name": contact_name,
+                    "firstName": contact.get("firstName"),
+                    "lastName": contact.get("lastName")
+                }
 
     logger.info(f"📊 Found {len(contacts_by_company)} companies with contacts")
-    logger.info(f"📊 Found {len(billing_contacts_by_company)} companies with billing contacts")
+    logger.info(f"📊 Found {len(billing_contacts_info)} companies with billing contacts")
 
     updated_count = 0
     error_count = 0
     updated_contacts = []
 
     async with OpenCATSAPIUtils() as api:
-        # Get all seeded contacts from OpenCATS to get their actual IDs
+        # Get all seeded contacts from OpenCATS
         logger.info("📊 Fetching seeded contacts from OpenCATS...")
         seeded_contacts = await api.get_all_items("contacts")
         
@@ -119,107 +123,125 @@ async def update_contacts_reports_to() -> dict[str, Any]:
             logger.error("❌ Could not retrieve contacts from OpenCATS")
             return {"updated_contacts": 0, "errors": 1}
 
-        # Create a mapping of contact names and company IDs to actual OpenCATS contact IDs
+        logger.info(f"✅ Retrieved {len(seeded_contacts)} contacts from OpenCATS")
+
+        # Create a lookup for contacts: (firstName, lastName, companyID) -> contactID
         contact_lookup = {}
         for contact in seeded_contacts:
-            contact_name = f"{contact.get('firstName', '')} {contact.get('lastName', '')}".strip()
+            first_name = contact.get("firstName", "").strip()
+            last_name = contact.get("lastName", "").strip()
             company_id = contact.get("companyID")
-            key = (contact_name, company_id)
-            contact_lookup[key] = contact.get("contactID")
-
-        # Now process each company's contacts
-        for company_id, contacts in contacts_by_company.items():
-            billing_contact_name = billing_contacts_by_company.get(company_id)
+            contact_id = contact.get("contactID")
             
-            if not billing_contact_name:
-                logger.info(f"ℹ️ Company ID {company_id} has no billing contact, skipping reports_to setup")
+            if first_name and last_name and company_id and contact_id:
+                key = (first_name, last_name, company_id)
+                contact_lookup[key] = contact_id
+
+        # Process each company's contacts
+        for gen_company_id, contacts in contacts_by_company.items():
+            billing_info = billing_contacts_info.get(gen_company_id)
+            
+            if not billing_info:
+                logger.info(f"ℹ️ Generated company ID {gen_company_id} has no billing contact, skipping reports_to setup")
                 continue
             
-            # Get all seeded contacts for this company from OpenCATS
-            # We need the actual OpenCATS company ID
+            # Get actual OpenCATS company ID by matching company name
             from apps.opencats.config.constants import COMPANIES_FILEPATH
             companies_list = load_existing_data(COMPANIES_FILEPATH)
             
-            if company_id <= len(companies_list):
-                company_name = companies_list[company_id - 1].get("name")
+            if gen_company_id > len(companies_list):
+                logger.warning(f"⚠️ Invalid company ID: {gen_company_id}")
+                continue
                 
-                # Get actual OpenCATS company ID
-                seeded_companies = await api.get_all_items("companies")
-                actual_company_id = None
-                for company in seeded_companies:
-                    if company.get("name", "").strip() == company_name:
-                        actual_company_id = company.get("companyID")
-                        break
+            company_name = companies_list[gen_company_id - 1].get("name")
+            
+            # Get actual OpenCATS company ID
+            seeded_companies = await api.get_all_items("companies")
+            actual_company_id = None
+            for company in seeded_companies:
+                if company.get("name", "").strip() == company_name:
+                    actual_company_id = company.get("companyID")
+                    break
+            
+            if not actual_company_id:
+                logger.warning(f"⚠️ Could not find OpenCATS company ID for: {company_name}")
+                continue
+            
+            # Find billing contact's actual OpenCATS ID
+            billing_key = (billing_info["firstName"], billing_info["lastName"], actual_company_id)
+            billing_contact_id = contact_lookup.get(billing_key)
+            
+            if not billing_contact_id:
+                logger.warning(f"⚠️ Could not find billing contact ID for: {billing_info['name']}")
+                continue
+            
+            logger.info(f"ℹ️ Processing company '{company_name}' (ID: {actual_company_id})")
+            logger.info(f"ℹ️ Billing contact: {billing_info['name']} (ID: {billing_contact_id})")
+            
+            # Process each contact in this company
+            for contact in contacts:
+                first_name = contact.get("firstName", "")
+                last_name = contact.get("lastName", "")
+                contact_name = f"{first_name} {last_name}".strip()
+                is_billing = contact.get("isBillingContact", 0)
                 
-                if not actual_company_id:
-                    logger.warning(f"⚠️ Could not find OpenCATS company ID for: {company_name}")
+                # Find this contact's actual OpenCATS ID
+                contact_key = (first_name, last_name, actual_company_id)
+                actual_contact_id = contact_lookup.get(contact_key)
+                
+                if not actual_contact_id:
+                    logger.warning(f"⚠️ Could not find contact ID for: {contact_name}")
                     continue
                 
-                # Find billing contact's actual ID
-                billing_contact_key = (billing_contact_name, actual_company_id)
-                billing_contact_id = contact_lookup.get(billing_contact_key)
-                
-                if not billing_contact_id:
-                    logger.warning(f"⚠️ Could not find billing contact ID for: {billing_contact_name}")
-                    continue
-                
-                logger.info(f"ℹ️ Processing company '{company_name}' (ID: {actual_company_id})")
-                logger.info(f"ℹ️ Billing contact: {billing_contact_name} (ID: {billing_contact_id})")
-                
-                # Process each contact in this company
-                for contact in contacts:
-                    contact_name = f"{contact.get('firstName', '')} {contact.get('lastName', '')}".strip()
-                    is_billing = contact.get("isBillingContact", 0)
+                try:
+                    if is_billing:
+                        # Billing contact should NOT have a reports_to value
+                        logger.info(f"🔄 Ensuring billing contact {contact_name} (ID: {actual_contact_id}) has no reports_to")
+                        update_data = {
+                            "contactID": str(actual_contact_id),
+                            "companyID": str(actual_company_id),
+                            "firstName": first_name,
+                            "lastName": last_name,
+                            "reportsTo": "",  # Explicitly clear/empty
+                            "postback": "postback"
+                        }
+                    else:
+                        # Non-billing contact should report to the billing contact
+                        logger.info(f"🔄 Setting {contact_name} (ID: {actual_contact_id}) to report to {billing_info['name']} (ID: {billing_contact_id})")
+                        update_data = {
+                            "contactID": str(actual_contact_id),
+                            "companyID": str(actual_company_id),
+                            "firstName": first_name,
+                            "lastName": last_name,
+                            "reportsTo": str(billing_contact_id),
+                            "postback": "postback"
+                        }
                     
-                    # Find this contact's actual OpenCATS ID
-                    contact_key = (contact_name, actual_company_id)
-                    actual_contact_id = contact_lookup.get(contact_key)
+                    # Update the contact record using the edit endpoint
+                    update_url = f"/index.php?m=contacts&a=edit&contactID={actual_contact_id}"
+                    result = await api.submit_form(update_url, update_data)
                     
-                    if not actual_contact_id:
-                        logger.warning(f"⚠️ Could not find contact ID for: {contact_name}")
-                        continue
-                    
-                    try:
-                        if is_billing:
-                            # Billing contact should NOT have a reports_to value
-                            logger.info(f"🔄 Clearing reports_to for billing contact: {contact_name} (ID: {actual_contact_id})")
-                            update_data = {
-                                "reportsTo": "",  # Clear reports_to
-                                "postback": "postback"
-                            }
-                        else:
-                            # Non-billing contact should report to the billing contact
-                            logger.info(f"🔄 Setting {contact_name} (ID: {actual_contact_id}) to report to billing contact {billing_contact_name} (ID: {billing_contact_id})")
-                            update_data = {
-                                "reportsTo": str(billing_contact_id),
-                                "postback": "postback"
-                            }
-                        
-                        # Update the contact record
-                        from apps.opencats.config.constants import OpenCATSEndpoint
-                        result = await api.update_item(OpenCATSEndpoint.CONTACTS_ADD, actual_contact_id, update_data)
-                        
-                        if result:
-                            logger.info(f"✅ Updated contact {actual_contact_id} reports_to relationship")
-                            updated_contacts.append({
-                                "contact_id": actual_contact_id,
-                                "contact_name": contact_name,
-                                "company_id": actual_company_id,
-                                "reports_to": billing_contact_id if not is_billing else None,
-                                "is_billing": is_billing,
-                                "status": "success"
-                            })
-                            updated_count += 1
-                        else:
-                            logger.error(f"❌ Failed to update contact {actual_contact_id} reports_to")
-                            error_count += 1
-                    
-                    except Exception as e:
-                        logger.error(f"❌ Error updating contact {contact_name} reports_to: {e!s}")
+                    if result and result.get("status_code") == 200:
+                        logger.info(f"✅ Updated contact {actual_contact_id} reports_to relationship")
+                        updated_contacts.append({
+                            "contact_id": actual_contact_id,
+                            "contact_name": contact_name,
+                            "company_id": actual_company_id,
+                            "reports_to": billing_contact_id if not is_billing else None,
+                            "is_billing": is_billing,
+                            "status": "success"
+                        })
+                        updated_count += 1
+                    else:
+                        logger.error(f"❌ Failed to update contact {actual_contact_id} reports_to")
                         error_count += 1
-                    
-                    # Small delay between requests
-                    await asyncio.sleep(0.3)
+                
+                except Exception as e:
+                    logger.error(f"❌ Error updating contact {contact_name} reports_to: {e!s}")
+                    error_count += 1
+                
+                # Small delay between requests
+                await asyncio.sleep(0.3)
 
     logger.succeed(f"✅ Reports_to relationship setup completed! Updated: {updated_count}, Errors: {error_count}")
     

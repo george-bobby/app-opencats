@@ -159,16 +159,19 @@ async def update_companies_billing_contacts() -> dict[str, Any]:
                     logger.info(f"🔄 Updating company '{company_name}' (ID: {actual_company_id}) with billing contact: {billing_contact_name} (ID: {actual_contact_id})")
                     
                     # Prepare update data for company
+                    # The billing contact field in OpenCATS is typically "billingContact"
                     update_data = {
+                        "companyID": str(actual_company_id),
                         "billingContact": str(actual_contact_id),
                         "postback": "postback"
                     }
 
-                    # Update the company record
-                    result = await api.update_item(OpenCATSEndpoint.COMPANIES_ADD, actual_company_id, update_data)
+                    # Update the company record using the edit endpoint
+                    update_url = f"/index.php?m=companies&a=edit&companyID={actual_company_id}"
+                    result = await api.submit_form(update_url, update_data)
 
-                    if result:
-                        logger.info(f"✅ Updated companies ID {actual_company_id}")
+                    if result and result.get("status_code") == 200:
+                        logger.info(f"✅ Updated company '{company_name}' (ID: {actual_company_id}) with billing contact")
                         updated_companies.append({
                             "company_id": actual_company_id,
                             "company_name": company_name,

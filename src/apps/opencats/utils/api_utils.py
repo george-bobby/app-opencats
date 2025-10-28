@@ -103,6 +103,55 @@ class OpenCATSAPIUtils:
             return None
 
     @retry(stop=stop_after_attempt(3), wait=wait_fixed(2))
+    async def get_request(self, url_path: str) -> dict[str, Any] | None:
+        """Make a GET request to OpenCATS."""
+        try:
+            url = urljoin(self.base_url, url_path)
+
+            async with self.session.get(url, cookies=self.cookies, allow_redirects=True) as response:
+                response_text = await response.text()
+
+                return {"status_code": response.status, "url": str(response.url), "content": response_text}
+
+        except Exception as e:
+            logger.error(f"❌ GET request error: {e!s}")
+            return None
+
+    @retry(stop=stop_after_attempt(3), wait=wait_fixed(2))
+    async def update_pipeline_status(self, candidate_id: int, joborder_id: int, status_id: int) -> bool:
+        """Update the pipeline status for a candidate-job order association."""
+        try:
+            # Use AJAX to update pipeline status
+            # OpenCATS typically uses candidates:updatePipelineStatus or similar
+            ajax_data = {
+                "candidateID": str(candidate_id),
+                "jobOrderID": str(joborder_id),
+                "statusID": str(status_id),
+            }
+
+            result = await self.ajax_request("joborders:updatePipelineStatus", ajax_data)
+
+            if result and result.get("status_code") == 200:
+                return True
+            else:
+                # Try alternative method using form submission
+                url_path = f"/index.php?m=candidates&a=updatePipelineStatus"
+                form_data = {
+                    "candidateID": str(candidate_id),
+                    "jobOrderID": str(joborder_id),
+                    "statusID": str(status_id),
+                    "postback": "postback"
+                }
+                
+                result = await self.submit_form(url_path, form_data)
+                return result is not None and result.get("status_code") == 200
+
+        except Exception as e:
+            logger.error(f"❌ Error updating pipeline status: {e!s}")
+            return False
+
+
+    @retry(stop=stop_after_attempt(3), wait=wait_fixed(2))
     async def get_latest_entity_id(self, module: str, entity_type: str) -> int | None:
         """Get the latest entity ID from a module listing page."""
         try:
@@ -189,40 +238,159 @@ class OpenCATSAPIUtils:
 
     @retry(stop=stop_after_attempt(3), wait=wait_fixed(2))
     async def get_all_items(self, endpoint) -> list[dict[str, Any]]:
-        """Get all items from a specific endpoint using AJAX listing."""
+        """Get all items from a specific endpoint using the listing pages."""
         try:
-            # Map endpoint to AJAX function
-            function_map = {
-                "candidates": "lists:getCandidatesList",
-                "companies": "lists:getCompaniesList", 
-                "contacts": "lists:getContactsList",
-                "joborders": "lists:getJobOrdersList",
+            # Map endpoint to listing URL and ID pattern
+            url_map = {
+                "candidates": "/index.php?m=candidates&a=listByView&view=1",
+                "companies": "/index.php?m=companies",
+                "contacts": "/index.php?m=contacts",
+                "joborders": "/index.php?m=joborders",
             }
             
             # Extract endpoint name from enum
             endpoint_name = endpoint.name.lower() if hasattr(endpoint, 'name') else str(endpoint).lower()
-            function = function_map.get(endpoint_name)
+            url_path = url_map.get(endpoint_name)
             
-            if not function:
-                logger.warning(f"⚠️ No AJAX function mapped for endpoint: {endpoint_name}")
+            if not url_path:
+                logger.warning(f"⚠️ No URL mapped for endpoint: {endpoint_name}")
                 return []
-                
-            # Make AJAX request to get all items
-            result = await self.ajax_request(function, {})
             
-            if result and result.get("status_code") == 200:
-                # Parse response content to extract items
-                content = result.get("content", "")
-                items = self._extract_items_from_listing(content, endpoint_name)
-                logger.info(f"✅ Retrieved {len(items)} {endpoint_name}")
-                return items
-            else:
-                logger.warning(f"⚠️ Failed to retrieve {endpoint_name}: {result}")
-                return []
+            url = urljoin(self.base_url, url_path)
+            
+            # Get the listing page
+            async with self.session.get(url, cookies=self.cookies) as response:
+                if response.status == 200:
+                    content = await response.text()
+                    items = self._extract_items_from_listing(content, endpoint_name)
+                    
+                    # For contacts, we need more details - fetch each one
+                    if endpoint_name == "contacts" and items:
+                        detailed_items = []
+                        for item in items:
+                            contact_id = item.get("contactID")
+                            if contact_id:
+                                detailed_item = await self.get_item_details(endpoint_name, contact_id)
+                                if detailed_item:
+                                    # Merge the companyID from listing with detailed data
+                                    if "companyID" in item:
+                                        detailed_item["companyID"] = item["companyID"]
+                                    detailed_items.append(detailed_item)
+                        items = detailed_items
+                    
+                    logger.info(f"✅ Retrieved {len(items)} {endpoint_name}")
+                    return items
+                else:
+                    logger.warning(f"⚠️ Failed to retrieve {endpoint_name}: status {response.status}")
+                    return []
                 
         except Exception as e:
             logger.error(f"❌ Error retrieving all {endpoint_name}: {e!s}")
             return []
+
+    @retry(stop=stop_after_attempt(3), wait=wait_fixed(2))
+    async def get_item_details(self, endpoint_name: str, item_id: int) -> dict[str, Any] | None:
+        """Get detailed information about a specific item."""
+        try:
+            # Map endpoint to view URL pattern
+            url_map = {
+                "candidates": f"/index.php?m=candidates&a=show&candidateID={item_id}",
+                "companies": f"/index.php?m=companies&a=show&companyID={item_id}",
+                "contacts": f"/index.php?m=contacts&a=show&contactID={item_id}",
+                "joborders": f"/index.php?m=joborders&a=show&jobOrderID={item_id}",
+            }
+            
+            url_path = url_map.get(endpoint_name)
+            
+            if not url_path:
+                logger.warning(f"⚠️ No view URL pattern mapped for endpoint: {endpoint_name}")
+                return None
+                
+            url = urljoin(self.base_url, url_path)
+            
+            async with self.session.get(url, cookies=self.cookies) as response:
+                if response.status == 200:
+                    content = await response.text()
+                    item = self._extract_item_details(content, endpoint_name, item_id)
+                    return item
+                else:
+                    logger.warning(f"⚠️ Failed to get {endpoint_name} ID {item_id}: status {response.status}")
+                    return None
+                    
+        except Exception as e:
+            logger.error(f"❌ Error getting {endpoint_name} ID {item_id}: {e!s}")
+            return None
+
+    def _extract_item_details(self, content: str, endpoint_name: str, item_id: int) -> dict[str, Any] | None:
+        """Extract detailed item information from view page."""
+        try:
+            if endpoint_name == "contacts":
+                # Extract contact details from the view page
+                item = {"contactID": item_id}
+                
+                # Extract first name and last name
+                fname_match = re.search(r'name="firstName"[^>]*value="([^"]*)"', content)
+                lname_match = re.search(r'name="lastName"[^>]*value="([^"]*)"', content)
+                
+                if fname_match:
+                    item["firstName"] = fname_match.group(1)
+                if lname_match:
+                    item["lastName"] = lname_match.group(1)
+                
+                # Extract company ID
+                company_match = re.search(r'companyID[=:](\d+)', content)
+                if company_match:
+                    item["companyID"] = int(company_match.group(1))
+                
+                # Extract reportsTo value
+                reports_match = re.search(r'name="reportsTo"[^>]*value="([^"]*)"', content)
+                if reports_match and reports_match.group(1):
+                    item["reportsTo"] = int(reports_match.group(1))
+                    
+                return item
+                
+            elif endpoint_name == "companies":
+                item = {"companyID": item_id}
+                
+                # Extract company name
+                name_match = re.search(r'name="name"[^>]*value="([^"]*)"', content)
+                if name_match:
+                    item["name"] = name_match.group(1)
+                
+                # Extract billing contact
+                billing_match = re.search(r'name="billingContact"[^>]*value="([^"]*)"', content)
+                if billing_match and billing_match.group(1):
+                    item["billingContact"] = int(billing_match.group(1))
+                    
+                return item
+                
+            elif endpoint_name == "candidates":
+                item = {"candidateID": item_id}
+                
+                fname_match = re.search(r'name="firstName"[^>]*value="([^"]*)"', content)
+                lname_match = re.search(r'name="lastName"[^>]*value="([^"]*)"', content)
+                
+                if fname_match:
+                    item["firstName"] = fname_match.group(1)
+                if lname_match:
+                    item["lastName"] = lname_match.group(1)
+                    
+                return item
+                
+            elif endpoint_name == "joborders":
+                item = {"jobOrderID": item_id}
+                
+                title_match = re.search(r'name="title"[^>]*value="([^"]*)"', content)
+                if title_match:
+                    item["title"] = title_match.group(1)
+                    
+                return item
+                
+        except Exception as e:
+            logger.error(f"❌ Error extracting {endpoint_name} details: {e!s}")
+            
+        return None
+
 
     @retry(stop=stop_after_attempt(3), wait=wait_fixed(2))
     async def get_item(self, endpoint, item_id: int) -> dict[str, Any] | None:
@@ -348,58 +516,76 @@ class OpenCATSAPIUtils:
         """Extract items from listing page HTML content."""
         items = []
         try:
-            # This is a simplified parser - in a real implementation,
-            # you'd want to use a proper HTML parser like BeautifulSoup
-            # For now, we'll extract basic info using regex
+            # Parse HTML to extract items based on ID patterns in links
+            # Look for various ID patterns in hrefs and extract surrounding data
             
             if endpoint_name == "candidates":
-                # Look for candidate table rows with IDs
-                pattern = r'candidateID=(\d+).*?>(.*?)<'
-                matches = re.findall(pattern, content, re.DOTALL)
-                for candidate_id, name_html in matches:
-                    # Extract name from HTML (simplified)
-                    name_match = re.search(r'>([^<]+)</a>', name_html)
-                    if name_match:
-                        names = name_match.group(1).split()
+                # Pattern: candidateID=XXX
+                # Look for all links with candidateID parameter
+                pattern = r'candidateID=(\d+)'
+                id_matches = re.findall(pattern, content)
+                
+                # Remove duplicates and create basic items
+                seen_ids = set()
+                for candidate_id in id_matches:
+                    if candidate_id not in seen_ids:
+                        seen_ids.add(candidate_id)
                         items.append({
-                            "candidateID": int(candidate_id),
-                            "firstName": names[0] if names else "",
-                            "lastName": " ".join(names[1:]) if len(names) > 1 else ""
+                            "candidateID": int(candidate_id)
                         })
                         
             elif endpoint_name == "companies":
-                pattern = r'companyID=(\d+).*?>(.*?)<'
-                matches = re.findall(pattern, content, re.DOTALL)
-                for company_id, name_html in matches:
-                    name_match = re.search(r'>([^<]+)</a>', name_html)
-                    if name_match:
+                # Pattern: companyID=XXX
+                pattern = r'companyID=(\d+)'
+                id_matches = re.findall(pattern, content)
+                
+                seen_ids = set()
+                for company_id in id_matches:
+                    if company_id not in seen_ids:
+                        seen_ids.add(company_id)
                         items.append({
-                            "companyID": int(company_id),
-                            "name": name_match.group(1).strip()
+                            "companyID": int(company_id)
                         })
                         
             elif endpoint_name == "contacts":
-                pattern = r'contactID=(\d+).*?>(.*?)<'
-                matches = re.findall(pattern, content, re.DOTALL)
-                for contact_id, name_html in matches:
-                    name_match = re.search(r'>([^<]+)</a>', name_html)
-                    if name_match:
-                        names = name_match.group(1).split()
+                # Pattern: contactID=XXX  
+                # Also extract companyID for contacts to properly map relationships
+                # Look for patterns like: contactID=X&...&companyID=Y
+                pattern = r'contactID=(\d+)[^"]*?companyID=(\d+)'
+                matches = re.findall(pattern, content)
+                
+                seen_ids = set()
+                for contact_id, company_id in matches:
+                    if contact_id not in seen_ids:
+                        seen_ids.add(contact_id)
                         items.append({
                             "contactID": int(contact_id),
-                            "firstName": names[0] if names else "",
-                            "lastName": " ".join(names[1:]) if len(names) > 1 else ""
+                            "companyID": int(company_id)
                         })
+                
+                # Also try simpler pattern if the above doesn't work
+                if not items:
+                    simple_pattern = r'contactID=(\d+)'
+                    id_matches = re.findall(simple_pattern, content)
+                    seen_ids = set()
+                    for contact_id in id_matches:
+                        if contact_id not in seen_ids:
+                            seen_ids.add(contact_id)
+                            items.append({
+                                "contactID": int(contact_id)
+                            })
                         
             elif endpoint_name == "joborders":
-                pattern = r'jobOrderID=(\d+).*?>(.*?)<'
-                matches = re.findall(pattern, content, re.DOTALL)
-                for job_id, title_html in matches:
-                    title_match = re.search(r'>([^<]+)</a>', title_html)
-                    if title_match:
+                # Pattern: jobOrderID=XXX
+                pattern = r'jobOrderID=(\d+)'
+                id_matches = re.findall(pattern, content)
+                
+                seen_ids = set()
+                for job_id in id_matches:
+                    if job_id not in seen_ids:
+                        seen_ids.add(job_id)
                         items.append({
-                            "jobOrderID": int(job_id),
-                            "title": title_match.group(1).strip()
+                            "jobOrderID": int(job_id)
                         })
                         
         except Exception as e:
