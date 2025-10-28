@@ -527,6 +527,182 @@ Endpoints are GET and produce graphs or PDFs; useful to verify seeded data.
 
 ---
 
+## Advanced Seeding Features
+
+### Candidate-Job Order Junction Table Seeding
+
+The `candidate_joborder` table creates many-to-many relationships between candidates and job orders, representing the hiring pipeline.
+
+#### Implementation
+
+**Module**: `src/apps/opencats/core/candidate_joborder.py`
+
+**Function**: `seed_candidate_joborder()`
+
+**Process**:
+1. Retrieves all seeded candidates and job orders from OpenCATS
+2. For each job order, randomly selects 1-8 candidates
+3. Assigns realistic pipeline status to each association
+4. Uses AJAX endpoint `candidates:addToPipeline` to create associations
+
+**Status Distribution** (weighted for realism):
+- 5% - No Contact (100)
+- 15% - Contacted (200)
+- 20% - Submitted (300)
+- 25% - Applied (400)
+- 20% - Interviewing (500)
+- 5% - Offer Extended (600)
+- 3% - Offer Accepted (700)
+- 3% - Offer Declined (800)
+- 2% - Placed (900)
+- 2% - Rejected (1000)
+
+**API Endpoint**: 
+- AJAX: `POST /ajax.php?f=candidates:addToPipeline`
+- Parameters: `candidateID`, `jobOrderID`, `status`
+
+### Billing Contact Assignment
+
+Companies can designate one contact as their billing contact, stored in `company.billing_contact`.
+
+#### Implementation
+
+**Module**: `src/apps/opencats/core/companies.py`
+
+**Function**: `update_companies_billing_contacts()`
+
+**Process**:
+1. Identifies billing contacts from generated data (`isBillingContact` flag)
+2. Retrieves actual OpenCATS company and contact IDs
+3. Matches contacts to companies by name and company association
+4. Updates company records with proper billing contact ID
+
+**Database Field**: `company.billing_contact` (INT, references `contact.contact_id`)
+
+**API Endpoint**: 
+- POST: `/index.php?m=companies&a=edit&companyID={id}`
+- Parameter: `billingContact` (contact ID)
+
+**Key Fix**: Previously used incorrect IDs from generated data; now properly retrieves and maps actual OpenCATS entity IDs.
+
+### Contact Reporting Hierarchy
+
+Contacts have a hierarchical reporting structure where non-billing contacts report to the billing contact.
+
+#### Implementation
+
+**Module**: `src/apps/opencats/core/contacts.py`
+
+**Function**: `update_contacts_reports_to()`
+
+**Business Rules**:
+- Billing contacts have `reports_to = NULL` (top of hierarchy)
+- Other contacts at the same company have `reports_to = billing_contact_id`
+- Each company can have only one billing contact
+- Non-billing contacts automatically report to the billing contact
+
+**Process**:
+1. Groups contacts by company
+2. Identifies billing contacts per company
+3. Retrieves actual OpenCATS contact and company IDs
+4. For billing contacts: clears `reports_to` field
+5. For other contacts: sets `reports_to` to billing contact's ID
+
+**Database Field**: `contact.reports_to` (INT, references `contact.contact_id`, default -1)
+
+**API Endpoint**: 
+- POST: `/index.php?m=contacts&a=edit&contactID={id}`
+- Parameter: `reportsTo` (contact ID or empty string)
+
+**Seeding Sequence**: 
+1. Seed all contacts without `reports_to` relationships
+2. Run `update_contacts_reports_to()` to establish hierarchy
+3. Run `update_companies_billing_contacts()` to link companies to billing contacts
+
+### Seeding Order (Updated)
+
+The complete seeding sequence with relationship management:
+
+1. **Companies** - Base entities
+2. **Contacts** - Linked to companies (without reports_to initially)
+3. **Update Contacts Reports To** - Establish contact hierarchy
+4. **Update Companies Billing Contacts** - Link companies to billing contacts
+5. **Candidates** - Independent entities
+6. **Job Orders** - Linked to companies and contacts
+7. **Candidate-Job Order Associations** - Junction table relationships
+8. **Events** - Can reference any entity
+9. **Lists** - Can contain any entity type
+
+### API Routes for Relationships
+
+#### Add Candidate to Job Order Pipeline
+```
+POST /ajax.php
+f=candidates:addToPipeline
+candidateID={candidate_id}
+jobOrderID={joborder_id}
+status={pipeline_status_id}
+```
+
+#### Update Company Billing Contact
+```
+POST /index.php?m=companies&a=edit&companyID={company_id}
+postback=postback
+billingContact={contact_id}
+```
+
+#### Update Contact Reporting Relationship
+```
+POST /index.php?m=contacts&a=edit&contactID={contact_id}
+postback=postback
+reportsTo={manager_contact_id}
+```
+
+### Database Schema Reference
+
+#### candidate_joborder Table
+```sql
+CREATE TABLE `candidate_joborder` (
+  `candidate_joborder_id` INT AUTO_INCREMENT PRIMARY KEY,
+  `candidate_id` INT NOT NULL,
+  `joborder_id` INT NOT NULL,
+  `site_id` INT NOT NULL,
+  `status` INT NOT NULL DEFAULT 0,
+  `date_submitted` DATETIME,
+  `date_created` DATETIME,
+  `date_modified` DATETIME,
+  `rating_value` INT(5),
+  `added_by` INT,
+  KEY `IDX_candidate_id` (`candidate_id`),
+  KEY `IDX_joborder_id` (`joborder_id`),
+  KEY `IDX_status_special` (`site_id`, `status`)
+);
+```
+
+#### company Table (relevant fields)
+```sql
+CREATE TABLE `company` (
+  `company_id` INT AUTO_INCREMENT PRIMARY KEY,
+  `billing_contact` INT DEFAULT NULL,  -- References contact.contact_id
+  `name` VARCHAR(64) NOT NULL,
+  -- other fields...
+);
+```
+
+#### contact Table (relevant fields)
+```sql
+CREATE TABLE `contact` (
+  `contact_id` INT AUTO_INCREMENT PRIMARY KEY,
+  `company_id` INT NOT NULL,
+  `reports_to` INT DEFAULT -1,  -- References contact.contact_id
+  `first_name` VARCHAR(64) NOT NULL,
+  `last_name` VARCHAR(64) NOT NULL,
+  -- other fields...
+);
+```
+
+---
+
 ## Quick Seeding Checklist Per Entity
 
 - **Companies**: `name`, optional contact details. Capture `companyID` for linking.

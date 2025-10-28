@@ -79,61 +79,122 @@ async def update_companies_billing_contacts() -> dict[str, Any]:
         logger.warning("⚠️ No contacts data found. Cannot assign billing contacts.")
         return {"updated_companies": 0, "errors": 0}
 
-    # Group contacts by company and find billing contacts
-    company_billing_contacts = {}
+    # Find which contacts should be billing contacts (from generated data)
+    billing_contact_names_by_company = {}
     for contact in contacts_data:
         company_id = contact.get("companyID")
         is_billing = contact.get("isBillingContact", 0)
         
         if company_id and is_billing:
-            # This contact is marked as billing contact for their company
-            company_billing_contacts[company_id] = contact
+            # Store the name to match against actual seeded contacts
+            contact_name = f"{contact.get('firstName', '')} {contact.get('lastName', '')}".strip()
+            billing_contact_names_by_company[company_id] = contact_name
 
-    if not company_billing_contacts:
+    if not billing_contact_names_by_company:
         logger.warning("⚠️ No billing contacts found in contacts data.")
         return {"updated_companies": 0, "errors": 0}
 
-    logger.info(f"📊 Found {len(company_billing_contacts)} companies with billing contacts")
+    logger.info(f"📊 Found {len(billing_contact_names_by_company)} companies with billing contacts")
 
     updated_count = 0
     error_count = 0
     updated_companies = []
 
     async with OpenCATSAPIUtils() as api:
-        for company_id, billing_contact in company_billing_contacts.items():
-            contact_name = f"{billing_contact.get('firstName', '')} {billing_contact.get('lastName', '')}".strip()
-            logger.info(f"🔄 Updating company {company_id} with billing contact: {contact_name}")
+        # Get all seeded companies from OpenCATS to get their actual IDs
+        logger.info("📊 Fetching seeded companies from OpenCATS...")
+        seeded_companies = await api.get_all_items("companies")
+        
+        # Get all seeded contacts from OpenCATS to get their actual IDs
+        logger.info("📊 Fetching seeded contacts from OpenCATS...")
+        seeded_contacts = await api.get_all_items("contacts")
+        
+        if not seeded_companies or not seeded_contacts:
+            logger.error("❌ Could not retrieve companies or contacts from OpenCATS")
+            return {"updated_companies": 0, "errors": 1}
 
+        # Create a mapping of company names to actual OpenCATS company IDs
+        company_name_to_id = {}
+        for company in seeded_companies:
+            company_name_to_id[company.get("name", "").strip()] = company.get("companyID")
+
+        # Create a mapping of contact names to actual OpenCATS contact IDs and their company IDs
+        contact_info = []
+        for contact in seeded_contacts:
+            contact_name = f"{contact.get('firstName', '')} {contact.get('lastName', '')}".strip()
+            contact_info.append({
+                "name": contact_name,
+                "contactID": contact.get("contactID"),
+                "companyID": contact.get("companyID"),
+            })
+
+        # Now update companies with their billing contacts
+        for gen_company_id, billing_contact_name in billing_contact_names_by_company.items():
             try:
-                # We need to get the actual OpenCATS contact ID that was assigned during seeding
-                # For now, we'll use a placeholder approach since we'd need to track the actual IDs
-                # In a real implementation, you'd store the mapping during the contacts seeding
-                
-                # For now, we'll use the contact's ID from our generated data
-                # In a real implementation, you'd need to track the actual OpenCATS contact IDs
-                contact_id = billing_contact.get("contactID", company_id)
-                
-                # Prepare update data for company
-                update_data = {
-                    "billingContact": contact_id,  # Use the contact ID, not company ID
-                    "postback": "postback"
-                }
+                # Find the actual company and contact from OpenCATS
+                # We need to match by company index (gen_company_id) to the actual company name
+                # The gen_company_id is 1-based index in the companies array
+                companies_list = load_existing_data(COMPANIES_FILEPATH)
+                if gen_company_id <= len(companies_list):
+                    company_name = companies_list[gen_company_id - 1].get("name")
+                    actual_company_id = company_name_to_id.get(company_name)
+                    
+                    if not actual_company_id:
+                        logger.warning(f"⚠️ Could not find OpenCATS company ID for: {company_name}")
+                        error_count += 1
+                        continue
+                    
+                    # Find the contact with matching name and company
+                    actual_contact_id = None
+                    for contact_data in contact_info:
+                        if contact_data["name"] == billing_contact_name and contact_data["companyID"] == actual_company_id:
+                            actual_contact_id = contact_data["contactID"]
+                            break
+                    
+                    if not actual_contact_id:
+                        logger.warning(f"⚠️ Could not find OpenCATS contact ID for: {billing_contact_name} at company {company_name}")
+                        error_count += 1
+                        continue
+                    
+                    logger.info(f"🔄 Updating company '{company_name}' (ID: {actual_company_id}) with billing contact: {billing_contact_name} (ID: {actual_contact_id})")
+                    
+                    # Prepare update data for company
+                    update_data = {
+                        "billingContact": str(actual_contact_id),
+                        "postback": "postback"
+                    }
 
-                # Update the company record
-                result = await api.update_item(OpenCATSEndpoint.COMPANIES_ADD, company_id, update_data)
+                    # Update the company record
+                    result = await api.update_item(OpenCATSEndpoint.COMPANIES_ADD, actual_company_id, update_data)
 
-                if result:
-                    logger.info(f"✅ Company {company_id} billing contact updated successfully")
-                    updated_companies.append({"company_id": company_id, "billing_contact": contact_name, "status": "success"})
-                    updated_count += 1
-                else:
-                    logger.error(f"❌ Failed to update company {company_id} billing contact")
-                    updated_companies.append({"company_id": company_id, "billing_contact": contact_name, "status": "failed"})
-                    error_count += 1
+                    if result:
+                        logger.info(f"✅ Updated companies ID {actual_company_id}")
+                        updated_companies.append({
+                            "company_id": actual_company_id,
+                            "company_name": company_name,
+                            "billing_contact": billing_contact_name,
+                            "billing_contact_id": actual_contact_id,
+                            "status": "success"
+                        })
+                        updated_count += 1
+                    else:
+                        logger.error(f"❌ Failed to update company {actual_company_id} billing contact")
+                        updated_companies.append({
+                            "company_id": actual_company_id,
+                            "company_name": company_name,
+                            "billing_contact": billing_contact_name,
+                            "status": "failed"
+                        })
+                        error_count += 1
 
             except Exception as e:
-                logger.error(f"❌ Error updating company {company_id} billing contact: {e!s}")
-                updated_companies.append({"company_id": company_id, "billing_contact": contact_name, "status": "error", "error": str(e)})
+                logger.error(f"❌ Error updating billing contact for company: {e!s}")
+                updated_companies.append({
+                    "company_id": gen_company_id,
+                    "billing_contact": billing_contact_name,
+                    "status": "error",
+                    "error": str(e)
+                })
                 error_count += 1
 
             # Small delay between requests

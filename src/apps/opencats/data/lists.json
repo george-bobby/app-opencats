@@ -3,54 +3,53 @@
         "description": "Senior Cloud Architects",
         "dataItemType": 100,
         "itemIds": [
-            2,
-            5,
-            8,
+            3,
+            7,
             11,
-            13
+            14
         ]
     },
     {
         "description": "Key Technical Decision Makers",
         "dataItemType": 300,
         "itemIds": [
-            1,
-            4,
-            7,
+            2,
+            5,
+            8,
             12,
             15,
             18
         ]
     },
     {
-        "description": "Machine Learning Specialists",
+        "description": "Security Specialists",
         "dataItemType": 100,
         "itemIds": [
-            3,
+            4,
             6,
             9,
-            14
+            13
         ]
     },
     {
-        "description": "West Coast Client Contacts",
+        "description": "West Coast Account Contacts",
         "dataItemType": 300,
         "itemIds": [
-            2,
-            5,
-            8,
+            1,
+            3,
+            7,
             11,
             16,
             19
         ]
     },
     {
-        "description": "Security Engineers",
+        "description": "Contract-to-Hire Candidates",
         "dataItemType": 100,
         "itemIds": [
-            1,
-            4,
-            7,
+            2,
+            5,
+            8,
             10,
             12,
             15

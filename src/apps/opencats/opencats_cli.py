@@ -14,12 +14,13 @@ from apps.opencats.config.constants import (
     DEFAULT_JOBORDERS_COUNT,
     DEFAULT_LISTS_COUNT,
 )
+from apps.opencats.core.candidate_joborder import seed_candidate_joborder
 from apps.opencats.core.candidates import seed_candidates
 from apps.opencats.core.companies import seed_companies, update_companies_billing_contacts
-from apps.opencats.core.contacts import seed_contacts
+from apps.opencats.core.contacts import seed_contacts, update_contacts_reports_to
 from apps.opencats.core.database import clear_seeded_data
 from apps.opencats.core.events import seed_events
-from apps.opencats.core.joborders import create_candidate_job_associations, seed_joborders
+from apps.opencats.core.joborders import seed_joborders
 from apps.opencats.core.lists import seed_lists
 from apps.opencats.generate.generate_candidates import candidates
 from apps.opencats.generate.generate_companies import companies
@@ -90,14 +91,17 @@ def seed():
         await seed_companies()
         await seed_contacts()
         
+        # Update contacts with reports_to relationships
+        await update_contacts_reports_to()
+        
         # Update companies with billing contact assignments
         await update_companies_billing_contacts()
         
         await seed_candidates()
         await seed_joborders()
         
-        # Create candidate-job associations
-        await create_candidate_job_associations()
+        # Create candidate-job order associations (junction table)
+        await seed_candidate_joborder()
         
         await seed_events()
         await seed_lists()
